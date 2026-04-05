@@ -1,0 +1,453 @@
+{
+  "id": "estudio-1386-estudio-1386c",
+  "slug": "estudio-1386-estudio-1386c",
+  "numero_estudio": 1386,
+  "tipo_estudio": "Iglesia en las casas",
+  "ministerio": {
+    "iglesia": "Iglesia Cristiana Mega Zoe",
+    "pastora": "Pastora Edith Cruz",
+    "credito_corto": "Iglesia Cristiana Mega Zoe · Pastora Edith Cruz",
+    "credito_largo": "Contenido original de Iglesia Cristiana Mega Zoe, conservando el crédito ministerial correspondiente a la Pastora Edith Cruz."
+  },
+  "identidad_editorial": {
+    "idioma": "es",
+    "fuente_original": "documento_word",
+    "archivo_origen": "/Users/edwingadiel/Desktop/Estudios en Word/Estudio #1386 Ir a El - Proverbios 16 1-9.docx",
+    "estado_revision": "procesado",
+    "version_schema": "1.0"
+  },
+  "encabezado": {
+    "titulo": "Justo es Jehová",
+    "subtitulo": null,
+    "cita_principal": "2 Crónicas 12:1-11",
+    "resumen_corto": "Justo es Jehová enseña a servir fielmente al Señor y volver a Él con arrepentimiento."
+  },
+  "fechas": {
+    "fecha_inicio": null,
+    "fecha_fin": null,
+    "fecha_texto_original": "",
+    "ano": null
+  },
+  "clasificacion_biblica": {
+    "libro_principal": "2 Crónicas",
+    "capitulo_principal": 12,
+    "versiculos_principales": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "referencia_principal_normalizada": "2 Crónicas 12:1-11",
+    "testamento_principal": "Antiguo Testamento"
+  },
+  "clasificacion_tematica": {
+    "topicos": [
+      "Servicio cristiano",
+      "Reino de Dios",
+      "Arrepentimiento"
+    ],
+    "keywords": [
+      "juicio",
+      "arrepentimiento",
+      "perseverancia",
+      "libertad",
+      "filisteos"
+    ]
+  },
+  "referencias_biblicas": [
+    {
+      "referencia": "2 Crónicas 12:1-11",
+      "referencia_normalizada": "2 Crónicas 12:1-11",
+      "libro": "2 Crónicas",
+      "capitulo": 12,
+      "versiculos": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "tipo": "principal",
+      "clickeable": true
+    },
+    {
+      "referencia": "Proverbios 16:1-9",
+      "referencia_normalizada": "Proverbios 16:1-9",
+      "libro": "Proverbios",
+      "capitulo": 16,
+      "versiculos": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Números 22:38",
+      "referencia_normalizada": "Números 22:38",
+      "libro": "Números",
+      "capitulo": 22,
+      "versiculos": [
+        38
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Números 23:7-10",
+      "referencia_normalizada": "Números 23:7-10",
+      "libro": "Números",
+      "capitulo": 23,
+      "versiculos": [
+        7,
+        8,
+        9,
+        10
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Mateo 10:19",
+      "referencia_normalizada": "Mateo 10:19",
+      "libro": "Mateo",
+      "capitulo": 10,
+      "versiculos": [
+        19
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Proverbios 16:2",
+      "referencia_normalizada": "Proverbios 16:2",
+      "libro": "Proverbios",
+      "capitulo": 16,
+      "versiculos": [
+        2
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Salmos 19:12",
+      "referencia_normalizada": "Salmos 19:12",
+      "libro": "Salmos",
+      "capitulo": 19,
+      "versiculos": [
+        12
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Proverbios 16:3",
+      "referencia_normalizada": "Proverbios 16:3",
+      "libro": "Proverbios",
+      "capitulo": 16,
+      "versiculos": [
+        3
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Proverbios 16:4",
+      "referencia_normalizada": "Proverbios 16:4",
+      "libro": "Proverbios",
+      "capitulo": 16,
+      "versiculos": [
+        4
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Proverbios 16:5",
+      "referencia_normalizada": "Proverbios 16:5",
+      "libro": "Proverbios",
+      "capitulo": 16,
+      "versiculos": [
+        5
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Proverbios 16:6",
+      "referencia_normalizada": "Proverbios 16:6",
+      "libro": "Proverbios",
+      "capitulo": 16,
+      "versiculos": [
+        6
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Proverbios 16:7",
+      "referencia_normalizada": "Proverbios 16:7",
+      "libro": "Proverbios",
+      "capitulo": 16,
+      "versiculos": [
+        7
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Proverbios 16:8",
+      "referencia_normalizada": "Proverbios 16:8",
+      "libro": "Proverbios",
+      "capitulo": 16,
+      "versiculos": [
+        8
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Proverbios 16: 9",
+      "referencia_normalizada": "Proverbios 16:9",
+      "libro": "Proverbios",
+      "capitulo": 16,
+      "versiculos": [
+        9
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    }
+  ],
+  "contenido": {
+    "introduccion": null,
+    "secciones": [],
+    "contenido_completo": "Este proverbio viene a ser una versión de nuestro refrán castellano: El hombre propone, y Dios dispone. Las disposiciones (planes) del corazón y la mente son del hombre en sentido de que Dios te ha dotado de entendimiento, con el que puedes conectar ideas y sacar planes y conclusiones \"para gobernarse en la vida, pero, como dice Cohen, \"la habilidad de expresar las ideas en palabras apropiadas (adecuada, conveniente) y convincentes es un don de Dios\".\n\nEl hombre puede planear sus pensamientos por adelantado, pero el Señor es soberano y Él gobierna por encima de todas las palabras de los hombres para el cumplimiento de \"Sus propósitos\".\n\n(Números 22:38; Números 23:7-10) Balaam, por ejemplo, quería maldecir al pueblo de Israel, pero las palabras salieron como bendición.\n\n(Mateo 10:19) También puede significar que, aunque el pueblo de Dios cuando es perseguido piense en lo que va a decir en su juicio; Dios a Su mero momento dé las palabras adecuadas, necesarias.\n\n(Proverbios 16:2) \"Los caminos\" del hombre son sus acciones externas; al juzgarse a sí mismo se declara limpio.\n\n\"Pero Dios ve los motivos y las intenciones del corazón.\"\n\n(Salmos 19:12) ¿Quién podrá entender sus propios errores?\n\nLíbrame de los que me son ocultos.\n\n(Proverbios 16:3) La mejor manera de asegurarnos que nuestros sueños y metas se realizaran es dedicando nuestras \"obras\" al Señor.\n\nDios no hará obras a través de corazones ansiosos.\n\nCuando estés ansioso, deberías detenerte inmediatamente y preguntarte: ¿de quién es esta obra?\n\nSi la obra es de Dios, entonces no olvidemos que la carga es Suya también.\n\nLa persona importante no eres tú, ¡es Cristo!\n\nÉl está obrando por medio de nosotros.\n\nEntonces, ¿qué deberíamos hacer cuando las cosas no van bien?\n\n¡Ir a Él!\n\nVamos que eso es desobedecer.\n\nPodemos hacer nuestra esta oración: \"Dame ojos para ver a Dios en todo, \"manos para servirle en todo, \"y un corazón para bendecirle por todo\". ¡Aleluya!\n\n(Proverbios 16:4) Lo que el proverbio significa es que Dios tiene un fin, objeto, o propósito para cada cosa.\n\nHay un resultado para cada causa, una \"recompensa\" o \"castigo\" para cada acción (acto, hecho, actuación).\n\nÉl ha decretado un \"día\" malo o de tribulación para el que no teme en sus actos, del mismo modo que ha preparado el cielo para aquellos que le aman.\n\nTodo lo que el Señor ha hecho tiene su destino; y el destino de los impíos es destrucción.\n\n(Proverbios 16:5) La altivez humana es abominación (rechazo y condena, aborrecimiento, desagradable, maldiciones y reprobar, malas, dañinas) a Dios.\n\nCiertamente enfatiza lo cierto que es el castigo de los altivos (altanero, arrogante, despreciativo).\n\n(Proverbios 16:6) La misericordia y la verdad solo pueden decirse que corrijan \"el pecado\" en el sentido de que son señales de la fe que salva.\n\nConfiando en Jehová, los hombres se apartan (escapan) de la desdicha y calamidad.\n\n(Proverbios 16:7) La vida justa desarma al enemigo.\n\nLa bondad tiene el poder de encantar y ganar incluso a los enemigos.\n\n(Proverbios 16:8) Es \"mejor\" tener un sueldo modesto pero ganado honestamente, que tener \"muchedumbre de frutos sin derecho\" o con fraude.\n\n(Proverbios 16: 9) Cuando se nos recordaba en el versículo 1, el hombre planea su carrera con mucha antelación (anticipación, adelantado), \"pero es el Señor solo quien determina si esos planes llegarán a realizarse.\"\n\nSaulo de Tarso planeaba perseguir a los santos de Damasco, ¡pero acabó siendo uno de ellos! Amén.",
+    "contenido_renderizado": [
+      {
+        "tipo": "parrafo",
+        "texto": "Este proverbio viene a ser una versión de nuestro refrán castellano: El hombre propone, y Dios dispone. Las disposiciones (planes) del corazón y la mente son del hombre en sentido de que Dios te ha dotado de entendimiento, con el que puedes conectar ideas y sacar planes y conclusiones \"para gobernarse en la vida, pero, como dice Cohen, \"la habilidad de expresar las ideas en palabras apropiadas (adecuada, conveniente) y convincentes es un don de Dios\".",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "El hombre puede planear sus pensamientos por adelantado, pero el Señor es soberano y Él gobierna por encima de todas las palabras de los hombres para el cumplimiento de \"Sus propósitos\".",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Números 22:38; Números 23:7-10) Balaam, por ejemplo, quería maldecir al pueblo de Israel, pero las palabras salieron como bendición.",
+        "referencias_inline": [
+          "Números 22:38",
+          "Números 23:7-10"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Mateo 10:19) También puede significar que, aunque el pueblo de Dios cuando es perseguido piense en lo que va a decir en su juicio; Dios a Su mero momento dé las palabras adecuadas, necesarias.",
+        "referencias_inline": [
+          "Mateo 10:19"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Proverbios 16:2) \"Los caminos\" del hombre son sus acciones externas; al juzgarse a sí mismo se declara limpio.",
+        "referencias_inline": [
+          "Proverbios 16:2"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "\"Pero Dios ve los motivos y las intenciones del corazón.\"",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Salmos 19:12) ¿Quién podrá entender sus propios errores?",
+        "referencias_inline": [
+          "Salmos 19:12"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Líbrame de los que me son ocultos.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Proverbios 16:3) La mejor manera de asegurarnos que nuestros sueños y metas se realizaran es dedicando nuestras \"obras\" al Señor.",
+        "referencias_inline": [
+          "Proverbios 16:3"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Dios no hará obras a través de corazones ansiosos.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Cuando estés ansioso, deberías detenerte inmediatamente y preguntarte: ¿de quién es esta obra?",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Si la obra es de Dios, entonces no olvidemos que la carga es Suya también.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "La persona importante no eres tú, ¡es Cristo!",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Él está obrando por medio de nosotros.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Entonces, ¿qué deberíamos hacer cuando las cosas no van bien?",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "¡Ir a Él!",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Vamos que eso es desobedecer.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Podemos hacer nuestra esta oración: \"Dame ojos para ver a Dios en todo, \"manos para servirle en todo, \"y un corazón para bendecirle por todo\". ¡Aleluya!",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Proverbios 16:4) Lo que el proverbio significa es que Dios tiene un fin, objeto, o propósito para cada cosa.",
+        "referencias_inline": [
+          "Proverbios 16:4"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Hay un resultado para cada causa, una \"recompensa\" o \"castigo\" para cada acción (acto, hecho, actuación).",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Él ha decretado un \"día\" malo o de tribulación para el que no teme en sus actos, del mismo modo que ha preparado el cielo para aquellos que le aman.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Todo lo que el Señor ha hecho tiene su destino; y el destino de los impíos es destrucción.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Proverbios 16:5) La altivez humana es abominación (rechazo y condena, aborrecimiento, desagradable, maldiciones y reprobar, malas, dañinas) a Dios.",
+        "referencias_inline": [
+          "Proverbios 16:5"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Ciertamente enfatiza lo cierto que es el castigo de los altivos (altanero, arrogante, despreciativo).",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Proverbios 16:6) La misericordia y la verdad solo pueden decirse que corrijan \"el pecado\" en el sentido de que son señales de la fe que salva.",
+        "referencias_inline": [
+          "Proverbios 16:6"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Confiando en Jehová, los hombres se apartan (escapan) de la desdicha y calamidad.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Proverbios 16:7) La vida justa desarma al enemigo.",
+        "referencias_inline": [
+          "Proverbios 16:7"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "La bondad tiene el poder de encantar y ganar incluso a los enemigos.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Proverbios 16:8) Es \"mejor\" tener un sueldo modesto pero ganado honestamente, que tener \"muchedumbre de frutos sin derecho\" o con fraude.",
+        "referencias_inline": [
+          "Proverbios 16:8"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Proverbios 16: 9) Cuando se nos recordaba en el versículo 1, el hombre planea su carrera con mucha antelación (anticipación, adelantado), \"pero es el Señor solo quien determina si esos planes llegarán a realizarse.\"",
+        "referencias_inline": [
+          "Proverbios 16:9"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Saulo de Tarso planeaba perseguir a los santos de Damasco, ¡pero acabó siendo uno de ellos! Amén.",
+        "referencias_inline": []
+      }
+    ]
+  },
+  "busqueda": {
+    "texto_indexable": "estudio 1386c 2 cronicas 12 1 11 servicio cristiano reino de Dios arrepentimiento juicio arrepentimiento perseverancia libertad filisteos este proverbio viene a ser una version de nuestro refran castellano el hombre propone y Dios dispone las disposiciones planes del corazon y la mente son del hombre en sentido de que Dios te ha dotado de entendimiento con el que puedes conectar ideas y sacar planes y conclusiones para gobernarse en la vida pero como dice cohen la habilidad de expresar las ideas en palabras apropiadas adecuada conveniente y convincentes es un don de Dios el hombre puede planear sus pensamientos por adelantado pero el senor es soberano y el gobierna por encima de todas las palabras de los hombres para el cumplimiento de sus propositos numeros 22 38 numeros 23 7 10 balaam por ejemplo queria maldecir al pueblo de israel pero las palabras salieron como bendicion mateo 10 19 tambien puede significar que aunque el pueblo de Dios cuando es perseguido piense en lo que va a decir en su juicio Dios a su mero momento de las palabras adecuadas necesarias proverbios 16 2 los caminos del hombre son sus acciones externas al juzgarse a si mismo se declara limpio pero Dios ve los motivos y las intenciones del corazon salmo 19 12 quien podra entender sus propios errores librame de los que me son ocultos proverbios 16 3 la mejor manera de asegurarnos que nuestros suenos y metas se realizaran es dedicando nuestras obras al senor Dios no hara obras a traves de corazones ansiosos cuando estes ansioso deberias detenerte inmediatamente y preguntarte de quien es esta obra si la obra es de Dios entonces no olvidemos que la carga es suya tambien la persona importante no eres tu es cristo el esta obrando por medio de nosotros entonces que deberiamos hacer cuando las cosas no van bien ir a el vamos que eso es desobedecer podemos hacer nuestra esta oracion dame ojos para ver a Dios en todo manos para servirle en todo y un corazon para bendecirle por todo aleluya proverbios 16 4 lo que el proverbio significa es que Dios tiene un fin objeto o proposito para cada cosa hay un resultado para cada causa una recompensa o castigo para cada accion acto hecho actuacion el ha decretado un dia malo o de tribulacion para el que no teme en sus actos del mismo modo que ha preparado el cielo para aquellos que le aman todo lo que el senor ha hecho tiene su destino y el destino de los impios es destruccion proverbios 16 5 la altivez humana es abominacion rechazo y condena aborrecimiento desagradable maldiciones y reprobar malas daninas a Dios ciertamente enfatiza lo cierto que es el castigo de los altivos altanero arrogante despreciativo proverbios 16 6 la misericordia y la verdad solo pueden decirse que corrijan el pecado en el sentido de que son senales de la fe que salva confiando en jehova los hombres se apartan escapan de la desdicha y calamidad proverbios 16 7 la vida justa desarma al enemigo la bondad tiene el poder de encantar y ganar incluso a los enemigos proverbios 16 8 es mejor tener un sueldo modesto pero ganado honestamente que tener muchedumbre de frutos sin derecho o con fraude proverbios 16 9 cuando se nos recordaba en el versiculo 1 el hombre planea su carrera con mucha antelacion anticipacion adelantado pero es el senor solo quien determina si esos planes llegaran a realizarse saulo de tarso planeaba perseguir a los santos de damasco pero acabo siendo uno de ellos amen",
+    "alias_busqueda": [
+      "Justo es Jehová",
+      "2 Crónicas",
+      "2 Crónicas 12",
+      "2 Crónicas 12:1-11",
+      "juicio",
+      "arrepentimiento",
+      "perseverancia",
+      "libertad",
+      "Servicio cristiano",
+      "Reino de Dios"
+    ]
+  },
+  "revision_manual": {
+    "requiere_revision": false,
+    "motivo": ""
+  },
+  "ui": {
+    "mostrar_credito_en_header": true,
+    "mostrar_numero_estudio": true,
+    "mostrar_fecha": true,
+    "mostrar_topicos": true,
+    "permitir_favorito": true,
+    "permitir_compartir": true
+  }
+}

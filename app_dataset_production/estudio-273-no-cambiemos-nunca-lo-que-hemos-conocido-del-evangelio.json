@@ -1,0 +1,276 @@
+{
+  "id": "estudio-273-no-cambiemos-nunca-lo-que-hemos-conocido-del-evangelio",
+  "slug": "estudio-273-no-cambiemos-nunca-lo-que-hemos-conocido-del-evangelio",
+  "numero_estudio": 273,
+  "tipo_estudio": "Iglesia en las casas",
+  "ministerio": {
+    "iglesia": "Iglesia Cristiana Mega Zoe",
+    "pastora": "Pastora Edith Cruz",
+    "credito_corto": "Iglesia Cristiana Mega Zoe · Pastora Edith Cruz",
+    "credito_largo": "Contenido original de Iglesia Cristiana Mega Zoe, conservando el crédito ministerial correspondiente a la Pastora Edith Cruz."
+  },
+  "identidad_editorial": {
+    "idioma": "es",
+    "fuente_original": "documento_word",
+    "archivo_origen": "/Users/edwingadiel/Desktop/Estudios en Word/Estudio #273 No cambiemos nunca lo que hemos conocido del Evangelio - Gálatas 1 6-10.doc",
+    "estado_revision": "procesado",
+    "version_schema": "1.0"
+  },
+  "encabezado": {
+    "titulo": "No Cambiemos Nunca lo que Hemos conocido del Evangelio",
+    "subtitulo": null,
+    "cita_principal": "Gálatas 1:6-10",
+    "resumen_corto": "No Cambiemos Nunca lo que Hemos conocido del Evangelio llama a atender la Palabra de Dios y perseverar en la oración."
+  },
+  "fechas": {
+    "fecha_inicio": "2002-11-19",
+    "fecha_fin": "2002-11-25",
+    "fecha_texto_original": "SEMANA DEL 19 @ 25 DE NOVIEMBRE DE 2002",
+    "ano": 2002
+  },
+  "clasificacion_biblica": {
+    "libro_principal": "Gálatas",
+    "capitulo_principal": 1,
+    "versiculos_principales": [
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "referencia_principal_normalizada": "Gálatas 1:6-10",
+    "testamento_principal": "Nuevo Testamento"
+  },
+  "clasificacion_tematica": {
+    "topicos": [
+      "Palabra de Dios",
+      "Evangelismo",
+      "Oración",
+      "Discipulado",
+      "Arrepentimiento"
+    ],
+    "keywords": [
+      "gloria de Dios",
+      "oración",
+      "juicio",
+      "arrepentimiento",
+      "evangelio",
+      "escrituras"
+    ]
+  },
+  "referencias_biblicas": [
+    {
+      "referencia": "Gálatas 1:6-10",
+      "referencia_normalizada": "Gálatas 1:6-10",
+      "libro": "Gálatas",
+      "capitulo": 1,
+      "versiculos": [
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "tipo": "principal",
+      "clickeable": true
+    },
+    {
+      "referencia": "Apocalipsis 22: 18,19",
+      "referencia_normalizada": "Apocalipsis 22:18,19",
+      "libro": "Apocalipsis",
+      "capitulo": 22,
+      "versiculos": [
+        18,
+        19
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "1 Timoteo 1: 5-7",
+      "referencia_normalizada": "1 Timoteo 1:5-7",
+      "libro": "1 Timoteo",
+      "capitulo": 1,
+      "versiculos": [
+        5,
+        6,
+        7
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Malaquías 3: 6",
+      "referencia_normalizada": "Malaquías 3:6",
+      "libro": "Malaquías",
+      "capitulo": 3,
+      "versiculos": [
+        6
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "1 Timoteo 6: 3-5",
+      "referencia_normalizada": "1 Timoteo 6:3-5",
+      "libro": "1 Timoteo",
+      "capitulo": 6,
+      "versiculos": [
+        3,
+        4,
+        5
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Gálatas 2: 14",
+      "referencia_normalizada": "Gálatas 2:14",
+      "libro": "Gálatas",
+      "capitulo": 2,
+      "versiculos": [
+        14
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Judas 3: 3,4",
+      "referencia_normalizada": "Judas 3:3,4",
+      "libro": "Judas",
+      "capitulo": 3,
+      "versiculos": [
+        3,
+        4
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "1 Timoteo 1: 11",
+      "referencia_normalizada": "1 Timoteo 1:11",
+      "libro": "1 Timoteo",
+      "capitulo": 1,
+      "versiculos": [
+        11
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Gálatas 4: 15,16",
+      "referencia_normalizada": "Gálatas 4:15,16",
+      "libro": "Gálatas",
+      "capitulo": 4,
+      "versiculos": [
+        15,
+        16
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Gálatas 1: 7",
+      "referencia_normalizada": "Gálatas 1:7",
+      "libro": "Gálatas",
+      "capitulo": 1,
+      "versiculos": [
+        7
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Salmos 119: 63",
+      "referencia_normalizada": "Salmos 119:63",
+      "libro": "Salmos",
+      "capitulo": 119,
+      "versiculos": [
+        63
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Gálatas 1: 8,9",
+      "referencia_normalizada": "Gálatas 1:8,9",
+      "libro": "Gálatas",
+      "capitulo": 1,
+      "versiculos": [
+        8,
+        9
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Gálatas 1: 10",
+      "referencia_normalizada": "Gálatas 1:10",
+      "libro": "Gálatas",
+      "capitulo": 1,
+      "versiculos": [
+        10
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    }
+  ],
+  "contenido": {
+    "introduccion": null,
+    "secciones": [],
+    "contenido_completo": "Objetivo del Estudio: Que todos sepan que el Evangelio que hemos conocido es simple, pero también es PURO. No es nuestra grandeza en el Evangelio lo que buscamos sino la Gloria de Dios en nuestras vidas. Hoy día se le ha añadido muchas cosas nuevas al Evangelio y se negocia con él. Por eso, nuestras vidas se deben mantener en oración, por que este Evangelio no se cambia ni se le quita por nada. Apocalipsis 22: 18,19 1 Timoteo 1: 5-7 Al cambiar el Evangelio lo que le hacemos es que en vez de ser de gozo, se convierte en carga. Mis hermanos, sepan ustedes que este Evangelio sigue siendo el mismo siempre. Malaquías 3: 6\n\nPablo les dice a los hermanos de Galacia que estaba maravillado, perplejo de que fuera tan pronto que se hubieran desviado del verdadero mensaje. Pablo se encontraba en Damasco cuando escribió esta carta, y estaba muy experimentado en quebrantos y persecuciones porque Pablo predicaba el Evangelio que el mismo Señor le habia revelado. Pablo no se pasaba enseñando otras cosas sino el Evangelio. 1 Timoteo 6: 3-5 Pablo estaba sorprendido de esta manera, porque luego de haberles enseñado a la iglesia las sanas Escrituras ellos hacían lo contrario. Mis hermanos, somos discípulos del Maestro, el Señor Jesucristo, y estamos para luchar por este único y glorioso Evangelio. Gálatas 2: 14 Somos llamados para salvación y para estar pendientes de este Evangelio. Judas 3: 3,4 Nosotros debemos decir: \"Yo voy a luchar por esta causa. Y porque lucho por esta causa, estoy afilado hasta lo último en todo lo que es el conocimiento de Cristo Jesús para no caer, y para no volver a ser esclavo de donde ya antes fui liberado.\" En el caso de los Gálatas, Pablo había levantado aquella iglesia, pero luego que se fue, vinieron otros maestros a enseñar lo contrario a lo que Pablo ya había establecido como sana doctrina. Pablo no enseñaba nada de él sino que enseñaba las sanas Escrituras, de todo lo que de Cristo había conocido y le había sido encomendado. 1 Timoteo 1: 11 Mis hermanos, debemos tener mucha firmeza en lo que nosotros hemos creído del Evangelio. Nuestro Evangelio no es de ideas o filosofías complicadas, sino que es de Fe. Iglesia, debes estar muy clara de lo que es este Evangelio en tu vida. Porque cuando la fe se quita viene la duda y la duda perturba el corazón. Mis hermanos, una verdad es verdad para siempre y no hay porque cambiarla. Pablo le decía a los Gálatas que al principio ellos estaban dispuestos hasta de sacarse los ojos por él y dárselos, pero como era posible que luego cambiaran lo que les había enseñado. Gálatas 4: 15,16 Hay personas que se levantan para PERTURBAR y PERVERTIR el evangelio. Gálatas 1: 7 Mis hermanos, el PERTURBAR es -alterar el orden, alborotar la tranquilidad. Y PERVERTIR es - perturbar el orden o el estado de las cosas, corromper, prostituir. Es decir, que lo que es puro, luego deja de ser puro. ¡Y hablamos del Evangelio de Dios, que fue dado a los hombres para que sean salvos! ¿Por qué dejaremos que nos engañen? El que pervierte este Evangelio, que se entregue a su perversión, el que viene a turbar, que se turbe cada día más, si eso es lo que quieren. Pero nosotros, ¡NO! La Biblia dice, que compañero soy yo de los que le temen. Salmos 119: 63 Entonces, ¿por qué vender el Evangelio que hemos conocido? Aquel que viene a cambiar este Evangelio sea llamado ANATEMA. Gálatas 1: 8,9 El anatema muere y su desendencia también, porque a todos juntos, le cae la maldición. Bienaventurados nosotros que conocemos al Espíritu Santo, quien se encarga de sacar al anatema de en medio del pueblo. Anatema, en el versículo 9, es aquel que viene a enseñar otra cosa en la iglesia. Si no hay arrepentimiento, empezarán los juicios de Dios, y no los queremos ¿verdad? Cuidemos el cuerpo del Señor y sea lllamado anatema aquel que viene a cambiar lo de Dios. Cruel es la persona que viene que nadie eche a perder al débil. Te pregunto hoy, ¿ Se puede agradar al hombre? Es imposible agradar al hombre, porque entonces nos convertimos en anatema. Gálatas 1: 10 Tenemos que aprender a cuidar y a celar la iglesia sin ningún miedo. No es facil sostener esta verdad que hemos conocido, pero sí es fácil el ser engañados. Vamos a luchar !!!!!!! No tenemos porque tener a la gente contenta, sino a Dios! AMEN.",
+    "contenido_renderizado": [
+      {
+        "tipo": "parrafo",
+        "texto": "Objetivo del Estudio: Que todos sepan que el Evangelio que hemos conocido es simple, pero también es PURO. No es nuestra grandeza en el Evangelio lo que buscamos sino la Gloria de Dios en nuestras vidas. Hoy día se le ha añadido muchas cosas nuevas al Evangelio y se negocia con él. Por eso, nuestras vidas se deben mantener en oración, por que este Evangelio no se cambia ni se le quita por nada. Apocalipsis 22: 18,19 1 Timoteo 1: 5-7 Al cambiar el Evangelio lo que le hacemos es que en vez de ser de gozo, se convierte en carga. Mis hermanos, sepan ustedes que este Evangelio sigue siendo el mismo siempre. Malaquías 3: 6",
+        "referencias_inline": [
+          "Apocalipsis 22:18,19",
+          "1 Timoteo 1:5-7",
+          "Malaquías 3:6"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Pablo les dice a los hermanos de Galacia que estaba maravillado, perplejo de que fuera tan pronto que se hubieran desviado del verdadero mensaje. Pablo se encontraba en Damasco cuando escribió esta carta, y estaba muy experimentado en quebrantos y persecuciones porque Pablo predicaba el Evangelio que el mismo Señor le habia revelado. Pablo no se pasaba enseñando otras cosas sino el Evangelio. 1 Timoteo 6: 3-5 Pablo estaba sorprendido de esta manera, porque luego de haberles enseñado a la iglesia las sanas Escrituras ellos hacían lo contrario. Mis hermanos, somos discípulos del Maestro, el Señor Jesucristo, y estamos para luchar por este único y glorioso Evangelio. Gálatas 2: 14 Somos llamados para salvación y para estar pendientes de este Evangelio. Judas 3: 3,4 Nosotros debemos decir: \"Yo voy a luchar por esta causa. Y porque lucho por esta causa, estoy afilado hasta lo último en todo lo que es el conocimiento de Cristo Jesús para no caer, y para no volver a ser esclavo de donde ya antes fui liberado.\" En el caso de los Gálatas, Pablo había levantado aquella iglesia, pero luego que se fue, vinieron otros maestros a enseñar lo contrario a lo que Pablo ya había establecido como sana doctrina. Pablo no enseñaba nada de él sino que enseñaba las sanas Escrituras, de todo lo que de Cristo había conocido y le había sido encomendado. 1 Timoteo 1: 11 Mis hermanos, debemos tener mucha firmeza en lo que nosotros hemos creído del Evangelio. Nuestro Evangelio no es de ideas o filosofías complicadas, sino que es de Fe. Iglesia, debes estar muy clara de lo que es este Evangelio en tu vida. Porque cuando la fe se quita viene la duda y la duda perturba el corazón. Mis hermanos, una verdad es verdad para siempre y no hay porque cambiarla. Pablo le decía a los Gálatas que al principio ellos estaban dispuestos hasta de sacarse los ojos por él y dárselos, pero como era posible que luego cambiaran lo que les había enseñado. Gálatas 4: 15,16 Hay personas que se levantan para PERTURBAR y PERVERTIR el evangelio. Gálatas 1: 7 Mis hermanos, el PERTURBAR es -alterar el orden, alborotar la tranquilidad. Y PERVERTIR es - perturbar el orden o el estado de las cosas, corromper, prostituir. Es decir, que lo que es puro, luego deja de ser puro. ¡Y hablamos del Evangelio de Dios, que fue dado a los hombres para que sean salvos! ¿Por qué dejaremos que nos engañen? El que pervierte este Evangelio, que se entregue a su perversión, el que viene a turbar, que se turbe cada día más, si eso es lo que quieren. Pero nosotros, ¡NO! La Biblia dice, que compañero soy yo de los que le temen. Salmos 119: 63 Entonces, ¿por qué vender el Evangelio que hemos conocido? Aquel que viene a cambiar este Evangelio sea llamado ANATEMA. Gálatas 1: 8,9 El anatema muere y su desendencia también, porque a todos juntos, le cae la maldición. Bienaventurados nosotros que conocemos al Espíritu Santo, quien se encarga de sacar al anatema de en medio del pueblo. Anatema, en el versículo 9, es aquel que viene a enseñar otra cosa en la iglesia. Si no hay arrepentimiento, empezarán los juicios de Dios, y no los queremos ¿verdad? Cuidemos el cuerpo del Señor y sea lllamado anatema aquel que viene a cambiar lo de Dios. Cruel es la persona que viene que nadie eche a perder al débil. Te pregunto hoy, ¿ Se puede agradar al hombre? Es imposible agradar al hombre, porque entonces nos convertimos en anatema. Gálatas 1: 10 Tenemos que aprender a cuidar y a celar la iglesia sin ningún miedo. No es facil sostener esta verdad que hemos conocido, pero sí es fácil el ser engañados. Vamos a luchar !!!!!!! No tenemos porque tener a la gente contenta, sino a Dios! AMEN.",
+        "referencias_inline": [
+          "1 Timoteo 6:3-5",
+          "Gálatas 2:14",
+          "Judas 3:3,4",
+          "1 Timoteo 1:11",
+          "Gálatas 4:15,16",
+          "Gálatas 1:7",
+          "Salmos 119:63",
+          "Gálatas 1:8,9",
+          "Gálatas 1:10"
+        ]
+      }
+    ]
+  },
+  "busqueda": {
+    "texto_indexable": "no cambiemos nunca lo que hemos conocido del evangelio galatas 1 6 10 palabra de Dios evangelismo oracion discipulado arrepentimiento gloria de Dios oracion juicio arrepentimiento evangelio escrituras objetivo del estudio que todos sepan que el evangelio que hemos conocido es simple pero tambien es puro no es nuestra grandeza en el evangelio lo que buscamos sino la gloria de Dios en nuestras vidas hoy dia se le ha anadido muchas cosas nuevas al evangelio y se negocia con el por eso nuestras vidas se deben mantener en oracion por que este evangelio no se cambia ni se le quita por nada apocalipsis 22 18 19 1 timoteo 1 5 7 al cambiar el evangelio lo que le hacemos es que en vez de ser de gozo se convierte en carga mis hermanos sepan ustedes que este evangelio sigue siendo el mismo siempre malaquias 3 6 pablo les dice a los hermanos de galacia que estaba maravillado perplejo de que fuera tan pronto que se hubieran desviado del verdadero mensaje pablo se encontraba en damasco cuando escribio esta carta y estaba muy experimentado en quebrantos y persecuciones porque pablo predicaba el evangelio que el mismo senor le habia revelado pablo no se pasaba ensenando otras cosas sino el evangelio 1 timoteo 6 3 5 pablo estaba sorprendido de esta manera porque luego de haberles ensenado a la iglesia las sanas escrituras ellos hacian lo contrario mis hermanos somos discipulos del maestro el senor jesucristo y estamos para luchar por este unico y glorioso evangelio galatas 2 14 somos llamados para salvacion y para estar pendientes de este evangelio judas 3 3 4 nosotros debemos decir yo voy a luchar por esta causa y porque lucho por esta causa estoy afilado hasta lo ultimo en todo lo que es el conocimiento de cristo Jesus para no caer y para no volver a ser esclavo de donde ya antes fui liberado en el caso de los galatas pablo habia levantado aquella iglesia pero luego que se fue vinieron otros maestros a ensenar lo contrario a lo que pablo ya habia establecido como sana doctrina pablo no ensenaba nada de el sino que ensenaba las sanas escrituras de todo lo que de cristo habia conocido y le habia sido encomendado 1 timoteo 1 11 mis hermanos debemos tener mucha firmeza en lo que nosotros hemos creido del evangelio nuestro evangelio no es de ideas o filosofias complicadas sino que es de fe iglesia debes estar muy clara de lo que es este evangelio en tu vida porque cuando la fe se quita viene la duda y la duda perturba el corazon mis hermanos una verdad es verdad para siempre y no hay porque cambiarla pablo le decia a los galatas que al principio ellos estaban dispuestos hasta de sacarse los ojos por el y darselos pero como era posible que luego cambiaran lo que les habia ensenado galatas 4 15 16 hay personas que se levantan para perturbar y pervertir el evangelio galatas 1 7 mis hermanos el perturbar es alterar el orden alborotar la tranquilidad y pervertir es perturbar el orden o el estado de las cosas corromper prostituir es decir que lo que es puro luego deja de ser puro y hablamos del evangelio de Dios que fue dado a los hombres para que sean salvos por que dejaremos que nos enganen el que pervierte este evangelio que se entregue a su perversion el que viene a turbar que se turbe cada dia mas si eso es lo que quieren pero nosotros no la biblia dice que companero soy yo de los que le temen salmo 119 63 entonces por que vender el evangelio que hemos conocido aquel que viene a cambiar este evangelio sea llamado anatema galatas 1 8 9 el anatema muere y su desendencia tambien porque a todos juntos le cae la maldicion bienaventurados nosotros que conocemos al espiritu santo quien se encarga de sacar al anatema de en medio del pueblo anatema en el versiculo 9 es aquel que viene a ensenar otra cosa en la iglesia si no hay arrepentimiento empezaran los juicios de Dios y no los queremos verdad cuidemos el cuerpo del senor y sea lllamado anatema aquel que viene a cambiar lo de Dios cruel es la persona que viene que nadie eche a perder al debil te pregunto hoy se puede agradar al hombre es imposible agradar al hombre porque entonces nos convertimos en anatema galatas 1 10 tenemos que aprender a cuidar y a celar la iglesia sin ningun miedo no es facil sostener esta verdad que hemos conocido pero si es facil el ser enganados vamos a luchar no tenemos porque tener a la gente contenta sino a Dios amen",
+    "alias_busqueda": [
+      "No Cambiemos Nunca lo que Hemos conocido del Evangelio",
+      "Gálatas",
+      "Gálatas 1",
+      "Gálatas 1:6-10",
+      "gloria de Dios",
+      "oración",
+      "juicio",
+      "arrepentimiento",
+      "Palabra de Dios",
+      "Evangelismo"
+    ]
+  },
+  "revision_manual": {
+    "requiere_revision": false,
+    "motivo": ""
+  },
+  "ui": {
+    "mostrar_credito_en_header": true,
+    "mostrar_numero_estudio": true,
+    "mostrar_fecha": true,
+    "mostrar_topicos": true,
+    "permitir_favorito": true,
+    "permitir_compartir": true
+  }
+}

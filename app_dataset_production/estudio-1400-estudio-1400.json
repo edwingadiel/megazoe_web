@@ -1,0 +1,483 @@
+{
+  "id": "estudio-1400-estudio-1400",
+  "slug": "estudio-1400-estudio-1400",
+  "numero_estudio": 1400,
+  "tipo_estudio": "Iglesia en las casas",
+  "ministerio": {
+    "iglesia": "Iglesia Cristiana Mega Zoe",
+    "pastora": "Pastora Edith Cruz",
+    "credito_corto": "Iglesia Cristiana Mega Zoe · Pastora Edith Cruz",
+    "credito_largo": "Contenido original de Iglesia Cristiana Mega Zoe, conservando el crédito ministerial correspondiente a la Pastora Edith Cruz."
+  },
+  "identidad_editorial": {
+    "idioma": "es",
+    "fuente_original": "documento_word",
+    "archivo_origen": "/Users/edwingadiel/Desktop/Estudios en Word/Estudio #1400 El justo por los injustos - 1 Pedro 3 18-19.docx",
+    "estado_revision": "procesado",
+    "version_schema": "1.0"
+  },
+  "encabezado": {
+    "titulo": "El Justo Por Los Injustos",
+    "subtitulo": null,
+    "cita_principal": "1 Pedro 3:18-19",
+    "resumen_corto": "El Justo Por Los Injustos enseña a afirmarse en la resurrección de Cristo y atender la Palabra de Dios."
+  },
+  "fechas": {
+    "fecha_inicio": null,
+    "fecha_fin": null,
+    "fecha_texto_original": "",
+    "ano": null
+  },
+  "clasificacion_biblica": {
+    "libro_principal": "1 Pedro",
+    "capitulo_principal": 3,
+    "versiculos_principales": [
+      18,
+      19
+    ],
+    "referencia_principal_normalizada": "1 Pedro 3:18-19",
+    "testamento_principal": "Nuevo Testamento"
+  },
+  "clasificacion_tematica": {
+    "topicos": [
+      "Resurrección de Cristo",
+      "Palabra de Dios",
+      "Discernimiento espiritual"
+    ],
+    "keywords": [
+      "santidad",
+      "juicio",
+      "arrepentimiento",
+      "perseverancia",
+      "fuego"
+    ]
+  },
+  "referencias_biblicas": [
+    {
+      "referencia": "1 Pedro 3:18-19",
+      "referencia_normalizada": "1 Pedro 3:18-19",
+      "libro": "1 Pedro",
+      "capitulo": 3,
+      "versiculos": [
+        18,
+        19
+      ],
+      "tipo": "principal",
+      "clickeable": true
+    },
+    {
+      "referencia": "1 Pedro 3:15-19",
+      "referencia_normalizada": "1 Pedro 3:15-19",
+      "libro": "1 Pedro",
+      "capitulo": 3,
+      "versiculos": [
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Mateo 27:50",
+      "referencia_normalizada": "Mateo 27:50",
+      "libro": "Mateo",
+      "capitulo": 27,
+      "versiculos": [
+        50
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "1 Pedro 3:19",
+      "referencia_normalizada": "1 Pedro 3:19",
+      "libro": "1 Pedro",
+      "capitulo": 3,
+      "versiculos": [
+        19
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Lucas 23:46",
+      "referencia_normalizada": "Lucas 23:46",
+      "libro": "Lucas",
+      "capitulo": 23,
+      "versiculos": [
+        46
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Juan 19:30",
+      "referencia_normalizada": "Juan 19:30",
+      "libro": "Juan",
+      "capitulo": 19,
+      "versiculos": [
+        30
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Hechos 2:31",
+      "referencia_normalizada": "Hechos 2:31",
+      "libro": "Hechos",
+      "capitulo": 2,
+      "versiculos": [
+        31
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Lucas 16:22",
+      "referencia_normalizada": "Lucas 16:22",
+      "libro": "Lucas",
+      "capitulo": 16,
+      "versiculos": [
+        22
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Lucas 23:43",
+      "referencia_normalizada": "Lucas 23:43",
+      "libro": "Lucas",
+      "capitulo": 23,
+      "versiculos": [
+        43
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Lucas 23:42",
+      "referencia_normalizada": "Lucas 23:42",
+      "libro": "Lucas",
+      "capitulo": 23,
+      "versiculos": [
+        42
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Lucas 16:26",
+      "referencia_normalizada": "Lucas 16:26",
+      "libro": "Lucas",
+      "capitulo": 16,
+      "versiculos": [
+        26
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Lucas 16:19-31",
+      "referencia_normalizada": "Lucas 16:19-31",
+      "libro": "Lucas",
+      "capitulo": 16,
+      "versiculos": [
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Apocalipsis 20:7-14",
+      "referencia_normalizada": "Apocalipsis 20:7-14",
+      "libro": "Apocalipsis",
+      "capitulo": 20,
+      "versiculos": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "2 Corintios 12:1-4",
+      "referencia_normalizada": "2 Corintios 12:1-4",
+      "libro": "2 Corintios",
+      "capitulo": 12,
+      "versiculos": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Efesios 4:9-10",
+      "referencia_normalizada": "Efesios 4:9-10",
+      "libro": "Efesios",
+      "capitulo": 4,
+      "versiculos": [
+        9,
+        10
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "1 Corintios 15:52",
+      "referencia_normalizada": "1 Corintios 15:52",
+      "libro": "1 Corintios",
+      "capitulo": 15,
+      "versiculos": [
+        52
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Judas 6",
+      "referencia_normalizada": "Judas 1:6",
+      "libro": "Judas",
+      "capitulo": 1,
+      "versiculos": [
+        6
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    }
+  ],
+  "contenido": {
+    "introduccion": null,
+    "secciones": [],
+    "contenido_completo": "La palabra espíritu se refiere al espíritu de Cristo. El contraste es entre Su carne y espíritu y no entre la carne de Cristo y el Espíritu Santo. La carne de Cristo murió, pero Su espíritu permaneció vivo.\n\n(1 Pedro 3:15-19) Cristo padeció una sola vez por los pecados.\n\nEl Justo por los injustos, para llevarnos a Dios.\n\nSiendo a la verdad \"muerto en la carne\", pero ha vivificado en espíritu.\n\nPredicó a los espíritus encarcelados.\n\nLa palabra espíritu se refiere al espíritu de Cristo.\n\nEl contraste es entre Su carne y espíritu y no entre la carne de Cristo y el Espíritu Santo.\n\nLa carne de Cristo murió, ya fue a la cruz y pagó por nuestros pecados en Su cuerpo, la carne del Santo, pero Su espíritu permaneció vivo.\n\nEl cuerpo de Jesús estaba en el sepulcro, \"por supuesto\", pero Su espíritu, habiendo partido en el momento de Su muerte. (Mateo 27:50)\n\n(1 Pedro 3:19) Estuvo en otro lugar durante esos tres días.\n\nPedro da un poco de información específica sobre lo que sucedió en esos tres días entre la muerte de Jesús y la resurrección.\n\nEsto sucede, en la tumba está el cuerpo de Jesús, ya muerto, aún no ha resucitado y luego resucita y va a los suyos.\n\nJesús predicó a los espíritus encarcelados.\n\nEn la palabra griega utilizada significa simplemente que Jesús \"anunció un mensaje\".\n\nJesús sufrió y murió en la cruz, \"Su cuerpo\" \"fue llevado a la muerte\".\n\n(Lucas 23:46) Pero Su espíritu fue vivificado y lo rindió al Padre.\n\nDe acuerdo con Pedro, en algún momento (1 Pedro 3:19) entre Su muerte y Su resurrección, Jesús hizo una proclamación especial a los espíritus encarcelados.\n\n(Juan 19:30) Su sufrimiento terminó cuando en la cruz dijo: \"Consumado es\".\n\n¿Dónde estaban estos espíritus encarcelados con los que Jesús habló en Su muerte y resurrección?\n\nEn ningún lugar de la Biblia se nos dice que Jesús visitó el infierno.\n\nLa idea de que Jesús fue al infierno para continuar Su sufrimiento no es bíblica; Su sufrimiento terminó cuando en la cruz dijo: \"Consumado es\".\n\n(Hechos 2:31) Él fue al Hades, \"pero el \"Hades\" no es el infierno.\n\nEn el original del griego, la palabra \"Hades\" se refiere a la esfera de la muerte, lugar temporal en donde los muertos esperan.\n\nHades antes de la ascensión (subida, sitio más alto) de Cristo:\n\nEl Hades se dividía en dos partes una para los perdidos y otro para los salvos. Primero \"el paraíso\" y el \"seno de Abraham\", ambos nombres tienen su origen en el Talmud (tradición, doctrina, ceremonias y preceptos de la religión judía), pero Cristo los adopta en Lucas 16:22; Lucas 23:43. Los bienaventurados estaban con Abraham, eran conscientes de su estado y recibían consolación. (Lucas 23:42) El malhechor creyente recibió la promesa de que… iba a estar con Cristo, en aquel mismo día, en \"el paraíso\". Los perdidos se hallaban separados de los salvos por \"una grande sima\" (Lucas 16:26). El hombre representativo de los perdidos que están actualmente en el Hades es el rico mencionado en Lucas 16:19-31. Él estaba vivo, consciente, en pleno uso de sus facultades, memorias, etc., y en medio de tormentos.\n\nHades desde la ascensión de Cristo. En lo que toca a los perdidos, las Escrituras no revelan que haya habido algún cambio en su condición o lugar en el más allá. Cuando se efectué el Juicio del gran trono blanco, el Hades entregará a \"los muertos\" y ellos serán juzgados y lanzados al lago de fuego (Apocalipsis 20:7-14). Pero sí se ha efectuado un cambio que afecta el paraíso. Pablo \"fue arrebatado hasta el tercer cielo… al paraíso (2 Corintios 12:1-4) El paraíso, por lo tanto, \"está ahora en la presencia inmediata de Dios\". Se cree que Efesios 4:9-10 indica al tiempo cuando dicho cambio tuvo lugar. Subiendo a lo alto, llevó multitud de cautivos. A continuación, se añade que Él había descendido previamente (primero) \"a las partes inferiores de la tierra\"; es decir, a la división del Hades llamado el paraíso. (1 Corintios 15:52) Durante la presente era de la Iglesia, los salvos que parten de este mundo están ausentes del cuerpo y \"presentes con el Señor\".\n\n(Judas 6) Ángeles caídos, quienes probablemente fueron encarcelados estaban involucrados en un pecado grave antes del diluvio en el tiempo de Noé.\n\nLo hermoso de Jesús, fue al \"paraíso\", y llevó cautiva la cautividad a aquellos que habían creído en Él previo a Su muerte.\n\nTodo eso para decir que la Biblia no es enteramente clara acerca de lo que Jesús hizo exactamente los tres días entre Su muerte y resurrección.\n\nÉl consoló a los santos difuntos y los llevó a su hogar eterno y proclamó Su victoria sobre los ángeles caídos que están en prisión. Amén.",
+    "contenido_renderizado": [
+      {
+        "tipo": "parrafo",
+        "texto": "La palabra espíritu se refiere al espíritu de Cristo. El contraste es entre Su carne y espíritu y no entre la carne de Cristo y el Espíritu Santo. La carne de Cristo murió, pero Su espíritu permaneció vivo.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(1 Pedro 3:15-19) Cristo padeció una sola vez por los pecados.",
+        "referencias_inline": [
+          "1 Pedro 3:15-19"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "El Justo por los injustos, para llevarnos a Dios.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Siendo a la verdad \"muerto en la carne\", pero ha vivificado en espíritu.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Predicó a los espíritus encarcelados.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "La palabra espíritu se refiere al espíritu de Cristo.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "El contraste es entre Su carne y espíritu y no entre la carne de Cristo y el Espíritu Santo.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "La carne de Cristo murió, ya fue a la cruz y pagó por nuestros pecados en Su cuerpo, la carne del Santo, pero Su espíritu permaneció vivo.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "El cuerpo de Jesús estaba en el sepulcro, \"por supuesto\", pero Su espíritu, habiendo partido en el momento de Su muerte. (Mateo 27:50)",
+        "referencias_inline": [
+          "Mateo 27:50"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(1 Pedro 3:19) Estuvo en otro lugar durante esos tres días.",
+        "referencias_inline": [
+          "1 Pedro 3:19"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Pedro da un poco de información específica sobre lo que sucedió en esos tres días entre la muerte de Jesús y la resurrección.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Esto sucede, en la tumba está el cuerpo de Jesús, ya muerto, aún no ha resucitado y luego resucita y va a los suyos.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Jesús predicó a los espíritus encarcelados.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "En la palabra griega utilizada significa simplemente que Jesús \"anunció un mensaje\".",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Jesús sufrió y murió en la cruz, \"Su cuerpo\" \"fue llevado a la muerte\".",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Lucas 23:46) Pero Su espíritu fue vivificado y lo rindió al Padre.",
+        "referencias_inline": [
+          "Lucas 23:46"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "De acuerdo con Pedro, en algún momento (1 Pedro 3:19) entre Su muerte y Su resurrección, Jesús hizo una proclamación especial a los espíritus encarcelados.",
+        "referencias_inline": [
+          "1 Pedro 3:19"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Juan 19:30) Su sufrimiento terminó cuando en la cruz dijo: \"Consumado es\".",
+        "referencias_inline": [
+          "Juan 19:30"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "¿Dónde estaban estos espíritus encarcelados con los que Jesús habló en Su muerte y resurrección?",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "En ningún lugar de la Biblia se nos dice que Jesús visitó el infierno.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "La idea de que Jesús fue al infierno para continuar Su sufrimiento no es bíblica; Su sufrimiento terminó cuando en la cruz dijo: \"Consumado es\".",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Hechos 2:31) Él fue al Hades, \"pero el \"Hades\" no es el infierno.",
+        "referencias_inline": [
+          "Hechos 2:31"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "En el original del griego, la palabra \"Hades\" se refiere a la esfera de la muerte, lugar temporal en donde los muertos esperan.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Hades antes de la ascensión (subida, sitio más alto) de Cristo:",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "El Hades se dividía en dos partes una para los perdidos y otro para los salvos. Primero \"el paraíso\" y el \"seno de Abraham\", ambos nombres tienen su origen en el Talmud (tradición, doctrina, ceremonias y preceptos de la religión judía), pero Cristo los adopta en Lucas 16:22; Lucas 23:43. Los bienaventurados estaban con Abraham, eran conscientes de su estado y recibían consolación. (Lucas 23:42) El malhechor creyente recibió la promesa de que… iba a estar con Cristo, en aquel mismo día, en \"el paraíso\". Los perdidos se hallaban separados de los salvos por \"una grande sima\" (Lucas 16:26). El hombre representativo de los perdidos que están actualmente en el Hades es el rico mencionado en Lucas 16:19-31. Él estaba vivo, consciente, en pleno uso de sus facultades, memorias, etc., y en medio de tormentos.",
+        "referencias_inline": [
+          "Lucas 16:22",
+          "Lucas 23:43",
+          "Lucas 23:42",
+          "Lucas 16:26",
+          "Lucas 16:19-31"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Hades desde la ascensión de Cristo. En lo que toca a los perdidos, las Escrituras no revelan que haya habido algún cambio en su condición o lugar en el más allá. Cuando se efectué el Juicio del gran trono blanco, el Hades entregará a \"los muertos\" y ellos serán juzgados y lanzados al lago de fuego (Apocalipsis 20:7-14). Pero sí se ha efectuado un cambio que afecta el paraíso. Pablo \"fue arrebatado hasta el tercer cielo… al paraíso (2 Corintios 12:1-4) El paraíso, por lo tanto, \"está ahora en la presencia inmediata de Dios\". Se cree que Efesios 4:9-10 indica al tiempo cuando dicho cambio tuvo lugar. Subiendo a lo alto, llevó multitud de cautivos. A continuación, se añade que Él había descendido previamente (primero) \"a las partes inferiores de la tierra\"; es decir, a la división del Hades llamado el paraíso. (1 Corintios 15:52) Durante la presente era de la Iglesia, los salvos que parten de este mundo están ausentes del cuerpo y \"presentes con el Señor\".",
+        "referencias_inline": [
+          "Apocalipsis 20:7-14",
+          "2 Corintios 12:1-4",
+          "Efesios 4:9-10",
+          "1 Corintios 15:52"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Judas 6) Ángeles caídos, quienes probablemente fueron encarcelados estaban involucrados en un pecado grave antes del diluvio en el tiempo de Noé.",
+        "referencias_inline": [
+          "Judas 1:6"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Lo hermoso de Jesús, fue al \"paraíso\", y llevó cautiva la cautividad a aquellos que habían creído en Él previo a Su muerte.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Todo eso para decir que la Biblia no es enteramente clara acerca de lo que Jesús hizo exactamente los tres días entre Su muerte y resurrección.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Él consoló a los santos difuntos y los llevó a su hogar eterno y proclamó Su victoria sobre los ángeles caídos que están en prisión. Amén.",
+        "referencias_inline": []
+      }
+    ]
+  },
+  "busqueda": {
+    "texto_indexable": "el justo por los injustos 1 pedro 3 18 19 resurreccion de cristo palabra de Dios discernimiento espiritual santidad juicio arrepentimiento perseverancia fuego la palabra espiritu se refiere al espiritu de cristo el contraste es entre su carne y espiritu y no entre la carne de cristo y el espiritu santo la carne de cristo murio pero su espiritu permanecio vivo 1 pedro 3 15 19 cristo padecio una sola vez por los pecados el justo por los injustos para llevarnos a Dios siendo a la verdad muerto en la carne pero ha vivificado en espiritu predico a los espiritus encarcelados la palabra espiritu se refiere al espiritu de cristo el contraste es entre su carne y espiritu y no entre la carne de cristo y el espiritu santo la carne de cristo murio ya fue a la cruz y pago por nuestros pecados en su cuerpo la carne del santo pero su espiritu permanecio vivo el cuerpo de Jesus estaba en el sepulcro por supuesto pero su espiritu habiendo partido en el momento de su muerte mateo 27 50 1 pedro 3 19 estuvo en otro lugar durante esos tres dias pedro da un poco de informacion especifica sobre lo que sucedio en esos tres dias entre la muerte de Jesus y la resurreccion esto sucede en la tumba esta el cuerpo de Jesus ya muerto aun no ha resucitado y luego resucita y va a los suyos Jesus predico a los espiritus encarcelados en la palabra griega utilizada significa simplemente que Jesus anuncio un mensaje Jesus sufrio y murio en la cruz su cuerpo fue llevado a la muerte lucas 23 46 pero su espiritu fue vivificado y lo rindio al padre de acuerdo con pedro en algun momento 1 pedro 3 19 entre su muerte y su resurreccion Jesus hizo una proclamacion especial a los espiritus encarcelados juan 19 30 su sufrimiento termino cuando en la cruz dijo consumado es donde estaban estos espiritus encarcelados con los que Jesus hablo en su muerte y resurreccion en ningun lugar de la biblia se nos dice que Jesus visito el infierno la idea de que Jesus fue al infierno para continuar su sufrimiento no es biblica su sufrimiento termino cuando en la cruz dijo consumado es hechos 2 31 el fue al hades pero el hades no es el infierno en el original del griego la palabra hades se refiere a la esfera de la muerte lugar temporal en donde los muertos esperan hades antes de la ascension subida sitio mas alto de cristo el hades se dividia en dos partes una para los perdidos y otro para los salvos primero el paraiso y el seno de abraham ambos nombres tienen su origen en el talmud tradicion doctrina ceremonias y preceptos de la religion judia pero cristo los adopta en lucas 16 22 lucas 23 43 los bienaventurados estaban con abraham eran conscientes de su estado y recibian consolacion lucas 23 42 el malhechor creyente recibio la promesa de que iba a estar con cristo en aquel mismo dia en el paraiso los perdidos se hallaban separados de los salvos por una grande sima lucas 16 26 el hombre representativo de los perdidos que estan actualmente en el hades es el rico mencionado en lucas 16 19 31 el estaba vivo consciente en pleno uso de sus facultades memorias etc y en medio de tormentos hades desde la ascension de cristo en lo que toca a los perdidos las escrituras no revelan que haya habido algun cambio en su condicion o lugar en el mas alla cuando se efectue el juicio del gran trono blanco el hades entregara a los muertos y ellos seran juzgados y lanzados al lago de fuego apocalipsis 20 7 14 pero si se ha efectuado un cambio que afecta el paraiso pablo fue arrebatado hasta el tercer cielo al paraiso 2 corintios 12 1 4 el paraiso por lo tanto esta ahora en la presencia inmediata de Dios se cree que efesios 4 9 10 indica al tiempo cuando dicho cambio tuvo lugar subiendo a lo alto llevo multitud de cautivos a continuacion se anade que el habia descendido previamente primero a las partes inferiores de la tierra es decir a la division del hades llamado el paraiso 1 corintios 15 52 durante la presente era de la iglesia los salvos que parten de este mundo estan ausentes del cuerpo y presentes con el senor judas 6 angeles caidos quienes probablemente fueron encarcelados estaban involucrados en un pecado grave antes del diluvio en el tiempo de noe lo hermoso de Jesus fue al paraiso y llevo cautiva la cautividad a aquellos que habian creido en el previo a su muerte todo eso para decir que la biblia no es enteramente clara acerca de lo que Jesus hizo exactamente los tres dias entre su muerte y resurreccion el consolo a los santos difuntos y los llevo a su hogar eterno y proclamo su victoria sobre los angeles caidos que estan en prision amen",
+    "alias_busqueda": [
+      "Estudio 1400",
+      "1 Pedro",
+      "1 Pedro 3",
+      "1 Pedro 3:18-19",
+      "santidad",
+      "juicio",
+      "arrepentimiento",
+      "perseverancia",
+      "Resurrección de Cristo",
+      "Palabra de Dios"
+    ]
+  },
+  "revision_manual": {
+    "requiere_revision": false,
+    "motivo": ""
+  },
+  "ui": {
+    "mostrar_credito_en_header": true,
+    "mostrar_numero_estudio": true,
+    "mostrar_fecha": true,
+    "mostrar_topicos": true,
+    "permitir_favorito": true,
+    "permitir_compartir": true
+  }
+}

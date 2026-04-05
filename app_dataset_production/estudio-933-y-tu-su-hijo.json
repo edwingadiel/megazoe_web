@@ -1,0 +1,281 @@
+{
+  "id": "estudio-933-y-tu-su-hijo",
+  "slug": "estudio-933-y-tu-su-hijo",
+  "numero_estudio": 933,
+  "tipo_estudio": "Iglesia en las casas",
+  "ministerio": {
+    "iglesia": "Iglesia Cristiana Mega Zoe",
+    "pastora": "Pastora Edith Cruz",
+    "credito_corto": "Iglesia Cristiana Mega Zoe · Pastora Edith Cruz",
+    "credito_largo": "Contenido original de Iglesia Cristiana Mega Zoe, conservando el crédito ministerial correspondiente a la Pastora Edith Cruz."
+  },
+  "identidad_editorial": {
+    "idioma": "es",
+    "fuente_original": "documento_word",
+    "archivo_origen": "/Users/edwingadiel/Desktop/Estudios en Word/Estudio #933 Y tú, su hijo... - Daniel 5 17-23.docx",
+    "estado_revision": "procesado",
+    "version_schema": "1.0"
+  },
+  "encabezado": {
+    "titulo": "Y Tú, Su Hijo",
+    "subtitulo": null,
+    "cita_principal": "Daniel 5:17-23",
+    "resumen_corto": "Este estudio llama a servir con humildad y perseverar en la oración."
+  },
+  "fechas": {
+    "fecha_inicio": null,
+    "fecha_fin": null,
+    "fecha_texto_original": "",
+    "ano": null
+  },
+  "clasificacion_biblica": {
+    "libro_principal": "Daniel",
+    "capitulo_principal": 5,
+    "versiculos_principales": [
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23
+    ],
+    "referencia_principal_normalizada": "Daniel 5:17-23",
+    "testamento_principal": "Antiguo Testamento"
+  },
+  "clasificacion_tematica": {
+    "topicos": [
+      "Humildad",
+      "Oración",
+      "Reino de Dios"
+    ],
+    "keywords": [
+      "oración",
+      "soberbia",
+      "humildad",
+      "corazón",
+      "altivez",
+      "testimonio"
+    ]
+  },
+  "referencias_biblicas": [
+    {
+      "referencia": "Daniel 5:17-23",
+      "referencia_normalizada": "Daniel 5:17-23",
+      "libro": "Daniel",
+      "capitulo": 5,
+      "versiculos": [
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      "tipo": "principal",
+      "clickeable": true
+    },
+    {
+      "referencia": "Daniel 5:17",
+      "referencia_normalizada": "Daniel 5:17",
+      "libro": "Daniel",
+      "capitulo": 5,
+      "versiculos": [
+        17
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Daniel 5:18",
+      "referencia_normalizada": "Daniel 5:18",
+      "libro": "Daniel",
+      "capitulo": 5,
+      "versiculos": [
+        18
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Daniel 5:19",
+      "referencia_normalizada": "Daniel 5:19",
+      "libro": "Daniel",
+      "capitulo": 5,
+      "versiculos": [
+        19
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Daniel 5:20",
+      "referencia_normalizada": "Daniel 5:20",
+      "libro": "Daniel",
+      "capitulo": 5,
+      "versiculos": [
+        20
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Daniel 5:21",
+      "referencia_normalizada": "Daniel 5:21",
+      "libro": "Daniel",
+      "capitulo": 5,
+      "versiculos": [
+        21
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Daniel 5:22, 23",
+      "referencia_normalizada": "Daniel 5:22,23",
+      "libro": "Daniel",
+      "capitulo": 5,
+      "versiculos": [
+        22,
+        23
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Daniel 5:3,4",
+      "referencia_normalizada": "Daniel 5:3,4",
+      "libro": "Daniel",
+      "capitulo": 5,
+      "versiculos": [
+        3,
+        4
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Daniel 5:5,6",
+      "referencia_normalizada": "Daniel 5:5,6",
+      "libro": "Daniel",
+      "capitulo": 5,
+      "versiculos": [
+        5,
+        6
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Daniel 5:22-28",
+      "referencia_normalizada": "Daniel 5:22-28",
+      "libro": "Daniel",
+      "capitulo": 5,
+      "versiculos": [
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Daniel 5:30",
+      "referencia_normalizada": "Daniel 5:30",
+      "libro": "Daniel",
+      "capitulo": 5,
+      "versiculos": [
+        30
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    }
+  ],
+  "contenido": {
+    "introduccion": null,
+    "secciones": [],
+    "contenido_completo": "Lo que nuestros ojos han visto y leído en la Biblia sobre lo acontecido a otros es de vital testimonio a nuestras vidas para que nos apercibamos de cómo Dios ha tratado a estas personas en respuesta a sus malos actos. El propósito es que aprendamos de todo eso, siendo así advertidos, para que no tropecemos y no caigamos en lo mismo. Al aprender la lección evitaremos padecer o sufrir lo que hemos visto en otros. Pero…lamentablemente, aún con esos testimonios tan impactantes algunos no quieren aprender. ¡El rey Belsasar fue alguien así, este rey no aprendió del testimonio de su padre (o abuelo) el rey Nabucodonosor!\n\nDaniel 5:17 \"Entonces Daniel respondió y dijo delante del rey: Tus dones sean para ti y da tus recompensas a otros. Leeré la escritura al rey y le daré la interpretación.\" Antes que nada Daniel le hizo saber a Belsasar todo lo que Dios LE DIO a su padre Nabucodonosor. Daniel 5:18 \"El Altísimo Dios, oh rey, dio a Nabucodonosor tu padre el reino y la grandeza, la gloria y la majestad.\" Para que le quedara claro a Belsasar que no fue por su propia inteligencia o su poder humano, ni por sus talentos que llegó a tener tan vasto imperio, como él pensaba. Por eso le hace el recuento de lo que recibió su padre Nabucodonosor de parte de Dios. Se le dio el reino y la grandeza, la gloria y la majestad. Y por esa grandeza que el Señor le dio, todos los pueblos, naciones y lenguas temblaban y temían delante de él (Daniel 5:19 \"Y por la grandeza que LE DIO, todos los pueblos, naciones y lenguas temblaban y temían delante de él.\"). Así que Nabucodonosor era un administrador del poder de Dios; el poder que se le había dado era de Dios, no era de él. Nabucodonosor hacía con las personas lo que bien a él le parecía hacer, bien o mal (Daniel 5:19 \"A quien quería mataba y a quien quería daba vida; engrandecía a quien quería y a quien quería humillaba.\").\n\nDaniel 5:20 \"Mas cuando su corazón se ensoberbeció y su espíritu se endureció en su orgullo, fue depuesto del trono de su reino y despojado de su gloria.\" El llenarse de soberbia es propio del que se le da mucho. Se ensoberbeció, se llenó de soberbia por todo lo que le vino de Dios. Todo aquel poder y fama llenó a Nabucodonosor de orgullo, se puso altanero, altivo, fanfarrón. Se endureció en orgullo por todo lo que llegó a ser y a poseer; todo esto dado por Dios. ¡Qué mejor! ¡Quitarle que perecer! ¡Fue depuesto (apartado de su cargo) para hacerle razonar! El pago de su soberbia fue que se le quitó el reino y se le despojó de su gloria. ¿Dónde estaba ahora la gloria de Nabucodonosor? Daniel 5:21 \"Y fue echado de entre los hijos de los hombres y su mente se hizo semejante a la de las bestias y con los asnos monteses fue su morada. Hierba le hicieron comer como a buey y su cuerpo fue mojado con el rocío del cielo…\" También Dios lo castigó en su mente y fue semejante a las bestias; y con asnos llegó a estar. Un asno es mucho más noble que el impetuoso caballo de los que tendría el rey. El asno es de servicio, sirve para transportar cargas, para montura de las personas. Por su soberbia el rey Nabucodonosor recibió el castigo de Dios y fue reducido a vivir como los asnos del monte, con una mente como los animales salvajes. Comió hierba como un buey y su cuerpo fue maltratado, quedó sin la gloria que le daba el poder para con los hombres. Daniel 5:21 \"…hasta que reconoció que el Altísimo Dios tiene dominio sobre el reino de los hombres y que pone sobre él al que le place.\" La autoridad viene de Dios y Él es quien puede ejercerla, siempre sin equivocarse, porque Él es justo.\n\nY tú, su hijo Belsasar, has caído en lo mismo, en orgullo (Daniel 5:22, 23 \"Y TÚ, SU HIJO BELSASAR, NO HAS HUMILLADO TU CORAZÓN, SABIENDO TODO ESTO; SINO QUE CONTRA EL SEÑOR DEL CIELO TE HAS ENSOBERBECIDO…\"). ¡El castigo era sin consideración pues había tenido a su padre de ejemplo! El imperio de Belsasar se llenó de gran orgullo y maldad.\n\nEn la humillación de Nabucodonosor su deleite tuvo que ser el habitar con las bestias y asnos. Belsasar, por su parte, no había errado por ignorancia sino, ¡por un desprecio deliberado contra Dios! ¡ÉL TENÍA DELANTE DE SUS OJOS LAS ADVERTENCIAS ASOMBROSAS DADAS EN EL CASO DE SU ABUELO NABUCODONOSOR! Pero, Belsasar se creía grande y se levantó contra el Señor. No iba a tener las consideraciones de su abuelo. Le llegó su día malo, aunque llegó a honrar a Daniel. Su orgullo rompió todo respeto; con sus amigos y mujeres usó los vasos del templo de la casa de Dios que se habían traído de Jerusalén y habían estado guardados con respeto a Dios. Lo hicieron en medio de la adoración a otros dioses (Daniel 5:3,4 \"Entonces fueron traídos los vasos de oro que habían traído del templo de la casa de Dios que estaba en Jerusalén y bebieron en ellos el rey y sus príncipes, sus mujeres y sus concubinas. Bebieron vino y alabaron a los dioses de oro y de plata, de bronce, de hierro, de madera y de piedra.\").\n\nPor todas estas maldades el rey Belsasar tenía que ver obrar con sus propios ojos a quien había desafiado, al Dios que da los reinos. Un dedo bastó para la sentencia (Daniel 5:5,6 \"En aquella misma hora aparecieron los dedos de una mano de hombre, que escribía delante del candelero sobre lo encalado de la pared del palacio real y el rey veía la mano que escribía. Entonces el rey palideció y sus pensamientos lo turbaron y se debilitaron sus lomos y sus rodillas daban la una contra la otra.\"). Belsasar, debiste considerar que el Altísimo Dios fue quien le dio el reino a Nabucodonosor tu padre y luego te lo pasó a ti, pues se esperaba de ti que hubieras aprendido de él sobre el quebranto por la altivez, pero no fue así. ¡Tú hiciste igual! Por eso, Dios mismo le escribió al rey Belsasar su sentencia en la pared de su palacio y Daniel lo interpretó (Daniel 5:22-28): \"Contó Dios tu reino y le ha puesto fin, pesado has sido en balanza y fuiste hallado falto, tu reino ha sido roto y dado a los medos y los persas. Nunca honraste al Dios en cuya mano está tu vida.\" \"La misma noche fue muerto Belsasar rey de los caldeos.\" Daniel 5:30\n\nDe todo esto, temamos de los que otros han hecho y en consecuencia han recibido el terrible pago de parte de Dios. Aprendamos de Belsasar, no hizo caso a lo acontecido a su padre (abuelo) Nabucodosor y hace lo mismo. Tuvo el pago de su maldad. ¡Cuidemos cuando Dios nos dé algo, el orgullo y la soberbia querrán llegar, solo la humildad nos librará! Amén.",
+    "contenido_renderizado": [
+      {
+        "tipo": "parrafo",
+        "texto": "Lo que nuestros ojos han visto y leído en la Biblia sobre lo acontecido a otros es de vital testimonio a nuestras vidas para que nos apercibamos de cómo Dios ha tratado a estas personas en respuesta a sus malos actos. El propósito es que aprendamos de todo eso, siendo así advertidos, para que no tropecemos y no caigamos en lo mismo. Al aprender la lección evitaremos padecer o sufrir lo que hemos visto en otros. Pero…lamentablemente, aún con esos testimonios tan impactantes algunos no quieren aprender. ¡El rey Belsasar fue alguien así, este rey no aprendió del testimonio de su padre (o abuelo) el rey Nabucodonosor!",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Daniel 5:17 \"Entonces Daniel respondió y dijo delante del rey: Tus dones sean para ti y da tus recompensas a otros. Leeré la escritura al rey y le daré la interpretación.\" Antes que nada Daniel le hizo saber a Belsasar todo lo que Dios LE DIO a su padre Nabucodonosor. Daniel 5:18 \"El Altísimo Dios, oh rey, dio a Nabucodonosor tu padre el reino y la grandeza, la gloria y la majestad.\" Para que le quedara claro a Belsasar que no fue por su propia inteligencia o su poder humano, ni por sus talentos que llegó a tener tan vasto imperio, como él pensaba. Por eso le hace el recuento de lo que recibió su padre Nabucodonosor de parte de Dios. Se le dio el reino y la grandeza, la gloria y la majestad. Y por esa grandeza que el Señor le dio, todos los pueblos, naciones y lenguas temblaban y temían delante de él (Daniel 5:19 \"Y por la grandeza que LE DIO, todos los pueblos, naciones y lenguas temblaban y temían delante de él.\"). Así que Nabucodonosor era un administrador del poder de Dios; el poder que se le había dado era de Dios, no era de él. Nabucodonosor hacía con las personas lo que bien a él le parecía hacer, bien o mal (Daniel 5:19 \"A quien quería mataba y a quien quería daba vida; engrandecía a quien quería y a quien quería humillaba.\").",
+        "referencias_inline": [
+          "Daniel 5:17",
+          "Daniel 5:18",
+          "Daniel 5:19"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Daniel 5:20 \"Mas cuando su corazón se ensoberbeció y su espíritu se endureció en su orgullo, fue depuesto del trono de su reino y despojado de su gloria.\" El llenarse de soberbia es propio del que se le da mucho. Se ensoberbeció, se llenó de soberbia por todo lo que le vino de Dios. Todo aquel poder y fama llenó a Nabucodonosor de orgullo, se puso altanero, altivo, fanfarrón. Se endureció en orgullo por todo lo que llegó a ser y a poseer; todo esto dado por Dios. ¡Qué mejor! ¡Quitarle que perecer! ¡Fue depuesto (apartado de su cargo) para hacerle razonar! El pago de su soberbia fue que se le quitó el reino y se le despojó de su gloria. ¿Dónde estaba ahora la gloria de Nabucodonosor? Daniel 5:21 \"Y fue echado de entre los hijos de los hombres y su mente se hizo semejante a la de las bestias y con los asnos monteses fue su morada. Hierba le hicieron comer como a buey y su cuerpo fue mojado con el rocío del cielo…\" También Dios lo castigó en su mente y fue semejante a las bestias; y con asnos llegó a estar. Un asno es mucho más noble que el impetuoso caballo de los que tendría el rey. El asno es de servicio, sirve para transportar cargas, para montura de las personas. Por su soberbia el rey Nabucodonosor recibió el castigo de Dios y fue reducido a vivir como los asnos del monte, con una mente como los animales salvajes. Comió hierba como un buey y su cuerpo fue maltratado, quedó sin la gloria que le daba el poder para con los hombres. Daniel 5:21 \"…hasta que reconoció que el Altísimo Dios tiene dominio sobre el reino de los hombres y que pone sobre él al que le place.\" La autoridad viene de Dios y Él es quien puede ejercerla, siempre sin equivocarse, porque Él es justo.",
+        "referencias_inline": [
+          "Daniel 5:20",
+          "Daniel 5:21"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Y tú, su hijo Belsasar, has caído en lo mismo, en orgullo (Daniel 5:22, 23 \"Y TÚ, SU HIJO BELSASAR, NO HAS HUMILLADO TU CORAZÓN, SABIENDO TODO ESTO; SINO QUE CONTRA EL SEÑOR DEL CIELO TE HAS ENSOBERBECIDO…\"). ¡El castigo era sin consideración pues había tenido a su padre de ejemplo! El imperio de Belsasar se llenó de gran orgullo y maldad.",
+        "referencias_inline": [
+          "Daniel 5:22,23"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "En la humillación de Nabucodonosor su deleite tuvo que ser el habitar con las bestias y asnos. Belsasar, por su parte, no había errado por ignorancia sino, ¡por un desprecio deliberado contra Dios! ¡ÉL TENÍA DELANTE DE SUS OJOS LAS ADVERTENCIAS ASOMBROSAS DADAS EN EL CASO DE SU ABUELO NABUCODONOSOR! Pero, Belsasar se creía grande y se levantó contra el Señor. No iba a tener las consideraciones de su abuelo. Le llegó su día malo, aunque llegó a honrar a Daniel. Su orgullo rompió todo respeto; con sus amigos y mujeres usó los vasos del templo de la casa de Dios que se habían traído de Jerusalén y habían estado guardados con respeto a Dios. Lo hicieron en medio de la adoración a otros dioses (Daniel 5:3,4 \"Entonces fueron traídos los vasos de oro que habían traído del templo de la casa de Dios que estaba en Jerusalén y bebieron en ellos el rey y sus príncipes, sus mujeres y sus concubinas. Bebieron vino y alabaron a los dioses de oro y de plata, de bronce, de hierro, de madera y de piedra.\").",
+        "referencias_inline": [
+          "Daniel 5:3,4"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Por todas estas maldades el rey Belsasar tenía que ver obrar con sus propios ojos a quien había desafiado, al Dios que da los reinos. Un dedo bastó para la sentencia (Daniel 5:5,6 \"En aquella misma hora aparecieron los dedos de una mano de hombre, que escribía delante del candelero sobre lo encalado de la pared del palacio real y el rey veía la mano que escribía. Entonces el rey palideció y sus pensamientos lo turbaron y se debilitaron sus lomos y sus rodillas daban la una contra la otra.\"). Belsasar, debiste considerar que el Altísimo Dios fue quien le dio el reino a Nabucodonosor tu padre y luego te lo pasó a ti, pues se esperaba de ti que hubieras aprendido de él sobre el quebranto por la altivez, pero no fue así. ¡Tú hiciste igual! Por eso, Dios mismo le escribió al rey Belsasar su sentencia en la pared de su palacio y Daniel lo interpretó (Daniel 5:22-28): \"Contó Dios tu reino y le ha puesto fin, pesado has sido en balanza y fuiste hallado falto, tu reino ha sido roto y dado a los medos y los persas. Nunca honraste al Dios en cuya mano está tu vida.\" \"La misma noche fue muerto Belsasar rey de los caldeos.\" Daniel 5:30",
+        "referencias_inline": [
+          "Daniel 5:5,6",
+          "Daniel 5:22-28",
+          "Daniel 5:30"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "De todo esto, temamos de los que otros han hecho y en consecuencia han recibido el terrible pago de parte de Dios. Aprendamos de Belsasar, no hizo caso a lo acontecido a su padre (abuelo) Nabucodosor y hace lo mismo. Tuvo el pago de su maldad. ¡Cuidemos cuando Dios nos dé algo, el orgullo y la soberbia querrán llegar, solo la humildad nos librará! Amén.",
+        "referencias_inline": []
+      }
+    ]
+  },
+  "busqueda": {
+    "texto_indexable": "y tu su hijo daniel 5 17 23 humildad oracion reino de Dios oracion soberbia humildad corazon altivez testimonio lo que nuestros ojos han visto y leido en la biblia sobre lo acontecido a otros es de vital testimonio a nuestras vidas para que nos apercibamos de como Dios ha tratado a estas personas en respuesta a sus malos actos el proposito es que aprendamos de todo eso siendo asi advertidos para que no tropecemos y no caigamos en lo mismo al aprender la leccion evitaremos padecer o sufrir lo que hemos visto en otros pero lamentablemente aun con esos testimonios tan impactantes algunos no quieren aprender el rey belsasar fue alguien asi este rey no aprendio del testimonio de su padre o abuelo el rey nabucodonosor daniel 5 17 entonces daniel respondio y dijo delante del rey tus dones sean para ti y da tus recompensas a otros leere la escritura al rey y le dare la interpretacion antes que nada daniel le hizo saber a belsasar todo lo que Dios le dio a su padre nabucodonosor daniel 5 18 el altisimo Dios oh rey dio a nabucodonosor tu padre el reino y la grandeza la gloria y la majestad para que le quedara claro a belsasar que no fue por su propia inteligencia o su poder humano ni por sus talentos que llego a tener tan vasto imperio como el pensaba por eso le hace el recuento de lo que recibio su padre nabucodonosor de parte de Dios se le dio el reino y la grandeza la gloria y la majestad y por esa grandeza que el senor le dio todos los pueblos naciones y lenguas temblaban y temian delante de el daniel 5 19 y por la grandeza que le dio todos los pueblos naciones y lenguas temblaban y temian delante de el asi que nabucodonosor era un administrador del poder de Dios el poder que se le habia dado era de Dios no era de el nabucodonosor hacia con las personas lo que bien a el le parecia hacer bien o mal daniel 5 19 a quien queria mataba y a quien queria daba vida engrandecia a quien queria y a quien queria humillaba daniel 5 20 mas cuando su corazon se ensoberbecio y su espiritu se endurecio en su orgullo fue depuesto del trono de su reino y despojado de su gloria el llenarse de soberbia es propio del que se le da mucho se ensoberbecio se lleno de soberbia por todo lo que le vino de Dios todo aquel poder y fama lleno a nabucodonosor de orgullo se puso altanero altivo fanfarron se endurecio en orgullo por todo lo que llego a ser y a poseer todo esto dado por Dios que mejor quitarle que perecer fue depuesto apartado de su cargo para hacerle razonar el pago de su soberbia fue que se le quito el reino y se le despojo de su gloria donde estaba ahora la gloria de nabucodonosor daniel 5 21 y fue echado de entre los hijos de los hombres y su mente se hizo semejante a la de las bestias y con los asnos monteses fue su morada hierba le hicieron comer como a buey y su cuerpo fue mojado con el rocio del cielo tambien Dios lo castigo en su mente y fue semejante a las bestias y con asnos llego a estar un asno es mucho mas noble que el impetuoso caballo de los que tendria el rey el asno es de servicio sirve para transportar cargas para montura de las personas por su soberbia el rey nabucodonosor recibio el castigo de Dios y fue reducido a vivir como los asnos del monte con una mente como los animales salvajes comio hierba como un buey y su cuerpo fue maltratado quedo sin la gloria que le daba el poder para con los hombres daniel 5 21 hasta que reconocio que el altisimo Dios tiene dominio sobre el reino de los hombres y que pone sobre el al que le place la autoridad viene de Dios y el es quien puede ejercerla siempre sin equivocarse porque el es justo y tu su hijo belsasar has caido en lo mismo en orgullo daniel 5 22 23 y tu su hijo belsasar no has humillado tu corazon sabiendo todo esto sino que contra el senor del cielo te has ensoberbecido el castigo era sin consideracion pues habia tenido a su padre de ejemplo el imperio de belsasar se lleno de gran orgullo y maldad en la humillacion de nabucodonosor su deleite tuvo que ser el habitar con las bestias y asnos belsasar por su parte no habia errado por ignorancia sino por un desprecio deliberado contra Dios el tenia delante de sus ojos las advertencias asombrosas dadas en el caso de su abuelo nabucodonosor pero belsasar se creia grande y se levanto contra el senor no iba a tener las consideraciones de su abuelo le llego su dia malo aunque llego a honrar a daniel su orgullo rompio todo respeto con sus amigos y mujeres uso los vasos del templo de la casa de Dios que se habian traido de jerusalen y habian estado guardados con respeto a Dios lo hicieron en medio de la adoracion a otros dioses daniel 5 3 4 entonces fueron traidos los vasos de oro que habian traido del templo de la casa de Dios que estaba en jerusalen y bebieron en ellos el rey y sus principes sus mujeres y sus concubinas bebieron vino y alabaron a los dioses de oro y de plata de bronce de hierro de madera y de piedra por todas estas maldades el rey belsasar tenia que ver obrar con sus propios ojos a quien habia desafiado al Dios que da los reinos un dedo basto para la sentencia daniel 5 5 6 en aquella misma hora aparecieron los dedos de una mano de hombre que escribia delante del candelero sobre lo encalado de la pared del palacio real y el rey veia la mano que escribia entonces el rey palidecio y sus pensamientos lo turbaron y se debilitaron sus lomos y sus rodillas daban la una contra la otra belsasar debiste considerar que el altisimo Dios fue quien le dio el reino a nabucodonosor tu padre y luego te lo paso a ti pues se esperaba de ti que hubieras aprendido de el sobre el quebranto por la altivez pero no fue asi tu hiciste igual por eso Dios mismo le escribio al rey belsasar su sentencia en la pared de su palacio y daniel lo interpreto daniel 5 22 28 conto Dios tu reino y le ha puesto fin pesado has sido en balanza y fuiste hallado falto tu reino ha sido roto y dado a los medos y los persas nunca honraste al Dios en cuya mano esta tu vida la misma noche fue muerto belsasar rey de los caldeos daniel 5 30 de todo esto temamos de los que otros han hecho y en consecuencia han recibido el terrible pago de parte de Dios aprendamos de belsasar no hizo caso a lo acontecido a su padre abuelo nabucodosor y hace lo mismo tuvo el pago de su maldad cuidemos cuando Dios nos de algo el orgullo y la soberbia querran llegar solo la humildad nos librara amen",
+    "alias_busqueda": [
+      "Y Tú, Su Hijo",
+      "Daniel",
+      "Daniel 5",
+      "Daniel 5:17-23",
+      "oración",
+      "soberbia",
+      "humildad",
+      "corazón"
+    ]
+  },
+  "revision_manual": {
+    "requiere_revision": false,
+    "motivo": ""
+  },
+  "ui": {
+    "mostrar_credito_en_header": true,
+    "mostrar_numero_estudio": true,
+    "mostrar_fecha": true,
+    "mostrar_topicos": true,
+    "permitir_favorito": true,
+    "permitir_compartir": true
+  }
+}

@@ -1,0 +1,725 @@
+{
+  "id": "estudio-388-sol-detente-en-gabaon-y-el-sol-se-detuvo",
+  "slug": "estudio-388-sol-detente-en-gabaon-y-el-sol-se-detuvo",
+  "numero_estudio": 388,
+  "tipo_estudio": "Iglesia en las casas",
+  "ministerio": {
+    "iglesia": "Iglesia Cristiana Mega Zoe",
+    "pastora": "Pastora Edith Cruz",
+    "credito_corto": "Iglesia Cristiana Mega Zoe · Pastora Edith Cruz",
+    "credito_largo": "Contenido original de Iglesia Cristiana Mega Zoe, conservando el crédito ministerial correspondiente a la Pastora Edith Cruz."
+  },
+  "identidad_editorial": {
+    "idioma": "es",
+    "fuente_original": "documento_pdf",
+    "archivo_origen": "/Users/edwingadiel/Desktop/PDF - Iglesias en las Casas/Estudio 388.pdf",
+    "estado_revision": "procesado",
+    "version_schema": "1.0"
+  },
+  "encabezado": {
+    "titulo": "Sol, Detente En Gabaón Y El Sol Se Detuvo",
+    "subtitulo": null,
+    "cita_principal": "Josué 10:11-141",
+    "resumen_corto": "Sol, Detente En Gabaón Y El Sol Se Detuvo enseña a perseverar en la oración y discernir la batalla espiritual."
+  },
+  "fechas": {
+    "fecha_inicio": null,
+    "fecha_fin": null,
+    "fecha_texto_original": "",
+    "ano": null
+  },
+  "clasificacion_biblica": {
+    "libro_principal": "Josué",
+    "capitulo_principal": 10,
+    "versiculos_principales": [
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100,
+      101,
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      113,
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      133,
+      134,
+      135,
+      136,
+      137,
+      138,
+      139,
+      140,
+      141
+    ],
+    "referencia_principal_normalizada": "Josué 10:11-141",
+    "testamento_principal": "Antiguo Testamento"
+  },
+  "clasificacion_tematica": {
+    "topicos": [
+      "Oración",
+      "Promesas de Dios",
+      "Guerra espiritual",
+      "Discipulado"
+    ],
+    "keywords": [
+      "voluntad de Dios",
+      "oración",
+      "arrepentimiento",
+      "perseverancia",
+      "corazón"
+    ]
+  },
+  "referencias_biblicas": [
+    {
+      "referencia": "Josué 10:11-141",
+      "referencia_normalizada": "Josué 10:11-141",
+      "libro": "Josué",
+      "capitulo": 10,
+      "versiculos": [
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90,
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99,
+        100,
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        111,
+        112,
+        113,
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140,
+        141
+      ],
+      "tipo": "principal",
+      "clickeable": true
+    },
+    {
+      "referencia": "Josué 10:4",
+      "referencia_normalizada": "Josué 10:4",
+      "libro": "Josué",
+      "capitulo": 10,
+      "versiculos": [
+        4
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    }
+  ],
+  "contenido": {
+    "introduccion": "Gabaón era un pueblo que se había unido y hecho parte de Israel. Josué 10:4 Dios había hecho promesa a Abraham de conquista y dominio de la tierra prometida. Por tal razón Josué seguía conquistando aquellas tierras en nombre de Jehová. Pero, cuando los gabaonitas se vieron amenazados por sus enemigos clamaron por ayuda a Josué y Dios comenzó a trabajar a favor de Gabaón. Vers. 8 Jehová le había hablado a Josué, así que él estaba muy claro de lo que estaba haciendo. Como Josué era discípulo de Moisés, en él había un espíritu de mucha disposición. Josué no era perezoso, ni vago. Desde joven comenzó a aprender y a esforzarse. El siempre estuvo presente trabajando constantemente con Moisés. Se levantó como un hombre trabajador, como una persona muy esforzada. A veces Dios pide hasta nuestro sueño para que oremos, para que batallemos y luchemos. El que no lucha, el que no batalla no obtiene nada, pero el que sí lo hace, como lo hizo Josué todo el tiempo puede ver y lograr muchas cosas. A veces buscamos soluciones aquí y allá, pero de la única forma que alcanzamos y vencemos en nuestras luchas es con la oración. No siempre se vence de un día para otro sino que en muchas ocasiones lo logramos en años. Pero, siempre debemos conquistar, debemos hacer más, porque muchos con su pereza no vencen nada. La vida es del que lucha y vence y hay mucho porque luchar. No nos podemos detener. Mientras más sufrimos en esta carrera más batallamos. Mientras más desgastados estemos, luchemos y resucitaremos de eso orando. En toda guerra hay que tener plena seriedad y darle dedicación. Si no lo hacemos nuestro enemigo nos alcanza. Cuando sabemos hacia donde vamos y sabemos lo que queremos conociendo la voluntad de Dios entonces, tenemos que estar batallando. Las guerras que luchamos a favor de otros como lo hizo Josué a favor de los gabaonitas deben estar en todo nuestro sistem<L Hay vidas frágiles que necesitan que alguien pelee por ellos, por esas vidas batallamos y guerreamos para que no se pierdan. Esos son tu familia, tus vecinos, tus amistades, tus hermanos en la fe, etc. Dios le había hablado a Josué que la victoria iba a ser suya. Vers. 8 Aunque Dios se lo había prometido eso no quitaba que había mucho que batallar y que no podían ser perezosos en la batalla. Adam Clark dice: \"Cierto es que Dios le había prometido a Josué y al pueblo, pero las promesas de Dios no están para h�cemos holgazanes sino esforzados.\" Dios nos da, no para que nos echemos a dormir sino para que nos esforcemos y vayamos a buscar las promesas de nuestro Dios. Siendo unos holgazanes nada vamos a recibir. Cuando nos esforzamos en la guerra es hasta agonizar por completo. Poner todos nuestros esfuerzos es la orden. Así dejamos entonces de ser holgazanes porque hemos sido personas esforzadas. Nos esforzamos en todo, nos levantamos en agonía en la oración. Hay que luchar, pelear, rogar y es con mucho esfuerzo. El holgazán es el que no quiere trabajar porque le pesa el trabajo. Cuando luchamos y nos desesperamos por lograr algo lo hacemos hasta agonizar. A veces cuando venimos al Señor llegamos con las holgazanerías del mundo. Y de la única forma que veremos a Dios es siendo personas dispuestas y luchadoras. Así es que vemos la victoria. Cada cual tiene sus batallas y su guerra y tiene que ejercitarse en ellas. Pero tenemos que desprendemos de las holgazanerías. Cuando hay que agonizar lo hacemos porque nos es necesario. Jamás gm1aremos una batalla siendo holgazanes sino levantándonos en oración y en búsqueda. Hay promesas para los nuestros, pero se alcanzan guerreando, agonizando en la batalla. Ser flojo es no mover la mano de Dios. A veces el vivir en tanta comodidad nos es mejor que dedicarnos por completo para Dios, vivir para EL Tenemos que saber que hay unas promesas, que hay un pueblo que conquistar. Esto no lo hacemos de la noche a la mañana, sino día tras día llevando una larga vida de oración y de búsqueda. Vemos aquí en Josué uno de los mejores ejemplos de victoria por medio de la oración. Josué ora delante de todos en un acto de fe y le pide a Dios que el Sol se detenga. El pudo pedir y Dios le contestó. No oró así por su capricho sino porque había en él compromiso con Dios viviendo una vida de mucha dirección de Dios, con pocas comodidades y mucho sacrificio. Detrás de Josué había una pasión, un amor, un deber, un compromiso con su Señor de obediencia y fidelidad. Sabía Josué que tenía que pedir a Dios aunque había para él muchas promesas. Si no sabemos donde estamos parados no vamos a conquistar. Tenemos que conquistar, por eso Dios prolongó ese día de la victoria de Israel hasta la total derrota del enemigo. En ocasiones tenemos que ser atrevidos. La fuerza y la pasión que había en Josué le hicieron hacer aquella oración para que la guerra se llevara hasta el final. Guerra que no se lleva hasta el final es guerra que no se vence. Si nos levantamos y nos caemos es porque no somos guerreros. Si no amamos, entonces ¿cómo será la vida? ¿Cómo vamos a mover la mano y ver la soberanía de Dios? Josué necesitó prolongar las horas de la uz del Sol. Por eso pidió a Dios que detuviera el Sol en Gabaón, donde él estaba guerreando. Así que, el que guerrea necesita la luz. No es lo mismo en la luz que en la oscuridad. Josué tenía que vencer en aquella guerra ese día, no era otro día. Dios respondió a la oración de Josué y el Sol se detuvo. Fue un hecho a favor de todos para que fuera historia. A los enemigos había que acabarlos. Lo que Dios quiere es que batallemos hasta el final contra nuestro enemigo. Jehová les envió a los enemigos de Josué granizo del Cielo y Josué los remató cuando regresaron. Hay que vencer al enemigo cuando regrese a continuar atacándonos. No nos toca tratar de explicar u opacar los milagros de Dios sino glorificar a Dios en ellos. Necesitamos milagros y ellos nos dejan ver que Jehová batalla con nosotros. De la única forma que vencemos nuestras batallas es viendo los milagros de Jehová. Tenemos una espada para herir a nuestro enemigo que viene a matar. Guerreemos, pero no cuando está oscuro porque el enemigo recobra fuerzas, viene más potente haciendo una maquinación perfecta, descubre nuestra fragilidad, hace un estudio completo de nosotros y nos hace la guerra a nuestras espaldas para matarnos a traición. El corazón de Josué era como el corazón de Moisés y éste tenía el corazón de Dios. Para poder vencer y saber que Dios puede hacemos el día más largo para la batalla, tenemos que entender que Jehová escucha nuestra voz. ¡Cuán importante es nuestra voz para Dios! ¿Conoce Dios tu voz? Dios atendió la voz de un hombre. Entonces podrá atender nuestra voz cuando le pedimos por amor, no por nuestro propio beneficio, sino por otros. En la luz vemos por donde viene el diablo. Cuando decimos las cosas tal cual son ganamos. Si no sabemos como el enemigo pelea nos dañará. Hay que oler el plan del diablo. Por eso necesitamos que el Sol se detenga para ver con claridad. Jehová pelea por Mega Zoé, llevamos todas las de ganar. Espera que le pidamos, que confiemos en Él, entonces no vamos a salir derrotados sino montados en nuestros caballos, en total triunfo. La alegría y el triunfo lo 11ev::1mos nosotros en nnestr:.s m:.nos_ nor Aanel ane detiene el Sol n:.ra nosotros. Amén.",
+    "secciones": [
+      {
+        "orden": 1,
+        "titulo": "Introducción",
+        "contenido": "Gabaón era un pueblo que se había unido y hecho parte de Israel. Josué 10:4 Dios había hecho promesa a",
+        "referencias_detectadas": [
+          "Josué 10:4"
+        ]
+      },
+      {
+        "orden": 2,
+        "titulo": "Desarrollo",
+        "contenido": "Abraham de conquista y dominio de la tierra prometida. Por tal razón Josué seguía conquistando aquellas tierras en\nnombre de Jehová. Pero, cuando los gabaonitas se vieron amenazados por sus enemigos clamaron por ayuda a Josué\ny Dios comenzó a trabajar a favor de Gabaón. Vers. 8 Jehová le había hablado a Josué, así que él estaba muy claro\nde lo que estaba haciendo. Como Josué era discípulo de Moisés, en él había un espíritu de mucha disposición.\nJosué no era perezoso, ni vago. Desde joven comenzó a aprender y a esforzarse. El siempre estuvo presente\ntrabajando constantemente con Moisés. Se levantó como un hombre trabajador, como una persona muy esforzada.\nA veces Dios pide hasta nuestro sueño para que oremos, para que batallemos y luchemos. El que no lucha, el que\nno batalla no obtiene nada, pero el que sí lo hace, como lo hizo Josué todo el tiempo puede ver y lograr muchas\ncosas. A veces buscamos soluciones aquí y allá, pero de la única forma que alcanzamos y vencemos en nuestras\nluchas es con la oración. No siempre se vence de un día para otro sino que en muchas ocasiones lo logramos en\naños. Pero, siempre debemos conquistar, debemos hacer más, porque muchos con su pereza no vencen nada. La\nvida es del que lucha y vence y hay mucho porque luchar. No nos podemos detener. Mientras más sufrimos en esta\ncarrera más batallamos. Mientras más desgastados estemos, luchemos y resucitaremos de eso orando.\nEn toda guerra hay que tener plena seriedad y darle dedicación. Si no lo hacemos nuestro enemigo nos alcanza.\nCuando sabemos hacia donde vamos y sabemos lo que queremos conociendo la voluntad de Dios entonces, tenemos\nque estar batallando. Las guerras que luchamos a favor de otros como lo hizo Josué a favor de los gabaonitas deben\nestar en todo nuestro sistem<L Hay vidas frágiles que necesitan que alguien pelee por ellos, por esas vidas batallamos\ny guerreamos para que no se pierdan. Esos son tu familia, tus vecinos, tus amistades, tus hermanos en la fe, etc.\nDios le había hablado a Josué que la victoria iba a ser suya. Vers. 8 Aunque Dios se lo había prometido eso no\nquitaba que había mucho que batallar y que no podían ser perezosos en la batalla. Adam Clark dice: \"Cierto es que\nDios le había prometido a Josué y al pueblo, pero las promesas de Dios no están para h�cemos holgazanes sino\nesforzados.\" Dios nos da, no para que nos echemos a dormir sino para que nos esforcemos y vayamos a buscar las\npromesas de nuestro Dios. Siendo unos holgazanes nada vamos a recibir. Cuando nos esforzamos en la guerra es\nhasta agonizar por completo. Poner todos nuestros esfuerzos es la orden. Así dejamos entonces de ser holgazanes\nporque hemos sido personas esforzadas. Nos esforzamos en todo, nos levantamos en agonía en la oración. Hay que\nluchar, pelear, rogar y es con mucho esfuerzo. El holgazán es el que no quiere trabajar porque le pesa el trabajo.\nCuando luchamos y nos desesperamos por lograr algo lo hacemos hasta agonizar.\nA veces cuando venimos al Señor llegamos con las holgazanerías del mundo. Y de la única forma que veremos a\nDios es siendo personas dispuestas y luchadoras. Así es que vemos la victoria. Cada cual tiene sus batallas y su\nguerra y tiene que ejercitarse en ellas. Pero tenemos que desprendemos de las holgazanerías. Cuando hay que\nagonizar lo hacemos porque nos es necesario. Jamás gm1aremos una batalla siendo holgazanes sino levantándonos\nen oración y en búsqueda. Hay promesas para los nuestros, pero se alcanzan guerreando, agonizando en la batalla.\nSer flojo es no mover la mano de Dios. A veces el vivir en tanta comodidad nos es mejor que dedicarnos por\ncompleto para Dios, vivir para EL Tenemos que saber que hay unas promesas, que hay un pueblo que conquistar.\nEsto no lo hacemos de la noche a la mañana, sino día tras día llevando una larga vida de oración y de búsqueda.\nVemos aquí en Josué uno de los mejores ejemplos de victoria por medio de la oración. Josué ora delante de todos\nen un acto de fe y le pide a Dios que el Sol se detenga. El pudo pedir y Dios le contestó. No oró así por su capricho\nsino porque había en él compromiso con Dios viviendo una vida de mucha dirección de Dios, con pocas\ncomodidades y mucho sacrificio. Detrás de Josué había una pasión, un amor, un deber, un compromiso con su\nSeñor de obediencia y fidelidad. Sabía Josué que tenía que pedir a Dios aunque había para él muchas promesas. Si\nno sabemos donde estamos parados no vamos a conquistar. Tenemos que conquistar, por eso Dios prolongó ese día\nde la victoria de Israel hasta la total derrota del enemigo. En ocasiones tenemos que ser atrevidos. La fuerza y la\npasión que había en Josué le hicieron hacer aquella oración para que la guerra se llevara hasta el final. Guerra que\nno se lleva hasta el final es guerra que no se vence. Si nos levantamos y nos caemos es porque no somos guerreros.\nSi no amamos, entonces ¿cómo será la vida? ¿Cómo vamos a mover la mano y ver la soberanía de Dios? Josué\nnecesitó prolongar las horas de la uz del Sol. Por eso pidió a Dios que detuviera el Sol en Gabaón, donde él estaba\nguerreando. Así que, el que guerrea necesita la luz. No es lo mismo en la luz que en la oscuridad.\nJosué tenía que vencer en aquella guerra ese día, no era otro día. Dios respondió a la oración de Josué y el Sol se\ndetuvo. Fue un hecho a favor de todos para que fuera historia. A los enemigos había que acabarlos. Lo que Dios\nquiere es que batallemos hasta el final contra nuestro enemigo. Jehová les envió a los enemigos de Josué granizo del\nCielo y Josué los remató cuando regresaron. Hay que vencer al enemigo cuando regrese a continuar atacándonos.\nNo nos toca tratar de explicar u opacar los milagros de Dios sino glorificar a Dios en ellos. Necesitamos milagros\ny ellos nos dejan ver que Jehová batalla con nosotros. De la única forma que vencemos nuestras batallas es viendo\nlos milagros de Jehová. Tenemos una espada para herir a nuestro enemigo que viene a matar. Guerreemos, pero no\ncuando está oscuro porque el enemigo recobra fuerzas, viene más potente haciendo una maquinación perfecta,\ndescubre nuestra fragilidad, hace un estudio completo de nosotros y nos hace la guerra a nuestras espaldas para\nmatarnos a traición. El corazón de Josué era como el corazón de Moisés y éste tenía el corazón de Dios. Para poder\nvencer y saber que Dios puede hacemos el día más largo para la batalla, tenemos que entender que Jehová escucha\nnuestra voz. ¡Cuán importante es nuestra voz para Dios! ¿Conoce Dios tu voz? Dios atendió la voz de un hombre.\nEntonces podrá atender nuestra voz cuando le pedimos por amor, no por nuestro propio beneficio, sino por otros. En\nla luz vemos por donde viene el diablo. Cuando decimos las cosas tal cual son ganamos. Si no sabemos como el\nenemigo pelea nos dañará. Hay que oler el plan del diablo. Por eso necesitamos que el Sol se detenga para ver con\nclaridad. Jehová pelea por Mega Zoé, llevamos todas las de ganar. Espera que le pidamos, que confiemos en Él,\nentonces no vamos a salir derrotados sino montados en nuestros caballos, en total triunfo. La alegría y el triunfo lo",
+        "referencias_detectadas": []
+      },
+      {
+        "orden": 3,
+        "titulo": "Conclusión",
+        "contenido": "11ev::1mos nosotros en nnestr:.s m:.nos_ nor Aanel ane detiene el Sol n:.ra nosotros. Amén.",
+        "referencias_detectadas": []
+      }
+    ],
+    "contenido_completo": "Gabaón era un pueblo que se había unido y hecho parte de Israel. Josué 10:4 Dios había hecho promesa a Abraham de conquista y dominio de la tierra prometida. Por tal razón Josué seguía conquistando aquellas tierras en nombre de Jehová. Pero, cuando los gabaonitas se vieron amenazados por sus enemigos clamaron por ayuda a Josué y Dios comenzó a trabajar a favor de Gabaón. Vers. 8 Jehová le había hablado a Josué, así que él estaba muy claro de lo que estaba haciendo. Como Josué era discípulo de Moisés, en él había un espíritu de mucha disposición. Josué no era perezoso, ni vago. Desde joven comenzó a aprender y a esforzarse. El siempre estuvo presente trabajando constantemente con Moisés. Se levantó como un hombre trabajador, como una persona muy esforzada. A veces Dios pide hasta nuestro sueño para que oremos, para que batallemos y luchemos. El que no lucha, el que no batalla no obtiene nada, pero el que sí lo hace, como lo hizo Josué todo el tiempo puede ver y lograr muchas cosas. A veces buscamos soluciones aquí y allá, pero de la única forma que alcanzamos y vencemos en nuestras luchas es con la oración. No siempre se vence de un día para otro sino que en muchas ocasiones lo logramos en años. Pero, siempre debemos conquistar, debemos hacer más, porque muchos con su pereza no vencen nada. La vida es del que lucha y vence y hay mucho porque luchar. No nos podemos detener. Mientras más sufrimos en esta carrera más batallamos. Mientras más desgastados estemos, luchemos y resucitaremos de eso orando. En toda guerra hay que tener plena seriedad y darle dedicación. Si no lo hacemos nuestro enemigo nos alcanza. Cuando sabemos hacia donde vamos y sabemos lo que queremos conociendo la voluntad de Dios entonces, tenemos que estar batallando. Las guerras que luchamos a favor de otros como lo hizo Josué a favor de los gabaonitas deben estar en todo nuestro sistem<L Hay vidas frágiles que necesitan que alguien pelee por ellos, por esas vidas batallamos y guerreamos para que no se pierdan. Esos son tu familia, tus vecinos, tus amistades, tus hermanos en la fe, etc. Dios le había hablado a Josué que la victoria iba a ser suya. Vers. 8 Aunque Dios se lo había prometido eso no quitaba que había mucho que batallar y que no podían ser perezosos en la batalla. Adam Clark dice: \"Cierto es que Dios le había prometido a Josué y al pueblo, pero las promesas de Dios no están para h�cemos holgazanes sino esforzados.\" Dios nos da, no para que nos echemos a dormir sino para que nos esforcemos y vayamos a buscar las promesas de nuestro Dios. Siendo unos holgazanes nada vamos a recibir. Cuando nos esforzamos en la guerra es hasta agonizar por completo. Poner todos nuestros esfuerzos es la orden. Así dejamos entonces de ser holgazanes porque hemos sido personas esforzadas. Nos esforzamos en todo, nos levantamos en agonía en la oración. Hay que luchar, pelear, rogar y es con mucho esfuerzo. El holgazán es el que no quiere trabajar porque le pesa el trabajo. Cuando luchamos y nos desesperamos por lograr algo lo hacemos hasta agonizar. A veces cuando venimos al Señor llegamos con las holgazanerías del mundo. Y de la única forma que veremos a Dios es siendo personas dispuestas y luchadoras. Así es que vemos la victoria. Cada cual tiene sus batallas y su guerra y tiene que ejercitarse en ellas. Pero tenemos que desprendemos de las holgazanerías. Cuando hay que agonizar lo hacemos porque nos es necesario. Jamás gm1aremos una batalla siendo holgazanes sino levantándonos en oración y en búsqueda. Hay promesas para los nuestros, pero se alcanzan guerreando, agonizando en la batalla. Ser flojo es no mover la mano de Dios. A veces el vivir en tanta comodidad nos es mejor que dedicarnos por completo para Dios, vivir para EL Tenemos que saber que hay unas promesas, que hay un pueblo que conquistar. Esto no lo hacemos de la noche a la mañana, sino día tras día llevando una larga vida de oración y de búsqueda. Vemos aquí en Josué uno de los mejores ejemplos de victoria por medio de la oración. Josué ora delante de todos en un acto de fe y le pide a Dios que el Sol se detenga. El pudo pedir y Dios le contestó. No oró así por su capricho sino porque había en él compromiso con Dios viviendo una vida de mucha dirección de Dios, con pocas comodidades y mucho sacrificio. Detrás de Josué había una pasión, un amor, un deber, un compromiso con su Señor de obediencia y fidelidad. Sabía Josué que tenía que pedir a Dios aunque había para él muchas promesas. Si no sabemos donde estamos parados no vamos a conquistar. Tenemos que conquistar, por eso Dios prolongó ese día de la victoria de Israel hasta la total derrota del enemigo. En ocasiones tenemos que ser atrevidos. La fuerza y la pasión que había en Josué le hicieron hacer aquella oración para que la guerra se llevara hasta el final. Guerra que no se lleva hasta el final es guerra que no se vence. Si nos levantamos y nos caemos es porque no somos guerreros. Si no amamos, entonces ¿cómo será la vida? ¿Cómo vamos a mover la mano y ver la soberanía de Dios? Josué necesitó prolongar las horas de la uz del Sol. Por eso pidió a Dios que detuviera el Sol en Gabaón, donde él estaba guerreando. Así que, el que guerrea necesita la luz. No es lo mismo en la luz que en la oscuridad. Josué tenía que vencer en aquella guerra ese día, no era otro día. Dios respondió a la oración de Josué y el Sol se detuvo. Fue un hecho a favor de todos para que fuera historia. A los enemigos había que acabarlos. Lo que Dios quiere es que batallemos hasta el final contra nuestro enemigo. Jehová les envió a los enemigos de Josué granizo del Cielo y Josué los remató cuando regresaron. Hay que vencer al enemigo cuando regrese a continuar atacándonos. No nos toca tratar de explicar u opacar los milagros de Dios sino glorificar a Dios en ellos. Necesitamos milagros y ellos nos dejan ver que Jehová batalla con nosotros. De la única forma que vencemos nuestras batallas es viendo los milagros de Jehová. Tenemos una espada para herir a nuestro enemigo que viene a matar. Guerreemos, pero no cuando está oscuro porque el enemigo recobra fuerzas, viene más potente haciendo una maquinación perfecta, descubre nuestra fragilidad, hace un estudio completo de nosotros y nos hace la guerra a nuestras espaldas para matarnos a traición. El corazón de Josué era como el corazón de Moisés y éste tenía el corazón de Dios. Para poder vencer y saber que Dios puede hacemos el día más largo para la batalla, tenemos que entender que Jehová escucha nuestra voz. ¡Cuán importante es nuestra voz para Dios! ¿Conoce Dios tu voz? Dios atendió la voz de un hombre. Entonces podrá atender nuestra voz cuando le pedimos por amor, no por nuestro propio beneficio, sino por otros. En la luz vemos por donde viene el diablo. Cuando decimos las cosas tal cual son ganamos. Si no sabemos como el enemigo pelea nos dañará. Hay que oler el plan del diablo. Por eso necesitamos que el Sol se detenga para ver con claridad. Jehová pelea por Mega Zoé, llevamos todas las de ganar. Espera que le pidamos, que confiemos en Él, entonces no vamos a salir derrotados sino montados en nuestros caballos, en total triunfo. La alegría y el triunfo lo 11ev::1mos nosotros en nnestr:.s m:.nos_ nor Aanel ane detiene el Sol n:.ra nosotros. Amén.\n\nGabaón era un pueblo que se había unido y hecho parte de Israel. Josué 10:4 Dios había hecho promesa a\n\nAbraham de conquista y dominio de la tierra prometida. Por tal razón Josué seguía conquistando aquellas tierras en\nnombre de Jehová. Pero, cuando los gabaonitas se vieron amenazados por sus enemigos clamaron por ayuda a Josué\ny Dios comenzó a trabajar a favor de Gabaón. Vers. 8 Jehová le había hablado a Josué, así que él estaba muy claro\nde lo que estaba haciendo. Como Josué era discípulo de Moisés, en él había un espíritu de mucha disposición.\nJosué no era perezoso, ni vago. Desde joven comenzó a aprender y a esforzarse. El siempre estuvo presente\ntrabajando constantemente con Moisés. Se levantó como un hombre trabajador, como una persona muy esforzada.\nA veces Dios pide hasta nuestro sueño para que oremos, para que batallemos y luchemos. El que no lucha, el que\nno batalla no obtiene nada, pero el que sí lo hace, como lo hizo Josué todo el tiempo puede ver y lograr muchas\ncosas. A veces buscamos soluciones aquí y allá, pero de la única forma que alcanzamos y vencemos en nuestras\nluchas es con la oración. No siempre se vence de un día para otro sino que en muchas ocasiones lo logramos en\naños. Pero, siempre debemos conquistar, debemos hacer más, porque muchos con su pereza no vencen nada. La\nvida es del que lucha y vence y hay mucho porque luchar. No nos podemos detener. Mientras más sufrimos en esta\ncarrera más batallamos. Mientras más desgastados estemos, luchemos y resucitaremos de eso orando.\nEn toda guerra hay que tener plena seriedad y darle dedicación. Si no lo hacemos nuestro enemigo nos alcanza.\nCuando sabemos hacia donde vamos y sabemos lo que queremos conociendo la voluntad de Dios entonces, tenemos\nque estar batallando. Las guerras que luchamos a favor de otros como lo hizo Josué a favor de los gabaonitas deben\nestar en todo nuestro sistem<L Hay vidas frágiles que necesitan que alguien pelee por ellos, por esas vidas batallamos\ny guerreamos para que no se pierdan. Esos son tu familia, tus vecinos, tus amistades, tus hermanos en la fe, etc.\nDios le había hablado a Josué que la victoria iba a ser suya. Vers. 8 Aunque Dios se lo había prometido eso no\nquitaba que había mucho que batallar y que no podían ser perezosos en la batalla. Adam Clark dice: \"Cierto es que\nDios le había prometido a Josué y al pueblo, pero las promesas de Dios no están para h�cemos holgazanes sino\nesforzados.\" Dios nos da, no para que nos echemos a dormir sino para que nos esforcemos y vayamos a buscar las\npromesas de nuestro Dios. Siendo unos holgazanes nada vamos a recibir. Cuando nos esforzamos en la guerra es\nhasta agonizar por completo. Poner todos nuestros esfuerzos es la orden. Así dejamos entonces de ser holgazanes\nporque hemos sido personas esforzadas. Nos esforzamos en todo, nos levantamos en agonía en la oración. Hay que\nluchar, pelear, rogar y es con mucho esfuerzo. El holgazán es el que no quiere trabajar porque le pesa el trabajo.\nCuando luchamos y nos desesperamos por lograr algo lo hacemos hasta agonizar.\nA veces cuando venimos al Señor llegamos con las holgazanerías del mundo. Y de la única forma que veremos a\nDios es siendo personas dispuestas y luchadoras. Así es que vemos la victoria. Cada cual tiene sus batallas y su\nguerra y tiene que ejercitarse en ellas. Pero tenemos que desprendemos de las holgazanerías. Cuando hay que\nagonizar lo hacemos porque nos es necesario. Jamás gm1aremos una batalla siendo holgazanes sino levantándonos\nen oración y en búsqueda. Hay promesas para los nuestros, pero se alcanzan guerreando, agonizando en la batalla.\nSer flojo es no mover la mano de Dios. A veces el vivir en tanta comodidad nos es mejor que dedicarnos por\ncompleto para Dios, vivir para EL Tenemos que saber que hay unas promesas, que hay un pueblo que conquistar.\nEsto no lo hacemos de la noche a la mañana, sino día tras día llevando una larga vida de oración y de búsqueda.\nVemos aquí en Josué uno de los mejores ejemplos de victoria por medio de la oración. Josué ora delante de todos\nen un acto de fe y le pide a Dios que el Sol se detenga. El pudo pedir y Dios le contestó. No oró así por su capricho\nsino porque había en él compromiso con Dios viviendo una vida de mucha dirección de Dios, con pocas\ncomodidades y mucho sacrificio. Detrás de Josué había una pasión, un amor, un deber, un compromiso con su\nSeñor de obediencia y fidelidad. Sabía Josué que tenía que pedir a Dios aunque había para él muchas promesas. Si\nno sabemos donde estamos parados no vamos a conquistar. Tenemos que conquistar, por eso Dios prolongó ese día\nde la victoria de Israel hasta la total derrota del enemigo. En ocasiones tenemos que ser atrevidos. La fuerza y la\npasión que había en Josué le hicieron hacer aquella oración para que la guerra se llevara hasta el final. Guerra que\nno se lleva hasta el final es guerra que no se vence. Si nos levantamos y nos caemos es porque no somos guerreros.\nSi no amamos, entonces ¿cómo será la vida? ¿Cómo vamos a mover la mano y ver la soberanía de Dios? Josué\nnecesitó prolongar las horas de la uz del Sol. Por eso pidió a Dios que detuviera el Sol en Gabaón, donde él estaba\nguerreando. Así que, el que guerrea necesita la luz. No es lo mismo en la luz que en la oscuridad.\nJosué tenía que vencer en aquella guerra ese día, no era otro día. Dios respondió a la oración de Josué y el Sol se\ndetuvo. Fue un hecho a favor de todos para que fuera historia. A los enemigos había que acabarlos. Lo que Dios\nquiere es que batallemos hasta el final contra nuestro enemigo. Jehová les envió a los enemigos de Josué granizo del\nCielo y Josué los remató cuando regresaron. Hay que vencer al enemigo cuando regrese a continuar atacándonos.\nNo nos toca tratar de explicar u opacar los milagros de Dios sino glorificar a Dios en ellos. Necesitamos milagros\ny ellos nos dejan ver que Jehová batalla con nosotros. De la única forma que vencemos nuestras batallas es viendo\nlos milagros de Jehová. Tenemos una espada para herir a nuestro enemigo que viene a matar. Guerreemos, pero no\ncuando está oscuro porque el enemigo recobra fuerzas, viene más potente haciendo una maquinación perfecta,\ndescubre nuestra fragilidad, hace un estudio completo de nosotros y nos hace la guerra a nuestras espaldas para\nmatarnos a traición. El corazón de Josué era como el corazón de Moisés y éste tenía el corazón de Dios. Para poder\nvencer y saber que Dios puede hacemos el día más largo para la batalla, tenemos que entender que Jehová escucha\nnuestra voz. ¡Cuán importante es nuestra voz para Dios! ¿Conoce Dios tu voz? Dios atendió la voz de un hombre.\nEntonces podrá atender nuestra voz cuando le pedimos por amor, no por nuestro propio beneficio, sino por otros. En\nla luz vemos por donde viene el diablo. Cuando decimos las cosas tal cual son ganamos. Si no sabemos como el\nenemigo pelea nos dañará. Hay que oler el plan del diablo. Por eso necesitamos que el Sol se detenga para ver con\nclaridad. Jehová pelea por Mega Zoé, llevamos todas las de ganar. Espera que le pidamos, que confiemos en Él,\nentonces no vamos a salir derrotados sino montados en nuestros caballos, en total triunfo. La alegría y el triunfo lo\n\n11ev::1mos nosotros en nnestr:.s m:.nos_ nor Aanel ane detiene el Sol n:.ra nosotros. Amén.",
+    "contenido_renderizado": [
+      {
+        "tipo": "parrafo",
+        "texto": "Gabaón era un pueblo que se había unido y hecho parte de Israel. Josué 10:4 Dios había hecho promesa a",
+        "referencias_inline": [
+          "Josué 10:4"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Abraham de conquista y dominio de la tierra prometida. Por tal razón Josué seguía conquistando aquellas tierras en",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "nombre de Jehová. Pero, cuando los gabaonitas se vieron amenazados por sus enemigos clamaron por ayuda a Josué",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "y Dios comenzó a trabajar a favor de Gabaón. Vers. 8 Jehová le había hablado a Josué, así que él estaba muy claro",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "de lo que estaba haciendo. Como Josué era discípulo de Moisés, en él había un espíritu de mucha disposición.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Josué no era perezoso, ni vago. Desde joven comenzó a aprender y a esforzarse. El siempre estuvo presente",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "trabajando constantemente con Moisés. Se levantó como un hombre trabajador, como una persona muy esforzada.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "A veces Dios pide hasta nuestro sueño para que oremos, para que batallemos y luchemos. El que no lucha, el que",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "no batalla no obtiene nada, pero el que sí lo hace, como lo hizo Josué todo el tiempo puede ver y lograr muchas",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "cosas. A veces buscamos soluciones aquí y allá, pero de la única forma que alcanzamos y vencemos en nuestras",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "luchas es con la oración. No siempre se vence de un día para otro sino que en muchas ocasiones lo logramos en",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "años. Pero, siempre debemos conquistar, debemos hacer más, porque muchos con su pereza no vencen nada. La",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "vida es del que lucha y vence y hay mucho porque luchar. No nos podemos detener. Mientras más sufrimos en esta",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "carrera más batallamos. Mientras más desgastados estemos, luchemos y resucitaremos de eso orando.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "En toda guerra hay que tener plena seriedad y darle dedicación. Si no lo hacemos nuestro enemigo nos alcanza.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Cuando sabemos hacia donde vamos y sabemos lo que queremos conociendo la voluntad de Dios entonces, tenemos",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "que estar batallando. Las guerras que luchamos a favor de otros como lo hizo Josué a favor de los gabaonitas deben",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "estar en todo nuestro sistem<L Hay vidas frágiles que necesitan que alguien pelee por ellos, por esas vidas batallamos",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "y guerreamos para que no se pierdan. Esos son tu familia, tus vecinos, tus amistades, tus hermanos en la fe, etc.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Dios le había hablado a Josué que la victoria iba a ser suya. Vers. 8 Aunque Dios se lo había prometido eso no",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "quitaba que había mucho que batallar y que no podían ser perezosos en la batalla. Adam Clark dice: \"Cierto es que",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Dios le había prometido a Josué y al pueblo, pero las promesas de Dios no están para h�cemos holgazanes sino",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "esforzados.\" Dios nos da, no para que nos echemos a dormir sino para que nos esforcemos y vayamos a buscar las",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "promesas de nuestro Dios. Siendo unos holgazanes nada vamos a recibir. Cuando nos esforzamos en la guerra es",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "hasta agonizar por completo. Poner todos nuestros esfuerzos es la orden. Así dejamos entonces de ser holgazanes",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "porque hemos sido personas esforzadas. Nos esforzamos en todo, nos levantamos en agonía en la oración. Hay que",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "luchar, pelear, rogar y es con mucho esfuerzo. El holgazán es el que no quiere trabajar porque le pesa el trabajo.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Cuando luchamos y nos desesperamos por lograr algo lo hacemos hasta agonizar.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "A veces cuando venimos al Señor llegamos con las holgazanerías del mundo. Y de la única forma que veremos a",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Dios es siendo personas dispuestas y luchadoras. Así es que vemos la victoria. Cada cual tiene sus batallas y su",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "guerra y tiene que ejercitarse en ellas. Pero tenemos que desprendemos de las holgazanerías. Cuando hay que",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "agonizar lo hacemos porque nos es necesario. Jamás gm1aremos una batalla siendo holgazanes sino levantándonos",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "en oración y en búsqueda. Hay promesas para los nuestros, pero se alcanzan guerreando, agonizando en la batalla.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Ser flojo es no mover la mano de Dios. A veces el vivir en tanta comodidad nos es mejor que dedicarnos por",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "completo para Dios, vivir para EL Tenemos que saber que hay unas promesas, que hay un pueblo que conquistar.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Esto no lo hacemos de la noche a la mañana, sino día tras día llevando una larga vida de oración y de búsqueda.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Vemos aquí en Josué uno de los mejores ejemplos de victoria por medio de la oración. Josué ora delante de todos",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "en un acto de fe y le pide a Dios que el Sol se detenga. El pudo pedir y Dios le contestó. No oró así por su capricho",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "sino porque había en él compromiso con Dios viviendo una vida de mucha dirección de Dios, con pocas",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "comodidades y mucho sacrificio. Detrás de Josué había una pasión, un amor, un deber, un compromiso con su",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Señor de obediencia y fidelidad. Sabía Josué que tenía que pedir a Dios aunque había para él muchas promesas. Si",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "no sabemos donde estamos parados no vamos a conquistar. Tenemos que conquistar, por eso Dios prolongó ese día",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "de la victoria de Israel hasta la total derrota del enemigo. En ocasiones tenemos que ser atrevidos. La fuerza y la",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "pasión que había en Josué le hicieron hacer aquella oración para que la guerra se llevara hasta el final. Guerra que",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "no se lleva hasta el final es guerra que no se vence. Si nos levantamos y nos caemos es porque no somos guerreros.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Si no amamos, entonces ¿cómo será la vida? ¿Cómo vamos a mover la mano y ver la soberanía de Dios? Josué",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "necesitó prolongar las horas de la uz del Sol. Por eso pidió a Dios que detuviera el Sol en Gabaón, donde él estaba",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "guerreando. Así que, el que guerrea necesita la luz. No es lo mismo en la luz que en la oscuridad.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Josué tenía que vencer en aquella guerra ese día, no era otro día. Dios respondió a la oración de Josué y el Sol se",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "detuvo. Fue un hecho a favor de todos para que fuera historia. A los enemigos había que acabarlos. Lo que Dios",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "quiere es que batallemos hasta el final contra nuestro enemigo. Jehová les envió a los enemigos de Josué granizo del",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Cielo y Josué los remató cuando regresaron. Hay que vencer al enemigo cuando regrese a continuar atacándonos.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "No nos toca tratar de explicar u opacar los milagros de Dios sino glorificar a Dios en ellos. Necesitamos milagros",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "y ellos nos dejan ver que Jehová batalla con nosotros. De la única forma que vencemos nuestras batallas es viendo",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "los milagros de Jehová. Tenemos una espada para herir a nuestro enemigo que viene a matar. Guerreemos, pero no",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "cuando está oscuro porque el enemigo recobra fuerzas, viene más potente haciendo una maquinación perfecta,",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "descubre nuestra fragilidad, hace un estudio completo de nosotros y nos hace la guerra a nuestras espaldas para",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "matarnos a traición. El corazón de Josué era como el corazón de Moisés y éste tenía el corazón de Dios. Para poder",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "vencer y saber que Dios puede hacemos el día más largo para la batalla, tenemos que entender que Jehová escucha",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "nuestra voz. ¡Cuán importante es nuestra voz para Dios! ¿Conoce Dios tu voz? Dios atendió la voz de un hombre.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Entonces podrá atender nuestra voz cuando le pedimos por amor, no por nuestro propio beneficio, sino por otros. En",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "la luz vemos por donde viene el diablo. Cuando decimos las cosas tal cual son ganamos. Si no sabemos como el",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "enemigo pelea nos dañará. Hay que oler el plan del diablo. Por eso necesitamos que el Sol se detenga para ver con",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "claridad. Jehová pelea por Mega Zoé, llevamos todas las de ganar. Espera que le pidamos, que confiemos en Él,",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "entonces no vamos a salir derrotados sino montados en nuestros caballos, en total triunfo. La alegría y el triunfo lo",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "11ev::1mos nosotros en nnestr:.s m:.nos_ nor Aanel ane detiene el Sol n:.ra nosotros. Amén.",
+        "referencias_inline": []
+      }
+    ]
+  },
+  "busqueda": {
+    "texto_indexable": "sol detente en gabaon y el sol se detuvo josue 10 11 141 oracion promesas de Dios guerra espiritual discipulado voluntad de Dios oracion arrepentimiento perseverancia corazon gabaon era un pueblo que se habia unido y hecho parte de israel josue 10 4 Dios habia hecho promesa a abraham de conquista y dominio de la tierra prometida por tal razon josue seguia conquistando aquellas tierras en nombre de jehova pero cuando los gabaonitas se vieron amenazados por sus enemigos clamaron por ayuda a josue y Dios comenzo a trabajar a favor de gabaon vers 8 jehova le habia hablado a josue asi que el estaba muy claro de lo que estaba haciendo como josue era discipulo de moises en el habia un espiritu de mucha disposicion josue no era perezoso ni vago desde joven comenzo a aprender y a esforzarse el siempre estuvo presente trabajando constantemente con moises se levanto como un hombre trabajador como una persona muy esforzada a veces Dios pide hasta nuestro sueno para que oremos para que batallemos y luchemos el que no lucha el que no batalla no obtiene nada pero el que si lo hace como lo hizo josue todo el tiempo puede ver y lograr muchas cosas a veces buscamos soluciones aqui y alla pero de la unica forma que alcanzamos y vencemos en nuestras luchas es con la oracion no siempre se vence de un dia para otro sino que en muchas ocasiones lo logramos en anos pero siempre debemos conquistar debemos hacer mas porque muchos con su pereza no vencen nada la vida es del que lucha y vence y hay mucho porque luchar no nos podemos detener mientras mas sufrimos en esta carrera mas batallamos mientras mas desgastados estemos luchemos y resucitaremos de eso orando en toda guerra hay que tener plena seriedad y darle dedicacion si no lo hacemos nuestro enemigo nos alcanza cuando sabemos hacia donde vamos y sabemos lo que queremos conociendo la voluntad de Dios entonces tenemos que estar batallando las guerras que luchamos a favor de otros como lo hizo josue a favor de los gabaonitas deben estar en todo nuestro sistem l hay vidas fragiles que necesitan que alguien pelee por ellos por esas vidas batallamos y guerreamos para que no se pierdan esos son tu familia tus vecinos tus amistades tus hermanos en la fe etc Dios le habia hablado a josue que la victoria iba a ser suya vers 8 aunque Dios se lo habia prometido eso no quitaba que habia mucho que batallar y que no podian ser perezosos en la batalla adam clark dice cierto es que Dios le habia prometido a josue y al pueblo pero las promesas de Dios no estan para h cemos holgazanes sino esforzados Dios nos da no para que nos echemos a dormir sino para que nos esforcemos y vayamos a buscar las promesas de nuestro Dios siendo unos holgazanes nada vamos a recibir cuando nos esforzamos en la guerra es hasta agonizar por completo poner todos nuestros esfuerzos es la orden asi dejamos entonces de ser holgazanes porque hemos sido personas esforzadas nos esforzamos en todo nos levantamos en agonia en la oracion hay que luchar pelear rogar y es con mucho esfuerzo el holgazan es el que no quiere trabajar porque le pesa el trabajo cuando luchamos y nos desesperamos por lograr algo lo hacemos hasta agonizar a veces cuando venimos al senor llegamos con las holgazanerias del mundo y de la unica forma que veremos a Dios es siendo personas dispuestas y luchadoras asi es que vemos la victoria cada cual tiene sus batallas y su guerra y tiene que ejercitarse en ellas pero tenemos que desprendemos de las holgazanerias cuando hay que agonizar lo hacemos porque nos es necesario jamas gm1aremos una batalla siendo holgazanes sino levantandonos en oracion y en busqueda hay promesas para los nuestros pero se alcanzan guerreando agonizando en la batalla ser flojo es no mover la mano de Dios a veces el vivir en tanta comodidad nos es mejor que dedicarnos por completo para Dios vivir para el tenemos que saber que hay unas promesas que hay un pueblo que conquistar esto no lo hacemos de la noche a la manana sino dia tras dia llevando una larga vida de oracion y de busqueda vemos aqui en josue uno de los mejores ejemplos de victoria por medio de la oracion josue ora delante de todos en un acto de fe y le pide a Dios que el sol se detenga el pudo pedir y Dios le contesto no oro asi por su capricho sino porque habia en el compromiso con Dios viviendo una vida de mucha direccion de Dios con pocas comodidades y mucho sacrificio detras de josue habia una pasion un amor un deber un compromiso con su senor de obediencia y fidelidad sabia josue que tenia que pedir a Dios aunque habia para el muchas promesas si no sabemos donde estamos parados no vamos a conquistar tenemos que conquistar por eso Dios prolongo ese dia de la victoria de israel hasta la total derrota del enemigo en ocasiones tenemos que ser atrevidos la fuerza y la pasion que habia en josue le hicieron hacer aquella oracion para que la guerra se llevara hasta el final guerra que no se lleva hasta el final es guerra que no se vence si nos levantamos y nos caemos es porque no somos guerreros si no amamos entonces como sera la vida como vamos a mover la mano y ver la soberania de Dios josue necesito prolongar las horas de la uz del sol por eso pidio a Dios que detuviera el sol en gabaon donde el estaba guerreando asi que el que guerrea necesita la luz no es lo mismo en la luz que en la oscuridad josue tenia que vencer en aquella guerra ese dia no era otro dia Dios respondio a la oracion de josue y el sol se detuvo fue un hecho a favor de todos para que fuera historia a los enemigos habia que acabarlos lo que Dios quiere es que batallemos hasta el final contra nuestro enemigo jehova les envio a los enemigos de josue granizo del cielo y josue los remato cuando regresaron hay que vencer al enemigo cuando regrese a continuar atacandonos no nos toca tratar de explicar u opacar los milagros de Dios sino glorificar a Dios en ellos necesitamos milagros y ellos nos dejan ver que jehova batalla con nosotros de la unica forma que vencemos nuestras batallas es viendo los milagros de jehova tenemos una espada para herir a nuestro enemigo que viene a matar guerreemos pero no cuando esta oscuro porque el enemigo recobra fuerzas viene mas potente haciendo una maquinacion perfecta descubre nuestra fragilidad hace un estudio completo de nosotros y nos hace la guerra a nuestras espaldas para matarnos a traicion el corazon de josue era como el corazon de moises y este tenia el corazon de Dios para poder vencer y saber que Dios puede hacemos el dia mas largo para la batalla tenemos que entender que jehova escucha nuestra voz cuan importante es nuestra voz para Dios conoce Dios tu voz Dios atendio la voz de un hombre entonces podra atender nuestra voz cuando le pedimos por amor no por nuestro propio beneficio sino por otros en la luz vemos por donde viene el diablo cuando decimos las cosas tal cual son ganamos si no sabemos como el enemigo pelea nos danara hay que oler el plan del diablo por eso necesitamos que el sol se detenga para ver con claridad jehova pelea por mega zoe llevamos todas las de ganar espera que le pidamos que confiemos en el entonces no vamos a salir derrotados sino montados en nuestros caballos en total triunfo la alegria y el triunfo lo 11ev 1mos nosotros en nnestr s m nos nor aanel ane detiene el sol n ra nosotros amen gabaon era un pueblo que se habia unido y hecho parte de israel josue 10 4 Dios habia hecho promesa a abraham de conquista y dominio de la tierra prometida por tal razon josue seguia conquistando aquellas tierras en nombre de jehova pero cuando los gabaonitas se vieron amenazados por sus enemigos clamaron por ayuda a josue y Dios comenzo a trabajar a favor de gabaon vers 8 jehova le habia hablado a josue asi que el estaba muy claro de lo que estaba haciendo como josue era discipulo de moises en el habia un espiritu de mucha disposicion josue no era perezoso ni vago desde joven comenzo a aprender y a esforzarse el siempre estuvo presente trabajando constantemente con moises se levanto como un hombre trabajador como una persona muy esforzada a veces Dios pide hasta nuestro sueno para que oremos para que batallemos y luchemos el que no lucha el que no batalla no obtiene nada pero el que si lo hace como lo hizo josue todo el tiempo puede ver y lograr muchas cosas a veces buscamos soluciones aqui y alla pero de la unica forma que alcanzamos y vencemos en nuestras luchas es con la oracion no siempre se vence de un dia para otro sino que en muchas ocasiones lo logramos en anos pero siempre debemos conquistar debemos hacer mas porque muchos con su pereza no vencen nada la vida es del que lucha y vence y hay mucho porque luchar no nos podemos detener mientras mas sufrimos en esta carrera mas batallamos mientras mas desgastados estemos luchemos y resucitaremos de eso orando en toda guerra hay que tener plena seriedad y darle dedicacion si no lo hacemos nuestro enemigo nos alcanza cuando sabemos hacia donde vamos y sabemos lo que queremos conociendo la voluntad de Dios entonces tenemos que estar batallando las guerras que luchamos a favor de otros como lo hizo josue a favor de los gabaonitas deben estar en todo nuestro sistem l hay vidas fragiles que necesitan que alguien pelee por ellos por esas vidas batallamos y guerreamos para que no se pierdan esos son tu familia tus vecinos tus amistades tus hermanos en la fe etc Dios le habia hablado a josue que la victoria iba a ser suya vers 8 aunque Dios se lo habia prometido eso no quitaba que habia mucho que batallar y que no podian ser perezosos en la batalla adam clark dice cierto es que Dios le habia prometido a josue y al pueblo pero las promesas de Dios no estan para h cemos holgazanes sino esforzados Dios nos da no para que nos echemos a dormir sino para que nos esforcemos y vayamos a buscar las promesas de nuestro Dios siendo unos holgazanes nada vamos a recibir cuando nos esforzamos en la guerra es hasta agonizar por completo poner todos nuestros esfuerzos es la orden asi dejamos entonces de ser holgazanes porque hemos sido personas esforzadas nos esforzamos en todo nos levantamos en agonia en la oracion hay que luchar pelear rogar y es con mucho esfuerzo el holgazan es el que no quiere trabajar porque le pesa el trabajo cuando luchamos y nos desesperamos por lograr algo lo hacemos hasta agonizar a veces cuando venimos al senor llegamos con las holgazanerias del mundo y de la unica forma que veremos a Dios es siendo personas dispuestas y luchadoras asi es que vemos la victoria cada cual tiene sus batallas y su guerra y tiene que ejercitarse en ellas pero tenemos que desprendemos de las holgazanerias cuando hay que agonizar lo hacemos porque nos es necesario jamas gm1aremos una batalla siendo holgazanes sino levantandonos en oracion y en busqueda hay promesas para los nuestros pero se alcanzan guerreando agonizando en la batalla ser flojo es no mover la mano de Dios a veces el vivir en tanta comodidad nos es mejor que dedicarnos por completo para Dios vivir para el tenemos que saber que hay unas promesas que hay un pueblo que conquistar esto no lo hacemos de la noche a la manana sino dia tras dia llevando una larga vida de oracion y de busqueda vemos aqui en josue uno de los mejores ejemplos de victoria por medio de la oracion josue ora delante de todos en un acto de fe y le pide a Dios que el sol se detenga el pudo pedir y Dios le contesto no oro asi por su capricho sino porque habia en el compromiso con Dios viviendo una vida de mucha direccion de Dios con pocas comodidades y mucho sacrificio detras de josue habia una pasion un amor un deber un compromiso con su senor de obediencia y fidelidad sabia josue que tenia que pedir a Dios aunque habia para el muchas promesas si no sabemos donde estamos parados no vamos a conquistar tenemos que conquistar por eso Dios prolongo ese dia de la victoria de israel hasta la total derrota del enemigo en ocasiones tenemos que ser atrevidos la fuerza y la pasion que habia en josue le hicieron hacer aquella oracion para que la guerra se llevara hasta el final guerra que no se lleva hasta el final es guerra que no se vence si nos levantamos y nos caemos es porque no somos guerreros si no amamos entonces como sera la vida como vamos a mover la mano y ver la soberania de Dios josue necesito prolongar las horas de la uz del sol por eso pidio a Dios que detuviera el sol en gabaon donde el estaba guerreando asi que el que guerrea necesita la luz no es lo mismo en la luz que en la oscuridad josue tenia que vencer en aquella guerra ese dia no era otro dia Dios respondio a la oracion de josue y el sol se detuvo fue un hecho a favor de todos para que fuera historia a los enemigos habia que acabarlos lo que Dios quiere es que batallemos hasta el final contra nuestro enemigo jehova les envio a los enemigos de josue granizo del cielo y josue los remato cuando regresaron hay que vencer al enemigo cuando regrese a continuar atacandonos no nos toca tratar de explicar u opacar los milagros de Dios sino glorificar a Dios en ellos necesitamos milagros y ellos nos dejan ver que jehova batalla con nosotros de la unica forma que vencemos nuestras batallas es viendo los milagros de jehova tenemos una espada para herir a nuestro enemigo que viene a matar guerreemos pero no cuando esta oscuro porque el enemigo recobra fuerzas viene mas potente haciendo una maquinacion perfecta descubre nuestra fragilidad hace un estudio completo de nosotros y nos hace la guerra a nuestras espaldas para matarnos a traicion el corazon de josue era como el corazon de moises y este tenia el corazon de Dios para poder vencer y saber que Dios puede hacemos el dia mas largo para la batalla tenemos que entender que jehova escucha nuestra voz cuan importante es nuestra voz para Dios conoce Dios tu voz Dios atendio la voz de un hombre entonces podra atender nuestra voz cuando le pedimos por amor no por nuestro propio beneficio sino por otros en la luz vemos por donde viene el diablo cuando decimos las cosas tal cual son ganamos si no sabemos como el enemigo pelea nos danara hay que oler el plan del diablo por eso necesitamos que el sol se detenga para ver con claridad jehova pelea por mega zoe llevamos todas las de ganar espera que le pidamos que confiemos en el entonces no vamos a salir derrotados sino montados en nuestros caballos en total triunfo la alegria y el triunfo lo 11ev 1mos nosotros en nnestr s m nos nor aanel ane detiene el sol n ra nosotros amen",
+    "alias_busqueda": [
+      "Sol, Detente En Gabaón Y El Sol Se Detuvo",
+      "Josué",
+      "Josué 10",
+      "Josué 10:11-141",
+      "voluntad de Dios",
+      "oración",
+      "arrepentimiento",
+      "perseverancia",
+      "Promesas de Dios"
+    ]
+  },
+  "revision_manual": {
+    "requiere_revision": false,
+    "motivo": ""
+  },
+  "ui": {
+    "mostrar_credito_en_header": true,
+    "mostrar_numero_estudio": true,
+    "mostrar_fecha": true,
+    "mostrar_topicos": true,
+    "permitir_favorito": true,
+    "permitir_compartir": true
+  }
+}

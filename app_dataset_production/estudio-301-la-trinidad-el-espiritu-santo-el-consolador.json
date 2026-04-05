@@ -1,0 +1,323 @@
+{
+  "id": "estudio-301-la-trinidad-el-espiritu-santo-el-consolador",
+  "slug": "estudio-301-la-trinidad-el-espiritu-santo-el-consolador",
+  "numero_estudio": 301,
+  "tipo_estudio": "Iglesia en las casas",
+  "ministerio": {
+    "iglesia": "Iglesia Cristiana Mega Zoe",
+    "pastora": "Pastora Edith Cruz",
+    "credito_corto": "Iglesia Cristiana Mega Zoe · Pastora Edith Cruz",
+    "credito_largo": "Contenido original de Iglesia Cristiana Mega Zoe, conservando el crédito ministerial correspondiente a la Pastora Edith Cruz."
+  },
+  "identidad_editorial": {
+    "idioma": "es",
+    "fuente_original": "documento_word",
+    "archivo_origen": "/Users/edwingadiel/Desktop/Estudios en Word/Estudio #301 La Trinidad, El Espíritu Santo - El Consolador - Mateo 12 28.doc",
+    "estado_revision": "procesado",
+    "version_schema": "1.0"
+  },
+  "encabezado": {
+    "titulo": "La Trinidad, El Espíritu Santo - El Consolador",
+    "subtitulo": null,
+    "cita_principal": "Mateo 12:28",
+    "resumen_corto": "La Trinidad, El Espíritu Santo - El Consolador llama a buscar la bendición de Dios y permanecer como discípulos de Jesús."
+  },
+  "fechas": {
+    "fecha_inicio": "2003-06-03",
+    "fecha_fin": "2003-06-09",
+    "fecha_texto_original": "SEMANA DEL 3 @ 9 DE JUNIO DE 2003",
+    "ano": 2003
+  },
+  "clasificacion_biblica": {
+    "libro_principal": "Mateo",
+    "capitulo_principal": 12,
+    "versiculos_principales": [
+      28
+    ],
+    "referencia_principal_normalizada": "Mateo 12:28",
+    "testamento_principal": "Nuevo Testamento"
+  },
+  "clasificacion_tematica": {
+    "topicos": [
+      "Bendición",
+      "Reino de Dios",
+      "Discipulado",
+      "Espíritu Santo"
+    ],
+    "keywords": [
+      "santidad",
+      "sansón",
+      "mundo",
+      "lágrimas",
+      "filisteos",
+      "escrituras",
+      "escogidos",
+      "dalila"
+    ]
+  },
+  "referencias_biblicas": [
+    {
+      "referencia": "Mateo 12:28",
+      "referencia_normalizada": "Mateo 12:28",
+      "libro": "Mateo",
+      "capitulo": 12,
+      "versiculos": [
+        28
+      ],
+      "tipo": "principal",
+      "clickeable": true
+    },
+    {
+      "referencia": "Lucas 12:10",
+      "referencia_normalizada": "Lucas 12:10",
+      "libro": "Lucas",
+      "capitulo": 12,
+      "versiculos": [
+        10
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Gálatas 5: 17",
+      "referencia_normalizada": "Gálatas 5:17",
+      "libro": "Gálatas",
+      "capitulo": 5,
+      "versiculos": [
+        17
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Gálatas 5:22",
+      "referencia_normalizada": "Gálatas 5:22",
+      "libro": "Gálatas",
+      "capitulo": 5,
+      "versiculos": [
+        22
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Juan 15:26",
+      "referencia_normalizada": "Juan 15:26",
+      "libro": "Juan",
+      "capitulo": 15,
+      "versiculos": [
+        26
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Jueces 16:16",
+      "referencia_normalizada": "Jueces 16:16",
+      "libro": "Jueces",
+      "capitulo": 16,
+      "versiculos": [
+        16
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Juan 16:8",
+      "referencia_normalizada": "Juan 16:8",
+      "libro": "Juan",
+      "capitulo": 16,
+      "versiculos": [
+        8
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Hechos 2:4",
+      "referencia_normalizada": "Hechos 2:4",
+      "libro": "Hechos",
+      "capitulo": 2,
+      "versiculos": [
+        4
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "1 Tesalonicenses 4: 17",
+      "referencia_normalizada": "1 Tesalonicenses 4:17",
+      "libro": "1 Tesalonicenses",
+      "capitulo": 4,
+      "versiculos": [
+        17
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Mateo 24: 39,40",
+      "referencia_normalizada": "Mateo 24:39,40",
+      "libro": "Mateo",
+      "capitulo": 24,
+      "versiculos": [
+        39,
+        40
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Romanos 8:11",
+      "referencia_normalizada": "Romanos 8:11",
+      "libro": "Romanos",
+      "capitulo": 8,
+      "versiculos": [
+        11
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Romanos 8:26",
+      "referencia_normalizada": "Romanos 8:26",
+      "libro": "Romanos",
+      "capitulo": 8,
+      "versiculos": [
+        26
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Juan 16:7",
+      "referencia_normalizada": "Juan 16:7",
+      "libro": "Juan",
+      "capitulo": 16,
+      "versiculos": [
+        7
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Juan 14:26",
+      "referencia_normalizada": "Juan 14:26",
+      "libro": "Juan",
+      "capitulo": 14,
+      "versiculos": [
+        26
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    }
+  ],
+  "contenido": {
+    "introduccion": null,
+    "secciones": [],
+    "contenido_completo": "Mateo 12:28\n\nVivir la vida en el Espíritu es lo mejor que nos puede suceder, pues el mundo nos puede ofrecer muchas cosas, pero luego nos las va a cobrar con grandes intereses. Nunca podrás recibir nada del mundo que luego no te sea cobrado. Pero cuando se vive una vida en el Espíritu vivimos una vida realizada, pues el Espíritu Santo nos toma, nos guía y ya no vivimos según nosotros. Cuando Él nos toma nunca más volvemos a ser los mismos. Pero la única forma en que el Espíritu Santo puede estar en una persona es cuando esa persona se ha convertido (arrepentido de sus pecados y creído en Cristo como su salvador.) ¿Lo has hecho? Algo muy importante y que no podemos ignorar es que hay un pecado que nunca será perdonado y es blasfemar contra el Espíritu Santo. Lucas 12:10 Por eso debemos ver con mucho cuidado quién es el Espíritu Santo en nuestras vidas. Él es un gran tesoro y lo tenemos que conservar. No podemos permitir que el vivir en la carne le lastime. Gálatas 5: 17 El Espíritu Santo es quien sostiene la Iglesia. Tú puedes sentir que Dios está entre nosotros porque así lo deja ver y sentir el Espíritu. Triste es cuando no sabemos que el reino de Dios ha llegado y que el Espíritu de Dios está en medio nuestro, pero cuando lo podemos entender, entonces nos apartamos de todo lo que es el mal y comenzamos a vivir una vida en santidad y verdad. Ya no digo que no puedo con la tentación y con las luchas. Porque el Espíritu de Dios me lleva a vencer.\n\nEn Mateo 12: 28 Jesús dice que cuando el reino de Dios llega, está el Espíritu Santo y los demonios tienen que irse. El reino de Satanás no trae nada bueno, pues Satanás viene a destruir, a matar, a traer desgracia, lágrimas, odio, contiendas, a quitar lo de Dios Padre y a establecer su reino de maldad. Pero si eres espiritual (si vives en el Espíritu) no hay demonio que se te acerque y hasta el hombre impío te va a respetar, porque el reino de Dios traerá a ti amor, gozo, paz, etc. Gálatas 5:22\n\nJuan 15:26 Jesús sabía que no estaría todo el tiempo en medio de sus discípulos y por eso los estaba preparando para que recibieran la promesa, el Consolador. Al cual nosotros cuidaremos que esté siempre en nosotros. No podemos permitir a nadie que nos lo quite. Que nadie nos lo robe, como le ocurrió a Sansón. Jueces 16:16 Pues, el Espíritu de Dios se fue de él porque se dejó vencer por la situación al haberse expuesto al mal. Con una mujer, Dalila, jugó el juego de la carne. Los enemigos del pueblo de Dios, los filisteos, le prometieron a ella dinero si le entregaba a Sansón. (Sí, porque Satanás siempre te quiere comprar para destruirte.) A ella no le importaba el futuro de Sansón, ni que Dios lo había llamado a que levantara un pueblo, y Sansón seguía ahí en la falda de Dalila. Igual nos sucede a nosotros. Muchas veces estamos tanto en lo que es satánico, que nos quedamos en la falda de Dalila y no vindicamos el nombre de Dios ni lo santificamos, porque no hemos recibido al Espíritu Santo, el Consolador.\n\nHace dos mil años Jesús pagó un gran precio, pues Él tomó la muerte para que la Iglesia sea un cuerpo limpio donde el Espíritu Santo pueda morar. Pero, muchos viven tan ajenos a tanta verdad, porque no sacan tiempo para leer las Escrituras. Por eso, el pueblo perece por falta de conocimiento. Nuestra vida podría ser mejor si conociéramos más las Escrituras. Juan 16:8 Pues, el Espíritu Santo nos convence de lo que está bien o está mal. Si no distinguimos el bien del mal es porque el Espíritu Santo no está en nuestras vidas.\n\nHechos 2:4 Aquí comenzó la gran victoria de la Iglesia, pues hubo 120 personas que se reunieron a esperar la promesa, al Consolador, todos en un sólo ruego, orando, unánimes, todos en un solo deseo, que llegara el Espíritu Santo y los llenara. Y esa promesa se hizo realidad en medio de esos 120 hombres y mujeres que fueron dispuestos, valientes, que abrieron el Cielo porque creyeron en la promesa que les hizo Jesús. Y hoy en el 2003, tú y yo también tenemos la bendición del Espíritu Santo gracias a esos 120 que decidieron una sola cosa, que el Espíritu Santo llegara para quedarse en medio de un pueblo hasta el día final de la Iglesia en esta Tierra, el día del rapto, del arrebatamiento de su pueblo al Cielo. 1 Tesalonicenses 4: 17, Mateo 24: 39,40\n\nRomanos 8:11 El Espíritu Santo fue quien resucitó el cuerpo de Jesús, Él fue quien le dio vida, y a nosotros también es el que nos dio vida cuando creímos, porque estábamos muertos en nuestros pecados. También intercede por nosotros, Romanos 8:26, pues nosotros, aunque pedimos al Padre en el nombre del Hijo no sabemos pedir como conviene. Por eso él intercede y nada queda oculto para el que ora, porque al espiritual todo le es revelado. No sabemos pedir, pero Él ruega con gemidos indecibles, gemidos que no entendemos, que muchas veces son hasta angustiosos. El Espíritu intercede porque quiere que la Iglesia se levante con verdad y poder para ser espirituales.\n\nJuan 16:7 Los discípulos no querían que Jesús se fuera, pero Jesús les decía que les convenía que Él se fuera porque así sería enviado el Consolador. Él entendía que a ellos les haría falta el Consolador, porque es necesario que el Espíritu more en la iglesia, porque somos escogidos y santificados por el Espíritu, pues llegó para dirigir nuestras vidas. Él es quien nos acuerda todo lo que Jesús dijo.\n\nHermanos, sepamos que nuestro compromiso es con la Trinidad, Juan 14:26, a ellos como uno, nos debemos. Ellos, como uno, nos escogieron y a ellos, como uno solo, le tenemos que servir.\n\nLa gracia del Señor Jesucristo, el amor de Dios y la comunión del Espíritu Santo sean con la Iglesia siempre, y así no habrá confusión, sino bendición y vida abundante. Amén.",
+    "contenido_renderizado": [
+      {
+        "tipo": "parrafo",
+        "texto": "Mateo 12:28",
+        "referencias_inline": [
+          "Mateo 12:28"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Vivir la vida en el Espíritu es lo mejor que nos puede suceder, pues el mundo nos puede ofrecer muchas cosas, pero luego nos las va a cobrar con grandes intereses. Nunca podrás recibir nada del mundo que luego no te sea cobrado. Pero cuando se vive una vida en el Espíritu vivimos una vida realizada, pues el Espíritu Santo nos toma, nos guía y ya no vivimos según nosotros. Cuando Él nos toma nunca más volvemos a ser los mismos. Pero la única forma en que el Espíritu Santo puede estar en una persona es cuando esa persona se ha convertido (arrepentido de sus pecados y creído en Cristo como su salvador.) ¿Lo has hecho? Algo muy importante y que no podemos ignorar es que hay un pecado que nunca será perdonado y es blasfemar contra el Espíritu Santo. Lucas 12:10 Por eso debemos ver con mucho cuidado quién es el Espíritu Santo en nuestras vidas. Él es un gran tesoro y lo tenemos que conservar. No podemos permitir que el vivir en la carne le lastime. Gálatas 5: 17 El Espíritu Santo es quien sostiene la Iglesia. Tú puedes sentir que Dios está entre nosotros porque así lo deja ver y sentir el Espíritu. Triste es cuando no sabemos que el reino de Dios ha llegado y que el Espíritu de Dios está en medio nuestro, pero cuando lo podemos entender, entonces nos apartamos de todo lo que es el mal y comenzamos a vivir una vida en santidad y verdad. Ya no digo que no puedo con la tentación y con las luchas. Porque el Espíritu de Dios me lleva a vencer.",
+        "referencias_inline": [
+          "Lucas 12:10",
+          "Gálatas 5:17"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "En Mateo 12: 28 Jesús dice que cuando el reino de Dios llega, está el Espíritu Santo y los demonios tienen que irse. El reino de Satanás no trae nada bueno, pues Satanás viene a destruir, a matar, a traer desgracia, lágrimas, odio, contiendas, a quitar lo de Dios Padre y a establecer su reino de maldad. Pero si eres espiritual (si vives en el Espíritu) no hay demonio que se te acerque y hasta el hombre impío te va a respetar, porque el reino de Dios traerá a ti amor, gozo, paz, etc. Gálatas 5:22",
+        "referencias_inline": [
+          "Mateo 12:28",
+          "Gálatas 5:22"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Juan 15:26 Jesús sabía que no estaría todo el tiempo en medio de sus discípulos y por eso los estaba preparando para que recibieran la promesa, el Consolador. Al cual nosotros cuidaremos que esté siempre en nosotros. No podemos permitir a nadie que nos lo quite. Que nadie nos lo robe, como le ocurrió a Sansón. Jueces 16:16 Pues, el Espíritu de Dios se fue de él porque se dejó vencer por la situación al haberse expuesto al mal. Con una mujer, Dalila, jugó el juego de la carne. Los enemigos del pueblo de Dios, los filisteos, le prometieron a ella dinero si le entregaba a Sansón. (Sí, porque Satanás siempre te quiere comprar para destruirte.) A ella no le importaba el futuro de Sansón, ni que Dios lo había llamado a que levantara un pueblo, y Sansón seguía ahí en la falda de Dalila. Igual nos sucede a nosotros. Muchas veces estamos tanto en lo que es satánico, que nos quedamos en la falda de Dalila y no vindicamos el nombre de Dios ni lo santificamos, porque no hemos recibido al Espíritu Santo, el Consolador.",
+        "referencias_inline": [
+          "Juan 15:26",
+          "Jueces 16:16"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Hace dos mil años Jesús pagó un gran precio, pues Él tomó la muerte para que la Iglesia sea un cuerpo limpio donde el Espíritu Santo pueda morar. Pero, muchos viven tan ajenos a tanta verdad, porque no sacan tiempo para leer las Escrituras. Por eso, el pueblo perece por falta de conocimiento. Nuestra vida podría ser mejor si conociéramos más las Escrituras. Juan 16:8 Pues, el Espíritu Santo nos convence de lo que está bien o está mal. Si no distinguimos el bien del mal es porque el Espíritu Santo no está en nuestras vidas.",
+        "referencias_inline": [
+          "Juan 16:8"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Hechos 2:4 Aquí comenzó la gran victoria de la Iglesia, pues hubo 120 personas que se reunieron a esperar la promesa, al Consolador, todos en un sólo ruego, orando, unánimes, todos en un solo deseo, que llegara el Espíritu Santo y los llenara. Y esa promesa se hizo realidad en medio de esos 120 hombres y mujeres que fueron dispuestos, valientes, que abrieron el Cielo porque creyeron en la promesa que les hizo Jesús. Y hoy en el 2003, tú y yo también tenemos la bendición del Espíritu Santo gracias a esos 120 que decidieron una sola cosa, que el Espíritu Santo llegara para quedarse en medio de un pueblo hasta el día final de la Iglesia en esta Tierra, el día del rapto, del arrebatamiento de su pueblo al Cielo. 1 Tesalonicenses 4: 17, Mateo 24: 39,40",
+        "referencias_inline": [
+          "Hechos 2:4",
+          "1 Tesalonicenses 4:17",
+          "Mateo 24:39,40"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Romanos 8:11 El Espíritu Santo fue quien resucitó el cuerpo de Jesús, Él fue quien le dio vida, y a nosotros también es el que nos dio vida cuando creímos, porque estábamos muertos en nuestros pecados. También intercede por nosotros, Romanos 8:26, pues nosotros, aunque pedimos al Padre en el nombre del Hijo no sabemos pedir como conviene. Por eso él intercede y nada queda oculto para el que ora, porque al espiritual todo le es revelado. No sabemos pedir, pero Él ruega con gemidos indecibles, gemidos que no entendemos, que muchas veces son hasta angustiosos. El Espíritu intercede porque quiere que la Iglesia se levante con verdad y poder para ser espirituales.",
+        "referencias_inline": [
+          "Romanos 8:11",
+          "Romanos 8:26"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Juan 16:7 Los discípulos no querían que Jesús se fuera, pero Jesús les decía que les convenía que Él se fuera porque así sería enviado el Consolador. Él entendía que a ellos les haría falta el Consolador, porque es necesario que el Espíritu more en la iglesia, porque somos escogidos y santificados por el Espíritu, pues llegó para dirigir nuestras vidas. Él es quien nos acuerda todo lo que Jesús dijo.",
+        "referencias_inline": [
+          "Juan 16:7"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Hermanos, sepamos que nuestro compromiso es con la Trinidad, Juan 14:26, a ellos como uno, nos debemos. Ellos, como uno, nos escogieron y a ellos, como uno solo, le tenemos que servir.",
+        "referencias_inline": [
+          "Juan 14:26"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "La gracia del Señor Jesucristo, el amor de Dios y la comunión del Espíritu Santo sean con la Iglesia siempre, y así no habrá confusión, sino bendición y vida abundante. Amén.",
+        "referencias_inline": []
+      }
+    ]
+  },
+  "busqueda": {
+    "texto_indexable": "la trinidad el espiritu santo el consolador mateo 12 28 bendicion reino de Dios discipulado espiritu santo santidad sanson mundo lagrimas filisteos escrituras escogidos dalila mateo 12 28 vivir la vida en el espiritu es lo mejor que nos puede suceder pues el mundo nos puede ofrecer muchas cosas pero luego nos las va a cobrar con grandes intereses nunca podras recibir nada del mundo que luego no te sea cobrado pero cuando se vive una vida en el espiritu vivimos una vida realizada pues el espiritu santo nos toma nos guia y ya no vivimos segun nosotros cuando el nos toma nunca mas volvemos a ser los mismos pero la unica forma en que el espiritu santo puede estar en una persona es cuando esa persona se ha convertido arrepentido de sus pecados y creido en cristo como su salvador lo has hecho algo muy importante y que no podemos ignorar es que hay un pecado que nunca sera perdonado y es blasfemar contra el espiritu santo lucas 12 10 por eso debemos ver con mucho cuidado quien es el espiritu santo en nuestras vidas el es un gran tesoro y lo tenemos que conservar no podemos permitir que el vivir en la carne le lastime galatas 5 17 el espiritu santo es quien sostiene la iglesia tu puedes sentir que Dios esta entre nosotros porque asi lo deja ver y sentir el espiritu triste es cuando no sabemos que el reino de Dios ha llegado y que el espiritu de Dios esta en medio nuestro pero cuando lo podemos entender entonces nos apartamos de todo lo que es el mal y comenzamos a vivir una vida en santidad y verdad ya no digo que no puedo con la tentacion y con las luchas porque el espiritu de Dios me lleva a vencer en mateo 12 28 Jesus dice que cuando el reino de Dios llega esta el espiritu santo y los demonios tienen que irse el reino de satanas no trae nada bueno pues satanas viene a destruir a matar a traer desgracia lagrimas odio contiendas a quitar lo de Dios padre y a establecer su reino de maldad pero si eres espiritual si vives en el espiritu no hay demonio que se te acerque y hasta el hombre impio te va a respetar porque el reino de Dios traera a ti amor gozo paz etc galatas 5 22 juan 15 26 Jesus sabia que no estaria todo el tiempo en medio de sus discipulos y por eso los estaba preparando para que recibieran la promesa el consolador al cual nosotros cuidaremos que este siempre en nosotros no podemos permitir a nadie que nos lo quite que nadie nos lo robe como le ocurrio a sanson jueces 16 16 pues el espiritu de Dios se fue de el porque se dejo vencer por la situacion al haberse expuesto al mal con una mujer dalila jugo el juego de la carne los enemigos del pueblo de Dios los filisteos le prometieron a ella dinero si le entregaba a sanson si porque satanas siempre te quiere comprar para destruirte a ella no le importaba el futuro de sanson ni que Dios lo habia llamado a que levantara un pueblo y sanson seguia ahi en la falda de dalila igual nos sucede a nosotros muchas veces estamos tanto en lo que es satanico que nos quedamos en la falda de dalila y no vindicamos el nombre de Dios ni lo santificamos porque no hemos recibido al espiritu santo el consolador hace dos mil anos Jesus pago un gran precio pues el tomo la muerte para que la iglesia sea un cuerpo limpio donde el espiritu santo pueda morar pero muchos viven tan ajenos a tanta verdad porque no sacan tiempo para leer las escrituras por eso el pueblo perece por falta de conocimiento nuestra vida podria ser mejor si conocieramos mas las escrituras juan 16 8 pues el espiritu santo nos convence de lo que esta bien o esta mal si no distinguimos el bien del mal es porque el espiritu santo no esta en nuestras vidas hechos 2 4 aqui comenzo la gran victoria de la iglesia pues hubo 120 personas que se reunieron a esperar la promesa al consolador todos en un solo ruego orando unanimes todos en un solo deseo que llegara el espiritu santo y los llenara y esa promesa se hizo realidad en medio de esos 120 hombres y mujeres que fueron dispuestos valientes que abrieron el cielo porque creyeron en la promesa que les hizo Jesus y hoy en el 2003 tu y yo tambien tenemos la bendicion del espiritu santo gracias a esos 120 que decidieron una sola cosa que el espiritu santo llegara para quedarse en medio de un pueblo hasta el dia final de la iglesia en esta tierra el dia del rapto del arrebatamiento de su pueblo al cielo 1 tesalonicenses 4 17 mateo 24 39 40 romanos 8 11 el espiritu santo fue quien resucito el cuerpo de Jesus el fue quien le dio vida y a nosotros tambien es el que nos dio vida cuando creimos porque estabamos muertos en nuestros pecados tambien intercede por nosotros romanos 8 26 pues nosotros aunque pedimos al padre en el nombre del hijo no sabemos pedir como conviene por eso el intercede y nada queda oculto para el que ora porque al espiritual todo le es revelado no sabemos pedir pero el ruega con gemidos indecibles gemidos que no entendemos que muchas veces son hasta angustiosos el espiritu intercede porque quiere que la iglesia se levante con verdad y poder para ser espirituales juan 16 7 los discipulos no querian que Jesus se fuera pero Jesus les decia que les convenia que el se fuera porque asi seria enviado el consolador el entendia que a ellos les haria falta el consolador porque es necesario que el espiritu more en la iglesia porque somos escogidos y santificados por el espiritu pues llego para dirigir nuestras vidas el es quien nos acuerda todo lo que Jesus dijo hermanos sepamos que nuestro compromiso es con la trinidad juan 14 26 a ellos como uno nos debemos ellos como uno nos escogieron y a ellos como uno solo le tenemos que servir la gracia del senor jesucristo el amor de Dios y la comunion del espiritu santo sean con la iglesia siempre y asi no habra confusion sino bendicion y vida abundante amen",
+    "alias_busqueda": [
+      "La Trinidad, El Espíritu Santo - El Consolador",
+      "Mateo",
+      "Mateo 12",
+      "Mateo 12:28",
+      "santidad",
+      "sansón",
+      "mundo",
+      "lágrimas",
+      "Bendición",
+      "Reino de Dios"
+    ]
+  },
+  "revision_manual": {
+    "requiere_revision": false,
+    "motivo": ""
+  },
+  "ui": {
+    "mostrar_credito_en_header": true,
+    "mostrar_numero_estudio": true,
+    "mostrar_fecha": true,
+    "mostrar_topicos": true,
+    "permitir_favorito": true,
+    "permitir_compartir": true
+  }
+}

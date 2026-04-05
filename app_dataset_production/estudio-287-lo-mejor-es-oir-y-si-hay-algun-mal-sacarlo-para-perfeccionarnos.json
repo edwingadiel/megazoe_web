@@ -1,0 +1,298 @@
+{
+  "id": "estudio-287-lo-mejor-es-oir-y-si-hay-algun-mal-sacarlo-para-perfeccionarnos",
+  "slug": "estudio-287-lo-mejor-es-oir-y-si-hay-algun-mal-sacarlo-para-perfeccionarnos",
+  "numero_estudio": 287,
+  "tipo_estudio": "Iglesia en las casas",
+  "ministerio": {
+    "iglesia": "Iglesia Cristiana Mega Zoe",
+    "pastora": "Pastora Edith Cruz",
+    "credito_corto": "Iglesia Cristiana Mega Zoe · Pastora Edith Cruz",
+    "credito_largo": "Contenido original de Iglesia Cristiana Mega Zoe, conservando el crédito ministerial correspondiente a la Pastora Edith Cruz."
+  },
+  "identidad_editorial": {
+    "idioma": "es",
+    "fuente_original": "documento_word",
+    "archivo_origen": "/Users/edwingadiel/Desktop/Estudios en Word/Estudio #287 - Lo mejor es oír....doc",
+    "estado_revision": "procesado",
+    "version_schema": "1.0"
+  },
+  "encabezado": {
+    "titulo": "Lo mejor es oír y si hay algún mal sacarlo para perfeccionarnos",
+    "subtitulo": null,
+    "cita_principal": "Hebreos 5:11-14",
+    "resumen_corto": "Lo mejor es oír y si hay algún mal sacarlo para perfeccionarnos llama a atender la Palabra de Dios y vivir con la mirada puesta en la vida eterna."
+  },
+  "fechas": {
+    "fecha_inicio": null,
+    "fecha_fin": null,
+    "fecha_texto_original": "",
+    "ano": null
+  },
+  "clasificacion_biblica": {
+    "libro_principal": "Hebreos",
+    "capitulo_principal": 5,
+    "versiculos_principales": [
+      11,
+      12,
+      13,
+      14
+    ],
+    "referencia_principal_normalizada": "Hebreos 5:11-14",
+    "testamento_principal": "Nuevo Testamento"
+  },
+  "clasificacion_tematica": {
+    "topicos": [
+      "Palabra de Dios",
+      "Vida eterna",
+      "Discernimiento espiritual",
+      "Salvación"
+    ],
+    "keywords": [
+      "vida eterna",
+      "arrepentimiento",
+      "fuego",
+      "escrituras",
+      "discernir"
+    ]
+  },
+  "referencias_biblicas": [
+    {
+      "referencia": "Hebreos 5:11-14",
+      "referencia_normalizada": "Hebreos 5:11-14",
+      "libro": "Hebreos",
+      "capitulo": 5,
+      "versiculos": [
+        11,
+        12,
+        13,
+        14
+      ],
+      "tipo": "principal",
+      "clickeable": true
+    },
+    {
+      "referencia": "Éxodo 32: 1",
+      "referencia_normalizada": "Éxodo 32:1",
+      "libro": "Éxodo",
+      "capitulo": 32,
+      "versiculos": [
+        1
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Juan 5: 24",
+      "referencia_normalizada": "Juan 5:24",
+      "libro": "Juan",
+      "capitulo": 5,
+      "versiculos": [
+        24
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Hebreos 10: 38, 39",
+      "referencia_normalizada": "Hebreos 10:38,39",
+      "libro": "Hebreos",
+      "capitulo": 10,
+      "versiculos": [
+        38,
+        39
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "1 Pedro 5: 6",
+      "referencia_normalizada": "1 Pedro 5:6",
+      "libro": "1 Pedro",
+      "capitulo": 5,
+      "versiculos": [
+        6
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Hebreos 5: 11",
+      "referencia_normalizada": "Hebreos 5:11",
+      "libro": "Hebreos",
+      "capitulo": 5,
+      "versiculos": [
+        11
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "1 Corintios 10: 9-11",
+      "referencia_normalizada": "1 Corintios 10:9-11",
+      "libro": "1 Corintios",
+      "capitulo": 10,
+      "versiculos": [
+        9,
+        10,
+        11
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Hebreos 5: 12",
+      "referencia_normalizada": "Hebreos 5:12",
+      "libro": "Hebreos",
+      "capitulo": 5,
+      "versiculos": [
+        12
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Hebreos 2: 1-3",
+      "referencia_normalizada": "Hebreos 2:1-3",
+      "libro": "Hebreos",
+      "capitulo": 2,
+      "versiculos": [
+        1,
+        2,
+        3
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Mateo 7: 13,14",
+      "referencia_normalizada": "Mateo 7:13,14",
+      "libro": "Mateo",
+      "capitulo": 7,
+      "versiculos": [
+        13,
+        14
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Efesios 6: 12",
+      "referencia_normalizada": "Efesios 6:12",
+      "libro": "Efesios",
+      "capitulo": 6,
+      "versiculos": [
+        12
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Hebreos 5: 13,14",
+      "referencia_normalizada": "Hebreos 5:13,14",
+      "libro": "Hebreos",
+      "capitulo": 5,
+      "versiculos": [
+        13,
+        14
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Hebreos 6: 1",
+      "referencia_normalizada": "Hebreos 6:1",
+      "libro": "Hebreos",
+      "capitulo": 6,
+      "versiculos": [
+        1
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Hebreos 6: 4-6",
+      "referencia_normalizada": "Hebreos 6:4-6",
+      "libro": "Hebreos",
+      "capitulo": 6,
+      "versiculos": [
+        4,
+        5,
+        6
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "2 Corintios 13: 5-7",
+      "referencia_normalizada": "2 Corintios 13:5-7",
+      "libro": "2 Corintios",
+      "capitulo": 13,
+      "versiculos": [
+        5,
+        6,
+        7
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    }
+  ],
+  "contenido": {
+    "introduccion": null,
+    "secciones": [],
+    "contenido_completo": "Después de los acontecimientos de Éxodo 32: 1 en adelante, cuando Moisés estuvo en el monte la segunda vez que las tablas tuvieron que ser escritas por Dios, aquello le tomó más de su tiempo y esfuerzo porque tuvo que repetir los 40 días de ayuno y sufrir la rebeldía del pueblo. Sucedió eso porque hubo un pueblo tardo para oír que comenzó a adorar a un becerro de oro que no tiene vida, que solo es un metal. Supongo que Moisés le dijo a Aarón: \"En grandes problemas te has metido porque no supiste cuidar lo que era necesario que cuidaras.\" Fue una actitud muy mala de parte de Aarón. Mis hermanos, un líder se escoge para que sepa guiar a un pueblo a lo que es bueno, y para que trabaje exactamente en lo que se le manda. Hay que tener oídos para oír.\n\nNosotros en este tiempo sabemos que hemos pasado de muerte a vida, ya que estábamos muertos en nuestros delitos y pecados. Juan 5: 24 Pero en el caso que hemos mencionado sobre Moisés y Aarón vemos que Dios sacó al pueblo de la esclavitud, pero a aquel pueblo le gustaba volver atrás, a la muerte. Hebreos 10: 38, 39 Hemos pasado de muerte a vida, no de vida a muerte. Sucede que el que no quiere oír no oye. Esto es un gran problema, están los que no quieren oír ni ver sus propias y dañinas actitudes. Mis hermanos, cuando algo es señalado como mal, lo mejor es oír al que nos corrige y luego ir y sacar el mal que pueda haber en nosotros. 1 Pedro 5: 6 De igual manera pasa cuando queremos corregir algo en la casa, lo mejor es resolverlo pronto para que no traiga la maldición. Que difícil es tener que insistir mucho para sacar a alguno de su error, porque cuando las personas están duras, ni con un taladro le entra la palabra de exhortación. Sucede también que en ocasiones cuando queremos tener una conversación para exhortar a una persona, ella juega mucho con las palabras y así no posemos ayudarla. Por eso dice en Hebreos 5: 11, \"Mucho que decir y difícil de explicar.\" El hombre es difícil para oír y escuchar el consejo, porque hay mucha rebeldía, hay mucha terquedad. El corazón está muy duro y por eso vive a su propio antojo. Pero, el detalle importante para nosotros es que somos la iglesia del Señor y no podemos vivir así, sino como el Padre quiere que vivamos. ¿Sabes tú lo que es estar en terquedad y en enojo? Si eso nos sucede nos convertimos en tardos para oír. Y prontos para hablar, y no tan solo hablar sino para difamar, comentar de otros, murmurar, etc. 1 Corintios 10: 9-11 Por eso es que a veces nos sentamos a hablar con alguien y uno no ha terminado de decirle algo, cuando ya esa persona nos tiene una contestación. Mis hermanos, nunca nos hagamos grandes, porque mientras más grandes nos creamos ser, peor será la caída, el reventón. Cuando una persona cristiana se convierte en ser tardo para oír, cae en el peligro de perder la eternidad. Entendamos entonces que bajo esas circunstancias lo que está en juego es la eternidad, no son las posiciones del ministerio, no es primero lo que los demás piensen de nosotros, sino que es por la eternidad por la cual hay que luchar contra la sordera espiritual. Porque debiendo de ser ya maestros, todavía algunos están de que se les vuelva a enseñar lo que ya se les enseñó. Hebreos 5: 12 Lo que nos debe preocupar cada día es que si nosotros morimos, ¿para donde vamos? Seamos sabios y no perdamos esta salvación tan grande. HEBREOS 2: 1-3 El maestro es aquella persona que enseña, que imparte la primera enseñanza. Iglesia, ya es hora de que seamos maestros. ¿Sabes lo que nos pasaría si lo que encontramos en Cristo lo dejamos por bobadas de esta tierra y perdiéramos la vida eterna? El día en que nos convertimos lloramos mucho, pero luego a algunos se les olvida que el Camino es dificil, que es complicado. Mateo 7: 13,14 Ya nuestra lucha no es con los seres humanos, sino contra el mismo Satanás. Efesios 6: 12 Y ¿tu crees que podemos vencer todo eso tomando botella como los bebés, tomando leche? Es hora de empezar a caminar donde Dios quiere. Basta de la leche. Hebreos 5: 13,14 Pero, lamentablemente hay gente que quiere vivir en sus debilidades y escapan para no dar frente a la situación. A esos les gusta más la fantasía. Pero, para nosotros es hora de ya pasar de tomar leche a comer carne y alcanzar la madurez. La madurez que se alcanza con el tiempo, con el estudio de la Palabra. Es necesario que las Escrituras sean leídas todos los días. Que las experiencias difíciles que hemos vivido no nos sean para reproche o queja sino para ganar experiencia y no para vergüenza. Oigamos bien y pongamos atención. Hermanos, este camino es muy violento para vivirlo como un juego, viviendo como en una nube, sin querer escuchar, sin estar sumisos al Espíritu Santo, sin apetito por las Escrituras. No podemos vivir como niños. Tengamos cuidado de no ser llevados de todo viento de doctrina, pongamos atención a la Palabra de Dios para discernir el bien y el mal. Vamos hacia un camino, hacia la perfección y la tenemos que alcanzar. Hebreos 6: 1 Para alcanzar la perfección hay que entrenarse. Es absurdo que por descuido pongamos a Jesús en burla de todo el mundo, cuando ya era hora de alcanzar la perfección. Cuidado pues con nuestros actos y palabras llevamos a Jesús a la Cruz de nuevo. Hebreos 6: 4-6 ¿Crees que esto es justo? Mis hermanos, el que sea hallado reprobado le llegará la maldición y será quemado en el lago de fuego que arde con azufre. 2 Corintios 13: 5-7 Escapemos nosotros de esto, tengamos oídos y libremos del mal a los que están a nuestro lado. AMEN.",
+    "contenido_renderizado": [
+      {
+        "tipo": "parrafo",
+        "texto": "Después de los acontecimientos de Éxodo 32: 1 en adelante, cuando Moisés estuvo en el monte la segunda vez que las tablas tuvieron que ser escritas por Dios, aquello le tomó más de su tiempo y esfuerzo porque tuvo que repetir los 40 días de ayuno y sufrir la rebeldía del pueblo. Sucedió eso porque hubo un pueblo tardo para oír que comenzó a adorar a un becerro de oro que no tiene vida, que solo es un metal. Supongo que Moisés le dijo a Aarón: \"En grandes problemas te has metido porque no supiste cuidar lo que era necesario que cuidaras.\" Fue una actitud muy mala de parte de Aarón. Mis hermanos, un líder se escoge para que sepa guiar a un pueblo a lo que es bueno, y para que trabaje exactamente en lo que se le manda. Hay que tener oídos para oír.",
+        "referencias_inline": [
+          "Éxodo 32:1"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Nosotros en este tiempo sabemos que hemos pasado de muerte a vida, ya que estábamos muertos en nuestros delitos y pecados. Juan 5: 24 Pero en el caso que hemos mencionado sobre Moisés y Aarón vemos que Dios sacó al pueblo de la esclavitud, pero a aquel pueblo le gustaba volver atrás, a la muerte. Hebreos 10: 38, 39 Hemos pasado de muerte a vida, no de vida a muerte. Sucede que el que no quiere oír no oye. Esto es un gran problema, están los que no quieren oír ni ver sus propias y dañinas actitudes. Mis hermanos, cuando algo es señalado como mal, lo mejor es oír al que nos corrige y luego ir y sacar el mal que pueda haber en nosotros. 1 Pedro 5: 6 De igual manera pasa cuando queremos corregir algo en la casa, lo mejor es resolverlo pronto para que no traiga la maldición. Que difícil es tener que insistir mucho para sacar a alguno de su error, porque cuando las personas están duras, ni con un taladro le entra la palabra de exhortación. Sucede también que en ocasiones cuando queremos tener una conversación para exhortar a una persona, ella juega mucho con las palabras y así no posemos ayudarla. Por eso dice en Hebreos 5: 11, \"Mucho que decir y difícil de explicar.\" El hombre es difícil para oír y escuchar el consejo, porque hay mucha rebeldía, hay mucha terquedad. El corazón está muy duro y por eso vive a su propio antojo. Pero, el detalle importante para nosotros es que somos la iglesia del Señor y no podemos vivir así, sino como el Padre quiere que vivamos. ¿Sabes tú lo que es estar en terquedad y en enojo? Si eso nos sucede nos convertimos en tardos para oír. Y prontos para hablar, y no tan solo hablar sino para difamar, comentar de otros, murmurar, etc. 1 Corintios 10: 9-11 Por eso es que a veces nos sentamos a hablar con alguien y uno no ha terminado de decirle algo, cuando ya esa persona nos tiene una contestación. Mis hermanos, nunca nos hagamos grandes, porque mientras más grandes nos creamos ser, peor será la caída, el reventón. Cuando una persona cristiana se convierte en ser tardo para oír, cae en el peligro de perder la eternidad. Entendamos entonces que bajo esas circunstancias lo que está en juego es la eternidad, no son las posiciones del ministerio, no es primero lo que los demás piensen de nosotros, sino que es por la eternidad por la cual hay que luchar contra la sordera espiritual. Porque debiendo de ser ya maestros, todavía algunos están de que se les vuelva a enseñar lo que ya se les enseñó. Hebreos 5: 12 Lo que nos debe preocupar cada día es que si nosotros morimos, ¿para donde vamos? Seamos sabios y no perdamos esta salvación tan grande. HEBREOS 2: 1-3 El maestro es aquella persona que enseña, que imparte la primera enseñanza. Iglesia, ya es hora de que seamos maestros. ¿Sabes lo que nos pasaría si lo que encontramos en Cristo lo dejamos por bobadas de esta tierra y perdiéramos la vida eterna? El día en que nos convertimos lloramos mucho, pero luego a algunos se les olvida que el Camino es dificil, que es complicado. Mateo 7: 13,14 Ya nuestra lucha no es con los seres humanos, sino contra el mismo Satanás. Efesios 6: 12 Y ¿tu crees que podemos vencer todo eso tomando botella como los bebés, tomando leche? Es hora de empezar a caminar donde Dios quiere. Basta de la leche. Hebreos 5: 13,14 Pero, lamentablemente hay gente que quiere vivir en sus debilidades y escapan para no dar frente a la situación. A esos les gusta más la fantasía. Pero, para nosotros es hora de ya pasar de tomar leche a comer carne y alcanzar la madurez. La madurez que se alcanza con el tiempo, con el estudio de la Palabra. Es necesario que las Escrituras sean leídas todos los días. Que las experiencias difíciles que hemos vivido no nos sean para reproche o queja sino para ganar experiencia y no para vergüenza. Oigamos bien y pongamos atención. Hermanos, este camino es muy violento para vivirlo como un juego, viviendo como en una nube, sin querer escuchar, sin estar sumisos al Espíritu Santo, sin apetito por las Escrituras. No podemos vivir como niños. Tengamos cuidado de no ser llevados de todo viento de doctrina, pongamos atención a la Palabra de Dios para discernir el bien y el mal. Vamos hacia un camino, hacia la perfección y la tenemos que alcanzar. Hebreos 6: 1 Para alcanzar la perfección hay que entrenarse. Es absurdo que por descuido pongamos a Jesús en burla de todo el mundo, cuando ya era hora de alcanzar la perfección. Cuidado pues con nuestros actos y palabras llevamos a Jesús a la Cruz de nuevo. Hebreos 6: 4-6 ¿Crees que esto es justo? Mis hermanos, el que sea hallado reprobado le llegará la maldición y será quemado en el lago de fuego que arde con azufre. 2 Corintios 13: 5-7 Escapemos nosotros de esto, tengamos oídos y libremos del mal a los que están a nuestro lado. AMEN.",
+        "referencias_inline": [
+          "Juan 5:24",
+          "Hebreos 10:38,39",
+          "1 Pedro 5:6",
+          "Hebreos 5:11",
+          "1 Corintios 10:9-11",
+          "Hebreos 5:12",
+          "Hebreos 2:1-3",
+          "Mateo 7:13,14",
+          "Efesios 6:12",
+          "Hebreos 5:13,14",
+          "Hebreos 6:1",
+          "Hebreos 6:4-6",
+          "2 Corintios 13:5-7"
+        ]
+      }
+    ]
+  },
+  "busqueda": {
+    "texto_indexable": "lo mejor es oir y si hay algun mal sacarlo para perfeccionarnos hebreos 5 11 14 palabra de Dios vida eterna discernimiento espiritual salvacion vida eterna arrepentimiento fuego escrituras discernir despues de los acontecimientos de exodo 32 1 en adelante cuando moises estuvo en el monte la segunda vez que las tablas tuvieron que ser escritas por Dios aquello le tomo mas de su tiempo y esfuerzo porque tuvo que repetir los 40 dias de ayuno y sufrir la rebeldia del pueblo sucedio eso porque hubo un pueblo tardo para oir que comenzo a adorar a un becerro de oro que no tiene vida que solo es un metal supongo que moises le dijo a aaron en grandes problemas te has metido porque no supiste cuidar lo que era necesario que cuidaras fue una actitud muy mala de parte de aaron mis hermanos un lider se escoge para que sepa guiar a un pueblo a lo que es bueno y para que trabaje exactamente en lo que se le manda hay que tener oidos para oir nosotros en este tiempo sabemos que hemos pasado de muerte a vida ya que estabamos muertos en nuestros delitos y pecados juan 5 24 pero en el caso que hemos mencionado sobre moises y aaron vemos que Dios saco al pueblo de la esclavitud pero a aquel pueblo le gustaba volver atras a la muerte hebreos 10 38 39 hemos pasado de muerte a vida no de vida a muerte sucede que el que no quiere oir no oye esto es un gran problema estan los que no quieren oir ni ver sus propias y daninas actitudes mis hermanos cuando algo es senalado como mal lo mejor es oir al que nos corrige y luego ir y sacar el mal que pueda haber en nosotros 1 pedro 5 6 de igual manera pasa cuando queremos corregir algo en la casa lo mejor es resolverlo pronto para que no traiga la maldicion que dificil es tener que insistir mucho para sacar a alguno de su error porque cuando las personas estan duras ni con un taladro le entra la palabra de exhortacion sucede tambien que en ocasiones cuando queremos tener una conversacion para exhortar a una persona ella juega mucho con las palabras y asi no posemos ayudarla por eso dice en hebreos 5 11 mucho que decir y dificil de explicar el hombre es dificil para oir y escuchar el consejo porque hay mucha rebeldia hay mucha terquedad el corazon esta muy duro y por eso vive a su propio antojo pero el detalle importante para nosotros es que somos la iglesia del senor y no podemos vivir asi sino como el padre quiere que vivamos sabes tu lo que es estar en terquedad y en enojo si eso nos sucede nos convertimos en tardos para oir y prontos para hablar y no tan solo hablar sino para difamar comentar de otros murmurar etc 1 corintios 10 9 11 por eso es que a veces nos sentamos a hablar con alguien y uno no ha terminado de decirle algo cuando ya esa persona nos tiene una contestacion mis hermanos nunca nos hagamos grandes porque mientras mas grandes nos creamos ser peor sera la caida el reventon cuando una persona cristiana se convierte en ser tardo para oir cae en el peligro de perder la eternidad entendamos entonces que bajo esas circunstancias lo que esta en juego es la eternidad no son las posiciones del ministerio no es primero lo que los demas piensen de nosotros sino que es por la eternidad por la cual hay que luchar contra la sordera espiritual porque debiendo de ser ya maestros todavia algunos estan de que se les vuelva a ensenar lo que ya se les enseno hebreos 5 12 lo que nos debe preocupar cada dia es que si nosotros morimos para donde vamos seamos sabios y no perdamos esta salvacion tan grande hebreos 2 1 3 el maestro es aquella persona que ensena que imparte la primera ensenanza iglesia ya es hora de que seamos maestros sabes lo que nos pasaria si lo que encontramos en cristo lo dejamos por bobadas de esta tierra y perdieramos la vida eterna el dia en que nos convertimos lloramos mucho pero luego a algunos se les olvida que el camino es dificil que es complicado mateo 7 13 14 ya nuestra lucha no es con los seres humanos sino contra el mismo satanas efesios 6 12 y tu crees que podemos vencer todo eso tomando botella como los bebes tomando leche es hora de empezar a caminar donde Dios quiere basta de la leche hebreos 5 13 14 pero lamentablemente hay gente que quiere vivir en sus debilidades y escapan para no dar frente a la situacion a esos les gusta mas la fantasia pero para nosotros es hora de ya pasar de tomar leche a comer carne y alcanzar la madurez la madurez que se alcanza con el tiempo con el estudio de la palabra es necesario que las escrituras sean leidas todos los dias que las experiencias dificiles que hemos vivido no nos sean para reproche o queja sino para ganar experiencia y no para verguenza oigamos bien y pongamos atencion hermanos este camino es muy violento para vivirlo como un juego viviendo como en una nube sin querer escuchar sin estar sumisos al espiritu santo sin apetito por las escrituras no podemos vivir como ninos tengamos cuidado de no ser llevados de todo viento de doctrina pongamos atencion a la palabra de Dios para discernir el bien y el mal vamos hacia un camino hacia la perfeccion y la tenemos que alcanzar hebreos 6 1 para alcanzar la perfeccion hay que entrenarse es absurdo que por descuido pongamos a Jesus en burla de todo el mundo cuando ya era hora de alcanzar la perfeccion cuidado pues con nuestros actos y palabras llevamos a Jesus a la cruz de nuevo hebreos 6 4 6 crees que esto es justo mis hermanos el que sea hallado reprobado le llegara la maldicion y sera quemado en el lago de fuego que arde con azufre 2 corintios 13 5 7 escapemos nosotros de esto tengamos oidos y libremos del mal a los que estan a nuestro lado amen",
+    "alias_busqueda": [
+      "Lo mejor es oír y si hay algún mal sacarlo para perfeccionarnos",
+      "Hebreos",
+      "Hebreos 5",
+      "Hebreos 5:11-14",
+      "vida eterna",
+      "arrepentimiento",
+      "fuego",
+      "escrituras",
+      "Palabra de Dios"
+    ]
+  },
+  "revision_manual": {
+    "requiere_revision": false,
+    "motivo": ""
+  },
+  "ui": {
+    "mostrar_credito_en_header": true,
+    "mostrar_numero_estudio": true,
+    "mostrar_fecha": true,
+    "mostrar_topicos": true,
+    "permitir_favorito": true,
+    "permitir_compartir": true
+  }
+}

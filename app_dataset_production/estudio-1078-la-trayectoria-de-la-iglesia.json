@@ -1,0 +1,631 @@
+{
+  "id": "estudio-1078-la-trayectoria-de-la-iglesia",
+  "slug": "estudio-1078-la-trayectoria-de-la-iglesia",
+  "numero_estudio": 1078,
+  "tipo_estudio": "Iglesia en las casas",
+  "ministerio": {
+    "iglesia": "Iglesia Cristiana Mega Zoe",
+    "pastora": "Pastora Edith Cruz",
+    "credito_corto": "Iglesia Cristiana Mega Zoe · Pastora Edith Cruz",
+    "credito_largo": "Contenido original de Iglesia Cristiana Mega Zoe, conservando el crédito ministerial correspondiente a la Pastora Edith Cruz."
+  },
+  "identidad_editorial": {
+    "idioma": "es",
+    "fuente_original": "documento_word",
+    "archivo_origen": "/Users/edwingadiel/Desktop/Estudios en Word/Estudio #1078 La trayectoria de la Iglesia - 2 Juan 1 1-13.docx",
+    "estado_revision": "procesado",
+    "version_schema": "1.0"
+  },
+  "encabezado": {
+    "titulo": "La Trayectoria De La Iglesia",
+    "subtitulo": null,
+    "cita_principal": "2 Juan 1:1-13",
+    "resumen_corto": "La Trayectoria De La Iglesia enseña a atender la Palabra de Dios y caminar con sabiduría espiritual."
+  },
+  "fechas": {
+    "fecha_inicio": null,
+    "fecha_fin": null,
+    "fecha_texto_original": "",
+    "ano": null
+  },
+  "clasificacion_biblica": {
+    "libro_principal": "2 Juan",
+    "capitulo_principal": 1,
+    "versiculos_principales": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13
+    ],
+    "referencia_principal_normalizada": "2 Juan 1:1-13",
+    "testamento_principal": "Nuevo Testamento"
+  },
+  "clasificacion_tematica": {
+    "topicos": [
+      "Palabra de Dios",
+      "Sabiduría espiritual",
+      "Familia",
+      "Verdad",
+      "Iglesia"
+    ],
+    "keywords": [
+      "arrepentimiento",
+      "Éfeso",
+      "perseverancia",
+      "escrituras",
+      "testimonio"
+    ]
+  },
+  "referencias_biblicas": [
+    {
+      "referencia": "2 Juan 1:1-13",
+      "referencia_normalizada": "2 Juan 1:1-13",
+      "libro": "2 Juan",
+      "capitulo": 1,
+      "versiculos": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "tipo": "principal",
+      "clickeable": true
+    },
+    {
+      "referencia": "Hechos 11:26",
+      "referencia_normalizada": "Hechos 11:26",
+      "libro": "Hechos",
+      "capitulo": 11,
+      "versiculos": [
+        26
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "1 Corintios 16:19",
+      "referencia_normalizada": "1 Corintios 16:19",
+      "libro": "1 Corintios",
+      "capitulo": 16,
+      "versiculos": [
+        19
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Apocalipsis 1:11",
+      "referencia_normalizada": "Apocalipsis 1:11",
+      "libro": "Apocalipsis",
+      "capitulo": 1,
+      "versiculos": [
+        11
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Colosenses 4:15",
+      "referencia_normalizada": "Colosenses 4:15",
+      "libro": "Colosenses",
+      "capitulo": 4,
+      "versiculos": [
+        15
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "1 Pedro 5:13",
+      "referencia_normalizada": "1 Pedro 5:13",
+      "libro": "1 Pedro",
+      "capitulo": 5,
+      "versiculos": [
+        13
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Hechos 18:22",
+      "referencia_normalizada": "Hechos 18:22",
+      "libro": "Hechos",
+      "capitulo": 18,
+      "versiculos": [
+        22
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Romanos 16:1",
+      "referencia_normalizada": "Romanos 16:1",
+      "libro": "Romanos",
+      "capitulo": 16,
+      "versiculos": [
+        1
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "1 Corintios 1:2",
+      "referencia_normalizada": "1 Corintios 1:2",
+      "libro": "1 Corintios",
+      "capitulo": 1,
+      "versiculos": [
+        2
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Hechos 20:17",
+      "referencia_normalizada": "Hechos 20:17",
+      "libro": "Hechos",
+      "capitulo": 20,
+      "versiculos": [
+        17
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Gálatas 1:2",
+      "referencia_normalizada": "Gálatas 1:2",
+      "libro": "Gálatas",
+      "capitulo": 1,
+      "versiculos": [
+        2
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Hechos 8:1",
+      "referencia_normalizada": "Hechos 8:1",
+      "libro": "Hechos",
+      "capitulo": 8,
+      "versiculos": [
+        1
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Gálatas 1:22",
+      "referencia_normalizada": "Gálatas 1:22",
+      "libro": "Gálatas",
+      "capitulo": 1,
+      "versiculos": [
+        22
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "2 Corintios 8:1",
+      "referencia_normalizada": "2 Corintios 8:1",
+      "libro": "2 Corintios",
+      "capitulo": 8,
+      "versiculos": [
+        1
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Apocalipsis 2:12",
+      "referencia_normalizada": "Apocalipsis 2:12",
+      "libro": "Apocalipsis",
+      "capitulo": 2,
+      "versiculos": [
+        12
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Apocalipsis 3:7",
+      "referencia_normalizada": "Apocalipsis 3:7",
+      "libro": "Apocalipsis",
+      "capitulo": 3,
+      "versiculos": [
+        7
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Filipenses 1:1",
+      "referencia_normalizada": "Filipenses 1:1",
+      "libro": "Filipenses",
+      "capitulo": 1,
+      "versiculos": [
+        1
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Romanos 1:7",
+      "referencia_normalizada": "Romanos 1:7",
+      "libro": "Romanos",
+      "capitulo": 1,
+      "versiculos": [
+        7
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Apocalipsis 3:1",
+      "referencia_normalizada": "Apocalipsis 3:1",
+      "libro": "Apocalipsis",
+      "capitulo": 3,
+      "versiculos": [
+        1
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Apocalipsis 2:8",
+      "referencia_normalizada": "Apocalipsis 2:8",
+      "libro": "Apocalipsis",
+      "capitulo": 2,
+      "versiculos": [
+        8
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Apocalipsis 2:18",
+      "referencia_normalizada": "Apocalipsis 2:18",
+      "libro": "Apocalipsis",
+      "capitulo": 2,
+      "versiculos": [
+        18
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Hechos 5:42",
+      "referencia_normalizada": "Hechos 5:42",
+      "libro": "Hechos",
+      "capitulo": 5,
+      "versiculos": [
+        42
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "2 Juan 14:16",
+      "referencia_normalizada": "2 Juan 14:16",
+      "libro": "2 Juan",
+      "capitulo": 14,
+      "versiculos": [
+        16
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "1 Juan 5:6",
+      "referencia_normalizada": "1 Juan 5:6",
+      "libro": "1 Juan",
+      "capitulo": 5,
+      "versiculos": [
+        6
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Juan 14:16, 17",
+      "referencia_normalizada": "Juan 14:16,17",
+      "libro": "Juan",
+      "capitulo": 14,
+      "versiculos": [
+        16,
+        17
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Juan 17:17",
+      "referencia_normalizada": "Juan 17:17",
+      "libro": "Juan",
+      "capitulo": 17,
+      "versiculos": [
+        17
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "1 Corintios 13: 4-7",
+      "referencia_normalizada": "1 Corintios 13:4-7",
+      "libro": "1 Corintios",
+      "capitulo": 13,
+      "versiculos": [
+        4,
+        5,
+        6,
+        7
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    }
+  ],
+  "contenido": {
+    "introduccion": null,
+    "secciones": [],
+    "contenido_completo": "¡Yo sé quién tú eres de acuerdo a como le obedeces al Señor! ¡Si Lo obedeces es porque Le temes y si Le temes, pues, sabes quién es Él! LA IGLESIA ES UNA TRAYECTORIA, un recorrido directo sin perder el rumbo; una trayectoria en los buenos momentos, en los momentos difíciles, en días de tolerar, en días de amar, de soportar la angustia, etc. Aunque a uno le pareciera no poder. ¡Eso es la Iglesia! ¡La iglesia que nos reunimos en el templo, en ese local donde nos reunimos para amarnos, para orar y oír la palabra, para los cánticos, para amar y adorar al Padre, para darnos un abrazo! ¡Ese local QUE HOY NO LO HAY! Tal vez, en los días del culto muchas veces has llegado cansado, tal vez llegas allí a tu estilo, no sé, lo que sea para ti, lo que signifique para ti. Lo más posible, que cuando te reunías el saludo no te inquietaba, pues hoy ¡no lo tenemos! A algunos les duele, lloran, les da tristeza, depende de la personalidad. Yo sé que hoy, ¡no hay nada de culto en el templo! Pero, te enseñaré ¡DE LA IGLESIA EN LAS CASAS!\n\nI. El recorrido de la Iglesia nos lleva a conocer LA IGLESIA EN LAS CASAS.\n\nA. Hoy tú verás la trayectoria de la Iglesia mediante la Palabra, las Escrituras.\n\n1. Te daré versículos para que veas el recorrido de la Iglesia a través de los siglos, hoy leerás para tu bien.\n\n2. Mira los versículos: Hechos 11:26; 1 Corintios 16:19; Apocalipsis 1:11; Colosenses 4:15; 1 Pedro 5:13; Hechos 18:22; Romanos 16:1; 1 Corintios 1:2; Hechos 20:17; Gálatas 1:2; Hechos 8:1; Gálatas 1:22; 2 Corintios 8:1; Apocalipsis 2:12; Apocalipsis 3:7; Filipenses 1:1; Romanos 1:7; Apocalipsis 3:1; Apocalipsis 2:8; Apocalipsis 2:18; Hechos 5:42\n\n3. Cuando te llegue este estudio lo lees para ti, léelo para que puedas ver lo que son: ¡LAS IGLESIAS EN LAS CASAS DE LOS HERMANOS!\n\n4. Ahora vamos a conocer lo que dice en 2da de Juan.\n\na. (Vs.1) Juan, se refiere a él como EL ANCIANO, puede ser por su edad o por la posición en la iglesia.\n\nb. Escribe desde la ciudad de Éfeso y le escribe a la iglesia local.\n\nc. Deja ver el comienzo de la epístola que había una sólida AMISTAD entre él y \"la señora\", a quien le dirige la carta. ¡Qué bueno es tener esa sólida amistad! Cuando hay un amigo = amar. Los mejores amigos están unidos por un lazo estrecho, comparten los buenos y malos momentos de la vida; hay lealtad, afecto, el respeto y el sentido del compromiso. ¡Eso lo hay en la iglesia!\n\nDe hecho, por lo general en la amistad hay siempre amor y en el amor hay amistad.\n\n5. Juan es esa autoridad, fue el que levantó y amó con fuerza aquella iglesia a la que le escribía, así que \"la señora\" y los hermanos que allí se reunían, ¡también cuidaban la Iglesia!\n\n6. LA SEÑORA ELEGIDA era a quien Juan le enviaba la carta.\n\na. Está Juan escribiéndole a una señora cristiana, QUE JUNTO CON TODOS LOS CREYENTES ES UNA ELEGIDA DE Dios, escogida en Cristo antes de la fundación del mundo.\n\nb. Es especialmente significativo que esta advertencia en contra de maestros anticristianos se encuentre en una carta dirigida a una mujer.\n\nc. ¡El amor de Juan deja ver que la señora elegida era una mujer digna de amar! La razón de esto, es que, si fue elegida por Dios, pues estaba Dios en ella, sus hechos de amor, de entrega, su pasión y dedicación, sus esfuerzos sin cansarse. Y, por tal razón, no tenía queja de la iglesia, la amaba y a ella le era devuelto por Dios ¡amor también!\n\nd. Sus hijos, creyentes de testimonio que amaban al Señor igual que ella y que daban de su amor en el servicio para aquellos que ella llevaba en su casa.\n\n7. Con ella muchos habían llegado a conocer la verdad y ella los cuidaba dándole ese servicio al Señor.\n\n8. (Vs.2) LA VERDAD que permanece en nosotros y estará para siempre con nosotros.\n\n9. Jesús es la verdad (2 Juan 14:16), el Espíritu Santo es la verdad (1 Juan 5:6) (Juan 14:16, 17), Tu palabra es verdad (Juan 17:17).\n\n10. (Vs.3) Hermoso saludo, ¡GRACIA, MISERICORDIA Y PAZ sean con vosotros!\n\n11. GRACIA es el favor que no merecemos, MISERICORDIA es la compasión para con los culpables y miserables y PAZ es la relación de armonía que resulta de la gracia y de la misericordia de parte de Dios. La señora cuidó que los hermanos fueran enseñados y cuidados por lo aprendido de Juan, tal como Juan lo aprendió de Cristo.\n\n12. Ella mantenía todo esto en verdad y en amor. ¡El Padre es la Fuente y el Hijo es el canal!\n\n13. (Vs.4) Los creyentes de aquella iglesia, ¡estaban andando en la verdad!\n\n14. En sus vidas diarias se mantenían en la verdad, ERA EFICAZ ESA IGLESIA EN LAS CASAS.\n\n15. (Vs.5) Que se amen unos a otros, con el amor de Cristo, amor que sufre, etc. (1 Corintios 13: 4-7).\n\n16. (Vs.6) ¡Amar es darse abnegadamente para beneficio de otros! ¿Qué tal tú?\n\n17. No es, ¿qué puedo conseguir de esa persona?, sino, ¿qué puedo hacer por esta persona?\n\n18. Eso recibimos del Padre, lo puedes hacer andando en obediencia al Señor y a la verdad de Dios.\n\nII. (Vs.7) Cuidado con LOS ENGAÑADORES que se pueden infiltrar.\n\nA. Aquellos que se introducen con gestos, opiniones, y con ¿el por qué?\n\n1. Hay que mantenerse firme en la verdad \"cuidarnos\" en lo que se refiere a lo de Jesús en nuestras vidas.\n\n2. Cuidarte de cualquiera que se rebela, se extravía (Vs.9), y no quiere perseverar en la doctrina del Señor.\n\n3. Los transgresores tienen \"nueva luz\" y enseñan doctrinas que Dios no ha revelado en Su palabra.\n\n4. (Vs.10) No los recibas en casa, ni saludarlos, no son compañeros de la Palabra como para darles cabida en las conversaciones santas ni en la comunión de los santos. ¡No podemos entregar nuestro amor al que no ama la verdad!\n\n5. Por el amor que nos tenemos; cuidémonos de lo falso que se vaya a querer sembrar en medio de ustedes.\n\n6. Ahora no estoy yo presente en el templo, PERO TÚ ESTÁS EN LA IGLESIA EN TU CASA, ¡para PROTEGER LA VERDAD que hemos conocido! Amén.",
+    "contenido_renderizado": [
+      {
+        "tipo": "parrafo",
+        "texto": "¡Yo sé quién tú eres de acuerdo a como le obedeces al Señor! ¡Si Lo obedeces es porque Le temes y si Le temes, pues, sabes quién es Él! LA IGLESIA ES UNA TRAYECTORIA, un recorrido directo sin perder el rumbo; una trayectoria en los buenos momentos, en los momentos difíciles, en días de tolerar, en días de amar, de soportar la angustia, etc. Aunque a uno le pareciera no poder. ¡Eso es la Iglesia! ¡La iglesia que nos reunimos en el templo, en ese local donde nos reunimos para amarnos, para orar y oír la palabra, para los cánticos, para amar y adorar al Padre, para darnos un abrazo! ¡Ese local QUE HOY NO LO HAY! Tal vez, en los días del culto muchas veces has llegado cansado, tal vez llegas allí a tu estilo, no sé, lo que sea para ti, lo que signifique para ti. Lo más posible, que cuando te reunías el saludo no te inquietaba, pues hoy ¡no lo tenemos! A algunos les duele, lloran, les da tristeza, depende de la personalidad. Yo sé que hoy, ¡no hay nada de culto en el templo! Pero, te enseñaré ¡DE LA IGLESIA EN LAS CASAS!",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "I. El recorrido de la Iglesia nos lleva a conocer LA IGLESIA EN LAS CASAS.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "A. Hoy tú verás la trayectoria de la Iglesia mediante la Palabra, las Escrituras.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "1. Te daré versículos para que veas el recorrido de la Iglesia a través de los siglos, hoy leerás para tu bien.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "2. Mira los versículos: Hechos 11:26; 1 Corintios 16:19; Apocalipsis 1:11; Colosenses 4:15; 1 Pedro 5:13; Hechos 18:22; Romanos 16:1; 1 Corintios 1:2; Hechos 20:17; Gálatas 1:2; Hechos 8:1; Gálatas 1:22; 2 Corintios 8:1; Apocalipsis 2:12; Apocalipsis 3:7; Filipenses 1:1; Romanos 1:7; Apocalipsis 3:1; Apocalipsis 2:8; Apocalipsis 2:18; Hechos 5:42",
+        "referencias_inline": [
+          "Hechos 11:26",
+          "1 Corintios 16:19",
+          "Apocalipsis 1:11",
+          "Colosenses 4:15",
+          "1 Pedro 5:13",
+          "Hechos 18:22",
+          "Romanos 16:1",
+          "1 Corintios 1:2",
+          "Hechos 20:17",
+          "Gálatas 1:2",
+          "Hechos 8:1",
+          "Gálatas 1:22",
+          "2 Corintios 8:1",
+          "Apocalipsis 2:12",
+          "Apocalipsis 3:7",
+          "Filipenses 1:1",
+          "Romanos 1:7",
+          "Apocalipsis 3:1",
+          "Apocalipsis 2:8",
+          "Apocalipsis 2:18",
+          "Hechos 5:42"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "3. Cuando te llegue este estudio lo lees para ti, léelo para que puedas ver lo que son: ¡LAS IGLESIAS EN LAS CASAS DE LOS HERMANOS!",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "4. Ahora vamos a conocer lo que dice en 2da de Juan.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "a. (Vs.1) Juan, se refiere a él como EL ANCIANO, puede ser por su edad o por la posición en la iglesia.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "b. Escribe desde la ciudad de Éfeso y le escribe a la iglesia local.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "c. Deja ver el comienzo de la epístola que había una sólida AMISTAD entre él y \"la señora\", a quien le dirige la carta. ¡Qué bueno es tener esa sólida amistad! Cuando hay un amigo = amar. Los mejores amigos están unidos por un lazo estrecho, comparten los buenos y malos momentos de la vida; hay lealtad, afecto, el respeto y el sentido del compromiso. ¡Eso lo hay en la iglesia!",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "De hecho, por lo general en la amistad hay siempre amor y en el amor hay amistad.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "5. Juan es esa autoridad, fue el que levantó y amó con fuerza aquella iglesia a la que le escribía, así que \"la señora\" y los hermanos que allí se reunían, ¡también cuidaban la Iglesia!",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "6. LA SEÑORA ELEGIDA era a quien Juan le enviaba la carta.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "a. Está Juan escribiéndole a una señora cristiana, QUE JUNTO CON TODOS LOS CREYENTES ES UNA ELEGIDA DE Dios, escogida en Cristo antes de la fundación del mundo.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "b. Es especialmente significativo que esta advertencia en contra de maestros anticristianos se encuentre en una carta dirigida a una mujer.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "c. ¡El amor de Juan deja ver que la señora elegida era una mujer digna de amar! La razón de esto, es que, si fue elegida por Dios, pues estaba Dios en ella, sus hechos de amor, de entrega, su pasión y dedicación, sus esfuerzos sin cansarse. Y, por tal razón, no tenía queja de la iglesia, la amaba y a ella le era devuelto por Dios ¡amor también!",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "d. Sus hijos, creyentes de testimonio que amaban al Señor igual que ella y que daban de su amor en el servicio para aquellos que ella llevaba en su casa.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "7. Con ella muchos habían llegado a conocer la verdad y ella los cuidaba dándole ese servicio al Señor.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "8. (Vs.2) LA VERDAD que permanece en nosotros y estará para siempre con nosotros.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "9. Jesús es la verdad (2 Juan 14:16), el Espíritu Santo es la verdad (1 Juan 5:6) (Juan 14:16, 17), Tu palabra es verdad (Juan 17:17).",
+        "referencias_inline": [
+          "2 Juan 14:16",
+          "1 Juan 5:6",
+          "Juan 14:16,17",
+          "Juan 17:17"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "10. (Vs.3) Hermoso saludo, ¡GRACIA, MISERICORDIA Y PAZ sean con vosotros!",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "11. GRACIA es el favor que no merecemos, MISERICORDIA es la compasión para con los culpables y miserables y PAZ es la relación de armonía que resulta de la gracia y de la misericordia de parte de Dios. La señora cuidó que los hermanos fueran enseñados y cuidados por lo aprendido de Juan, tal como Juan lo aprendió de Cristo.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "12. Ella mantenía todo esto en verdad y en amor. ¡El Padre es la Fuente y el Hijo es el canal!",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "13. (Vs.4) Los creyentes de aquella iglesia, ¡estaban andando en la verdad!",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "14. En sus vidas diarias se mantenían en la verdad, ERA EFICAZ ESA IGLESIA EN LAS CASAS.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "15. (Vs.5) Que se amen unos a otros, con el amor de Cristo, amor que sufre, etc. (1 Corintios 13: 4-7).",
+        "referencias_inline": [
+          "1 Corintios 13:4-7"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "16. (Vs.6) ¡Amar es darse abnegadamente para beneficio de otros! ¿Qué tal tú?",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "17. No es, ¿qué puedo conseguir de esa persona?, sino, ¿qué puedo hacer por esta persona?",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "18. Eso recibimos del Padre, lo puedes hacer andando en obediencia al Señor y a la verdad de Dios.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "II. (Vs.7) Cuidado con LOS ENGAÑADORES que se pueden infiltrar.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "A. Aquellos que se introducen con gestos, opiniones, y con ¿el por qué?",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "1. Hay que mantenerse firme en la verdad \"cuidarnos\" en lo que se refiere a lo de Jesús en nuestras vidas.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "2. Cuidarte de cualquiera que se rebela, se extravía (Vs.9), y no quiere perseverar en la doctrina del Señor.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "3. Los transgresores tienen \"nueva luz\" y enseñan doctrinas que Dios no ha revelado en Su palabra.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "4. (Vs.10) No los recibas en casa, ni saludarlos, no son compañeros de la Palabra como para darles cabida en las conversaciones santas ni en la comunión de los santos. ¡No podemos entregar nuestro amor al que no ama la verdad!",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "5. Por el amor que nos tenemos; cuidémonos de lo falso que se vaya a querer sembrar en medio de ustedes.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "6. Ahora no estoy yo presente en el templo, PERO TÚ ESTÁS EN LA IGLESIA EN TU CASA, ¡para PROTEGER LA VERDAD que hemos conocido! Amén.",
+        "referencias_inline": []
+      }
+    ]
+  },
+  "busqueda": {
+    "texto_indexable": "la trayectoria de la iglesia 2 juan 1 1 13 palabra de Dios sabiduria espiritual familia verdad iglesia arrepentimiento efeso perseverancia escrituras testimonio yo se quien tu eres de acuerdo a como le obedeces al senor si lo obedeces es porque le temes y si le temes pues sabes quien es el la iglesia es una trayectoria un recorrido directo sin perder el rumbo una trayectoria en los buenos momentos en los momentos dificiles en dias de tolerar en dias de amar de soportar la angustia etc aunque a uno le pareciera no poder eso es la iglesia la iglesia que nos reunimos en el templo en ese local donde nos reunimos para amarnos para orar y oir la palabra para los canticos para amar y adorar al padre para darnos un abrazo ese local que hoy no lo hay tal vez en los dias del culto muchas veces has llegado cansado tal vez llegas alli a tu estilo no se lo que sea para ti lo que signifique para ti lo mas posible que cuando te reunias el saludo no te inquietaba pues hoy no lo tenemos a algunos les duele lloran les da tristeza depende de la personalidad yo se que hoy no hay nada de culto en el templo pero te ensenare de la iglesia en las casas i el recorrido de la iglesia nos lleva a conocer la iglesia en las casas a hoy tu veras la trayectoria de la iglesia mediante la palabra las escrituras 1 te dare versiculos para que veas el recorrido de la iglesia a traves de los siglos hoy leeras para tu bien 2 mira los versiculos hechos 11 26 1 corintios 16 19 apocalipsis 1 11 colosenses 4 15 1 pedro 5 13 hechos 18 22 romanos 16 1 1 corintios 1 2 hechos 20 17 galatas 1 2 hechos 8 1 galatas 1 22 2 corintios 8 1 apocalipsis 2 12 apocalipsis 3 7 filipenses 1 1 romanos 1 7 apocalipsis 3 1 apocalipsis 2 8 apocalipsis 2 18 hechos 5 42 3 cuando te llegue este estudio lo lees para ti leelo para que puedas ver lo que son las iglesias en las casas de los hermanos 4 ahora vamos a conocer lo que dice en 2da de juan a vs 1 juan se refiere a el como el anciano puede ser por su edad o por la posicion en la iglesia b escribe desde la ciudad de efeso y le escribe a la iglesia local c deja ver el comienzo de la epistola que habia una solida amistad entre el y la senora a quien le dirige la carta que bueno es tener esa solida amistad cuando hay un amigo amar los mejores amigos estan unidos por un lazo estrecho comparten los buenos y malos momentos de la vida hay lealtad afecto el respeto y el sentido del compromiso eso lo hay en la iglesia de hecho por lo general en la amistad hay siempre amor y en el amor hay amistad 5 juan es esa autoridad fue el que levanto y amo con fuerza aquella iglesia a la que le escribia asi que la senora y los hermanos que alli se reunian tambien cuidaban la iglesia 6 la senora elegida era a quien juan le enviaba la carta a esta juan escribiendole a una senora cristiana que junto con todos los creyentes es una elegida de Dios escogida en cristo antes de la fundacion del mundo b es especialmente significativo que esta advertencia en contra de maestros anticristianos se encuentre en una carta dirigida a una mujer c el amor de juan deja ver que la senora elegida era una mujer digna de amar la razon de esto es que si fue elegida por Dios pues estaba Dios en ella sus hechos de amor de entrega su pasion y dedicacion sus esfuerzos sin cansarse y por tal razon no tenia queja de la iglesia la amaba y a ella le era devuelto por Dios amor tambien d sus hijos creyentes de testimonio que amaban al senor igual que ella y que daban de su amor en el servicio para aquellos que ella llevaba en su casa 7 con ella muchos habian llegado a conocer la verdad y ella los cuidaba dandole ese servicio al senor 8 vs 2 la verdad que permanece en nosotros y estara para siempre con nosotros 9 Jesus es la verdad 2 juan 14 16 el espiritu santo es la verdad 1 juan 5 6 juan 14 16 17 tu palabra es verdad juan 17 17 10 vs 3 hermoso saludo gracia misericordia y paz sean con vosotros 11 gracia es el favor que no merecemos misericordia es la compasion para con los culpables y miserables y paz es la relacion de armonia que resulta de la gracia y de la misericordia de parte de Dios la senora cuido que los hermanos fueran ensenados y cuidados por lo aprendido de juan tal como juan lo aprendio de cristo 12 ella mantenia todo esto en verdad y en amor el padre es la fuente y el hijo es el canal 13 vs 4 los creyentes de aquella iglesia estaban andando en la verdad 14 en sus vidas diarias se mantenian en la verdad era eficaz esa iglesia en las casas 15 vs 5 que se amen unos a otros con el amor de cristo amor que sufre etc 1 corintios 13 4 7 16 vs 6 amar es darse abnegadamente para beneficio de otros que tal tu 17 no es que puedo conseguir de esa persona sino que puedo hacer por esta persona 18 eso recibimos del padre lo puedes hacer andando en obediencia al senor y a la verdad de Dios ii vs 7 cuidado con los enganadores que se pueden infiltrar a aquellos que se introducen con gestos opiniones y con el por que 1 hay que mantenerse firme en la verdad cuidarnos en lo que se refiere a lo de Jesus en nuestras vidas 2 cuidarte de cualquiera que se rebela se extravia vs 9 y no quiere perseverar en la doctrina del senor 3 los transgresores tienen nueva luz y ensenan doctrinas que Dios no ha revelado en su palabra 4 vs 10 no los recibas en casa ni saludarlos no son companeros de la palabra como para darles cabida en las conversaciones santas ni en la comunion de los santos no podemos entregar nuestro amor al que no ama la verdad 5 por el amor que nos tenemos cuidemonos de lo falso que se vaya a querer sembrar en medio de ustedes 6 ahora no estoy yo presente en el templo pero tu estas en la iglesia en tu casa para proteger la verdad que hemos conocido amen",
+    "alias_busqueda": [
+      "La Trayectoria De La Iglesia",
+      "2 Juan",
+      "2 Juan 1",
+      "2 Juan 1:1-13",
+      "arrepentimiento",
+      "Éfeso",
+      "perseverancia",
+      "escrituras",
+      "Palabra de Dios",
+      "Sabiduría espiritual"
+    ]
+  },
+  "revision_manual": {
+    "requiere_revision": false,
+    "motivo": ""
+  },
+  "ui": {
+    "mostrar_credito_en_header": true,
+    "mostrar_numero_estudio": true,
+    "mostrar_fecha": true,
+    "mostrar_topicos": true,
+    "permitir_favorito": true,
+    "permitir_compartir": true
+  }
+}

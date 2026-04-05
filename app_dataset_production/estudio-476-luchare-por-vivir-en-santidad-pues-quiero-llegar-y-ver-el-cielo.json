@@ -1,0 +1,306 @@
+{
+  "id": "estudio-476-luchare-por-vivir-en-santidad-pues-quiero-llegar-y-ver-el-cielo",
+  "slug": "estudio-476-luchare-por-vivir-en-santidad-pues-quiero-llegar-y-ver-el-cielo",
+  "numero_estudio": 476,
+  "tipo_estudio": "Iglesia en las casas",
+  "ministerio": {
+    "iglesia": "Iglesia Cristiana Mega Zoe",
+    "pastora": "Pastora Edith Cruz",
+    "credito_corto": "Iglesia Cristiana Mega Zoe · Pastora Edith Cruz",
+    "credito_largo": "Contenido original de Iglesia Cristiana Mega Zoe, conservando el crédito ministerial correspondiente a la Pastora Edith Cruz."
+  },
+  "identidad_editorial": {
+    "idioma": "es",
+    "fuente_original": "documento_word",
+    "archivo_origen": "/Users/edwingadiel/Desktop/Estudios en Word/Estudio #476 Lucharé por vivir en santidad pues quiero llegar y ver el Cielo - Tito 1 2.doc",
+    "estado_revision": "procesado",
+    "version_schema": "1.0"
+  },
+  "encabezado": {
+    "titulo": "Lucharé por Vivir en Santidad Pues Quiero Llegar y Ver el Cielo",
+    "subtitulo": null,
+    "cita_principal": "Tito 1:2",
+    "resumen_corto": "Lucharé por Vivir en Santidad Pues Quiero Llegar y Ver el Cielo enseña a vivir con la mirada puesta en la vida eterna y vivir en santidad."
+  },
+  "fechas": {
+    "fecha_inicio": null,
+    "fecha_fin": null,
+    "fecha_texto_original": "",
+    "ano": null
+  },
+  "clasificacion_biblica": {
+    "libro_principal": "Tito",
+    "capitulo_principal": 1,
+    "versiculos_principales": [
+      2
+    ],
+    "referencia_principal_normalizada": "Tito 1:2",
+    "testamento_principal": "Nuevo Testamento"
+  },
+  "clasificacion_tematica": {
+    "topicos": [
+      "Vida eterna",
+      "Santidad",
+      "Familia",
+      "Oración",
+      "Pruebas"
+    ],
+    "keywords": [
+      "voluntad de Dios",
+      "vida eterna",
+      "santidad",
+      "oración",
+      "pruebas",
+      "perseverancia",
+      "mundo",
+      "escogidos",
+      "cordero",
+      "reposo"
+    ]
+  },
+  "referencias_biblicas": [
+    {
+      "referencia": "Tito 1:2",
+      "referencia_normalizada": "Tito 1:2",
+      "libro": "Tito",
+      "capitulo": 1,
+      "versiculos": [
+        2
+      ],
+      "tipo": "principal",
+      "clickeable": true
+    },
+    {
+      "referencia": "Apocalipsis 3:20",
+      "referencia_normalizada": "Apocalipsis 3:20",
+      "libro": "Apocalipsis",
+      "capitulo": 3,
+      "versiculos": [
+        20
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Efesios 1:4",
+      "referencia_normalizada": "Efesios 1:4",
+      "libro": "Efesios",
+      "capitulo": 1,
+      "versiculos": [
+        4
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Hebreos 12: 14",
+      "referencia_normalizada": "Hebreos 12:14",
+      "libro": "Hebreos",
+      "capitulo": 12,
+      "versiculos": [
+        14
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "1 Corintios 13: 9-12",
+      "referencia_normalizada": "1 Corintios 13:9-12",
+      "libro": "1 Corintios",
+      "capitulo": 13,
+      "versiculos": [
+        9,
+        10,
+        11,
+        12
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Deuteronomio 29: 29",
+      "referencia_normalizada": "Deuteronomio 29:29",
+      "libro": "Deuteronomio",
+      "capitulo": 29,
+      "versiculos": [
+        29
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Apocalipsis 7:16",
+      "referencia_normalizada": "Apocalipsis 7:16",
+      "libro": "Apocalipsis",
+      "capitulo": 7,
+      "versiculos": [
+        16
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Salmos 93:5",
+      "referencia_normalizada": "Salmos 93:5",
+      "libro": "Salmos",
+      "capitulo": 93,
+      "versiculos": [
+        5
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Apocalipsis 4:8",
+      "referencia_normalizada": "Apocalipsis 4:8",
+      "libro": "Apocalipsis",
+      "capitulo": 4,
+      "versiculos": [
+        8
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Salmos 133:1",
+      "referencia_normalizada": "Salmos 133:1",
+      "libro": "Salmos",
+      "capitulo": 133,
+      "versiculos": [
+        1
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Mateo 25:21",
+      "referencia_normalizada": "Mateo 25:21",
+      "libro": "Mateo",
+      "capitulo": 25,
+      "versiculos": [
+        21
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Salmos 16:11",
+      "referencia_normalizada": "Salmos 16:11",
+      "libro": "Salmos",
+      "capitulo": 16,
+      "versiculos": [
+        11
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Salmos 17:15",
+      "referencia_normalizada": "Salmos 17:15",
+      "libro": "Salmos",
+      "capitulo": 17,
+      "versiculos": [
+        15
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    }
+  ],
+  "contenido": {
+    "introduccion": null,
+    "secciones": [],
+    "contenido_completo": "En Cristo, por la gracia hemos sido redimidos, perdonados, salvados. Pero todo esto tan grande y hermoso nos lleva más a cumplir la ley del amor y de la justicia de nuestro Dios. Tenemos que esforzarnos en agradar ahora más que nunca en este tiempo a Dios y alumbrar en esta tierra porque hemos recibido a Jesús como Salvador, por lo tanto todo lo que es mal lo aborrecemos. Nosotros los que creemos tenemos un gran regalo que es el cielo. Ahí según nuestra fe y nuestra perseverancia hemos construido nuestra casa. Lo que no nos ha permitido llegar al cielo todavía es nuestra vida terrenal que debemos vivirla aún. En Cristo Jesús se nos ha regalado el cielo y tenemos que saber que si vamos a llegar allá, esta vida presente no terminará sino que va a continuar. En el nuevo pacto en Cristo Jesús lo que está guardado para nosotros es mucho mayor que todo lo que podemos ver u oír aquí abajo.\n\nApocalipsis 3:20 Moraremos con el mismo Dios en el cielo, pero solamente podemos alcanzar eso por medio de nuestro Señor Jesús en quien hemos creído. Allí Dios enjugará toda lágrima nuestra. Allí no habrá muerte, llanto clamor, ni dolor. Dios hará todas las cosas nuevas. La vida las circunstancias y los problemas nos fatigan acá. A veces no queremos enfrentarnos a las pruebas y las circunstancias adversas que nos trae esta vida. Pero, tenemos que caminar el día sabiendo que lo que va a suceder alrededor nuestro lo va a hacer Dios. No planifiquemos, seamos dirigidos en la voluntad de Dios. En Cristo hay ganancias, riquezas en Él.\n\nEfesios 1:4 Dios nos escogió, le respondimos y por tal razón hoy somos de Él, le pertenecemos. Somos hijos y por eso es que tenemos un cielo y ganancias ricas en Dios. Por eso la tenemos todas a ganar. El mal se saca de nuestras vidas y de nuestro camino porque nuestras obras nos seguirán, nuestras oraciones nos seguirán porque nadie nos la puede arrebatar. Antes de crear este mundo, antes de todo ya Dios había pensado en nuestro nombre, nuestra forma, así que esas promesas se cumplen en nuestras vidas. El que seamos santos, separados también fue su pensamiento, su plan. Dios nos convirtió en hijos nacidos de nuevo del espíritu y como tales se nos ha pagado todo, se nos ha dado, pero hay una regla y es que en nosotros debe estar el desear ser un pueblo santo. Él nos ha permitido la vida eterna. En el cielo tenemos nuestra casa, nuestra morada. Allí serán las bodas del Cordero con sus hijos. Procuremos que de ninguna manera por no vivir en santidad se nos quite nuestra silla en esa gran mesa. Hebreos 12: 14 Aunque vivamos en medio de las pruebas y las preocupaciones o el llanto, deleitémonos en lo que somos, en que hemos sido escogidos para una gloria eterna. En el cielo no hay muerte para poner punto final a la vida. Somos un estuche pero nuestra alma y espíritu son eternos. Después de millones de años de vivir en la eternidad estaremos tan lejos de un final como en el primer momento. ¡Gloria a Dios!\n\nI Corintios 13: 9-12 Conoceremos como fuimos conocidos. Nosotros queremos conocer mucho, pero no lo conocemos. En el cielo lo conoceremos todo. Es en parte que se conoce, un poco solamente, pero un día lo conoceremos todo. Hay cosas que Dios nos tiene restringidas para nosotros que solo Él las sabe. Deuteronomio 29: 29 Descansaremos de todo el trabajo porque nuestras obras nos siguen, pero aquí en la tierra tendremos que trabajar mucho. En el cielo hay un reposo eterno. Tenemos una salvación que llevar a cabo y nadie nos puede apartar de ella ni pruebas, ni problemas, etc. Esa salvación está en nuestro cuerpo y lo tenemos que llevar a ganar. No nos podemos echar para atrás porque hay una generación que servir. Por eso trabajamos aquí. La recompensa está en el cielo. Aquí lo que vamos a tener es frustración. No esperemos de aquí nada sino del cielo.\n\nApocalipsis 7:16 Tendremos reposo de la tentación, de la persecución, de la tribulación, nuestra alma ya no tendrá fatiga de tantos problemas, ni hambre, ni calor de esta propia vida. Seremos saciados en todo porque el Cordero, el Hijo de Dios nos pastoreará. Estaremos detrás de Jesús moviéndonos con Él. El nos pastoreará y nos dará de las fuentes de agua de vida del cielo, en un lugar santo. Nuestro reposo es en el lugar santo de Dios.\n\nSalmo 93:5 A nosotros, al pueblo de Dios nos conviene la santidad porque ninguna cosa impura entrará a la nueva Jerusalén. En el cielo hay ausencia de pecado, nada impuro puede entrar allí. El príncipe de este mundo no tiene nada allá. Entonces ¿qué nos cualifica? ¡La santidad! ¿O nos descualificará la impureza? El cielo no es para ninguna alma impura. Una casa lujosa, bien decorada no sería adecuada para un cerdo que prefiere revolcarse en el fango. Los que se deleitan en compañía de malvados no podrían tener un poco de placer en el cielo porque allá no hay tal compañía.\n\nApocalipsis 4:8 La santidad de Jehová es para que le adoremos con todas nuestras fuerzas y le demos gloria. El cielo es un mundo lleno de amor porque Dios es amor. En este mundo se odia, se burla. Un amor perfecto es Dios mismo. Aquí somos muy estrechos en darle amor a Dios, por eso somos estrechos en obediencia. Es costumbre en nosotros los que nos llamamos cristianos perder nuestro amor, dejar de adorarle a Él y amamos más las cosas de esta tierra. Luchemos con nuestra carne y seamos espirituales y verdaderos en nuestra entrega y amor al Señor. En el cielo todos seremos uno.\n\nSalmo 133:1, Mateo 25:21, Salmos 16:11 Para siempre tenemos que amar la santidad. Todo gozo aquí es fugaz y transitorio, pero el gozo del cielo será para siempre. Estaremos contentos siempre en el cielo. A veces los placeres los tenemos como gotas, pero nos bañaremos en los bienes de las delicias de Arriba, quedaremos satisfechos en el resultado de vencer hasta el final.\n\nSalmo 17:15 Tenemos que amar más la actividad familiar del cielo. El cielo se preparó para nosotros. Entonces, ¿por qué condenarnos en esta tierra?, el cielo nos llama. Lo mejor es estar en el cielo, aquí no hay nada que nos ame como merecemos, ser amados como en el cielo. El cielo es lo que nos está esperando. Amén.",
+    "contenido_renderizado": [
+      {
+        "tipo": "parrafo",
+        "texto": "En Cristo, por la gracia hemos sido redimidos, perdonados, salvados. Pero todo esto tan grande y hermoso nos lleva más a cumplir la ley del amor y de la justicia de nuestro Dios. Tenemos que esforzarnos en agradar ahora más que nunca en este tiempo a Dios y alumbrar en esta tierra porque hemos recibido a Jesús como Salvador, por lo tanto todo lo que es mal lo aborrecemos. Nosotros los que creemos tenemos un gran regalo que es el cielo. Ahí según nuestra fe y nuestra perseverancia hemos construido nuestra casa. Lo que no nos ha permitido llegar al cielo todavía es nuestra vida terrenal que debemos vivirla aún. En Cristo Jesús se nos ha regalado el cielo y tenemos que saber que si vamos a llegar allá, esta vida presente no terminará sino que va a continuar. En el nuevo pacto en Cristo Jesús lo que está guardado para nosotros es mucho mayor que todo lo que podemos ver u oír aquí abajo.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Apocalipsis 3:20 Moraremos con el mismo Dios en el cielo, pero solamente podemos alcanzar eso por medio de nuestro Señor Jesús en quien hemos creído. Allí Dios enjugará toda lágrima nuestra. Allí no habrá muerte, llanto clamor, ni dolor. Dios hará todas las cosas nuevas. La vida las circunstancias y los problemas nos fatigan acá. A veces no queremos enfrentarnos a las pruebas y las circunstancias adversas que nos trae esta vida. Pero, tenemos que caminar el día sabiendo que lo que va a suceder alrededor nuestro lo va a hacer Dios. No planifiquemos, seamos dirigidos en la voluntad de Dios. En Cristo hay ganancias, riquezas en Él.",
+        "referencias_inline": [
+          "Apocalipsis 3:20"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Efesios 1:4 Dios nos escogió, le respondimos y por tal razón hoy somos de Él, le pertenecemos. Somos hijos y por eso es que tenemos un cielo y ganancias ricas en Dios. Por eso la tenemos todas a ganar. El mal se saca de nuestras vidas y de nuestro camino porque nuestras obras nos seguirán, nuestras oraciones nos seguirán porque nadie nos la puede arrebatar. Antes de crear este mundo, antes de todo ya Dios había pensado en nuestro nombre, nuestra forma, así que esas promesas se cumplen en nuestras vidas. El que seamos santos, separados también fue su pensamiento, su plan. Dios nos convirtió en hijos nacidos de nuevo del espíritu y como tales se nos ha pagado todo, se nos ha dado, pero hay una regla y es que en nosotros debe estar el desear ser un pueblo santo. Él nos ha permitido la vida eterna. En el cielo tenemos nuestra casa, nuestra morada. Allí serán las bodas del Cordero con sus hijos. Procuremos que de ninguna manera por no vivir en santidad se nos quite nuestra silla en esa gran mesa. Hebreos 12: 14 Aunque vivamos en medio de las pruebas y las preocupaciones o el llanto, deleitémonos en lo que somos, en que hemos sido escogidos para una gloria eterna. En el cielo no hay muerte para poner punto final a la vida. Somos un estuche pero nuestra alma y espíritu son eternos. Después de millones de años de vivir en la eternidad estaremos tan lejos de un final como en el primer momento. ¡Gloria a Dios!",
+        "referencias_inline": [
+          "Efesios 1:4",
+          "Hebreos 12:14"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "I Corintios 13: 9-12 Conoceremos como fuimos conocidos. Nosotros queremos conocer mucho, pero no lo conocemos. En el cielo lo conoceremos todo. Es en parte que se conoce, un poco solamente, pero un día lo conoceremos todo. Hay cosas que Dios nos tiene restringidas para nosotros que solo Él las sabe. Deuteronomio 29: 29 Descansaremos de todo el trabajo porque nuestras obras nos siguen, pero aquí en la tierra tendremos que trabajar mucho. En el cielo hay un reposo eterno. Tenemos una salvación que llevar a cabo y nadie nos puede apartar de ella ni pruebas, ni problemas, etc. Esa salvación está en nuestro cuerpo y lo tenemos que llevar a ganar. No nos podemos echar para atrás porque hay una generación que servir. Por eso trabajamos aquí. La recompensa está en el cielo. Aquí lo que vamos a tener es frustración. No esperemos de aquí nada sino del cielo.",
+        "referencias_inline": [
+          "1 Corintios 13:9-12",
+          "Deuteronomio 29:29"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Apocalipsis 7:16 Tendremos reposo de la tentación, de la persecución, de la tribulación, nuestra alma ya no tendrá fatiga de tantos problemas, ni hambre, ni calor de esta propia vida. Seremos saciados en todo porque el Cordero, el Hijo de Dios nos pastoreará. Estaremos detrás de Jesús moviéndonos con Él. El nos pastoreará y nos dará de las fuentes de agua de vida del cielo, en un lugar santo. Nuestro reposo es en el lugar santo de Dios.",
+        "referencias_inline": [
+          "Apocalipsis 7:16"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Salmos 93:5 A nosotros, al pueblo de Dios nos conviene la santidad porque ninguna cosa impura entrará a la nueva Jerusalén. En el cielo hay ausencia de pecado, nada impuro puede entrar allí. El príncipe de este mundo no tiene nada allá. Entonces ¿qué nos cualifica? ¡La santidad! ¿O nos descualificará la impureza? El cielo no es para ninguna alma impura. Una casa lujosa, bien decorada no sería adecuada para un cerdo que prefiere revolcarse en el fango. Los que se deleitan en compañía de malvados no podrían tener un poco de placer en el cielo porque allá no hay tal compañía.",
+        "referencias_inline": [
+          "Salmos 93:5"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Apocalipsis 4:8 La santidad de Jehová es para que le adoremos con todas nuestras fuerzas y le demos gloria. El cielo es un mundo lleno de amor porque Dios es amor. En este mundo se odia, se burla. Un amor perfecto es Dios mismo. Aquí somos muy estrechos en darle amor a Dios, por eso somos estrechos en obediencia. Es costumbre en nosotros los que nos llamamos cristianos perder nuestro amor, dejar de adorarle a Él y amamos más las cosas de esta tierra. Luchemos con nuestra carne y seamos espirituales y verdaderos en nuestra entrega y amor al Señor. En el cielo todos seremos uno.",
+        "referencias_inline": [
+          "Apocalipsis 4:8"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Salmos 133:1, Mateo 25:21, Salmos 16:11 Para siempre tenemos que amar la santidad. Todo gozo aquí es fugaz y transitorio, pero el gozo del cielo será para siempre. Estaremos contentos siempre en el cielo. A veces los placeres los tenemos como gotas, pero nos bañaremos en los bienes de las delicias de Arriba, quedaremos satisfechos en el resultado de vencer hasta el final.",
+        "referencias_inline": [
+          "Salmos 133:1",
+          "Mateo 25:21",
+          "Salmos 16:11"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Salmos 17:15 Tenemos que amar más la actividad familiar del cielo. El cielo se preparó para nosotros. Entonces, ¿por qué condenarnos en esta tierra?, el cielo nos llama. Lo mejor es estar en el cielo, aquí no hay nada que nos ame como merecemos, ser amados como en el cielo. El cielo es lo que nos está esperando. Amén.",
+        "referencias_inline": [
+          "Salmos 17:15"
+        ]
+      }
+    ]
+  },
+  "busqueda": {
+    "texto_indexable": "luchare por vivir en santidad pues quiero llegar y ver el cielo tito 1 2 vida eterna santidad familia oracion pruebas voluntad de Dios vida eterna santidad oracion pruebas perseverancia mundo escogidos cordero reposo en cristo por la gracia hemos sido redimidos perdonados salvados pero todo esto tan grande y hermoso nos lleva mas a cumplir la ley del amor y de la justicia de nuestro Dios tenemos que esforzarnos en agradar ahora mas que nunca en este tiempo a Dios y alumbrar en esta tierra porque hemos recibido a Jesus como salvador por lo tanto todo lo que es mal lo aborrecemos nosotros los que creemos tenemos un gran regalo que es el cielo ahi segun nuestra fe y nuestra perseverancia hemos construido nuestra casa lo que no nos ha permitido llegar al cielo todavia es nuestra vida terrenal que debemos vivirla aun en cristo Jesus se nos ha regalado el cielo y tenemos que saber que si vamos a llegar alla esta vida presente no terminara sino que va a continuar en el nuevo pacto en cristo Jesus lo que esta guardado para nosotros es mucho mayor que todo lo que podemos ver u oir aqui abajo apocalipsis 3 20 moraremos con el mismo Dios en el cielo pero solamente podemos alcanzar eso por medio de nuestro senor Jesus en quien hemos creido alli Dios enjugara toda lagrima nuestra alli no habra muerte llanto clamor ni dolor Dios hara todas las cosas nuevas la vida las circunstancias y los problemas nos fatigan aca a veces no queremos enfrentarnos a las pruebas y las circunstancias adversas que nos trae esta vida pero tenemos que caminar el dia sabiendo que lo que va a suceder alrededor nuestro lo va a hacer Dios no planifiquemos seamos dirigidos en la voluntad de Dios en cristo hay ganancias riquezas en el efesios 1 4 Dios nos escogio le respondimos y por tal razon hoy somos de el le pertenecemos somos hijos y por eso es que tenemos un cielo y ganancias ricas en Dios por eso la tenemos todas a ganar el mal se saca de nuestras vidas y de nuestro camino porque nuestras obras nos seguiran nuestras oraciones nos seguiran porque nadie nos la puede arrebatar antes de crear este mundo antes de todo ya Dios habia pensado en nuestro nombre nuestra forma asi que esas promesas se cumplen en nuestras vidas el que seamos santos separados tambien fue su pensamiento su plan Dios nos convirtio en hijos nacidos de nuevo del espiritu y como tales se nos ha pagado todo se nos ha dado pero hay una regla y es que en nosotros debe estar el desear ser un pueblo santo el nos ha permitido la vida eterna en el cielo tenemos nuestra casa nuestra morada alli seran las bodas del cordero con sus hijos procuremos que de ninguna manera por no vivir en santidad se nos quite nuestra silla en esa gran mesa hebreos 12 14 aunque vivamos en medio de las pruebas y las preocupaciones o el llanto deleitemonos en lo que somos en que hemos sido escogidos para una gloria eterna en el cielo no hay muerte para poner punto final a la vida somos un estuche pero nuestra alma y espiritu son eternos despues de millones de anos de vivir en la eternidad estaremos tan lejos de un final como en el primer momento gloria a Dios i corintios 13 9 12 conoceremos como fuimos conocidos nosotros queremos conocer mucho pero no lo conocemos en el cielo lo conoceremos todo es en parte que se conoce un poco solamente pero un dia lo conoceremos todo hay cosas que Dios nos tiene restringidas para nosotros que solo el las sabe deuteronomio 29 29 descansaremos de todo el trabajo porque nuestras obras nos siguen pero aqui en la tierra tendremos que trabajar mucho en el cielo hay un reposo eterno tenemos una salvacion que llevar a cabo y nadie nos puede apartar de ella ni pruebas ni problemas etc esa salvacion esta en nuestro cuerpo y lo tenemos que llevar a ganar no nos podemos echar para atras porque hay una generacion que servir por eso trabajamos aqui la recompensa esta en el cielo aqui lo que vamos a tener es frustracion no esperemos de aqui nada sino del cielo apocalipsis 7 16 tendremos reposo de la tentacion de la persecucion de la tribulacion nuestra alma ya no tendra fatiga de tantos problemas ni hambre ni calor de esta propia vida seremos saciados en todo porque el cordero el hijo de Dios nos pastoreara estaremos detras de Jesus moviendonos con el el nos pastoreara y nos dara de las fuentes de agua de vida del cielo en un lugar santo nuestro reposo es en el lugar santo de Dios salmo 93 5 a nosotros al pueblo de Dios nos conviene la santidad porque ninguna cosa impura entrara a la nueva jerusalen en el cielo hay ausencia de pecado nada impuro puede entrar alli el principe de este mundo no tiene nada alla entonces que nos cualifica la santidad o nos descualificara la impureza el cielo no es para ninguna alma impura una casa lujosa bien decorada no seria adecuada para un cerdo que prefiere revolcarse en el fango los que se deleitan en compania de malvados no podrian tener un poco de placer en el cielo porque alla no hay tal compania apocalipsis 4 8 la santidad de jehova es para que le adoremos con todas nuestras fuerzas y le demos gloria el cielo es un mundo lleno de amor porque Dios es amor en este mundo se odia se burla un amor perfecto es Dios mismo aqui somos muy estrechos en darle amor a Dios por eso somos estrechos en obediencia es costumbre en nosotros los que nos llamamos cristianos perder nuestro amor dejar de adorarle a el y amamos mas las cosas de esta tierra luchemos con nuestra carne y seamos espirituales y verdaderos en nuestra entrega y amor al senor en el cielo todos seremos uno salmo 133 1 mateo 25 21 salmo 16 11 para siempre tenemos que amar la santidad todo gozo aqui es fugaz y transitorio pero el gozo del cielo sera para siempre estaremos contentos siempre en el cielo a veces los placeres los tenemos como gotas pero nos banaremos en los bienes de las delicias de arriba quedaremos satisfechos en el resultado de vencer hasta el final salmo 17 15 tenemos que amar mas la actividad familiar del cielo el cielo se preparo para nosotros entonces por que condenarnos en esta tierra el cielo nos llama lo mejor es estar en el cielo aqui no hay nada que nos ame como merecemos ser amados como en el cielo el cielo es lo que nos esta esperando amen",
+    "alias_busqueda": [
+      "Lucharé por Vivir en Santidad Pues Quiero Llegar y Ver el Cielo",
+      "Tito",
+      "Tito 1",
+      "Tito 1:2",
+      "voluntad de Dios",
+      "vida eterna",
+      "santidad",
+      "oración"
+    ]
+  },
+  "revision_manual": {
+    "requiere_revision": false,
+    "motivo": ""
+  },
+  "ui": {
+    "mostrar_credito_en_header": true,
+    "mostrar_numero_estudio": true,
+    "mostrar_fecha": true,
+    "mostrar_topicos": true,
+    "permitir_favorito": true,
+    "permitir_compartir": true
+  }
+}

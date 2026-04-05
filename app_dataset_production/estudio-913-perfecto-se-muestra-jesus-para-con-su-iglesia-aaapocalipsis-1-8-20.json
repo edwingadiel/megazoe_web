@@ -1,0 +1,316 @@
+{
+  "id": "estudio-913-perfecto-se-muestra-Jesus-para-con-su-iglesia-aaapocalipsis-1-8-20",
+  "slug": "estudio-913-perfecto-se-muestra-Jesus-para-con-su-iglesia-aaapocalipsis-1-8-20",
+  "numero_estudio": 913,
+  "tipo_estudio": "Iglesia en las casas",
+  "ministerio": {
+    "iglesia": "Iglesia Cristiana Mega Zoe",
+    "pastora": "Pastora Edith Cruz",
+    "credito_corto": "Iglesia Cristiana Mega Zoe · Pastora Edith Cruz",
+    "credito_largo": "Contenido original de Iglesia Cristiana Mega Zoe, conservando el crédito ministerial correspondiente a la Pastora Edith Cruz."
+  },
+  "identidad_editorial": {
+    "idioma": "es",
+    "fuente_original": "documento_word",
+    "archivo_origen": "/Users/edwingadiel/Desktop/Estudios en Word/Estudio #913 Perfecto Jesús Para Con Su Iglesia - Apocalipsis 1 8-20.docx",
+    "estado_revision": "procesado",
+    "version_schema": "1.0"
+  },
+  "encabezado": {
+    "titulo": "Perfecto Se Muestra Jesús Para Con Su Iglesia",
+    "subtitulo": null,
+    "cita_principal": "Mateo 24:13",
+    "resumen_corto": "Perfecto Se Muestra Jesús Para Con Su Iglesia llama a permanecer firmes en las pruebas y atender la Palabra de Dios."
+  },
+  "fechas": {
+    "fecha_inicio": null,
+    "fecha_fin": null,
+    "fecha_texto_original": "",
+    "ano": null
+  },
+  "clasificacion_biblica": {
+    "libro_principal": "Mateo",
+    "capitulo_principal": 24,
+    "versiculos_principales": [
+      13
+    ],
+    "referencia_principal_normalizada": "Mateo 24:13",
+    "testamento_principal": "Nuevo Testamento"
+  },
+  "clasificacion_tematica": {
+    "topicos": [
+      "Pruebas",
+      "Palabra de Dios",
+      "Presencia de Dios",
+      "Jesucristo"
+    ],
+    "keywords": [
+      "voz de Dios",
+      "siete iglesias",
+      "santidad",
+      "lágrimas",
+      "fuego",
+      "evangelio"
+    ]
+  },
+  "referencias_biblicas": [
+    {
+      "referencia": "Mateo 24:13",
+      "referencia_normalizada": "Mateo 24:13",
+      "libro": "Mateo",
+      "capitulo": 24,
+      "versiculos": [
+        13
+      ],
+      "tipo": "principal",
+      "clickeable": true
+    },
+    {
+      "referencia": "Apocalipsis 1:8-20",
+      "referencia_normalizada": "Apocalipsis 1:8-20",
+      "libro": "Apocalipsis",
+      "capitulo": 1,
+      "versiculos": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "2 Timoteo 2:12",
+      "referencia_normalizada": "2 Timoteo 2:12",
+      "libro": "2 Timoteo",
+      "capitulo": 2,
+      "versiculos": [
+        12
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Apocalipsis 1:9",
+      "referencia_normalizada": "Apocalipsis 1:9",
+      "libro": "Apocalipsis",
+      "capitulo": 1,
+      "versiculos": [
+        9
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Apocalipsis 1:11",
+      "referencia_normalizada": "Apocalipsis 1:11",
+      "libro": "Apocalipsis",
+      "capitulo": 1,
+      "versiculos": [
+        11
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Éxodo 28:4, 29",
+      "referencia_normalizada": "Éxodo 28:4,29",
+      "libro": "Éxodo",
+      "capitulo": 28,
+      "versiculos": [
+        4,
+        29
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Levítico 16:4",
+      "referencia_normalizada": "Levítico 16:4",
+      "libro": "Levítico",
+      "capitulo": 16,
+      "versiculos": [
+        4
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Daniel 7:9",
+      "referencia_normalizada": "Daniel 7:9",
+      "libro": "Daniel",
+      "capitulo": 7,
+      "versiculos": [
+        9
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Ezequiel 43:2",
+      "referencia_normalizada": "Ezequiel 43:2",
+      "libro": "Ezequiel",
+      "capitulo": 43,
+      "versiculos": [
+        2
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Apocalipsis 1:17",
+      "referencia_normalizada": "Apocalipsis 1:17",
+      "libro": "Apocalipsis",
+      "capitulo": 1,
+      "versiculos": [
+        17
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Isaías 44:6",
+      "referencia_normalizada": "Isaías 44:6",
+      "libro": "Isaías",
+      "capitulo": 44,
+      "versiculos": [
+        6
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Apocalipsis 1:18",
+      "referencia_normalizada": "Apocalipsis 1:18",
+      "libro": "Apocalipsis",
+      "capitulo": 1,
+      "versiculos": [
+        18
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Josué 3:10",
+      "referencia_normalizada": "Josué 3:10",
+      "libro": "Josué",
+      "capitulo": 3,
+      "versiculos": [
+        10
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Isaías 48:12",
+      "referencia_normalizada": "Isaías 48:12",
+      "libro": "Isaías",
+      "capitulo": 48,
+      "versiculos": [
+        12
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    }
+  ],
+  "contenido": {
+    "introduccion": null,
+    "secciones": [],
+    "contenido_completo": "Aquí vemos a Jesús dejándose ver cuán majestuoso, glorioso y perfecto es en santidad y justicia, mostrándose así para su trato con su Iglesia. Muchos creyentes no lo ven así de majestuoso y perfecto. Las personas cuando van a Jesús no lo ven con el respeto y temor que merece, van para llorar, a arrepentirse pero sin ofrendar, no diezman, no se congregan y así llegan a la iglesia y no pasa nada. ¡Falsa forma de mirar a Jesús! Es necesario ver y entender que Él ya fue a la cruz, que ya le escupieron y ya le burlaron, que ya le despreciaron. Ahora, ¡YA NO ESTÁ ESO EN ÉL! ¡ÉL VENCIÓ! ¡Antes que Él nadie y después de Él absolutamente nadie! ¡Él es el primero y último! (Vs. 8, 11) Pero, hoy día hasta le achicamos su nombre. Jesús es nuestro glorioso salvador que fue crucificado, pero fue vencedor, venció la muerte. ¡Él tiene dominio absoluto de todo! Una sola vez vino a la tierra, ¡AHORA ESTÁ A LA DIESTRA DE Dios, EL PADRE, ¡EXALTADO!\n\nAquí, en Apocalipsis vemos las DEMANDAS DE ESE PODEROSO Y GRANDE JESÚS PARA LA IGLESIA. ¡La forma de cómo el Señor quiere a su Iglesia! Juan es el mensajero y esto dice de sí mismo en el Vs. 9: \"…vuestro hermano, y copartícipe vuestro en la tribulación.\" Hay tribulación para los que siguen al Señor. El que resista hasta lo último ese se salvará, esto se lee en Mateo 24:13. Si resistimos, si sufrimos entonces reinaremos con Él (2 Timoteo 2:12). En esta vida cristiana hay luchas, guerras, batallas, agonías y quejas, no es una vida de premios a la manera terrenal y humana; el premio viene según aguantemos, padezcamos y perseveremos fieles ante el gran Señor. El camino al reino es el camino de la resistencia (de la capacidad para resistir). Él está en ti como poderoso gigante, pues quiere decir que esa resistencia que necesitas para perseverar se encuentra en Cristo, quien está en ti. (Apocalipsis 1:9 \"…y en la paciencia de Jesucristo…\")\n\nJuan por su inquebrantable lealtad a la Palabra de Dios y por su insistencia en predicar el Evangelio de Jesucristo se le impuso la condena del destierro en la Isla de Patmos. ¡Allí Juan estaba en el Espíritu! (Vs. 10) Para poder escuchar hay que vivir en el Espíritu. La voz del Señor sonaba con la claridad inconfundible como de un toque de trompeta. Juan estaba en Patmos bajo castigos humanos pero estaba en el Espíritu. Vemos que no es lo difícil de la vida ni lo que se está pasando; siempre te es posible ¡estar en el Espíritu!\n\nLeemos que Dios le envía un mensaje a la Iglesia, les envía en una acción rápida, urgente; no permite dilaciones (tardanzas) Apocalipsis 1:11 \"Escribe en un libro lo que ves y envíalo a las siete iglesias…\". Juan se volvió para mirar, se dio vuelta, ya que la voz le sorprendió pues él estaba de espaldas (Vs. 12). Vio siete candelabros y en medio de los candelabros el Hijo del Hombre (Vs. 13). Claro está, a quien ve es al mismo Jesucristo. Lo ve con una túnica que le llegaba hasta los pies y con un cinto de oro por encima del codo; esta es la ropa propia del sumo sacerdote (Éxodo 28:4, 29:5, Levítico 16:4). Jesús aquí se presenta con el mismo efecto que tenía el sumo sacerdote en el pueblo. Por medio del sumo sacerdote se tenía acceso a Dios, los sumos sacerdotes les abrían el camino a los demás hombres para que se pudieran acercar a Dios. ¡JESÚS FUE EL QUE ABRIÓ CAMINO A LOS HOMBRES A LA PRESENCIA DE Dios! La túnica que ahora lleva el Cristo Resucitado representa su realeza. Ya no era un delincuente en una cruz como lo llevó su pueblo; ahora estaba vestido de Rey. Esta vestidura es del mensajero de Dios que nos deja ver a Jesucristo como el supremo mensajero de Dios. ¡Jesús se presenta como EL QUE TRAE LA VERDAD DE Dios, EL QUE NOS PERMITE ENTRAR A LA PRESENCIA DE Dios Y EL QUE HA RECIBIDO DE Dios EL PODER Y EL DOMINIO PARA SIEMPRE! ¡Fíjate a quien vienes para humillarte, a quien vienes a adorar, a quien le sirves!\n\n¡Juan ve a Dios! (Vs. 14, 15) Tenía la cabeza y el pelo blanco, tan blanco como la lana o más que la nieve (Daniel 7:9). Su voz era como estruendo de muchas aguas (Ezequiel 43:2). La tierra resplandecía a causa de su gloria. (Apocalipsis 1:17 \"…Yo soy el primero y el último…\" Isaías 44:6) (Apocalipsis 1:18 \"…y el que vivo…\" Josué 3:10) (\"…y tengo las llaves de la muerte y del Hades.\" Apocalipsis 1:18) El Señor Jesús todo lo domina, nadie está sobre Él. Tenía la cabeza y el pelo blancos, tan blancos como la blanca lana o como la nieve. Juan lo vio como el Anciano de días, de una gran edad; en la existencia eterna de Jesucristo. No como el que nació como hombre hace 2016 años; ¡Él es eterno! ¡Su pureza es inmaculada!\n\nNo le puedes servir como si Él fuera otro más. Mejor dicho, no le sirvas a otro como si fuera Dios. Tenía los ojos como fuego llameante (Vs.14). Sus ojos, como antorchas de fuego. Todo lo ve y lo juzga, lo pasa todo por la llama de fuego de sus ojos. Tenía los pies como bronce pulido, refinado a fuego en un crisol (donde se funde el metal). Bronce bruñido, que brillaba. Ya sus pies están pulidos, ya no están en la tierra. El bronce representa la fuerza, la estabilidad de Dios; el brillo o resplandor representa la velocidad, la prontitud de Dios para venir en ayuda de los suyos o para castigar el pecado.\n\nEse que vio Juan es el Emmanuel (Dios con nosotros), quien tomó la posición del Mesías redentor y ahora es todo Dios. Su voz era como el estruendo de muchas aguas (Vs. 15), hay que temblar a su voz. La voz de Dios, sea cual sea, estremece a nuestro ordinario ser y nuestro espíritu conoce su voz. Tenía en su diestra siete estrellas (Vs. 16). Al fin nuestro Señor lo lleva todo en Él. La mano de Cristo es suficientemente poderosa para sostener los cielos y suficientemente benigna para enjugar nuestras lágrimas. Fíjate donde estás tú; si en sus manos o en sus pies de autoridad. Su rostro era como el sol cuando está en la plenitud de su resplandor. \"Cuando le vi, caí como muerto a sus pies.\" (Vs. 17) Aquí el Señor no se deja ver como el Jesús que pescaba, que sanaba, libertaba, reprendía y se compadecía cuando vino por primera vez a Israel; ahora está ante su iglesia con toda la autoridad de Dios. Así de grande y poderoso se le presenta a Juan, ya no como el de la cruz, sino como el Dios y Señor de la iglesia y de toda la creación. \"El primero y el último.\" Esta es la descripción que hace Dios de sí mismo (Isaías 48:12).\n\nÉl vive pendiente de la iglesia; así que cuidado dónde y cómo es que te mueves. Estés como estés el Señor te mirará como Iglesia y llegará a una absoluta conclusión de ti. Entonces, pasará a trabajar contigo de acuerdo a como Él sabe hacerlo. Mejor es para cada uno de nosotros amarlo y ¡temer! Amén.",
+    "contenido_renderizado": [
+      {
+        "tipo": "parrafo",
+        "texto": "Aquí vemos a Jesús dejándose ver cuán majestuoso, glorioso y perfecto es en santidad y justicia, mostrándose así para su trato con su Iglesia. Muchos creyentes no lo ven así de majestuoso y perfecto. Las personas cuando van a Jesús no lo ven con el respeto y temor que merece, van para llorar, a arrepentirse pero sin ofrendar, no diezman, no se congregan y así llegan a la iglesia y no pasa nada. ¡Falsa forma de mirar a Jesús! Es necesario ver y entender que Él ya fue a la cruz, que ya le escupieron y ya le burlaron, que ya le despreciaron. Ahora, ¡YA NO ESTÁ ESO EN ÉL! ¡ÉL VENCIÓ! ¡Antes que Él nadie y después de Él absolutamente nadie! ¡Él es el primero y último! (Vs. 8, 11) Pero, hoy día hasta le achicamos su nombre. Jesús es nuestro glorioso salvador que fue crucificado, pero fue vencedor, venció la muerte. ¡Él tiene dominio absoluto de todo! Una sola vez vino a la tierra, ¡AHORA ESTÁ A LA DIESTRA DE Dios, EL PADRE, ¡EXALTADO!",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Aquí, en Apocalipsis vemos las DEMANDAS DE ESE PODEROSO Y GRANDE JESÚS PARA LA IGLESIA. ¡La forma de cómo el Señor quiere a su Iglesia! Juan es el mensajero y esto dice de sí mismo en el Vs. 9: \"…vuestro hermano, y copartícipe vuestro en la tribulación.\" Hay tribulación para los que siguen al Señor. El que resista hasta lo último ese se salvará, esto se lee en Mateo 24:13. Si resistimos, si sufrimos entonces reinaremos con Él (2 Timoteo 2:12). En esta vida cristiana hay luchas, guerras, batallas, agonías y quejas, no es una vida de premios a la manera terrenal y humana; el premio viene según aguantemos, padezcamos y perseveremos fieles ante el gran Señor. El camino al reino es el camino de la resistencia (de la capacidad para resistir). Él está en ti como poderoso gigante, pues quiere decir que esa resistencia que necesitas para perseverar se encuentra en Cristo, quien está en ti. (Apocalipsis 1:9 \"…y en la paciencia de Jesucristo…\")",
+        "referencias_inline": [
+          "Mateo 24:13",
+          "2 Timoteo 2:12",
+          "Apocalipsis 1:9"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Juan por su inquebrantable lealtad a la Palabra de Dios y por su insistencia en predicar el Evangelio de Jesucristo se le impuso la condena del destierro en la Isla de Patmos. ¡Allí Juan estaba en el Espíritu! (Vs. 10) Para poder escuchar hay que vivir en el Espíritu. La voz del Señor sonaba con la claridad inconfundible como de un toque de trompeta. Juan estaba en Patmos bajo castigos humanos pero estaba en el Espíritu. Vemos que no es lo difícil de la vida ni lo que se está pasando; siempre te es posible ¡estar en el Espíritu!",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Leemos que Dios le envía un mensaje a la Iglesia, les envía en una acción rápida, urgente; no permite dilaciones (tardanzas) Apocalipsis 1:11 \"Escribe en un libro lo que ves y envíalo a las siete iglesias…\". Juan se volvió para mirar, se dio vuelta, ya que la voz le sorprendió pues él estaba de espaldas (Vs. 12). Vio siete candelabros y en medio de los candelabros el Hijo del Hombre (Vs. 13). Claro está, a quien ve es al mismo Jesucristo. Lo ve con una túnica que le llegaba hasta los pies y con un cinto de oro por encima del codo; esta es la ropa propia del sumo sacerdote (Éxodo 28:4, 29:5, Levítico 16:4). Jesús aquí se presenta con el mismo efecto que tenía el sumo sacerdote en el pueblo. Por medio del sumo sacerdote se tenía acceso a Dios, los sumos sacerdotes les abrían el camino a los demás hombres para que se pudieran acercar a Dios. ¡JESÚS FUE EL QUE ABRIÓ CAMINO A LOS HOMBRES A LA PRESENCIA DE Dios! La túnica que ahora lleva el Cristo Resucitado representa su realeza. Ya no era un delincuente en una cruz como lo llevó su pueblo; ahora estaba vestido de Rey. Esta vestidura es del mensajero de Dios que nos deja ver a Jesucristo como el supremo mensajero de Dios. ¡Jesús se presenta como EL QUE TRAE LA VERDAD DE Dios, EL QUE NOS PERMITE ENTRAR A LA PRESENCIA DE Dios Y EL QUE HA RECIBIDO DE Dios EL PODER Y EL DOMINIO PARA SIEMPRE! ¡Fíjate a quien vienes para humillarte, a quien vienes a adorar, a quien le sirves!",
+        "referencias_inline": [
+          "Apocalipsis 1:11",
+          "Éxodo 28:4,29",
+          "Levítico 16:4"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "¡Juan ve a Dios! (Vs. 14, 15) Tenía la cabeza y el pelo blanco, tan blanco como la lana o más que la nieve (Daniel 7:9). Su voz era como estruendo de muchas aguas (Ezequiel 43:2). La tierra resplandecía a causa de su gloria. (Apocalipsis 1:17 \"…Yo soy el primero y el último…\" Isaías 44:6) (Apocalipsis 1:18 \"…y el que vivo…\" Josué 3:10) (\"…y tengo las llaves de la muerte y del Hades.\" Apocalipsis 1:18) El Señor Jesús todo lo domina, nadie está sobre Él. Tenía la cabeza y el pelo blancos, tan blancos como la blanca lana o como la nieve. Juan lo vio como el Anciano de días, de una gran edad; en la existencia eterna de Jesucristo. No como el que nació como hombre hace 2016 años; ¡Él es eterno! ¡Su pureza es inmaculada!",
+        "referencias_inline": [
+          "Daniel 7:9",
+          "Ezequiel 43:2",
+          "Apocalipsis 1:17",
+          "Isaías 44:6",
+          "Apocalipsis 1:18",
+          "Josué 3:10"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "No le puedes servir como si Él fuera otro más. Mejor dicho, no le sirvas a otro como si fuera Dios. Tenía los ojos como fuego llameante (Vs.14). Sus ojos, como antorchas de fuego. Todo lo ve y lo juzga, lo pasa todo por la llama de fuego de sus ojos. Tenía los pies como bronce pulido, refinado a fuego en un crisol (donde se funde el metal). Bronce bruñido, que brillaba. Ya sus pies están pulidos, ya no están en la tierra. El bronce representa la fuerza, la estabilidad de Dios; el brillo o resplandor representa la velocidad, la prontitud de Dios para venir en ayuda de los suyos o para castigar el pecado.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Ese que vio Juan es el Emmanuel (Dios con nosotros), quien tomó la posición del Mesías redentor y ahora es todo Dios. Su voz era como el estruendo de muchas aguas (Vs. 15), hay que temblar a su voz. La voz de Dios, sea cual sea, estremece a nuestro ordinario ser y nuestro espíritu conoce su voz. Tenía en su diestra siete estrellas (Vs. 16). Al fin nuestro Señor lo lleva todo en Él. La mano de Cristo es suficientemente poderosa para sostener los cielos y suficientemente benigna para enjugar nuestras lágrimas. Fíjate donde estás tú; si en sus manos o en sus pies de autoridad. Su rostro era como el sol cuando está en la plenitud de su resplandor. \"Cuando le vi, caí como muerto a sus pies.\" (Vs. 17) Aquí el Señor no se deja ver como el Jesús que pescaba, que sanaba, libertaba, reprendía y se compadecía cuando vino por primera vez a Israel; ahora está ante su iglesia con toda la autoridad de Dios. Así de grande y poderoso se le presenta a Juan, ya no como el de la cruz, sino como el Dios y Señor de la iglesia y de toda la creación. \"El primero y el último.\" Esta es la descripción que hace Dios de sí mismo (Isaías 48:12).",
+        "referencias_inline": [
+          "Isaías 48:12"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Él vive pendiente de la iglesia; así que cuidado dónde y cómo es que te mueves. Estés como estés el Señor te mirará como Iglesia y llegará a una absoluta conclusión de ti. Entonces, pasará a trabajar contigo de acuerdo a como Él sabe hacerlo. Mejor es para cada uno de nosotros amarlo y ¡temer! Amén.",
+        "referencias_inline": []
+      }
+    ]
+  },
+  "busqueda": {
+    "texto_indexable": "perfecto se muestra Jesus para con su iglesia mateo 24 13 pruebas palabra de Dios presencia de Dios jesucristo voz de Dios siete iglesias santidad lagrimas fuego evangelio aqui vemos a Jesus dejandose ver cuan majestuoso glorioso y perfecto es en santidad y justicia mostrandose asi para su trato con su iglesia muchos creyentes no lo ven asi de majestuoso y perfecto las personas cuando van a Jesus no lo ven con el respeto y temor que merece van para llorar a arrepentirse pero sin ofrendar no diezman no se congregan y asi llegan a la iglesia y no pasa nada falsa forma de mirar a Jesus es necesario ver y entender que el ya fue a la cruz que ya le escupieron y ya le burlaron que ya le despreciaron ahora ya no esta eso en el el vencio antes que el nadie y despues de el absolutamente nadie el es el primero y ultimo vs 8 11 pero hoy dia hasta le achicamos su nombre Jesus es nuestro glorioso salvador que fue crucificado pero fue vencedor vencio la muerte el tiene dominio absoluto de todo una sola vez vino a la tierra ahora esta a la diestra de Dios el padre exaltado aqui en apocalipsis vemos las demandas de ese poderoso y grande Jesus para la iglesia la forma de como el senor quiere a su iglesia juan es el mensajero y esto dice de si mismo en el vs 9 vuestro hermano y coparticipe vuestro en la tribulacion hay tribulacion para los que siguen al senor el que resista hasta lo ultimo ese se salvara esto se lee en mateo 24 13 si resistimos si sufrimos entonces reinaremos con el 2 timoteo 2 12 en esta vida cristiana hay luchas guerras batallas agonias y quejas no es una vida de premios a la manera terrenal y humana el premio viene segun aguantemos padezcamos y perseveremos fieles ante el gran senor el camino al reino es el camino de la resistencia de la capacidad para resistir el esta en ti como poderoso gigante pues quiere decir que esa resistencia que necesitas para perseverar se encuentra en cristo quien esta en ti apocalipsis 1 9 y en la paciencia de jesucristo juan por su inquebrantable lealtad a la palabra de Dios y por su insistencia en predicar el evangelio de jesucristo se le impuso la condena del destierro en la isla de patmos alli juan estaba en el espiritu vs 10 para poder escuchar hay que vivir en el espiritu la voz del senor sonaba con la claridad inconfundible como de un toque de trompeta juan estaba en patmos bajo castigos humanos pero estaba en el espiritu vemos que no es lo dificil de la vida ni lo que se esta pasando siempre te es posible estar en el espiritu leemos que Dios le envia un mensaje a la iglesia les envia en una accion rapida urgente no permite dilaciones tardanzas apocalipsis 1 11 escribe en un libro lo que ves y envialo a las siete iglesias juan se volvio para mirar se dio vuelta ya que la voz le sorprendio pues el estaba de espaldas vs 12 vio siete candelabros y en medio de los candelabros el hijo del hombre vs 13 claro esta a quien ve es al mismo jesucristo lo ve con una tunica que le llegaba hasta los pies y con un cinto de oro por encima del codo esta es la ropa propia del sumo sacerdote exodo 28 4 29 5 levitico 16 4 Jesus aqui se presenta con el mismo efecto que tenia el sumo sacerdote en el pueblo por medio del sumo sacerdote se tenia acceso a Dios los sumos sacerdotes les abrian el camino a los demas hombres para que se pudieran acercar a Dios Jesus fue el que abrio camino a los hombres a la presencia de Dios la tunica que ahora lleva el cristo resucitado representa su realeza ya no era un delincuente en una cruz como lo llevo su pueblo ahora estaba vestido de rey esta vestidura es del mensajero de Dios que nos deja ver a jesucristo como el supremo mensajero de Dios Jesus se presenta como el que trae la verdad de Dios el que nos permite entrar a la presencia de Dios y el que ha recibido de Dios el poder y el dominio para siempre fijate a quien vienes para humillarte a quien vienes a adorar a quien le sirves juan ve a Dios vs 14 15 tenia la cabeza y el pelo blanco tan blanco como la lana o mas que la nieve daniel 7 9 su voz era como estruendo de muchas aguas ezequiel 43 2 la tierra resplandecia a causa de su gloria apocalipsis 1 17 yo soy el primero y el ultimo isaias 44 6 apocalipsis 1 18 y el que vivo josue 3 10 y tengo las llaves de la muerte y del hades apocalipsis 1 18 el senor Jesus todo lo domina nadie esta sobre el tenia la cabeza y el pelo blancos tan blancos como la blanca lana o como la nieve juan lo vio como el anciano de dias de una gran edad en la existencia eterna de jesucristo no como el que nacio como hombre hace 2016 anos el es eterno su pureza es inmaculada no le puedes servir como si el fuera otro mas mejor dicho no le sirvas a otro como si fuera Dios tenia los ojos como fuego llameante vs 14 sus ojos como antorchas de fuego todo lo ve y lo juzga lo pasa todo por la llama de fuego de sus ojos tenia los pies como bronce pulido refinado a fuego en un crisol donde se funde el metal bronce brunido que brillaba ya sus pies estan pulidos ya no estan en la tierra el bronce representa la fuerza la estabilidad de Dios el brillo o resplandor representa la velocidad la prontitud de Dios para venir en ayuda de los suyos o para castigar el pecado ese que vio juan es el emmanuel Dios con nosotros quien tomo la posicion del mesias redentor y ahora es todo Dios su voz era como el estruendo de muchas aguas vs 15 hay que temblar a su voz la voz de Dios sea cual sea estremece a nuestro ordinario ser y nuestro espiritu conoce su voz tenia en su diestra siete estrellas vs 16 al fin nuestro senor lo lleva todo en el la mano de cristo es suficientemente poderosa para sostener los cielos y suficientemente benigna para enjugar nuestras lagrimas fijate donde estas tu si en sus manos o en sus pies de autoridad su rostro era como el sol cuando esta en la plenitud de su resplandor cuando le vi cai como muerto a sus pies vs 17 aqui el senor no se deja ver como el Jesus que pescaba que sanaba libertaba reprendia y se compadecia cuando vino por primera vez a israel ahora esta ante su iglesia con toda la autoridad de Dios asi de grande y poderoso se le presenta a juan ya no como el de la cruz sino como el Dios y senor de la iglesia y de toda la creacion el primero y el ultimo esta es la descripcion que hace Dios de si mismo isaias 48 12 el vive pendiente de la iglesia asi que cuidado donde y como es que te mueves estes como estes el senor te mirara como iglesia y llegara a una absoluta conclusion de ti entonces pasara a trabajar contigo de acuerdo a como el sabe hacerlo mejor es para cada uno de nosotros amarlo y temer amen",
+    "alias_busqueda": [
+      "Perfecto Se Muestra Jesús Para Con Su Iglesia Apocalipsis 1:8-20",
+      "Mateo",
+      "Mateo 24",
+      "Mateo 24:13",
+      "voz de Dios",
+      "siete iglesias",
+      "santidad",
+      "lágrimas",
+      "Pruebas",
+      "Palabra de Dios"
+    ]
+  },
+  "revision_manual": {
+    "requiere_revision": false,
+    "motivo": ""
+  },
+  "ui": {
+    "mostrar_credito_en_header": true,
+    "mostrar_numero_estudio": true,
+    "mostrar_fecha": true,
+    "mostrar_topicos": true,
+    "permitir_favorito": true,
+    "permitir_compartir": true
+  }
+}

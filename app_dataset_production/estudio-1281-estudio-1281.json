@@ -1,0 +1,560 @@
+{
+  "id": "estudio-1281-estudio-1281",
+  "slug": "estudio-1281-estudio-1281",
+  "numero_estudio": 1281,
+  "tipo_estudio": "Iglesia en las casas",
+  "ministerio": {
+    "iglesia": "Iglesia Cristiana Mega Zoe",
+    "pastora": "Pastora Edith Cruz",
+    "credito_corto": "Iglesia Cristiana Mega Zoe · Pastora Edith Cruz",
+    "credito_largo": "Contenido original de Iglesia Cristiana Mega Zoe, conservando el crédito ministerial correspondiente a la Pastora Edith Cruz."
+  },
+  "identidad_editorial": {
+    "idioma": "es",
+    "fuente_original": "documento_word",
+    "archivo_origen": "/Users/edwingadiel/Desktop/Estudios en Word/Estudio #1281 Qué harás Tú a Tu grande nombre - Josué 7 6-21.docx",
+    "estado_revision": "procesado",
+    "version_schema": "1.0"
+  },
+  "encabezado": {
+    "titulo": "¿Qué Harás Tú A Tu Grande Nombre",
+    "subtitulo": null,
+    "cita_principal": "Josué 7:6-21",
+    "resumen_corto": "Este estudio llama a cuidar la vida del hogar delante de Dios y caminar con sabiduría espiritual."
+  },
+  "fechas": {
+    "fecha_inicio": null,
+    "fecha_fin": null,
+    "fecha_texto_original": "",
+    "ano": null
+  },
+  "clasificacion_biblica": {
+    "libro_principal": "Josué",
+    "capitulo_principal": 7,
+    "versiculos_principales": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21
+    ],
+    "referencia_principal_normalizada": "Josué 7:6-21",
+    "testamento_principal": "Antiguo Testamento"
+  },
+  "clasificacion_tematica": {
+    "topicos": [
+      "Familia",
+      "Sabiduría espiritual",
+      "Gracia de Dios"
+    ],
+    "keywords": [
+      "gloria de Dios",
+      "santidad",
+      "arrepentimiento",
+      "perseverancia",
+      "corazón"
+    ]
+  },
+  "referencias_biblicas": [
+    {
+      "referencia": "Josué 7:6-21",
+      "referencia_normalizada": "Josué 7:6-21",
+      "libro": "Josué",
+      "capitulo": 7,
+      "versiculos": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21
+      ],
+      "tipo": "principal",
+      "clickeable": true
+    },
+    {
+      "referencia": "Josué 7: 6-18",
+      "referencia_normalizada": "Josué 7:6-18",
+      "libro": "Josué",
+      "capitulo": 7,
+      "versiculos": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Josué 7:5",
+      "referencia_normalizada": "Josué 7:5",
+      "libro": "Josué",
+      "capitulo": 7,
+      "versiculos": [
+        5
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Josué 7:9",
+      "referencia_normalizada": "Josué 7:9",
+      "libro": "Josué",
+      "capitulo": 7,
+      "versiculos": [
+        9
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Josué 7:11",
+      "referencia_normalizada": "Josué 7:11",
+      "libro": "Josué",
+      "capitulo": 7,
+      "versiculos": [
+        11
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Josué 7:13",
+      "referencia_normalizada": "Josué 7:13",
+      "libro": "Josué",
+      "capitulo": 7,
+      "versiculos": [
+        13
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Josué 7:19",
+      "referencia_normalizada": "Josué 7:19",
+      "libro": "Josué",
+      "capitulo": 7,
+      "versiculos": [
+        19
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Josué 7: 20-21",
+      "referencia_normalizada": "Josué 7:20-21",
+      "libro": "Josué",
+      "capitulo": 7,
+      "versiculos": [
+        20,
+        21
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Santiago 1:14-15",
+      "referencia_normalizada": "Santiago 1:14-15",
+      "libro": "Santiago",
+      "capitulo": 1,
+      "versiculos": [
+        14,
+        15
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Josué 7:21",
+      "referencia_normalizada": "Josué 7:21",
+      "libro": "Josué",
+      "capitulo": 7,
+      "versiculos": [
+        21
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Josué 7:25",
+      "referencia_normalizada": "Josué 7:25",
+      "libro": "Josué",
+      "capitulo": 7,
+      "versiculos": [
+        25
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    }
+  ],
+  "contenido": {
+    "introduccion": null,
+    "secciones": [],
+    "contenido_completo": "Cuando se siente desagradar a Dios, porque hay señales, debemos aprender a no quejarnos \"de\" Dios, sino dar tu queja \"a\" Dios. Entonces tendrás respuesta de Dios. Josué ora y Dios le dice a Josué: ¿Por qué te postras así sobre tu rostro? Israel ha pecado y los pactos que se les mandó los han roto. Han hurtado, han mentido y el mal lo tienen en sus casas. (Josué 7: 6-18).\n\nComo consecuencia del pecado de Acán, todo el campamento de Israel hubo de soportar la ira de Dios.\n\nEllos no se percatan de la ofensa, Dios lo vio.\n\nDios ve y toma todas las medidas necesarias para que todos ellos también la vieran.\n\nLa ciudad que se iba a tomar era pan comido.\n\nCon poco debían conquistarla.\n\nIsrael debía santificarse, por haberse contaminado.\n\n(Josué 7:5) El corazón del pueblo desfalleció y vino a ser como agua.\n\nPara todo hombre sensato entre ellos, fue una indicación de que Dios estaba disgustado con ellos.\n\nGran preocupación que a Josué le causó, triste acontecimiento.\n\nRompió sus vestiduras: tal desastre público y \"especialmente por temor al desagrado de Dios, que era ciertamente la causa.\n\nSobre la poderosa mano de Dios, se humilló Josué.\n\nLes tortura el pensamiento del desagrado a Dios.\n\nIsrael quedará destruido después, cuando las cosas se tuercen un poco se sienten inclinados \"a temer lo peor\", \"incluso los mejores\".\n\nLa ruina de la Iglesia afecta desfavorablemente \"en la gloria de Dios\".\n\nNo hay nada que \"entristezca\" tanto a una persona espiritual como ver deshonrado el nombre de Dios.\n\n(Josué 7:9) ¿Qué harás Tú a Tu grande nombre?\n\n¡Sea Dios glorificado en todo y ante todo y sea entonces aceptado cuando Su voluntad disponga!\n\nCuando estés mal con Dios no te quejes \"de\" Dios, sino ve \"a\" Dios y da la queja \"a\" Dios.\n\nLevántate: ¿Por qué te postras así sobre tu rostro?\n\nSe aflige el alma más de lo necesario, Dios no se deleita en tal posición.\n\n(Josué 7:11) Israel ha pecado.\n\nOcultaron, se les olvidó la omnisciencia divina.\n\nHan mentido: Acán se había unido a los demás en la \"general profesión de inocencia, sin inmutarlo\".\n\n\"Y aún lo han guardado entre sus enseres\", como si fuera una más de sus \"legítimas\" pertenencias.\n\nInvestigar quién era el autor, aunque Dios se lo podía decir.\n\nNo confesó, no se arrepintió antes.\n\nDureza de corazón: no descubrirse hasta echarse la suerte.\n\nJosué hace una investigación.\n\n(Josué 7:13) El pueblo tenía que santificarse.\n\nSe ha de saber: primero la tribu; después la familia; luego, la casa; finalmente, la persona.\n\nLa convicción caía sobre el delincuente de una forma gradual, a fin de que tuviese tiempo para presentarse y entregarse a sí mismo.\n\nAcán queda al descubierto, como si la suerte echada dijese: Tú eres ese hombre.\n\nLa insensatez (necedad, disparate, necedad) de quienes se prometen seguridad en el \"ocultamiento\" de sus pecados; el \"Dios justo\" tiene muchos medios para sacar a luz las ocultas obras de las tinieblas.\n\nJosué examina a Acán.\n\nJosué ya de juez, urge a Acán a que confiese su pecado, a fin de que, por la confesión se libre.\n\nLe llama hijo. (Josué 7:19).\n\nDeja sus cosas en su casa como de ellos.\n\nEra que confesara delante del pueblo su mal ejemplo.\n\nConfesión de Acán; lo dice libre y francamente (Josué 7: 20-21).\n\nPues vi…codicié y tomé.\n\n(Santiago 1:14-15) Cada uno es tentado cuando es llevado y seducido por su propia pasión. Después cuando la pasión ha concebido, da a luz el pecado; y cuando el pecado es consumado, \"engendra la muerte\".\n\nUn manto babilónico muy bueno; doscientos siclos de plata (unos dos kilos y trescientos gramos) y de un lingote de oro de peso de cincuenta siclos (600 gramos).\n\nQué menguado precio pagó Acán por haber cobrado un riesgo tan temible.\n\nQué sufrimiento sobrevienen al corazón por seguir los pasos de la vista y cuánta necesidad tenemos \"de hacer un pacto con nuestros ojos\", \"porque si los dejamos vagar, de seguro ha de ser para \"después llorar\".\n\nCon la vista del objeto prohibido, el corazón concibió el pecado.\n\nÉl mismo admite: (Josué 7:21) Lo cual codicié.\n\nMortificar en sí mismos los deseos pecaminosos.\n\nNo fue el ver, sino el desear lo que le causó la ruina.\n\nLuego que cometió el pecado, se dio prisa y maña (mala costumbre, habilidad, astucia) para ocultarlo.\n\nDios le ha traído esa convicción mediante la suerte echada y le ha convencido también ahora su propia confesión.\n\n(Josué 7:25) ¿Por qué nos has traído desgracia?\n\nEl pecado causa desgracia no solo al propio pecador sino también a sus prójimos más cercanos.\n\nLa severidad por robar a Dios y había traído la desgracia sobre Israel.\n\nSu muerte no iba a contaminar el campamento; por tal razón, fue ejecutado a distancia.\n\nSus hijos fueron ejecutados con él: por el ocultamiento del robo.\n\nSu cadáver fue quemado. Amén.",
+    "contenido_renderizado": [
+      {
+        "tipo": "parrafo",
+        "texto": "Cuando se siente desagradar a Dios, porque hay señales, debemos aprender a no quejarnos \"de\" Dios, sino dar tu queja \"a\" Dios. Entonces tendrás respuesta de Dios. Josué ora y Dios le dice a Josué: ¿Por qué te postras así sobre tu rostro? Israel ha pecado y los pactos que se les mandó los han roto. Han hurtado, han mentido y el mal lo tienen en sus casas. (Josué 7: 6-18).",
+        "referencias_inline": [
+          "Josué 7:6-18"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Como consecuencia del pecado de Acán, todo el campamento de Israel hubo de soportar la ira de Dios.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Ellos no se percatan de la ofensa, Dios lo vio.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Dios ve y toma todas las medidas necesarias para que todos ellos también la vieran.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "La ciudad que se iba a tomar era pan comido.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Con poco debían conquistarla.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Israel debía santificarse, por haberse contaminado.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Josué 7:5) El corazón del pueblo desfalleció y vino a ser como agua.",
+        "referencias_inline": [
+          "Josué 7:5"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Para todo hombre sensato entre ellos, fue una indicación de que Dios estaba disgustado con ellos.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Gran preocupación que a Josué le causó, triste acontecimiento.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Rompió sus vestiduras: tal desastre público y \"especialmente por temor al desagrado de Dios, que era ciertamente la causa.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Sobre la poderosa mano de Dios, se humilló Josué.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Les tortura el pensamiento del desagrado a Dios.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Israel quedará destruido después, cuando las cosas se tuercen un poco se sienten inclinados \"a temer lo peor\", \"incluso los mejores\".",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "La ruina de la Iglesia afecta desfavorablemente \"en la gloria de Dios\".",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "No hay nada que \"entristezca\" tanto a una persona espiritual como ver deshonrado el nombre de Dios.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Josué 7:9) ¿Qué harás Tú a Tu grande nombre?",
+        "referencias_inline": [
+          "Josué 7:9"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "¡Sea Dios glorificado en todo y ante todo y sea entonces aceptado cuando Su voluntad disponga!",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Cuando estés mal con Dios no te quejes \"de\" Dios, sino ve \"a\" Dios y da la queja \"a\" Dios.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Levántate: ¿Por qué te postras así sobre tu rostro?",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Se aflige el alma más de lo necesario, Dios no se deleita en tal posición.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Josué 7:11) Israel ha pecado.",
+        "referencias_inline": [
+          "Josué 7:11"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Ocultaron, se les olvidó la omnisciencia divina.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Han mentido: Acán se había unido a los demás en la \"general profesión de inocencia, sin inmutarlo\".",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "\"Y aún lo han guardado entre sus enseres\", como si fuera una más de sus \"legítimas\" pertenencias.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Investigar quién era el autor, aunque Dios se lo podía decir.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "No confesó, no se arrepintió antes.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Dureza de corazón: no descubrirse hasta echarse la suerte.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Josué hace una investigación.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Josué 7:13) El pueblo tenía que santificarse.",
+        "referencias_inline": [
+          "Josué 7:13"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Se ha de saber: primero la tribu; después la familia; luego, la casa; finalmente, la persona.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "La convicción caía sobre el delincuente de una forma gradual, a fin de que tuviese tiempo para presentarse y entregarse a sí mismo.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Acán queda al descubierto, como si la suerte echada dijese: Tú eres ese hombre.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "La insensatez (necedad, disparate, necedad) de quienes se prometen seguridad en el \"ocultamiento\" de sus pecados; el \"Dios justo\" tiene muchos medios para sacar a luz las ocultas obras de las tinieblas.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Josué examina a Acán.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Josué ya de juez, urge a Acán a que confiese su pecado, a fin de que, por la confesión se libre.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Le llama hijo. (Josué 7:19).",
+        "referencias_inline": [
+          "Josué 7:19"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Deja sus cosas en su casa como de ellos.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Era que confesara delante del pueblo su mal ejemplo.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Confesión de Acán; lo dice libre y francamente (Josué 7: 20-21).",
+        "referencias_inline": [
+          "Josué 7:20-21"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Pues vi…codicié y tomé.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Santiago 1:14-15) Cada uno es tentado cuando es llevado y seducido por su propia pasión. Después cuando la pasión ha concebido, da a luz el pecado; y cuando el pecado es consumado, \"engendra la muerte\".",
+        "referencias_inline": [
+          "Santiago 1:14-15"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Un manto babilónico muy bueno; doscientos siclos de plata (unos dos kilos y trescientos gramos) y de un lingote de oro de peso de cincuenta siclos (600 gramos).",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Qué menguado precio pagó Acán por haber cobrado un riesgo tan temible.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Qué sufrimiento sobrevienen al corazón por seguir los pasos de la vista y cuánta necesidad tenemos \"de hacer un pacto con nuestros ojos\", \"porque si los dejamos vagar, de seguro ha de ser para \"después llorar\".",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Con la vista del objeto prohibido, el corazón concibió el pecado.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Él mismo admite: (Josué 7:21) Lo cual codicié.",
+        "referencias_inline": [
+          "Josué 7:21"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Mortificar en sí mismos los deseos pecaminosos.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "No fue el ver, sino el desear lo que le causó la ruina.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Luego que cometió el pecado, se dio prisa y maña (mala costumbre, habilidad, astucia) para ocultarlo.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Dios le ha traído esa convicción mediante la suerte echada y le ha convencido también ahora su propia confesión.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Josué 7:25) ¿Por qué nos has traído desgracia?",
+        "referencias_inline": [
+          "Josué 7:25"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "El pecado causa desgracia no solo al propio pecador sino también a sus prójimos más cercanos.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "La severidad por robar a Dios y había traído la desgracia sobre Israel.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Su muerte no iba a contaminar el campamento; por tal razón, fue ejecutado a distancia.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Sus hijos fueron ejecutados con él: por el ocultamiento del robo.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Su cadáver fue quemado. Amén.",
+        "referencias_inline": []
+      }
+    ]
+  },
+  "busqueda": {
+    "texto_indexable": "que haras tu a tu grande nombre josue 7 6 21 familia sabiduria espiritual gracia de Dios gloria de Dios santidad arrepentimiento perseverancia corazon cuando se siente desagradar a Dios porque hay senales debemos aprender a no quejarnos de Dios sino dar tu queja a Dios entonces tendras respuesta de Dios josue ora y Dios le dice a josue por que te postras asi sobre tu rostro israel ha pecado y los pactos que se les mando los han roto han hurtado han mentido y el mal lo tienen en sus casas josue 7 6 18 como consecuencia del pecado de acan todo el campamento de israel hubo de soportar la ira de Dios ellos no se percatan de la ofensa Dios lo vio Dios ve y toma todas las medidas necesarias para que todos ellos tambien la vieran la ciudad que se iba a tomar era pan comido con poco debian conquistarla israel debia santificarse por haberse contaminado josue 7 5 el corazon del pueblo desfallecio y vino a ser como agua para todo hombre sensato entre ellos fue una indicacion de que Dios estaba disgustado con ellos gran preocupacion que a josue le causo triste acontecimiento rompio sus vestiduras tal desastre publico y especialmente por temor al desagrado de Dios que era ciertamente la causa sobre la poderosa mano de Dios se humillo josue les tortura el pensamiento del desagrado a Dios israel quedara destruido despues cuando las cosas se tuercen un poco se sienten inclinados a temer lo peor incluso los mejores la ruina de la iglesia afecta desfavorablemente en la gloria de Dios no hay nada que entristezca tanto a una persona espiritual como ver deshonrado el nombre de Dios josue 7 9 que haras tu a tu grande nombre sea Dios glorificado en todo y ante todo y sea entonces aceptado cuando su voluntad disponga cuando estes mal con Dios no te quejes de Dios sino ve a Dios y da la queja a Dios levantate por que te postras asi sobre tu rostro se aflige el alma mas de lo necesario Dios no se deleita en tal posicion josue 7 11 israel ha pecado ocultaron se les olvido la omnisciencia divina han mentido acan se habia unido a los demas en la general profesion de inocencia sin inmutarlo y aun lo han guardado entre sus enseres como si fuera una mas de sus legitimas pertenencias investigar quien era el autor aunque Dios se lo podia decir no confeso no se arrepintio antes dureza de corazon no descubrirse hasta echarse la suerte josue hace una investigacion josue 7 13 el pueblo tenia que santificarse se ha de saber primero la tribu despues la familia luego la casa finalmente la persona la conviccion caia sobre el delincuente de una forma gradual a fin de que tuviese tiempo para presentarse y entregarse a si mismo acan queda al descubierto como si la suerte echada dijese tu eres ese hombre la insensatez necedad disparate necedad de quienes se prometen seguridad en el ocultamiento de sus pecados el Dios justo tiene muchos medios para sacar a luz las ocultas obras de las tinieblas josue examina a acan josue ya de juez urge a acan a que confiese su pecado a fin de que por la confesion se libre le llama hijo josue 7 19 deja sus cosas en su casa como de ellos era que confesara delante del pueblo su mal ejemplo confesion de acan lo dice libre y francamente josue 7 20 21 pues vi codicie y tome santiago 1 14 15 cada uno es tentado cuando es llevado y seducido por su propia pasion despues cuando la pasion ha concebido da a luz el pecado y cuando el pecado es consumado engendra la muerte un manto babilonico muy bueno doscientos siclos de plata unos dos kilos y trescientos gramos y de un lingote de oro de peso de cincuenta siclos 600 gramos que menguado precio pago acan por haber cobrado un riesgo tan temible que sufrimiento sobrevienen al corazon por seguir los pasos de la vista y cuanta necesidad tenemos de hacer un pacto con nuestros ojos porque si los dejamos vagar de seguro ha de ser para despues llorar con la vista del objeto prohibido el corazon concibio el pecado el mismo admite josue 7 21 lo cual codicie mortificar en si mismos los deseos pecaminosos no fue el ver sino el desear lo que le causo la ruina luego que cometio el pecado se dio prisa y mana mala costumbre habilidad astucia para ocultarlo Dios le ha traido esa conviccion mediante la suerte echada y le ha convencido tambien ahora su propia confesion josue 7 25 por que nos has traido desgracia el pecado causa desgracia no solo al propio pecador sino tambien a sus projimos mas cercanos la severidad por robar a Dios y habia traido la desgracia sobre israel su muerte no iba a contaminar el campamento por tal razon fue ejecutado a distancia sus hijos fueron ejecutados con el por el ocultamiento del robo su cadaver fue quemado amen",
+    "alias_busqueda": [
+      "Estudio 1281",
+      "Josué",
+      "Josué 7",
+      "Josué 7:6-21",
+      "gloria de Dios",
+      "santidad",
+      "arrepentimiento",
+      "perseverancia",
+      "Familia",
+      "Sabiduría espiritual"
+    ]
+  },
+  "revision_manual": {
+    "requiere_revision": false,
+    "motivo": ""
+  },
+  "ui": {
+    "mostrar_credito_en_header": true,
+    "mostrar_numero_estudio": true,
+    "mostrar_fecha": true,
+    "mostrar_topicos": true,
+    "permitir_favorito": true,
+    "permitir_compartir": true
+  }
+}

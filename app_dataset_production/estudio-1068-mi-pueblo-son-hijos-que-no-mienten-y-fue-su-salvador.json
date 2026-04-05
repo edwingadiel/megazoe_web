@@ -1,0 +1,339 @@
+{
+  "id": "estudio-1068-mi-pueblo-son-hijos-que-no-mienten-y-fue-su-salvador",
+  "slug": "estudio-1068-mi-pueblo-son-hijos-que-no-mienten-y-fue-su-salvador",
+  "numero_estudio": 1068,
+  "tipo_estudio": "Iglesia en las casas",
+  "ministerio": {
+    "iglesia": "Iglesia Cristiana Mega Zoe",
+    "pastora": "Pastora Edith Cruz",
+    "credito_corto": "Iglesia Cristiana Mega Zoe · Pastora Edith Cruz",
+    "credito_largo": "Contenido original de Iglesia Cristiana Mega Zoe, conservando el crédito ministerial correspondiente a la Pastora Edith Cruz."
+  },
+  "identidad_editorial": {
+    "idioma": "es",
+    "fuente_original": "documento_word",
+    "archivo_origen": "/Users/edwingadiel/Desktop/Estudios en Word/Estudio #1068  Mi pueblo son, hijos que no mienten Y Fue Su Salvador - Isaías 63 8-9.docx",
+    "estado_revision": "procesado",
+    "version_schema": "1.0"
+  },
+  "encabezado": {
+    "titulo": "Mi Pueblo Son, Hijos Que No Mienten; Y Fue Su Salvador",
+    "subtitulo": null,
+    "cita_principal": "Isaías 63:8-9",
+    "resumen_corto": "Este estudio enseña a cuidar la vida del hogar delante de Dios y permanecer en la verdad."
+  },
+  "fechas": {
+    "fecha_inicio": null,
+    "fecha_fin": null,
+    "fecha_texto_original": "",
+    "ano": null
+  },
+  "clasificacion_biblica": {
+    "libro_principal": "Isaías",
+    "capitulo_principal": 63,
+    "versiculos_principales": [
+      8,
+      9
+    ],
+    "referencia_principal_normalizada": "Isaías 63:8-9",
+    "testamento_principal": "Antiguo Testamento"
+  },
+  "clasificacion_tematica": {
+    "topicos": [
+      "Familia",
+      "Crianza de hijos",
+      "Verdad"
+    ],
+    "keywords": [
+      "hablad verdad",
+      "juicio",
+      "arrepentimiento",
+      "salvó",
+      "escrituras"
+    ]
+  },
+  "referencias_biblicas": [
+    {
+      "referencia": "Isaías 63:8-9",
+      "referencia_normalizada": "Isaías 63:8-9",
+      "libro": "Isaías",
+      "capitulo": 63,
+      "versiculos": [
+        8,
+        9
+      ],
+      "tipo": "principal",
+      "clickeable": true
+    },
+    {
+      "referencia": "Éxodo 23:20-25",
+      "referencia_normalizada": "Éxodo 23:20-25",
+      "libro": "Éxodo",
+      "capitulo": 23,
+      "versiculos": [
+        20,
+        21,
+        22,
+        23,
+        24,
+        25
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Malaquías 3:16",
+      "referencia_normalizada": "Malaquías 3:16",
+      "libro": "Malaquías",
+      "capitulo": 3,
+      "versiculos": [
+        16
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Juan 14:9",
+      "referencia_normalizada": "Juan 14:9",
+      "libro": "Juan",
+      "capitulo": 14,
+      "versiculos": [
+        9
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "1 Timoteo 3:16, 1",
+      "referencia_normalizada": "1 Timoteo 3:16,1",
+      "libro": "1 Timoteo",
+      "capitulo": 3,
+      "versiculos": [
+        1,
+        16
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Juan 4:2",
+      "referencia_normalizada": "Juan 4:2",
+      "libro": "Juan",
+      "capitulo": 4,
+      "versiculos": [
+        2
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Isaías 63:8",
+      "referencia_normalizada": "Isaías 63:8",
+      "libro": "Isaías",
+      "capitulo": 63,
+      "versiculos": [
+        8
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Proverbios 12:19",
+      "referencia_normalizada": "Proverbios 12:19",
+      "libro": "Proverbios",
+      "capitulo": 12,
+      "versiculos": [
+        19
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Zacarías 8:16",
+      "referencia_normalizada": "Zacarías 8:16",
+      "libro": "Zacarías",
+      "capitulo": 8,
+      "versiculos": [
+        16
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Malaquías 2:6-7",
+      "referencia_normalizada": "Malaquías 2:6-7",
+      "libro": "Malaquías",
+      "capitulo": 2,
+      "versiculos": [
+        6,
+        7
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Efesios 4:25",
+      "referencia_normalizada": "Efesios 4:25",
+      "libro": "Efesios",
+      "capitulo": 4,
+      "versiculos": [
+        25
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Efesios 6:14",
+      "referencia_normalizada": "Efesios 6:14",
+      "libro": "Efesios",
+      "capitulo": 6,
+      "versiculos": [
+        14
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Efesios 6",
+      "referencia_normalizada": "Efesios 6",
+      "libro": "Efesios",
+      "capitulo": 6,
+      "versiculos": [],
+      "tipo": "secundaria",
+      "clickeable": true
+    }
+  ],
+  "contenido": {
+    "introduccion": null,
+    "secciones": [],
+    "contenido_completo": "Dios fue el compañero del pueblo de Israel en todas las pruebas, fiel compañero como lo fue en la angustia que pasaron en Egipto. Es que Dios se confió de ellos y los salvó desde el principio. ¡El Señor esperaba que ellos le fueran leales! EL ÁNGEL DE SU ROSTRO (FAZ) los salvó, es el ángel de Jehová (Éxodo 23:20-25). ¡Él es el ángel del pacto (Malaquías 3:16), es decir, el propio Señor Jesucristo pre-encarnado, el cual bien puede llamarse EL ÁNGEL DEL ROSTRO DE JEHOVÁ! Se le llama así no sólo porque es la fiel representación de su ser real, sino también por ser la manifestación en carne del Dios invisible (Juan 14:9; 1 Timoteo 3:16, 1 Juan 4:2).\n\nI. Dios dijo: \"…ciertamente mi pueblo son, HIJOS QUE NO MIENTEN…\" (Isaías 63:8)\n\nA. Dios estará en toda angustia de ellos. Dicen las Escrituras que Él también fue angustiado en las angustias de su pueblo (Vs.9 \"En toda angustia de ellos Él fue angustiado…\").\n\n1. ¡Dios mismo, por decirlo así, participa en los sufrimientos de Su pueblo!\n\n2 ¡Es afligido en las aflicciones de ellos, como se afligen los buenos padres cuando alguno de sus hijos está enfermo! ¡Así es contigo!\n\nB. \"…mi pueblo son, HIJOS QUE NO MIENTEN…\"\n\n1.HAY VERDAD EN ELLOS, veracidad en Su pueblo= andan en lo que es verdadero, lo que está conforme con la verdad y se ajusta a ella. La verdad es un valor moral positivo, sincero, honesto, franco y de buena fe.\n\n2. ¡Dios no tiene mentiras, no tiene hipocresía o falsedad! ¡La mentira es falsedad y ser hipócrita!\n\n3. Entonces, ¡HAY QUE DEFINIR COMO LLEVAR LA VIDA EN LA VERDAD Y ASI ESTAR EN PAZ CON Dios Y CON UNO MISMO!\n\n4. Veamos qué dice la Palabra de Dios sobre vivir todo el tiempo con la verdad:\n\na. Proverbios 12:19 \"El LABIO VERAZ permanecerá para siempre, más la lengua mentirosa solo por un momento.\" El hombre de labio veraz participa de la verdad de Dios y, por eso, permanece para siempre. El que no ha permanecido para siempre en un lugar de altura y de pureza es por haber traicionado la verdad. ¿Así has sido tú o has amado la verdad? De lo que es verdad, de lo que siempre ha sido, es y será verdad, uno puede fiarse de ello, puede estar confiado. En cambio, la lengua mentirosa sólo puede sostenerse por \"un momento\", ya que, al no tener consistencia en sí misma, acaba por ser descubierta. En efecto, una mentira necesita de muchas otras para sostenerse y esto es muy difícil, pues su falta de unión o relación conduce a afirmaciones contradictorias. Es por eso que se dice, ¡antes se da alcance a un mentiroso que a un cojo!\n\nb. Zacarías 8:16 \"Estas son las cosas que habéis de hacer: HABLAD VERDAD cada cual con su prójimo; juzgad SEGÚN LA VERDAD y lo conducente a la paz en vuestras puertas.\" Lo que debemos hacer es hablar verdad cada cual con su prójimo; las mentiras, llevan hipocresía y falsedad. Y ¿por qué entonces hablar mentiras, por qué presumir? Menos, ¿por qué oírlas? Juzgad (opinar) según la verdad, hagamos juicios justos y lo conducente a la paz en nuestras puertas. ¡Hermano, lleva la verdad y no la mentira! ¡Porque si no hay paz, lo que estará será la mentira, la hipocresía y entonces quedará en las puertas la destrucción!\n\nc. Malaquías 2:6-7 \"LA LEY DE VERDAD estuvo en su boca, e INIQUIDAD NO FUE HALLADA en sus LABIOS; en paz y en justicia anduvo conmigo, y a muchos hizo apartar de la iniquidad. Porque LOS LABIOS del sacerdote han de guardar la sabiduría, y DE SU BOCA el pueblo buscará la ley; porque mensajero es de Jehová de los ejércitos.\" Se refiere aquí a Leví, al sacerdocio. \"Cuando el sacerdote es recto, muchos serán rectos. \"(Mathew Henry) Así es nuestro Señor, con la verdad en Su boca: la iniquidad (injusticia o gran maldad) no puede estar en nuestros labios; en nuestra forma de caminar tiene que estar fuera la mentira para poder estar en justicia y paz. Si no haces así, ¿sabes lo que les pasará a todos los que te rodean (\"…y a muchos hizo apartar de la iniquidad (maldad)…\")? Si tú no les produces ese efecto a los que están contigo, ¡algo pasa! Es que no está la verdad, ¡vives en hipocresía!\n\nd. Efesios 4:25 \"Por lo cual, desechando la mentira, HABLAD VERDAD cada uno con su prójimo; porque somos miembros los unos de los otros.\" Lo que corresponde al \"nuevo hombre en Cristo\" es despojarse (quitarse) de la falsedad, hablar verdad cada uno con su prójimo. Es la preparación para entrar en el reino del Señor, y más que decir la verdad es COMPORTARSE EN TODO de acuerdo con la verdad cristiana; ¡porque somos miembros los unos de los otros! Pablo no apela a la ley moral que prohibía la mentira, sino a nuestra condición de compañeros miembros de Cristo. ¡La Cabeza (Cristo) necesita un cuerpo limpio, santo, sin hipocresía, sin falsedad, para poder estar! ¡Donde no hay sinceridad en el trato mutuo, no es posible que prospere la comunión de la Iglesia! Si el cerebro enviase mensajes falsos a los pies, la persona podría sufrir una caída con la que el propio cerebro podría sufrir un daño irreparable.\n\ne. Efesios 6:14 \"Estad, pues, firmes, ceñidos vuestros lomos con la verdad…\" La verdad es una deuda que debemos a todos los hombres, claro aquí es a los hermanos de la fe. La mentira incluye aquí toda forma de insinceridad y manipulación de la verdad, como lo es el exagerar. La primera pieza de la armadura que se menciona en Efesios 6 es el cinto de la verdad; la verdad nos sostiene a nosotros mismos. Tenemos que aplicarla en toda nuestra vida diaria. Al ponerlo todo a prueba mediante la verdad, encontramos fuerza y protección en el combate.\n\n5. ¿Eres hijo del Altísimo? ¿HIJO QUE NO MIENTE? Entonces, ¡ÉL ES TU SALVADOR! Amén.",
+    "contenido_renderizado": [
+      {
+        "tipo": "parrafo",
+        "texto": "Dios fue el compañero del pueblo de Israel en todas las pruebas, fiel compañero como lo fue en la angustia que pasaron en Egipto. Es que Dios se confió de ellos y los salvó desde el principio. ¡El Señor esperaba que ellos le fueran leales! EL ÁNGEL DE SU ROSTRO (FAZ) los salvó, es el ángel de Jehová (Éxodo 23:20-25). ¡Él es el ángel del pacto (Malaquías 3:16), es decir, el propio Señor Jesucristo pre-encarnado, el cual bien puede llamarse EL ÁNGEL DEL ROSTRO DE JEHOVÁ! Se le llama así no sólo porque es la fiel representación de su ser real, sino también por ser la manifestación en carne del Dios invisible (Juan 14:9; 1 Timoteo 3:16, 1 Juan 4:2).",
+        "referencias_inline": [
+          "Éxodo 23:20-25",
+          "Malaquías 3:16",
+          "Juan 14:9",
+          "1 Timoteo 3:16,1",
+          "Juan 4:2"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "I. Dios dijo: \"…ciertamente mi pueblo son, HIJOS QUE NO MIENTEN…\" (Isaías 63:8)",
+        "referencias_inline": [
+          "Isaías 63:8"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "A. Dios estará en toda angustia de ellos. Dicen las Escrituras que Él también fue angustiado en las angustias de su pueblo (Vs.9 \"En toda angustia de ellos Él fue angustiado…\").",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "1. ¡Dios mismo, por decirlo así, participa en los sufrimientos de Su pueblo!",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "2 ¡Es afligido en las aflicciones de ellos, como se afligen los buenos padres cuando alguno de sus hijos está enfermo! ¡Así es contigo!",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "B. \"…mi pueblo son, HIJOS QUE NO MIENTEN…\"",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "1.HAY VERDAD EN ELLOS, veracidad en Su pueblo= andan en lo que es verdadero, lo que está conforme con la verdad y se ajusta a ella. La verdad es un valor moral positivo, sincero, honesto, franco y de buena fe.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "2. ¡Dios no tiene mentiras, no tiene hipocresía o falsedad! ¡La mentira es falsedad y ser hipócrita!",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "3. Entonces, ¡HAY QUE DEFINIR COMO LLEVAR LA VIDA EN LA VERDAD Y ASI ESTAR EN PAZ CON Dios Y CON UNO MISMO!",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "4. Veamos qué dice la Palabra de Dios sobre vivir todo el tiempo con la verdad:",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "a. Proverbios 12:19 \"El LABIO VERAZ permanecerá para siempre, más la lengua mentirosa solo por un momento.\" El hombre de labio veraz participa de la verdad de Dios y, por eso, permanece para siempre. El que no ha permanecido para siempre en un lugar de altura y de pureza es por haber traicionado la verdad. ¿Así has sido tú o has amado la verdad? De lo que es verdad, de lo que siempre ha sido, es y será verdad, uno puede fiarse de ello, puede estar confiado. En cambio, la lengua mentirosa sólo puede sostenerse por \"un momento\", ya que, al no tener consistencia en sí misma, acaba por ser descubierta. En efecto, una mentira necesita de muchas otras para sostenerse y esto es muy difícil, pues su falta de unión o relación conduce a afirmaciones contradictorias. Es por eso que se dice, ¡antes se da alcance a un mentiroso que a un cojo!",
+        "referencias_inline": [
+          "Proverbios 12:19"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "b. Zacarías 8:16 \"Estas son las cosas que habéis de hacer: HABLAD VERDAD cada cual con su prójimo; juzgad SEGÚN LA VERDAD y lo conducente a la paz en vuestras puertas.\" Lo que debemos hacer es hablar verdad cada cual con su prójimo; las mentiras, llevan hipocresía y falsedad. Y ¿por qué entonces hablar mentiras, por qué presumir? Menos, ¿por qué oírlas? Juzgad (opinar) según la verdad, hagamos juicios justos y lo conducente a la paz en nuestras puertas. ¡Hermano, lleva la verdad y no la mentira! ¡Porque si no hay paz, lo que estará será la mentira, la hipocresía y entonces quedará en las puertas la destrucción!",
+        "referencias_inline": [
+          "Zacarías 8:16"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "c. Malaquías 2:6-7 \"LA LEY DE VERDAD estuvo en su boca, e INIQUIDAD NO FUE HALLADA en sus LABIOS; en paz y en justicia anduvo conmigo, y a muchos hizo apartar de la iniquidad. Porque LOS LABIOS del sacerdote han de guardar la sabiduría, y DE SU BOCA el pueblo buscará la ley; porque mensajero es de Jehová de los ejércitos.\" Se refiere aquí a Leví, al sacerdocio. \"Cuando el sacerdote es recto, muchos serán rectos. \"(Mathew Henry) Así es nuestro Señor, con la verdad en Su boca: la iniquidad (injusticia o gran maldad) no puede estar en nuestros labios; en nuestra forma de caminar tiene que estar fuera la mentira para poder estar en justicia y paz. Si no haces así, ¿sabes lo que les pasará a todos los que te rodean (\"…y a muchos hizo apartar de la iniquidad (maldad)…\")? Si tú no les produces ese efecto a los que están contigo, ¡algo pasa! Es que no está la verdad, ¡vives en hipocresía!",
+        "referencias_inline": [
+          "Malaquías 2:6-7"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "d. Efesios 4:25 \"Por lo cual, desechando la mentira, HABLAD VERDAD cada uno con su prójimo; porque somos miembros los unos de los otros.\" Lo que corresponde al \"nuevo hombre en Cristo\" es despojarse (quitarse) de la falsedad, hablar verdad cada uno con su prójimo. Es la preparación para entrar en el reino del Señor, y más que decir la verdad es COMPORTARSE EN TODO de acuerdo con la verdad cristiana; ¡porque somos miembros los unos de los otros! Pablo no apela a la ley moral que prohibía la mentira, sino a nuestra condición de compañeros miembros de Cristo. ¡La Cabeza (Cristo) necesita un cuerpo limpio, santo, sin hipocresía, sin falsedad, para poder estar! ¡Donde no hay sinceridad en el trato mutuo, no es posible que prospere la comunión de la Iglesia! Si el cerebro enviase mensajes falsos a los pies, la persona podría sufrir una caída con la que el propio cerebro podría sufrir un daño irreparable.",
+        "referencias_inline": [
+          "Efesios 4:25"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "e. Efesios 6:14 \"Estad, pues, firmes, ceñidos vuestros lomos con la verdad…\" La verdad es una deuda que debemos a todos los hombres, claro aquí es a los hermanos de la fe. La mentira incluye aquí toda forma de insinceridad y manipulación de la verdad, como lo es el exagerar. La primera pieza de la armadura que se menciona en Efesios 6 es el cinto de la verdad; la verdad nos sostiene a nosotros mismos. Tenemos que aplicarla en toda nuestra vida diaria. Al ponerlo todo a prueba mediante la verdad, encontramos fuerza y protección en el combate.",
+        "referencias_inline": [
+          "Efesios 6:14",
+          "Efesios 6"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "5. ¿Eres hijo del Altísimo? ¿HIJO QUE NO MIENTE? Entonces, ¡ÉL ES TU SALVADOR! Amén.",
+        "referencias_inline": []
+      }
+    ]
+  },
+  "busqueda": {
+    "texto_indexable": "mi pueblo son hijos que no mienten y fue su salvador isaias 63 8 9 familia crianza de hijos verdad hablad verdad juicio arrepentimiento salvo escrituras Dios fue el companero del pueblo de israel en todas las pruebas fiel companero como lo fue en la angustia que pasaron en egipto es que Dios se confio de ellos y los salvo desde el principio el senor esperaba que ellos le fueran leales el angel de su rostro faz los salvo es el angel de jehova exodo 23 20 25 el es el angel del pacto malaquias 3 16 es decir el propio senor jesucristo pre encarnado el cual bien puede llamarse el angel del rostro de jehova se le llama asi no solo porque es la fiel representacion de su ser real sino tambien por ser la manifestacion en carne del Dios invisible juan 14 9 1 timoteo 3 16 1 juan 4 2 i Dios dijo ciertamente mi pueblo son hijos que no mienten isaias 63 8 a Dios estara en toda angustia de ellos dicen las escrituras que el tambien fue angustiado en las angustias de su pueblo vs 9 en toda angustia de ellos el fue angustiado 1 Dios mismo por decirlo asi participa en los sufrimientos de su pueblo 2 es afligido en las aflicciones de ellos como se afligen los buenos padres cuando alguno de sus hijos esta enfermo asi es contigo b mi pueblo son hijos que no mienten 1 hay verdad en ellos veracidad en su pueblo andan en lo que es verdadero lo que esta conforme con la verdad y se ajusta a ella la verdad es un valor moral positivo sincero honesto franco y de buena fe 2 Dios no tiene mentiras no tiene hipocresia o falsedad la mentira es falsedad y ser hipocrita 3 entonces hay que definir como llevar la vida en la verdad y asi estar en paz con Dios y con uno mismo 4 veamos que dice la palabra de Dios sobre vivir todo el tiempo con la verdad a proverbios 12 19 el labio veraz permanecera para siempre mas la lengua mentirosa solo por un momento el hombre de labio veraz participa de la verdad de Dios y por eso permanece para siempre el que no ha permanecido para siempre en un lugar de altura y de pureza es por haber traicionado la verdad asi has sido tu o has amado la verdad de lo que es verdad de lo que siempre ha sido es y sera verdad uno puede fiarse de ello puede estar confiado en cambio la lengua mentirosa solo puede sostenerse por un momento ya que al no tener consistencia en si misma acaba por ser descubierta en efecto una mentira necesita de muchas otras para sostenerse y esto es muy dificil pues su falta de union o relacion conduce a afirmaciones contradictorias es por eso que se dice antes se da alcance a un mentiroso que a un cojo b zacarias 8 16 estas son las cosas que habeis de hacer hablad verdad cada cual con su projimo juzgad segun la verdad y lo conducente a la paz en vuestras puertas lo que debemos hacer es hablar verdad cada cual con su projimo las mentiras llevan hipocresia y falsedad y por que entonces hablar mentiras por que presumir menos por que oirlas juzgad opinar segun la verdad hagamos juicios justos y lo conducente a la paz en nuestras puertas hermano lleva la verdad y no la mentira porque si no hay paz lo que estara sera la mentira la hipocresia y entonces quedara en las puertas la destruccion c malaquias 2 6 7 la ley de verdad estuvo en su boca e iniquidad no fue hallada en sus labios en paz y en justicia anduvo conmigo y a muchos hizo apartar de la iniquidad porque los labios del sacerdote han de guardar la sabiduria y de su boca el pueblo buscara la ley porque mensajero es de jehova de los ejercitos se refiere aqui a levi al sacerdocio cuando el sacerdote es recto muchos seran rectos mathew henry asi es nuestro senor con la verdad en su boca la iniquidad injusticia o gran maldad no puede estar en nuestros labios en nuestra forma de caminar tiene que estar fuera la mentira para poder estar en justicia y paz si no haces asi sabes lo que les pasara a todos los que te rodean y a muchos hizo apartar de la iniquidad maldad si tu no les produces ese efecto a los que estan contigo algo pasa es que no esta la verdad vives en hipocresia d efesios 4 25 por lo cual desechando la mentira hablad verdad cada uno con su projimo porque somos miembros los unos de los otros lo que corresponde al nuevo hombre en cristo es despojarse quitarse de la falsedad hablar verdad cada uno con su projimo es la preparacion para entrar en el reino del senor y mas que decir la verdad es comportarse en todo de acuerdo con la verdad cristiana porque somos miembros los unos de los otros pablo no apela a la ley moral que prohibia la mentira sino a nuestra condicion de companeros miembros de cristo la cabeza cristo necesita un cuerpo limpio santo sin hipocresia sin falsedad para poder estar donde no hay sinceridad en el trato mutuo no es posible que prospere la comunion de la iglesia si el cerebro enviase mensajes falsos a los pies la persona podria sufrir una caida con la que el propio cerebro podria sufrir un dano irreparable e efesios 6 14 estad pues firmes cenidos vuestros lomos con la verdad la verdad es una deuda que debemos a todos los hombres claro aqui es a los hermanos de la fe la mentira incluye aqui toda forma de insinceridad y manipulacion de la verdad como lo es el exagerar la primera pieza de la armadura que se menciona en efesios 6 es el cinto de la verdad la verdad nos sostiene a nosotros mismos tenemos que aplicarla en toda nuestra vida diaria al ponerlo todo a prueba mediante la verdad encontramos fuerza y proteccion en el combate 5 eres hijo del altisimo hijo que no miente entonces el es tu salvador amen",
+    "alias_busqueda": [
+      "Mi Pueblo Son, Hijos Que No Mienten; Y Fue Su Salvador",
+      "Isaías",
+      "Isaías 63",
+      "Isaías 63:8-9",
+      "hablad verdad",
+      "juicio",
+      "arrepentimiento",
+      "salvó",
+      "Familia",
+      "Crianza de hijos"
+    ]
+  },
+  "revision_manual": {
+    "requiere_revision": false,
+    "motivo": ""
+  },
+  "ui": {
+    "mostrar_credito_en_header": true,
+    "mostrar_numero_estudio": true,
+    "mostrar_fecha": true,
+    "mostrar_topicos": true,
+    "permitir_favorito": true,
+    "permitir_compartir": true
+  }
+}

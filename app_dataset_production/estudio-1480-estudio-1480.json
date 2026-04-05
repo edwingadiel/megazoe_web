@@ -1,0 +1,385 @@
+{
+  "id": "estudio-1480-estudio-1480",
+  "slug": "estudio-1480-estudio-1480",
+  "numero_estudio": 1480,
+  "tipo_estudio": "Iglesia en las casas",
+  "ministerio": {
+    "iglesia": "Iglesia Cristiana Mega Zoe",
+    "pastora": "Pastora Edith Cruz",
+    "credito_corto": "Iglesia Cristiana Mega Zoe · Pastora Edith Cruz",
+    "credito_largo": "Contenido original de Iglesia Cristiana Mega Zoe, conservando el crédito ministerial correspondiente a la Pastora Edith Cruz."
+  },
+  "identidad_editorial": {
+    "idioma": "es",
+    "fuente_original": "documento_pdf",
+    "archivo_origen": "/Users/edwingadiel/Desktop/Estudios en Word/Estudio 1480.pdf",
+    "estado_revision": "procesado",
+    "version_schema": "1.0"
+  },
+  "encabezado": {
+    "titulo": "Los Santos Son Los Verdaderos Sabios",
+    "subtitulo": null,
+    "cita_principal": "Proverbios 3:35",
+    "resumen_corto": "Los Santos Son Los Verdaderos Sabios enseña a caminar con sabiduría espiritual y permanecer en la verdad."
+  },
+  "fechas": {
+    "fecha_inicio": null,
+    "fecha_fin": null,
+    "fecha_texto_original": "",
+    "ano": null
+  },
+  "clasificacion_biblica": {
+    "libro_principal": "Proverbios",
+    "capitulo_principal": 3,
+    "versiculos_principales": [
+      35
+    ],
+    "referencia_principal_normalizada": "Proverbios 3:35",
+    "testamento_principal": "Antiguo Testamento"
+  },
+  "clasificacion_tematica": {
+    "topicos": [
+      "Sabiduría espiritual",
+      "Verdad",
+      "Palabra de Dios"
+    ],
+    "keywords": [
+      "juicio",
+      "arrepentimiento",
+      "prudente",
+      "prudencia",
+      "corazón"
+    ]
+  },
+  "referencias_biblicas": [
+    {
+      "referencia": "Proverbios 3:35",
+      "referencia_normalizada": "Proverbios 3:35",
+      "libro": "Proverbios",
+      "capitulo": 3,
+      "versiculos": [
+        35
+      ],
+      "tipo": "principal",
+      "clickeable": true
+    },
+    {
+      "referencia": "Salmos 53:1",
+      "referencia_normalizada": "Salmos 53:1",
+      "libro": "Salmos",
+      "capitulo": 53,
+      "versiculos": [
+        1
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Proverbios 10:18",
+      "referencia_normalizada": "Proverbios 10:18",
+      "libro": "Proverbios",
+      "capitulo": 10,
+      "versiculos": [
+        18
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Proverbios 14:9",
+      "referencia_normalizada": "Proverbios 14:9",
+      "libro": "Proverbios",
+      "capitulo": 14,
+      "versiculos": [
+        9
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Proverbios 15:5",
+      "referencia_normalizada": "Proverbios 15:5",
+      "libro": "Proverbios",
+      "capitulo": 15,
+      "versiculos": [
+        5
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Proverbios 18:6",
+      "referencia_normalizada": "Proverbios 18:6",
+      "libro": "Proverbios",
+      "capitulo": 18,
+      "versiculos": [
+        6
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Proverbios 20:3",
+      "referencia_normalizada": "Proverbios 20:3",
+      "libro": "Proverbios",
+      "capitulo": 20,
+      "versiculos": [
+        3
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Proverbios 28:26",
+      "referencia_normalizada": "Proverbios 28:26",
+      "libro": "Proverbios",
+      "capitulo": 28,
+      "versiculos": [
+        26
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Jeremías 17:11",
+      "referencia_normalizada": "Jeremías 17:11",
+      "libro": "Jeremías",
+      "capitulo": 17,
+      "versiculos": [
+        11
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Proverbios 19:20",
+      "referencia_normalizada": "Proverbios 19:20",
+      "libro": "Proverbios",
+      "capitulo": 19,
+      "versiculos": [
+        20
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Lucas 11:39-40",
+      "referencia_normalizada": "Lucas 11:39-40",
+      "libro": "Lucas",
+      "capitulo": 11,
+      "versiculos": [
+        39,
+        40
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "1 Samuel 16:7",
+      "referencia_normalizada": "1 Samuel 16:7",
+      "libro": "1 Samuel",
+      "capitulo": 16,
+      "versiculos": [
+        7
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    }
+  ],
+  "contenido": {
+    "introduccion": null,
+    "secciones": [],
+    "contenido_completo": "Los santos son los verdaderos sabios, por lo cual recibirán \"respeto y aprobación\" de quienes saben apreciar la verdadera sabiduría, mientras que los necios en sentido moral terminarán en perpetua confusión e ignominia (vergüenza, deshonra, ofensa que se realiza de manera pública y ha de ser manifiesta en la comunidad). Finalmente, la elección es entre gloria y desgracia. Los sabios heredarán honra; los necios serán conocidos por su confusión y vergüenza delante de todos.\n\nI. El humano dice: no hay Dios (Salmos 53:1).\n\nA. En su corazón está el \"no\" hacer bien.\n\n1. Se han acostumbrado a hacer el mal en broma, en odio, en contienda y demás, ha sido el proceder de sus vidas.\n\n2. (Proverbios 10:18) En este proverbio se contrasta al que \"encubre su odio\" con palabras insinceras y al que lo revela abiertamente hiriendo a su prójimo.\n\n3. El primero es un hipócrita, el segundo es un necio (ignorante que no tiene conocimiento, capacidad humana de comprensión) y la verdad es que no hay mucho que escoger entre los dos.\n\n4. Una tercera alternativa, que es que los creyentes hemos de aprender a practicar, es no anidar ningún tipo de odio.\n\n5. (Proverbios 14:9) \"Los necios se mofan y burlan del pecado y no quieren creer que, en su costado éste lleva un puñal bien afilado, ¿cómo puede ser, se pregunta confiado, que cosa tan dulce me amargue el bocado?, no sabe que es el mismo encanto del pecado hacerle reír, basta verle en el infierno condenado. Necio (falto de conocimiento), no sigas en tu maldad y ten cuidado, no sea que el Unico que te podía haber salvado cierre la puerta sin que tú hayas entrado\". (John Bunyan).\n\n6. (Proverbios 15:5) Ya nos hemos encontrado anteriormente con este necio.\n\n7. Piensa que su padre es un anticuado, que su vida está pasada de moda y que su consejo no vale para nada.\n\n8. En cambio, el hijo sabio recibe y guarda la corrección beneficiándose de ella.\n\n9. Es prudente y viene a ser aún más prudente.\n\n10. (Proverbios 18:6) El necio que habla levantando la voz anda siempre intentando provocar una discusión o sembrar problemas.\n\n11. Pero el borracho le gana en que además atrae sobre sí ojos amoratados, contusiones (inflamación) y abrasiones (raspón).\n\n12. Los labios del necio provocan contiendas de muchas maneras, en especial al dar a conocer ideas y opiniones que han de desagradar a otras personas.\n\n13. (Proverbios 20:3) La persona honorable procura estar al margen de las contiendas, pero al insensato (imprudente, alocado, falta de sentido o razón, tonto) las contiendas le atraen.\n\n14. Le gusta entrometerse y participar en ellas.\n\n15. Es parte de su naturaleza, que no queda contento a menos que pueda discutir con alguien.\n\n16. Es un honor para el hombre evitar la contienda, porque al abandonar una disputa y al perdonar una injuria, se mantiene la paz y los amigos.\n\n17. (Proverbios 28:26) El necio confía en su propio corazón, es decir, en sus propios planes y pensamientos, en su propia fuerza, entre otras cosas. Esto se da puesto que tiene de sí mismo una opinión muy elevada.\n\n18. En cambio, el que camina en sabiduría, esto es, por las sendas que la prudencia (sensatez, mesura, templanza, cautela) aconseja, será librado del daño que le sobreviene al que confía en sus propios juicios, sin dejarse aconsejar por quienes saben más que él.\n\n19. En realidad, está echando el ancla dentro del barco e irá a la deriva sin remedio.\n\n20. El que busca la dirección del Señor obra con sabiduría.\n\n21. (Jeremías 17:11) La búsqueda de riquezas por medios deshonestos está plagada de peligros.\n\n22. Lo que el profeta quiere decir es que el hombre que se enriquece por medios injustos disfrutará muy poco de su mal ganada fortuna, pues lo dejará prematuramente como la perdiz que comienza a incubar, pero le roban prontamente las esperanzas de tener crías.\n\n23. En cambio, los que desean abundar en gracia son sabios al final (Proverbios 19:20) ya que tienen su consuelo en que la muerte les conduce a una feliz eternidad, mientras que quienes ponen su confianza en las riquezas se darán cuenta de su necedad cuando sea demasiado tarde.\n\n24. (Lucas 11:39-40) La necedad del humano.\n\n25. Cuando Jesús aceptó la invitación de un fariseo para comer, Su anfitrión se extraña que no se hubiese lavado antes de comer. Jesús leyó sus pensamientos y lo reprendió extensamente por tal hipocresía y externalismo. Jesús les recordó que lo que realmente cuenta no es la limpieza de lo de afuera del vaso, sino lo de adentro y está interesado en que nuestras vidas interiores sean puras. \"El hombre mira lo que está delante de sus ojos, pero Jehová mira el corazón\" (1 Samuel 16:7). Amén",
+    "contenido_renderizado": [
+      {
+        "tipo": "parrafo",
+        "texto": "Los santos son los verdaderos sabios, por lo cual recibirán \"respeto y aprobación\" de quienes saben apreciar la verdadera sabiduría, mientras que los necios en sentido moral terminarán en perpetua confusión e ignominia (vergüenza, deshonra, ofensa que se realiza de manera pública y ha de ser manifiesta en la comunidad). Finalmente, la elección es entre gloria y desgracia. Los sabios heredarán honra; los necios serán conocidos por su confusión y vergüenza delante de todos.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "I. El humano dice: no hay Dios (Salmos 53:1).",
+        "referencias_inline": [
+          "Salmos 53:1"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "A. En su corazón está el \"no\" hacer bien.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "1. Se han acostumbrado a hacer el mal en broma, en odio, en contienda y demás, ha sido el proceder de sus vidas.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "2. (Proverbios 10:18) En este proverbio se contrasta al que \"encubre su odio\" con palabras insinceras y al que lo revela abiertamente hiriendo a su prójimo.",
+        "referencias_inline": [
+          "Proverbios 10:18"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "3. El primero es un hipócrita, el segundo es un necio (ignorante que no tiene conocimiento, capacidad humana de comprensión) y la verdad es que no hay mucho que escoger entre los dos.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "4. Una tercera alternativa, que es que los creyentes hemos de aprender a practicar, es no anidar ningún tipo de odio.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "5. (Proverbios 14:9) \"Los necios se mofan y burlan del pecado y no quieren creer que, en su costado éste lleva un puñal bien afilado, ¿cómo puede ser, se pregunta confiado, que cosa tan dulce me amargue el bocado?, no sabe que es el mismo encanto del pecado hacerle reír, basta verle en el infierno condenado. Necio (falto de conocimiento), no sigas en tu maldad y ten cuidado, no sea que el Unico que te podía haber salvado cierre la puerta sin que tú hayas entrado\". (John Bunyan).",
+        "referencias_inline": [
+          "Proverbios 14:9"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "6. (Proverbios 15:5) Ya nos hemos encontrado anteriormente con este necio.",
+        "referencias_inline": [
+          "Proverbios 15:5"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "7. Piensa que su padre es un anticuado, que su vida está pasada de moda y que su consejo no vale para nada.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "8. En cambio, el hijo sabio recibe y guarda la corrección beneficiándose de ella.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "9. Es prudente y viene a ser aún más prudente.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "10. (Proverbios 18:6) El necio que habla levantando la voz anda siempre intentando provocar una discusión o sembrar problemas.",
+        "referencias_inline": [
+          "Proverbios 18:6"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "11. Pero el borracho le gana en que además atrae sobre sí ojos amoratados, contusiones (inflamación) y abrasiones (raspón).",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "12. Los labios del necio provocan contiendas de muchas maneras, en especial al dar a conocer ideas y opiniones que han de desagradar a otras personas.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "13. (Proverbios 20:3) La persona honorable procura estar al margen de las contiendas, pero al insensato (imprudente, alocado, falta de sentido o razón, tonto) las contiendas le atraen.",
+        "referencias_inline": [
+          "Proverbios 20:3"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "14. Le gusta entrometerse y participar en ellas.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "15. Es parte de su naturaleza, que no queda contento a menos que pueda discutir con alguien.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "16. Es un honor para el hombre evitar la contienda, porque al abandonar una disputa y al perdonar una injuria, se mantiene la paz y los amigos.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "17. (Proverbios 28:26) El necio confía en su propio corazón, es decir, en sus propios planes y pensamientos, en su propia fuerza, entre otras cosas. Esto se da puesto que tiene de sí mismo una opinión muy elevada.",
+        "referencias_inline": [
+          "Proverbios 28:26"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "18. En cambio, el que camina en sabiduría, esto es, por las sendas que la prudencia (sensatez, mesura, templanza, cautela) aconseja, será librado del daño que le sobreviene al que confía en sus propios juicios, sin dejarse aconsejar por quienes saben más que él.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "19. En realidad, está echando el ancla dentro del barco e irá a la deriva sin remedio.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "20. El que busca la dirección del Señor obra con sabiduría.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "21. (Jeremías 17:11) La búsqueda de riquezas por medios deshonestos está plagada de peligros.",
+        "referencias_inline": [
+          "Jeremías 17:11"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "22. Lo que el profeta quiere decir es que el hombre que se enriquece por medios injustos disfrutará muy poco de su mal ganada fortuna, pues lo dejará prematuramente como la perdiz que comienza a incubar, pero le roban prontamente las esperanzas de tener crías.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "23. En cambio, los que desean abundar en gracia son sabios al final (Proverbios 19:20) ya que tienen su consuelo en que la muerte les conduce a una feliz eternidad, mientras que quienes ponen su confianza en las riquezas se darán cuenta de su necedad cuando sea demasiado tarde.",
+        "referencias_inline": [
+          "Proverbios 19:20"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "24. (Lucas 11:39-40) La necedad del humano.",
+        "referencias_inline": [
+          "Lucas 11:39-40"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "25. Cuando Jesús aceptó la invitación de un fariseo para comer, Su anfitrión se extraña que no se hubiese lavado antes de comer. Jesús leyó sus pensamientos y lo reprendió extensamente por tal hipocresía y externalismo. Jesús les recordó que lo que realmente cuenta no es la limpieza de lo de afuera del vaso, sino lo de adentro y está interesado en que nuestras vidas interiores sean puras. \"El hombre mira lo que está delante de sus ojos, pero Jehová mira el corazón\" (1 Samuel 16:7). Amén",
+        "referencias_inline": [
+          "1 Samuel 16:7"
+        ]
+      }
+    ]
+  },
+  "busqueda": {
+    "texto_indexable": "los santos son los verdaderos sabios proverbios 3 35 sabiduria espiritual verdad palabra de Dios juicio arrepentimiento prudente prudencia corazon los santos son los verdaderos sabios por lo cual recibiran respeto y aprobacion de quienes saben apreciar la verdadera sabiduria mientras que los necios en sentido moral terminaran en perpetua confusion e ignominia verguenza deshonra ofensa que se realiza de manera publica y ha de ser manifiesta en la comunidad finalmente la eleccion es entre gloria y desgracia los sabios heredaran honra los necios seran conocidos por su confusion y verguenza delante de todos i el humano dice no hay Dios salmos 53 1 a en su corazon esta el no hacer bien 1 se han acostumbrado a hacer el mal en broma en odio en contienda y demas ha sido el proceder de sus vidas 2 proverbios 10 18 en este proverbio se contrasta al que encubre su odio con palabras insinceras y al que lo revela abiertamente hiriendo a su projimo 3 el primero es un hipocrita el segundo es un necio ignorante que no tiene conocimiento capacidad humana de comprension y la verdad es que no hay mucho que escoger entre los dos 4 una tercera alternativa que es que los creyentes hemos de aprender a practicar es no anidar ningun tipo de odio 5 proverbios 14 9 los necios se mofan y burlan del pecado y no quieren creer que en su costado este lleva un punal bien afilado como puede ser se pregunta confiado que cosa tan dulce me amargue el bocado no sabe que es el mismo encanto del pecado hacerle reir basta verle en el infierno condenado necio falto de conocimiento no sigas en tu maldad y ten cuidado no sea que el unico que te podia haber salvado cierre la puerta sin que tu hayas entrado john bunyan 6 proverbios 15 5 ya nos hemos encontrado anteriormente con este necio 7 piensa que su padre es un anticuado que su vida esta pasada de moda y que su consejo no vale para nada 8 en cambio el hijo sabio recibe y guarda la correccion beneficiandose de ella 9 es prudente y viene a ser aun mas prudente 10 proverbios 18 6 el necio que habla levantando la voz anda siempre intentando provocar una discusion o sembrar problemas 11 pero el borracho le gana en que ademas atrae sobre si ojos amoratados contusiones inflamacion y abrasiones raspon 12 los labios del necio provocan contiendas de muchas maneras en especial al dar a conocer ideas y opiniones que han de desagradar a otras personas 13 proverbios 20 3 la persona honorable procura estar al margen de las contiendas pero al insensato imprudente alocado falta de sentido o razon tonto las contiendas le atraen 14 le gusta entrometerse y participar en ellas 15 es parte de su naturaleza que no queda contento a menos que pueda discutir con alguien 16 es un honor para el hombre evitar la contienda porque al abandonar una disputa y al perdonar una injuria se mantiene la paz y los amigos 17 proverbios 28 26 el necio confia en su propio corazon es decir en sus propios planes y pensamientos en su propia fuerza entre otras cosas esto se da puesto que tiene de si mismo una opinion muy elevada 18 en cambio el que camina en sabiduria esto es por las sendas que la prudencia sensatez mesura templanza cautela aconseja sera librado del dano que le sobreviene al que confia en sus propios juicios sin dejarse aconsejar por quienes saben mas que el 19 en realidad esta echando el ancla dentro del barco e ira a la deriva sin remedio 20 el que busca la direccion del senor obra con sabiduria 21 jeremias 17 11 la busqueda de riquezas por medios deshonestos esta plagada de peligros 22 lo que el profeta quiere decir es que el hombre que se enriquece por medios injustos disfrutara muy poco de su mal ganada fortuna pues lo dejara prematuramente como la perdiz que comienza a incubar pero le roban prontamente las esperanzas de tener crias 23 en cambio los que desean abundar en gracia son sabios al final proverbios 19 20 ya que tienen su consuelo en que la muerte les conduce a una feliz eternidad mientras que quienes ponen su confianza en las riquezas se daran cuenta de su necedad cuando sea demasiado tarde 24 lucas 11 39 40 la necedad del humano 25 cuando Jesus acepto la invitacion de un fariseo para comer su anfitrion se extrana que no se hubiese lavado antes de comer Jesus leyo sus pensamientos y lo reprendio extensamente por tal hipocresia y externalismo Jesus les recordo que lo que realmente cuenta no es la limpieza de lo de afuera del vaso sino lo de adentro y esta interesado en que nuestras vidas interiores sean puras el hombre mira lo que esta delante de sus ojos pero jehova mira el corazon 1 samuel 16 7 amen",
+    "alias_busqueda": [
+      "Estudio 1480",
+      "Proverbios",
+      "Proverbios 3",
+      "Proverbios 3:35",
+      "juicio",
+      "arrepentimiento",
+      "prudente",
+      "prudencia",
+      "Sabiduría espiritual",
+      "Verdad"
+    ]
+  },
+  "revision_manual": {
+    "requiere_revision": false,
+    "motivo": ""
+  },
+  "ui": {
+    "mostrar_credito_en_header": true,
+    "mostrar_numero_estudio": true,
+    "mostrar_fecha": true,
+    "mostrar_topicos": true,
+    "permitir_favorito": true,
+    "permitir_compartir": true
+  }
+}

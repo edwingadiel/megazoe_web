@@ -1,0 +1,301 @@
+{
+  "id": "estudio-1371-estudio-1371",
+  "slug": "estudio-1371-estudio-1371",
+  "numero_estudio": 1371,
+  "tipo_estudio": "Iglesia en las casas",
+  "ministerio": {
+    "iglesia": "Iglesia Cristiana Mega Zoe",
+    "pastora": "Pastora Edith Cruz",
+    "credito_corto": "Iglesia Cristiana Mega Zoe · Pastora Edith Cruz",
+    "credito_largo": "Contenido original de Iglesia Cristiana Mega Zoe, conservando el crédito ministerial correspondiente a la Pastora Edith Cruz."
+  },
+  "identidad_editorial": {
+    "idioma": "es",
+    "fuente_original": "documento_word",
+    "archivo_origen": "/Users/edwingadiel/Desktop/Estudios en Word/Estudio #1371 La santidad tiene promesa de vida - 1 Crónicas 13 14.doc",
+    "estado_revision": "procesado",
+    "version_schema": "1.0"
+  },
+  "encabezado": {
+    "titulo": "La Santidad Tiene Promesa de Vida",
+    "subtitulo": null,
+    "cita_principal": "1 Crónicas 13:14",
+    "resumen_corto": "La Santidad Tiene Promesa de Vida llama a buscar la bendición de Dios y atender la Palabra de Dios."
+  },
+  "fechas": {
+    "fecha_inicio": null,
+    "fecha_fin": null,
+    "fecha_texto_original": "",
+    "ano": null
+  },
+  "clasificacion_biblica": {
+    "libro_principal": "1 Crónicas",
+    "capitulo_principal": 13,
+    "versiculos_principales": [
+      14
+    ],
+    "referencia_principal_normalizada": "1 Crónicas 13:14",
+    "testamento_principal": "Antiguo Testamento"
+  },
+  "clasificacion_tematica": {
+    "topicos": [
+      "Bendición",
+      "Palabra de Dios",
+      "Reino de Dios"
+    ],
+    "keywords": [
+      "santidad",
+      "arrepentimiento",
+      "perseverancia",
+      "filisteos",
+      "arca"
+    ]
+  },
+  "referencias_biblicas": [
+    {
+      "referencia": "1 Crónicas 13:14",
+      "referencia_normalizada": "1 Crónicas 13:14",
+      "libro": "1 Crónicas",
+      "capitulo": 13,
+      "versiculos": [
+        14
+      ],
+      "tipo": "principal",
+      "clickeable": true
+    },
+    {
+      "referencia": "1 Samuel 7:1",
+      "referencia_normalizada": "1 Samuel 7:1",
+      "libro": "1 Samuel",
+      "capitulo": 7,
+      "versiculos": [
+        1
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "1 Samuel 5: 3-4",
+      "referencia_normalizada": "1 Samuel 5:3-4",
+      "libro": "1 Samuel",
+      "capitulo": 5,
+      "versiculos": [
+        3,
+        4
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "1 Samuel 5:7",
+      "referencia_normalizada": "1 Samuel 5:7",
+      "libro": "1 Samuel",
+      "capitulo": 5,
+      "versiculos": [
+        7
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "1 Samuel 6:12",
+      "referencia_normalizada": "1 Samuel 6:12",
+      "libro": "1 Samuel",
+      "capitulo": 6,
+      "versiculos": [
+        12
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "1 Samuel 7:1-2",
+      "referencia_normalizada": "1 Samuel 7:1-2",
+      "libro": "1 Samuel",
+      "capitulo": 7,
+      "versiculos": [
+        1,
+        2
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Éxodo 23:25",
+      "referencia_normalizada": "Éxodo 23:25",
+      "libro": "Éxodo",
+      "capitulo": 23,
+      "versiculos": [
+        25
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Isaías 30:23",
+      "referencia_normalizada": "Isaías 30:23",
+      "libro": "Isaías",
+      "capitulo": 30,
+      "versiculos": [
+        23
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Mateo 6:33",
+      "referencia_normalizada": "Mateo 6:33",
+      "libro": "Mateo",
+      "capitulo": 6,
+      "versiculos": [
+        33
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Amós 9:13",
+      "referencia_normalizada": "Amós 9:13",
+      "libro": "Amós",
+      "capitulo": 9,
+      "versiculos": [
+        13
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Malaquías 3:10",
+      "referencia_normalizada": "Malaquías 3:10",
+      "libro": "Malaquías",
+      "capitulo": 3,
+      "versiculos": [
+        10
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Levítico 27:30",
+      "referencia_normalizada": "Levítico 27:30",
+      "libro": "Levítico",
+      "capitulo": 27,
+      "versiculos": [
+        30
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Números 18:21-24",
+      "referencia_normalizada": "Números 18:21-24",
+      "libro": "Números",
+      "capitulo": 18,
+      "versiculos": [
+        21,
+        22,
+        23,
+        24
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Deuteronomio 28: 2-12",
+      "referencia_normalizada": "Deuteronomio 28:2-12",
+      "libro": "Deuteronomio",
+      "capitulo": 28,
+      "versiculos": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Ezequiel 34: 25-31",
+      "referencia_normalizada": "Ezequiel 34:25-31",
+      "libro": "Ezequiel",
+      "capitulo": 34,
+      "versiculos": [
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    }
+  ],
+  "contenido": {
+    "introduccion": null,
+    "secciones": [],
+    "contenido_completo": "Invocar la bendición divina a favor. La bendición por lo tanto es la expresión de un deseo benigno que se dirige a una persona. Esto quiere decir que al mismo tiempo en que se pronuncia la bendición, se materializa la acción de bendecir. La frase \"que Dios te guarde\" también supone una bendición aquello que se cree que se obtiene por intermedio divino. \"Que te vaya bien\" (cuando se invoca a Dios, el Pastor) o fuerza para superar, puede entenderse como bendiciones.\n\nI. (1 Samuel 7:1) El Arca en los filisteos. A. El Arca le doblega a Dagón postrado en tierra delante del Arca de Jehová. Trataron de levantar la estatua, pero volvió Dagón a caer postrado (1 Samuel 5: 3-4) (Ardod = filisteo). (1 Samuel 5:7) \"No quede con nosotros, el Arca del Dios de Israel, porque Su mano es dura con nosotros y sobre nuestro Dios, Dagón\". (1 Samuel 6:12) Y las vacas se encaminaron por el camino de Bet-semes. (1 Samuel 7:1-2) Así que los de Quiriat-Jearim (fue una ciudad principal de los gabaonitas, situada a 15 kilómetros al oeste de Jerusalén) y llevaron el Arca de Jehová. Fue puesta en casa de Abinadab (padre), Eleazar fue santificado, hijo de Abinadab, que guardase el Arca de Jehová. Veinte años sin dolor, con la gracia de Dios en gran bendición. (Éxodo 23:25) Bendecirá a los santificados como lo fue con Eleazar que tuvo su bendición. Cuan llenos de bendiciones son los detalles de esta promesa: La sanidad de sus alimentos: Él bendecirá tu pan y tus aguas. La conservación de su salud: \"Yo quitaré toda enfermedad de en medio de ti, protegiéndolos de las enfermedades o curándolos inmediatamente. El incremento (aumento) de sus bienes, sus ganados no serán estériles. \"Yo quitaré toda enfermedad de en medio de ti\". Gran longevidad: \"Yo completaré el número de tus días de modo que no serán arrebatados de esta vida por muerte prematura. De este modo la santidad tenía promesa de vida, aún de la presente. (Isaías 30:23) Dios les dará abundancia de toda cosa buena. Como ellos buscarán primeramente el reino de Dios y Su justicia, Dios les añadirá todas las demás cosas (Mateo 6:33). La lluvia temprana que cae para la siembra y no falte alimento, por la sequía. La tierra dé su fruto, grueso, de muy buena calidad y abundante en cantidad. Sus ganados tendrán también alimento abundante, sabroso y serán bien criados (sin impurezas). (Amós 9:13) Este versículo \"pinta\" vivamente la prosperidad de entonces: la cosecha será tan grande que no se habrá terminado aun cuando comience la siembra para la cosecha siguiente. Y los viñedos en lo alto de los montes harán que estos destilen mosto. (Malaquías 3:10) Para ese tiempo se había perdido el sentido del pecado. No han dado a Dios los diezmos y las ofrendas que la Ley exige (Levítico 27:30; Números 18:21-24) y por eso no prosperaban (11). Dios les dice con tierna condescendencia (10) \"probadme ahora en esto\" (Deuteronomio 28: 2-12; Ezequiel 34: 25-31). Como si dijese \"si dudáis de Mi bondad y de Mi justicia, ¡haced la prueba!\". La Palabra de Dios nos recuerda una y otra vez que Dios no se deja ganar en generosidad y todos los que han hecho esa \"prueba\" con Dios, han salido sobradamente satisfechos. (Mateo 6:33) Nuestro deber: buscar primeramente el reino de Dios y Su justicia y todas las demás cosas serán añadidas. Es una demanda de un gran deber de todos nuestros deberes. Pensemos que el Cielo es nuestra meta y la santidad nuestro camino. Si no es camino para el Cielo, de nada nos sirve nuestra religión. La vida es muy corta, no la desaproveche. Buscar primero es también buscar desde la más temprana edad. Joven tendrá más porque ya dura todo lo que hay adentro (lo almacenado, el pecado), más difícil cuando decidas la santificación. Quienes, en todo es el Primero, bien está que tenga lo primero. Amén",
+    "contenido_renderizado": [
+      {
+        "tipo": "parrafo",
+        "texto": "Invocar la bendición divina a favor. La bendición por lo tanto es la expresión de un deseo benigno que se dirige a una persona. Esto quiere decir que al mismo tiempo en que se pronuncia la bendición, se materializa la acción de bendecir. La frase \"que Dios te guarde\" también supone una bendición aquello que se cree que se obtiene por intermedio divino. \"Que te vaya bien\" (cuando se invoca a Dios, el Pastor) o fuerza para superar, puede entenderse como bendiciones.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "I. (1 Samuel 7:1) El Arca en los filisteos. A. El Arca le doblega a Dagón postrado en tierra delante del Arca de Jehová. Trataron de levantar la estatua, pero volvió Dagón a caer postrado (1 Samuel 5: 3-4) (Ardod = filisteo). (1 Samuel 5:7) \"No quede con nosotros, el Arca del Dios de Israel, porque Su mano es dura con nosotros y sobre nuestro Dios, Dagón\". (1 Samuel 6:12) Y las vacas se encaminaron por el camino de Bet-semes. (1 Samuel 7:1-2) Así que los de Quiriat-Jearim (fue una ciudad principal de los gabaonitas, situada a 15 kilómetros al oeste de Jerusalén) y llevaron el Arca de Jehová. Fue puesta en casa de Abinadab (padre), Eleazar fue santificado, hijo de Abinadab, que guardase el Arca de Jehová. Veinte años sin dolor, con la gracia de Dios en gran bendición. (Éxodo 23:25) Bendecirá a los santificados como lo fue con Eleazar que tuvo su bendición. Cuan llenos de bendiciones son los detalles de esta promesa: La sanidad de sus alimentos: Él bendecirá tu pan y tus aguas. La conservación de su salud: \"Yo quitaré toda enfermedad de en medio de ti, protegiéndolos de las enfermedades o curándolos inmediatamente. El incremento (aumento) de sus bienes, sus ganados no serán estériles. \"Yo quitaré toda enfermedad de en medio de ti\". Gran longevidad: \"Yo completaré el número de tus días de modo que no serán arrebatados de esta vida por muerte prematura. De este modo la santidad tenía promesa de vida, aún de la presente. (Isaías 30:23) Dios les dará abundancia de toda cosa buena. Como ellos buscarán primeramente el reino de Dios y Su justicia, Dios les añadirá todas las demás cosas (Mateo 6:33). La lluvia temprana que cae para la siembra y no falte alimento, por la sequía. La tierra dé su fruto, grueso, de muy buena calidad y abundante en cantidad. Sus ganados tendrán también alimento abundante, sabroso y serán bien criados (sin impurezas). (Amós 9:13) Este versículo \"pinta\" vivamente la prosperidad de entonces: la cosecha será tan grande que no se habrá terminado aun cuando comience la siembra para la cosecha siguiente. Y los viñedos en lo alto de los montes harán que estos destilen mosto. (Malaquías 3:10) Para ese tiempo se había perdido el sentido del pecado. No han dado a Dios los diezmos y las ofrendas que la Ley exige (Levítico 27:30; Números 18:21-24) y por eso no prosperaban (11). Dios les dice con tierna condescendencia (10) \"probadme ahora en esto\" (Deuteronomio 28: 2-12; Ezequiel 34: 25-31). Como si dijese \"si dudáis de Mi bondad y de Mi justicia, ¡haced la prueba!\". La Palabra de Dios nos recuerda una y otra vez que Dios no se deja ganar en generosidad y todos los que han hecho esa \"prueba\" con Dios, han salido sobradamente satisfechos. (Mateo 6:33) Nuestro deber: buscar primeramente el reino de Dios y Su justicia y todas las demás cosas serán añadidas. Es una demanda de un gran deber de todos nuestros deberes. Pensemos que el Cielo es nuestra meta y la santidad nuestro camino. Si no es camino para el Cielo, de nada nos sirve nuestra religión. La vida es muy corta, no la desaproveche. Buscar primero es también buscar desde la más temprana edad. Joven tendrá más porque ya dura todo lo que hay adentro (lo almacenado, el pecado), más difícil cuando decidas la santificación. Quienes, en todo es el Primero, bien está que tenga lo primero. Amén",
+        "referencias_inline": [
+          "1 Samuel 7:1",
+          "1 Samuel 5:3-4",
+          "1 Samuel 5:7",
+          "1 Samuel 6:12",
+          "1 Samuel 7:1-2",
+          "Éxodo 23:25",
+          "Isaías 30:23",
+          "Mateo 6:33",
+          "Amós 9:13",
+          "Malaquías 3:10",
+          "Levítico 27:30",
+          "Números 18:21-24",
+          "Deuteronomio 28:2-12",
+          "Ezequiel 34:25-31"
+        ]
+      }
+    ]
+  },
+  "busqueda": {
+    "texto_indexable": "la santidad tiene promesa de vida 1 cronicas 13 14 bendicion palabra de Dios reino de Dios santidad arrepentimiento perseverancia filisteos arca invocar la bendicion divina a favor la bendicion por lo tanto es la expresion de un deseo benigno que se dirige a una persona esto quiere decir que al mismo tiempo en que se pronuncia la bendicion se materializa la accion de bendecir la frase que Dios te guarde tambien supone una bendicion aquello que se cree que se obtiene por intermedio divino que te vaya bien cuando se invoca a Dios el pastor o fuerza para superar puede entenderse como bendiciones i 1 samuel 7 1 el arca en los filisteos a el arca le doblega a dagon postrado en tierra delante del arca de jehova trataron de levantar la estatua pero volvio dagon a caer postrado 1 samuel 5 3 4 ardod filisteo 1 samuel 5 7 no quede con nosotros el arca del Dios de israel porque su mano es dura con nosotros y sobre nuestro Dios dagon 1 samuel 6 12 y las vacas se encaminaron por el camino de bet semes 1 samuel 7 1 2 asi que los de quiriat jearim fue una ciudad principal de los gabaonitas situada a 15 kilometros al oeste de jerusalen y llevaron el arca de jehova fue puesta en casa de abinadab padre eleazar fue santificado hijo de abinadab que guardase el arca de jehova veinte anos sin dolor con la gracia de Dios en gran bendicion exodo 23 25 bendecira a los santificados como lo fue con eleazar que tuvo su bendicion cuan llenos de bendiciones son los detalles de esta promesa la sanidad de sus alimentos el bendecira tu pan y tus aguas la conservacion de su salud yo quitare toda enfermedad de en medio de ti protegiendolos de las enfermedades o curandolos inmediatamente el incremento aumento de sus bienes sus ganados no seran esteriles yo quitare toda enfermedad de en medio de ti gran longevidad yo completare el numero de tus dias de modo que no seran arrebatados de esta vida por muerte prematura de este modo la santidad tenia promesa de vida aun de la presente isaias 30 23 Dios les dara abundancia de toda cosa buena como ellos buscaran primeramente el reino de Dios y su justicia Dios les anadira todas las demas cosas mateo 6 33 la lluvia temprana que cae para la siembra y no falte alimento por la sequia la tierra de su fruto grueso de muy buena calidad y abundante en cantidad sus ganados tendran tambien alimento abundante sabroso y seran bien criados sin impurezas amos 9 13 este versiculo pinta vivamente la prosperidad de entonces la cosecha sera tan grande que no se habra terminado aun cuando comience la siembra para la cosecha siguiente y los vinedos en lo alto de los montes haran que estos destilen mosto malaquias 3 10 para ese tiempo se habia perdido el sentido del pecado no han dado a Dios los diezmos y las ofrendas que la ley exige levitico 27 30 numeros 18 21 24 y por eso no prosperaban 11 Dios les dice con tierna condescendencia 10 probadme ahora en esto deuteronomio 28 2 12 ezequiel 34 25 31 como si dijese si dudais de mi bondad y de mi justicia haced la prueba la palabra de Dios nos recuerda una y otra vez que Dios no se deja ganar en generosidad y todos los que han hecho esa prueba con Dios han salido sobradamente satisfechos mateo 6 33 nuestro deber buscar primeramente el reino de Dios y su justicia y todas las demas cosas seran anadidas es una demanda de un gran deber de todos nuestros deberes pensemos que el cielo es nuestra meta y la santidad nuestro camino si no es camino para el cielo de nada nos sirve nuestra religion la vida es muy corta no la desaproveche buscar primero es tambien buscar desde la mas temprana edad joven tendra mas porque ya dura todo lo que hay adentro lo almacenado el pecado mas dificil cuando decidas la santificacion quienes en todo es el primero bien esta que tenga lo primero amen",
+    "alias_busqueda": [
+      "Estudio 1371",
+      "1 Crónicas",
+      "1 Crónicas 13",
+      "1 Crónicas 13:14",
+      "santidad",
+      "arrepentimiento",
+      "perseverancia",
+      "filisteos",
+      "Bendición",
+      "Palabra de Dios"
+    ]
+  },
+  "revision_manual": {
+    "requiere_revision": false,
+    "motivo": ""
+  },
+  "ui": {
+    "mostrar_credito_en_header": true,
+    "mostrar_numero_estudio": true,
+    "mostrar_fecha": true,
+    "mostrar_topicos": true,
+    "permitir_favorito": true,
+    "permitir_compartir": true
+  }
+}

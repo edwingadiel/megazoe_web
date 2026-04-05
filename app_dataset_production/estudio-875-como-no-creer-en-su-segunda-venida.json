@@ -1,0 +1,340 @@
+{
+  "id": "estudio-875-como-no-creer-en-su-segunda-venida",
+  "slug": "estudio-875-como-no-creer-en-su-segunda-venida",
+  "numero_estudio": 875,
+  "tipo_estudio": "Iglesia en las casas",
+  "ministerio": {
+    "iglesia": "Iglesia Cristiana Mega Zoe",
+    "pastora": "Pastora Edith Cruz",
+    "credito_corto": "Iglesia Cristiana Mega Zoe · Pastora Edith Cruz",
+    "credito_largo": "Contenido original de Iglesia Cristiana Mega Zoe, conservando el crédito ministerial correspondiente a la Pastora Edith Cruz."
+  },
+  "identidad_editorial": {
+    "idioma": "es",
+    "fuente_original": "documento_word",
+    "archivo_origen": "/Users/edwingadiel/Desktop/Estudios en Word/Estudio #875 ¡Cómo no creer en Su Segunda Venida! - 1 Tesalonicenses 4 13-18.docx",
+    "estado_revision": "procesado",
+    "version_schema": "1.0"
+  },
+  "encabezado": {
+    "titulo": "Cómo No Creer En Su Segunda Venida",
+    "subtitulo": null,
+    "cita_principal": "1 Tesalonicenses 4:13-18",
+    "resumen_corto": "Cómo No Creer En Su Segunda Venida llama a afirmarse en la resurrección de Cristo y cuidar la comunión cristiana."
+  },
+  "fechas": {
+    "fecha_inicio": null,
+    "fecha_fin": null,
+    "fecha_texto_original": "",
+    "ano": null
+  },
+  "clasificacion_biblica": {
+    "libro_principal": "1 Tesalonicenses",
+    "capitulo_principal": 4,
+    "versiculos_principales": [
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "referencia_principal_normalizada": "1 Tesalonicenses 4:13-18",
+    "testamento_principal": "Nuevo Testamento"
+  },
+  "clasificacion_tematica": {
+    "topicos": [
+      "Resurrección de Cristo",
+      "Liderazgo espiritual",
+      "Comunión cristiana"
+    ],
+    "keywords": [
+      "santidad",
+      "arrepentimiento",
+      "perseverancia",
+      "esperanza",
+      "arca"
+    ]
+  },
+  "referencias_biblicas": [
+    {
+      "referencia": "1 Tesalonicenses 4:13-18",
+      "referencia_normalizada": "1 Tesalonicenses 4:13-18",
+      "libro": "1 Tesalonicenses",
+      "capitulo": 4,
+      "versiculos": [
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "tipo": "principal",
+      "clickeable": true
+    },
+    {
+      "referencia": "1 Tesalonicenses 4:13",
+      "referencia_normalizada": "1 Tesalonicenses 4:13",
+      "libro": "1 Tesalonicenses",
+      "capitulo": 4,
+      "versiculos": [
+        13
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "1 Tesalonicenses 4:15",
+      "referencia_normalizada": "1 Tesalonicenses 4:15",
+      "libro": "1 Tesalonicenses",
+      "capitulo": 4,
+      "versiculos": [
+        15
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Hebreos 1:3",
+      "referencia_normalizada": "Hebreos 1:3",
+      "libro": "Hebreos",
+      "capitulo": 1,
+      "versiculos": [
+        3
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Hechos 1:11",
+      "referencia_normalizada": "Hechos 1:11",
+      "libro": "Hechos",
+      "capitulo": 1,
+      "versiculos": [
+        11
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Judas 1:9",
+      "referencia_normalizada": "Judas 1:9",
+      "libro": "Judas",
+      "capitulo": 1,
+      "versiculos": [
+        9
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "1 Corintios 15:52",
+      "referencia_normalizada": "1 Corintios 15:52",
+      "libro": "1 Corintios",
+      "capitulo": 15,
+      "versiculos": [
+        52
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "1 Corintios 12:13",
+      "referencia_normalizada": "1 Corintios 12:13",
+      "libro": "1 Corintios",
+      "capitulo": 12,
+      "versiculos": [
+        13
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "1 Tesalonicenses 4:17",
+      "referencia_normalizada": "1 Tesalonicenses 4:17",
+      "libro": "1 Tesalonicenses",
+      "capitulo": 4,
+      "versiculos": [
+        17
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "1 Corintios 15:51, 52",
+      "referencia_normalizada": "1 Corintios 15:51,52",
+      "libro": "1 Corintios",
+      "capitulo": 15,
+      "versiculos": [
+        51,
+        52
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Daniel 12:1-3",
+      "referencia_normalizada": "Daniel 12:1-3",
+      "libro": "Daniel",
+      "capitulo": 12,
+      "versiculos": [
+        1,
+        2,
+        3
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Zacarías 14:4",
+      "referencia_normalizada": "Zacarías 14:4",
+      "libro": "Zacarías",
+      "capitulo": 14,
+      "versiculos": [
+        4
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Mateo 24:29, 30",
+      "referencia_normalizada": "Mateo 24:29,30",
+      "libro": "Mateo",
+      "capitulo": 24,
+      "versiculos": [
+        29,
+        30
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Apocalipsis 19:11-16",
+      "referencia_normalizada": "Apocalipsis 19:11-16",
+      "libro": "Apocalipsis",
+      "capitulo": 19,
+      "versiculos": [
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "1 Tesalonicenses 4:18",
+      "referencia_normalizada": "1 Tesalonicenses 4:18",
+      "libro": "1 Tesalonicenses",
+      "capitulo": 4,
+      "versiculos": [
+        18
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    }
+  ],
+  "contenido": {
+    "introduccion": null,
+    "secciones": [],
+    "contenido_completo": "Había preocupación grande en los hermanos de Tesalónica sobre la esperanza del levantamiento de los hermanos cuando sucediera la SEGUNDA VENIDA DE CRISTO. Se preguntaban qué les sucedería a los que ya habían muerto cuando el Señor volviera para buscar a su pueblo. Era algo nuevo para ellos, desconocían cómo sería EL LEVANTAMIENTO Y LA RESURRECCIÓN. No tenían un conocimiento claro de aquel evento tan esperado, por tal razón sus temores. Así que la esperanza de la SEGUNDA VENIDA les había traído estos problemas a los hermanos de Tesalónica. Ellos esperaban que la VENIDA DEL SEÑOR se produjera inmediatamente, esperando estar vivos cuando ocurriera, pero estaban preocupados por los cristianos que ya habían dormido (o muerto). No podían estar seguros si aquellos también participaran de la gloria de aquel día. Pablo les responde que ¡tendrán una misma gloria LOS QUE YA HAYAN MUERTO y LOS QUE ESTÉN VIVOS! Les dice que no deben tener tristeza como los inconversos que no tienen ninguna esperanza (I Tesalonicenses 4:13 \"Tampoco queremos, hermanos, que ignoréis acerca de los que duermen, para que no os entristezcáis como los otros que no tienen esperanza.\")\n\nAnte lo que era la muerte, el mundo pagano se encontraba sumido en la desesperación. Se enfrentaban con ella con una sombría resignación y una árida desesperanza. Pero, Pablo establece aquí en esta epístola un gran principio: La persona que ha vivido y muerto en cristo SIGUE ESTANDO EN CRISTO y ¡RESUCITARÁ EN ÉL! Entre Cristo y la persona que le ama hay una relación tal que nada la puede romper. ¡Sobrepasa la muerte! Cristo murió y resucitó, así también la persona que está unida con Cristo ¡resucitará!\n\nPara que: \"…no os entristezcáis…\" Cuando los creyentes pasan de esta vida lo que les sucede es que, más bien que morir, se quedan sus cuerpos como dormidos. Así que los creyentes no deben estar tristes como aquellos que no tienen esperanza. En su muerte por nosotros, Jesús gustó la muerte con todos lo sinsabores que comparte una muerte en una cruz. Pero, por medio de la muerte de nuestro justo y santo Salvador la muerte misma ¡FUE VENCIDA! Desde ahí la muerte de los cristianos se ha convertido en solo: un sueño. \"…a los que durmieron en Él.\" (Vs. 14) Así que, la creencia de la resurrección de los muertos se basa en la fe del creyente en la muerte y resurrección de Jesucristo.\n\n(I Tesalonicenses 4:15ª \"Por lo cual os decimos esto en palabra del Señor…\") Pareciera que aquí Pablo se refiere a una especial revelación que recibió por medio del Señor. Esta revelación le fue comunicada a Pablo mismo. Dios le mostró el orden en que se habían de realizar los acontecimientos que tienen que ver con LA SEGUNDA VENIDA DEL SEÑOR y que el apóstol describe del modo siguiente: \"…que nosotros que vivimos, que habremos quedado hasta la venida del Señor, no precederemos a los que durmieron.\" La enseñanza que el apóstol Pablo les comunica a los hermanos Tesalonicenses (haciéndolo con la autoridad que le da que aquella sea palabra del Señor) es que los cristianos que todavía vivan cuando el Señor venga no irán a recibir al Señor antes de que primero resuciten los que durmieron (murieron) en el Señor. Los que estén vivos para ese gran día tendrán que esperar a que \"los muertos en Cristo resuciten primero.\" Pablo lo esperaba de esa manera pensando que él estaría vivo cuando así sucediera.\n\nEl apóstol continua diciendo en el Vs.16: \"Porque el Señor mismo con voz de mando, con voz de arcángel, y con trompeta de Dios, descenderá del cielo; y los muertos en Cristo resucitarán primero.\" Que el Señor Jesucristo descenderá del Cielo, de donde se encuentra sentado a la diestra del Padre (Hebreos 1:3 y 10:12) desde el día de su ascensión (Hechos 1:11). Que descenderá \"…con voz de mando…\", que aquí viene a tener el sentido de grito con que un jefe militar pone en movimiento a todo un ejército. Que descenderá \"…con voz de arcángel…\", con la voz como la del arcángel Miguel que es el único a quien la Escritura da ese título (Judas 1:9). Que descenderá \"…con trompeta de Dios…\", lo cual es una referencia inequívoca a I Corintios 15:52 \"…en un momento, en un abrir y cerrar de ojos, a la final trompeta; porque se tocará la trompeta, y los muertos serán resucitados incorruptibles, y nosotros seremos transformados.\n\n¡Los muertos en Cristo resucitarán primero! Al decir \"en Cristo\", el apóstol especifica que tal resurrección es propia de los que han sido bautizados por el Espíritu Santo en el Cuerpo de Cristo (I Corintios 12:13). Continúa diciendo el apóstol Pablo en I Tesalonicenses 4:17 \"Luego nosotros los que vivimos, los que hayamos quedado, seremos arrebatados juntamente con ellos en las nubes para recibir al Señor en el aire, y así estaremos siempre con el Señor.\" Aquí se deja ver expresamente profetizado EL ARREBATAMIENTO DE LOS CREYENTES (EL RAPTO), tanto los que hayan muerto y en ese día resucitarán como los que estén vivos y serán transformados (I Corintios 15:51, 52).\n\nTampoco puede pasarse por alto que el Antiguo Testamento coloca la resurrección de Israel después de LA GRAN TRIBULACIÓN (Daniel 12:1-3).\n\nDice que ese encuentro del Señor Jesucristo con su Iglesia se realizará en el aire, no en la tierra, con lo cual se distingue ese día claramente del día del regreso del Señor a la tierra según se anuncia en Zacarías 14:4 \"Y se afirmarán sus pies en aquel día sobre el monte de los Olivos, que está en frente de Jerusalén al oriente; y el monte de los Olivos se partirá por en medio, hacia el oriente y hacia el occidente, haciendo un valle muy grande; y la mitad del monte se apartará hacia el norte, y la otra mitad hacia el sur.\" (Mateo 24:29, 30) (Apocalipsis 19:11-16)\n\nTodos los creyentes en Cristo muertos o vivos tendrán parte en el Arrebatamiento (Rapto de la Iglesia). El Cuerpo de Cristo entrará completo en el Cielo, no puede entrar allí mutilado. \"Por tanto alentaos los unos a los otros con estas palabras.\" I Tesalonicenses 4:18 ¡Esta es nuestra fe y nuestra esperanza! Amén.",
+    "contenido_renderizado": [
+      {
+        "tipo": "parrafo",
+        "texto": "Había preocupación grande en los hermanos de Tesalónica sobre la esperanza del levantamiento de los hermanos cuando sucediera la SEGUNDA VENIDA DE CRISTO. Se preguntaban qué les sucedería a los que ya habían muerto cuando el Señor volviera para buscar a su pueblo. Era algo nuevo para ellos, desconocían cómo sería EL LEVANTAMIENTO Y LA RESURRECCIÓN. No tenían un conocimiento claro de aquel evento tan esperado, por tal razón sus temores. Así que la esperanza de la SEGUNDA VENIDA les había traído estos problemas a los hermanos de Tesalónica. Ellos esperaban que la VENIDA DEL SEÑOR se produjera inmediatamente, esperando estar vivos cuando ocurriera, pero estaban preocupados por los cristianos que ya habían dormido (o muerto). No podían estar seguros si aquellos también participaran de la gloria de aquel día. Pablo les responde que ¡tendrán una misma gloria LOS QUE YA HAYAN MUERTO y LOS QUE ESTÉN VIVOS! Les dice que no deben tener tristeza como los inconversos que no tienen ninguna esperanza (I Tesalonicenses 4:13 \"Tampoco queremos, hermanos, que ignoréis acerca de los que duermen, para que no os entristezcáis como los otros que no tienen esperanza.\")",
+        "referencias_inline": [
+          "1 Tesalonicenses 4:13"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Ante lo que era la muerte, el mundo pagano se encontraba sumido en la desesperación. Se enfrentaban con ella con una sombría resignación y una árida desesperanza. Pero, Pablo establece aquí en esta epístola un gran principio: La persona que ha vivido y muerto en cristo SIGUE ESTANDO EN CRISTO y ¡RESUCITARÁ EN ÉL! Entre Cristo y la persona que le ama hay una relación tal que nada la puede romper. ¡Sobrepasa la muerte! Cristo murió y resucitó, así también la persona que está unida con Cristo ¡resucitará!",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Para que: \"…no os entristezcáis…\" Cuando los creyentes pasan de esta vida lo que les sucede es que, más bien que morir, se quedan sus cuerpos como dormidos. Así que los creyentes no deben estar tristes como aquellos que no tienen esperanza. En su muerte por nosotros, Jesús gustó la muerte con todos lo sinsabores que comparte una muerte en una cruz. Pero, por medio de la muerte de nuestro justo y santo Salvador la muerte misma ¡FUE VENCIDA! Desde ahí la muerte de los cristianos se ha convertido en solo: un sueño. \"…a los que durmieron en Él.\" (Vs. 14) Así que, la creencia de la resurrección de los muertos se basa en la fe del creyente en la muerte y resurrección de Jesucristo.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(I Tesalonicenses 4:15ª \"Por lo cual os decimos esto en palabra del Señor…\") Pareciera que aquí Pablo se refiere a una especial revelación que recibió por medio del Señor. Esta revelación le fue comunicada a Pablo mismo. Dios le mostró el orden en que se habían de realizar los acontecimientos que tienen que ver con LA SEGUNDA VENIDA DEL SEÑOR y que el apóstol describe del modo siguiente: \"…que nosotros que vivimos, que habremos quedado hasta la venida del Señor, no precederemos a los que durmieron.\" La enseñanza que el apóstol Pablo les comunica a los hermanos Tesalonicenses (haciéndolo con la autoridad que le da que aquella sea palabra del Señor) es que los cristianos que todavía vivan cuando el Señor venga no irán a recibir al Señor antes de que primero resuciten los que durmieron (murieron) en el Señor. Los que estén vivos para ese gran día tendrán que esperar a que \"los muertos en Cristo resuciten primero.\" Pablo lo esperaba de esa manera pensando que él estaría vivo cuando así sucediera.",
+        "referencias_inline": [
+          "1 Tesalonicenses 4:15"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "El apóstol continua diciendo en el Vs.16: \"Porque el Señor mismo con voz de mando, con voz de arcángel, y con trompeta de Dios, descenderá del cielo; y los muertos en Cristo resucitarán primero.\" Que el Señor Jesucristo descenderá del Cielo, de donde se encuentra sentado a la diestra del Padre (Hebreos 1:3 y 10:12) desde el día de su ascensión (Hechos 1:11). Que descenderá \"…con voz de mando…\", que aquí viene a tener el sentido de grito con que un jefe militar pone en movimiento a todo un ejército. Que descenderá \"…con voz de arcángel…\", con la voz como la del arcángel Miguel que es el único a quien la Escritura da ese título (Judas 1:9). Que descenderá \"…con trompeta de Dios…\", lo cual es una referencia inequívoca a I Corintios 15:52 \"…en un momento, en un abrir y cerrar de ojos, a la final trompeta; porque se tocará la trompeta, y los muertos serán resucitados incorruptibles, y nosotros seremos transformados.",
+        "referencias_inline": [
+          "Hebreos 1:3",
+          "Hechos 1:11",
+          "Judas 1:9",
+          "1 Corintios 15:52"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "¡Los muertos en Cristo resucitarán primero! Al decir \"en Cristo\", el apóstol especifica que tal resurrección es propia de los que han sido bautizados por el Espíritu Santo en el Cuerpo de Cristo (I Corintios 12:13). Continúa diciendo el apóstol Pablo en I Tesalonicenses 4:17 \"Luego nosotros los que vivimos, los que hayamos quedado, seremos arrebatados juntamente con ellos en las nubes para recibir al Señor en el aire, y así estaremos siempre con el Señor.\" Aquí se deja ver expresamente profetizado EL ARREBATAMIENTO DE LOS CREYENTES (EL RAPTO), tanto los que hayan muerto y en ese día resucitarán como los que estén vivos y serán transformados (I Corintios 15:51, 52).",
+        "referencias_inline": [
+          "1 Corintios 12:13",
+          "1 Tesalonicenses 4:17",
+          "1 Corintios 15:51,52"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Tampoco puede pasarse por alto que el Antiguo Testamento coloca la resurrección de Israel después de LA GRAN TRIBULACIÓN (Daniel 12:1-3).",
+        "referencias_inline": [
+          "Daniel 12:1-3"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Dice que ese encuentro del Señor Jesucristo con su Iglesia se realizará en el aire, no en la tierra, con lo cual se distingue ese día claramente del día del regreso del Señor a la tierra según se anuncia en Zacarías 14:4 \"Y se afirmarán sus pies en aquel día sobre el monte de los Olivos, que está en frente de Jerusalén al oriente; y el monte de los Olivos se partirá por en medio, hacia el oriente y hacia el occidente, haciendo un valle muy grande; y la mitad del monte se apartará hacia el norte, y la otra mitad hacia el sur.\" (Mateo 24:29, 30) (Apocalipsis 19:11-16)",
+        "referencias_inline": [
+          "Zacarías 14:4",
+          "Mateo 24:29,30",
+          "Apocalipsis 19:11-16"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Todos los creyentes en Cristo muertos o vivos tendrán parte en el Arrebatamiento (Rapto de la Iglesia). El Cuerpo de Cristo entrará completo en el Cielo, no puede entrar allí mutilado. \"Por tanto alentaos los unos a los otros con estas palabras.\" I Tesalonicenses 4:18 ¡Esta es nuestra fe y nuestra esperanza! Amén.",
+        "referencias_inline": [
+          "1 Tesalonicenses 4:18"
+        ]
+      }
+    ]
+  },
+  "busqueda": {
+    "texto_indexable": "como no creer en su segunda venida 1 tesalonicenses 4 13 18 resurreccion de cristo liderazgo espiritual comunion cristiana santidad arrepentimiento perseverancia esperanza arca habia preocupacion grande en los hermanos de tesalonica sobre la esperanza del levantamiento de los hermanos cuando sucediera la segunda venida de cristo se preguntaban que les sucederia a los que ya habian muerto cuando el senor volviera para buscar a su pueblo era algo nuevo para ellos desconocian como seria el levantamiento y la resurreccion no tenian un conocimiento claro de aquel evento tan esperado por tal razon sus temores asi que la esperanza de la segunda venida les habia traido estos problemas a los hermanos de tesalonica ellos esperaban que la venida del senor se produjera inmediatamente esperando estar vivos cuando ocurriera pero estaban preocupados por los cristianos que ya habian dormido o muerto no podian estar seguros si aquellos tambien participaran de la gloria de aquel dia pablo les responde que tendran una misma gloria los que ya hayan muerto y los que esten vivos les dice que no deben tener tristeza como los inconversos que no tienen ninguna esperanza i tesalonicenses 4 13 tampoco queremos hermanos que ignoreis acerca de los que duermen para que no os entristezcais como los otros que no tienen esperanza ante lo que era la muerte el mundo pagano se encontraba sumido en la desesperacion se enfrentaban con ella con una sombria resignacion y una arida desesperanza pero pablo establece aqui en esta epistola un gran principio la persona que ha vivido y muerto en cristo sigue estando en cristo y resucitara en el entre cristo y la persona que le ama hay una relacion tal que nada la puede romper sobrepasa la muerte cristo murio y resucito asi tambien la persona que esta unida con cristo resucitara para que no os entristezcais cuando los creyentes pasan de esta vida lo que les sucede es que mas bien que morir se quedan sus cuerpos como dormidos asi que los creyentes no deben estar tristes como aquellos que no tienen esperanza en su muerte por nosotros Jesus gusto la muerte con todos lo sinsabores que comparte una muerte en una cruz pero por medio de la muerte de nuestro justo y santo salvador la muerte misma fue vencida desde ahi la muerte de los cristianos se ha convertido en solo un sueno a los que durmieron en el vs 14 asi que la creencia de la resurreccion de los muertos se basa en la fe del creyente en la muerte y resurreccion de jesucristo i tesalonicenses 4 15 por lo cual os decimos esto en palabra del senor pareciera que aqui pablo se refiere a una especial revelacion que recibio por medio del senor esta revelacion le fue comunicada a pablo mismo Dios le mostro el orden en que se habian de realizar los acontecimientos que tienen que ver con la segunda venida del senor y que el apostol describe del modo siguiente que nosotros que vivimos que habremos quedado hasta la venida del senor no precederemos a los que durmieron la ensenanza que el apostol pablo les comunica a los hermanos tesalonicenses haciendolo con la autoridad que le da que aquella sea palabra del senor es que los cristianos que todavia vivan cuando el senor venga no iran a recibir al senor antes de que primero resuciten los que durmieron murieron en el senor los que esten vivos para ese gran dia tendran que esperar a que los muertos en cristo resuciten primero pablo lo esperaba de esa manera pensando que el estaria vivo cuando asi sucediera el apostol continua diciendo en el vs 16 porque el senor mismo con voz de mando con voz de arcangel y con trompeta de Dios descendera del cielo y los muertos en cristo resucitaran primero que el senor jesucristo descendera del cielo de donde se encuentra sentado a la diestra del padre hebreos 1 3 y 10 12 desde el dia de su ascension hechos 1 11 que descendera con voz de mando que aqui viene a tener el sentido de grito con que un jefe militar pone en movimiento a todo un ejercito que descendera con voz de arcangel con la voz como la del arcangel miguel que es el unico a quien la escritura da ese titulo judas 1 9 que descendera con trompeta de Dios lo cual es una referencia inequivoca a i corintios 15 52 en un momento en un abrir y cerrar de ojos a la final trompeta porque se tocara la trompeta y los muertos seran resucitados incorruptibles y nosotros seremos transformados los muertos en cristo resucitaran primero al decir en cristo el apostol especifica que tal resurreccion es propia de los que han sido bautizados por el espiritu santo en el cuerpo de cristo i corintios 12 13 continua diciendo el apostol pablo en i tesalonicenses 4 17 luego nosotros los que vivimos los que hayamos quedado seremos arrebatados juntamente con ellos en las nubes para recibir al senor en el aire y asi estaremos siempre con el senor aqui se deja ver expresamente profetizado el arrebatamiento de los creyentes el rapto tanto los que hayan muerto y en ese dia resucitaran como los que esten vivos y seran transformados i corintios 15 51 52 tampoco puede pasarse por alto que el antiguo testamento coloca la resurreccion de israel despues de la gran tribulacion daniel 12 1 3 dice que ese encuentro del senor jesucristo con su iglesia se realizara en el aire no en la tierra con lo cual se distingue ese dia claramente del dia del regreso del senor a la tierra segun se anuncia en zacarias 14 4 y se afirmaran sus pies en aquel dia sobre el monte de los olivos que esta en frente de jerusalen al oriente y el monte de los olivos se partira por en medio hacia el oriente y hacia el occidente haciendo un valle muy grande y la mitad del monte se apartara hacia el norte y la otra mitad hacia el sur mateo 24 29 30 apocalipsis 19 11 16 todos los creyentes en cristo muertos o vivos tendran parte en el arrebatamiento rapto de la iglesia el cuerpo de cristo entrara completo en el cielo no puede entrar alli mutilado por tanto alentaos los unos a los otros con estas palabras i tesalonicenses 4 18 esta es nuestra fe y nuestra esperanza amen",
+    "alias_busqueda": [
+      "Cómo No Creer En Su Segunda Venida",
+      "1 Tesalonicenses",
+      "1 Tesalonicenses 4",
+      "1 Tesalonicenses 4:13-18",
+      "santidad",
+      "arrepentimiento",
+      "perseverancia",
+      "esperanza",
+      "Resurrección de Cristo",
+      "Liderazgo espiritual"
+    ]
+  },
+  "revision_manual": {
+    "requiere_revision": false,
+    "motivo": ""
+  },
+  "ui": {
+    "mostrar_credito_en_header": true,
+    "mostrar_numero_estudio": true,
+    "mostrar_fecha": true,
+    "mostrar_topicos": true,
+    "permitir_favorito": true,
+    "permitir_compartir": true
+  }
+}

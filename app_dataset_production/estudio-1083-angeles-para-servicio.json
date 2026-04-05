@@ -1,0 +1,376 @@
+{
+  "id": "estudio-1083-angeles-para-servicio",
+  "slug": "estudio-1083-angeles-para-servicio",
+  "numero_estudio": 1083,
+  "tipo_estudio": "Iglesia en las casas",
+  "ministerio": {
+    "iglesia": "Iglesia Cristiana Mega Zoe",
+    "pastora": "Pastora Edith Cruz",
+    "credito_corto": "Iglesia Cristiana Mega Zoe · Pastora Edith Cruz",
+    "credito_largo": "Contenido original de Iglesia Cristiana Mega Zoe, conservando el crédito ministerial correspondiente a la Pastora Edith Cruz."
+  },
+  "identidad_editorial": {
+    "idioma": "es",
+    "fuente_original": "documento_word",
+    "archivo_origen": "/Users/edwingadiel/Desktop/Estudios en Word/Estudio #1083 Angeles para servicio - Hebreos 1 14.docx",
+    "estado_revision": "procesado",
+    "version_schema": "1.0"
+  },
+  "encabezado": {
+    "titulo": "Ángeles Para Servicio",
+    "subtitulo": null,
+    "cita_principal": "Hebreos 1:14",
+    "resumen_corto": "Ángeles Para Servicio llama a servir fielmente al Señor y perseverar en la oración."
+  },
+  "fechas": {
+    "fecha_inicio": null,
+    "fecha_fin": null,
+    "fecha_texto_original": "",
+    "ano": null
+  },
+  "clasificacion_biblica": {
+    "libro_principal": "Hebreos",
+    "capitulo_principal": 1,
+    "versiculos_principales": [
+      14
+    ],
+    "referencia_principal_normalizada": "Hebreos 1:14",
+    "testamento_principal": "Nuevo Testamento"
+  },
+  "clasificacion_tematica": {
+    "topicos": [
+      "Servicio cristiano",
+      "Oración",
+      "Discipulado"
+    ],
+    "keywords": [
+      "oración",
+      "arrepentimiento",
+      "salvación",
+      "perseverancia",
+      "escogidos"
+    ]
+  },
+  "referencias_biblicas": [
+    {
+      "referencia": "Hebreos 1:14",
+      "referencia_normalizada": "Hebreos 1:14",
+      "libro": "Hebreos",
+      "capitulo": 1,
+      "versiculos": [
+        14
+      ],
+      "tipo": "principal",
+      "clickeable": true
+    },
+    {
+      "referencia": "Lucas 1:30,31",
+      "referencia_normalizada": "Lucas 1:30,31",
+      "libro": "Lucas",
+      "capitulo": 1,
+      "versiculos": [
+        30,
+        31
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Lucas 2:10,11",
+      "referencia_normalizada": "Lucas 2:10,11",
+      "libro": "Lucas",
+      "capitulo": 2,
+      "versiculos": [
+        10,
+        11
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Mateo 4:11",
+      "referencia_normalizada": "Mateo 4:11",
+      "libro": "Mateo",
+      "capitulo": 4,
+      "versiculos": [
+        11
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Lucas 22:43",
+      "referencia_normalizada": "Lucas 22:43",
+      "libro": "Lucas",
+      "capitulo": 22,
+      "versiculos": [
+        43
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Mateo 28:2",
+      "referencia_normalizada": "Mateo 28:2",
+      "libro": "Mateo",
+      "capitulo": 28,
+      "versiculos": [
+        2
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Hechos 1:10,11",
+      "referencia_normalizada": "Hechos 1:10,11",
+      "libro": "Hechos",
+      "capitulo": 1,
+      "versiculos": [
+        10,
+        11
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Job 38:7",
+      "referencia_normalizada": "Job 38:7",
+      "libro": "Job",
+      "capitulo": 38,
+      "versiculos": [
+        7
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Efesios 1:4",
+      "referencia_normalizada": "Efesios 1:4",
+      "libro": "Efesios",
+      "capitulo": 1,
+      "versiculos": [
+        4
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "1 Pedro 1:10-13",
+      "referencia_normalizada": "1 Pedro 1:10-13",
+      "libro": "1 Pedro",
+      "capitulo": 1,
+      "versiculos": [
+        10,
+        11,
+        12,
+        13
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Efesios 6:12",
+      "referencia_normalizada": "Efesios 6:12",
+      "libro": "Efesios",
+      "capitulo": 6,
+      "versiculos": [
+        12
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Lucas 15:10",
+      "referencia_normalizada": "Lucas 15:10",
+      "libro": "Lucas",
+      "capitulo": 15,
+      "versiculos": [
+        10
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Apocalipsis 3:5",
+      "referencia_normalizada": "Apocalipsis 3:5",
+      "libro": "Apocalipsis",
+      "capitulo": 3,
+      "versiculos": [
+        5
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Lucas 9:26",
+      "referencia_normalizada": "Lucas 9:26",
+      "libro": "Lucas",
+      "capitulo": 9,
+      "versiculos": [
+        26
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    }
+  ],
+  "contenido": {
+    "introduccion": null,
+    "secciones": [],
+    "contenido_completo": "Un ángel es un ser sobrenatural, espiritual cuyos deberes son asistir (ayudar) y servir a Dios. Los ángeles son a menudo representados como mensajeros de Dios en la Biblia. Podemos entender por la Palabra cómo ocuparon un lugar importante en la vida y ministerio de Cristo: (Lucas 1:30,31) \"…el ángel le dijo:...concebirás en tu vientre… y llamarás su nombre Jesús.\" (Mateo. 1:20) \"…he aquí un ángel del Señor le apareció en sueños y le dijo: José, hijo de David, no temas recibir a María tu mujer, porque lo que en ella es engendrado, del Espíritu Santo es.\" (Lucas 2:10,11) \"…el ángel les dijo: …que os ha nacido hoy, en la ciudad de David, un Salvador, que es CRISTO el Señor.\" En la tentación de Jesús (Mateo 4:11) \"… vinieron ángeles y le servían.\" (Lucas 22:43) \"Y se le apareció un ángel del cielo para fortalecerle…\" La piedra de la tumba (Mateo 28:2) la removió un ángel. En Su ascensión (Hechos 1:10,11) estaban dos ángeles presentes y les hablaron a los discípulos, \"…por qué estáis mirando al cielo?...\"\n\nI. Los ángeles conocen al Cielo y todo lo que hay en él.\n\nA. La misión de los ángeles ¡NO ES GOBERNAR, SINO SERVIR!\n\n1. Dios les da las órdenes y ellos sirven a Dios, que los creó.\n\n2. (Job 38:7) Esto fue cuando los mismos astros (las estrellas) entonaron su himno y lo corearon los santos ángeles, que en este pasaje son los hijos de Dios, llenos de regocijo cuando vieron hechos los fundamentos de la tierra.\n\n3. Fue aquella ¡UNA CELEBRACIÓN ANGÉLICA!\n\n4. La presencia de los ángeles siempre ha estado sobre la tierra, PORQUE SON TRABAJADORES DEL Dios DUEÑO DE TODO.\n\n5. Nuestro servicio es a Dios y a Jesús nuestro Salvador.\n\n6. Oramos al Padre, Él sabe de qué estamos faltos. Jesús es nuestro Salvador y llega la oración al Padre por medio de Él, nuestro Señor. Es claro que los ángeles son servidores de las órdenes que da Dios, porque Él sabe la necesidad de cada quien y de cada cosa en la tierra.\n\nB. (Hebreos 1:14) Es claro, la misión de ángeles no es gobernar, sino servir.\n\n1. Son seres espirituales que Dios ha creado para servicio a favor de LOS QUE VAN A HEREDAR LA SALVACIÓN. Wow!\n\n2. Los ángeles sirven a los que están salvados de la pena y del poder del pecado (no quiere decir que los creyentes sean salvos de la presencia del pecado, pues seguimos aún en la tierra.) Pero, mi pensar es conforme a la Palabra (Efesios 1:4) \"…según nos escogió en Él antes de la fundación del mundo, para que fuésemos santos y sin mancha delante de Él…\"\n\n3. Los ángeles también dan servicio a favor de los que no han sido aún convertidos. (1 Pedro 1:10-13) Pedro anima a un esfuerzo mayor para asegurarse del llamado de Dios, quien fue quien los eligió.\n\n4. Estos servidores de Dios son ¡ÁNGELES GUARDIANES!\n\n5. ¿Por qué deberíamos sorprendernos por esta verdad?\n\n6. ¡Porque, es cosa cierta que hay espíritus malvados que libran incesante batalla contra los escogidos de Dios! (Efesios 6:12) \"Porque no tenemos lucha contra sangre y carne, sino contra principados, contra potestades, contra los gobernadores de las tinieblas de este siglo, contra huestes espirituales de maldad en las regiones celestes.\"\n\n7. ¿Nos asombramos de que haya ángeles santos que guardan a los que han sido llamado a la salvación?\n\n8. Hemos de volver al punto principal del pasaje, no a la existencia de los ángeles guardianes, sino al hecho de que los ángeles son inferiores al Hijo de Dios, así como los siervos son inferiores al Soberano Universal. ¡Grande en el universo es nuestro Dios!\n\n9. (Lucas 15:10) \"…hay gozo delante de los ángeles de Dios por un pecador que se arrepiente.\"\n\n10. (Apocalipsis 3:5) A los que hayan vencido, Cristo los reconocerá delante de Dios Padre Y DE SUS ÁNGELES, como Él mismo prometió en Lucas 9:26.\n\n11. ¡Los ángeles dan su servicio a Dios y llegará el día en que el Padre disfrutará de tu presentación (esto es al que ha vencido) y tu nombre retumbará delante del Padre y DE SUS ÁNGELES! ¡Allí estarán ellos, los enviados para servicio a tu favor! Amén.",
+    "contenido_renderizado": [
+      {
+        "tipo": "parrafo",
+        "texto": "Un ángel es un ser sobrenatural, espiritual cuyos deberes son asistir (ayudar) y servir a Dios. Los ángeles son a menudo representados como mensajeros de Dios en la Biblia. Podemos entender por la Palabra cómo ocuparon un lugar importante en la vida y ministerio de Cristo: (Lucas 1:30,31) \"…el ángel le dijo:...concebirás en tu vientre… y llamarás su nombre Jesús.\" (Mateo. 1:20) \"…he aquí un ángel del Señor le apareció en sueños y le dijo: José, hijo de David, no temas recibir a María tu mujer, porque lo que en ella es engendrado, del Espíritu Santo es.\" (Lucas 2:10,11) \"…el ángel les dijo: …que os ha nacido hoy, en la ciudad de David, un Salvador, que es CRISTO el Señor.\" En la tentación de Jesús (Mateo 4:11) \"… vinieron ángeles y le servían.\" (Lucas 22:43) \"Y se le apareció un ángel del cielo para fortalecerle…\" La piedra de la tumba (Mateo 28:2) la removió un ángel. En Su ascensión (Hechos 1:10,11) estaban dos ángeles presentes y les hablaron a los discípulos, \"…por qué estáis mirando al cielo?...\"",
+        "referencias_inline": [
+          "Lucas 1:30,31",
+          "Lucas 2:10,11",
+          "Mateo 4:11",
+          "Lucas 22:43",
+          "Mateo 28:2",
+          "Hechos 1:10,11"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "I. Los ángeles conocen al Cielo y todo lo que hay en él.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "A. La misión de los ángeles ¡NO ES GOBERNAR, SINO SERVIR!",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "1. Dios les da las órdenes y ellos sirven a Dios, que los creó.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "2. (Job 38:7) Esto fue cuando los mismos astros (las estrellas) entonaron su himno y lo corearon los santos ángeles, que en este pasaje son los hijos de Dios, llenos de regocijo cuando vieron hechos los fundamentos de la tierra.",
+        "referencias_inline": [
+          "Job 38:7"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "3. Fue aquella ¡UNA CELEBRACIÓN ANGÉLICA!",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "4. La presencia de los ángeles siempre ha estado sobre la tierra, PORQUE SON TRABAJADORES DEL Dios DUEÑO DE TODO.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "5. Nuestro servicio es a Dios y a Jesús nuestro Salvador.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "6. Oramos al Padre, Él sabe de qué estamos faltos. Jesús es nuestro Salvador y llega la oración al Padre por medio de Él, nuestro Señor. Es claro que los ángeles son servidores de las órdenes que da Dios, porque Él sabe la necesidad de cada quien y de cada cosa en la tierra.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "B. (Hebreos 1:14) Es claro, la misión de ángeles no es gobernar, sino servir.",
+        "referencias_inline": [
+          "Hebreos 1:14"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "1. Son seres espirituales que Dios ha creado para servicio a favor de LOS QUE VAN A HEREDAR LA SALVACIÓN. Wow!",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "2. Los ángeles sirven a los que están salvados de la pena y del poder del pecado (no quiere decir que los creyentes sean salvos de la presencia del pecado, pues seguimos aún en la tierra.) Pero, mi pensar es conforme a la Palabra (Efesios 1:4) \"…según nos escogió en Él antes de la fundación del mundo, para que fuésemos santos y sin mancha delante de Él…\"",
+        "referencias_inline": [
+          "Efesios 1:4"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "3. Los ángeles también dan servicio a favor de los que no han sido aún convertidos. (1 Pedro 1:10-13) Pedro anima a un esfuerzo mayor para asegurarse del llamado de Dios, quien fue quien los eligió.",
+        "referencias_inline": [
+          "1 Pedro 1:10-13"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "4. Estos servidores de Dios son ¡ÁNGELES GUARDIANES!",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "5. ¿Por qué deberíamos sorprendernos por esta verdad?",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "6. ¡Porque, es cosa cierta que hay espíritus malvados que libran incesante batalla contra los escogidos de Dios! (Efesios 6:12) \"Porque no tenemos lucha contra sangre y carne, sino contra principados, contra potestades, contra los gobernadores de las tinieblas de este siglo, contra huestes espirituales de maldad en las regiones celestes.\"",
+        "referencias_inline": [
+          "Efesios 6:12"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "7. ¿Nos asombramos de que haya ángeles santos que guardan a los que han sido llamado a la salvación?",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "8. Hemos de volver al punto principal del pasaje, no a la existencia de los ángeles guardianes, sino al hecho de que los ángeles son inferiores al Hijo de Dios, así como los siervos son inferiores al Soberano Universal. ¡Grande en el universo es nuestro Dios!",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "9. (Lucas 15:10) \"…hay gozo delante de los ángeles de Dios por un pecador que se arrepiente.\"",
+        "referencias_inline": [
+          "Lucas 15:10"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "10. (Apocalipsis 3:5) A los que hayan vencido, Cristo los reconocerá delante de Dios Padre Y DE SUS ÁNGELES, como Él mismo prometió en Lucas 9:26.",
+        "referencias_inline": [
+          "Apocalipsis 3:5",
+          "Lucas 9:26"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "11. ¡Los ángeles dan su servicio a Dios y llegará el día en que el Padre disfrutará de tu presentación (esto es al que ha vencido) y tu nombre retumbará delante del Padre y DE SUS ÁNGELES! ¡Allí estarán ellos, los enviados para servicio a tu favor! Amén.",
+        "referencias_inline": []
+      }
+    ]
+  },
+  "busqueda": {
+    "texto_indexable": "angeles para servicio hebreos 1 14 servicio cristiano oracion discipulado oracion arrepentimiento salvacion perseverancia escogidos un angel es un ser sobrenatural espiritual cuyos deberes son asistir ayudar y servir a Dios los angeles son a menudo representados como mensajeros de Dios en la biblia podemos entender por la palabra como ocuparon un lugar importante en la vida y ministerio de cristo lucas 1 30 31 el angel le dijo concebiras en tu vientre y llamaras su nombre Jesus mateo 1 20 he aqui un angel del senor le aparecio en suenos y le dijo jose hijo de david no temas recibir a maria tu mujer porque lo que en ella es engendrado del espiritu santo es lucas 2 10 11 el angel les dijo que os ha nacido hoy en la ciudad de david un salvador que es cristo el senor en la tentacion de Jesus mateo 4 11 vinieron angeles y le servian lucas 22 43 y se le aparecio un angel del cielo para fortalecerle la piedra de la tumba mateo 28 2 la removio un angel en su ascension hechos 1 10 11 estaban dos angeles presentes y les hablaron a los discipulos por que estais mirando al cielo i los angeles conocen al cielo y todo lo que hay en el a la mision de los angeles no es gobernar sino servir 1 Dios les da las ordenes y ellos sirven a Dios que los creo 2 job 38 7 esto fue cuando los mismos astros las estrellas entonaron su himno y lo corearon los santos angeles que en este pasaje son los hijos de Dios llenos de regocijo cuando vieron hechos los fundamentos de la tierra 3 fue aquella una celebracion angelica 4 la presencia de los angeles siempre ha estado sobre la tierra porque son trabajadores del Dios dueno de todo 5 nuestro servicio es a Dios y a Jesus nuestro salvador 6 oramos al padre el sabe de que estamos faltos Jesus es nuestro salvador y llega la oracion al padre por medio de el nuestro senor es claro que los angeles son servidores de las ordenes que da Dios porque el sabe la necesidad de cada quien y de cada cosa en la tierra b hebreos 1 14 es claro la mision de angeles no es gobernar sino servir 1 son seres espirituales que Dios ha creado para servicio a favor de los que van a heredar la salvacion wow 2 los angeles sirven a los que estan salvados de la pena y del poder del pecado no quiere decir que los creyentes sean salvos de la presencia del pecado pues seguimos aun en la tierra pero mi pensar es conforme a la palabra efesios 1 4 segun nos escogio en el antes de la fundacion del mundo para que fuesemos santos y sin mancha delante de el 3 los angeles tambien dan servicio a favor de los que no han sido aun convertidos 1 pedro 1 10 13 pedro anima a un esfuerzo mayor para asegurarse del llamado de Dios quien fue quien los eligio 4 estos servidores de Dios son angeles guardianes 5 por que deberiamos sorprendernos por esta verdad 6 porque es cosa cierta que hay espiritus malvados que libran incesante batalla contra los escogidos de Dios efesios 6 12 porque no tenemos lucha contra sangre y carne sino contra principados contra potestades contra los gobernadores de las tinieblas de este siglo contra huestes espirituales de maldad en las regiones celestes 7 nos asombramos de que haya angeles santos que guardan a los que han sido llamado a la salvacion 8 hemos de volver al punto principal del pasaje no a la existencia de los angeles guardianes sino al hecho de que los angeles son inferiores al hijo de Dios asi como los siervos son inferiores al soberano universal grande en el universo es nuestro Dios 9 lucas 15 10 hay gozo delante de los angeles de Dios por un pecador que se arrepiente 10 apocalipsis 3 5 a los que hayan vencido cristo los reconocera delante de Dios padre y de sus angeles como el mismo prometio en lucas 9 26 11 los angeles dan su servicio a Dios y llegara el dia en que el padre disfrutara de tu presentacion esto es al que ha vencido y tu nombre retumbara delante del padre y de sus angeles alli estaran ellos los enviados para servicio a tu favor amen",
+    "alias_busqueda": [
+      "Ángeles Para Servicio",
+      "Hebreos",
+      "Hebreos 1",
+      "Hebreos 1:14",
+      "oración",
+      "arrepentimiento",
+      "salvación",
+      "perseverancia",
+      "Servicio cristiano"
+    ]
+  },
+  "revision_manual": {
+    "requiere_revision": false,
+    "motivo": ""
+  },
+  "ui": {
+    "mostrar_credito_en_header": true,
+    "mostrar_numero_estudio": true,
+    "mostrar_fecha": true,
+    "mostrar_topicos": true,
+    "permitir_favorito": true,
+    "permitir_compartir": true
+  }
+}

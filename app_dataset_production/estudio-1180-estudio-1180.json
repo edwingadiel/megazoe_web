@@ -1,0 +1,502 @@
+{
+  "id": "estudio-1180-estudio-1180",
+  "slug": "estudio-1180-estudio-1180",
+  "numero_estudio": 1180,
+  "tipo_estudio": "Iglesia en las casas",
+  "ministerio": {
+    "iglesia": "Iglesia Cristiana Mega Zoe",
+    "pastora": "Pastora Edith Cruz",
+    "credito_corto": "Iglesia Cristiana Mega Zoe · Pastora Edith Cruz",
+    "credito_largo": "Contenido original de Iglesia Cristiana Mega Zoe, conservando el crédito ministerial correspondiente a la Pastora Edith Cruz."
+  },
+  "identidad_editorial": {
+    "idioma": "es",
+    "fuente_original": "documento_word",
+    "archivo_origen": "/Users/edwingadiel/Desktop/Estudios en Word/Estudio #1180 Aquel a quien tenemos que dar cuenta - Exodo 18 13-24.docx",
+    "estado_revision": "procesado",
+    "version_schema": "1.0"
+  },
+  "encabezado": {
+    "titulo": "Aquel A Quien Tenemos Que Dar Cuenta",
+    "subtitulo": null,
+    "cita_principal": "Éxodo 18:13-24",
+    "resumen_corto": "Aquel A Quien Tenemos Que Dar Cuenta enseña a caminar con sabiduría espiritual y permanecer en la verdad."
+  },
+  "fechas": {
+    "fecha_inicio": null,
+    "fecha_fin": null,
+    "fecha_texto_original": "",
+    "ano": null
+  },
+  "clasificacion_biblica": {
+    "libro_principal": "Éxodo",
+    "capitulo_principal": 18,
+    "versiculos_principales": [
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24
+    ],
+    "referencia_principal_normalizada": "Éxodo 18:13-24",
+    "testamento_principal": "Antiguo Testamento"
+  },
+  "clasificacion_tematica": {
+    "topicos": [
+      "Sabiduría espiritual",
+      "Verdad",
+      "Santidad"
+    ],
+    "keywords": [
+      "juicio",
+      "arrepentimiento",
+      "prudencia",
+      "perseverancia",
+      "corazón"
+    ]
+  },
+  "referencias_biblicas": [
+    {
+      "referencia": "Éxodo 18:13-24",
+      "referencia_normalizada": "Éxodo 18:13-24",
+      "libro": "Éxodo",
+      "capitulo": 18,
+      "versiculos": [
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24
+      ],
+      "tipo": "principal",
+      "clickeable": true
+    },
+    {
+      "referencia": "Hebreos 3:7",
+      "referencia_normalizada": "Hebreos 3:7",
+      "libro": "Hebreos",
+      "capitulo": 3,
+      "versiculos": [
+        7
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Hebreos 3:9",
+      "referencia_normalizada": "Hebreos 3:9",
+      "libro": "Hebreos",
+      "capitulo": 3,
+      "versiculos": [
+        9
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Hebreos 3:10",
+      "referencia_normalizada": "Hebreos 3:10",
+      "libro": "Hebreos",
+      "capitulo": 3,
+      "versiculos": [
+        10
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Hebreos 3:12",
+      "referencia_normalizada": "Hebreos 3:12",
+      "libro": "Hebreos",
+      "capitulo": 3,
+      "versiculos": [
+        12
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Hebreos 4:13",
+      "referencia_normalizada": "Hebreos 4:13",
+      "libro": "Hebreos",
+      "capitulo": 4,
+      "versiculos": [
+        13
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Éxodo 18:16",
+      "referencia_normalizada": "Éxodo 18:16",
+      "libro": "Éxodo",
+      "capitulo": 18,
+      "versiculos": [
+        16
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Hebreos 3:5",
+      "referencia_normalizada": "Hebreos 3:5",
+      "libro": "Hebreos",
+      "capitulo": 3,
+      "versiculos": [
+        5
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Éxodo 18:19",
+      "referencia_normalizada": "Éxodo 18:19",
+      "libro": "Éxodo",
+      "capitulo": 18,
+      "versiculos": [
+        19
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Éxodo 18:17",
+      "referencia_normalizada": "Éxodo 18:17",
+      "libro": "Éxodo",
+      "capitulo": 18,
+      "versiculos": [
+        17
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Éxodo 18:21",
+      "referencia_normalizada": "Éxodo 18:21",
+      "libro": "Éxodo",
+      "capitulo": 18,
+      "versiculos": [
+        21
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Proverbios 15:16",
+      "referencia_normalizada": "Proverbios 15:16",
+      "libro": "Proverbios",
+      "capitulo": 15,
+      "versiculos": [
+        16
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "1 Samuel 25:11",
+      "referencia_normalizada": "1 Samuel 25:11",
+      "libro": "1 Samuel",
+      "capitulo": 25,
+      "versiculos": [
+        11
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Proverbios 30:8-9",
+      "referencia_normalizada": "Proverbios 30:8-9",
+      "libro": "Proverbios",
+      "capitulo": 30,
+      "versiculos": [
+        8,
+        9
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    }
+  ],
+  "contenido": {
+    "introduccion": null,
+    "secciones": [],
+    "contenido_completo": "(Hebreos 3:7) … como dice el Espíritu Santo: Si oyereis hoy su voz, no endurezcáis vuestros corazones… Y vieron (Hebreos 3:9) mis obras cuarenta años. (Hebreos 3:10) Siempre andan vagando en su corazón. \"Y no han conocido mis caminos\". (Hebreos 3:12) … corazón malo de incredulidad para apartarse del Dios vivo. (Hebreos 4:13) Y no hay cosa creada que no sea manifiesta en su presencia; antes bien todas las cosas están desnudas y abiertas a los ojos de \"aquel a quien tenemos que dar cuenta.\"\n\nSe sentó Moisés a juzgar al pueblo.\n\nDesde mañana hasta tarde.\n\nAllí estaba la experiencia y vivencia de Jetro, padre de la esposa de Moisés.\n\nDijo: ¿Qué es esto que haces tú con el pueblo?\n\n¿Por qué te sientas tú solo y todo el pueblo está delante de ti desde la mañana hasta la tarde?\n\nMoisés contesta: Porque el pueblo viene a mí para consultar a Dios.\n\nMoisés le declaraba las ordenanzas de Dios y sus leyes (Éxodo 18:16).\n\nNo era su oficio dar leyes, sino dar a conocer las leyes de Dios porque su cargo era el de un sirviente. (Hebreos 3:5)\n\nÉl tenía que decidir las controversias, al juzgar entre un hombre y su compañero.\n\nAquel pueblo era propenso a riñas y peleas; por tal razón, Moisés tenía que darle la solución a lo no resuelto.\n\nTambién lo eran con Dios: peleas, chismes, murmuraciones.\n\nNo cabe duda entonces que tendría delante de sí gran número de causas que juzgar.\n\nMoisés lo hacía con gran constancia y exactitud.\n\nLlegó Jetro a la vida de Moisés.\n\nLa prudencia (capacidad de pensar, hablar con cuidado, justicia, precaución) y la consideración (meditar, reflexionar, juzgar) brillan en el amistoso consejo de Jetro.\n\nNo le gustó el método que Moisés usaba y así se lo dijo con toda libertad.\n\nEntendió que era demasiada tarea para que la desempeñara Moisés solo.\n\nSe dice: Hasta en el bien hacer puede haber extralimitación.\n\nPara que un gobierno respondiera mejor a su objetivo (el final que se desea llegar o a la meta que se pretende lograr) consistía en que: (Éxodo 18:19) tomara para sí todas las causas difíciles que requerían una decisión divina.\n\nEstá tú a favor del pueblo delante de Dios y somete tú los asuntos (tema que se trata) a Dios.\n\nNo está bien lo que haces: razón, vas a desfallecer. (Éxodo 18:17)\n\nDesfallecerás = perder las fuerzas a causa del cansancio; desmayarse, decaer, abatirse, flaquear, debilitarse, desanimarse.\n\nQue había de tenerse gran cuidado en la elección de las personas a quienes hubiese de encomendarse este cargo. (Éxodo 18:21)\n\nHabían de ser hombres de virtud:\n\nCapacidad de producir un determinado efecto positivo.\n\nHábito operativo bueno. (habitual).\n\nEs una disposición permanente que inclina de un modo fuerte y firme a una potencia para actuar conforme a la recta razón.\n\nDebían tener la fe, esperanza, justicia, templanza, prudencia, caridad por obrar bien y correctamente.\n\nEs cualidad positiva que permite producir ciertos efectos, fuerza, valor, poder de obrar y su integridad de ánimo.\n\nTemerosos de Dios:\n\nRespeto, admiración y sumisión (someterse, sin cuestionarlas, a la autoridad o la voluntad de otra persona o a lo que las circunstancias imponen) hacia Dios y Su voluntad.\n\nTemor al juicio final porque en ese Juicio Final todo será tal cual son o han sido las cosas, no acomodado.\n\nAl infierno o a la omnipotencia de Dios.\n\nTemer cercana a las ideas de respeto, admiración y sumisión hacia Dios y Su voluntad.\n\nVarones de verdad:\n\nConformidad de las cosas con el concepto que de ellos forma la mente.\n\nNunca confundir la verdad, tener la certeza de las cosas con la realidad, \"ligada del conocimiento\" y así obtener resultados que no se pueden poner en cuestionamientos ni que pueda ser objetado (oponer, refutar, contestar) sino que resulte evidente con seguridad y certeza.\n\nAborrezcan la avaricia:\n\nAfán de poseer muchas riquezas por el solo placer de atesorarlos sin compartirlas con nadie.\n\nVicio y le impide usar de los bienes que posee. (Proverbios 15:16) Mejor es lo poco con el temor de Jehová, que el gran tesoro donde hay turbación; (1 Samuel 25:11) ¿He de tomar yo ahora mi pan, mi agua y la carne que he preparado para mis esquiladores y darla a los hombres que no sé de dónde son?; insensato y duro para con sus semejantes; (Proverbios 30:8-9) Vanidad y palabra mentirosa aparta de mí. No me des pobreza ni riquezas; manténme del pan necesario; no sea que me sacie y te niegue y diga: ¿Quién es Jehová? O que, siendo pobre, hurte y blasfeme el nombre de mi Dios.\n\nMoisés no despreció este consejo, sino que oyó la voz de su suegro.\n\nLe había traído a la esposa e hijos.",
+    "contenido_renderizado": [
+      {
+        "tipo": "parrafo",
+        "texto": "(Hebreos 3:7) … como dice el Espíritu Santo: Si oyereis hoy su voz, no endurezcáis vuestros corazones… Y vieron (Hebreos 3:9) mis obras cuarenta años. (Hebreos 3:10) Siempre andan vagando en su corazón. \"Y no han conocido mis caminos\". (Hebreos 3:12) … corazón malo de incredulidad para apartarse del Dios vivo. (Hebreos 4:13) Y no hay cosa creada que no sea manifiesta en su presencia; antes bien todas las cosas están desnudas y abiertas a los ojos de \"aquel a quien tenemos que dar cuenta.\"",
+        "referencias_inline": [
+          "Hebreos 3:7",
+          "Hebreos 3:9",
+          "Hebreos 3:10",
+          "Hebreos 3:12",
+          "Hebreos 4:13"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Se sentó Moisés a juzgar al pueblo.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Desde mañana hasta tarde.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Allí estaba la experiencia y vivencia de Jetro, padre de la esposa de Moisés.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Dijo: ¿Qué es esto que haces tú con el pueblo?",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "¿Por qué te sientas tú solo y todo el pueblo está delante de ti desde la mañana hasta la tarde?",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Moisés contesta: Porque el pueblo viene a mí para consultar a Dios.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Moisés le declaraba las ordenanzas de Dios y sus leyes (Éxodo 18:16).",
+        "referencias_inline": [
+          "Éxodo 18:16"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "No era su oficio dar leyes, sino dar a conocer las leyes de Dios porque su cargo era el de un sirviente. (Hebreos 3:5)",
+        "referencias_inline": [
+          "Hebreos 3:5"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Él tenía que decidir las controversias, al juzgar entre un hombre y su compañero.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Aquel pueblo era propenso a riñas y peleas; por tal razón, Moisés tenía que darle la solución a lo no resuelto.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "También lo eran con Dios: peleas, chismes, murmuraciones.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "No cabe duda entonces que tendría delante de sí gran número de causas que juzgar.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Moisés lo hacía con gran constancia y exactitud.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Llegó Jetro a la vida de Moisés.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "La prudencia (capacidad de pensar, hablar con cuidado, justicia, precaución) y la consideración (meditar, reflexionar, juzgar) brillan en el amistoso consejo de Jetro.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "No le gustó el método que Moisés usaba y así se lo dijo con toda libertad.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Entendió que era demasiada tarea para que la desempeñara Moisés solo.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Se dice: Hasta en el bien hacer puede haber extralimitación.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Para que un gobierno respondiera mejor a su objetivo (el final que se desea llegar o a la meta que se pretende lograr) consistía en que: (Éxodo 18:19) tomara para sí todas las causas difíciles que requerían una decisión divina.",
+        "referencias_inline": [
+          "Éxodo 18:19"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Está tú a favor del pueblo delante de Dios y somete tú los asuntos (tema que se trata) a Dios.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "No está bien lo que haces: razón, vas a desfallecer. (Éxodo 18:17)",
+        "referencias_inline": [
+          "Éxodo 18:17"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Desfallecerás = perder las fuerzas a causa del cansancio; desmayarse, decaer, abatirse, flaquear, debilitarse, desanimarse.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Que había de tenerse gran cuidado en la elección de las personas a quienes hubiese de encomendarse este cargo. (Éxodo 18:21)",
+        "referencias_inline": [
+          "Éxodo 18:21"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Habían de ser hombres de virtud:",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Capacidad de producir un determinado efecto positivo.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Hábito operativo bueno. (habitual).",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Es una disposición permanente que inclina de un modo fuerte y firme a una potencia para actuar conforme a la recta razón.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Debían tener la fe, esperanza, justicia, templanza, prudencia, caridad por obrar bien y correctamente.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Es cualidad positiva que permite producir ciertos efectos, fuerza, valor, poder de obrar y su integridad de ánimo.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Temerosos de Dios:",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Respeto, admiración y sumisión (someterse, sin cuestionarlas, a la autoridad o la voluntad de otra persona o a lo que las circunstancias imponen) hacia Dios y Su voluntad.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Temor al juicio final porque en ese Juicio Final todo será tal cual son o han sido las cosas, no acomodado.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Al infierno o a la omnipotencia de Dios.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Temer cercana a las ideas de respeto, admiración y sumisión hacia Dios y Su voluntad.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Varones de verdad:",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Conformidad de las cosas con el concepto que de ellos forma la mente.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Nunca confundir la verdad, tener la certeza de las cosas con la realidad, \"ligada del conocimiento\" y así obtener resultados que no se pueden poner en cuestionamientos ni que pueda ser objetado (oponer, refutar, contestar) sino que resulte evidente con seguridad y certeza.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Aborrezcan la avaricia:",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Afán de poseer muchas riquezas por el solo placer de atesorarlos sin compartirlas con nadie.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Vicio y le impide usar de los bienes que posee. (Proverbios 15:16) Mejor es lo poco con el temor de Jehová, que el gran tesoro donde hay turbación; (1 Samuel 25:11) ¿He de tomar yo ahora mi pan, mi agua y la carne que he preparado para mis esquiladores y darla a los hombres que no sé de dónde son?; insensato y duro para con sus semejantes; (Proverbios 30:8-9) Vanidad y palabra mentirosa aparta de mí. No me des pobreza ni riquezas; manténme del pan necesario; no sea que me sacie y te niegue y diga: ¿Quién es Jehová? O que, siendo pobre, hurte y blasfeme el nombre de mi Dios.",
+        "referencias_inline": [
+          "Proverbios 15:16",
+          "1 Samuel 25:11",
+          "Proverbios 30:8-9"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Moisés no despreció este consejo, sino que oyó la voz de su suegro.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Le había traído a la esposa e hijos.",
+        "referencias_inline": []
+      }
+    ]
+  },
+  "busqueda": {
+    "texto_indexable": "aquel a quien tenemos que dar cuenta exodo 18 13 24 sabiduria espiritual verdad santidad juicio arrepentimiento prudencia perseverancia corazon hebreos 3 7 como dice el espiritu santo si oyereis hoy su voz no endurezcais vuestros corazones y vieron hebreos 3 9 mis obras cuarenta anos hebreos 3 10 siempre andan vagando en su corazon y no han conocido mis caminos hebreos 3 12 corazon malo de incredulidad para apartarse del Dios vivo hebreos 4 13 y no hay cosa creada que no sea manifiesta en su presencia antes bien todas las cosas estan desnudas y abiertas a los ojos de aquel a quien tenemos que dar cuenta se sento moises a juzgar al pueblo desde manana hasta tarde alli estaba la experiencia y vivencia de jetro padre de la esposa de moises dijo que es esto que haces tu con el pueblo por que te sientas tu solo y todo el pueblo esta delante de ti desde la manana hasta la tarde moises contesta porque el pueblo viene a mi para consultar a Dios moises le declaraba las ordenanzas de Dios y sus leyes exodo 18 16 no era su oficio dar leyes sino dar a conocer las leyes de Dios porque su cargo era el de un sirviente hebreos 3 5 el tenia que decidir las controversias al juzgar entre un hombre y su companero aquel pueblo era propenso a rinas y peleas por tal razon moises tenia que darle la solucion a lo no resuelto tambien lo eran con Dios peleas chismes murmuraciones no cabe duda entonces que tendria delante de si gran numero de causas que juzgar moises lo hacia con gran constancia y exactitud llego jetro a la vida de moises la prudencia capacidad de pensar hablar con cuidado justicia precaucion y la consideracion meditar reflexionar juzgar brillan en el amistoso consejo de jetro no le gusto el metodo que moises usaba y asi se lo dijo con toda libertad entendio que era demasiada tarea para que la desempenara moises solo se dice hasta en el bien hacer puede haber extralimitacion para que un gobierno respondiera mejor a su objetivo el final que se desea llegar o a la meta que se pretende lograr consistia en que exodo 18 19 tomara para si todas las causas dificiles que requerian una decision divina esta tu a favor del pueblo delante de Dios y somete tu los asuntos tema que se trata a Dios no esta bien lo que haces razon vas a desfallecer exodo 18 17 desfalleceras perder las fuerzas a causa del cansancio desmayarse decaer abatirse flaquear debilitarse desanimarse que habia de tenerse gran cuidado en la eleccion de las personas a quienes hubiese de encomendarse este cargo exodo 18 21 habian de ser hombres de virtud capacidad de producir un determinado efecto positivo habito operativo bueno habitual es una disposicion permanente que inclina de un modo fuerte y firme a una potencia para actuar conforme a la recta razon debian tener la fe esperanza justicia templanza prudencia caridad por obrar bien y correctamente es cualidad positiva que permite producir ciertos efectos fuerza valor poder de obrar y su integridad de animo temerosos de Dios respeto admiracion y sumision someterse sin cuestionarlas a la autoridad o la voluntad de otra persona o a lo que las circunstancias imponen hacia Dios y su voluntad temor al juicio final porque en ese juicio final todo sera tal cual son o han sido las cosas no acomodado al infierno o a la omnipotencia de Dios temer cercana a las ideas de respeto admiracion y sumision hacia Dios y su voluntad varones de verdad conformidad de las cosas con el concepto que de ellos forma la mente nunca confundir la verdad tener la certeza de las cosas con la realidad ligada del conocimiento y asi obtener resultados que no se pueden poner en cuestionamientos ni que pueda ser objetado oponer refutar contestar sino que resulte evidente con seguridad y certeza aborrezcan la avaricia afan de poseer muchas riquezas por el solo placer de atesorarlos sin compartirlas con nadie vicio y le impide usar de los bienes que posee proverbios 15 16 mejor es lo poco con el temor de jehova que el gran tesoro donde hay turbacion 1 samuel 25 11 he de tomar yo ahora mi pan mi agua y la carne que he preparado para mis esquiladores y darla a los hombres que no se de donde son insensato y duro para con sus semejantes proverbios 30 8 9 vanidad y palabra mentirosa aparta de mi no me des pobreza ni riquezas mantenme del pan necesario no sea que me sacie y te niegue y diga quien es jehova o que siendo pobre hurte y blasfeme el nombre de mi Dios moises no desprecio este consejo sino que oyo la voz de su suegro le habia traido a la esposa e hijos",
+    "alias_busqueda": [
+      "Estudio 1180",
+      "Éxodo",
+      "Éxodo 18",
+      "Éxodo 18:13-24",
+      "juicio",
+      "arrepentimiento",
+      "prudencia",
+      "perseverancia",
+      "Sabiduría espiritual",
+      "Verdad"
+    ]
+  },
+  "revision_manual": {
+    "requiere_revision": false,
+    "motivo": ""
+  },
+  "ui": {
+    "mostrar_credito_en_header": true,
+    "mostrar_numero_estudio": true,
+    "mostrar_fecha": true,
+    "mostrar_topicos": true,
+    "permitir_favorito": true,
+    "permitir_compartir": true
+  }
+}

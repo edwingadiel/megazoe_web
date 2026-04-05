@@ -1,0 +1,494 @@
+{
+  "id": "estudio-1477-estudio-1477",
+  "slug": "estudio-1477-estudio-1477",
+  "numero_estudio": 1477,
+  "tipo_estudio": "Iglesia en las casas",
+  "ministerio": {
+    "iglesia": "Iglesia Cristiana Mega Zoe",
+    "pastora": "Pastora Edith Cruz",
+    "credito_corto": "Iglesia Cristiana Mega Zoe · Pastora Edith Cruz",
+    "credito_largo": "Contenido original de Iglesia Cristiana Mega Zoe, conservando el crédito ministerial correspondiente a la Pastora Edith Cruz."
+  },
+  "identidad_editorial": {
+    "idioma": "es",
+    "fuente_original": "documento_word",
+    "archivo_origen": "/Users/edwingadiel/Desktop/Estudios en Word/Estudio #1477 Tu fe te consolida - 2 Pedro 1 10.docx",
+    "estado_revision": "procesado",
+    "version_schema": "1.0"
+  },
+  "encabezado": {
+    "titulo": "Tu Fe Te Consolida",
+    "subtitulo": null,
+    "cita_principal": "2 Pedro 1:10",
+    "resumen_corto": "Tu Fe Te Consolida llama a afirmar la vida espiritual y afirmarse en la resurrección de Cristo."
+  },
+  "fechas": {
+    "fecha_inicio": null,
+    "fecha_fin": null,
+    "fecha_texto_original": "",
+    "ano": null
+  },
+  "clasificacion_biblica": {
+    "libro_principal": "2 Pedro",
+    "capitulo_principal": 1,
+    "versiculos_principales": [
+      10
+    ],
+    "referencia_principal_normalizada": "2 Pedro 1:10",
+    "testamento_principal": "Nuevo Testamento"
+  },
+  "clasificacion_tematica": {
+    "topicos": [
+      "Fortaleza espiritual",
+      "Salvación",
+      "Resurrección de Cristo",
+      "Fe"
+    ],
+    "keywords": [
+      "falsos maestros",
+      "arrepentimiento",
+      "salvación",
+      "perseverancia",
+      "mundo"
+    ]
+  },
+  "referencias_biblicas": [
+    {
+      "referencia": "2 Pedro 1:10",
+      "referencia_normalizada": "2 Pedro 1:10",
+      "libro": "2 Pedro",
+      "capitulo": 1,
+      "versiculos": [
+        10
+      ],
+      "tipo": "principal",
+      "clickeable": true
+    },
+    {
+      "referencia": "Efesios 4:1",
+      "referencia_normalizada": "Efesios 4:1",
+      "libro": "Efesios",
+      "capitulo": 4,
+      "versiculos": [
+        1
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Isaías 41:10",
+      "referencia_normalizada": "Isaías 41:10",
+      "libro": "Isaías",
+      "capitulo": 41,
+      "versiculos": [
+        10
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Isaías 41:12",
+      "referencia_normalizada": "Isaías 41:12",
+      "libro": "Isaías",
+      "capitulo": 41,
+      "versiculos": [
+        12
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "1 Corintios 16:13",
+      "referencia_normalizada": "1 Corintios 16:13",
+      "libro": "1 Corintios",
+      "capitulo": 16,
+      "versiculos": [
+        13
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "1 Corintios 15:58",
+      "referencia_normalizada": "1 Corintios 15:58",
+      "libro": "1 Corintios",
+      "capitulo": 15,
+      "versiculos": [
+        58
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Salmos 4:8",
+      "referencia_normalizada": "Salmos 4:8",
+      "libro": "Salmos",
+      "capitulo": 4,
+      "versiculos": [
+        8
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Salmos 27:3",
+      "referencia_normalizada": "Salmos 27:3",
+      "libro": "Salmos",
+      "capitulo": 27,
+      "versiculos": [
+        3
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Juan 18:5-9",
+      "referencia_normalizada": "Juan 18:5-9",
+      "libro": "Juan",
+      "capitulo": 18,
+      "versiculos": [
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Juan 18:3",
+      "referencia_normalizada": "Juan 18:3",
+      "libro": "Juan",
+      "capitulo": 18,
+      "versiculos": [
+        3
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Juan 18:11",
+      "referencia_normalizada": "Juan 18:11",
+      "libro": "Juan",
+      "capitulo": 18,
+      "versiculos": [
+        11
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    }
+  ],
+  "contenido": {
+    "introduccion": null,
+    "secciones": [],
+    "contenido_completo": "La fe me ha llevado a consolidar mi vida. Me ha dado firmeza y solidez. La fe me ha llevado a reunir, volver a juntar lo que antes se había perdido, quebrado o roto, de tal modo que ha hecho que todo quede firme en mi vida.\n\n(2 Pedro 1:10) Por lo cual, hermanos, tanto más procurad hacer firme.\n\nVuestra vocación: inspiración con que Dios llama.\n\nEs un llamamiento que Dios hace oír al hombre que ha escogido y al que destina a una obra en particular en su designio (propósito, proyecto) de salvación y el destino de su pueblo.\n\n(Efesios 4:1) Se le apremia (apurar) a \"andar\" como es digno de su vocación.\n\nLa posición a la que la gracia nos ha elevado ha sido el tema dominante hasta ahora.\n\nDesde ahora será la relación, acción de profesar al aplicar los conocimientos, con la finalidad de mejorar en la disciplina que se practica en este caso la consolidación, esa \"fe\" que me lleva a ruinas (pecado de mis males, odio, etc.) y volver lo que se había perdido en el mundo, pero ahora tengo firmeza y solidez.\n\n\"Nuestra exaltada posición en Cristo demanda 'una' correspondiente conducta piadosa.\"\n\n(2 Pedro 1:10) Confirmen (demuestren que es definitivamente cierto) su \"llamamiento y elección\".\n\nEstas son dos facetas del plan de Dios para la salvación.\n\nLa \"elección\" a Su soberana y eterna salvación de personas individuales para que le pertenezcan.\n\nLlamamiento tiene referencia a Su acción (obra, acto) \"en el tiempo\" por la que se hace evidente la selección (preferencia).\n\nNuestra \"elección\" tuvo lugar antes que el mundo fuese creado; nuestro \"llamamiento\" tiene lugar cuando nos convertimos. Firmeza, seguridad y solidez.\n\nCronológicamente, lo primero es la elección y luego el llamamiento.\n\nLa fe; me \"fortalece\" (Isaías 41:10).\n\n¿Qué se puede temer yendo de la mano de Dios?\n\nAunque sus enemigos aparezcan ahora temibles va a llegar el día en que Dios les pedirá cuentas.\n\nHay quienes están enfurecidos contra el pueblo de Dios y contienden con él y le hacen la guerra, porque le odian (Isaías 41:12).\n\nEl objeto de estos versículos es acallar los temores y animar la fe, de los siervos de Dios en sus aflicciones.\n\nVa contra Dios la intensión el que Su pueblo sea un pueblo miedoso.\n\nTienen que depender de Su presencia entre ellos como su Dios.\n\nEsto se repite continuamente en esta porción: Yo estoy contigo… Yo soy tu Dios, Yo te doy vigor, Yo te ayudaré y siempre te sostendré con la diestra de Mi justicia.\n\n\"No temas\", porque Yo estoy contigo; no desmayes, porque Yo soy tu Dios que te esfuerzo; siempre te ayudaré, siempre te sustentaré con la diestra de Mi justicia.\n\nLa firmeza es constancia, fuerza moral de quien \"no se deja dominar ni abatir\".\n\nEres o no eres estable o firme.\n\nFirmeza a nivel físico, firmeza emocional y firmeza mental.\n\n(1 Corintios 16:13) \"Manténganse constantemente 'firmes' en la fe.\"\n\nPortarse \"varonilmente\" y ser \"fuertes\".\n\nQuizá Pablo está pensando en el peligro de los falsos maestros.\n\nLos santos han de estar en guardia en todo tiempo.\n\nNo deben ceder ni el más pequeño trozo de territorio vital (vida).\n\nDeben comportarse con verdadero valor.\n\nHan de ser fuertes \"en el Señor\".\n\n\"Todas aquellas cosas\" que hagan, deben hacerlas \"con amor\".\n\nEsto significará vidas de devoción a Dios y a los demás.\n\nSignificará que se darán a sí mismos.\n\n(1 Corintios 15:58) Así a la vista de la certidumbre (certeza, evidencia) de la resurrección y del hecho de que la fe en Cristo \"no es en vano\", el Apóstol Pablo exhorta a sus hermanos amados a ser \"firmes\" y \"constantes\", abundando (tiene en gran cantidad) \"en la obra del Señor siempre, sabiendo que su trabajo en el Señor no es en vano\".\n\nLa verdad de la resurrección lo cambia todo.\n\nDa esperanza y \"firmeza\" y nos capacita para proseguir frente a circunstancias difíciles.\n\n(Salmos 4:8) \"Asegurado\" de la total suficiencia del Señor, se apacigua la agitación en el interior del salmista.\n\nAhora puede acostarse en paz y dormir, \"sabiendo que es Jehová quien le hace \"vivir confiado\".\n\n(Salmos 27:3) ¿A quién temeré?\n\n(Juan 18:5-9) Juan nos relata cómo la banda que vino para arrestar a Jesús en Getsemaní consistía en \"un grupo de soldados\", varios \"oficiales\" del \"sumo sacerdote\" y \"numerosos fariseos\".\n\nVinieron con linternas, con antorchas y con armas (Juan 18:3).\n\nViéndolos acercarse Él podía decir con \"perfecta compostura: (firmeza, fortaleza, dureza) \"Aunque un ejército acampe contra mí, no temerá mi corazón; Aunque contra mí se levante guerra, Yo estaré confiado.\"\n\nEl pobre Pedro intento defender a su Maestro y le cortó la oreja al criado del sumo sacerdote.\n\nPero Jesús dijo a Pedro: La copa que el Padre me ha dado, ¿no la he de beber? (Juan 18:11).\n\nSu único deseo era morar con Dios y puesto que la senda a la gloria tenía que pasar por la cruz, Él estaba dispuesto a sufrir \"los dolores y la vergüenza\".\n\nHay algo inconquistable acerca de las personas que buscan: \"una sola cosa\".\n\nSaben lo que quieren y están empeñados en conseguirlo.\n\nNada puede impedírselo. Amén",
+    "contenido_renderizado": [
+      {
+        "tipo": "parrafo",
+        "texto": "La fe me ha llevado a consolidar mi vida. Me ha dado firmeza y solidez. La fe me ha llevado a reunir, volver a juntar lo que antes se había perdido, quebrado o roto, de tal modo que ha hecho que todo quede firme en mi vida.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(2 Pedro 1:10) Por lo cual, hermanos, tanto más procurad hacer firme.",
+        "referencias_inline": [
+          "2 Pedro 1:10"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Vuestra vocación: inspiración con que Dios llama.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Es un llamamiento que Dios hace oír al hombre que ha escogido y al que destina a una obra en particular en su designio (propósito, proyecto) de salvación y el destino de su pueblo.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Efesios 4:1) Se le apremia (apurar) a \"andar\" como es digno de su vocación.",
+        "referencias_inline": [
+          "Efesios 4:1"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "La posición a la que la gracia nos ha elevado ha sido el tema dominante hasta ahora.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Desde ahora será la relación, acción de profesar al aplicar los conocimientos, con la finalidad de mejorar en la disciplina que se practica en este caso la consolidación, esa \"fe\" que me lleva a ruinas (pecado de mis males, odio, etc.) y volver lo que se había perdido en el mundo, pero ahora tengo firmeza y solidez.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "\"Nuestra exaltada posición en Cristo demanda 'una' correspondiente conducta piadosa.\"",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(2 Pedro 1:10) Confirmen (demuestren que es definitivamente cierto) su \"llamamiento y elección\".",
+        "referencias_inline": [
+          "2 Pedro 1:10"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Estas son dos facetas del plan de Dios para la salvación.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "La \"elección\" a Su soberana y eterna salvación de personas individuales para que le pertenezcan.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Llamamiento tiene referencia a Su acción (obra, acto) \"en el tiempo\" por la que se hace evidente la selección (preferencia).",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Nuestra \"elección\" tuvo lugar antes que el mundo fuese creado; nuestro \"llamamiento\" tiene lugar cuando nos convertimos. Firmeza, seguridad y solidez.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Cronológicamente, lo primero es la elección y luego el llamamiento.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "La fe; me \"fortalece\" (Isaías 41:10).",
+        "referencias_inline": [
+          "Isaías 41:10"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "¿Qué se puede temer yendo de la mano de Dios?",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Aunque sus enemigos aparezcan ahora temibles va a llegar el día en que Dios les pedirá cuentas.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Hay quienes están enfurecidos contra el pueblo de Dios y contienden con él y le hacen la guerra, porque le odian (Isaías 41:12).",
+        "referencias_inline": [
+          "Isaías 41:12"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "El objeto de estos versículos es acallar los temores y animar la fe, de los siervos de Dios en sus aflicciones.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Va contra Dios la intensión el que Su pueblo sea un pueblo miedoso.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Tienen que depender de Su presencia entre ellos como su Dios.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Esto se repite continuamente en esta porción: Yo estoy contigo… Yo soy tu Dios, Yo te doy vigor, Yo te ayudaré y siempre te sostendré con la diestra de Mi justicia.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "\"No temas\", porque Yo estoy contigo; no desmayes, porque Yo soy tu Dios que te esfuerzo; siempre te ayudaré, siempre te sustentaré con la diestra de Mi justicia.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "La firmeza es constancia, fuerza moral de quien \"no se deja dominar ni abatir\".",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Eres o no eres estable o firme.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Firmeza a nivel físico, firmeza emocional y firmeza mental.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(1 Corintios 16:13) \"Manténganse constantemente 'firmes' en la fe.\"",
+        "referencias_inline": [
+          "1 Corintios 16:13"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Portarse \"varonilmente\" y ser \"fuertes\".",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Quizá Pablo está pensando en el peligro de los falsos maestros.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Los santos han de estar en guardia en todo tiempo.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "No deben ceder ni el más pequeño trozo de territorio vital (vida).",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Deben comportarse con verdadero valor.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Han de ser fuertes \"en el Señor\".",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "\"Todas aquellas cosas\" que hagan, deben hacerlas \"con amor\".",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Esto significará vidas de devoción a Dios y a los demás.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Significará que se darán a sí mismos.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(1 Corintios 15:58) Así a la vista de la certidumbre (certeza, evidencia) de la resurrección y del hecho de que la fe en Cristo \"no es en vano\", el Apóstol Pablo exhorta a sus hermanos amados a ser \"firmes\" y \"constantes\", abundando (tiene en gran cantidad) \"en la obra del Señor siempre, sabiendo que su trabajo en el Señor no es en vano\".",
+        "referencias_inline": [
+          "1 Corintios 15:58"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "La verdad de la resurrección lo cambia todo.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Da esperanza y \"firmeza\" y nos capacita para proseguir frente a circunstancias difíciles.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Salmos 4:8) \"Asegurado\" de la total suficiencia del Señor, se apacigua la agitación en el interior del salmista.",
+        "referencias_inline": [
+          "Salmos 4:8"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Ahora puede acostarse en paz y dormir, \"sabiendo que es Jehová quien le hace \"vivir confiado\".",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Salmos 27:3) ¿A quién temeré?",
+        "referencias_inline": [
+          "Salmos 27:3"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Juan 18:5-9) Juan nos relata cómo la banda que vino para arrestar a Jesús en Getsemaní consistía en \"un grupo de soldados\", varios \"oficiales\" del \"sumo sacerdote\" y \"numerosos fariseos\".",
+        "referencias_inline": [
+          "Juan 18:5-9"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Vinieron con linternas, con antorchas y con armas (Juan 18:3).",
+        "referencias_inline": [
+          "Juan 18:3"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Viéndolos acercarse Él podía decir con \"perfecta compostura: (firmeza, fortaleza, dureza) \"Aunque un ejército acampe contra mí, no temerá mi corazón; Aunque contra mí se levante guerra, Yo estaré confiado.\"",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "El pobre Pedro intento defender a su Maestro y le cortó la oreja al criado del sumo sacerdote.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Pero Jesús dijo a Pedro: La copa que el Padre me ha dado, ¿no la he de beber? (Juan 18:11).",
+        "referencias_inline": [
+          "Juan 18:11"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Su único deseo era morar con Dios y puesto que la senda a la gloria tenía que pasar por la cruz, Él estaba dispuesto a sufrir \"los dolores y la vergüenza\".",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Hay algo inconquistable acerca de las personas que buscan: \"una sola cosa\".",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Saben lo que quieren y están empeñados en conseguirlo.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Nada puede impedírselo. Amén",
+        "referencias_inline": []
+      }
+    ]
+  },
+  "busqueda": {
+    "texto_indexable": "tu fe te consolida 2 pedro 1 10 fortaleza espiritual salvacion resurreccion de cristo falsos maestros arrepentimiento salvacion perseverancia mundo la fe me ha llevado a consolidar mi vida me ha dado firmeza y solidez la fe me ha llevado a reunir volver a juntar lo que antes se habia perdido quebrado o roto de tal modo que ha hecho que todo quede firme en mi vida 2 pedro 1 10 por lo cual hermanos tanto mas procurad hacer firme vuestra vocacion inspiracion con que Dios llama es un llamamiento que Dios hace oir al hombre que ha escogido y al que destina a una obra en particular en su designio proposito proyecto de salvacion y el destino de su pueblo efesios 4 1 se le apremia apurar a andar como es digno de su vocacion la posicion a la que la gracia nos ha elevado ha sido el tema dominante hasta ahora desde ahora sera la relacion accion de profesar al aplicar los conocimientos con la finalidad de mejorar en la disciplina que se practica en este caso la consolidacion esa fe que me lleva a ruinas pecado de mis males odio etc y volver lo que se habia perdido en el mundo pero ahora tengo firmeza y solidez nuestra exaltada posicion en cristo demanda una correspondiente conducta piadosa 2 pedro 1 10 confirmen demuestren que es definitivamente cierto su llamamiento y eleccion estas son dos facetas del plan de Dios para la salvacion la eleccion a su soberana y eterna salvacion de personas individuales para que le pertenezcan llamamiento tiene referencia a su accion obra acto en el tiempo por la que se hace evidente la seleccion preferencia nuestra eleccion tuvo lugar antes que el mundo fuese creado nuestro llamamiento tiene lugar cuando nos convertimos firmeza seguridad y solidez cronologicamente lo primero es la eleccion y luego el llamamiento la fe me fortalece isaias 41 10 que se puede temer yendo de la mano de Dios aunque sus enemigos aparezcan ahora temibles va a llegar el dia en que Dios les pedira cuentas hay quienes estan enfurecidos contra el pueblo de Dios y contienden con el y le hacen la guerra porque le odian isaias 41 12 el objeto de estos versiculos es acallar los temores y animar la fe de los siervos de Dios en sus aflicciones va contra Dios la intension el que su pueblo sea un pueblo miedoso tienen que depender de su presencia entre ellos como su Dios esto se repite continuamente en esta porcion yo estoy contigo yo soy tu Dios yo te doy vigor yo te ayudare y siempre te sostendre con la diestra de mi justicia no temas porque yo estoy contigo no desmayes porque yo soy tu Dios que te esfuerzo siempre te ayudare siempre te sustentare con la diestra de mi justicia la firmeza es constancia fuerza moral de quien no se deja dominar ni abatir eres o no eres estable o firme firmeza a nivel fisico firmeza emocional y firmeza mental 1 corintios 16 13 mantenganse constantemente firmes en la fe portarse varonilmente y ser fuertes quiza pablo esta pensando en el peligro de los falsos maestros los santos han de estar en guardia en todo tiempo no deben ceder ni el mas pequeno trozo de territorio vital vida deben comportarse con verdadero valor han de ser fuertes en el senor todas aquellas cosas que hagan deben hacerlas con amor esto significara vidas de devocion a Dios y a los demas significara que se daran a si mismos 1 corintios 15 58 asi a la vista de la certidumbre certeza evidencia de la resurreccion y del hecho de que la fe en cristo no es en vano el apostol pablo exhorta a sus hermanos amados a ser firmes y constantes abundando tiene en gran cantidad en la obra del senor siempre sabiendo que su trabajo en el senor no es en vano la verdad de la resurreccion lo cambia todo da esperanza y firmeza y nos capacita para proseguir frente a circunstancias dificiles salmo 4 8 asegurado de la total suficiencia del senor se apacigua la agitacion en el interior del salmista ahora puede acostarse en paz y dormir sabiendo que es jehova quien le hace vivir confiado salmo 27 3 a quien temere juan 18 5 9 juan nos relata como la banda que vino para arrestar a Jesus en getsemani consistia en un grupo de soldados varios oficiales del sumo sacerdote y numerosos fariseos vinieron con linternas con antorchas y con armas juan 18 3 viendolos acercarse el podia decir con perfecta compostura firmeza fortaleza dureza aunque un ejercito acampe contra mi no temera mi corazon aunque contra mi se levante guerra yo estare confiado el pobre pedro intento defender a su maestro y le corto la oreja al criado del sumo sacerdote pero Jesus dijo a pedro la copa que el padre me ha dado no la he de beber juan 18 11 su unico deseo era morar con Dios y puesto que la senda a la gloria tenia que pasar por la cruz el estaba dispuesto a sufrir los dolores y la verguenza hay algo inconquistable acerca de las personas que buscan una sola cosa saben lo que quieren y estan empenados en conseguirlo nada puede impedirselo amen",
+    "alias_busqueda": [
+      "Estudio 1477",
+      "2 Pedro",
+      "2 Pedro 1",
+      "2 Pedro 1:10",
+      "falsos maestros",
+      "arrepentimiento",
+      "salvación",
+      "perseverancia",
+      "Fortaleza espiritual"
+    ]
+  },
+  "revision_manual": {
+    "requiere_revision": false,
+    "motivo": ""
+  },
+  "ui": {
+    "mostrar_credito_en_header": true,
+    "mostrar_numero_estudio": true,
+    "mostrar_fecha": true,
+    "mostrar_topicos": true,
+    "permitir_favorito": true,
+    "permitir_compartir": true
+  }
+}

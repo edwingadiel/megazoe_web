@@ -1,0 +1,301 @@
+{
+  "id": "estudio-579-estudio-579",
+  "slug": "estudio-579-estudio-579",
+  "numero_estudio": 579,
+  "tipo_estudio": "Iglesia en las casas",
+  "ministerio": {
+    "iglesia": "Iglesia Cristiana Mega Zoe",
+    "pastora": "Pastora Edith Cruz",
+    "credito_corto": "Iglesia Cristiana Mega Zoe · Pastora Edith Cruz",
+    "credito_largo": "Contenido original de Iglesia Cristiana Mega Zoe, conservando el crédito ministerial correspondiente a la Pastora Edith Cruz."
+  },
+  "identidad_editorial": {
+    "idioma": "es",
+    "fuente_original": "documento_word",
+    "archivo_origen": "/Users/edwingadiel/Desktop/Estudios en Word/Estudio #579 Si Busco Ser Dirigido Y Guiado Por El Espíritu Santo, Veré Las Grandezas ... -Deut. 8 2, Salmos 77 20.docx",
+    "estado_revision": "procesado",
+    "version_schema": "1.0"
+  },
+  "encabezado": {
+    "titulo": "Si busco ser dirigido y guiado por el Espíritu Santo, veré las grandezas de Dios y sus maravillas",
+    "subtitulo": null,
+    "cita_principal": "Deuteronomio 8:2",
+    "resumen_corto": "Si busco ser dirigido y guiado por el Espíritu Santo, veré las grandezas de Dios y sus maravillas llama a permanecer como discípulos de Jesús y vivir en santidad."
+  },
+  "fechas": {
+    "fecha_inicio": "2009-02-17",
+    "fecha_fin": "2009-02-23",
+    "fecha_texto_original": "SEMANA DEL 17 @ 23 DE FEBRERO DE 2009",
+    "ano": 2009
+  },
+  "clasificacion_biblica": {
+    "libro_principal": "Deuteronomio",
+    "capitulo_principal": 8,
+    "versiculos_principales": [
+      2
+    ],
+    "referencia_principal_normalizada": "Deuteronomio 8:2",
+    "testamento_principal": "Antiguo Testamento"
+  },
+  "clasificacion_tematica": {
+    "topicos": [
+      "Guía del Espíritu Santo",
+      "Discipulado",
+      "Santidad"
+    ],
+    "keywords": [
+      "santidad",
+      "arrepentimiento",
+      "redención",
+      "perseverancia",
+      "humildad"
+    ]
+  },
+  "referencias_biblicas": [
+    {
+      "referencia": "Deuteronomio 8:2",
+      "referencia_normalizada": "Deuteronomio 8:2",
+      "libro": "Deuteronomio",
+      "capitulo": 8,
+      "versiculos": [
+        2
+      ],
+      "tipo": "principal",
+      "clickeable": true
+    },
+    {
+      "referencia": "Salmos 77:20",
+      "referencia_normalizada": "Salmos 77:20",
+      "libro": "Salmos",
+      "capitulo": 77,
+      "versiculos": [
+        20
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Proverbios 13:3",
+      "referencia_normalizada": "Proverbios 13:3",
+      "libro": "Proverbios",
+      "capitulo": 13,
+      "versiculos": [
+        3
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Efesios 4:29",
+      "referencia_normalizada": "Efesios 4:29",
+      "libro": "Efesios",
+      "capitulo": 4,
+      "versiculos": [
+        29
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Mateo 10:19",
+      "referencia_normalizada": "Mateo 10:19",
+      "libro": "Mateo",
+      "capitulo": 10,
+      "versiculos": [
+        19
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Isaías 59:21",
+      "referencia_normalizada": "Isaías 59:21",
+      "libro": "Isaías",
+      "capitulo": 59,
+      "versiculos": [
+        21
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Mateo 22:15",
+      "referencia_normalizada": "Mateo 22:15",
+      "libro": "Mateo",
+      "capitulo": 22,
+      "versiculos": [
+        15
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Salmos 21:11",
+      "referencia_normalizada": "Salmos 21:11",
+      "libro": "Salmos",
+      "capitulo": 21,
+      "versiculos": [
+        11
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Marcos 10:32",
+      "referencia_normalizada": "Marcos 10:32",
+      "libro": "Marcos",
+      "capitulo": 10,
+      "versiculos": [
+        32
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Lucas 24:50,51",
+      "referencia_normalizada": "Lucas 24:50,51",
+      "libro": "Lucas",
+      "capitulo": 24,
+      "versiculos": [
+        50,
+        51
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Lucas 1:6",
+      "referencia_normalizada": "Lucas 1:6",
+      "libro": "Lucas",
+      "capitulo": 1,
+      "versiculos": [
+        6
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Lucas 1:19",
+      "referencia_normalizada": "Lucas 1:19",
+      "libro": "Lucas",
+      "capitulo": 1,
+      "versiculos": [
+        19
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Lucas 2:25",
+      "referencia_normalizada": "Lucas 2:25",
+      "libro": "Lucas",
+      "capitulo": 2,
+      "versiculos": [
+        25
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    }
+  ],
+  "contenido": {
+    "introduccion": null,
+    "secciones": [],
+    "contenido_completo": "Somos ovejas. A la iglesia viene todo tipo de personas buscando distintas cosas, pero quien debe venir es todo aquel que quiere ser salvo. La imagen de lo que es la iglesia en el mundo se ha trastocado tanto. Para ser guiados por el Señor hay que desaprender de lo que está mal, hay que morir al \"yo\" para ser enseñados por Él. Dios nos quiere guiar como iglesia, pero somos voluntariosos. A mucha gente no le gusta que el Señor los guíe. Pero, el que conoce al Señor persevera hasta el fin. Si creemos al Señor, entonces Él es el que debe guiarnos.\n\nLas ovejas son el ganado menor. Nunca producen un status ni mucho dinero al que es ganadero de ovejas. Así que nosotros, como ovejas no representamos ser lo más grande; el buen pastor es Dios y Él es el grande. Oveja, es un término cariñoso porque la oveja es mansa. Para ser guiado hay que ser manso y al parecer es lo menos que somos, porque somos contestones. Las ovejas caminan una detrás de la otra. Necesitan quien las cuide, porque por naturaleza tienen que ser protegidas, defendidas; no tienen capacidad de ser luchadoras como lo es el lobo. Por eso, nosotros necesitamos ser defendidos, protegidos y cuidados por Dios.\n\nProverbios 13:3 Una oveja no habla, es guiada por el Pastor. El que guarda su boca guarda su alma. Mientras más hablamos, más la calamidad nos cae encima. Tenemos que guardar el alma. Efesios 4:29 Ninguna palabra corrompida debe salir de nuestra boca, sino la necesaria para la edificación. A veces, dejamos de ser ovejas para convertirnos en acusadores. La oveja debe hablar la palabra necesaria para la edificación porque nosotros no tenemos nada para impresionar. Como ovejas debemos depender completamente del Señor como nuestro guía. Tenemos que hablar lo preciso para edificación. La iglesia, que debe ser guiada por el Señor, no puede tener ninguna palabra corrompida, tenemos que hablar siempre para edificar.\n\nMateo 10:19 A veces hablamos como nos conviene a nosotros mismos. Hacemos fiesta con todo el mundo y destrozamos a quien nos place. Isaías 59:21 Dios nos quiere guiar por lo que Él ha dicho. El pondrá en nuestra boca lo que debemos hablar. Él es el guía de nuestras vidas para que nos vaya bien, pero para esto debemos ser mansos. El Espíritu Santo es el que nos toma, nos posee si estamos dispuestos a ser dirigidos por Él en nuestras bocas. El Espíritu Santo nos da su llenura en nuestras vidas, por eso debemos depender de que seamos guiados. Pero, para esto hay que morir todos los días.\n\nMateo 22:15 En nuestra boca Dios ha puesto sus palabras, las nuestras no son las que sirven para sus propósitos. Permitamos que las palabras de Jehová vengan del cielo para ser guiados por Él. Es triste cuando no nos dejamos guiar. El que nos guía es Dios trabajando en nuestras vidas. Cuando Dios nos guía dejamos atrás lo que hay de nosotros. Cuando hacemos nosotros es más cómodo, pero las cosas no salen bien. Cuando Él nos guía, nos aflige y nos prueba, pues quiere saber lo que hay en nuestros corazones. En verdad, el ser humano es difícil, lo menos que le gusta es que Dios le guíe. La naturaleza del hombre es engañosa, el engaño es lo propio.\n\nA las ovejas se les lleva a comer a pastos verdes. Pero, a veces nosotros como ovejas tenemos que pasar por el desierto. Nada en nuestra vida nos da las cualidades como para pasar un desierto solo, pero aunque no nos guste, nos es necesario para que nos conozcamos. Hay que conocerse uno mismo. Nos gustan las cosas fáciles, como los pastos verdes, pero Dios quiere que conozcamos la experiencia de sus cuidos en el difícil desierto. Dependamos de los cuidos de Dios, que nos guíe. Jehová nos tiene que meter en el desierto, porque ahí Él nos va a guiar, nos va a proveer y a librar de todo mal. En el desierto es que está la enseñanza. El desierto es cuando queremos vivir en santidad y morir a nosotros. Dios nos lleva a ese desierto porque ahí es que está la enseñanza. Nos podremos encontrar en mucho peligro, pero Él nos va a proteger. El quiere de nosotros la humildad por medio de la disciplina divina. Dios nos tiene que meter al desierto para enseñarnos a ser guardados del orgullo. Nosotros no podemos hacer nada si no es por el Señor que nos guía y nos cuida.\n\nA aquel pueblo se le estaba probando en la obediencia. Jehová nos lleva a vivir unas cosas y nos guía desde que estamos en el vientre de nuestras madres, porque nos preparó desde la eternidad. Él quiere que vivamos ciertas aflicciones. El Padre quiere saber de nosotros cuan obedientes somos, para que seamos guiados y así tener una vida más plena. Nos escogió Dios y nos llamó por nuestro nombre.\n\nSalmo 21:11 Jehová nos enseña el camino y nos guía por sendas de rectitud. Si caminamos en el camino de Dios tenemos sus cuidos, sus protecciones y bendiciones. Una oveja no puede defenderse por ella misma por su naturaleza de fragilidad. Si Dios quita Su protección, quedaremos destrozados por el enemigo y nosotros tenemos muchos enemigos. Necesitamos saber el camino de la rectitud y a eso nadie nos puede guiar, sino solamente Dios. Es mejor que Dios nos guíe por el camino de rectitud. A quien le servimos es a la cruz. No tuvimos que pagar nada, entonces, ¿cómo hemos de caminar igual que los demás?\n\nMarcos 10:32 Jesús guía a sus discípulos, Él va delante de nosotros. Él nos dice por donde debemos ir. Jesús no tiene ningún tipo de temor, porque Él sabía siempre a qué se iba a enfrentar. Porque Él amaba la voluntad del Padre. Jesús fue el intrépido guía, el autor y consumador de la fe que vino para guiarnos. Entonces, ¿por qué temer? Lo propio de Él es, no fallar. Debemos despertar y seguirle a Él. Lucas 24:50,51 Ya Jesús había consumado la redención. Se nos quitó todo mal, Él se hizo responsable para guiarnos hasta el fin. Él pone en nuestras vidas \"el querer\", así como también \"el hacer\" de su voluntad.\n\nPara ser guiados hay que dejarse guiar. Es una disciplina que tiene que salir de nuestras vidas. Lucas 1:6 Cuando hemos tomado la decisión de servirle al Señor, entonces Él decide guiar nuestras vidas. Él lo va a hacer, pero debemos dejarnos guiar. Lucas 1:19 Para Dios guiarnos en su voluntad necesitamos buscar ser personas irreprensibles en todos las ordenanzas y mandamientos del Señor. Lucas 2:25 Simeón dirigido y guiado por el Espíritu Santo llegó a tener y a contemplar a Jesús en sus manos. Nosotros también, si buscamos ser dirigidos y guiados por el Espíritu Santo, veremos las grandezas de Dios y muchas de sus maravillas. Amén.",
+    "contenido_renderizado": [
+      {
+        "tipo": "parrafo",
+        "texto": "Somos ovejas. A la iglesia viene todo tipo de personas buscando distintas cosas, pero quien debe venir es todo aquel que quiere ser salvo. La imagen de lo que es la iglesia en el mundo se ha trastocado tanto. Para ser guiados por el Señor hay que desaprender de lo que está mal, hay que morir al \"yo\" para ser enseñados por Él. Dios nos quiere guiar como iglesia, pero somos voluntariosos. A mucha gente no le gusta que el Señor los guíe. Pero, el que conoce al Señor persevera hasta el fin. Si creemos al Señor, entonces Él es el que debe guiarnos.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Las ovejas son el ganado menor. Nunca producen un status ni mucho dinero al que es ganadero de ovejas. Así que nosotros, como ovejas no representamos ser lo más grande; el buen pastor es Dios y Él es el grande. Oveja, es un término cariñoso porque la oveja es mansa. Para ser guiado hay que ser manso y al parecer es lo menos que somos, porque somos contestones. Las ovejas caminan una detrás de la otra. Necesitan quien las cuide, porque por naturaleza tienen que ser protegidas, defendidas; no tienen capacidad de ser luchadoras como lo es el lobo. Por eso, nosotros necesitamos ser defendidos, protegidos y cuidados por Dios.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Proverbios 13:3 Una oveja no habla, es guiada por el Pastor. El que guarda su boca guarda su alma. Mientras más hablamos, más la calamidad nos cae encima. Tenemos que guardar el alma. Efesios 4:29 Ninguna palabra corrompida debe salir de nuestra boca, sino la necesaria para la edificación. A veces, dejamos de ser ovejas para convertirnos en acusadores. La oveja debe hablar la palabra necesaria para la edificación porque nosotros no tenemos nada para impresionar. Como ovejas debemos depender completamente del Señor como nuestro guía. Tenemos que hablar lo preciso para edificación. La iglesia, que debe ser guiada por el Señor, no puede tener ninguna palabra corrompida, tenemos que hablar siempre para edificar.",
+        "referencias_inline": [
+          "Proverbios 13:3",
+          "Efesios 4:29"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Mateo 10:19 A veces hablamos como nos conviene a nosotros mismos. Hacemos fiesta con todo el mundo y destrozamos a quien nos place. Isaías 59:21 Dios nos quiere guiar por lo que Él ha dicho. El pondrá en nuestra boca lo que debemos hablar. Él es el guía de nuestras vidas para que nos vaya bien, pero para esto debemos ser mansos. El Espíritu Santo es el que nos toma, nos posee si estamos dispuestos a ser dirigidos por Él en nuestras bocas. El Espíritu Santo nos da su llenura en nuestras vidas, por eso debemos depender de que seamos guiados. Pero, para esto hay que morir todos los días.",
+        "referencias_inline": [
+          "Mateo 10:19",
+          "Isaías 59:21"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Mateo 22:15 En nuestra boca Dios ha puesto sus palabras, las nuestras no son las que sirven para sus propósitos. Permitamos que las palabras de Jehová vengan del cielo para ser guiados por Él. Es triste cuando no nos dejamos guiar. El que nos guía es Dios trabajando en nuestras vidas. Cuando Dios nos guía dejamos atrás lo que hay de nosotros. Cuando hacemos nosotros es más cómodo, pero las cosas no salen bien. Cuando Él nos guía, nos aflige y nos prueba, pues quiere saber lo que hay en nuestros corazones. En verdad, el ser humano es difícil, lo menos que le gusta es que Dios le guíe. La naturaleza del hombre es engañosa, el engaño es lo propio.",
+        "referencias_inline": [
+          "Mateo 22:15"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "A las ovejas se les lleva a comer a pastos verdes. Pero, a veces nosotros como ovejas tenemos que pasar por el desierto. Nada en nuestra vida nos da las cualidades como para pasar un desierto solo, pero aunque no nos guste, nos es necesario para que nos conozcamos. Hay que conocerse uno mismo. Nos gustan las cosas fáciles, como los pastos verdes, pero Dios quiere que conozcamos la experiencia de sus cuidos en el difícil desierto. Dependamos de los cuidos de Dios, que nos guíe. Jehová nos tiene que meter en el desierto, porque ahí Él nos va a guiar, nos va a proveer y a librar de todo mal. En el desierto es que está la enseñanza. El desierto es cuando queremos vivir en santidad y morir a nosotros. Dios nos lleva a ese desierto porque ahí es que está la enseñanza. Nos podremos encontrar en mucho peligro, pero Él nos va a proteger. El quiere de nosotros la humildad por medio de la disciplina divina. Dios nos tiene que meter al desierto para enseñarnos a ser guardados del orgullo. Nosotros no podemos hacer nada si no es por el Señor que nos guía y nos cuida.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "A aquel pueblo se le estaba probando en la obediencia. Jehová nos lleva a vivir unas cosas y nos guía desde que estamos en el vientre de nuestras madres, porque nos preparó desde la eternidad. Él quiere que vivamos ciertas aflicciones. El Padre quiere saber de nosotros cuan obedientes somos, para que seamos guiados y así tener una vida más plena. Nos escogió Dios y nos llamó por nuestro nombre.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Salmos 21:11 Jehová nos enseña el camino y nos guía por sendas de rectitud. Si caminamos en el camino de Dios tenemos sus cuidos, sus protecciones y bendiciones. Una oveja no puede defenderse por ella misma por su naturaleza de fragilidad. Si Dios quita Su protección, quedaremos destrozados por el enemigo y nosotros tenemos muchos enemigos. Necesitamos saber el camino de la rectitud y a eso nadie nos puede guiar, sino solamente Dios. Es mejor que Dios nos guíe por el camino de rectitud. A quien le servimos es a la cruz. No tuvimos que pagar nada, entonces, ¿cómo hemos de caminar igual que los demás?",
+        "referencias_inline": [
+          "Salmos 21:11"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Marcos 10:32 Jesús guía a sus discípulos, Él va delante de nosotros. Él nos dice por donde debemos ir. Jesús no tiene ningún tipo de temor, porque Él sabía siempre a qué se iba a enfrentar. Porque Él amaba la voluntad del Padre. Jesús fue el intrépido guía, el autor y consumador de la fe que vino para guiarnos. Entonces, ¿por qué temer? Lo propio de Él es, no fallar. Debemos despertar y seguirle a Él. Lucas 24:50,51 Ya Jesús había consumado la redención. Se nos quitó todo mal, Él se hizo responsable para guiarnos hasta el fin. Él pone en nuestras vidas \"el querer\", así como también \"el hacer\" de su voluntad.",
+        "referencias_inline": [
+          "Marcos 10:32",
+          "Lucas 24:50,51"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Para ser guiados hay que dejarse guiar. Es una disciplina que tiene que salir de nuestras vidas. Lucas 1:6 Cuando hemos tomado la decisión de servirle al Señor, entonces Él decide guiar nuestras vidas. Él lo va a hacer, pero debemos dejarnos guiar. Lucas 1:19 Para Dios guiarnos en su voluntad necesitamos buscar ser personas irreprensibles en todos las ordenanzas y mandamientos del Señor. Lucas 2:25 Simeón dirigido y guiado por el Espíritu Santo llegó a tener y a contemplar a Jesús en sus manos. Nosotros también, si buscamos ser dirigidos y guiados por el Espíritu Santo, veremos las grandezas de Dios y muchas de sus maravillas. Amén.",
+        "referencias_inline": [
+          "Lucas 1:6",
+          "Lucas 1:19",
+          "Lucas 2:25"
+        ]
+      }
+    ]
+  },
+  "busqueda": {
+    "texto_indexable": "si busco ser dirigido y guiado por el espiritu santo vere las grandezas de Dios y sus maravillas deuteronomio 8 2 guia del espiritu santo discipulado santidad santidad arrepentimiento redencion perseverancia humildad somos ovejas a la iglesia viene todo tipo de personas buscando distintas cosas pero quien debe venir es todo aquel que quiere ser salvo la imagen de lo que es la iglesia en el mundo se ha trastocado tanto para ser guiados por el senor hay que desaprender de lo que esta mal hay que morir al yo para ser ensenados por el Dios nos quiere guiar como iglesia pero somos voluntariosos a mucha gente no le gusta que el senor los guie pero el que conoce al senor persevera hasta el fin si creemos al senor entonces el es el que debe guiarnos las ovejas son el ganado menor nunca producen un status ni mucho dinero al que es ganadero de ovejas asi que nosotros como ovejas no representamos ser lo mas grande el buen pastor es Dios y el es el grande oveja es un termino carinoso porque la oveja es mansa para ser guiado hay que ser manso y al parecer es lo menos que somos porque somos contestones las ovejas caminan una detras de la otra necesitan quien las cuide porque por naturaleza tienen que ser protegidas defendidas no tienen capacidad de ser luchadoras como lo es el lobo por eso nosotros necesitamos ser defendidos protegidos y cuidados por Dios proverbios 13 3 una oveja no habla es guiada por el pastor el que guarda su boca guarda su alma mientras mas hablamos mas la calamidad nos cae encima tenemos que guardar el alma efesios 4 29 ninguna palabra corrompida debe salir de nuestra boca sino la necesaria para la edificacion a veces dejamos de ser ovejas para convertirnos en acusadores la oveja debe hablar la palabra necesaria para la edificacion porque nosotros no tenemos nada para impresionar como ovejas debemos depender completamente del senor como nuestro guia tenemos que hablar lo preciso para edificacion la iglesia que debe ser guiada por el senor no puede tener ninguna palabra corrompida tenemos que hablar siempre para edificar mateo 10 19 a veces hablamos como nos conviene a nosotros mismos hacemos fiesta con todo el mundo y destrozamos a quien nos place isaias 59 21 Dios nos quiere guiar por lo que el ha dicho el pondra en nuestra boca lo que debemos hablar el es el guia de nuestras vidas para que nos vaya bien pero para esto debemos ser mansos el espiritu santo es el que nos toma nos posee si estamos dispuestos a ser dirigidos por el en nuestras bocas el espiritu santo nos da su llenura en nuestras vidas por eso debemos depender de que seamos guiados pero para esto hay que morir todos los dias mateo 22 15 en nuestra boca Dios ha puesto sus palabras las nuestras no son las que sirven para sus propositos permitamos que las palabras de jehova vengan del cielo para ser guiados por el es triste cuando no nos dejamos guiar el que nos guia es Dios trabajando en nuestras vidas cuando Dios nos guia dejamos atras lo que hay de nosotros cuando hacemos nosotros es mas comodo pero las cosas no salen bien cuando el nos guia nos aflige y nos prueba pues quiere saber lo que hay en nuestros corazones en verdad el ser humano es dificil lo menos que le gusta es que Dios le guie la naturaleza del hombre es enganosa el engano es lo propio a las ovejas se les lleva a comer a pastos verdes pero a veces nosotros como ovejas tenemos que pasar por el desierto nada en nuestra vida nos da las cualidades como para pasar un desierto solo pero aunque no nos guste nos es necesario para que nos conozcamos hay que conocerse uno mismo nos gustan las cosas faciles como los pastos verdes pero Dios quiere que conozcamos la experiencia de sus cuidos en el dificil desierto dependamos de los cuidos de Dios que nos guie jehova nos tiene que meter en el desierto porque ahi el nos va a guiar nos va a proveer y a librar de todo mal en el desierto es que esta la ensenanza el desierto es cuando queremos vivir en santidad y morir a nosotros Dios nos lleva a ese desierto porque ahi es que esta la ensenanza nos podremos encontrar en mucho peligro pero el nos va a proteger el quiere de nosotros la humildad por medio de la disciplina divina Dios nos tiene que meter al desierto para ensenarnos a ser guardados del orgullo nosotros no podemos hacer nada si no es por el senor que nos guia y nos cuida a aquel pueblo se le estaba probando en la obediencia jehova nos lleva a vivir unas cosas y nos guia desde que estamos en el vientre de nuestras madres porque nos preparo desde la eternidad el quiere que vivamos ciertas aflicciones el padre quiere saber de nosotros cuan obedientes somos para que seamos guiados y asi tener una vida mas plena nos escogio Dios y nos llamo por nuestro nombre salmo 21 11 jehova nos ensena el camino y nos guia por sendas de rectitud si caminamos en el camino de Dios tenemos sus cuidos sus protecciones y bendiciones una oveja no puede defenderse por ella misma por su naturaleza de fragilidad si Dios quita su proteccion quedaremos destrozados por el enemigo y nosotros tenemos muchos enemigos necesitamos saber el camino de la rectitud y a eso nadie nos puede guiar sino solamente Dios es mejor que Dios nos guie por el camino de rectitud a quien le servimos es a la cruz no tuvimos que pagar nada entonces como hemos de caminar igual que los demas marcos 10 32 Jesus guia a sus discipulos el va delante de nosotros el nos dice por donde debemos ir Jesus no tiene ningun tipo de temor porque el sabia siempre a que se iba a enfrentar porque el amaba la voluntad del padre Jesus fue el intrepido guia el autor y consumador de la fe que vino para guiarnos entonces por que temer lo propio de el es no fallar debemos despertar y seguirle a el lucas 24 50 51 ya Jesus habia consumado la redencion se nos quito todo mal el se hizo responsable para guiarnos hasta el fin el pone en nuestras vidas el querer asi como tambien el hacer de su voluntad para ser guiados hay que dejarse guiar es una disciplina que tiene que salir de nuestras vidas lucas 1 6 cuando hemos tomado la decision de servirle al senor entonces el decide guiar nuestras vidas el lo va a hacer pero debemos dejarnos guiar lucas 1 19 para Dios guiarnos en su voluntad necesitamos buscar ser personas irreprensibles en todos las ordenanzas y mandamientos del senor lucas 2 25 simeon dirigido y guiado por el espiritu santo llego a tener y a contemplar a Jesus en sus manos nosotros tambien si buscamos ser dirigidos y guiados por el espiritu santo veremos las grandezas de Dios y muchas de sus maravillas amen",
+    "alias_busqueda": [
+      "Estudio 579",
+      "Deuteronomio",
+      "Deuteronomio 8",
+      "Deuteronomio 8:2",
+      "santidad",
+      "arrepentimiento",
+      "redención",
+      "perseverancia",
+      "Guía del Espíritu Santo",
+      "Discipulado"
+    ]
+  },
+  "revision_manual": {
+    "requiere_revision": false,
+    "motivo": ""
+  },
+  "ui": {
+    "mostrar_credito_en_header": true,
+    "mostrar_numero_estudio": true,
+    "mostrar_fecha": true,
+    "mostrar_topicos": true,
+    "permitir_favorito": true,
+    "permitir_compartir": true
+  }
+}

@@ -1,0 +1,339 @@
+{
+  "id": "estudio-862-te-amo-jehova",
+  "slug": "estudio-862-te-amo-jehova",
+  "numero_estudio": 862,
+  "tipo_estudio": "Iglesia en las casas",
+  "ministerio": {
+    "iglesia": "Iglesia Cristiana Mega Zoe",
+    "pastora": "Pastora Edith Cruz",
+    "credito_corto": "Iglesia Cristiana Mega Zoe · Pastora Edith Cruz",
+    "credito_largo": "Contenido original de Iglesia Cristiana Mega Zoe, conservando el crédito ministerial correspondiente a la Pastora Edith Cruz."
+  },
+  "identidad_editorial": {
+    "idioma": "es",
+    "fuente_original": "documento_word",
+    "archivo_origen": "/Users/edwingadiel/Desktop/Estudios en Word/Estudio #862 Te amo Jehová - Salmos 18 1.docx",
+    "estado_revision": "procesado",
+    "version_schema": "1.0"
+  },
+  "encabezado": {
+    "titulo": "Te Amo Jehová",
+    "subtitulo": null,
+    "cita_principal": "Salmos 18:1",
+    "resumen_corto": "Te Amo Jehová enseña a perseverar en la oración y cuidar la comunión cristiana."
+  },
+  "fechas": {
+    "fecha_inicio": null,
+    "fecha_fin": null,
+    "fecha_texto_original": "",
+    "ano": null
+  },
+  "clasificacion_biblica": {
+    "libro_principal": "Salmos",
+    "capitulo_principal": 18,
+    "versiculos_principales": [
+      1
+    ],
+    "referencia_principal_normalizada": "Salmos 18:1",
+    "testamento_principal": "Antiguo Testamento"
+  },
+  "clasificacion_tematica": {
+    "topicos": [
+      "Oración",
+      "Salvación",
+      "Comunión cristiana"
+    ],
+    "keywords": [
+      "primer amor",
+      "falsos maestros",
+      "amor fraternal",
+      "oración",
+      "Éfeso",
+      "salvación",
+      "evangelio",
+      "escogidos",
+      "corazón"
+    ]
+  },
+  "referencias_biblicas": [
+    {
+      "referencia": "Salmos 18:1",
+      "referencia_normalizada": "Salmos 18:1",
+      "libro": "Salmos",
+      "capitulo": 18,
+      "versiculos": [
+        1
+      ],
+      "tipo": "principal",
+      "clickeable": true
+    },
+    {
+      "referencia": "Salmos 18",
+      "referencia_normalizada": "Salmos 18",
+      "libro": "Salmos",
+      "capitulo": 18,
+      "versiculos": [],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Salmos 73:25",
+      "referencia_normalizada": "Salmos 73:25",
+      "libro": "Salmos",
+      "capitulo": 73,
+      "versiculos": [
+        25
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "1 Crónicas 29:3",
+      "referencia_normalizada": "1 Crónicas 29:3",
+      "libro": "1 Crónicas",
+      "capitulo": 29,
+      "versiculos": [
+        3
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Salmos 26:8",
+      "referencia_normalizada": "Salmos 26:8",
+      "libro": "Salmos",
+      "capitulo": 26,
+      "versiculos": [
+        8
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Salmos 23:6",
+      "referencia_normalizada": "Salmos 23:6",
+      "libro": "Salmos",
+      "capitulo": 23,
+      "versiculos": [
+        6
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Salmos 27:4",
+      "referencia_normalizada": "Salmos 27:4",
+      "libro": "Salmos",
+      "capitulo": 27,
+      "versiculos": [
+        4
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Mateo 24:22",
+      "referencia_normalizada": "Mateo 24:22",
+      "libro": "Mateo",
+      "capitulo": 24,
+      "versiculos": [
+        22
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Apocalipsis 2:4",
+      "referencia_normalizada": "Apocalipsis 2:4",
+      "libro": "Apocalipsis",
+      "capitulo": 2,
+      "versiculos": [
+        4
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Jeremías 22:9",
+      "referencia_normalizada": "Jeremías 22:9",
+      "libro": "Jeremías",
+      "capitulo": 22,
+      "versiculos": [
+        9
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Efesios 1:15",
+      "referencia_normalizada": "Efesios 1:15",
+      "libro": "Efesios",
+      "capitulo": 1,
+      "versiculos": [
+        15
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Filipenses 4:1",
+      "referencia_normalizada": "Filipenses 4:1",
+      "libro": "Filipenses",
+      "capitulo": 4,
+      "versiculos": [
+        1
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "1 Tesalonicenses 2:8",
+      "referencia_normalizada": "1 Tesalonicenses 2:8",
+      "libro": "1 Tesalonicenses",
+      "capitulo": 2,
+      "versiculos": [
+        8
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "1 Pedro 1:22",
+      "referencia_normalizada": "1 Pedro 1:22",
+      "libro": "1 Pedro",
+      "capitulo": 1,
+      "versiculos": [
+        22
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "1 Pedro 2:17",
+      "referencia_normalizada": "1 Pedro 2:17",
+      "libro": "1 Pedro",
+      "capitulo": 2,
+      "versiculos": [
+        17
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "1 Juan 3:14",
+      "referencia_normalizada": "1 Juan 3:14",
+      "libro": "1 Juan",
+      "capitulo": 3,
+      "versiculos": [
+        14
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "2 Juan 1:5",
+      "referencia_normalizada": "2 Juan 1:5",
+      "libro": "2 Juan",
+      "capitulo": 1,
+      "versiculos": [
+        5
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    }
+  ],
+  "contenido": {
+    "introduccion": null,
+    "secciones": [],
+    "contenido_completo": "Se dice que el que quiera ser sabio que lea en la Biblia los Proverbios; el que quiere ser santo que lea los Salmos. De este estudio, sobre el Salmos 18, aprenderemos del amor a Dios y a los hermanos.\n\nNada toca el alma o desespera más en una madre que el grito de su hijo. Y así como el grito de un hijo a los oídos de su madre es nuestra oración al Señor cuando se la elevamos a Él en un verdadero clamor. En tanto que nuestras oraciones sean solo suspiros nuestro Dios puede seguir esperando para hacer a nuestro favor, pero cuando Dios nos ve caer o peligrar entonces: ¡JEHOVÁ SE LEVANTA! Por eso decimos: ¡Jehová, te amaré de todo corazón, con todas mis entrañas! El Dios trino merece el amor más ferviente que pueda salir de nuestros corazones. Ese Dios maravilloso se ha entregado, por así decirlo, a sus creyentes. ¡Es Dios mismo el que es la salvación y la porción de su pueblo! La fe se basa principalmente en Dios MISMO; Él será mi salvación, y eso es: ¡SI LE TENGO! Y esto ya es muy grande: LA SALVACIÓN. ¡ÉL, MI Dios, ES MI SALVACION, MI VIDA, MI CONSUELO, MIS RIQUEZAS, MI HONOR, MI TODO! Por eso decimos como el salmista: ¡Te amo Jehová!\n\nEl salmista también dice en el Salmos 73:25 \"Fuera de ti no quiero nada.\" ¿Qué son las cosas si Dios no está? Amamos a Dios y amamos la casa de Dios. David se expresaba con respecto a la casa de Dios. \"…por cuanto tengo mi afecto en la casa de mi Dios…\" I Crónicas 29:3. El deseo de David era tener un templo para Dios. David era un dador alegre porque amaba el tener un templo para su Señor. ¡Quería forrar las paredes de la casa de su Dios de oro puro! David había buscado y acumulado el oro de la mejor calidad, el oro más estimado, el más puro, el más fino del mundo. (Salmos 26:8 \"Jehová, la habitación de tu casa he amado y el lugar de la morada de tu gloria.\") (Salmos 23:6 \"Y en la casa de Jehová moraré por largos días.\") Nadie ni nada me sacará del lugar más preciado de mi vida, la casa de mi Dios. Ni problemas, ni angustias me impedirán permanecer en la casa del Señor. El que deja la casa de Dios es porque no sabe quién es Dios.\n\nUna señora anciana que durante muchos años ha sido sorda, siempre es de las primeras en sentarse para la hora del culto en su iglesia. Al preguntarle la razón de su asistencia constante y puntual, aunque no pudiera oír el sermón, ella contestó: \"Aunque no puedo oír vengo a la casa de Dios porque quiero hacerlo y quiero que me halle en Sus caminos; y aquí Dios me da pensamientos dulces sobre el texto bíblico que se me indica. Otra razón es que estoy entre la mejor compañía, estoy aquí en la presencia más inmediata de Dios y entre Sus santos, los hermanos, los dignos de la tierra. No estoy satisfecha de servir a mi Dios en privado; mi deber y privilegio es honrarle regularmente en público.\" ¡Qué reprensión hay aquí para los que tienen oídos sanos y que muchas veces ni llegan a la iglesia o que también llegan tarde al sagrado lugar de adoración! ¿Le dirán en el culto a Dios como le dice el salmista y como le diría esta anciana que no puede oír: ¡Te amo Jehová!?\n\nSalmo 27:4 \"Una cosa he demandado a Jehová, ésta buscaré; Que esté yo en la casa de Jehová todos los días de mi vida para contemplar la hermosura de Jehová…\" El hombre de un solo libro es eminente (Un libro: La Biblia) El hombre que tiene un solo y máximo ideal triunfa. Nuestros afectos y nuestros amores, todas las cosas de nuestra vida las debemos reunir como si fueran un ramillete. Ese ramillete de afectos debe estar amarrado y sostenido con un solo lazo alrededor: El lazo de nuestro amor a Dios. Dios es siempre primero, debemos tener una acción resuelta para amarlo más que todo lo demás.\n\nPero, tengamos cautela y velemos porque el amor se enfría. Mateo 24:22 \"Y si aquellos días no fuesen acortados, nadie sería salvo; más por causa de los escogidos, aquellos días serán acortados.\" El amor deja de ser para algunos por muchas razones, pero nosotros debemos luchar para que nuestro amor no se enfríe, ni el amor por nuestro Dios ni el amor por nuestros hermanos. Apocalipsis 2:4 \"Pero tengo contra ti, que has dejado tu primer amor.\" Esto puede querer decir que los hermanos habían perdido su primer entusiasmo. Jeremías 22:9 \"Y se les responderá: Porque dejaron el pacto de Jehová su Dios y adoraron dioses ajenos y les sirvieron.\" Hablaba el profeta Jeremías del pueblo de Dios que había dejado a su Dios. También, en el Apocalipsis se habla de que a los creyentes de la iglesia de Éfeso se les había desaparecido todo el antiguo entusiasmo de la religión. Tal vez, lo que quiere decir es que se les había perdido el primer ardor de amor por la fraternidad, se les había enfriado el amor de hermanos. En sus primeros días los miembros de la iglesia de Éfeso habían estado unidos por un verdadero amor, pero la disensión (la falta de acuerdo o de aceptación) llegó. Entonces, el odio y la contienda asomaron sus feas cabezas. Algún tiempo de descuido y el corazón estuvo dispuesto a inflamarse y a separarse. Lo bueno se había echado a perder. Pudiera ser que los herejes, los falsos maestros, les hubieran matado el amor. Por eso, hay que velar y orar de continuo.\n\nCuando se pierde el amor por Dios, la iglesia cae en la falta de amor por los suyos. Dios se va y con Él también se va el amor que solo viene de Él. En Efesios 1:15 el apóstol Pablo habla de lo importante del amor por los santos. Leemos en Filipenses 4:1 \"Así que, hermanos míos, AMADOS Y DESEADOS…\". Amar hasta estar dispuestos a entregar por amor a los hermanos la propia vida! (1 Tesalonicenses 2:8 \"Tan grande es nuestro AFECTO POR VOSOTROS, que hubiéramos querido entregaros no sólo el evangelio de Dios, sino también nuestras propias vidas; porque habéis llegado a sernos MUY QUERIDOS.\") (1 Pedro 1:22 \"Para EL AMOR FRATERNAL no fingido AMAOS unos a otros entrañablemente, de corazón puro.\") (1 Pedro 2:17 \"AMAD A LOS HERMANOS.\") (I Juan 3:14 \"...sabemos que hemos pasado de muerte a vida en que AMAMOS a los hermanos. EL QUE NO AMA AL HERMANO permanece en muerte.\") (2 Juan 1:5 \"…que nos AMEMOS UNOS A OTROS.\")\n\nSi amamos a Dios, a nuestro gran Dios y Salvador, también podemos amar a los hermanos. Amaremos al Señor como lo primero en la vida y amaremos a nuestros hermanos, queridos compañeros del Camino, los que son nuestra familia de la fe. Amén.",
+    "contenido_renderizado": [
+      {
+        "tipo": "parrafo",
+        "texto": "Se dice que el que quiera ser sabio que lea en la Biblia los Proverbios; el que quiere ser santo que lea los Salmos. De este estudio, sobre el Salmos 18, aprenderemos del amor a Dios y a los hermanos.",
+        "referencias_inline": [
+          "Salmos 18"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Nada toca el alma o desespera más en una madre que el grito de su hijo. Y así como el grito de un hijo a los oídos de su madre es nuestra oración al Señor cuando se la elevamos a Él en un verdadero clamor. En tanto que nuestras oraciones sean solo suspiros nuestro Dios puede seguir esperando para hacer a nuestro favor, pero cuando Dios nos ve caer o peligrar entonces: ¡JEHOVÁ SE LEVANTA! Por eso decimos: ¡Jehová, te amaré de todo corazón, con todas mis entrañas! El Dios trino merece el amor más ferviente que pueda salir de nuestros corazones. Ese Dios maravilloso se ha entregado, por así decirlo, a sus creyentes. ¡Es Dios mismo el que es la salvación y la porción de su pueblo! La fe se basa principalmente en Dios MISMO; Él será mi salvación, y eso es: ¡SI LE TENGO! Y esto ya es muy grande: LA SALVACIÓN. ¡ÉL, MI Dios, ES MI SALVACION, MI VIDA, MI CONSUELO, MIS RIQUEZAS, MI HONOR, MI TODO! Por eso decimos como el salmista: ¡Te amo Jehová!",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "El salmista también dice en el Salmos 73:25 \"Fuera de ti no quiero nada.\" ¿Qué son las cosas si Dios no está? Amamos a Dios y amamos la casa de Dios. David se expresaba con respecto a la casa de Dios. \"…por cuanto tengo mi afecto en la casa de mi Dios…\" I Crónicas 29:3. El deseo de David era tener un templo para Dios. David era un dador alegre porque amaba el tener un templo para su Señor. ¡Quería forrar las paredes de la casa de su Dios de oro puro! David había buscado y acumulado el oro de la mejor calidad, el oro más estimado, el más puro, el más fino del mundo. (Salmos 26:8 \"Jehová, la habitación de tu casa he amado y el lugar de la morada de tu gloria.\") (Salmos 23:6 \"Y en la casa de Jehová moraré por largos días.\") Nadie ni nada me sacará del lugar más preciado de mi vida, la casa de mi Dios. Ni problemas, ni angustias me impedirán permanecer en la casa del Señor. El que deja la casa de Dios es porque no sabe quién es Dios.",
+        "referencias_inline": [
+          "Salmos 73:25",
+          "1 Crónicas 29:3",
+          "Salmos 26:8",
+          "Salmos 23:6"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Una señora anciana que durante muchos años ha sido sorda, siempre es de las primeras en sentarse para la hora del culto en su iglesia. Al preguntarle la razón de su asistencia constante y puntual, aunque no pudiera oír el sermón, ella contestó: \"Aunque no puedo oír vengo a la casa de Dios porque quiero hacerlo y quiero que me halle en Sus caminos; y aquí Dios me da pensamientos dulces sobre el texto bíblico que se me indica. Otra razón es que estoy entre la mejor compañía, estoy aquí en la presencia más inmediata de Dios y entre Sus santos, los hermanos, los dignos de la tierra. No estoy satisfecha de servir a mi Dios en privado; mi deber y privilegio es honrarle regularmente en público.\" ¡Qué reprensión hay aquí para los que tienen oídos sanos y que muchas veces ni llegan a la iglesia o que también llegan tarde al sagrado lugar de adoración! ¿Le dirán en el culto a Dios como le dice el salmista y como le diría esta anciana que no puede oír: ¡Te amo Jehová!?",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Salmos 27:4 \"Una cosa he demandado a Jehová, ésta buscaré; Que esté yo en la casa de Jehová todos los días de mi vida para contemplar la hermosura de Jehová…\" El hombre de un solo libro es eminente (Un libro: La Biblia) El hombre que tiene un solo y máximo ideal triunfa. Nuestros afectos y nuestros amores, todas las cosas de nuestra vida las debemos reunir como si fueran un ramillete. Ese ramillete de afectos debe estar amarrado y sostenido con un solo lazo alrededor: El lazo de nuestro amor a Dios. Dios es siempre primero, debemos tener una acción resuelta para amarlo más que todo lo demás.",
+        "referencias_inline": [
+          "Salmos 27:4"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Pero, tengamos cautela y velemos porque el amor se enfría. Mateo 24:22 \"Y si aquellos días no fuesen acortados, nadie sería salvo; más por causa de los escogidos, aquellos días serán acortados.\" El amor deja de ser para algunos por muchas razones, pero nosotros debemos luchar para que nuestro amor no se enfríe, ni el amor por nuestro Dios ni el amor por nuestros hermanos. Apocalipsis 2:4 \"Pero tengo contra ti, que has dejado tu primer amor.\" Esto puede querer decir que los hermanos habían perdido su primer entusiasmo. Jeremías 22:9 \"Y se les responderá: Porque dejaron el pacto de Jehová su Dios y adoraron dioses ajenos y les sirvieron.\" Hablaba el profeta Jeremías del pueblo de Dios que había dejado a su Dios. También, en el Apocalipsis se habla de que a los creyentes de la iglesia de Éfeso se les había desaparecido todo el antiguo entusiasmo de la religión. Tal vez, lo que quiere decir es que se les había perdido el primer ardor de amor por la fraternidad, se les había enfriado el amor de hermanos. En sus primeros días los miembros de la iglesia de Éfeso habían estado unidos por un verdadero amor, pero la disensión (la falta de acuerdo o de aceptación) llegó. Entonces, el odio y la contienda asomaron sus feas cabezas. Algún tiempo de descuido y el corazón estuvo dispuesto a inflamarse y a separarse. Lo bueno se había echado a perder. Pudiera ser que los herejes, los falsos maestros, les hubieran matado el amor. Por eso, hay que velar y orar de continuo.",
+        "referencias_inline": [
+          "Mateo 24:22",
+          "Apocalipsis 2:4",
+          "Jeremías 22:9"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Cuando se pierde el amor por Dios, la iglesia cae en la falta de amor por los suyos. Dios se va y con Él también se va el amor que solo viene de Él. En Efesios 1:15 el apóstol Pablo habla de lo importante del amor por los santos. Leemos en Filipenses 4:1 \"Así que, hermanos míos, AMADOS Y DESEADOS…\". Amar hasta estar dispuestos a entregar por amor a los hermanos la propia vida! (1 Tesalonicenses 2:8 \"Tan grande es nuestro AFECTO POR VOSOTROS, que hubiéramos querido entregaros no sólo el evangelio de Dios, sino también nuestras propias vidas; porque habéis llegado a sernos MUY QUERIDOS.\") (1 Pedro 1:22 \"Para EL AMOR FRATERNAL no fingido AMAOS unos a otros entrañablemente, de corazón puro.\") (1 Pedro 2:17 \"AMAD A LOS HERMANOS.\") (I Juan 3:14 \"...sabemos que hemos pasado de muerte a vida en que AMAMOS a los hermanos. EL QUE NO AMA AL HERMANO permanece en muerte.\") (2 Juan 1:5 \"…que nos AMEMOS UNOS A OTROS.\")",
+        "referencias_inline": [
+          "Efesios 1:15",
+          "Filipenses 4:1",
+          "1 Tesalonicenses 2:8",
+          "1 Pedro 1:22",
+          "1 Pedro 2:17",
+          "1 Juan 3:14",
+          "2 Juan 1:5"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Si amamos a Dios, a nuestro gran Dios y Salvador, también podemos amar a los hermanos. Amaremos al Señor como lo primero en la vida y amaremos a nuestros hermanos, queridos compañeros del Camino, los que son nuestra familia de la fe. Amén.",
+        "referencias_inline": []
+      }
+    ]
+  },
+  "busqueda": {
+    "texto_indexable": "te amo jehova salmo 18 1 oracion salvacion comunion cristiana primer amor falsos maestros amor fraternal oracion efeso salvacion evangelio escogidos corazon se dice que el que quiera ser sabio que lea en la biblia los proverbios el que quiere ser santo que lea los salmos de este estudio sobre el salmo 18 aprenderemos del amor a Dios y a los hermanos nada toca el alma o desespera mas en una madre que el grito de su hijo y asi como el grito de un hijo a los oidos de su madre es nuestra oracion al senor cuando se la elevamos a el en un verdadero clamor en tanto que nuestras oraciones sean solo suspiros nuestro Dios puede seguir esperando para hacer a nuestro favor pero cuando Dios nos ve caer o peligrar entonces jehova se levanta por eso decimos jehova te amare de todo corazon con todas mis entranas el Dios trino merece el amor mas ferviente que pueda salir de nuestros corazones ese Dios maravilloso se ha entregado por asi decirlo a sus creyentes es Dios mismo el que es la salvacion y la porcion de su pueblo la fe se basa principalmente en Dios mismo el sera mi salvacion y eso es si le tengo y esto ya es muy grande la salvacion el mi Dios es mi salvacion mi vida mi consuelo mis riquezas mi honor mi todo por eso decimos como el salmista te amo jehova el salmista tambien dice en el salmo 73 25 fuera de ti no quiero nada que son las cosas si Dios no esta amamos a Dios y amamos la casa de Dios david se expresaba con respecto a la casa de Dios por cuanto tengo mi afecto en la casa de mi Dios i cronicas 29 3 el deseo de david era tener un templo para Dios david era un dador alegre porque amaba el tener un templo para su senor queria forrar las paredes de la casa de su Dios de oro puro david habia buscado y acumulado el oro de la mejor calidad el oro mas estimado el mas puro el mas fino del mundo salmo 26 8 jehova la habitacion de tu casa he amado y el lugar de la morada de tu gloria salmo 23 6 y en la casa de jehova morare por largos dias nadie ni nada me sacara del lugar mas preciado de mi vida la casa de mi Dios ni problemas ni angustias me impediran permanecer en la casa del senor el que deja la casa de Dios es porque no sabe quien es Dios una senora anciana que durante muchos anos ha sido sorda siempre es de las primeras en sentarse para la hora del culto en su iglesia al preguntarle la razon de su asistencia constante y puntual aunque no pudiera oir el sermon ella contesto aunque no puedo oir vengo a la casa de Dios porque quiero hacerlo y quiero que me halle en sus caminos y aqui Dios me da pensamientos dulces sobre el texto biblico que se me indica otra razon es que estoy entre la mejor compania estoy aqui en la presencia mas inmediata de Dios y entre sus santos los hermanos los dignos de la tierra no estoy satisfecha de servir a mi Dios en privado mi deber y privilegio es honrarle regularmente en publico que reprension hay aqui para los que tienen oidos sanos y que muchas veces ni llegan a la iglesia o que tambien llegan tarde al sagrado lugar de adoracion le diran en el culto a Dios como le dice el salmista y como le diria esta anciana que no puede oir te amo jehova salmo 27 4 una cosa he demandado a jehova esta buscare que este yo en la casa de jehova todos los dias de mi vida para contemplar la hermosura de jehova el hombre de un solo libro es eminente un libro la biblia el hombre que tiene un solo y maximo ideal triunfa nuestros afectos y nuestros amores todas las cosas de nuestra vida las debemos reunir como si fueran un ramillete ese ramillete de afectos debe estar amarrado y sostenido con un solo lazo alrededor el lazo de nuestro amor a Dios Dios es siempre primero debemos tener una accion resuelta para amarlo mas que todo lo demas pero tengamos cautela y velemos porque el amor se enfria mateo 24 22 y si aquellos dias no fuesen acortados nadie seria salvo mas por causa de los escogidos aquellos dias seran acortados el amor deja de ser para algunos por muchas razones pero nosotros debemos luchar para que nuestro amor no se enfrie ni el amor por nuestro Dios ni el amor por nuestros hermanos apocalipsis 2 4 pero tengo contra ti que has dejado tu primer amor esto puede querer decir que los hermanos habian perdido su primer entusiasmo jeremias 22 9 y se les respondera porque dejaron el pacto de jehova su Dios y adoraron dioses ajenos y les sirvieron hablaba el profeta jeremias del pueblo de Dios que habia dejado a su Dios tambien en el apocalipsis se habla de que a los creyentes de la iglesia de efeso se les habia desaparecido todo el antiguo entusiasmo de la religion tal vez lo que quiere decir es que se les habia perdido el primer ardor de amor por la fraternidad se les habia enfriado el amor de hermanos en sus primeros dias los miembros de la iglesia de efeso habian estado unidos por un verdadero amor pero la disension la falta de acuerdo o de aceptacion llego entonces el odio y la contienda asomaron sus feas cabezas algun tiempo de descuido y el corazon estuvo dispuesto a inflamarse y a separarse lo bueno se habia echado a perder pudiera ser que los herejes los falsos maestros les hubieran matado el amor por eso hay que velar y orar de continuo cuando se pierde el amor por Dios la iglesia cae en la falta de amor por los suyos Dios se va y con el tambien se va el amor que solo viene de el en efesios 1 15 el apostol pablo habla de lo importante del amor por los santos leemos en filipenses 4 1 asi que hermanos mios amados y deseados amar hasta estar dispuestos a entregar por amor a los hermanos la propia vida 1 tesalonicenses 2 8 tan grande es nuestro afecto por vosotros que hubieramos querido entregaros no solo el evangelio de Dios sino tambien nuestras propias vidas porque habeis llegado a sernos muy queridos 1 pedro 1 22 para el amor fraternal no fingido amaos unos a otros entranablemente de corazon puro 1 pedro 2 17 amad a los hermanos i juan 3 14 sabemos que hemos pasado de muerte a vida en que amamos a los hermanos el que no ama al hermano permanece en muerte 2 juan 1 5 que nos amemos unos a otros si amamos a Dios a nuestro gran Dios y salvador tambien podemos amar a los hermanos amaremos al senor como lo primero en la vida y amaremos a nuestros hermanos queridos companeros del camino los que son nuestra familia de la fe amen",
+    "alias_busqueda": [
+      "Te Amo Jehová",
+      "Salmos",
+      "Salmos 18",
+      "Salmos 18:1",
+      "primer amor",
+      "falsos maestros",
+      "amor fraternal",
+      "oración",
+      "Salvación"
+    ]
+  },
+  "revision_manual": {
+    "requiere_revision": false,
+    "motivo": ""
+  },
+  "ui": {
+    "mostrar_credito_en_header": true,
+    "mostrar_numero_estudio": true,
+    "mostrar_fecha": true,
+    "mostrar_topicos": true,
+    "permitir_favorito": true,
+    "permitir_compartir": true
+  }
+}

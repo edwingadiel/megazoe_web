@@ -1,0 +1,280 @@
+{
+  "id": "estudio-859-cuando-se-desafia-a-Dios",
+  "slug": "estudio-859-cuando-se-desafia-a-Dios",
+  "numero_estudio": 859,
+  "tipo_estudio": "Iglesia en las casas",
+  "ministerio": {
+    "iglesia": "Iglesia Cristiana Mega Zoe",
+    "pastora": "Pastora Edith Cruz",
+    "credito_corto": "Iglesia Cristiana Mega Zoe · Pastora Edith Cruz",
+    "credito_largo": "Contenido original de Iglesia Cristiana Mega Zoe, conservando el crédito ministerial correspondiente a la Pastora Edith Cruz."
+  },
+  "identidad_editorial": {
+    "idioma": "es",
+    "fuente_original": "documento_word",
+    "archivo_origen": "/Users/edwingadiel/Desktop/Estudios en Word/Estudio #859 Cuando se desafía a Dios - Job 38 1.docx",
+    "estado_revision": "procesado",
+    "version_schema": "1.0"
+  },
+  "encabezado": {
+    "titulo": "Cuando Se Desafía a Dios",
+    "subtitulo": null,
+    "cita_principal": "Job 38:1",
+    "resumen_corto": "Cuando Se Desafía a Dios llama a caminar con sabiduría espiritual y perseverar en la oración."
+  },
+  "fechas": {
+    "fecha_inicio": "2015-06-02",
+    "fecha_fin": "2015-06-08",
+    "fecha_texto_original": "SEMANA DEL 2 @ 8 JUNIO DE 2015",
+    "ano": 2015
+  },
+  "clasificacion_biblica": {
+    "libro_principal": "Job",
+    "capitulo_principal": 38,
+    "versiculos_principales": [
+      1
+    ],
+    "referencia_principal_normalizada": "Job 38:1",
+    "testamento_principal": "Antiguo Testamento"
+  },
+  "clasificacion_tematica": {
+    "topicos": [
+      "Sabiduría espiritual",
+      "Oración",
+      "Humildad",
+      "Satanás",
+      "Justicia de Dios"
+    ],
+    "keywords": [
+      "voz de Dios",
+      "oración",
+      "juicio",
+      "pruebas",
+      "humildad",
+      "corazón"
+    ]
+  },
+  "referencias_biblicas": [
+    {
+      "referencia": "Job 38:1",
+      "referencia_normalizada": "Job 38:1",
+      "libro": "Job",
+      "capitulo": 38,
+      "versiculos": [
+        1
+      ],
+      "tipo": "principal",
+      "clickeable": true
+    },
+    {
+      "referencia": "Job 37:1, 2",
+      "referencia_normalizada": "Job 37:1,2",
+      "libro": "Job",
+      "capitulo": 37,
+      "versiculos": [
+        1,
+        2
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Salmos 50:3, 4",
+      "referencia_normalizada": "Salmos 50:3,4",
+      "libro": "Salmos",
+      "capitulo": 50,
+      "versiculos": [
+        3,
+        4
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Job 38:2",
+      "referencia_normalizada": "Job 38:2",
+      "libro": "Job",
+      "capitulo": 38,
+      "versiculos": [
+        2
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Job 38:2,3",
+      "referencia_normalizada": "Job 38:2,3",
+      "libro": "Job",
+      "capitulo": 38,
+      "versiculos": [
+        2,
+        3
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Job 38:21",
+      "referencia_normalizada": "Job 38:21",
+      "libro": "Job",
+      "capitulo": 38,
+      "versiculos": [
+        21
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Job 37:23-24",
+      "referencia_normalizada": "Job 37:23-24",
+      "libro": "Job",
+      "capitulo": 37,
+      "versiculos": [
+        23,
+        24
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Job 38:3",
+      "referencia_normalizada": "Job 38:3",
+      "libro": "Job",
+      "capitulo": 38,
+      "versiculos": [
+        3
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Job 9:35",
+      "referencia_normalizada": "Job 9:35",
+      "libro": "Job",
+      "capitulo": 9,
+      "versiculos": [
+        35
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Job 13:17",
+      "referencia_normalizada": "Job 13:17",
+      "libro": "Job",
+      "capitulo": 13,
+      "versiculos": [
+        17
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Job 28:12",
+      "referencia_normalizada": "Job 28:12",
+      "libro": "Job",
+      "capitulo": 28,
+      "versiculos": [
+        12
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Job 38:4",
+      "referencia_normalizada": "Job 38:4",
+      "libro": "Job",
+      "capitulo": 38,
+      "versiculos": [
+        4
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    }
+  ],
+  "contenido": {
+    "introduccion": null,
+    "secciones": [],
+    "contenido_completo": "Si alguien conocía y llevaba el hilo de las conversaciones de Job era Dios quien lo creó. Además, todos estos eventos habían estado sucediendo en la vida de este hombre justo desde que el enemigo el diablo le había pedido permiso a Dios para probarlo y atormentarlo. Así que, las guerras que están sucediendo en nuestras vidas, vienen cuando el adversario de nuestras vidas que es Satanás nos lanza sus ataques; y entendamos que es el Dios del Cielo que se lo permite, tal como le sucedió a Job. Permite Dios lo que es necesario para descubrir así lo que hay dentro de nuestras vidas.\n\nLeemos en Job 37:1, 2 que Jehová se le aparece a Job en un torbellino. El corazón de Eliú, amigo de Job, se estremecía y se agitaba; le temblaba el ser por el temor que le producía la presencia de Dios. En aquella grande experiencia tan directa Job escucha atentamente el estrépito o ruido fuerte y prolongado de la voz de Dios. Este torbellino (movimiento rápido de aire que gira sobre sí mismo) ya desde antes se estaba formando para Job y venía de parte de Dios hacia él por la guerra que se buscó. Ese torbellino se preparaba para juicio debido a que Job había desafiado a Dios. El torbellino es símbolo de \"juicio\" (Salmos 50:3, 4 \"…Y tempestad poderosa le rodeará…para juzgar a su pueblo…\"). El hombre piensa que tiene la razón y argumenta (Job 38:2 \"¿Quién es ése que oscurece el consejo con palabras sin sabiduría?\"). Pero, lo grande de esto no es que el hombre piense que tiene la razón y lo diga, sino que está DESAFIANDO A Dios por la molestia que siente debido a su orgullo. Job había sido un hombre justo desde su juventud, lo hacía todo bien; en la oración, en pureza, era un dador y vivía en rectitud en todos sus actos. Pero, todas estas virtudes a él se le convirtieron ¡EN GRANDEZA!\n\nDios le dice ahora que se prepare para la contienda (Job 38:2,3 \"¿Quién es ése que oscurece el consejo con palabras sin sabiduría? Ahora ciñe como varón tus lomos; Yo te preguntaré y tú me contestarás.\"). Job quedará pequeño en esa batalla, pero es la única forma para que él se vuelva a Dios en humildad. ¿Será que Job podrá explicar los fenómenos de la creación y del gobierno natural de Dios? (Job 38:21\"… ¡Tú lo sabes!...\") Dios confirma el sentimiento de Eliú de que la parte que le toca al hombre es \"someterse\" y no estar razonando y opinando sobre los caminos de Dios (Job 37:23-24 \"Él es Todopoderoso, al cual no alcanzamos, grande en poder y en juicio y en multitud de justicia no afligirá. Lo temerán por tanto los hombres. El no estima a ninguno que cree \"en su propio corazón\" ser sabio.\"). ESTO Y EL DESIGNIO DISCIPLINARIO DE LAS PRUEBAS DE LOS PIADOSOS SON LA GRAN LECCIÓN DE ESTE LIBRO. Nos es necesario aprender la lección enseñada por Eliú y Dios en este libro de Job.\n\nJob oscurece el consejo (Job 38:2). Es el que impugna, que niega la validez o legalidad de una opinión o decisión por considerarla falsa, injusta o ilegal. Al Job argumentar tanto parecía como si dijera: \"¡Esta es MI SABIDURÍA sobre los arreglos providenciales del universo!\" Sin embargo, Dios parece decir: \"Ese Job que pone oscuro el consejo con palabras sin sabiduría.\" \"Tales palabras de Job oscurecen más bien que iluminan mis caminos.\"\n\nPor otro lado, los otros amigos de Job, Elifaz, Bildad y Zofar, lo estaban acusando injustamente y Dios estaba al punto de hacerse el Vindicador de Job, pero primero debía convertirlo al debido estado de mente para que recibiera el alivio.\n\nJob 38:3 \"Ahora ciñe como varón tus lomos; Yo te preguntaré y tú me contestarás.\" Como varón, como un héroe armado para la batalla a la que se enfrentaría con Dios. (I Co. 16:13 \"Velad, estad firmes en la fe; portaos varonilmente y esforzaos.\") No como los cobardes y los grandes en la traición. Al comienzo de la argumentación de Job vemos la forma en que Job veía a Dios (Job 9:35 \"Entonces hablaré y no le temeré…\"). Esa era la forma como Job había deseado hablar y enfrentar a Dios. Pero, ahora que Dios le habla desde el torbellino, todo cambia y Job se siente incapacitado para hablarle al Señor. No le podía responder. Antes Job creía que sí sabría responderle a Dios (pero sin sabiduría) (Job 13:17 \"Oíd con atención mi razonamiento…\", Vs. 13:22 \"Llama luego, y yo responderé; O yo hablaré, y respóndeme tú.\"). Ahora todo le había cambiado. Dios le estaba diciendo de frente: \"Ahora cíñete como varón (como hombre) y vamos a la batalla.\" ¡Pobre de Job! Dios hará guerra contra él debido a sus osadas palabras. Dios le está diciendo que ciña sus lomos: \"Amarra bien tu túnica, tu manto para la pelea.\" El hombre debería estar al tanto de lo que le vendrá, no debiera nunca altercar con Dios, lo primero es callarse y humillarse. Job no estaba consiente de haberse hecho adversario de Dios argumentando y opinando. La finita criatura no puede profundizar en la infinita sabiduría del Creador (Job 28:12).\n\nJob 38:4 \"¿Dónde estabas tú cuando yo fundaba la tierra? Házmelo saber, si tienes inteligencia.\" \"…si tienes inteligencia…\", así empieza el confrontar de Dios por lo que Job pretendió saber. \"¿Dónde estabas tú cuando \"yo\" fundaba la tierra? \"Si tienes inteligencia, házmelo saber\" ¿Sabría Job las medidas de la Tierra? La tierra está formada según un plan muy grande y fuera de lo común por El Gran Sabio. Así Dios va hablándole a Job en detalle y éste aceptará para siempre su equivocación y su saber \"oscuro\", su falta de sabiduría. Por eso, nunca nos atrevamos a desafiar a Dios con argumentos y razonamientos. Amén.",
+    "contenido_renderizado": [
+      {
+        "tipo": "parrafo",
+        "texto": "Si alguien conocía y llevaba el hilo de las conversaciones de Job era Dios quien lo creó. Además, todos estos eventos habían estado sucediendo en la vida de este hombre justo desde que el enemigo el diablo le había pedido permiso a Dios para probarlo y atormentarlo. Así que, las guerras que están sucediendo en nuestras vidas, vienen cuando el adversario de nuestras vidas que es Satanás nos lanza sus ataques; y entendamos que es el Dios del Cielo que se lo permite, tal como le sucedió a Job. Permite Dios lo que es necesario para descubrir así lo que hay dentro de nuestras vidas.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Leemos en Job 37:1, 2 que Jehová se le aparece a Job en un torbellino. El corazón de Eliú, amigo de Job, se estremecía y se agitaba; le temblaba el ser por el temor que le producía la presencia de Dios. En aquella grande experiencia tan directa Job escucha atentamente el estrépito o ruido fuerte y prolongado de la voz de Dios. Este torbellino (movimiento rápido de aire que gira sobre sí mismo) ya desde antes se estaba formando para Job y venía de parte de Dios hacia él por la guerra que se buscó. Ese torbellino se preparaba para juicio debido a que Job había desafiado a Dios. El torbellino es símbolo de \"juicio\" (Salmos 50:3, 4 \"…Y tempestad poderosa le rodeará…para juzgar a su pueblo…\"). El hombre piensa que tiene la razón y argumenta (Job 38:2 \"¿Quién es ése que oscurece el consejo con palabras sin sabiduría?\"). Pero, lo grande de esto no es que el hombre piense que tiene la razón y lo diga, sino que está DESAFIANDO A Dios por la molestia que siente debido a su orgullo. Job había sido un hombre justo desde su juventud, lo hacía todo bien; en la oración, en pureza, era un dador y vivía en rectitud en todos sus actos. Pero, todas estas virtudes a él se le convirtieron ¡EN GRANDEZA!",
+        "referencias_inline": [
+          "Job 37:1,2",
+          "Salmos 50:3,4",
+          "Job 38:2"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Dios le dice ahora que se prepare para la contienda (Job 38:2,3 \"¿Quién es ése que oscurece el consejo con palabras sin sabiduría? Ahora ciñe como varón tus lomos; Yo te preguntaré y tú me contestarás.\"). Job quedará pequeño en esa batalla, pero es la única forma para que él se vuelva a Dios en humildad. ¿Será que Job podrá explicar los fenómenos de la creación y del gobierno natural de Dios? (Job 38:21\"… ¡Tú lo sabes!...\") Dios confirma el sentimiento de Eliú de que la parte que le toca al hombre es \"someterse\" y no estar razonando y opinando sobre los caminos de Dios (Job 37:23-24 \"Él es Todopoderoso, al cual no alcanzamos, grande en poder y en juicio y en multitud de justicia no afligirá. Lo temerán por tanto los hombres. El no estima a ninguno que cree \"en su propio corazón\" ser sabio.\"). ESTO Y EL DESIGNIO DISCIPLINARIO DE LAS PRUEBAS DE LOS PIADOSOS SON LA GRAN LECCIÓN DE ESTE LIBRO. Nos es necesario aprender la lección enseñada por Eliú y Dios en este libro de Job.",
+        "referencias_inline": [
+          "Job 38:2,3",
+          "Job 38:21",
+          "Job 37:23-24"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Job oscurece el consejo (Job 38:2). Es el que impugna, que niega la validez o legalidad de una opinión o decisión por considerarla falsa, injusta o ilegal. Al Job argumentar tanto parecía como si dijera: \"¡Esta es MI SABIDURÍA sobre los arreglos providenciales del universo!\" Sin embargo, Dios parece decir: \"Ese Job que pone oscuro el consejo con palabras sin sabiduría.\" \"Tales palabras de Job oscurecen más bien que iluminan mis caminos.\"",
+        "referencias_inline": [
+          "Job 38:2"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Por otro lado, los otros amigos de Job, Elifaz, Bildad y Zofar, lo estaban acusando injustamente y Dios estaba al punto de hacerse el Vindicador de Job, pero primero debía convertirlo al debido estado de mente para que recibiera el alivio.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Job 38:3 \"Ahora ciñe como varón tus lomos; Yo te preguntaré y tú me contestarás.\" Como varón, como un héroe armado para la batalla a la que se enfrentaría con Dios. (I Co. 16:13 \"Velad, estad firmes en la fe; portaos varonilmente y esforzaos.\") No como los cobardes y los grandes en la traición. Al comienzo de la argumentación de Job vemos la forma en que Job veía a Dios (Job 9:35 \"Entonces hablaré y no le temeré…\"). Esa era la forma como Job había deseado hablar y enfrentar a Dios. Pero, ahora que Dios le habla desde el torbellino, todo cambia y Job se siente incapacitado para hablarle al Señor. No le podía responder. Antes Job creía que sí sabría responderle a Dios (pero sin sabiduría) (Job 13:17 \"Oíd con atención mi razonamiento…\", Vs. 13:22 \"Llama luego, y yo responderé; O yo hablaré, y respóndeme tú.\"). Ahora todo le había cambiado. Dios le estaba diciendo de frente: \"Ahora cíñete como varón (como hombre) y vamos a la batalla.\" ¡Pobre de Job! Dios hará guerra contra él debido a sus osadas palabras. Dios le está diciendo que ciña sus lomos: \"Amarra bien tu túnica, tu manto para la pelea.\" El hombre debería estar al tanto de lo que le vendrá, no debiera nunca altercar con Dios, lo primero es callarse y humillarse. Job no estaba consiente de haberse hecho adversario de Dios argumentando y opinando. La finita criatura no puede profundizar en la infinita sabiduría del Creador (Job 28:12).",
+        "referencias_inline": [
+          "Job 38:3",
+          "Job 9:35",
+          "Job 13:17",
+          "Job 28:12"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Job 38:4 \"¿Dónde estabas tú cuando yo fundaba la tierra? Házmelo saber, si tienes inteligencia.\" \"…si tienes inteligencia…\", así empieza el confrontar de Dios por lo que Job pretendió saber. \"¿Dónde estabas tú cuando \"yo\" fundaba la tierra? \"Si tienes inteligencia, házmelo saber\" ¿Sabría Job las medidas de la Tierra? La tierra está formada según un plan muy grande y fuera de lo común por El Gran Sabio. Así Dios va hablándole a Job en detalle y éste aceptará para siempre su equivocación y su saber \"oscuro\", su falta de sabiduría. Por eso, nunca nos atrevamos a desafiar a Dios con argumentos y razonamientos. Amén.",
+        "referencias_inline": [
+          "Job 38:4"
+        ]
+      }
+    ]
+  },
+  "busqueda": {
+    "texto_indexable": "cuando se desafia a Dios job 38 1 sabiduria espiritual oracion humildad satanas justicia de Dios voz de Dios oracion juicio pruebas humildad corazon si alguien conocia y llevaba el hilo de las conversaciones de job era Dios quien lo creo ademas todos estos eventos habian estado sucediendo en la vida de este hombre justo desde que el enemigo el diablo le habia pedido permiso a Dios para probarlo y atormentarlo asi que las guerras que estan sucediendo en nuestras vidas vienen cuando el adversario de nuestras vidas que es satanas nos lanza sus ataques y entendamos que es el Dios del cielo que se lo permite tal como le sucedio a job permite Dios lo que es necesario para descubrir asi lo que hay dentro de nuestras vidas leemos en job 37 1 2 que jehova se le aparece a job en un torbellino el corazon de eliu amigo de job se estremecia y se agitaba le temblaba el ser por el temor que le producia la presencia de Dios en aquella grande experiencia tan directa job escucha atentamente el estrepito o ruido fuerte y prolongado de la voz de Dios este torbellino movimiento rapido de aire que gira sobre si mismo ya desde antes se estaba formando para job y venia de parte de Dios hacia el por la guerra que se busco ese torbellino se preparaba para juicio debido a que job habia desafiado a Dios el torbellino es simbolo de juicio salmo 50 3 4 y tempestad poderosa le rodeara para juzgar a su pueblo el hombre piensa que tiene la razon y argumenta job 38 2 quien es ese que oscurece el consejo con palabras sin sabiduria pero lo grande de esto no es que el hombre piense que tiene la razon y lo diga sino que esta desafiando a Dios por la molestia que siente debido a su orgullo job habia sido un hombre justo desde su juventud lo hacia todo bien en la oracion en pureza era un dador y vivia en rectitud en todos sus actos pero todas estas virtudes a el se le convirtieron en grandeza Dios le dice ahora que se prepare para la contienda job 38 2 3 quien es ese que oscurece el consejo con palabras sin sabiduria ahora cine como varon tus lomos yo te preguntare y tu me contestaras job quedara pequeno en esa batalla pero es la unica forma para que el se vuelva a Dios en humildad sera que job podra explicar los fenomenos de la creacion y del gobierno natural de Dios job 38 21 tu lo sabes Dios confirma el sentimiento de eliu de que la parte que le toca al hombre es someterse y no estar razonando y opinando sobre los caminos de Dios job 37 23 24 el es todopoderoso al cual no alcanzamos grande en poder y en juicio y en multitud de justicia no afligira lo temeran por tanto los hombres el no estima a ninguno que cree en su propio corazon ser sabio esto y el designio disciplinario de las pruebas de los piadosos son la gran leccion de este libro nos es necesario aprender la leccion ensenada por eliu y Dios en este libro de job job oscurece el consejo job 38 2 es el que impugna que niega la validez o legalidad de una opinion o decision por considerarla falsa injusta o ilegal al job argumentar tanto parecia como si dijera esta es mi sabiduria sobre los arreglos providenciales del universo sin embargo Dios parece decir ese job que pone oscuro el consejo con palabras sin sabiduria tales palabras de job oscurecen mas bien que iluminan mis caminos por otro lado los otros amigos de job elifaz bildad y zofar lo estaban acusando injustamente y Dios estaba al punto de hacerse el vindicador de job pero primero debia convertirlo al debido estado de mente para que recibiera el alivio job 38 3 ahora cine como varon tus lomos yo te preguntare y tu me contestaras como varon como un heroe armado para la batalla a la que se enfrentaria con Dios i co 16 13 velad estad firmes en la fe portaos varonilmente y esforzaos no como los cobardes y los grandes en la traicion al comienzo de la argumentacion de job vemos la forma en que job veia a Dios job 9 35 entonces hablare y no le temere esa era la forma como job habia deseado hablar y enfrentar a Dios pero ahora que Dios le habla desde el torbellino todo cambia y job se siente incapacitado para hablarle al senor no le podia responder antes job creia que si sabria responderle a Dios pero sin sabiduria job 13 17 oid con atencion mi razonamiento vs 13 22 llama luego y yo respondere o yo hablare y respondeme tu ahora todo le habia cambiado Dios le estaba diciendo de frente ahora cinete como varon como hombre y vamos a la batalla pobre de job Dios hara guerra contra el debido a sus osadas palabras Dios le esta diciendo que cina sus lomos amarra bien tu tunica tu manto para la pelea el hombre deberia estar al tanto de lo que le vendra no debiera nunca altercar con Dios lo primero es callarse y humillarse job no estaba consiente de haberse hecho adversario de Dios argumentando y opinando la finita criatura no puede profundizar en la infinita sabiduria del creador job 28 12 job 38 4 donde estabas tu cuando yo fundaba la tierra hazmelo saber si tienes inteligencia si tienes inteligencia asi empieza el confrontar de Dios por lo que job pretendio saber donde estabas tu cuando yo fundaba la tierra si tienes inteligencia hazmelo saber sabria job las medidas de la tierra la tierra esta formada segun un plan muy grande y fuera de lo comun por el gran sabio asi Dios va hablandole a job en detalle y este aceptara para siempre su equivocacion y su saber oscuro su falta de sabiduria por eso nunca nos atrevamos a desafiar a Dios con argumentos y razonamientos amen",
+    "alias_busqueda": [
+      "Cuando Se Desafía a Dios",
+      "Job",
+      "Job 38",
+      "Job 38:1",
+      "voz de Dios",
+      "oración",
+      "juicio",
+      "pruebas",
+      "Sabiduría espiritual"
+    ]
+  },
+  "revision_manual": {
+    "requiere_revision": false,
+    "motivo": ""
+  },
+  "ui": {
+    "mostrar_credito_en_header": true,
+    "mostrar_numero_estudio": true,
+    "mostrar_fecha": true,
+    "mostrar_topicos": true,
+    "permitir_favorito": true,
+    "permitir_compartir": true
+  }
+}

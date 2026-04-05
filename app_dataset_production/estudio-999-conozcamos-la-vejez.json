@@ -1,0 +1,463 @@
+{
+  "id": "estudio-999-conozcamos-la-vejez",
+  "slug": "estudio-999-conozcamos-la-vejez",
+  "numero_estudio": 999,
+  "tipo_estudio": "Iglesia en las casas",
+  "ministerio": {
+    "iglesia": "Iglesia Cristiana Mega Zoe",
+    "pastora": "Pastora Edith Cruz",
+    "credito_corto": "Iglesia Cristiana Mega Zoe · Pastora Edith Cruz",
+    "credito_largo": "Contenido original de Iglesia Cristiana Mega Zoe, conservando el crédito ministerial correspondiente a la Pastora Edith Cruz."
+  },
+  "identidad_editorial": {
+    "idioma": "es",
+    "fuente_original": "documento_word",
+    "archivo_origen": "/Users/edwingadiel/Desktop/Estudios en Word/Estudio #999 Conozcamos La Vejez - Eclesiastés 12 1-8.docx",
+    "estado_revision": "procesado",
+    "version_schema": "1.0"
+  },
+  "encabezado": {
+    "titulo": "Conozcamos La Vejez",
+    "subtitulo": null,
+    "cita_principal": "Eclesiastés 12:1-8",
+    "resumen_corto": "Conozcamos La Vejez llama a atender la Palabra de Dios y servir fielmente al Señor."
+  },
+  "fechas": {
+    "fecha_inicio": "2018-10-02",
+    "fecha_fin": "2018-10-08",
+    "fecha_texto_original": "SEMANA DEL 2 @ 8 OCTUBRE DE 2018",
+    "ano": 2018
+  },
+  "clasificacion_biblica": {
+    "libro_principal": "Eclesiastés",
+    "capitulo_principal": 12,
+    "versiculos_principales": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "referencia_principal_normalizada": "Eclesiastés 12:1-8",
+    "testamento_principal": "Antiguo Testamento"
+  },
+  "clasificacion_tematica": {
+    "topicos": [
+      "Palabra de Dios",
+      "Servicio cristiano",
+      "Vida eterna"
+    ],
+    "keywords": [
+      "libro de la vida",
+      "juicio",
+      "seducción",
+      "fuego",
+      "corazón"
+    ]
+  },
+  "referencias_biblicas": [
+    {
+      "referencia": "Eclesiastés 12:1-8",
+      "referencia_normalizada": "Eclesiastés 12:1-8",
+      "libro": "Eclesiastés",
+      "capitulo": 12,
+      "versiculos": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "tipo": "principal",
+      "clickeable": true
+    },
+    {
+      "referencia": "Salmos 100:3",
+      "referencia_normalizada": "Salmos 100:3",
+      "libro": "Salmos",
+      "capitulo": 100,
+      "versiculos": [
+        3
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Marcos 12:30",
+      "referencia_normalizada": "Marcos 12:30",
+      "libro": "Marcos",
+      "capitulo": 12,
+      "versiculos": [
+        30
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Proverbios 8:17",
+      "referencia_normalizada": "Proverbios 8:17",
+      "libro": "Proverbios",
+      "capitulo": 8,
+      "versiculos": [
+        17
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Eclesiastés 12:1",
+      "referencia_normalizada": "Eclesiastés 12:1",
+      "libro": "Eclesiastés",
+      "capitulo": 12,
+      "versiculos": [
+        1
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Génesis 15:15",
+      "referencia_normalizada": "Génesis 15:15",
+      "libro": "Génesis",
+      "capitulo": 15,
+      "versiculos": [
+        15
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Job 42:16,17",
+      "referencia_normalizada": "Job 42:16,17",
+      "libro": "Job",
+      "capitulo": 42,
+      "versiculos": [
+        16,
+        17
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Job 5:26",
+      "referencia_normalizada": "Job 5:26",
+      "libro": "Job",
+      "capitulo": 5,
+      "versiculos": [
+        26
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Proverbios 16:31",
+      "referencia_normalizada": "Proverbios 16:31",
+      "libro": "Proverbios",
+      "capitulo": 16,
+      "versiculos": [
+        31
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Proverbios 20:29",
+      "referencia_normalizada": "Proverbios 20:29",
+      "libro": "Proverbios",
+      "capitulo": 20,
+      "versiculos": [
+        29
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Eclesiastés 12:7",
+      "referencia_normalizada": "Eclesiastés 12:7",
+      "libro": "Eclesiastés",
+      "capitulo": 12,
+      "versiculos": [
+        7
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Génesis 2:7",
+      "referencia_normalizada": "Génesis 2:7",
+      "libro": "Génesis",
+      "capitulo": 2,
+      "versiculos": [
+        7
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Apocalipsis 20:11-15",
+      "referencia_normalizada": "Apocalipsis 20:11-15",
+      "libro": "Apocalipsis",
+      "capitulo": 20,
+      "versiculos": [
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Eclesiastés 12:8",
+      "referencia_normalizada": "Eclesiastés 12:8",
+      "libro": "Eclesiastés",
+      "capitulo": 12,
+      "versiculos": [
+        8
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    }
+  ],
+  "contenido": {
+    "introduccion": null,
+    "secciones": [],
+    "contenido_completo": "El versículo 1 dice: \"Acuérdate…\" No eres tu propio DUEÑO; eres propiedad de Dios porque Él te creó. Salmos 100:3 \"Reconoced que Jehová es Dios; Él nos hizo, y no nosotros a nosotros mismos…\" En Marcos 12:30 \"Y amarás al Señor tu Dios con TODO tú corazón, y con TODA tu alma, y con TODA tu mente y con TODAS tus fuerzas. Este es el principal mandamiento.\" Por lo tanto, hay que servirle con tu TODO y con tus mejores días, no con la escoria de ellos. En Proverbios 8:17 \"Yo amo a los que me aman, y me hallan los que TEMPRANO me buscan.\" No te gloríes de tu maquillaje, de tu seducción, ni de tus fuerzas en tus días de juventud, gloríate en tu Dios. Eclesiastés 12:1 \"…antes que vengan los días malos…\" ¡Llegará la calamidad que se siente en la vejez! ¡Cuando uno ya no puede servir a Dios como en la juventud! Cuando ya no tengas contentamiento; los placeres vergonzosos quedarán en el pasado. ¡Días malos! (Vs. 2) \"…antes que se oscurezca el Sol…\" En la vejez ya no habrá Sol (luz) como en la juventud, ni el sentir de prosperidad. Habrá dolor en el cuerpo, se siente la calamidad. \"Y vuelvan las nubes tras la lluvia…\" Después de la lluvia se espera que \"salga el Sol\" (el consuelo), para el anciano, solo un breve vistazo y le vuelven con rapidez las oscuras nubes del dolor.\n\nI. Estos versículos dejan ver el final del hombre en su vida sobre la tierra.\n\nA. Se habla de la vejez, de los pasos hacia la muerte (Vs.5) \"…porque el hombre va a su morada eterna…\"\n\n(Vs.6). La cadena de plata se quiebra (es comparada la muerte con una lámpara colgada del techo con una cadena de plata, una cuerda de seda y plata tejida). La lámpara se hace añicos al romperse la cuerda, así le sucede al hombre al venirle la muerte. ¡La \"lámpara del hombre\" es de materia frágil!\n\n\"Y se rompa el cuenco de oro\", un recipiente que representa al cráneo del hombre; por la PRECIOSURA vital de su contenido es llamado DE ORO. ¡Es el cese de la mente en el momento de la muerte!\n\nPara el hombre que es sabio el consejo es acordarse del Creador antes que LA CADENA DE PLATA se quiebre; antes que se rompa el delicado hilo de la vida cuando el espíritu abandona el cuerpo.\n\nEl CÁNTARO y la RUEDA rotos a la misma vez es cuando el sistema circulatorio colapsa, la presión sanguínea (sistólica y diastólica). Es como la fuente de donde se saca el agua en un cántaro con una soga puesta sobre una rueda; si se rompen el cántaro y la rueda, ya no se pueda sacar más agua. ¡Así la vida cesa cuando se agotan las energías vitales! (La FUENTE puede que signifique el ventrículo derecho del corazón; el POZO el ventrículo izquierdo; el CÁNTARO las venas y la RUEDA la aorta.)\n\nEste lúgubre cuadro de la vejez se aplica a ¡los que no se acordaron de su Creador en su juventud!\n\nNo tienen ningunos de los consuelos de Dios que hubieran podido conseguir en la juventud; ya muertos ¡es demasiado tarde para buscarlos!\n\n¡Una buena vejez es una bendición para los piadosos! (Génesis 15:15 \"Y tú vendrás a tus padres en paz, y serás sepultado en buena vejez.\") Abraham llegó a 175 años y Job mucho más de 140 años (Job 42:16,17). (Job 5:26 \"Vendrás en la vejez a la sepultura…\") (Proverbios 16:31) \"CORONA de HONRA es la vejez.\" Proverbios 20:29 \"… la hermosura de los ancianos es su vejez.\")\n\nB. (Eclesiastés 12:7) El polvo vuelve a la tierra (Génesis 2:7)\n\nEl polvo de la tierra; el cuerpo fue formado del polvo.\n\nEl espíritu que sobrevive al cuerpo; el cuerpo envuelve la inmortalidad del espíritu.\n\nEl rigor (lo inflexible) de la muerte se establece (se hace cumplir que vuelva a la tierra lo que fue hecho del polvo: la vida del hombre).\n\nEntonces el cuerpo comienza su retorno al polvo, mientras que ¡el espíritu vuelve a Dios que lo dio!\n\nDios decide a donde va a ir tu espíritu: a eternidad con Él o eternidad en castigo (Apocalipsis 20:11-15).\n\na. Muertos, grandes y pequeños, de pie ¡ante Dios!\n\nb. Los libros son abiertos.\n\nc. Y otro libro fue abierto, el cual es el Libro De La Vida.\n\nd. Fueron juzgados los muertos por las cosas que estaban escritas en los libros según sus obras.\n\ne. El mar entregó los cuerpos, la muerte y el Hades, y fueron juzgados cada uno según sus obras.\n\nf. La Muerte y el Hades fueron lanzados al Lago De Fuego.\n\ng. El que no estaba inscrito en el Libro De La Vida fue lanzado al Lago De Fuego. (Ver la nota)\n\n(Eclesiastés 12:8) La vida bajo el sol es VANIDAD, carente de sentido, fútil (sin importancia), vacía.\n\nNota sobre Apocalipsis 20:11-15\n\nEste juicio es en la eternidad, es el Juicio del Trono Blanco.\n\nLa lista de los redimidos está en el Libro de la Vida.\n\nLos otros libros son de las obras de los perdidos, contienen un detallado registro de sus obras.\n\nLos que comparecen a este juicio no están registrados en el Libro de la Vida. ¡Ya no tienen oportunidad!\n\nEl hecho de que sus nombres no están en el Libro De la vida ya les condena, pero el registro de sus malvadas obras que aparecen en estos libros de las obras determinará el castigo que tendrán.\n\nEl mar y la Muerte, entregarán los cuerpos de todos los inconversos que han muerto.\n\nEl Hades dará las almas de todos los que murieron en incredulidad.\n\nLos cuerpos y las almas de cada cual volverán a unirse y así cada persona estará en pie ¡ante el Juez!\n\n¡Habrá grados de recompensas en el Cielo! ¡Y habrá grados de castigo en el Infierno conforme a las obras!\n\nLa Muerte y el Hades son lanzados al Lago de Fuego; así el espíritu, el alma y el cuerpo de cada cual.\n\n¡Esta es la Muerte Segunda! Amén.",
+    "contenido_renderizado": [
+      {
+        "tipo": "parrafo",
+        "texto": "El versículo 1 dice: \"Acuérdate…\" No eres tu propio DUEÑO; eres propiedad de Dios porque Él te creó. Salmos 100:3 \"Reconoced que Jehová es Dios; Él nos hizo, y no nosotros a nosotros mismos…\" En Marcos 12:30 \"Y amarás al Señor tu Dios con TODO tú corazón, y con TODA tu alma, y con TODA tu mente y con TODAS tus fuerzas. Este es el principal mandamiento.\" Por lo tanto, hay que servirle con tu TODO y con tus mejores días, no con la escoria de ellos. En Proverbios 8:17 \"Yo amo a los que me aman, y me hallan los que TEMPRANO me buscan.\" No te gloríes de tu maquillaje, de tu seducción, ni de tus fuerzas en tus días de juventud, gloríate en tu Dios. Eclesiastés 12:1 \"…antes que vengan los días malos…\" ¡Llegará la calamidad que se siente en la vejez! ¡Cuando uno ya no puede servir a Dios como en la juventud! Cuando ya no tengas contentamiento; los placeres vergonzosos quedarán en el pasado. ¡Días malos! (Vs. 2) \"…antes que se oscurezca el Sol…\" En la vejez ya no habrá Sol (luz) como en la juventud, ni el sentir de prosperidad. Habrá dolor en el cuerpo, se siente la calamidad. \"Y vuelvan las nubes tras la lluvia…\" Después de la lluvia se espera que \"salga el Sol\" (el consuelo), para el anciano, solo un breve vistazo y le vuelven con rapidez las oscuras nubes del dolor.",
+        "referencias_inline": [
+          "Salmos 100:3",
+          "Marcos 12:30",
+          "Proverbios 8:17",
+          "Eclesiastés 12:1"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "I. Estos versículos dejan ver el final del hombre en su vida sobre la tierra.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "A. Se habla de la vejez, de los pasos hacia la muerte (Vs.5) \"…porque el hombre va a su morada eterna…\"",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Vs.6). La cadena de plata se quiebra (es comparada la muerte con una lámpara colgada del techo con una cadena de plata, una cuerda de seda y plata tejida). La lámpara se hace añicos al romperse la cuerda, así le sucede al hombre al venirle la muerte. ¡La \"lámpara del hombre\" es de materia frágil!",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "\"Y se rompa el cuenco de oro\", un recipiente que representa al cráneo del hombre; por la PRECIOSURA vital de su contenido es llamado DE ORO. ¡Es el cese de la mente en el momento de la muerte!",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Para el hombre que es sabio el consejo es acordarse del Creador antes que LA CADENA DE PLATA se quiebre; antes que se rompa el delicado hilo de la vida cuando el espíritu abandona el cuerpo.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "El CÁNTARO y la RUEDA rotos a la misma vez es cuando el sistema circulatorio colapsa, la presión sanguínea (sistólica y diastólica). Es como la fuente de donde se saca el agua en un cántaro con una soga puesta sobre una rueda; si se rompen el cántaro y la rueda, ya no se pueda sacar más agua. ¡Así la vida cesa cuando se agotan las energías vitales! (La FUENTE puede que signifique el ventrículo derecho del corazón; el POZO el ventrículo izquierdo; el CÁNTARO las venas y la RUEDA la aorta.)",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Este lúgubre cuadro de la vejez se aplica a ¡los que no se acordaron de su Creador en su juventud!",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "No tienen ningunos de los consuelos de Dios que hubieran podido conseguir en la juventud; ya muertos ¡es demasiado tarde para buscarlos!",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "¡Una buena vejez es una bendición para los piadosos! (Génesis 15:15 \"Y tú vendrás a tus padres en paz, y serás sepultado en buena vejez.\") Abraham llegó a 175 años y Job mucho más de 140 años (Job 42:16,17). (Job 5:26 \"Vendrás en la vejez a la sepultura…\") (Proverbios 16:31) \"CORONA de HONRA es la vejez.\" Proverbios 20:29 \"… la hermosura de los ancianos es su vejez.\")",
+        "referencias_inline": [
+          "Génesis 15:15",
+          "Job 42:16,17",
+          "Job 5:26",
+          "Proverbios 16:31",
+          "Proverbios 20:29"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "B. (Eclesiastés 12:7) El polvo vuelve a la tierra (Génesis 2:7)",
+        "referencias_inline": [
+          "Eclesiastés 12:7",
+          "Génesis 2:7"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "El polvo de la tierra; el cuerpo fue formado del polvo.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "El espíritu que sobrevive al cuerpo; el cuerpo envuelve la inmortalidad del espíritu.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "El rigor (lo inflexible) de la muerte se establece (se hace cumplir que vuelva a la tierra lo que fue hecho del polvo: la vida del hombre).",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Entonces el cuerpo comienza su retorno al polvo, mientras que ¡el espíritu vuelve a Dios que lo dio!",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Dios decide a donde va a ir tu espíritu: a eternidad con Él o eternidad en castigo (Apocalipsis 20:11-15).",
+        "referencias_inline": [
+          "Apocalipsis 20:11-15"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "a. Muertos, grandes y pequeños, de pie ¡ante Dios!",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "b. Los libros son abiertos.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "c. Y otro libro fue abierto, el cual es el Libro De La Vida.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "d. Fueron juzgados los muertos por las cosas que estaban escritas en los libros según sus obras.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "e. El mar entregó los cuerpos, la muerte y el Hades, y fueron juzgados cada uno según sus obras.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "f. La Muerte y el Hades fueron lanzados al Lago De Fuego.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "g. El que no estaba inscrito en el Libro De La Vida fue lanzado al Lago De Fuego. (Ver la nota)",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Eclesiastés 12:8) La vida bajo el sol es VANIDAD, carente de sentido, fútil (sin importancia), vacía.",
+        "referencias_inline": [
+          "Eclesiastés 12:8"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Nota sobre Apocalipsis 20:11-15",
+        "referencias_inline": [
+          "Apocalipsis 20:11-15"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Este juicio es en la eternidad, es el Juicio del Trono Blanco.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "La lista de los redimidos está en el Libro de la Vida.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Los otros libros son de las obras de los perdidos, contienen un detallado registro de sus obras.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Los que comparecen a este juicio no están registrados en el Libro de la Vida. ¡Ya no tienen oportunidad!",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "El hecho de que sus nombres no están en el Libro De la vida ya les condena, pero el registro de sus malvadas obras que aparecen en estos libros de las obras determinará el castigo que tendrán.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "El mar y la Muerte, entregarán los cuerpos de todos los inconversos que han muerto.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "El Hades dará las almas de todos los que murieron en incredulidad.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Los cuerpos y las almas de cada cual volverán a unirse y así cada persona estará en pie ¡ante el Juez!",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "¡Habrá grados de recompensas en el Cielo! ¡Y habrá grados de castigo en el Infierno conforme a las obras!",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "La Muerte y el Hades son lanzados al Lago de Fuego; así el espíritu, el alma y el cuerpo de cada cual.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "¡Esta es la Muerte Segunda! Amén.",
+        "referencias_inline": []
+      }
+    ]
+  },
+  "busqueda": {
+    "texto_indexable": "conozcamos la vejez eclesiastes 12 1 8 palabra de Dios servicio cristiano vida eterna libro de la vida juicio seduccion fuego corazon el versiculo 1 dice acuerdate no eres tu propio dueno eres propiedad de Dios porque el te creo salmo 100 3 reconoced que jehova es Dios el nos hizo y no nosotros a nosotros mismos en marcos 12 30 y amaras al senor tu Dios con todo tu corazon y con toda tu alma y con toda tu mente y con todas tus fuerzas este es el principal mandamiento por lo tanto hay que servirle con tu todo y con tus mejores dias no con la escoria de ellos en proverbios 8 17 yo amo a los que me aman y me hallan los que temprano me buscan no te glories de tu maquillaje de tu seduccion ni de tus fuerzas en tus dias de juventud gloriate en tu Dios eclesiastes 12 1 antes que vengan los dias malos llegara la calamidad que se siente en la vejez cuando uno ya no puede servir a Dios como en la juventud cuando ya no tengas contentamiento los placeres vergonzosos quedaran en el pasado dias malos vs 2 antes que se oscurezca el sol en la vejez ya no habra sol luz como en la juventud ni el sentir de prosperidad habra dolor en el cuerpo se siente la calamidad y vuelvan las nubes tras la lluvia despues de la lluvia se espera que salga el sol el consuelo para el anciano solo un breve vistazo y le vuelven con rapidez las oscuras nubes del dolor i estos versiculos dejan ver el final del hombre en su vida sobre la tierra a se habla de la vejez de los pasos hacia la muerte vs 5 porque el hombre va a su morada eterna vs 6 la cadena de plata se quiebra es comparada la muerte con una lampara colgada del techo con una cadena de plata una cuerda de seda y plata tejida la lampara se hace anicos al romperse la cuerda asi le sucede al hombre al venirle la muerte la lampara del hombre es de materia fragil y se rompa el cuenco de oro un recipiente que representa al craneo del hombre por la preciosura vital de su contenido es llamado de oro es el cese de la mente en el momento de la muerte para el hombre que es sabio el consejo es acordarse del creador antes que la cadena de plata se quiebre antes que se rompa el delicado hilo de la vida cuando el espiritu abandona el cuerpo el cantaro y la rueda rotos a la misma vez es cuando el sistema circulatorio colapsa la presion sanguinea sistolica y diastolica es como la fuente de donde se saca el agua en un cantaro con una soga puesta sobre una rueda si se rompen el cantaro y la rueda ya no se pueda sacar mas agua asi la vida cesa cuando se agotan las energias vitales la fuente puede que signifique el ventriculo derecho del corazon el pozo el ventriculo izquierdo el cantaro las venas y la rueda la aorta este lugubre cuadro de la vejez se aplica a los que no se acordaron de su creador en su juventud no tienen ningunos de los consuelos de Dios que hubieran podido conseguir en la juventud ya muertos es demasiado tarde para buscarlos una buena vejez es una bendicion para los piadosos genesis 15 15 y tu vendras a tus padres en paz y seras sepultado en buena vejez abraham llego a 175 anos y job mucho mas de 140 anos job 42 16 17 job 5 26 vendras en la vejez a la sepultura proverbios 16 31 corona de honra es la vejez proverbios 20 29 la hermosura de los ancianos es su vejez b eclesiastes 12 7 el polvo vuelve a la tierra genesis 2 7 el polvo de la tierra el cuerpo fue formado del polvo el espiritu que sobrevive al cuerpo el cuerpo envuelve la inmortalidad del espiritu el rigor lo inflexible de la muerte se establece se hace cumplir que vuelva a la tierra lo que fue hecho del polvo la vida del hombre entonces el cuerpo comienza su retorno al polvo mientras que el espiritu vuelve a Dios que lo dio Dios decide a donde va a ir tu espiritu a eternidad con el o eternidad en castigo apocalipsis 20 11 15 a muertos grandes y pequenos de pie ante Dios b los libros son abiertos c y otro libro fue abierto el cual es el libro de la vida d fueron juzgados los muertos por las cosas que estaban escritas en los libros segun sus obras e el mar entrego los cuerpos la muerte y el hades y fueron juzgados cada uno segun sus obras f la muerte y el hades fueron lanzados al lago de fuego g el que no estaba inscrito en el libro de la vida fue lanzado al lago de fuego ver la nota eclesiastes 12 8 la vida bajo el sol es vanidad carente de sentido futil sin importancia vacia nota sobre apocalipsis 20 11 15 este juicio es en la eternidad es el juicio del trono blanco la lista de los redimidos esta en el libro de la vida los otros libros son de las obras de los perdidos contienen un detallado registro de sus obras los que comparecen a este juicio no estan registrados en el libro de la vida ya no tienen oportunidad el hecho de que sus nombres no estan en el libro de la vida ya les condena pero el registro de sus malvadas obras que aparecen en estos libros de las obras determinara el castigo que tendran el mar y la muerte entregaran los cuerpos de todos los inconversos que han muerto el hades dara las almas de todos los que murieron en incredulidad los cuerpos y las almas de cada cual volveran a unirse y asi cada persona estara en pie ante el juez habra grados de recompensas en el cielo y habra grados de castigo en el infierno conforme a las obras la muerte y el hades son lanzados al lago de fuego asi el espiritu el alma y el cuerpo de cada cual esta es la muerte segunda amen",
+    "alias_busqueda": [
+      "Conozcamos La Vejez",
+      "Eclesiastés",
+      "Eclesiastés 12",
+      "Eclesiastés 12:1-8",
+      "libro de la vida",
+      "juicio",
+      "seducción",
+      "fuego",
+      "Palabra de Dios",
+      "Servicio cristiano"
+    ]
+  },
+  "revision_manual": {
+    "requiere_revision": false,
+    "motivo": ""
+  },
+  "ui": {
+    "mostrar_credito_en_header": true,
+    "mostrar_numero_estudio": true,
+    "mostrar_fecha": true,
+    "mostrar_topicos": true,
+    "permitir_favorito": true,
+    "permitir_compartir": true
+  }
+}

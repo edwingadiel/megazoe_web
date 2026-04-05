@@ -1,0 +1,293 @@
+{
+  "id": "estudio-968-el-perdon-para-salvacion-es-costoso",
+  "slug": "estudio-968-el-perdon-para-salvacion-es-costoso",
+  "numero_estudio": 968,
+  "tipo_estudio": "Iglesia en las casas",
+  "ministerio": {
+    "iglesia": "Iglesia Cristiana Mega Zoe",
+    "pastora": "Pastora Edith Cruz",
+    "credito_corto": "Iglesia Cristiana Mega Zoe · Pastora Edith Cruz",
+    "credito_largo": "Contenido original de Iglesia Cristiana Mega Zoe, conservando el crédito ministerial correspondiente a la Pastora Edith Cruz."
+  },
+  "identidad_editorial": {
+    "idioma": "es",
+    "fuente_original": "documento_word",
+    "archivo_origen": "/Users/edwingadiel/Desktop/Estudios en Word/Estudio #968 El Perdon Para Salvacion Es Costoso - Hebreos 9 19-22.docx",
+    "estado_revision": "procesado",
+    "version_schema": "1.0"
+  },
+  "encabezado": {
+    "titulo": "El Perdón Para Salvación Es Costoso",
+    "subtitulo": null,
+    "cita_principal": "Hebreos 9:19-22",
+    "resumen_corto": "El Perdón Para Salvación Es Costoso enseña a recibir y extender el perdón."
+  },
+  "fechas": {
+    "fecha_inicio": null,
+    "fecha_fin": null,
+    "fecha_texto_original": "",
+    "ano": null
+  },
+  "clasificacion_biblica": {
+    "libro_principal": "Hebreos",
+    "capitulo_principal": 9,
+    "versiculos_principales": [
+      19,
+      20,
+      21,
+      22
+    ],
+    "referencia_principal_normalizada": "Hebreos 9:19-22",
+    "testamento_principal": "Nuevo Testamento"
+  },
+  "clasificacion_tematica": {
+    "topicos": [
+      "Salvación",
+      "Perdón",
+      "Redención"
+    ],
+    "keywords": [
+      "sacrificio de cristo",
+      "juicio",
+      "arrepentimiento",
+      "salvación",
+      "perseverancia"
+    ]
+  },
+  "referencias_biblicas": [
+    {
+      "referencia": "Hebreos 9:19-22",
+      "referencia_normalizada": "Hebreos 9:19-22",
+      "libro": "Hebreos",
+      "capitulo": 9,
+      "versiculos": [
+        19,
+        20,
+        21,
+        22
+      ],
+      "tipo": "principal",
+      "clickeable": true
+    },
+    {
+      "referencia": "Hebreos 9:18",
+      "referencia_normalizada": "Hebreos 9:18",
+      "libro": "Hebreos",
+      "capitulo": 9,
+      "versiculos": [
+        18
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Hebreos 9:20",
+      "referencia_normalizada": "Hebreos 9:20",
+      "libro": "Hebreos",
+      "capitulo": 9,
+      "versiculos": [
+        20
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Hebreos 9:19-21",
+      "referencia_normalizada": "Hebreos 9:19-21",
+      "libro": "Hebreos",
+      "capitulo": 9,
+      "versiculos": [
+        19,
+        20,
+        21
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Hebreos 9:22",
+      "referencia_normalizada": "Hebreos 9:22",
+      "libro": "Hebreos",
+      "capitulo": 9,
+      "versiculos": [
+        22
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Hebreos 9:23",
+      "referencia_normalizada": "Hebreos 9:23",
+      "libro": "Hebreos",
+      "capitulo": 9,
+      "versiculos": [
+        23
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Hebreos 9:23,24",
+      "referencia_normalizada": "Hebreos 9:23,24",
+      "libro": "Hebreos",
+      "capitulo": 9,
+      "versiculos": [
+        23,
+        24
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Job 15:15",
+      "referencia_normalizada": "Job 15:15",
+      "libro": "Job",
+      "capitulo": 15,
+      "versiculos": [
+        15
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Isaías 14:12-14",
+      "referencia_normalizada": "Isaías 14:12-14",
+      "libro": "Isaías",
+      "capitulo": 14,
+      "versiculos": [
+        12,
+        13,
+        14
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Apocalipsis 12:10",
+      "referencia_normalizada": "Apocalipsis 12:10",
+      "libro": "Apocalipsis",
+      "capitulo": 12,
+      "versiculos": [
+        10
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Hebreos 9:25,26",
+      "referencia_normalizada": "Hebreos 9:25,26",
+      "libro": "Hebreos",
+      "capitulo": 9,
+      "versiculos": [
+        25,
+        26
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Hebreos 9:27,28",
+      "referencia_normalizada": "Hebreos 9:27,28",
+      "libro": "Hebreos",
+      "capitulo": 9,
+      "versiculos": [
+        27,
+        28
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Hebreos 9:28",
+      "referencia_normalizada": "Hebreos 9:28",
+      "libro": "Hebreos",
+      "capitulo": 9,
+      "versiculos": [
+        28
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "1 Tesalonicenses 4:16",
+      "referencia_normalizada": "1 Tesalonicenses 4:16",
+      "libro": "1 Tesalonicenses",
+      "capitulo": 4,
+      "versiculos": [
+        16
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    }
+  ],
+  "contenido": {
+    "introduccion": null,
+    "secciones": [],
+    "contenido_completo": "Dios, que aquí es representado por el altar, y el pueblo de Israel fueron las partes contratantes del antiguo pacto. La sangre rociada obligaba a las partes a guardar las estipulaciones del pacto (Hebreos 9:18 \"De donde ni aun el primer pacto fue instituido sin sangre.\"). El pueblo del Señor prometió obedecer y el Señor se comprometió a bendecirles si así lo hacían. Moisés le habló a Israel diciendo: \"Esta es la sangre del pacto que Dios os ha mandado.\" Hebreos 9:20. Esta acción de compromiso de obedecer ponía como \"prenda\" la vida del pueblo si dejaban de guardar la Ley. En aquel ritual se roció con la sangre (de animales) tanto el tabernáculo como todos los vasos empleados en el culto (Hebreos 9:19-21).\n\nEntendamos que todo lo que tiene cualquier contacto con el hombre pecador se contamina y necesita ser limpiado. Casi todo es purificado según la ley con sangre (\"Y casi todo es purificado, según la ley, con sangre; y sin derramamiento de sangre no se hace remisión.\" Hebreos 9:22). En lo que se refiere a la remisión de los pecados no hay excepción, se ha de derramar \"sangre\" de becerros y de machos cabríos. Todo esto era una purificación simbólica. Fue una santificación simbólica de un santuario simbólico (Hebreos 9:23 \"Fue, pues, necesario que las figuras de las cosas celestiales fuesen purificadas así…\"). El santuario celestial era la realidad de la que la tienda o tabernáculo terrenal era una copia y tuvo que ser purificado con mejores sacrificios que éstos, es decir, CON EL SACRIFICIO DE CRISTO (Hebreos 9:23,24 \"…pero las cosas celestiales mismas, con mejores sacrificios que estos. Porque no entró Cristo en el santuario hecho de mano, figura del verdadero, sino en el cielo mismo para presentarse ahora por nosotros ante Dios…\"). Puede parecer sorprendente que los lugares celestiales precisen de purificación. Quizás la clave se encuentra en Job 15:15 \"…ni aun los cielos son limpios delante de sus ojos.\" Indudablemente ello se debe a que Satanás cometió el primer acto de pecado en el Cielo (Isaías 14:12-14) y debido a que sigue teniendo acceso a la presencia de Dios como acusador de los hermanos (Apocalipsis 12:10).\n\nCristo no entró en el santuario hecho de manos que era un tipo o figura del verdadero, sino en el Cielo mismo. Allí se presenta AHORA por nosotros en la presencia de Dios. El Señor Jesús no hizo repetidas ofrendas como lo tenía que hacer el sumo sacerdote de entonces (Hebreos 9:25,26 \"…y no para ofrecerse muchas veces, como entra el sumo sacerdote en el Lugar Santísimo cada año con sangre ajena. De otra manera le hubiera sido necesario padecer muchas veces desde el principio del mundo; pero ahora, en la consumación de los siglos, se presentó UNA VEZ PARA SIEMPRE por el sacrificio de sí mismo para quitar de en medio el pecado.\"). El sumo sacerdote descendiente de Aarón entraba en el santuario un día al año, esto es en el Día de la Expiación, y no ofrecía su propia sangre sino la sangre de animales sacrificiales. Si Cristo hubiese hecho repetidas ofrendas esto habría significado repetidos sufrimientos; por cuanto su ofrenda fue su propia vida. Es impensable que tuviese que sufrir la agonía del Calvario una y otra vez para la purificación del mundo. Sería innecesario, ¡ÉL ES EL TODO! (Hebreos 9:27,28 \"Y de la manera que está establecido para los hombres que mueran una sola vez, y después de esto el juicio, así también Cristo fue ofrecido una sola vez para llevar los pecados de muchos…\") ¡Ha sido manifestado una vez para siempre! La obra del sacrificio del Señor Jesucristo no tiene que repetirse nunca más. Fue en un tiempo propicio, se manifestó en la consumación de los siglos, es decir, después que el Antiguo Pacto demostrase de manera concluyente el fracaso y la impotencia del hombre. ¡Es una obra perfecta, Jesús, el Salvador, apareció para quitar de en medio el pecado! El énfasis recae en las palabras \"quitar de en medio.\" No era ya cosa de expiación anual, ahora era y es el ¡perdón eterno! Un sacrificio personal quitó de en medio el pecado, por el sacrificio de sí mismo. Cristo, el Señor, llevó en su propio cuerpo el castigo que merecían nuestros pecados.\n\nEL NUEVO PACTO INTRODUCE EL INFINITO SACRIFICIO DE CRISTO; EL QUE FUE OFRECIDO UNA SOLA VEZ PARA LLEVAR LOS PECADOS DE MUCHOS. Nos presenta la esperanza bienaventurada de su inminente regreso; y aparecerá por segunda vez para los que le esperan ansiosamente para salvación (Hebreos 9:28 \"…y aparecerá por segunda vez, sin relación con el pecado, para salvar a los que le esperan.\"). Cuando regrese no será para tratar la cuestión del \"pecado\", ¡ÉL ACABÓ AQUELLA OBRA EN LA CRUZ! ¡Volverá para llevar consigo a su pueblo al Cielo! Esta será la culminación de su salvación; ellos recibirán entonces los cuerpos glorificados y quedarán para siempre fuera del alcance del pecado. ¡Es para los verdaderos creyentes; estén en ese momento muertos o vivos (I Tesalonicenses 4:16 y 17)! Jesús sufrió la grande agonía del Calvario para darnos el perdón de nuestros pecados, fue muy costoso ese perdón. Ahora tenemos esperanza, antes no. Guardemos y cuidemos esta salvación tan grande. Amén.",
+    "contenido_renderizado": [
+      {
+        "tipo": "parrafo",
+        "texto": "Dios, que aquí es representado por el altar, y el pueblo de Israel fueron las partes contratantes del antiguo pacto. La sangre rociada obligaba a las partes a guardar las estipulaciones del pacto (Hebreos 9:18 \"De donde ni aun el primer pacto fue instituido sin sangre.\"). El pueblo del Señor prometió obedecer y el Señor se comprometió a bendecirles si así lo hacían. Moisés le habló a Israel diciendo: \"Esta es la sangre del pacto que Dios os ha mandado.\" Hebreos 9:20. Esta acción de compromiso de obedecer ponía como \"prenda\" la vida del pueblo si dejaban de guardar la Ley. En aquel ritual se roció con la sangre (de animales) tanto el tabernáculo como todos los vasos empleados en el culto (Hebreos 9:19-21).",
+        "referencias_inline": [
+          "Hebreos 9:18",
+          "Hebreos 9:20",
+          "Hebreos 9:19-21"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Entendamos que todo lo que tiene cualquier contacto con el hombre pecador se contamina y necesita ser limpiado. Casi todo es purificado según la ley con sangre (\"Y casi todo es purificado, según la ley, con sangre; y sin derramamiento de sangre no se hace remisión.\" Hebreos 9:22). En lo que se refiere a la remisión de los pecados no hay excepción, se ha de derramar \"sangre\" de becerros y de machos cabríos. Todo esto era una purificación simbólica. Fue una santificación simbólica de un santuario simbólico (Hebreos 9:23 \"Fue, pues, necesario que las figuras de las cosas celestiales fuesen purificadas así…\"). El santuario celestial era la realidad de la que la tienda o tabernáculo terrenal era una copia y tuvo que ser purificado con mejores sacrificios que éstos, es decir, CON EL SACRIFICIO DE CRISTO (Hebreos 9:23,24 \"…pero las cosas celestiales mismas, con mejores sacrificios que estos. Porque no entró Cristo en el santuario hecho de mano, figura del verdadero, sino en el cielo mismo para presentarse ahora por nosotros ante Dios…\"). Puede parecer sorprendente que los lugares celestiales precisen de purificación. Quizás la clave se encuentra en Job 15:15 \"…ni aun los cielos son limpios delante de sus ojos.\" Indudablemente ello se debe a que Satanás cometió el primer acto de pecado en el Cielo (Isaías 14:12-14) y debido a que sigue teniendo acceso a la presencia de Dios como acusador de los hermanos (Apocalipsis 12:10).",
+        "referencias_inline": [
+          "Hebreos 9:22",
+          "Hebreos 9:23",
+          "Hebreos 9:23,24",
+          "Job 15:15",
+          "Isaías 14:12-14",
+          "Apocalipsis 12:10"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Cristo no entró en el santuario hecho de manos que era un tipo o figura del verdadero, sino en el Cielo mismo. Allí se presenta AHORA por nosotros en la presencia de Dios. El Señor Jesús no hizo repetidas ofrendas como lo tenía que hacer el sumo sacerdote de entonces (Hebreos 9:25,26 \"…y no para ofrecerse muchas veces, como entra el sumo sacerdote en el Lugar Santísimo cada año con sangre ajena. De otra manera le hubiera sido necesario padecer muchas veces desde el principio del mundo; pero ahora, en la consumación de los siglos, se presentó UNA VEZ PARA SIEMPRE por el sacrificio de sí mismo para quitar de en medio el pecado.\"). El sumo sacerdote descendiente de Aarón entraba en el santuario un día al año, esto es en el Día de la Expiación, y no ofrecía su propia sangre sino la sangre de animales sacrificiales. Si Cristo hubiese hecho repetidas ofrendas esto habría significado repetidos sufrimientos; por cuanto su ofrenda fue su propia vida. Es impensable que tuviese que sufrir la agonía del Calvario una y otra vez para la purificación del mundo. Sería innecesario, ¡ÉL ES EL TODO! (Hebreos 9:27,28 \"Y de la manera que está establecido para los hombres que mueran una sola vez, y después de esto el juicio, así también Cristo fue ofrecido una sola vez para llevar los pecados de muchos…\") ¡Ha sido manifestado una vez para siempre! La obra del sacrificio del Señor Jesucristo no tiene que repetirse nunca más. Fue en un tiempo propicio, se manifestó en la consumación de los siglos, es decir, después que el Antiguo Pacto demostrase de manera concluyente el fracaso y la impotencia del hombre. ¡Es una obra perfecta, Jesús, el Salvador, apareció para quitar de en medio el pecado! El énfasis recae en las palabras \"quitar de en medio.\" No era ya cosa de expiación anual, ahora era y es el ¡perdón eterno! Un sacrificio personal quitó de en medio el pecado, por el sacrificio de sí mismo. Cristo, el Señor, llevó en su propio cuerpo el castigo que merecían nuestros pecados.",
+        "referencias_inline": [
+          "Hebreos 9:25,26",
+          "Hebreos 9:27,28"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "EL NUEVO PACTO INTRODUCE EL INFINITO SACRIFICIO DE CRISTO; EL QUE FUE OFRECIDO UNA SOLA VEZ PARA LLEVAR LOS PECADOS DE MUCHOS. Nos presenta la esperanza bienaventurada de su inminente regreso; y aparecerá por segunda vez para los que le esperan ansiosamente para salvación (Hebreos 9:28 \"…y aparecerá por segunda vez, sin relación con el pecado, para salvar a los que le esperan.\"). Cuando regrese no será para tratar la cuestión del \"pecado\", ¡ÉL ACABÓ AQUELLA OBRA EN LA CRUZ! ¡Volverá para llevar consigo a su pueblo al Cielo! Esta será la culminación de su salvación; ellos recibirán entonces los cuerpos glorificados y quedarán para siempre fuera del alcance del pecado. ¡Es para los verdaderos creyentes; estén en ese momento muertos o vivos (I Tesalonicenses 4:16 y 17)! Jesús sufrió la grande agonía del Calvario para darnos el perdón de nuestros pecados, fue muy costoso ese perdón. Ahora tenemos esperanza, antes no. Guardemos y cuidemos esta salvación tan grande. Amén.",
+        "referencias_inline": [
+          "Hebreos 9:28",
+          "1 Tesalonicenses 4:16"
+        ]
+      }
+    ]
+  },
+  "busqueda": {
+    "texto_indexable": "el perdon para salvacion es costoso hebreos 9 19 22 salvacion perdon redencion sacrificio de cristo juicio arrepentimiento salvacion perseverancia Dios que aqui es representado por el altar y el pueblo de israel fueron las partes contratantes del antiguo pacto la sangre rociada obligaba a las partes a guardar las estipulaciones del pacto hebreos 9 18 de donde ni aun el primer pacto fue instituido sin sangre el pueblo del senor prometio obedecer y el senor se comprometio a bendecirles si asi lo hacian moises le hablo a israel diciendo esta es la sangre del pacto que Dios os ha mandado hebreos 9 20 esta accion de compromiso de obedecer ponia como prenda la vida del pueblo si dejaban de guardar la ley en aquel ritual se rocio con la sangre de animales tanto el tabernaculo como todos los vasos empleados en el culto hebreos 9 19 21 entendamos que todo lo que tiene cualquier contacto con el hombre pecador se contamina y necesita ser limpiado casi todo es purificado segun la ley con sangre y casi todo es purificado segun la ley con sangre y sin derramamiento de sangre no se hace remision hebreos 9 22 en lo que se refiere a la remision de los pecados no hay excepcion se ha de derramar sangre de becerros y de machos cabrios todo esto era una purificacion simbolica fue una santificacion simbolica de un santuario simbolico hebreos 9 23 fue pues necesario que las figuras de las cosas celestiales fuesen purificadas asi el santuario celestial era la realidad de la que la tienda o tabernaculo terrenal era una copia y tuvo que ser purificado con mejores sacrificios que estos es decir con el sacrificio de cristo hebreos 9 23 24 pero las cosas celestiales mismas con mejores sacrificios que estos porque no entro cristo en el santuario hecho de mano figura del verdadero sino en el cielo mismo para presentarse ahora por nosotros ante Dios puede parecer sorprendente que los lugares celestiales precisen de purificacion quizas la clave se encuentra en job 15 15 ni aun los cielos son limpios delante de sus ojos indudablemente ello se debe a que satanas cometio el primer acto de pecado en el cielo isaias 14 12 14 y debido a que sigue teniendo acceso a la presencia de Dios como acusador de los hermanos apocalipsis 12 10 cristo no entro en el santuario hecho de manos que era un tipo o figura del verdadero sino en el cielo mismo alli se presenta ahora por nosotros en la presencia de Dios el senor Jesus no hizo repetidas ofrendas como lo tenia que hacer el sumo sacerdote de entonces hebreos 9 25 26 y no para ofrecerse muchas veces como entra el sumo sacerdote en el lugar santisimo cada ano con sangre ajena de otra manera le hubiera sido necesario padecer muchas veces desde el principio del mundo pero ahora en la consumacion de los siglos se presento una vez para siempre por el sacrificio de si mismo para quitar de en medio el pecado el sumo sacerdote descendiente de aaron entraba en el santuario un dia al ano esto es en el dia de la expiacion y no ofrecia su propia sangre sino la sangre de animales sacrificiales si cristo hubiese hecho repetidas ofrendas esto habria significado repetidos sufrimientos por cuanto su ofrenda fue su propia vida es impensable que tuviese que sufrir la agonia del calvario una y otra vez para la purificacion del mundo seria innecesario el es el todo hebreos 9 27 28 y de la manera que esta establecido para los hombres que mueran una sola vez y despues de esto el juicio asi tambien cristo fue ofrecido una sola vez para llevar los pecados de muchos ha sido manifestado una vez para siempre la obra del sacrificio del senor jesucristo no tiene que repetirse nunca mas fue en un tiempo propicio se manifesto en la consumacion de los siglos es decir despues que el antiguo pacto demostrase de manera concluyente el fracaso y la impotencia del hombre es una obra perfecta Jesus el salvador aparecio para quitar de en medio el pecado el enfasis recae en las palabras quitar de en medio no era ya cosa de expiacion anual ahora era y es el perdon eterno un sacrificio personal quito de en medio el pecado por el sacrificio de si mismo cristo el senor llevo en su propio cuerpo el castigo que merecian nuestros pecados el nuevo pacto introduce el infinito sacrificio de cristo el que fue ofrecido una sola vez para llevar los pecados de muchos nos presenta la esperanza bienaventurada de su inminente regreso y aparecera por segunda vez para los que le esperan ansiosamente para salvacion hebreos 9 28 y aparecera por segunda vez sin relacion con el pecado para salvar a los que le esperan cuando regrese no sera para tratar la cuestion del pecado el acabo aquella obra en la cruz volvera para llevar consigo a su pueblo al cielo esta sera la culminacion de su salvacion ellos recibiran entonces los cuerpos glorificados y quedaran para siempre fuera del alcance del pecado es para los verdaderos creyentes esten en ese momento muertos o vivos i tesalonicenses 4 16 y 17 Jesus sufrio la grande agonia del calvario para darnos el perdon de nuestros pecados fue muy costoso ese perdon ahora tenemos esperanza antes no guardemos y cuidemos esta salvacion tan grande amen",
+    "alias_busqueda": [
+      "El Perdón Para Salvación Es Costoso",
+      "Hebreos",
+      "Hebreos 9",
+      "Hebreos 9:19-22",
+      "sacrificio de cristo",
+      "juicio",
+      "arrepentimiento",
+      "salvación",
+      "Perdón"
+    ]
+  },
+  "revision_manual": {
+    "requiere_revision": false,
+    "motivo": ""
+  },
+  "ui": {
+    "mostrar_credito_en_header": true,
+    "mostrar_numero_estudio": true,
+    "mostrar_fecha": true,
+    "mostrar_topicos": true,
+    "permitir_favorito": true,
+    "permitir_compartir": true
+  }
+}

@@ -1,0 +1,549 @@
+{
+  "id": "estudio-1344-estudio-1344",
+  "slug": "estudio-1344-estudio-1344",
+  "numero_estudio": 1344,
+  "tipo_estudio": "Iglesia en las casas",
+  "ministerio": {
+    "iglesia": "Iglesia Cristiana Mega Zoe",
+    "pastora": "Pastora Edith Cruz",
+    "credito_corto": "Iglesia Cristiana Mega Zoe · Pastora Edith Cruz",
+    "credito_largo": "Contenido original de Iglesia Cristiana Mega Zoe, conservando el crédito ministerial correspondiente a la Pastora Edith Cruz."
+  },
+  "identidad_editorial": {
+    "idioma": "es",
+    "fuente_original": "documento_word",
+    "archivo_origen": "/Users/edwingadiel/Desktop/Estudios en Word/Estudio #1344 Tardos para oír - Hebreos 6 1-6.docx",
+    "estado_revision": "procesado",
+    "version_schema": "1.0"
+  },
+  "encabezado": {
+    "titulo": "Tardos para oír",
+    "subtitulo": null,
+    "cita_principal": "Hebreos 6:1-6",
+    "resumen_corto": "Tardos para oír enseña a volver al Señor con arrepentimiento y atender la Palabra de Dios."
+  },
+  "fechas": {
+    "fecha_inicio": null,
+    "fecha_fin": null,
+    "fecha_texto_original": "",
+    "ano": null
+  },
+  "clasificacion_biblica": {
+    "libro_principal": "Hebreos",
+    "capitulo_principal": 6,
+    "versiculos_principales": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "referencia_principal_normalizada": "Hebreos 6:1-6",
+    "testamento_principal": "Nuevo Testamento"
+  },
+  "clasificacion_tematica": {
+    "topicos": [
+      "Arrepentimiento",
+      "Palabra de Dios",
+      "Verdad",
+      "Servicio cristiano"
+    ],
+    "keywords": [
+      "santidad",
+      "arrepentimiento",
+      "perseverancia",
+      "evangelio",
+      "apostasia"
+    ]
+  },
+  "referencias_biblicas": [
+    {
+      "referencia": "Hebreos 6:1-6",
+      "referencia_normalizada": "Hebreos 6:1-6",
+      "libro": "Hebreos",
+      "capitulo": 6,
+      "versiculos": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "tipo": "principal",
+      "clickeable": true
+    },
+    {
+      "referencia": "Hebreos 5:11",
+      "referencia_normalizada": "Hebreos 5:11",
+      "libro": "Hebreos",
+      "capitulo": 5,
+      "versiculos": [
+        11
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Juan 16:12",
+      "referencia_normalizada": "Juan 16:12",
+      "libro": "Juan",
+      "capitulo": 16,
+      "versiculos": [
+        12
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Hebreos 6:6",
+      "referencia_normalizada": "Hebreos 6:6",
+      "libro": "Hebreos",
+      "capitulo": 6,
+      "versiculos": [
+        6
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Job 19:25-29",
+      "referencia_normalizada": "Job 19:25-29",
+      "libro": "Job",
+      "capitulo": 19,
+      "versiculos": [
+        25,
+        26,
+        27,
+        28,
+        29
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Salmos 17:15",
+      "referencia_normalizada": "Salmos 17:15",
+      "libro": "Salmos",
+      "capitulo": 17,
+      "versiculos": [
+        15
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Isaías 53:10-12",
+      "referencia_normalizada": "Isaías 53:10-12",
+      "libro": "Isaías",
+      "capitulo": 53,
+      "versiculos": [
+        10,
+        11,
+        12
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "2 Timoteo 1:10",
+      "referencia_normalizada": "2 Timoteo 1:10",
+      "libro": "2 Timoteo",
+      "capitulo": 1,
+      "versiculos": [
+        10
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Hebreos 6:3",
+      "referencia_normalizada": "Hebreos 6:3",
+      "libro": "Hebreos",
+      "capitulo": 6,
+      "versiculos": [
+        3
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Hebreos 6:4-5",
+      "referencia_normalizada": "Hebreos 6:4-5",
+      "libro": "Hebreos",
+      "capitulo": 6,
+      "versiculos": [
+        4,
+        5
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Juan 6:53",
+      "referencia_normalizada": "Juan 6:53",
+      "libro": "Juan",
+      "capitulo": 6,
+      "versiculos": [
+        53
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Hebreos 6:4",
+      "referencia_normalizada": "Hebreos 6:4",
+      "libro": "Hebreos",
+      "capitulo": 6,
+      "versiculos": [
+        4
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Hebreos 6:5",
+      "referencia_normalizada": "Hebreos 6:5",
+      "libro": "Hebreos",
+      "capitulo": 6,
+      "versiculos": [
+        5
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    }
+  ],
+  "contenido": {
+    "introduccion": null,
+    "secciones": [],
+    "contenido_completo": "(Hebreos 5:11) Pablo estaba hablando del sacerdocio de Melquisedec. Aunque el sacerdocio de Cristo es el orden de Melquisedec, sin embargo, Sus funciones sacerdotales son similares a las cumplidas por los sacerdotes aarónicos. De hecho, el ministerio de los sacerdotes judíos era una forma de dar aviso de la obra que Cristo iba a llevar a cabo.\n\nI. Se detiene Pablo.\n\nEstá bajo \"presión\" divina para reprender a los lectores por la inmadurez.\n\nPara advertirles seriamente acerca del peligro de recaer.\n\nEs tristemente cierto que nuestra comprensión de la verdad divina está limitada por nuestra propia condición espiritual.\n\n¡Los oídos endurecidos no pueden recibir profundas verdades!\n\nEl Señor tiene muchas cosas que decirnos, pero no podemos \"llevarlas\" (Juan 16:12).\n\nHabía que empezar la perfección.\n\nAprender las enseñanzas: Cristo es casi invariablemente presentado como el objeto de la fe.\n\nNo que esto desplace a la fe en Dios; pero una fe en Dios que deje fuera a Cristo es ahora inadecuada.\n\nEl bautismo de Juan.\n\nLas obras muertas porque son vacías de la fe.\n\nEl fundamento: las grandes verdades del Nuevo Testamento acerca de Cristo, de Su persona y de Su obra es el misterio de la madurez.\n\nAhora son muertas las obras, están vacías de la fe.\n\nEran rectas, pero están muertas desde la venida de Cristo.\n\nLos servicios relacionados en el culto del Templo quedan fuera de lugar por la obra consumida de Cristo.\n\nLa fe en Dios.\n\nCristo es casi invariablemente (no varía o puede variar) presentando como el objeto de la fe.\n\n(Hebreos 6:6) El bautismo (no es el cristiano) sino a los levantamientos rituales tan prominentes en las vidas religiosas de los sacerdotes y del pueblo de Israel.\n\nImposición de manos (Levíticos. 1:4; 3:2; 16:21).\n\nEl ofrendante o el sacerdote imponía las manos sobre la cabeza de un animal como acto de identificación; en figura de animal llevaba los pecados de la persona asociada así con él.\n\nLa resurrección de los muertos se enseña en Job (Job 19:25-29) (Salmos 17:15) (Isaías 53:10-12).\n\nLo que no se ve claro en el Antiguo Testamento es resplandeciente revelado en el Nuevo Testamento (2 Timoteo 1:10).\n\n(Hebreos 6:3) Pablo quiere ayudarle en esto si Dios en verdad lo permite.\n\nPablo limitado en tiempo si busca a Dios, Él los madura.\n\n(4) Lleguemos ahora al centro de la advertencia contra la apostasía.\n\nSe aplica a una clase de persona a las que \"es imposible\" restaurar al arrepentimiento.\n\nAparentemente, estas personas se habían arrepentido en el pasado.\n\nAhora se dice con claridad que es imposible un arrepentimiento renovado.\n\n¿Quiénes son estas personas? (Hebreos 6:4-5)\n\nFueron iluminados.\n\nHabían oído el evangelio de la gracia de Dios.\n\nNo estaban a oscuras acerca del camino de la salvación.\n\nJudas Iscariote había sido iluminado, \"pero rechazó la luz\".\n\nGustaron del don celestial.\n\nEl Señor Jesús es el Don celestial.\n\nHabían gustado de Él, pero nunca lo recibieron con un acto definido de fe.\n\nEs posible gustar sin comer ni beber.\n\nNo hay suficiente con gustar de Cristo.\n\nSi no comemos la carne del Hijo del Hombre y bebemos Su sangre, esto es, a no ser que verdaderamente lo recibamos como Señor y Salvador, no tenemos vida en nosotros (Juan 6:53).\n\n(Hebreos 6:4) Habían (pasado) sido hechos partícipes del Espíritu Santo.\n\nAquí se usan de los verdaderos creyentes.\n\nNo defiendo los pensamientos de cada cual, es por lo que yo me cuido.\n\nEs una advertencia a los creyentes genuinos para urgirles (apurar, urgencia) \"al crecimiento\" (no quedarse con la carne) y a la madurez de creyente.\n\n(Hebreos 6:5) Gustaron de la buena Palabra de Dios.\n\nSe ha encontrado la verdad.\n\nEn la Palabra de Dios hemos encontrado la verdad.\n\nEn la Palabra encontramos la verdad y el sentido a la vida.\n\nDe los poderes del siglo venidero es la Edad Milenial, la era venidera de paz y prosperidad, en la que Cristo reinará sobre la Tierra durante mil años.\n\n(Hebreos 6:6) Recayeron (volver a caer), después de haber gozado de los privilegios acabados de relacionar; (4 porque es imposible), es imposible que sean renovados para arrepentimiento.\n\nCometieron el pecado de apostasía (rechazo del cristianismo, salida, revuelta o rebelión).\n\nHan llegado al lugar donde las luces se apagan de camino al infierno.\n\nLa enorme culpa de los apóstatas (ser aparte, separar, renuncia al cuerpo divino de Cristo), se indica en las palabras crucificando de nuevo para sí mismo al Hijo de Dios y exponiéndolo al público vituperio (burla, desprecio, maltrato, reproche, insulto, infamia, injuria, crítica).\n\nEsto significa un rechazo deliberado (a propósito, con intención) y malicioso de Cristo, no solo un negligente descuido de Él.\n\nIndica una positiva traición, unirse a las fuerzas hostiles a Él y lanzar ridículo contra Su Persona y Obra. Amén.",
+    "contenido_renderizado": [
+      {
+        "tipo": "parrafo",
+        "texto": "(Hebreos 5:11) Pablo estaba hablando del sacerdocio de Melquisedec. Aunque el sacerdocio de Cristo es el orden de Melquisedec, sin embargo, Sus funciones sacerdotales son similares a las cumplidas por los sacerdotes aarónicos. De hecho, el ministerio de los sacerdotes judíos era una forma de dar aviso de la obra que Cristo iba a llevar a cabo.",
+        "referencias_inline": [
+          "Hebreos 5:11"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "I. Se detiene Pablo.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Está bajo \"presión\" divina para reprender a los lectores por la inmadurez.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Para advertirles seriamente acerca del peligro de recaer.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Es tristemente cierto que nuestra comprensión de la verdad divina está limitada por nuestra propia condición espiritual.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "¡Los oídos endurecidos no pueden recibir profundas verdades!",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "El Señor tiene muchas cosas que decirnos, pero no podemos \"llevarlas\" (Juan 16:12).",
+        "referencias_inline": [
+          "Juan 16:12"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Había que empezar la perfección.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Aprender las enseñanzas: Cristo es casi invariablemente presentado como el objeto de la fe.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "No que esto desplace a la fe en Dios; pero una fe en Dios que deje fuera a Cristo es ahora inadecuada.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "El bautismo de Juan.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Las obras muertas porque son vacías de la fe.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "El fundamento: las grandes verdades del Nuevo Testamento acerca de Cristo, de Su persona y de Su obra es el misterio de la madurez.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Ahora son muertas las obras, están vacías de la fe.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Eran rectas, pero están muertas desde la venida de Cristo.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Los servicios relacionados en el culto del Templo quedan fuera de lugar por la obra consumida de Cristo.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "La fe en Dios.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Cristo es casi invariablemente (no varía o puede variar) presentando como el objeto de la fe.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Hebreos 6:6) El bautismo (no es el cristiano) sino a los levantamientos rituales tan prominentes en las vidas religiosas de los sacerdotes y del pueblo de Israel.",
+        "referencias_inline": [
+          "Hebreos 6:6"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Imposición de manos (Levíticos. 1:4; 3:2; 16:21).",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "El ofrendante o el sacerdote imponía las manos sobre la cabeza de un animal como acto de identificación; en figura de animal llevaba los pecados de la persona asociada así con él.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "La resurrección de los muertos se enseña en Job (Job 19:25-29) (Salmos 17:15) (Isaías 53:10-12).",
+        "referencias_inline": [
+          "Job 19:25-29",
+          "Salmos 17:15",
+          "Isaías 53:10-12"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Lo que no se ve claro en el Antiguo Testamento es resplandeciente revelado en el Nuevo Testamento (2 Timoteo 1:10).",
+        "referencias_inline": [
+          "2 Timoteo 1:10"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Hebreos 6:3) Pablo quiere ayudarle en esto si Dios en verdad lo permite.",
+        "referencias_inline": [
+          "Hebreos 6:3"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Pablo limitado en tiempo si busca a Dios, Él los madura.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(4) Lleguemos ahora al centro de la advertencia contra la apostasía.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Se aplica a una clase de persona a las que \"es imposible\" restaurar al arrepentimiento.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Aparentemente, estas personas se habían arrepentido en el pasado.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Ahora se dice con claridad que es imposible un arrepentimiento renovado.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "¿Quiénes son estas personas? (Hebreos 6:4-5)",
+        "referencias_inline": [
+          "Hebreos 6:4-5"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Fueron iluminados.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Habían oído el evangelio de la gracia de Dios.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "No estaban a oscuras acerca del camino de la salvación.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Judas Iscariote había sido iluminado, \"pero rechazó la luz\".",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Gustaron del don celestial.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "El Señor Jesús es el Don celestial.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Habían gustado de Él, pero nunca lo recibieron con un acto definido de fe.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Es posible gustar sin comer ni beber.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "No hay suficiente con gustar de Cristo.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Si no comemos la carne del Hijo del Hombre y bebemos Su sangre, esto es, a no ser que verdaderamente lo recibamos como Señor y Salvador, no tenemos vida en nosotros (Juan 6:53).",
+        "referencias_inline": [
+          "Juan 6:53"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Hebreos 6:4) Habían (pasado) sido hechos partícipes del Espíritu Santo.",
+        "referencias_inline": [
+          "Hebreos 6:4"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Aquí se usan de los verdaderos creyentes.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "No defiendo los pensamientos de cada cual, es por lo que yo me cuido.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Es una advertencia a los creyentes genuinos para urgirles (apurar, urgencia) \"al crecimiento\" (no quedarse con la carne) y a la madurez de creyente.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Hebreos 6:5) Gustaron de la buena Palabra de Dios.",
+        "referencias_inline": [
+          "Hebreos 6:5"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Se ha encontrado la verdad.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "En la Palabra de Dios hemos encontrado la verdad.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "En la Palabra encontramos la verdad y el sentido a la vida.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "De los poderes del siglo venidero es la Edad Milenial, la era venidera de paz y prosperidad, en la que Cristo reinará sobre la Tierra durante mil años.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Hebreos 6:6) Recayeron (volver a caer), después de haber gozado de los privilegios acabados de relacionar; (4 porque es imposible), es imposible que sean renovados para arrepentimiento.",
+        "referencias_inline": [
+          "Hebreos 6:6"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Cometieron el pecado de apostasía (rechazo del cristianismo, salida, revuelta o rebelión).",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Han llegado al lugar donde las luces se apagan de camino al infierno.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "La enorme culpa de los apóstatas (ser aparte, separar, renuncia al cuerpo divino de Cristo), se indica en las palabras crucificando de nuevo para sí mismo al Hijo de Dios y exponiéndolo al público vituperio (burla, desprecio, maltrato, reproche, insulto, infamia, injuria, crítica).",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Esto significa un rechazo deliberado (a propósito, con intención) y malicioso de Cristo, no solo un negligente descuido de Él.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Indica una positiva traición, unirse a las fuerzas hostiles a Él y lanzar ridículo contra Su Persona y Obra. Amén.",
+        "referencias_inline": []
+      }
+    ]
+  },
+  "busqueda": {
+    "texto_indexable": "tardos para oir hebreos 6 1 6 arrepentimiento palabra de Dios verdad servicio cristiano santidad arrepentimiento perseverancia evangelio apostasia hebreos 5 11 pablo estaba hablando del sacerdocio de melquisedec aunque el sacerdocio de cristo es el orden de melquisedec sin embargo sus funciones sacerdotales son similares a las cumplidas por los sacerdotes aaronicos de hecho el ministerio de los sacerdotes judios era una forma de dar aviso de la obra que cristo iba a llevar a cabo i se detiene pablo esta bajo presion divina para reprender a los lectores por la inmadurez para advertirles seriamente acerca del peligro de recaer es tristemente cierto que nuestra comprension de la verdad divina esta limitada por nuestra propia condicion espiritual los oidos endurecidos no pueden recibir profundas verdades el senor tiene muchas cosas que decirnos pero no podemos llevarlas juan 16 12 habia que empezar la perfeccion aprender las ensenanzas cristo es casi invariablemente presentado como el objeto de la fe no que esto desplace a la fe en Dios pero una fe en Dios que deje fuera a cristo es ahora inadecuada el bautismo de juan las obras muertas porque son vacias de la fe el fundamento las grandes verdades del nuevo testamento acerca de cristo de su persona y de su obra es el misterio de la madurez ahora son muertas las obras estan vacias de la fe eran rectas pero estan muertas desde la venida de cristo los servicios relacionados en el culto del templo quedan fuera de lugar por la obra consumida de cristo la fe en Dios cristo es casi invariablemente no varia o puede variar presentando como el objeto de la fe hebreos 6 6 el bautismo no es el cristiano sino a los levantamientos rituales tan prominentes en las vidas religiosas de los sacerdotes y del pueblo de israel imposicion de manos leviticos 1 4 3 2 16 21 el ofrendante o el sacerdote imponia las manos sobre la cabeza de un animal como acto de identificacion en figura de animal llevaba los pecados de la persona asociada asi con el la resurreccion de los muertos se ensena en job job 19 25 29 salmo 17 15 isaias 53 10 12 lo que no se ve claro en el antiguo testamento es resplandeciente revelado en el nuevo testamento 2 timoteo 1 10 hebreos 6 3 pablo quiere ayudarle en esto si Dios en verdad lo permite pablo limitado en tiempo si busca a Dios el los madura 4 lleguemos ahora al centro de la advertencia contra la apostasia se aplica a una clase de persona a las que es imposible restaurar al arrepentimiento aparentemente estas personas se habian arrepentido en el pasado ahora se dice con claridad que es imposible un arrepentimiento renovado quienes son estas personas hebreos 6 4 5 fueron iluminados habian oido el evangelio de la gracia de Dios no estaban a oscuras acerca del camino de la salvacion judas iscariote habia sido iluminado pero rechazo la luz gustaron del don celestial el senor Jesus es el don celestial habian gustado de el pero nunca lo recibieron con un acto definido de fe es posible gustar sin comer ni beber no hay suficiente con gustar de cristo si no comemos la carne del hijo del hombre y bebemos su sangre esto es a no ser que verdaderamente lo recibamos como senor y salvador no tenemos vida en nosotros juan 6 53 hebreos 6 4 habian pasado sido hechos participes del espiritu santo aqui se usan de los verdaderos creyentes no defiendo los pensamientos de cada cual es por lo que yo me cuido es una advertencia a los creyentes genuinos para urgirles apurar urgencia al crecimiento no quedarse con la carne y a la madurez de creyente hebreos 6 5 gustaron de la buena palabra de Dios se ha encontrado la verdad en la palabra de Dios hemos encontrado la verdad en la palabra encontramos la verdad y el sentido a la vida de los poderes del siglo venidero es la edad milenial la era venidera de paz y prosperidad en la que cristo reinara sobre la tierra durante mil anos hebreos 6 6 recayeron volver a caer despues de haber gozado de los privilegios acabados de relacionar 4 porque es imposible es imposible que sean renovados para arrepentimiento cometieron el pecado de apostasia rechazo del cristianismo salida revuelta o rebelion han llegado al lugar donde las luces se apagan de camino al infierno la enorme culpa de los apostatas ser aparte separar renuncia al cuerpo divino de cristo se indica en las palabras crucificando de nuevo para si mismo al hijo de Dios y exponiendolo al publico vituperio burla desprecio maltrato reproche insulto infamia injuria critica esto significa un rechazo deliberado a proposito con intencion y malicioso de cristo no solo un negligente descuido de el indica una positiva traicion unirse a las fuerzas hostiles a el y lanzar ridiculo contra su persona y obra amen",
+    "alias_busqueda": [
+      "Estudio 1344",
+      "Hebreos",
+      "Hebreos 6",
+      "Hebreos 6:1-6",
+      "santidad",
+      "arrepentimiento",
+      "perseverancia",
+      "evangelio",
+      "Palabra de Dios"
+    ]
+  },
+  "revision_manual": {
+    "requiere_revision": false,
+    "motivo": ""
+  },
+  "ui": {
+    "mostrar_credito_en_header": true,
+    "mostrar_numero_estudio": true,
+    "mostrar_fecha": true,
+    "mostrar_topicos": true,
+    "permitir_favorito": true,
+    "permitir_compartir": true
+  }
+}

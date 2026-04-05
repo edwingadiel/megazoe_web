@@ -1,0 +1,568 @@
+{
+  "id": "estudio-1279-estudio-1279",
+  "slug": "estudio-1279-estudio-1279",
+  "numero_estudio": 1279,
+  "tipo_estudio": "Iglesia en las casas",
+  "ministerio": {
+    "iglesia": "Iglesia Cristiana Mega Zoe",
+    "pastora": "Pastora Edith Cruz",
+    "credito_corto": "Iglesia Cristiana Mega Zoe · Pastora Edith Cruz",
+    "credito_largo": "Contenido original de Iglesia Cristiana Mega Zoe, conservando el crédito ministerial correspondiente a la Pastora Edith Cruz."
+  },
+  "identidad_editorial": {
+    "idioma": "es",
+    "fuente_original": "documento_word",
+    "archivo_origen": "/Users/edwingadiel/Desktop/Estudios en Word/Estudio #1279 Dureza - Mateo 11 21; Lucas 10 13-15.docx",
+    "estado_revision": "procesado",
+    "version_schema": "1.0"
+  },
+  "encabezado": {
+    "titulo": "Dureza",
+    "subtitulo": null,
+    "cita_principal": "Mateo 11:21",
+    "resumen_corto": "Dureza llama a caminar con sabiduría espiritual y volver al Señor con arrepentimiento."
+  },
+  "fechas": {
+    "fecha_inicio": null,
+    "fecha_fin": null,
+    "fecha_texto_original": "",
+    "ano": null
+  },
+  "clasificacion_biblica": {
+    "libro_principal": "Mateo",
+    "capitulo_principal": 11,
+    "versiculos_principales": [
+      21
+    ],
+    "referencia_principal_normalizada": "Mateo 11:21",
+    "testamento_principal": "Nuevo Testamento"
+  },
+  "clasificacion_tematica": {
+    "topicos": [
+      "Sabiduría espiritual",
+      "Arrepentimiento",
+      "Vida eterna"
+    ],
+    "keywords": [
+      "endurecer el corazón",
+      "libro de la vida",
+      "juicio",
+      "arrepentimiento",
+      "prudencia",
+      "fuego",
+      "corazón"
+    ]
+  },
+  "referencias_biblicas": [
+    {
+      "referencia": "Mateo 11:21",
+      "referencia_normalizada": "Mateo 11:21",
+      "libro": "Mateo",
+      "capitulo": 11,
+      "versiculos": [
+        21
+      ],
+      "tipo": "principal",
+      "clickeable": true
+    },
+    {
+      "referencia": "Lucas 10:13-15",
+      "referencia_normalizada": "Lucas 10:13-15",
+      "libro": "Lucas",
+      "capitulo": 10,
+      "versiculos": [
+        13,
+        14,
+        15
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Proverbios 28:14",
+      "referencia_normalizada": "Proverbios 28:14",
+      "libro": "Proverbios",
+      "capitulo": 28,
+      "versiculos": [
+        14
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Proverbios 28:26",
+      "referencia_normalizada": "Proverbios 28:26",
+      "libro": "Proverbios",
+      "capitulo": 28,
+      "versiculos": [
+        26
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Proverbios 29:1",
+      "referencia_normalizada": "Proverbios 29:1",
+      "libro": "Proverbios",
+      "capitulo": 29,
+      "versiculos": [
+        1
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Romanos 2:5",
+      "referencia_normalizada": "Romanos 2:5",
+      "libro": "Romanos",
+      "capitulo": 2,
+      "versiculos": [
+        5
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Apocalipsis 20:11-15",
+      "referencia_normalizada": "Apocalipsis 20:11-15",
+      "libro": "Apocalipsis",
+      "capitulo": 20,
+      "versiculos": [
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Juan 5:22-27",
+      "referencia_normalizada": "Juan 5:22-27",
+      "libro": "Juan",
+      "capitulo": 5,
+      "versiculos": [
+        22,
+        23,
+        24,
+        25,
+        26,
+        27
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "2 Pedro 3:10",
+      "referencia_normalizada": "2 Pedro 3:10",
+      "libro": "2 Pedro",
+      "capitulo": 3,
+      "versiculos": [
+        10
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Apocalipsis 20:15",
+      "referencia_normalizada": "Apocalipsis 20:15",
+      "libro": "Apocalipsis",
+      "capitulo": 20,
+      "versiculos": [
+        15
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Apocalipsis 20:13",
+      "referencia_normalizada": "Apocalipsis 20:13",
+      "libro": "Apocalipsis",
+      "capitulo": 20,
+      "versiculos": [
+        13
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Apocalipsis 20:14",
+      "referencia_normalizada": "Apocalipsis 20:14",
+      "libro": "Apocalipsis",
+      "capitulo": 20,
+      "versiculos": [
+        14
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Lucas 23:43",
+      "referencia_normalizada": "Lucas 23:43",
+      "libro": "Lucas",
+      "capitulo": 23,
+      "versiculos": [
+        43
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "2 Corintios 12:2, 4",
+      "referencia_normalizada": "2 Corintios 12:2,4",
+      "libro": "2 Corintios",
+      "capitulo": 12,
+      "versiculos": [
+        2,
+        4
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Hebreos 3:13",
+      "referencia_normalizada": "Hebreos 3:13",
+      "libro": "Hebreos",
+      "capitulo": 3,
+      "versiculos": [
+        13
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    }
+  ],
+  "contenido": {
+    "introduccion": null,
+    "secciones": [],
+    "contenido_completo": "Jesús hablaba estas palabras; recordó tres ciudades de Galilea que habían tenido mucho mayor privilegio que ninguna otra. Le habían visto llevar a cabo Sus poderosos milagros en sus calles. Habían oído Su enseñanza llena de gracia. Pero le habían rechazado de plano.\n\nSi los milagros que se habían hecho en Corazín y Betsaida.\n\nSe hubieran hecho en las antiguas Tiro y Sidón.\n\nAquellas ciudades costeras se habrían sumido (abatir, hundir) en el más profundo arrepentimiento.\n\nPor cuanto las ciudades de Galilea \"no fueron movidas\" por las obras de Jesús, su juicio sería más severo que el de Tiro y Sidón.\n\nQuede claro, Corazín y Betsaida fueron las ciudades de milagros; milagros de los panes y los peces, caminó sobre el agua, devolvió la vista a un ciego; nacieron los apóstoles Pedro y Andrés.\n\nCapernaum, donde Jesús se fue a vivir, hizo base durante Su ministerio.\n\nAquella ciudad fue levantada en privilegio hasta los cielos.\n\nPero menospreció a su más notable \"Ciudadano\" y perdió su oportunidad.\n\nPor ello, \"hasta el Hades\" será \"abatida\" en juicio.\n\n(Proverbios 28:14) Bienaventurado el hombre que \"siempre teme\" a Dios.\n\nDichoso el hombre que tiene miedo; pero \"el que endurece su corazón caerá en el mal\".\n\nHermano por miedo debemos entender, el temor al pecado y a \"las consecuencias del pecado\"; por \"endurecer el corazón\" se entiende desechar este temor, menospreciar el castigo de Dios y cometer el pecado a plena conciencia.\n\nCuando se peca viene sobre uno el castigo de separación de Dios.\n\n¡Y ay de uno, cuán mal podemos llegar!\n\nEntiende por \"miedo\" la prudencia ante el peligro; por \"endurecer el corazón\" es un atrevimiento temerario; acción peligrosa con valor e imprudencia. (Proverbios 28:26) El que confía en su propio corazón es necio.\n\n(Proverbios 29:1) El que continua en su pecado a pesar de repetidas advertencias, de \"repente será quebrantado y no habrá\" esperanza de más oportunidades.\n\n¡Hay que cuidar cuando ocurra la muerte!\n\nAños estuvo Noé llamando al pueblo, pero rehusaron escuchar a Noé.\n\n\"El diluvio llegó y fueron destruidos\".\n\nAlguien le pregunta por alguien que había estado orando por él: ¿No crees que ya es hora de entregarte al Señor?\n\nÉl le contesta: ¿Y qué ha hecho Él por mí?\n\nEse fin de semana su vida se apagó en una desgracia.\n\n(Romanos 2:5) Aprendemos acerca del juicio de Dios que se gradúa según la acumulación de culpa.\n\nPablo presenta a pecadores endurecidos y no arrepentidos atesorando \"ira\" para sí mismos, como si estuviesen acumulando \"una fortuna de oro y plata\".\n\n(Apocalipsis 20:11-15) ¡Qué fortuna será en el día en que la \"ira\" de Dios sea finalmente revelada en el \"juicio\" del Gran Trono Blanco!\n\nLuego somos introducidos ante el juicio del \"gran trono blanco\".\n\nEs \"grande\" por las cuestiones implicadas y blanco por la perfección y pureza de las sentencias pronunciadas.\n\nQuien se sienta como Juez es el Señor Jesús (Juan 5:22-27).\n\nLa expresión \"de delante del cual huyeron la tierra y el cielo\" indica que este juicio tiene lugar en la eternidad, tras la destrucción de la actual creación (2 Pedro 3:10).\n\n\"Los muertos grandes y pequeños\", están de pie delante de Dios.\n\nEl libro de la vida contiene los nombres de todos los redimidos (Apocalipsis 20:15) por la preciosa sangre de Cristo.\n\nLos otros libros contienen un detallado registro de las \"obras\" de los perdidos.\n\nNinguno de los que comparecen en este juicio está registrado en el \"libro de la vida\".\n\nEl hecho de que su nombre \"no\" esté allá \"le condena\", pero el registro de sus malvadas obras determina el \"grado\" de su castigo.\n\nEl (Apocalipsis 20:13) mar entregará los cuerpos de los que han sido sepultados en su seno.\n\nLos sepulcros que es la Muerte han de entregar los cuerpos de los inconversos que han sido enterrados.\n\nEl Hades dará las almas de todos los que \"murieron en incredulidad\".\n\nLos cuerpos de las almas serán reunidos para estar en pie ante el Juez.\n\nHabrá grado de castigo como grados de recompensas.\n\n(Apocalipsis 20:14) Cuando leemos que la Muerte y el Hades son lanzados al lago de fuego, esto se refiere a la integridad de la persona: espíritu, alma y cuerpo.\n\nEsta es la \"muerte segunda explica el texto; el lago de fuego.\n\nDiferencia entre el Hades y el infierno.\n\nLos inconversos que han muerto, el Hades es un estado que carece de cuerpo de castigo consciente.\n\nEs una especie de celda de castigo, una condición intermedia donde esperan el Juicio del Gran Trono Blanco.\n\nPara los creyentes que han muerto, el Hades es un estado de bienaventuranza (carece de cuerpo) en el cielo, esperando la resurrección y la glorificación del cuerpo.\n\n(Lucas 23:43) Cuando Jesús murió, fue al Paraíso, que Pablo identifica con el tercer cielo (2 Corintios 12:2, 4), la morada de Dios.\n\nEl infierno es la cárcel definitiva de los malvados muertos.\n\nEs lo mismo que el lago de fuego y la muerte segunda.\n\nEl factor decisivo en este juicio es si el nombre de uno está \"escrito en el libro de la vida\".\n\nEn realidad, si el nombre del acusado hubiese estado escrito en el mismo, habría ya formado parte de la primera resurrección.\n\nDe modo que este versículo se aplica solo a aquellos que comparecen delante del Gran Trono Blanco.\n\n(Hebreos 3:13) Se exhorta hoy a que ninguno de vosotros se endurezca por el engaño del pecado.\n\nNo dejar a Cristo por religiones que no pueden tratar con el pecado de manera efectiva.\n\nEcharse atrás significa endurecerse \"por el engaño del pecado\". Amén,",
+    "contenido_renderizado": [
+      {
+        "tipo": "parrafo",
+        "texto": "Jesús hablaba estas palabras; recordó tres ciudades de Galilea que habían tenido mucho mayor privilegio que ninguna otra. Le habían visto llevar a cabo Sus poderosos milagros en sus calles. Habían oído Su enseñanza llena de gracia. Pero le habían rechazado de plano.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Si los milagros que se habían hecho en Corazín y Betsaida.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Se hubieran hecho en las antiguas Tiro y Sidón.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Aquellas ciudades costeras se habrían sumido (abatir, hundir) en el más profundo arrepentimiento.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Por cuanto las ciudades de Galilea \"no fueron movidas\" por las obras de Jesús, su juicio sería más severo que el de Tiro y Sidón.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Quede claro, Corazín y Betsaida fueron las ciudades de milagros; milagros de los panes y los peces, caminó sobre el agua, devolvió la vista a un ciego; nacieron los apóstoles Pedro y Andrés.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Capernaum, donde Jesús se fue a vivir, hizo base durante Su ministerio.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Aquella ciudad fue levantada en privilegio hasta los cielos.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Pero menospreció a su más notable \"Ciudadano\" y perdió su oportunidad.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Por ello, \"hasta el Hades\" será \"abatida\" en juicio.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Proverbios 28:14) Bienaventurado el hombre que \"siempre teme\" a Dios.",
+        "referencias_inline": [
+          "Proverbios 28:14"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Dichoso el hombre que tiene miedo; pero \"el que endurece su corazón caerá en el mal\".",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Hermano por miedo debemos entender, el temor al pecado y a \"las consecuencias del pecado\"; por \"endurecer el corazón\" se entiende desechar este temor, menospreciar el castigo de Dios y cometer el pecado a plena conciencia.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Cuando se peca viene sobre uno el castigo de separación de Dios.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "¡Y ay de uno, cuán mal podemos llegar!",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Entiende por \"miedo\" la prudencia ante el peligro; por \"endurecer el corazón\" es un atrevimiento temerario; acción peligrosa con valor e imprudencia. (Proverbios 28:26) El que confía en su propio corazón es necio.",
+        "referencias_inline": [
+          "Proverbios 28:26"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Proverbios 29:1) El que continua en su pecado a pesar de repetidas advertencias, de \"repente será quebrantado y no habrá\" esperanza de más oportunidades.",
+        "referencias_inline": [
+          "Proverbios 29:1"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "¡Hay que cuidar cuando ocurra la muerte!",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Años estuvo Noé llamando al pueblo, pero rehusaron escuchar a Noé.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "\"El diluvio llegó y fueron destruidos\".",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Alguien le pregunta por alguien que había estado orando por él: ¿No crees que ya es hora de entregarte al Señor?",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Él le contesta: ¿Y qué ha hecho Él por mí?",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Ese fin de semana su vida se apagó en una desgracia.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Romanos 2:5) Aprendemos acerca del juicio de Dios que se gradúa según la acumulación de culpa.",
+        "referencias_inline": [
+          "Romanos 2:5"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Pablo presenta a pecadores endurecidos y no arrepentidos atesorando \"ira\" para sí mismos, como si estuviesen acumulando \"una fortuna de oro y plata\".",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Apocalipsis 20:11-15) ¡Qué fortuna será en el día en que la \"ira\" de Dios sea finalmente revelada en el \"juicio\" del Gran Trono Blanco!",
+        "referencias_inline": [
+          "Apocalipsis 20:11-15"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Luego somos introducidos ante el juicio del \"gran trono blanco\".",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Es \"grande\" por las cuestiones implicadas y blanco por la perfección y pureza de las sentencias pronunciadas.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Quien se sienta como Juez es el Señor Jesús (Juan 5:22-27).",
+        "referencias_inline": [
+          "Juan 5:22-27"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "La expresión \"de delante del cual huyeron la tierra y el cielo\" indica que este juicio tiene lugar en la eternidad, tras la destrucción de la actual creación (2 Pedro 3:10).",
+        "referencias_inline": [
+          "2 Pedro 3:10"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "\"Los muertos grandes y pequeños\", están de pie delante de Dios.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "El libro de la vida contiene los nombres de todos los redimidos (Apocalipsis 20:15) por la preciosa sangre de Cristo.",
+        "referencias_inline": [
+          "Apocalipsis 20:15"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Los otros libros contienen un detallado registro de las \"obras\" de los perdidos.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Ninguno de los que comparecen en este juicio está registrado en el \"libro de la vida\".",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "El hecho de que su nombre \"no\" esté allá \"le condena\", pero el registro de sus malvadas obras determina el \"grado\" de su castigo.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "El (Apocalipsis 20:13) mar entregará los cuerpos de los que han sido sepultados en su seno.",
+        "referencias_inline": [
+          "Apocalipsis 20:13"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Los sepulcros que es la Muerte han de entregar los cuerpos de los inconversos que han sido enterrados.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "El Hades dará las almas de todos los que \"murieron en incredulidad\".",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Los cuerpos de las almas serán reunidos para estar en pie ante el Juez.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Habrá grado de castigo como grados de recompensas.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Apocalipsis 20:14) Cuando leemos que la Muerte y el Hades son lanzados al lago de fuego, esto se refiere a la integridad de la persona: espíritu, alma y cuerpo.",
+        "referencias_inline": [
+          "Apocalipsis 20:14"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Esta es la \"muerte segunda explica el texto; el lago de fuego.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Diferencia entre el Hades y el infierno.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Los inconversos que han muerto, el Hades es un estado que carece de cuerpo de castigo consciente.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Es una especie de celda de castigo, una condición intermedia donde esperan el Juicio del Gran Trono Blanco.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Para los creyentes que han muerto, el Hades es un estado de bienaventuranza (carece de cuerpo) en el cielo, esperando la resurrección y la glorificación del cuerpo.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Lucas 23:43) Cuando Jesús murió, fue al Paraíso, que Pablo identifica con el tercer cielo (2 Corintios 12:2, 4), la morada de Dios.",
+        "referencias_inline": [
+          "Lucas 23:43",
+          "2 Corintios 12:2,4"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "El infierno es la cárcel definitiva de los malvados muertos.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Es lo mismo que el lago de fuego y la muerte segunda.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "El factor decisivo en este juicio es si el nombre de uno está \"escrito en el libro de la vida\".",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "En realidad, si el nombre del acusado hubiese estado escrito en el mismo, habría ya formado parte de la primera resurrección.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "De modo que este versículo se aplica solo a aquellos que comparecen delante del Gran Trono Blanco.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Hebreos 3:13) Se exhorta hoy a que ninguno de vosotros se endurezca por el engaño del pecado.",
+        "referencias_inline": [
+          "Hebreos 3:13"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "No dejar a Cristo por religiones que no pueden tratar con el pecado de manera efectiva.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Echarse atrás significa endurecerse \"por el engaño del pecado\". Amén,",
+        "referencias_inline": []
+      }
+    ]
+  },
+  "busqueda": {
+    "texto_indexable": "dureza mateo 11 21 sabiduria espiritual arrepentimiento vida eterna endurecer el corazon libro de la vida juicio arrepentimiento prudencia fuego corazon Jesus hablaba estas palabras recordo tres ciudades de galilea que habian tenido mucho mayor privilegio que ninguna otra le habian visto llevar a cabo sus poderosos milagros en sus calles habian oido su ensenanza llena de gracia pero le habian rechazado de plano si los milagros que se habian hecho en corazin y betsaida se hubieran hecho en las antiguas tiro y sidon aquellas ciudades costeras se habrian sumido abatir hundir en el mas profundo arrepentimiento por cuanto las ciudades de galilea no fueron movidas por las obras de Jesus su juicio seria mas severo que el de tiro y sidon quede claro corazin y betsaida fueron las ciudades de milagros milagros de los panes y los peces camino sobre el agua devolvio la vista a un ciego nacieron los apostoles pedro y andres capernaum donde Jesus se fue a vivir hizo base durante su ministerio aquella ciudad fue levantada en privilegio hasta los cielos pero menosprecio a su mas notable ciudadano y perdio su oportunidad por ello hasta el hades sera abatida en juicio proverbios 28 14 bienaventurado el hombre que siempre teme a Dios dichoso el hombre que tiene miedo pero el que endurece su corazon caera en el mal hermano por miedo debemos entender el temor al pecado y a las consecuencias del pecado por endurecer el corazon se entiende desechar este temor menospreciar el castigo de Dios y cometer el pecado a plena conciencia cuando se peca viene sobre uno el castigo de separacion de Dios y ay de uno cuan mal podemos llegar entiende por miedo la prudencia ante el peligro por endurecer el corazon es un atrevimiento temerario accion peligrosa con valor e imprudencia proverbios 28 26 el que confia en su propio corazon es necio proverbios 29 1 el que continua en su pecado a pesar de repetidas advertencias de repente sera quebrantado y no habra esperanza de mas oportunidades hay que cuidar cuando ocurra la muerte anos estuvo noe llamando al pueblo pero rehusaron escuchar a noe el diluvio llego y fueron destruidos alguien le pregunta por alguien que habia estado orando por el no crees que ya es hora de entregarte al senor el le contesta y que ha hecho el por mi ese fin de semana su vida se apago en una desgracia romanos 2 5 aprendemos acerca del juicio de Dios que se gradua segun la acumulacion de culpa pablo presenta a pecadores endurecidos y no arrepentidos atesorando ira para si mismos como si estuviesen acumulando una fortuna de oro y plata apocalipsis 20 11 15 que fortuna sera en el dia en que la ira de Dios sea finalmente revelada en el juicio del gran trono blanco luego somos introducidos ante el juicio del gran trono blanco es grande por las cuestiones implicadas y blanco por la perfeccion y pureza de las sentencias pronunciadas quien se sienta como juez es el senor Jesus juan 5 22 27 la expresion de delante del cual huyeron la tierra y el cielo indica que este juicio tiene lugar en la eternidad tras la destruccion de la actual creacion 2 pedro 3 10 los muertos grandes y pequenos estan de pie delante de Dios el libro de la vida contiene los nombres de todos los redimidos apocalipsis 20 15 por la preciosa sangre de cristo los otros libros contienen un detallado registro de las obras de los perdidos ninguno de los que comparecen en este juicio esta registrado en el libro de la vida el hecho de que su nombre no este alla le condena pero el registro de sus malvadas obras determina el grado de su castigo el apocalipsis 20 13 mar entregara los cuerpos de los que han sido sepultados en su seno los sepulcros que es la muerte han de entregar los cuerpos de los inconversos que han sido enterrados el hades dara las almas de todos los que murieron en incredulidad los cuerpos de las almas seran reunidos para estar en pie ante el juez habra grado de castigo como grados de recompensas apocalipsis 20 14 cuando leemos que la muerte y el hades son lanzados al lago de fuego esto se refiere a la integridad de la persona espiritu alma y cuerpo esta es la muerte segunda explica el texto el lago de fuego diferencia entre el hades y el infierno los inconversos que han muerto el hades es un estado que carece de cuerpo de castigo consciente es una especie de celda de castigo una condicion intermedia donde esperan el juicio del gran trono blanco para los creyentes que han muerto el hades es un estado de bienaventuranza carece de cuerpo en el cielo esperando la resurreccion y la glorificacion del cuerpo lucas 23 43 cuando Jesus murio fue al paraiso que pablo identifica con el tercer cielo 2 corintios 12 2 4 la morada de Dios el infierno es la carcel definitiva de los malvados muertos es lo mismo que el lago de fuego y la muerte segunda el factor decisivo en este juicio es si el nombre de uno esta escrito en el libro de la vida en realidad si el nombre del acusado hubiese estado escrito en el mismo habria ya formado parte de la primera resurreccion de modo que este versiculo se aplica solo a aquellos que comparecen delante del gran trono blanco hebreos 3 13 se exhorta hoy a que ninguno de vosotros se endurezca por el engano del pecado no dejar a cristo por religiones que no pueden tratar con el pecado de manera efectiva echarse atras significa endurecerse por el engano del pecado amen",
+    "alias_busqueda": [
+      "Estudio 1279",
+      "Mateo",
+      "Mateo 11",
+      "Mateo 11:21",
+      "endurecer el corazón",
+      "libro de la vida",
+      "juicio",
+      "arrepentimiento",
+      "Sabiduría espiritual"
+    ]
+  },
+  "revision_manual": {
+    "requiere_revision": false,
+    "motivo": ""
+  },
+  "ui": {
+    "mostrar_credito_en_header": true,
+    "mostrar_numero_estudio": true,
+    "mostrar_fecha": true,
+    "mostrar_topicos": true,
+    "permitir_favorito": true,
+    "permitir_compartir": true
+  }
+}

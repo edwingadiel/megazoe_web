@@ -1,0 +1,504 @@
+{
+  "id": "estudio-1320-estudio-1320",
+  "slug": "estudio-1320-estudio-1320",
+  "numero_estudio": 1320,
+  "tipo_estudio": "Iglesia en las casas",
+  "ministerio": {
+    "iglesia": "Iglesia Cristiana Mega Zoe",
+    "pastora": "Pastora Edith Cruz",
+    "credito_corto": "Iglesia Cristiana Mega Zoe · Pastora Edith Cruz",
+    "credito_largo": "Contenido original de Iglesia Cristiana Mega Zoe, conservando el crédito ministerial correspondiente a la Pastora Edith Cruz."
+  },
+  "identidad_editorial": {
+    "idioma": "es",
+    "fuente_original": "documento_word",
+    "archivo_origen": "/Users/edwingadiel/Desktop/Estudios en Word/Estudio #1320 La raza humana tiene dos destinos - Lucas 16 22-31.docx",
+    "estado_revision": "procesado",
+    "version_schema": "1.0"
+  },
+  "encabezado": {
+    "titulo": "La Raza Humana Tiene Dos Destinos",
+    "subtitulo": null,
+    "cita_principal": "Lucas 16:22-31",
+    "resumen_corto": "La Raza Humana Tiene Dos Destinos enseña a vivir en santidad y vivir con la mirada puesta en la vida eterna."
+  },
+  "fechas": {
+    "fecha_inicio": null,
+    "fecha_fin": null,
+    "fecha_texto_original": "",
+    "ano": null
+  },
+  "clasificacion_biblica": {
+    "libro_principal": "Lucas",
+    "capitulo_principal": 16,
+    "versiculos_principales": [
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31
+    ],
+    "referencia_principal_normalizada": "Lucas 16:22-31",
+    "testamento_principal": "Nuevo Testamento"
+  },
+  "clasificacion_tematica": {
+    "topicos": [
+      "Santidad",
+      "Vida eterna",
+      "Salvación"
+    ],
+    "keywords": [
+      "vida eterna",
+      "libro de la vida",
+      "santidad",
+      "juicio",
+      "fuego",
+      "arca",
+      "apostasia"
+    ]
+  },
+  "referencias_biblicas": [
+    {
+      "referencia": "Lucas 16:22-31",
+      "referencia_normalizada": "Lucas 16:22-31",
+      "libro": "Lucas",
+      "capitulo": 16,
+      "versiculos": [
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31
+      ],
+      "tipo": "principal",
+      "clickeable": true
+    },
+    {
+      "referencia": "Hebreos 1:14",
+      "referencia_normalizada": "Hebreos 1:14",
+      "libro": "Hebreos",
+      "capitulo": 1,
+      "versiculos": [
+        14
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "1 Juan 2:1",
+      "referencia_normalizada": "1 Juan 2:1",
+      "libro": "1 Juan",
+      "capitulo": 2,
+      "versiculos": [
+        1
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Mateo 5:29",
+      "referencia_normalizada": "Mateo 5:29",
+      "libro": "Mateo",
+      "capitulo": 5,
+      "versiculos": [
+        29
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Mateo 25:41",
+      "referencia_normalizada": "Mateo 25:41",
+      "libro": "Mateo",
+      "capitulo": 25,
+      "versiculos": [
+        41
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "2 Pedro 2:4",
+      "referencia_normalizada": "2 Pedro 2:4",
+      "libro": "2 Pedro",
+      "capitulo": 2,
+      "versiculos": [
+        4
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Judas 6",
+      "referencia_normalizada": "Judas 1:6",
+      "libro": "Judas",
+      "capitulo": 1,
+      "versiculos": [
+        6
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Proverbios 15:24",
+      "referencia_normalizada": "Proverbios 15:24",
+      "libro": "Proverbios",
+      "capitulo": 15,
+      "versiculos": [
+        24
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Apocalipsis 19:20",
+      "referencia_normalizada": "Apocalipsis 19:20",
+      "libro": "Apocalipsis",
+      "capitulo": 19,
+      "versiculos": [
+        20
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Apocalipsis 20:11-15",
+      "referencia_normalizada": "Apocalipsis 20:11-15",
+      "libro": "Apocalipsis",
+      "capitulo": 20,
+      "versiculos": [
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Daniel 12:2",
+      "referencia_normalizada": "Daniel 12:2",
+      "libro": "Daniel",
+      "capitulo": 12,
+      "versiculos": [
+        2
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Juan 5:28-29",
+      "referencia_normalizada": "Juan 5:28-29",
+      "libro": "Juan",
+      "capitulo": 5,
+      "versiculos": [
+        28,
+        29
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Apocalipsis 20:10",
+      "referencia_normalizada": "Apocalipsis 20:10",
+      "libro": "Apocalipsis",
+      "capitulo": 20,
+      "versiculos": [
+        10
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Mateo 5:29-30",
+      "referencia_normalizada": "Mateo 5:29-30",
+      "libro": "Mateo",
+      "capitulo": 5,
+      "versiculos": [
+        29,
+        30
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Marcos 9:43-48",
+      "referencia_normalizada": "Marcos 9:43-48",
+      "libro": "Marcos",
+      "capitulo": 9,
+      "versiculos": [
+        43,
+        44,
+        45,
+        46,
+        47,
+        48
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    }
+  ],
+  "contenido": {
+    "introduccion": null,
+    "secciones": [],
+    "contenido_completo": "La muerte es un camello negro que se arrodilla a la puerta de todos (Abd-El-Cader). Así que ricos y pobres deben prepararse para la muerte, porque la Muerte nos está esperando a todos. El mendigo murió y fue llevado por los ángeles al seno de Abraham. Murió también el rico y fue sepultado. (Hebreos 1:14) Son espíritus enviados para servir a los que heredan la salvación, no solo mientras éstos viven, sino también cuando mueren. Dios envía sus ángeles como mensajeros que traigan a Él, porque los santos deben ser llevados a la casa del Padre, \"no solo con seguridad\", sino también honorablemente. En la tierra llevan el féretro las personas de más rango, ¿qué eran en comparación con los que se llevaron tu cuerpo?\n\nI. El rico dice: \"estoy atormentado en esta llama\".\n\nY muy consciente de su tortura, un sufrimiento real.\n\nLas decisiones tomadas en esta vida determinan nuestro destino eterno.\n\nCuando la muerte ha tenido lugar, este destino queda \"fijado\".\n\nEra \"hijo\" y sabía lo que los profetas enseñaban, y no tuvo deseo, ni pasión de aprender lo que determinaría su destino.\n\n(1 Juan 2:1) Jesús es nuestro abogado.\n\n(Mateo 5:29) El mandamiento de una vida mental incontaminada exige una estricta autodisciplina.\n\nEl ojo no se puede sacar, ¿por qué?\n\nPor Gracia divina, nunca es necesario, por cuanto el Espíritu Santo capacita al creyente para vivir \"una vida en santidad\".\n\n(Mateo 25:41) No veamos la vida en el Señor liviana, tengamos inmenso temor, la razón: no le atendieron cuando llegó a salvarle, le ignoraron, despreciaron, ahora le toca el juicio: \"apartaos de mí\", malditos, al fuego eterno preparado para el diablo y sus ángeles.\n\nUn día hemos de morir.\n\nAhí está en lo que debemos ocuparnos, para no volver atrás.\n\n(2 Pedro 2:4) (Judas 6) Los ángeles que pecaron.\n\nDios no perdonó a los ángeles que no guardaron su posición.\n\nAbandonaron su morada apropiada.\n\nDejaron su posición angelical que les había sido asignada, dejaron su morada en el Cielo por una morada en la tierra.\n\nDios se sintió afrentado (humillado) ante la grosera apostasía de los ángeles del orden que Él había establecido.\n\nFueron arrojados \"al infierno\".\n\n(Proverbios 15:24) El camino del sabio va \"hacia arriba\", hacia la vida, para que pueda evitar el que va hacia abajo a la muerte y destrucción.\n\nDe nuevo se nos recuerdan los dos caminos y los dos destinos de la raza humana.\n\n(Apocalipsis 19:20 y Apocalipsis 20:11-15) El infierno es de carácter temporero porque solo durará hasta el final del Milenio.\n\nEn esa ocasión las almas en el infierno serán devueltas para ser reunidas a sus respectivos cuerpos materiales, que entonces serán recogidos del polvo de la tierra para ser resucitados en la Segunda Resurrección. (Daniel 12:2): unos a vida eterna, aquellos santos de la Tribulación que se mostraron entendidos obedeciendo al Señor y conduciendo a otros a la fe y la justicia; y otros para vergüenza y confusión perpetua.\n\n(Juan 5:28-29) No nos maravillemos de tal acontecimiento porque un día llegará la hora cuando todos los que están en el sepulcro oirán Su voz, los que murieron en la tribulación sin marcarse y mueren, se levantarán.\n\nEl impío, no quiso a Jesús, tendrá toda la trinidad del hombre, cuerpo, alma y espíritu volverán a integrarse en la persona que eran antes de morir.\n\n(Apocalipsis 20:11-15) Cada individuo que nació en este mundo y que murió sin Cristo, por sí mismo comparecerá al juicio del Gran Trono Blanco.\n\nAsí es la perfecta justicia de Dios.\n\nTodo hombre durante su vida pecó en cuerpo, alma y espíritu.\n\nEs pues justo que también en el mismo cuerpo, alma y espíritu sea juzgado según las obras que hizo en la tierra.\n\nTodos aquellos que sus nombres, no aparezcan escritos en el libro de la vida serán lanzados al Lago de Fuego junto con Satanás y el Anticristo (Apocalipsis 20:10).\n\nEl Lago de Fuego ahora está vacante, pero será inaugurado por dos personas vivas: Anticristo y el Falso profeta (Apocalipsis 19:20).\n\n(Mateo 5:29-30) Saca lo que llevará al infierno.\n\n(Marcos 9:43-48) Disciplina y renuncia.\n\nLos que emprenden el verdadero discipulado han de batallar constantemente contra los deseos y apetitos naturales de la carne.\n\nControlarlos asegura la victoria espiritual o el fuego eterno.\n\nLo que no vences, te llevará al fuego que no puede apagarse.\n\nEl gusano (48) que no muere y tortura el cuerpo y el fuego que no se apaga.\n\n¿Qué disfrutas hoy o qué luchas sin esperanza en el fuego? Amén.",
+    "contenido_renderizado": [
+      {
+        "tipo": "parrafo",
+        "texto": "La muerte es un camello negro que se arrodilla a la puerta de todos (Abd-El-Cader). Así que ricos y pobres deben prepararse para la muerte, porque la Muerte nos está esperando a todos. El mendigo murió y fue llevado por los ángeles al seno de Abraham. Murió también el rico y fue sepultado. (Hebreos 1:14) Son espíritus enviados para servir a los que heredan la salvación, no solo mientras éstos viven, sino también cuando mueren. Dios envía sus ángeles como mensajeros que traigan a Él, porque los santos deben ser llevados a la casa del Padre, \"no solo con seguridad\", sino también honorablemente. En la tierra llevan el féretro las personas de más rango, ¿qué eran en comparación con los que se llevaron tu cuerpo?",
+        "referencias_inline": [
+          "Hebreos 1:14"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "I. El rico dice: \"estoy atormentado en esta llama\".",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Y muy consciente de su tortura, un sufrimiento real.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Las decisiones tomadas en esta vida determinan nuestro destino eterno.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Cuando la muerte ha tenido lugar, este destino queda \"fijado\".",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Era \"hijo\" y sabía lo que los profetas enseñaban, y no tuvo deseo, ni pasión de aprender lo que determinaría su destino.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(1 Juan 2:1) Jesús es nuestro abogado.",
+        "referencias_inline": [
+          "1 Juan 2:1"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Mateo 5:29) El mandamiento de una vida mental incontaminada exige una estricta autodisciplina.",
+        "referencias_inline": [
+          "Mateo 5:29"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "El ojo no se puede sacar, ¿por qué?",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Por Gracia divina, nunca es necesario, por cuanto el Espíritu Santo capacita al creyente para vivir \"una vida en santidad\".",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Mateo 25:41) No veamos la vida en el Señor liviana, tengamos inmenso temor, la razón: no le atendieron cuando llegó a salvarle, le ignoraron, despreciaron, ahora le toca el juicio: \"apartaos de mí\", malditos, al fuego eterno preparado para el diablo y sus ángeles.",
+        "referencias_inline": [
+          "Mateo 25:41"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Un día hemos de morir.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Ahí está en lo que debemos ocuparnos, para no volver atrás.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(2 Pedro 2:4) (Judas 6) Los ángeles que pecaron.",
+        "referencias_inline": [
+          "2 Pedro 2:4",
+          "Judas 1:6"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Dios no perdonó a los ángeles que no guardaron su posición.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Abandonaron su morada apropiada.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Dejaron su posición angelical que les había sido asignada, dejaron su morada en el Cielo por una morada en la tierra.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Dios se sintió afrentado (humillado) ante la grosera apostasía de los ángeles del orden que Él había establecido.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Fueron arrojados \"al infierno\".",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Proverbios 15:24) El camino del sabio va \"hacia arriba\", hacia la vida, para que pueda evitar el que va hacia abajo a la muerte y destrucción.",
+        "referencias_inline": [
+          "Proverbios 15:24"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "De nuevo se nos recuerdan los dos caminos y los dos destinos de la raza humana.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Apocalipsis 19:20 y Apocalipsis 20:11-15) El infierno es de carácter temporero porque solo durará hasta el final del Milenio.",
+        "referencias_inline": [
+          "Apocalipsis 19:20",
+          "Apocalipsis 20:11-15"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "En esa ocasión las almas en el infierno serán devueltas para ser reunidas a sus respectivos cuerpos materiales, que entonces serán recogidos del polvo de la tierra para ser resucitados en la Segunda Resurrección. (Daniel 12:2): unos a vida eterna, aquellos santos de la Tribulación que se mostraron entendidos obedeciendo al Señor y conduciendo a otros a la fe y la justicia; y otros para vergüenza y confusión perpetua.",
+        "referencias_inline": [
+          "Daniel 12:2"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Juan 5:28-29) No nos maravillemos de tal acontecimiento porque un día llegará la hora cuando todos los que están en el sepulcro oirán Su voz, los que murieron en la tribulación sin marcarse y mueren, se levantarán.",
+        "referencias_inline": [
+          "Juan 5:28-29"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "El impío, no quiso a Jesús, tendrá toda la trinidad del hombre, cuerpo, alma y espíritu volverán a integrarse en la persona que eran antes de morir.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Apocalipsis 20:11-15) Cada individuo que nació en este mundo y que murió sin Cristo, por sí mismo comparecerá al juicio del Gran Trono Blanco.",
+        "referencias_inline": [
+          "Apocalipsis 20:11-15"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Así es la perfecta justicia de Dios.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Todo hombre durante su vida pecó en cuerpo, alma y espíritu.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Es pues justo que también en el mismo cuerpo, alma y espíritu sea juzgado según las obras que hizo en la tierra.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Todos aquellos que sus nombres, no aparezcan escritos en el libro de la vida serán lanzados al Lago de Fuego junto con Satanás y el Anticristo (Apocalipsis 20:10).",
+        "referencias_inline": [
+          "Apocalipsis 20:10"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "El Lago de Fuego ahora está vacante, pero será inaugurado por dos personas vivas: Anticristo y el Falso profeta (Apocalipsis 19:20).",
+        "referencias_inline": [
+          "Apocalipsis 19:20"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Mateo 5:29-30) Saca lo que llevará al infierno.",
+        "referencias_inline": [
+          "Mateo 5:29-30"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Marcos 9:43-48) Disciplina y renuncia.",
+        "referencias_inline": [
+          "Marcos 9:43-48"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Los que emprenden el verdadero discipulado han de batallar constantemente contra los deseos y apetitos naturales de la carne.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Controlarlos asegura la victoria espiritual o el fuego eterno.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Lo que no vences, te llevará al fuego que no puede apagarse.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "El gusano (48) que no muere y tortura el cuerpo y el fuego que no se apaga.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "¿Qué disfrutas hoy o qué luchas sin esperanza en el fuego? Amén.",
+        "referencias_inline": []
+      }
+    ]
+  },
+  "busqueda": {
+    "texto_indexable": "la raza humana tiene dos destinos lucas 16 22 31 santidad vida eterna salvacion vida eterna libro de la vida santidad juicio fuego arca apostasia la muerte es un camello negro que se arrodilla a la puerta de todos abd el cader asi que ricos y pobres deben prepararse para la muerte porque la muerte nos esta esperando a todos el mendigo murio y fue llevado por los angeles al seno de abraham murio tambien el rico y fue sepultado hebreos 1 14 son espiritus enviados para servir a los que heredan la salvacion no solo mientras estos viven sino tambien cuando mueren Dios envia sus angeles como mensajeros que traigan a el porque los santos deben ser llevados a la casa del padre no solo con seguridad sino tambien honorablemente en la tierra llevan el feretro las personas de mas rango que eran en comparacion con los que se llevaron tu cuerpo i el rico dice estoy atormentado en esta llama y muy consciente de su tortura un sufrimiento real las decisiones tomadas en esta vida determinan nuestro destino eterno cuando la muerte ha tenido lugar este destino queda fijado era hijo y sabia lo que los profetas ensenaban y no tuvo deseo ni pasion de aprender lo que determinaria su destino 1 juan 2 1 Jesus es nuestro abogado mateo 5 29 el mandamiento de una vida mental incontaminada exige una estricta autodisciplina el ojo no se puede sacar por que por gracia divina nunca es necesario por cuanto el espiritu santo capacita al creyente para vivir una vida en santidad mateo 25 41 no veamos la vida en el senor liviana tengamos inmenso temor la razon no le atendieron cuando llego a salvarle le ignoraron despreciaron ahora le toca el juicio apartaos de mi malditos al fuego eterno preparado para el diablo y sus angeles un dia hemos de morir ahi esta en lo que debemos ocuparnos para no volver atras 2 pedro 2 4 judas 6 los angeles que pecaron Dios no perdono a los angeles que no guardaron su posicion abandonaron su morada apropiada dejaron su posicion angelical que les habia sido asignada dejaron su morada en el cielo por una morada en la tierra Dios se sintio afrentado humillado ante la grosera apostasia de los angeles del orden que el habia establecido fueron arrojados al infierno proverbios 15 24 el camino del sabio va hacia arriba hacia la vida para que pueda evitar el que va hacia abajo a la muerte y destruccion de nuevo se nos recuerdan los dos caminos y los dos destinos de la raza humana apocalipsis 19 20 y apocalipsis 20 11 15 el infierno es de caracter temporero porque solo durara hasta el final del milenio en esa ocasion las almas en el infierno seran devueltas para ser reunidas a sus respectivos cuerpos materiales que entonces seran recogidos del polvo de la tierra para ser resucitados en la segunda resurreccion daniel 12 2 unos a vida eterna aquellos santos de la tribulacion que se mostraron entendidos obedeciendo al senor y conduciendo a otros a la fe y la justicia y otros para verguenza y confusion perpetua juan 5 28 29 no nos maravillemos de tal acontecimiento porque un dia llegara la hora cuando todos los que estan en el sepulcro oiran su voz los que murieron en la tribulacion sin marcarse y mueren se levantaran el impio no quiso a Jesus tendra toda la trinidad del hombre cuerpo alma y espiritu volveran a integrarse en la persona que eran antes de morir apocalipsis 20 11 15 cada individuo que nacio en este mundo y que murio sin cristo por si mismo comparecera al juicio del gran trono blanco asi es la perfecta justicia de Dios todo hombre durante su vida peco en cuerpo alma y espiritu es pues justo que tambien en el mismo cuerpo alma y espiritu sea juzgado segun las obras que hizo en la tierra todos aquellos que sus nombres no aparezcan escritos en el libro de la vida seran lanzados al lago de fuego junto con satanas y el anticristo apocalipsis 20 10 el lago de fuego ahora esta vacante pero sera inaugurado por dos personas vivas anticristo y el falso profeta apocalipsis 19 20 mateo 5 29 30 saca lo que llevara al infierno marcos 9 43 48 disciplina y renuncia los que emprenden el verdadero discipulado han de batallar constantemente contra los deseos y apetitos naturales de la carne controlarlos asegura la victoria espiritual o el fuego eterno lo que no vences te llevara al fuego que no puede apagarse el gusano 48 que no muere y tortura el cuerpo y el fuego que no se apaga que disfrutas hoy o que luchas sin esperanza en el fuego amen",
+    "alias_busqueda": [
+      "Estudio 1320",
+      "Lucas",
+      "Lucas 16",
+      "Lucas 16:22-31",
+      "vida eterna",
+      "libro de la vida",
+      "santidad",
+      "juicio"
+    ]
+  },
+  "revision_manual": {
+    "requiere_revision": false,
+    "motivo": ""
+  },
+  "ui": {
+    "mostrar_credito_en_header": true,
+    "mostrar_numero_estudio": true,
+    "mostrar_fecha": true,
+    "mostrar_topicos": true,
+    "permitir_favorito": true,
+    "permitir_compartir": true
+  }
+}

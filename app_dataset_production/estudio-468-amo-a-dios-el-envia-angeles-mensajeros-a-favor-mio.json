@@ -1,0 +1,369 @@
+{
+  "id": "estudio-468-amo-a-Dios-el-envia-angeles-mensajeros-a-favor-mio",
+  "slug": "estudio-468-amo-a-Dios-el-envia-angeles-mensajeros-a-favor-mio",
+  "numero_estudio": 468,
+  "tipo_estudio": "Iglesia en las casas",
+  "ministerio": {
+    "iglesia": "Iglesia Cristiana Mega Zoe",
+    "pastora": "Pastora Edith Cruz",
+    "credito_corto": "Iglesia Cristiana Mega Zoe · Pastora Edith Cruz",
+    "credito_largo": "Contenido original de Iglesia Cristiana Mega Zoe, conservando el crédito ministerial correspondiente a la Pastora Edith Cruz."
+  },
+  "identidad_editorial": {
+    "idioma": "es",
+    "fuente_original": "documento_word",
+    "archivo_origen": "/Users/edwingadiel/Desktop/Estudios en Word/Estudio #468 Amo a Dios, El envía ángeles mensajeros a favor mío - Hebreos 1 1-14.doc",
+    "estado_revision": "procesado",
+    "version_schema": "1.0"
+  },
+  "encabezado": {
+    "titulo": "Amo a Dios, Él Envía Ángeles Mensajeros a Favor Mío",
+    "subtitulo": null,
+    "cita_principal": "Hebreos 1:1-14",
+    "resumen_corto": "Amo a Dios, Él Envía Ángeles Mensajeros a Favor Mío enseña a vivir con la mirada puesta en la vida eterna y atender la Palabra de Dios."
+  },
+  "fechas": {
+    "fecha_inicio": null,
+    "fecha_fin": null,
+    "fecha_texto_original": "",
+    "ano": null
+  },
+  "clasificacion_biblica": {
+    "libro_principal": "Hebreos",
+    "capitulo_principal": 1,
+    "versiculos_principales": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+    ],
+    "referencia_principal_normalizada": "Hebreos 1:1-14",
+    "testamento_principal": "Nuevo Testamento"
+  },
+  "clasificacion_tematica": {
+    "topicos": [
+      "Vida eterna",
+      "Salvación",
+      "Palabra de Dios",
+      "Oración",
+      "Voluntad de Dios"
+    ],
+    "keywords": [
+      "voluntad de Dios",
+      "vida eterna",
+      "oración",
+      "salvación",
+      "escrituras"
+    ]
+  },
+  "referencias_biblicas": [
+    {
+      "referencia": "Hebreos 1:1-14",
+      "referencia_normalizada": "Hebreos 1:1-14",
+      "libro": "Hebreos",
+      "capitulo": 1,
+      "versiculos": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "tipo": "principal",
+      "clickeable": true
+    },
+    {
+      "referencia": "Lucas 11: 2",
+      "referencia_normalizada": "Lucas 11:2",
+      "libro": "Lucas",
+      "capitulo": 11,
+      "versiculos": [
+        2
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Juan 3:16",
+      "referencia_normalizada": "Juan 3:16",
+      "libro": "Juan",
+      "capitulo": 3,
+      "versiculos": [
+        16
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Efesios 1:22",
+      "referencia_normalizada": "Efesios 1:22",
+      "libro": "Efesios",
+      "capitulo": 1,
+      "versiculos": [
+        22
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Colosenses 2:8",
+      "referencia_normalizada": "Colosenses 2:8",
+      "libro": "Colosenses",
+      "capitulo": 2,
+      "versiculos": [
+        8
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Daniel 4:13",
+      "referencia_normalizada": "Daniel 4:13",
+      "libro": "Daniel",
+      "capitulo": 4,
+      "versiculos": [
+        13
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Lucas 2:10",
+      "referencia_normalizada": "Lucas 2:10",
+      "libro": "Lucas",
+      "capitulo": 2,
+      "versiculos": [
+        10
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Salmos 103:20",
+      "referencia_normalizada": "Salmos 103:20",
+      "libro": "Salmos",
+      "capitulo": 103,
+      "versiculos": [
+        20
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Lucas 1:26",
+      "referencia_normalizada": "Lucas 1:26",
+      "libro": "Lucas",
+      "capitulo": 1,
+      "versiculos": [
+        26
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Mateo 1:20",
+      "referencia_normalizada": "Mateo 1:20",
+      "libro": "Mateo",
+      "capitulo": 1,
+      "versiculos": [
+        20
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Mateo 2:13",
+      "referencia_normalizada": "Mateo 2:13",
+      "libro": "Mateo",
+      "capitulo": 2,
+      "versiculos": [
+        13
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Lucas 22:43",
+      "referencia_normalizada": "Lucas 22:43",
+      "libro": "Lucas",
+      "capitulo": 22,
+      "versiculos": [
+        43
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Lucas 15:10",
+      "referencia_normalizada": "Lucas 15:10",
+      "libro": "Lucas",
+      "capitulo": 15,
+      "versiculos": [
+        10
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Lucas 16:22",
+      "referencia_normalizada": "Lucas 16:22",
+      "libro": "Lucas",
+      "capitulo": 16,
+      "versiculos": [
+        22
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Mateo 18:10",
+      "referencia_normalizada": "Mateo 18:10",
+      "libro": "Mateo",
+      "capitulo": 18,
+      "versiculos": [
+        10
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Ezequiel 1:14",
+      "referencia_normalizada": "Ezequiel 1:14",
+      "libro": "Ezequiel",
+      "capitulo": 1,
+      "versiculos": [
+        14
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "2 Reyes 6:17",
+      "referencia_normalizada": "2 Reyes 6:17",
+      "libro": "2 Reyes",
+      "capitulo": 6,
+      "versiculos": [
+        17
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    }
+  ],
+  "contenido": {
+    "introduccion": null,
+    "secciones": [],
+    "contenido_completo": "Somos herederos de la salvación. Si un pueblo conoce a su Dios y lo que su Dios tiene para el pueblo no va a estar estorbado, será bienaventurado, fuerte, estable emocionalmente y ninguna maquinación puede vencerlo. Jesús es lo más grande que se nos ha dado a nuestras vidas para perdón de pecados por su muerte, para nuestra sanidad. El comenzó con sus discípulos a establecer la iglesia. Jesús es la cabeza de la iglesia y como tal Él es quien nos lleva, quien nos dirige. Él dirige nuestras vidas, por tal razón ya no caminamos como nos place sino conforme a Cristo. Él nos lleva donde nos tiene que llevar.\n\nLos ángeles son también llevados o dirigidos por Cristo a favor de la iglesia. Él los dirige como nos dirige a nosotros. A veces hacemos nuestra voluntad como queremos, como nos place y no debe ser así. En oración pedimos que se haga su voluntad. Lucas 11: 2 Los ángeles hacen la perfecta voluntad de Dios. Nosotros no la hacemos perfecta, pero eso queremos hacer, es lo único que nos va a dar paz y bienaventuranza.\n\nLos ángeles son espíritus. Vivimos en una esfera espiritual por eso debemos vivir en lo espiritual y no en la carne. Jesús está a la diestra del Padre, ya no está sobre la tierra. Porque ya Él hizo lo que tenía que hacer en la tierra, murió en la cruz por nosotros y ahora está a la diestra del Padre pidiendo, intercediendo por nosotros al Padre. Quien tiene el dominio de quitar, de dar y establecer es el Padre. Jesús está sentado a la diestra del Padre, gobierna allá, venció en la cruz, en su muerte cumplió lo que tenía que cumplir.\n\nLos ángeles son enviados a diario. El Padre vive pendiente de nosotros las 24 horas del día. Si 24 horas del día estamos pidiendo, 24 horas del día Él nos está dando. El Padre tiene un amor inmenso por nosotros, por eso lo tiene todo ya organizado. Los ángeles son mensajeros del Padre para nosotros, son enviados.\n\nEn Juan 3:16 dice que Jesús es el que da vida eterna al que en Él cree. Todas las cosas se someten bajo los pies de Jesús y el Padre lo dio a la humanidad para bien de la iglesia. Efesios 1:22 Los ángeles también son enviados, pero no son mayores que Jesús. Ellos son enviados para la iglesia. La autoridad de Jesús como Señor sobre los ángeles es a favor de la iglesia. Los santos, los creyentes tienen muchos beneficios, la iglesia tiene privilegios que son dados por la cabeza que es Cristo y no hay por qué temer sino poseer, tenemos muchas cosas que poseer. Tenemos una habitación llena de tesoros en el cielo. Hay mucho bien y muchos privilegios para los santos. Jesús es la cabeza y como cabeza está pensando qué hacer con nosotros, hacia dónde nos va a guiar. Cristo nos quiere dirigir, por eso tiene ángeles que nos cuidan y ministran a nuestro favor.\n\nEn todo lo que es nuestra vida, en nuestro mover, Cristo está constantemente planificando cómo nos va a dirigir. En el cielo hay un libro escrito sobre nosotros. Lo conocen el Padre, el Hijo y el Espíritu Santo. ¡Tantos privilegios que hay para nosotros! Entonces, ¿cómo vamos a estar viviendo como bien nos place y no haciendo la voluntad de Dios? Nuestros privilegios nos los dio Cristo, Él está a la diestra del Padre y lo que aquí sucede fue pensado por Él. Nos hemos convertido en herederos de la salvación, vamos a tener una vida eterna juntamente con Dios. Ese es el privilegio mayor que tenemos con Él. Para nosotros hay una morada en el cielo. Y hay una sola exigencia de Dios para nuestras vidas y ésta es negarnos al yo.\n\nEl segundo privilegio que tenemos es que los ángeles son espíritus ministradores a favor de nosotros. No son ministros, ni siervos de los santos sino de Cristo por tal razón quien únicamente los puede mandar es Dios para el bien de la Iglesia. Debemos cuidarnos de no caer en la idolatría a los ángeles porque lo único que conocemos de ellos es lo que dicen las Escrituras. Colosenses 2:8 Cuidado con caer en la idolatría. El nombre \"ángel\" va de acuerdo a su naturaleza, a su oficio de \"mensajeros\" para el cuidado de la Iglesia. Su oficio es el cuido, la protección como ministros espirituales. Los ángeles tienen su oficio para ministrar a favor de la Iglesia. Pueden alguien estar maquinando en contra nuestra, planificando cómo hacernos daño, pero sobre la Iglesia hay espíritus ministradores, ángeles que no permiten que nos hagan nada a nosotros ni a los nuestros.\n\nDaniel 4:13 Los ángeles son vigilantes que descienden del cielo. En Lucas 2:10 se muestra a los ángeles que vinieron como mensajeros que tenían que decirles algo a aquellos pastores. Son mensajeros. Éstos tienen el respaldo de Dios porque obedecen de inmediato. Salmos 103:20 Son obedientes, van cuando se les envía, acuden cuando se les indica, no sugieren, ellos hacen. El cielo da órdenes sobre la tierra a favor nuestro entonces vivimos más descansados. A veces vivimos tan cargados, pero, el Padre está cuidando. Cristo como cabeza envía a la tierra, los ángeles no se mandan ni se envían por sí mismos, ellos son siervos al cumplimiento del encargo de Jesús para bien nuestro. Dios nos da regalos para edificación de la Iglesia. El poderío de Dios se tiene que ver en medio de nosotros. Lo grande de Dios tiene que estar en nuestra mirada, en nuestro cuerpo. Lo que aquí va a pasar los ángeles se encargarán.\n\nLucas 1:26 El ministrar de los ángeles en este momento fue a favor de Cristo y se le revelaron a María. Los ángeles están donde nosotros no podemos estar. Mateo 1:20 Estuvieron muy pendiente de lo que fue la vida de Jesús. Mateo 2:13 Cuando Jesús fue puesto en su ministerio los ángeles estaban con Él. Lucas 22:43 Jesús tenía todo el derecho de pedir, pero algo decidió y fue lo que el Padre quería. Los ángeles aman lo que es el mover de la Iglesia, la aman. Ellos no tienen una congregación sino que están para ministrar. Lucas 15:10 Los ángeles gustan de lo que es la Iglesia. Lucas 16:22 Participan de nuestro mover, están pendientes de la Iglesia. Mateo 18:10 Están siempre en el cielo viendo el rostro del Padre. Hay muchos peligros repentinos, estamos expuestos, pero ellos nos cuidan. Ezequiel 1:14 Estos seres vivientes son en semejanza de relámpagos, no hay nada que temer, caminemos más confiados en la Palabra de Dios. 2 Reyes 6:17 Mientras estemos dispuestos a ver, creer, amar y no nos de con tentar a Dios Él estará dispuesto a librarnos de todo. Los ángeles son una ayuda más, para nosotros poder ver el cielo como algo familiar. Si no estuviéramos tan apegados a esta tierra no la amaríamos tanto. Amemos a Dios y disfrutemos de los beneficios de Él, que nos ama. Amén.",
+    "contenido_renderizado": [
+      {
+        "tipo": "parrafo",
+        "texto": "Somos herederos de la salvación. Si un pueblo conoce a su Dios y lo que su Dios tiene para el pueblo no va a estar estorbado, será bienaventurado, fuerte, estable emocionalmente y ninguna maquinación puede vencerlo. Jesús es lo más grande que se nos ha dado a nuestras vidas para perdón de pecados por su muerte, para nuestra sanidad. El comenzó con sus discípulos a establecer la iglesia. Jesús es la cabeza de la iglesia y como tal Él es quien nos lleva, quien nos dirige. Él dirige nuestras vidas, por tal razón ya no caminamos como nos place sino conforme a Cristo. Él nos lleva donde nos tiene que llevar.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Los ángeles son también llevados o dirigidos por Cristo a favor de la iglesia. Él los dirige como nos dirige a nosotros. A veces hacemos nuestra voluntad como queremos, como nos place y no debe ser así. En oración pedimos que se haga su voluntad. Lucas 11: 2 Los ángeles hacen la perfecta voluntad de Dios. Nosotros no la hacemos perfecta, pero eso queremos hacer, es lo único que nos va a dar paz y bienaventuranza.",
+        "referencias_inline": [
+          "Lucas 11:2"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Los ángeles son espíritus. Vivimos en una esfera espiritual por eso debemos vivir en lo espiritual y no en la carne. Jesús está a la diestra del Padre, ya no está sobre la tierra. Porque ya Él hizo lo que tenía que hacer en la tierra, murió en la cruz por nosotros y ahora está a la diestra del Padre pidiendo, intercediendo por nosotros al Padre. Quien tiene el dominio de quitar, de dar y establecer es el Padre. Jesús está sentado a la diestra del Padre, gobierna allá, venció en la cruz, en su muerte cumplió lo que tenía que cumplir.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Los ángeles son enviados a diario. El Padre vive pendiente de nosotros las 24 horas del día. Si 24 horas del día estamos pidiendo, 24 horas del día Él nos está dando. El Padre tiene un amor inmenso por nosotros, por eso lo tiene todo ya organizado. Los ángeles son mensajeros del Padre para nosotros, son enviados.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "En Juan 3:16 dice que Jesús es el que da vida eterna al que en Él cree. Todas las cosas se someten bajo los pies de Jesús y el Padre lo dio a la humanidad para bien de la iglesia. Efesios 1:22 Los ángeles también son enviados, pero no son mayores que Jesús. Ellos son enviados para la iglesia. La autoridad de Jesús como Señor sobre los ángeles es a favor de la iglesia. Los santos, los creyentes tienen muchos beneficios, la iglesia tiene privilegios que son dados por la cabeza que es Cristo y no hay por qué temer sino poseer, tenemos muchas cosas que poseer. Tenemos una habitación llena de tesoros en el cielo. Hay mucho bien y muchos privilegios para los santos. Jesús es la cabeza y como cabeza está pensando qué hacer con nosotros, hacia dónde nos va a guiar. Cristo nos quiere dirigir, por eso tiene ángeles que nos cuidan y ministran a nuestro favor.",
+        "referencias_inline": [
+          "Juan 3:16",
+          "Efesios 1:22"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "En todo lo que es nuestra vida, en nuestro mover, Cristo está constantemente planificando cómo nos va a dirigir. En el cielo hay un libro escrito sobre nosotros. Lo conocen el Padre, el Hijo y el Espíritu Santo. ¡Tantos privilegios que hay para nosotros! Entonces, ¿cómo vamos a estar viviendo como bien nos place y no haciendo la voluntad de Dios? Nuestros privilegios nos los dio Cristo, Él está a la diestra del Padre y lo que aquí sucede fue pensado por Él. Nos hemos convertido en herederos de la salvación, vamos a tener una vida eterna juntamente con Dios. Ese es el privilegio mayor que tenemos con Él. Para nosotros hay una morada en el cielo. Y hay una sola exigencia de Dios para nuestras vidas y ésta es negarnos al yo.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "El segundo privilegio que tenemos es que los ángeles son espíritus ministradores a favor de nosotros. No son ministros, ni siervos de los santos sino de Cristo por tal razón quien únicamente los puede mandar es Dios para el bien de la Iglesia. Debemos cuidarnos de no caer en la idolatría a los ángeles porque lo único que conocemos de ellos es lo que dicen las Escrituras. Colosenses 2:8 Cuidado con caer en la idolatría. El nombre \"ángel\" va de acuerdo a su naturaleza, a su oficio de \"mensajeros\" para el cuidado de la Iglesia. Su oficio es el cuido, la protección como ministros espirituales. Los ángeles tienen su oficio para ministrar a favor de la Iglesia. Pueden alguien estar maquinando en contra nuestra, planificando cómo hacernos daño, pero sobre la Iglesia hay espíritus ministradores, ángeles que no permiten que nos hagan nada a nosotros ni a los nuestros.",
+        "referencias_inline": [
+          "Colosenses 2:8"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Daniel 4:13 Los ángeles son vigilantes que descienden del cielo. En Lucas 2:10 se muestra a los ángeles que vinieron como mensajeros que tenían que decirles algo a aquellos pastores. Son mensajeros. Éstos tienen el respaldo de Dios porque obedecen de inmediato. Salmos 103:20 Son obedientes, van cuando se les envía, acuden cuando se les indica, no sugieren, ellos hacen. El cielo da órdenes sobre la tierra a favor nuestro entonces vivimos más descansados. A veces vivimos tan cargados, pero, el Padre está cuidando. Cristo como cabeza envía a la tierra, los ángeles no se mandan ni se envían por sí mismos, ellos son siervos al cumplimiento del encargo de Jesús para bien nuestro. Dios nos da regalos para edificación de la Iglesia. El poderío de Dios se tiene que ver en medio de nosotros. Lo grande de Dios tiene que estar en nuestra mirada, en nuestro cuerpo. Lo que aquí va a pasar los ángeles se encargarán.",
+        "referencias_inline": [
+          "Daniel 4:13",
+          "Lucas 2:10",
+          "Salmos 103:20"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Lucas 1:26 El ministrar de los ángeles en este momento fue a favor de Cristo y se le revelaron a María. Los ángeles están donde nosotros no podemos estar. Mateo 1:20 Estuvieron muy pendiente de lo que fue la vida de Jesús. Mateo 2:13 Cuando Jesús fue puesto en su ministerio los ángeles estaban con Él. Lucas 22:43 Jesús tenía todo el derecho de pedir, pero algo decidió y fue lo que el Padre quería. Los ángeles aman lo que es el mover de la Iglesia, la aman. Ellos no tienen una congregación sino que están para ministrar. Lucas 15:10 Los ángeles gustan de lo que es la Iglesia. Lucas 16:22 Participan de nuestro mover, están pendientes de la Iglesia. Mateo 18:10 Están siempre en el cielo viendo el rostro del Padre. Hay muchos peligros repentinos, estamos expuestos, pero ellos nos cuidan. Ezequiel 1:14 Estos seres vivientes son en semejanza de relámpagos, no hay nada que temer, caminemos más confiados en la Palabra de Dios. 2 Reyes 6:17 Mientras estemos dispuestos a ver, creer, amar y no nos de con tentar a Dios Él estará dispuesto a librarnos de todo. Los ángeles son una ayuda más, para nosotros poder ver el cielo como algo familiar. Si no estuviéramos tan apegados a esta tierra no la amaríamos tanto. Amemos a Dios y disfrutemos de los beneficios de Él, que nos ama. Amén.",
+        "referencias_inline": [
+          "Lucas 1:26",
+          "Mateo 1:20",
+          "Mateo 2:13",
+          "Lucas 22:43",
+          "Lucas 15:10",
+          "Lucas 16:22",
+          "Mateo 18:10",
+          "Ezequiel 1:14",
+          "2 Reyes 6:17"
+        ]
+      }
+    ]
+  },
+  "busqueda": {
+    "texto_indexable": "amo a Dios el envia angeles mensajeros a favor mio hebreos 1 1 14 vida eterna salvacion palabra de Dios oracion voluntad de Dios voluntad de Dios vida eterna oracion salvacion escrituras somos herederos de la salvacion si un pueblo conoce a su Dios y lo que su Dios tiene para el pueblo no va a estar estorbado sera bienaventurado fuerte estable emocionalmente y ninguna maquinacion puede vencerlo Jesus es lo mas grande que se nos ha dado a nuestras vidas para perdon de pecados por su muerte para nuestra sanidad el comenzo con sus discipulos a establecer la iglesia Jesus es la cabeza de la iglesia y como tal el es quien nos lleva quien nos dirige el dirige nuestras vidas por tal razon ya no caminamos como nos place sino conforme a cristo el nos lleva donde nos tiene que llevar los angeles son tambien llevados o dirigidos por cristo a favor de la iglesia el los dirige como nos dirige a nosotros a veces hacemos nuestra voluntad como queremos como nos place y no debe ser asi en oracion pedimos que se haga su voluntad lucas 11 2 los angeles hacen la perfecta voluntad de Dios nosotros no la hacemos perfecta pero eso queremos hacer es lo unico que nos va a dar paz y bienaventuranza los angeles son espiritus vivimos en una esfera espiritual por eso debemos vivir en lo espiritual y no en la carne Jesus esta a la diestra del padre ya no esta sobre la tierra porque ya el hizo lo que tenia que hacer en la tierra murio en la cruz por nosotros y ahora esta a la diestra del padre pidiendo intercediendo por nosotros al padre quien tiene el dominio de quitar de dar y establecer es el padre Jesus esta sentado a la diestra del padre gobierna alla vencio en la cruz en su muerte cumplio lo que tenia que cumplir los angeles son enviados a diario el padre vive pendiente de nosotros las 24 horas del dia si 24 horas del dia estamos pidiendo 24 horas del dia el nos esta dando el padre tiene un amor inmenso por nosotros por eso lo tiene todo ya organizado los angeles son mensajeros del padre para nosotros son enviados en juan 3 16 dice que Jesus es el que da vida eterna al que en el cree todas las cosas se someten bajo los pies de Jesus y el padre lo dio a la humanidad para bien de la iglesia efesios 1 22 los angeles tambien son enviados pero no son mayores que Jesus ellos son enviados para la iglesia la autoridad de Jesus como senor sobre los angeles es a favor de la iglesia los santos los creyentes tienen muchos beneficios la iglesia tiene privilegios que son dados por la cabeza que es cristo y no hay por que temer sino poseer tenemos muchas cosas que poseer tenemos una habitacion llena de tesoros en el cielo hay mucho bien y muchos privilegios para los santos Jesus es la cabeza y como cabeza esta pensando que hacer con nosotros hacia donde nos va a guiar cristo nos quiere dirigir por eso tiene angeles que nos cuidan y ministran a nuestro favor en todo lo que es nuestra vida en nuestro mover cristo esta constantemente planificando como nos va a dirigir en el cielo hay un libro escrito sobre nosotros lo conocen el padre el hijo y el espiritu santo tantos privilegios que hay para nosotros entonces como vamos a estar viviendo como bien nos place y no haciendo la voluntad de Dios nuestros privilegios nos los dio cristo el esta a la diestra del padre y lo que aqui sucede fue pensado por el nos hemos convertido en herederos de la salvacion vamos a tener una vida eterna juntamente con Dios ese es el privilegio mayor que tenemos con el para nosotros hay una morada en el cielo y hay una sola exigencia de Dios para nuestras vidas y esta es negarnos al yo el segundo privilegio que tenemos es que los angeles son espiritus ministradores a favor de nosotros no son ministros ni siervos de los santos sino de cristo por tal razon quien unicamente los puede mandar es Dios para el bien de la iglesia debemos cuidarnos de no caer en la idolatria a los angeles porque lo unico que conocemos de ellos es lo que dicen las escrituras colosenses 2 8 cuidado con caer en la idolatria el nombre angel va de acuerdo a su naturaleza a su oficio de mensajeros para el cuidado de la iglesia su oficio es el cuido la proteccion como ministros espirituales los angeles tienen su oficio para ministrar a favor de la iglesia pueden alguien estar maquinando en contra nuestra planificando como hacernos dano pero sobre la iglesia hay espiritus ministradores angeles que no permiten que nos hagan nada a nosotros ni a los nuestros daniel 4 13 los angeles son vigilantes que descienden del cielo en lucas 2 10 se muestra a los angeles que vinieron como mensajeros que tenian que decirles algo a aquellos pastores son mensajeros estos tienen el respaldo de Dios porque obedecen de inmediato salmo 103 20 son obedientes van cuando se les envia acuden cuando se les indica no sugieren ellos hacen el cielo da ordenes sobre la tierra a favor nuestro entonces vivimos mas descansados a veces vivimos tan cargados pero el padre esta cuidando cristo como cabeza envia a la tierra los angeles no se mandan ni se envian por si mismos ellos son siervos al cumplimiento del encargo de Jesus para bien nuestro Dios nos da regalos para edificacion de la iglesia el poderio de Dios se tiene que ver en medio de nosotros lo grande de Dios tiene que estar en nuestra mirada en nuestro cuerpo lo que aqui va a pasar los angeles se encargaran lucas 1 26 el ministrar de los angeles en este momento fue a favor de cristo y se le revelaron a maria los angeles estan donde nosotros no podemos estar mateo 1 20 estuvieron muy pendiente de lo que fue la vida de Jesus mateo 2 13 cuando Jesus fue puesto en su ministerio los angeles estaban con el lucas 22 43 Jesus tenia todo el derecho de pedir pero algo decidio y fue lo que el padre queria los angeles aman lo que es el mover de la iglesia la aman ellos no tienen una congregacion sino que estan para ministrar lucas 15 10 los angeles gustan de lo que es la iglesia lucas 16 22 participan de nuestro mover estan pendientes de la iglesia mateo 18 10 estan siempre en el cielo viendo el rostro del padre hay muchos peligros repentinos estamos expuestos pero ellos nos cuidan ezequiel 1 14 estos seres vivientes son en semejanza de relampagos no hay nada que temer caminemos mas confiados en la palabra de Dios 2 reyes 6 17 mientras estemos dispuestos a ver creer amar y no nos de con tentar a Dios el estara dispuesto a librarnos de todo los angeles son una ayuda mas para nosotros poder ver el cielo como algo familiar si no estuvieramos tan apegados a esta tierra no la amariamos tanto amemos a Dios y disfrutemos de los beneficios de el que nos ama amen",
+    "alias_busqueda": [
+      "Amo a Dios, Él Envía Ángeles Mensajeros a Favor Mío",
+      "Hebreos",
+      "Hebreos 1",
+      "Hebreos 1:1-14",
+      "voluntad de Dios",
+      "vida eterna",
+      "oración",
+      "salvación"
+    ]
+  },
+  "revision_manual": {
+    "requiere_revision": false,
+    "motivo": ""
+  },
+  "ui": {
+    "mostrar_credito_en_header": true,
+    "mostrar_numero_estudio": true,
+    "mostrar_fecha": true,
+    "mostrar_topicos": true,
+    "permitir_favorito": true,
+    "permitir_compartir": true
+  }
+}

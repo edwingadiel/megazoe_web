@@ -1,0 +1,513 @@
+{
+  "id": "estudio-1352-estudio-1352",
+  "slug": "estudio-1352-estudio-1352",
+  "numero_estudio": 1352,
+  "tipo_estudio": "Iglesia en las casas",
+  "ministerio": {
+    "iglesia": "Iglesia Cristiana Mega Zoe",
+    "pastora": "Pastora Edith Cruz",
+    "credito_corto": "Iglesia Cristiana Mega Zoe · Pastora Edith Cruz",
+    "credito_largo": "Contenido original de Iglesia Cristiana Mega Zoe, conservando el crédito ministerial correspondiente a la Pastora Edith Cruz."
+  },
+  "identidad_editorial": {
+    "idioma": "es",
+    "fuente_original": "documento_word",
+    "archivo_origen": "/Users/edwingadiel/Desktop/Estudios en Word/Estudio #1352 Camino estrecho - Mateo 7 13-14.docx",
+    "estado_revision": "procesado",
+    "version_schema": "1.0"
+  },
+  "encabezado": {
+    "titulo": "Camino Estrecho",
+    "subtitulo": null,
+    "cita_principal": "Mateo 7:13-14",
+    "resumen_corto": "Camino Estrecho enseña a recibir y extender el perdón."
+  },
+  "fechas": {
+    "fecha_inicio": null,
+    "fecha_fin": null,
+    "fecha_texto_original": "",
+    "ano": null
+  },
+  "clasificacion_biblica": {
+    "libro_principal": "Mateo",
+    "capitulo_principal": 7,
+    "versiculos_principales": [
+      13,
+      14
+    ],
+    "referencia_principal_normalizada": "Mateo 7:13-14",
+    "testamento_principal": "Nuevo Testamento"
+  },
+  "clasificacion_tematica": {
+    "topicos": [
+      "Obediencia",
+      "Perdón",
+      "Voluntad de Dios"
+    ],
+    "keywords": [
+      "voluntad de Dios",
+      "santidad",
+      "fuego",
+      "evangelio",
+      "altivez"
+    ]
+  },
+  "referencias_biblicas": [
+    {
+      "referencia": "Mateo 7:13-14",
+      "referencia_normalizada": "Mateo 7:13-14",
+      "libro": "Mateo",
+      "capitulo": 7,
+      "versiculos": [
+        13,
+        14
+      ],
+      "tipo": "principal",
+      "clickeable": true
+    },
+    {
+      "referencia": "Proverbios 16:25",
+      "referencia_normalizada": "Proverbios 16:25",
+      "libro": "Proverbios",
+      "capitulo": 16,
+      "versiculos": [
+        25
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Romanos 6:4",
+      "referencia_normalizada": "Romanos 6:4",
+      "libro": "Romanos",
+      "capitulo": 6,
+      "versiculos": [
+        4
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Gálatas 2:20",
+      "referencia_normalizada": "Gálatas 2:20",
+      "libro": "Gálatas",
+      "capitulo": 2,
+      "versiculos": [
+        20
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "2 Corintios 5:7",
+      "referencia_normalizada": "2 Corintios 5:7",
+      "libro": "2 Corintios",
+      "capitulo": 5,
+      "versiculos": [
+        7
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Gálatas 5:16",
+      "referencia_normalizada": "Gálatas 5:16",
+      "libro": "Gálatas",
+      "capitulo": 5,
+      "versiculos": [
+        16
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Efesios 4:1",
+      "referencia_normalizada": "Efesios 4:1",
+      "libro": "Efesios",
+      "capitulo": 4,
+      "versiculos": [
+        1
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Efesios 5:2",
+      "referencia_normalizada": "Efesios 5:2",
+      "libro": "Efesios",
+      "capitulo": 5,
+      "versiculos": [
+        2
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Efesios 5:15",
+      "referencia_normalizada": "Efesios 5:15",
+      "libro": "Efesios",
+      "capitulo": 5,
+      "versiculos": [
+        15
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "1 Juan 2:6",
+      "referencia_normalizada": "1 Juan 2:6",
+      "libro": "1 Juan",
+      "capitulo": 2,
+      "versiculos": [
+        6
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "1 Juan 1:7",
+      "referencia_normalizada": "1 Juan 1:7",
+      "libro": "1 Juan",
+      "capitulo": 1,
+      "versiculos": [
+        7
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    }
+  ],
+  "contenido": {
+    "introduccion": null,
+    "secciones": [],
+    "contenido_completo": "El Señor advierte ahora que la \"puerta\" del discipulado cristiano es estrecho (poco ancho) y que angosto (apretado) es el camino. Pero aquellos que siguen fielmente Sus enseñanzas encuentran la vida abundante. Por otra parte; hay la puerta \"ancha\". El fin de una vida así es \"perdición.\"\n\nTal vez vivas y te salves por fuego.\n\nTe puedes perder el vivir, el propósito de la propia existencia (efectividad, validez, realidad).\n\n(Proverbios 16:25) Hay camino que parece derecho al hombre, pero su fin es camino de muerte.\n\nLa puerta ancha y el camino espacioso conducen a perdición.\n\nLa puerta estrecha y el camino angosto conducen a la vida.\n\nJesús nos dice que esta vida difícil exigirá fe, disciplina y paciencia.\n\nEsta vida difícil es la que vale la pena vivir.\n\nSi escoges el camino fácil, \"tendrás mucha compañía\", pero te perderás lo mejor de Dios para ti.\n\n(Romanos 6:4) El bautismo con agua da una demostración visual del bautismo en Cristo.\n\nExhibe al creyente siendo sumergido en las oscuras aguas de la muerte (en la persona del Señor) y presenta al nuevo hombre en Cristo levantándose para andar en novedad de vida.\n\nHay un sentido en el que el creyente asiste al funeral de su viejo yo cuando es bautizado.\n\nAl pasar bajo el agua, está diciendo: \"Todo lo que yo era como pecaminoso hijo de Adán fue puesto a la muerte en la cruz.\"\n\nAl salir del agua está diciendo: ya no soy más yo quien vive, sino Cristo vive en mí.\" (Gálatas 2:20).\n\nCaminamos en \"vida nueva\": amor, justicia, fiel, manso.\n\n(2 Corintios 5:7) El hecho de que \"por fe andamos\", y no por vista es prueba abundante de que estamos ausentes del Señor.\n\nNunca se ha visto al Señor con los ojos físicos.\n\nEs solamente por la fe que le hemos podido ver.\n\n(Gálatas 5:16) Como creyentes deberíamos \"andar\" \"en el Espíritu\", no en la carne.\n\nAndar \"en\" (o por)\" el Espíritu\", es dejar que Él tenga Su vía (espacio destinado al paso, calle, camino).\n\nEs permanecer en comunión con Él.\n\nEs tomar decisiones a la luz de Su santidad.\n\nEs estar ocupado con Cristo, porque el ministerio del Espíritu es ocupar al creyente con el Señor Jesús.\n\nCuando así andamos en el Espíritu, entonces \"la carne\", o \"vida del yo\", es tratada como muerta.\n\nNo podemos estar ocupados \"a la vez con Cristo y con el pecado.\"\n\n(Efesios 4:1) Pablo, con ausencia de altivez se refiere a sí mismo como \"preso\" en el Señor.\n\nPablo lo considera como el más alto honor y lo que tiene para gloriarse en sus cadenas por Cristo, más que un rey en su diadema.\n\nComo quien había sido encarcelado como resultado de \"su fidelidad\" y obediencia al Señor, Pablo exhorta a sus lectores a andar \"como es digno\" (merecedor) de su vocación.\n\n\"Andar\": describe todo el estilo de vida de tu persona.\n\nUn andar digno es aquel que es consciente con la posición digna de un cristiano como miembro del Cuerpo de Cristo.\n\n(Efesios 5:2) Otra forma en la que deberíamos asemejarnos al Señor es andando en \"amor.\"\n\nEs darnos por otros, eso es andar en \"amor.\"\n\nEsto lo hizo nuestro perfecto ejemplo.\n\n¡Asombroso!\n\nNos amó.\n\nLa prueba de Su amor es que Él se dio a Sí mismo por nosotros en muerte en el Calvario.\n\nSu don se describe como ofrenda y \"sacrificio a Dios.\"\n\nUna \"ofrenda es todo aquello que se \"da a Dios\": un \"sacrificio\" incluye aquí el elemento adicional de la muerte.\"\n\nÉl fue la verdadera \"ofrenda\" en holocausto; Aquel que estuvo \"totalmente dedicado a la voluntad de Dios\", y hasta muerte de cruz, por mí.\n\nSu \"sacrificio\" de una devoción inenarrable (no puede ser explicado a través de las palabras, que es tan grande, intenso o extraordinario que no puede ser expresado o descrito) es ensalzado como \"de olor fragante'.\n\nFue un espectáculo que llenó el cielo de fragancia y el corazón de Dios en gozo: Mi Amado.\n\nEl Señor Jesús agradó a Su Padre dándose por otros.\n\n¡Los otros, los otros, Señor! Este mi tema sea; Ayúdame para por otros vivir; Para vivir para Ti.\n\n(Efesios 5:15) Es un ruego general a sus lectores a \"andar\", no como imprudentes, sino como sabios.\n\nComo se ha mencionado antes, \"andar\" es una de las palabras clave de la Epístola: andar como sabios es vivir a luz de nuestra \"posición como hijos de Dios.\"\n\n\"Andar como necios\" significa descender de este elevado plano a la conducta de hombres mundanos.\n\n(1 Juan 2:6) Si tú dices que permaneces en Él, debes andar como Él.\n\nEntonces debes andar como el Señor anduvo.\n\nSu vida, tal como está expuesta en los Evangelios, es nuestra pauta (norma, modelo) y guía.\n\nNo es una vida que podamos vivir con nuestras propias fuerzas; es solo posible \"en el poder del Espíritu Santo.\"\n\nNuestra responsabilidad es darle nuestras vidas a Él; sin reservas y dejar que \"Él viva Su vida en y por medio de nosotros.\n\n(1 Juan 1:7) Si alguien anda \"en la luz\", entonces puede tener comunión con el Señor Jesús y Sus hermanos.\n\nEsta sangre (la de Jesús) proveyó a Dios con una base justa sobre la que puede perdonar los pecados.\n\nLa sangre jamás perderá su poder.\n\nTiene una eficacia permanente para limpiarnos.\n\nLos creyentes han de confesar antes de poder recibir el perdón. Amén.",
+    "contenido_renderizado": [
+      {
+        "tipo": "parrafo",
+        "texto": "El Señor advierte ahora que la \"puerta\" del discipulado cristiano es estrecho (poco ancho) y que angosto (apretado) es el camino. Pero aquellos que siguen fielmente Sus enseñanzas encuentran la vida abundante. Por otra parte; hay la puerta \"ancha\". El fin de una vida así es \"perdición.\"",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Tal vez vivas y te salves por fuego.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Te puedes perder el vivir, el propósito de la propia existencia (efectividad, validez, realidad).",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Proverbios 16:25) Hay camino que parece derecho al hombre, pero su fin es camino de muerte.",
+        "referencias_inline": [
+          "Proverbios 16:25"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "La puerta ancha y el camino espacioso conducen a perdición.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "La puerta estrecha y el camino angosto conducen a la vida.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Jesús nos dice que esta vida difícil exigirá fe, disciplina y paciencia.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Esta vida difícil es la que vale la pena vivir.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Si escoges el camino fácil, \"tendrás mucha compañía\", pero te perderás lo mejor de Dios para ti.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Romanos 6:4) El bautismo con agua da una demostración visual del bautismo en Cristo.",
+        "referencias_inline": [
+          "Romanos 6:4"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Exhibe al creyente siendo sumergido en las oscuras aguas de la muerte (en la persona del Señor) y presenta al nuevo hombre en Cristo levantándose para andar en novedad de vida.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Hay un sentido en el que el creyente asiste al funeral de su viejo yo cuando es bautizado.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Al pasar bajo el agua, está diciendo: \"Todo lo que yo era como pecaminoso hijo de Adán fue puesto a la muerte en la cruz.\"",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Al salir del agua está diciendo: ya no soy más yo quien vive, sino Cristo vive en mí.\" (Gálatas 2:20).",
+        "referencias_inline": [
+          "Gálatas 2:20"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Caminamos en \"vida nueva\": amor, justicia, fiel, manso.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(2 Corintios 5:7) El hecho de que \"por fe andamos\", y no por vista es prueba abundante de que estamos ausentes del Señor.",
+        "referencias_inline": [
+          "2 Corintios 5:7"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Nunca se ha visto al Señor con los ojos físicos.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Es solamente por la fe que le hemos podido ver.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Gálatas 5:16) Como creyentes deberíamos \"andar\" \"en el Espíritu\", no en la carne.",
+        "referencias_inline": [
+          "Gálatas 5:16"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Andar \"en\" (o por)\" el Espíritu\", es dejar que Él tenga Su vía (espacio destinado al paso, calle, camino).",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Es permanecer en comunión con Él.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Es tomar decisiones a la luz de Su santidad.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Es estar ocupado con Cristo, porque el ministerio del Espíritu es ocupar al creyente con el Señor Jesús.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Cuando así andamos en el Espíritu, entonces \"la carne\", o \"vida del yo\", es tratada como muerta.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "No podemos estar ocupados \"a la vez con Cristo y con el pecado.\"",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Efesios 4:1) Pablo, con ausencia de altivez se refiere a sí mismo como \"preso\" en el Señor.",
+        "referencias_inline": [
+          "Efesios 4:1"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Pablo lo considera como el más alto honor y lo que tiene para gloriarse en sus cadenas por Cristo, más que un rey en su diadema.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Como quien había sido encarcelado como resultado de \"su fidelidad\" y obediencia al Señor, Pablo exhorta a sus lectores a andar \"como es digno\" (merecedor) de su vocación.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "\"Andar\": describe todo el estilo de vida de tu persona.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Un andar digno es aquel que es consciente con la posición digna de un cristiano como miembro del Cuerpo de Cristo.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Efesios 5:2) Otra forma en la que deberíamos asemejarnos al Señor es andando en \"amor.\"",
+        "referencias_inline": [
+          "Efesios 5:2"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Es darnos por otros, eso es andar en \"amor.\"",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Esto lo hizo nuestro perfecto ejemplo.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "¡Asombroso!",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Nos amó.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "La prueba de Su amor es que Él se dio a Sí mismo por nosotros en muerte en el Calvario.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Su don se describe como ofrenda y \"sacrificio a Dios.\"",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Una \"ofrenda es todo aquello que se \"da a Dios\": un \"sacrificio\" incluye aquí el elemento adicional de la muerte.\"",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Él fue la verdadera \"ofrenda\" en holocausto; Aquel que estuvo \"totalmente dedicado a la voluntad de Dios\", y hasta muerte de cruz, por mí.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Su \"sacrificio\" de una devoción inenarrable (no puede ser explicado a través de las palabras, que es tan grande, intenso o extraordinario que no puede ser expresado o descrito) es ensalzado como \"de olor fragante'.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Fue un espectáculo que llenó el cielo de fragancia y el corazón de Dios en gozo: Mi Amado.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "El Señor Jesús agradó a Su Padre dándose por otros.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "¡Los otros, los otros, Señor! Este mi tema sea; Ayúdame para por otros vivir; Para vivir para Ti.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Efesios 5:15) Es un ruego general a sus lectores a \"andar\", no como imprudentes, sino como sabios.",
+        "referencias_inline": [
+          "Efesios 5:15"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Como se ha mencionado antes, \"andar\" es una de las palabras clave de la Epístola: andar como sabios es vivir a luz de nuestra \"posición como hijos de Dios.\"",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "\"Andar como necios\" significa descender de este elevado plano a la conducta de hombres mundanos.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(1 Juan 2:6) Si tú dices que permaneces en Él, debes andar como Él.",
+        "referencias_inline": [
+          "1 Juan 2:6"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Entonces debes andar como el Señor anduvo.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Su vida, tal como está expuesta en los Evangelios, es nuestra pauta (norma, modelo) y guía.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "No es una vida que podamos vivir con nuestras propias fuerzas; es solo posible \"en el poder del Espíritu Santo.\"",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Nuestra responsabilidad es darle nuestras vidas a Él; sin reservas y dejar que \"Él viva Su vida en y por medio de nosotros.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(1 Juan 1:7) Si alguien anda \"en la luz\", entonces puede tener comunión con el Señor Jesús y Sus hermanos.",
+        "referencias_inline": [
+          "1 Juan 1:7"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Esta sangre (la de Jesús) proveyó a Dios con una base justa sobre la que puede perdonar los pecados.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "La sangre jamás perderá su poder.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Tiene una eficacia permanente para limpiarnos.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Los creyentes han de confesar antes de poder recibir el perdón. Amén.",
+        "referencias_inline": []
+      }
+    ]
+  },
+  "busqueda": {
+    "texto_indexable": "camino estrecho mateo 7 13 14 obediencia perdon voluntad de Dios voluntad de Dios santidad fuego evangelio altivez el senor advierte ahora que la puerta del discipulado cristiano es estrecho poco ancho y que angosto apretado es el camino pero aquellos que siguen fielmente sus ensenanzas encuentran la vida abundante por otra parte hay la puerta ancha el fin de una vida asi es perdicion tal vez vivas y te salves por fuego te puedes perder el vivir el proposito de la propia existencia efectividad validez realidad proverbios 16 25 hay camino que parece derecho al hombre pero su fin es camino de muerte la puerta ancha y el camino espacioso conducen a perdicion la puerta estrecha y el camino angosto conducen a la vida Jesus nos dice que esta vida dificil exigira fe disciplina y paciencia esta vida dificil es la que vale la pena vivir si escoges el camino facil tendras mucha compania pero te perderas lo mejor de Dios para ti romanos 6 4 el bautismo con agua da una demostracion visual del bautismo en cristo exhibe al creyente siendo sumergido en las oscuras aguas de la muerte en la persona del senor y presenta al nuevo hombre en cristo levantandose para andar en novedad de vida hay un sentido en el que el creyente asiste al funeral de su viejo yo cuando es bautizado al pasar bajo el agua esta diciendo todo lo que yo era como pecaminoso hijo de adan fue puesto a la muerte en la cruz al salir del agua esta diciendo ya no soy mas yo quien vive sino cristo vive en mi galatas 2 20 caminamos en vida nueva amor justicia fiel manso 2 corintios 5 7 el hecho de que por fe andamos y no por vista es prueba abundante de que estamos ausentes del senor nunca se ha visto al senor con los ojos fisicos es solamente por la fe que le hemos podido ver galatas 5 16 como creyentes deberiamos andar en el espiritu no en la carne andar en o por el espiritu es dejar que el tenga su via espacio destinado al paso calle camino es permanecer en comunion con el es tomar decisiones a la luz de su santidad es estar ocupado con cristo porque el ministerio del espiritu es ocupar al creyente con el senor Jesus cuando asi andamos en el espiritu entonces la carne o vida del yo es tratada como muerta no podemos estar ocupados a la vez con cristo y con el pecado efesios 4 1 pablo con ausencia de altivez se refiere a si mismo como preso en el senor pablo lo considera como el mas alto honor y lo que tiene para gloriarse en sus cadenas por cristo mas que un rey en su diadema como quien habia sido encarcelado como resultado de su fidelidad y obediencia al senor pablo exhorta a sus lectores a andar como es digno merecedor de su vocacion andar describe todo el estilo de vida de tu persona un andar digno es aquel que es consciente con la posicion digna de un cristiano como miembro del cuerpo de cristo efesios 5 2 otra forma en la que deberiamos asemejarnos al senor es andando en amor es darnos por otros eso es andar en amor esto lo hizo nuestro perfecto ejemplo asombroso nos amo la prueba de su amor es que el se dio a si mismo por nosotros en muerte en el calvario su don se describe como ofrenda y sacrificio a Dios una ofrenda es todo aquello que se da a Dios un sacrificio incluye aqui el elemento adicional de la muerte el fue la verdadera ofrenda en holocausto aquel que estuvo totalmente dedicado a la voluntad de Dios y hasta muerte de cruz por mi su sacrificio de una devocion inenarrable no puede ser explicado a traves de las palabras que es tan grande intenso o extraordinario que no puede ser expresado o descrito es ensalzado como de olor fragante fue un espectaculo que lleno el cielo de fragancia y el corazon de Dios en gozo mi amado el senor Jesus agrado a su padre dandose por otros los otros los otros senor este mi tema sea ayudame para por otros vivir para vivir para ti efesios 5 15 es un ruego general a sus lectores a andar no como imprudentes sino como sabios como se ha mencionado antes andar es una de las palabras clave de la epistola andar como sabios es vivir a luz de nuestra posicion como hijos de Dios andar como necios significa descender de este elevado plano a la conducta de hombres mundanos 1 juan 2 6 si tu dices que permaneces en el debes andar como el entonces debes andar como el senor anduvo su vida tal como esta expuesta en los evangelios es nuestra pauta norma modelo y guia no es una vida que podamos vivir con nuestras propias fuerzas es solo posible en el poder del espiritu santo nuestra responsabilidad es darle nuestras vidas a el sin reservas y dejar que el viva su vida en y por medio de nosotros 1 juan 1 7 si alguien anda en la luz entonces puede tener comunion con el senor Jesus y sus hermanos esta sangre la de Jesus proveyo a Dios con una base justa sobre la que puede perdonar los pecados la sangre jamas perdera su poder tiene una eficacia permanente para limpiarnos los creyentes han de confesar antes de poder recibir el perdon amen",
+    "alias_busqueda": [
+      "Estudio 1352",
+      "Mateo",
+      "Mateo 7",
+      "Mateo 7:13-14",
+      "voluntad de Dios",
+      "santidad",
+      "fuego",
+      "evangelio",
+      "Obediencia",
+      "Perdón"
+    ]
+  },
+  "revision_manual": {
+    "requiere_revision": false,
+    "motivo": ""
+  },
+  "ui": {
+    "mostrar_credito_en_header": true,
+    "mostrar_numero_estudio": true,
+    "mostrar_fecha": true,
+    "mostrar_topicos": true,
+    "permitir_favorito": true,
+    "permitir_compartir": true
+  }
+}

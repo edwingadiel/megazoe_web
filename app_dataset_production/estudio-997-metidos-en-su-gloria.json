@@ -1,0 +1,513 @@
+{
+  "id": "estudio-997-metidos-en-su-gloria",
+  "slug": "estudio-997-metidos-en-su-gloria",
+  "numero_estudio": 997,
+  "tipo_estudio": "Iglesia en las casas",
+  "ministerio": {
+    "iglesia": "Iglesia Cristiana Mega Zoe",
+    "pastora": "Pastora Edith Cruz",
+    "credito_corto": "Iglesia Cristiana Mega Zoe · Pastora Edith Cruz",
+    "credito_largo": "Contenido original de Iglesia Cristiana Mega Zoe, conservando el crédito ministerial correspondiente a la Pastora Edith Cruz."
+  },
+  "identidad_editorial": {
+    "idioma": "es",
+    "fuente_original": "documento_word",
+    "archivo_origen": "/Users/edwingadiel/Desktop/Estudios en Word/Estudio #997  Metidos En Su Gloria - Isaías 43 6-8.docx",
+    "estado_revision": "procesado",
+    "version_schema": "1.0"
+  },
+  "encabezado": {
+    "titulo": "Metidos En Su Gloria",
+    "subtitulo": null,
+    "cita_principal": "Isaías 43:6-8",
+    "resumen_corto": "Metidos En Su Gloria llama a vivir en santidad."
+  },
+  "fechas": {
+    "fecha_inicio": null,
+    "fecha_fin": null,
+    "fecha_texto_original": "",
+    "ano": null
+  },
+  "clasificacion_biblica": {
+    "libro_principal": "Isaías",
+    "capitulo_principal": 43,
+    "versiculos_principales": [
+      6,
+      7,
+      8
+    ],
+    "referencia_principal_normalizada": "Isaías 43:6-8",
+    "testamento_principal": "Antiguo Testamento"
+  },
+  "clasificacion_tematica": {
+    "topicos": [
+      "Presencia de Dios",
+      "Santidad",
+      "Llamado de Dios"
+    ],
+    "keywords": [
+      "gloria de Dios",
+      "santidad",
+      "secreto",
+      "sansón",
+      "fuego"
+    ]
+  },
+  "referencias_biblicas": [
+    {
+      "referencia": "Isaías 43:6 - 8",
+      "referencia_normalizada": "Isaías 43:6-8",
+      "libro": "Isaías",
+      "capitulo": 43,
+      "versiculos": [
+        6,
+        7,
+        8
+      ],
+      "tipo": "principal",
+      "clickeable": true
+    },
+    {
+      "referencia": "Isaías 43:7",
+      "referencia_normalizada": "Isaías 43:7",
+      "libro": "Isaías",
+      "capitulo": 43,
+      "versiculos": [
+        7
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Génesis 18:1-15",
+      "referencia_normalizada": "Génesis 18:1-15",
+      "libro": "Génesis",
+      "capitulo": 18,
+      "versiculos": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Génesis 18:3",
+      "referencia_normalizada": "Génesis 18:3",
+      "libro": "Génesis",
+      "capitulo": 18,
+      "versiculos": [
+        3
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Génesis 28:12 - 22",
+      "referencia_normalizada": "Génesis 28:12-22",
+      "libro": "Génesis",
+      "capitulo": 28,
+      "versiculos": [
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Éxodo 3:1-12",
+      "referencia_normalizada": "Éxodo 3:1-12",
+      "libro": "Éxodo",
+      "capitulo": 3,
+      "versiculos": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Jueces 13:13-20",
+      "referencia_normalizada": "Jueces 13:13-20",
+      "libro": "Jueces",
+      "capitulo": 13,
+      "versiculos": [
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "2 Crónicas 7:1-3",
+      "referencia_normalizada": "2 Crónicas 7:1-3",
+      "libro": "2 Crónicas",
+      "capitulo": 7,
+      "versiculos": [
+        1,
+        2,
+        3
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Mateo 1:20,21",
+      "referencia_normalizada": "Mateo 1:20,21",
+      "libro": "Mateo",
+      "capitulo": 1,
+      "versiculos": [
+        20,
+        21
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Apocalipsis 1:17",
+      "referencia_normalizada": "Apocalipsis 1:17",
+      "libro": "Apocalipsis",
+      "capitulo": 1,
+      "versiculos": [
+        17
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    }
+  ],
+  "contenido": {
+    "introduccion": null,
+    "secciones": [],
+    "contenido_completo": "Su gloria emana de su carácter, emana de todo lo que Él es. La gloria de Dios se manifiesta en el conjunto de todos Sus atributos. La gloria del Señor jamás se desvanece. ¡Es eterna! Isaías 43:7 dice que Dios nos creó para Su gloria. El hombre glorifica a Dios porque a través del hombre mismo la gloria de Dios puede ser vista en cosas tales como el amor, la música y en milagros que Dios hace en nosotros y son vistos por otros. Así que, los hombres pueden ver la gloria de Dios en lo que Él hace en uno.\n\nI. Veamos Su gloria sobre Abraham (Génesis 18:1-15)\n\nA. El Señor llegó a un hombre llamado Abraham (Génesis 18:3).\n\nVinieron tres varones directo del cielo para hablar con él (Vs.2).\n\nVemos la reverencia de Abraham: \"… y se postró en tierra…\"\n\nDios le habla a Abraham del hijo que habría de tener (Vs.10).\n\nSara ríe de duda y \"…Jehová dijo a Abraham: ¿Por qué se ha reído Sara…?\" (Vs.13)\n\nEn Dios no hay secretos para los que Él creó para Su gloria: \"¿Encubriré yo a Abraham lo que voy a hacer, habiendo de ser Abraham (Vs. 17,18) una nación grande y fuerte…\" ¡Para Su gloria!\n\n¡Entonces se manifiesta Dios con Su gloria!\n\nB. Jacob vive la gloria de Dios (Génesis 28:12 - 22) que comienza con un sueño donde ve una escalera que estaba apoyada en tierra y su extremo que tocaba el cielo…(Vs.12)\n\nÁngeles de Dios subían y descendían por ella.\n\nJehová estaba en lo alto de ella (Vs.13) y le dijo: \"Yo soy Jehová, el Dios de Abraham…\"\n\nDios le habla a Jacob diciendo: \"Será tu descendencia como el polvo de la tierra…\" (Vs.14).\n\n(Vs.15) \"… yo estoy contigo (con Su gloria) y te guardaré por dondequiera que fueres…porque no te dejaré hasta que haya hecho lo que te he dicho.\"\n\n¡Nada que temer para el que tiene Su gloria!\n\nC. Moisés estuvo en Su gloria (Éxodo 3:1-12).\n\n¡Moisés es llamado en la gloria de Dios! (Vs.2)\n\nUna llama de fuego en medio de una zarza que ardía y no se consumía. ¡Había poder, había allí Su gloria!\n\nCuriosidad le dio a Moisés; él quería saber por qué la zarza no se quemaba (Vs.3).\n\n\"¡Moisés, Moisés! quédate quieto, quita el calzado de tus pies…\" ¡La razón es que aquel lugar se ha hecho santo porque Su gloria llenó el lugar! (Vs 4,5)\n\n\"…Moisés respondió a Dios: ¿Quién soy yo para que vaya a…?\" (Vs.11)\n\nNo era ¡quién era Moisés! sino ¡lo que iba a hacer para Dios! \"Ve, porque yo estaré contigo...\" (Vs.12)\n\n\"Si ellos me preguntaren: ¿Cuál es su nombre?, ¿qué les responderé?\" (Vs.13) \"Y respondió Dios a Moisés: Yo soy El que soy…\" (Vs.14) ¡Nada que temer y mucho que ver!\n\nD. El llamado de Sansón envolvió Su gloria (Jueces 13:13-20). ¡Dios quiere tener Su gloria en la tierra!\n\nSi estás metido en Su gloria estarás al tanto de lo que Dios quiere hacer en tu vida.\n\n¡El ángel de Jehová es el que llega al hombre que le teme! ¡Y juntamente viene Su gloria!\n\nSansón estaría para salvar a Israel. Hay que temer para que se mueva Su gloria en nuestras vidas, para salvar lo que está destruido. ¡Dios quiere hacer, crear cosas nuevas!\n\nNacería Sansón bajo santidad, porque su madre se negaría a lo mundano (Vs.13).\n\n(Vs.20) \"…se postraron en tierra.\" ¡Eso fue delante del Señor y en grande gloria! El ángel hizo milagro. (Vs.19). Se movió Su gloria para que Manoa reconociera que tendría un hijo ¡para Dios glorificarse!\n\nE. (2 Crónicas 7:1-3) \"…Salomón acabó de orar, descendió fuego…y la gloria de Jehová llenó la casa.\"\n\nHabía llenura de Su gloria en el templo, allí y en aquel momento el hombre no tenía cabida (Vs.2).\n\n(Vs.3) \"…se postraron…\" Es el resultado de cuando está Su gloria.\n\n\"…sobre sus rostros…y adoraron, y alabaron a Jehová…\" ¡Es que hay que agradecer!\n\n¡Un templo lleno de Su gloria, en alabanza, adorando y rostro al piso!\n\n¡Eso es una iglesia en la que Dios quiere hacer milagros! ¡Santidad, búsqueda! ¡Entonces estará Su gloria!\n\nF. José estaba muy atormentado por lo que vivía (Mateo 1:20,21)\n\nEra un hombre justo y no quería hacerle daño a María.\n\nEl ángel le habla: \"… lo que en ella es engendrado, del Espíritu Santo es.\"\n\nLa razón de llegar a la tierra es: \"…porque Él salvará a Su pueblo de sus pecados.\" (Vs.21)\n\n¡Después de la revelación José entendió qué hacer con su vida, con María y con el Salvador enviado!\n\n¡Cada paso que diera sería Su gloria que acompañaría a José!\n\nG. (Apocalipsis 1:17) \"…caí como muerto a sus pies.\"\n\n\"…No temas; yo soy el primero y el último…\"\n\nJuan conocía a Jesús el crucificado. Ahora le ve lleno completamente con triunfo de vencedor.\n\nCon Su gloria Juan necesitaba escribir a las iglesias y del futuro que era desconocido para él.\n\nAhora tú sabes sobre el Apocalipsis porque Su gloria tomó aquel ambiente de la soledad de Juan para descubrir lo que hoy es para nosotros el conocimiento del Libro de la Revelación.\n\nJuan glorificaba ahora a Jesús como Dios.\n\nLa gloria de Dios le llegó a Juan para que Dios fuera visto por él y dejar que llegara a nosotros. \"Todos los llamados de mi nombre; para ¡gloria mía! los he creado, ¡los formé y los hice!\" (Isaías 43:7)\n\nNo estés fuera de Su gloria porque, entonces, no serás para Él útil. Amén.",
+    "contenido_renderizado": [
+      {
+        "tipo": "parrafo",
+        "texto": "Su gloria emana de su carácter, emana de todo lo que Él es. La gloria de Dios se manifiesta en el conjunto de todos Sus atributos. La gloria del Señor jamás se desvanece. ¡Es eterna! Isaías 43:7 dice que Dios nos creó para Su gloria. El hombre glorifica a Dios porque a través del hombre mismo la gloria de Dios puede ser vista en cosas tales como el amor, la música y en milagros que Dios hace en nosotros y son vistos por otros. Así que, los hombres pueden ver la gloria de Dios en lo que Él hace en uno.",
+        "referencias_inline": [
+          "Isaías 43:7"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "I. Veamos Su gloria sobre Abraham (Génesis 18:1-15)",
+        "referencias_inline": [
+          "Génesis 18:1-15"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "A. El Señor llegó a un hombre llamado Abraham (Génesis 18:3).",
+        "referencias_inline": [
+          "Génesis 18:3"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Vinieron tres varones directo del cielo para hablar con él (Vs.2).",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Vemos la reverencia de Abraham: \"… y se postró en tierra…\"",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Dios le habla a Abraham del hijo que habría de tener (Vs.10).",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Sara ríe de duda y \"…Jehová dijo a Abraham: ¿Por qué se ha reído Sara…?\" (Vs.13)",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "En Dios no hay secretos para los que Él creó para Su gloria: \"¿Encubriré yo a Abraham lo que voy a hacer, habiendo de ser Abraham (Vs. 17,18) una nación grande y fuerte…\" ¡Para Su gloria!",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "¡Entonces se manifiesta Dios con Su gloria!",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "B. Jacob vive la gloria de Dios (Génesis 28:12 - 22) que comienza con un sueño donde ve una escalera que estaba apoyada en tierra y su extremo que tocaba el cielo…(Vs.12)",
+        "referencias_inline": [
+          "Génesis 28:12-22"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Ángeles de Dios subían y descendían por ella.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Jehová estaba en lo alto de ella (Vs.13) y le dijo: \"Yo soy Jehová, el Dios de Abraham…\"",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Dios le habla a Jacob diciendo: \"Será tu descendencia como el polvo de la tierra…\" (Vs.14).",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Vs.15) \"… yo estoy contigo (con Su gloria) y te guardaré por dondequiera que fueres…porque no te dejaré hasta que haya hecho lo que te he dicho.\"",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "¡Nada que temer para el que tiene Su gloria!",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "C. Moisés estuvo en Su gloria (Éxodo 3:1-12).",
+        "referencias_inline": [
+          "Éxodo 3:1-12"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "¡Moisés es llamado en la gloria de Dios! (Vs.2)",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Una llama de fuego en medio de una zarza que ardía y no se consumía. ¡Había poder, había allí Su gloria!",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Curiosidad le dio a Moisés; él quería saber por qué la zarza no se quemaba (Vs.3).",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "\"¡Moisés, Moisés! quédate quieto, quita el calzado de tus pies…\" ¡La razón es que aquel lugar se ha hecho santo porque Su gloria llenó el lugar! (Vs 4,5)",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "\"…Moisés respondió a Dios: ¿Quién soy yo para que vaya a…?\" (Vs.11)",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "No era ¡quién era Moisés! sino ¡lo que iba a hacer para Dios! \"Ve, porque yo estaré contigo...\" (Vs.12)",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "\"Si ellos me preguntaren: ¿Cuál es su nombre?, ¿qué les responderé?\" (Vs.13) \"Y respondió Dios a Moisés: Yo soy El que soy…\" (Vs.14) ¡Nada que temer y mucho que ver!",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "D. El llamado de Sansón envolvió Su gloria (Jueces 13:13-20). ¡Dios quiere tener Su gloria en la tierra!",
+        "referencias_inline": [
+          "Jueces 13:13-20"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Si estás metido en Su gloria estarás al tanto de lo que Dios quiere hacer en tu vida.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "¡El ángel de Jehová es el que llega al hombre que le teme! ¡Y juntamente viene Su gloria!",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Sansón estaría para salvar a Israel. Hay que temer para que se mueva Su gloria en nuestras vidas, para salvar lo que está destruido. ¡Dios quiere hacer, crear cosas nuevas!",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Nacería Sansón bajo santidad, porque su madre se negaría a lo mundano (Vs.13).",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Vs.20) \"…se postraron en tierra.\" ¡Eso fue delante del Señor y en grande gloria! El ángel hizo milagro. (Vs.19). Se movió Su gloria para que Manoa reconociera que tendría un hijo ¡para Dios glorificarse!",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "E. (2 Crónicas 7:1-3) \"…Salomón acabó de orar, descendió fuego…y la gloria de Jehová llenó la casa.\"",
+        "referencias_inline": [
+          "2 Crónicas 7:1-3"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Había llenura de Su gloria en el templo, allí y en aquel momento el hombre no tenía cabida (Vs.2).",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Vs.3) \"…se postraron…\" Es el resultado de cuando está Su gloria.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "\"…sobre sus rostros…y adoraron, y alabaron a Jehová…\" ¡Es que hay que agradecer!",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "¡Un templo lleno de Su gloria, en alabanza, adorando y rostro al piso!",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "¡Eso es una iglesia en la que Dios quiere hacer milagros! ¡Santidad, búsqueda! ¡Entonces estará Su gloria!",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "F. José estaba muy atormentado por lo que vivía (Mateo 1:20,21)",
+        "referencias_inline": [
+          "Mateo 1:20,21"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Era un hombre justo y no quería hacerle daño a María.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "El ángel le habla: \"… lo que en ella es engendrado, del Espíritu Santo es.\"",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "La razón de llegar a la tierra es: \"…porque Él salvará a Su pueblo de sus pecados.\" (Vs.21)",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "¡Después de la revelación José entendió qué hacer con su vida, con María y con el Salvador enviado!",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "¡Cada paso que diera sería Su gloria que acompañaría a José!",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "G. (Apocalipsis 1:17) \"…caí como muerto a sus pies.\"",
+        "referencias_inline": [
+          "Apocalipsis 1:17"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "\"…No temas; yo soy el primero y el último…\"",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Juan conocía a Jesús el crucificado. Ahora le ve lleno completamente con triunfo de vencedor.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Con Su gloria Juan necesitaba escribir a las iglesias y del futuro que era desconocido para él.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Ahora tú sabes sobre el Apocalipsis porque Su gloria tomó aquel ambiente de la soledad de Juan para descubrir lo que hoy es para nosotros el conocimiento del Libro de la Revelación.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Juan glorificaba ahora a Jesús como Dios.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "La gloria de Dios le llegó a Juan para que Dios fuera visto por él y dejar que llegara a nosotros. \"Todos los llamados de mi nombre; para ¡gloria mía! los he creado, ¡los formé y los hice!\" (Isaías 43:7)",
+        "referencias_inline": [
+          "Isaías 43:7"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "No estés fuera de Su gloria porque, entonces, no serás para Él útil. Amén.",
+        "referencias_inline": []
+      }
+    ]
+  },
+  "busqueda": {
+    "texto_indexable": "metidos en su gloria isaias 43 6 8 presencia de Dios santidad llamado de Dios gloria de Dios santidad secreto sanson fuego su gloria emana de su caracter emana de todo lo que el es la gloria de Dios se manifiesta en el conjunto de todos sus atributos la gloria del senor jamas se desvanece es eterna isaias 43 7 dice que Dios nos creo para su gloria el hombre glorifica a Dios porque a traves del hombre mismo la gloria de Dios puede ser vista en cosas tales como el amor la musica y en milagros que Dios hace en nosotros y son vistos por otros asi que los hombres pueden ver la gloria de Dios en lo que el hace en uno i veamos su gloria sobre abraham genesis 18 1 15 a el senor llego a un hombre llamado abraham genesis 18 3 vinieron tres varones directo del cielo para hablar con el vs 2 vemos la reverencia de abraham y se postro en tierra Dios le habla a abraham del hijo que habria de tener vs 10 sara rie de duda y jehova dijo a abraham por que se ha reido sara vs 13 en Dios no hay secretos para los que el creo para su gloria encubrire yo a abraham lo que voy a hacer habiendo de ser abraham vs 17 18 una nacion grande y fuerte para su gloria entonces se manifiesta Dios con su gloria b jacob vive la gloria de Dios genesis 28 12 22 que comienza con un sueno donde ve una escalera que estaba apoyada en tierra y su extremo que tocaba el cielo vs 12 angeles de Dios subian y descendian por ella jehova estaba en lo alto de ella vs 13 y le dijo yo soy jehova el Dios de abraham Dios le habla a jacob diciendo sera tu descendencia como el polvo de la tierra vs 14 vs 15 yo estoy contigo con su gloria y te guardare por dondequiera que fueres porque no te dejare hasta que haya hecho lo que te he dicho nada que temer para el que tiene su gloria c moises estuvo en su gloria exodo 3 1 12 moises es llamado en la gloria de Dios vs 2 una llama de fuego en medio de una zarza que ardia y no se consumia habia poder habia alli su gloria curiosidad le dio a moises el queria saber por que la zarza no se quemaba vs 3 moises moises quedate quieto quita el calzado de tus pies la razon es que aquel lugar se ha hecho santo porque su gloria lleno el lugar vs 4 5 moises respondio a Dios quien soy yo para que vaya a vs 11 no era quien era moises sino lo que iba a hacer para Dios ve porque yo estare contigo vs 12 si ellos me preguntaren cual es su nombre que les respondere vs 13 y respondio Dios a moises yo soy el que soy vs 14 nada que temer y mucho que ver d el llamado de sanson envolvio su gloria jueces 13 13 20 Dios quiere tener su gloria en la tierra si estas metido en su gloria estaras al tanto de lo que Dios quiere hacer en tu vida el angel de jehova es el que llega al hombre que le teme y juntamente viene su gloria sanson estaria para salvar a israel hay que temer para que se mueva su gloria en nuestras vidas para salvar lo que esta destruido Dios quiere hacer crear cosas nuevas naceria sanson bajo santidad porque su madre se negaria a lo mundano vs 13 vs 20 se postraron en tierra eso fue delante del senor y en grande gloria el angel hizo milagro vs 19 se movio su gloria para que manoa reconociera que tendria un hijo para Dios glorificarse e 2 cronicas 7 1 3 salomon acabo de orar descendio fuego y la gloria de jehova lleno la casa habia llenura de su gloria en el templo alli y en aquel momento el hombre no tenia cabida vs 2 vs 3 se postraron es el resultado de cuando esta su gloria sobre sus rostros y adoraron y alabaron a jehova es que hay que agradecer un templo lleno de su gloria en alabanza adorando y rostro al piso eso es una iglesia en la que Dios quiere hacer milagros santidad busqueda entonces estara su gloria f jose estaba muy atormentado por lo que vivia mateo 1 20 21 era un hombre justo y no queria hacerle dano a maria el angel le habla lo que en ella es engendrado del espiritu santo es la razon de llegar a la tierra es porque el salvara a su pueblo de sus pecados vs 21 despues de la revelacion jose entendio que hacer con su vida con maria y con el salvador enviado cada paso que diera seria su gloria que acompanaria a jose g apocalipsis 1 17 cai como muerto a sus pies no temas yo soy el primero y el ultimo juan conocia a Jesus el crucificado ahora le ve lleno completamente con triunfo de vencedor con su gloria juan necesitaba escribir a las iglesias y del futuro que era desconocido para el ahora tu sabes sobre el apocalipsis porque su gloria tomo aquel ambiente de la soledad de juan para descubrir lo que hoy es para nosotros el conocimiento del libro de la revelacion juan glorificaba ahora a Jesus como Dios la gloria de Dios le llego a juan para que Dios fuera visto por el y dejar que llegara a nosotros todos los llamados de mi nombre para gloria mia los he creado los forme y los hice isaias 43 7 no estes fuera de su gloria porque entonces no seras para el util amen",
+    "alias_busqueda": [
+      "Metidos En Su Gloria",
+      "Isaías",
+      "Isaías 43",
+      "Isaías 43:6-8",
+      "gloria de Dios",
+      "santidad",
+      "secreto",
+      "sansón",
+      "Presencia de Dios"
+    ]
+  },
+  "revision_manual": {
+    "requiere_revision": false,
+    "motivo": ""
+  },
+  "ui": {
+    "mostrar_credito_en_header": true,
+    "mostrar_numero_estudio": true,
+    "mostrar_fecha": true,
+    "mostrar_topicos": true,
+    "permitir_favorito": true,
+    "permitir_compartir": true
+  }
+}

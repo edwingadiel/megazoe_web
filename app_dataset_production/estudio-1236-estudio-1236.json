@@ -1,0 +1,411 @@
+{
+  "id": "estudio-1236-estudio-1236",
+  "slug": "estudio-1236-estudio-1236",
+  "numero_estudio": 1236,
+  "tipo_estudio": "Iglesia en las casas",
+  "ministerio": {
+    "iglesia": "Iglesia Cristiana Mega Zoe",
+    "pastora": "Pastora Edith Cruz",
+    "credito_corto": "Iglesia Cristiana Mega Zoe · Pastora Edith Cruz",
+    "credito_largo": "Contenido original de Iglesia Cristiana Mega Zoe, conservando el crédito ministerial correspondiente a la Pastora Edith Cruz."
+  },
+  "identidad_editorial": {
+    "idioma": "es",
+    "fuente_original": "documento_word",
+    "archivo_origen": "/Users/edwingadiel/Desktop/Estudios en Word/Estudio #1236 Fiel compañero hasta el fin - 2 Timoteo 4 11.docx",
+    "estado_revision": "procesado",
+    "version_schema": "1.0"
+  },
+  "encabezado": {
+    "titulo": "Fiel Compañero Hasta El Fin",
+    "subtitulo": null,
+    "cita_principal": "2 Timoteo 4:11",
+    "resumen_corto": "Fiel Compañero Hasta El Fin enseña a permanecer como discípulos de Jesús y atender la Palabra de Dios."
+  },
+  "fechas": {
+    "fecha_inicio": null,
+    "fecha_fin": null,
+    "fecha_texto_original": "",
+    "ano": null
+  },
+  "clasificacion_biblica": {
+    "libro_principal": "2 Timoteo",
+    "capitulo_principal": 4,
+    "versiculos_principales": [
+      11
+    ],
+    "referencia_principal_normalizada": "2 Timoteo 4:11",
+    "testamento_principal": "Nuevo Testamento"
+  },
+  "clasificacion_tematica": {
+    "topicos": [
+      "Liderazgo espiritual",
+      "Discipulado",
+      "Palabra de Dios"
+    ],
+    "keywords": [
+      "arrepentimiento",
+      "perseverancia",
+      "lágrimas",
+      "filipos",
+      "evangelio"
+    ]
+  },
+  "referencias_biblicas": [
+    {
+      "referencia": "2 Timoteo 4:11",
+      "referencia_normalizada": "2 Timoteo 4:11",
+      "libro": "2 Timoteo",
+      "capitulo": 4,
+      "versiculos": [
+        11
+      ],
+      "tipo": "principal",
+      "clickeable": true
+    },
+    {
+      "referencia": "Colosenses 4:14",
+      "referencia_normalizada": "Colosenses 4:14",
+      "libro": "Colosenses",
+      "capitulo": 4,
+      "versiculos": [
+        14
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Filemón 1:24",
+      "referencia_normalizada": "Filemón 1:24",
+      "libro": "Filemón",
+      "capitulo": 1,
+      "versiculos": [
+        24
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Hechos 27:1",
+      "referencia_normalizada": "Hechos 27:1",
+      "libro": "Hechos",
+      "capitulo": 27,
+      "versiculos": [
+        1
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Hechos 16:6-11",
+      "referencia_normalizada": "Hechos 16:6-11",
+      "libro": "Hechos",
+      "capitulo": 16,
+      "versiculos": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Hechos 17:1",
+      "referencia_normalizada": "Hechos 17:1",
+      "libro": "Hechos",
+      "capitulo": 17,
+      "versiculos": [
+        1
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Hechos 20:5-6",
+      "referencia_normalizada": "Hechos 20:5-6",
+      "libro": "Hechos",
+      "capitulo": 20,
+      "versiculos": [
+        5,
+        6
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Hechos 27",
+      "referencia_normalizada": "Hechos 27",
+      "libro": "Hechos",
+      "capitulo": 27,
+      "versiculos": [],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Hechos 16:10",
+      "referencia_normalizada": "Hechos 16:10",
+      "libro": "Hechos",
+      "capitulo": 16,
+      "versiculos": [
+        10
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Hechos 20:5,12",
+      "referencia_normalizada": "Hechos 20:5,12",
+      "libro": "Hechos",
+      "capitulo": 20,
+      "versiculos": [
+        5,
+        12
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Hechos 21:1-16",
+      "referencia_normalizada": "Hechos 21:1-16",
+      "libro": "Hechos",
+      "capitulo": 21,
+      "versiculos": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    }
+  ],
+  "contenido": {
+    "introduccion": null,
+    "secciones": [],
+    "contenido_completo": "El único que está conmigo es Lucas. Lucas escribe de su gran compañero Pablo, sus últimas vivencias y las sufre, padece y las vive con él, la razón: Demas me ha abandonado amando al mundo. Es autor de Lucas y Hechos. Es gentil que escribió una parte del Nuevo Testamento. Lucas es el único escritor del Nuevo Testamento que claramente se identifica como un no-judío.\n\n(Colosenses 4:14) Os saluda Lucas el médico amado.\n\nQuizás el interés de Lucas en la medicina es la razón por lo cual el evangelio da una gran relevancia a las sanidades que Jesús realizó.\n\nÉl era un portador de investigación de la vida de Jesús.\n\n(Filemón 1:24) Mis colaboradores (persona que \"siempre\" está dispuesta a ayudar), eso era Lucas.\n\nLucas, el médico amado, demostró ser un fiel \"compañero\" y ayudante hasta el fin.\n\n(2 Timoteo 4:11) El amado doctor Lucas que era el \"único\" que mantenía contacto con Pablo está en Roma.\n\n¡Cuánto debe haber significado para el apóstol tener el aliento espiritual y la destreza profesional de este gran hombre de Dios!\n\n(Hechos 27:1) Pablo es enviado a Roma.\n\nLucas escribe esa partida de Pablo para Roma.\n\n(V.7) Navegando lentamente \"muchos días despacio, el viento era muy fuerte.\n\nLa navegación ya era peligrosa.\n\nYa (V.9) debía ser finales de septiembre o principios de octubre, por cuanto había pasado ya el Ayuno (el Día de la Expiación).\n\nPablo le advierte los peligros que están hasta perder las vidas. Y están los ojos y memoria de Lucas guardando estos sucesos de peligros y dolor.\n\n(Hechos 16:6-11) Lucas se unió a Pablo en Troas en Asia Menor, durante el segundo viaje misionero de Pablo.\n\nLos estudiosos piensan que fue Lucas \"el varón macedonio\" (Turquía), a quien Pablo (V.9) vio en su sueño.\n\nLucas se quedó en Filipos durante el segundo viaje misionero (Hechos 17:1) y lo recogieron nuevamente para unirse a Pablo en el tercer viaje (Hechos 20:5-6): \"Nos esperaron en Troas\".\n\nLucas acompañó a Pablo en su viaje a Jerusalén y Roma y estuvo con él allí durante su encarcelamiento (2 Timoteo 4:11).\n\nLa clara descripción de Lucas de sus viajes con Pablo en Hechos 27, parecen indicar que él había viajado mucho y tenía mucho conocimiento en la navegación.\n\nEn lo que vivía tenía una gran entrega para aprender.\n\nAl Lucas hacerse cristiano se entregó y se unió a los apóstoles y los discípulos. (Hechos 16:10).\n\n(Hechos 20:5,12) Los hermanos mencionados se dirigieron por adelantado a Troas, mientras Pablo y Lucas visitaban a Filipos.\n\n(V.6,7) Parece que el apóstol esperó a propósito en Troas durante siete días para poder estar allá para el partimiento del pan en el \"Día del Señor\".\n\n(V.7) Era la práctica de los cristianos primitivos reunirse \"el primer día de la \"semana\" con el propósito de celebrar la Cena del Señor.\n\nAllí estaba Lucas (V.11-12), celebrando la Cena del Señor que era una exclusividad para ellos y está en la historia.\n\n(Hechos 21:1-16) Estaba en momentos del profeta que le advertía un futuro con lágrimas, tristezas, pérdida de esa persona: tierna, amable, con fe, con servicio y con Dios.\n\nDemas le ruega que no vaya, pero (V. 11-13) Pablo le reclama: ¿Qué hacéis llorando y quebrantándome el corazón?\n\n(V.14) Y como (Lucas) no le pudimos persuadir, desistimos, diciendo: \"Hágase la voluntad del Señor\".\n\nEra decirle: Ahí estaré contigo Pablo.\n\nEstuvo cerca de Pablo (2 Timoteo 4:11).\n\nYa pierde a Pablo, pero le tocaba investigar: a María con la revelación de cómo Jesús llegaría a la tierra; a los apóstoles para escribir de Jesús; Hechos se le llaman; Hechos de los apóstoles. Escribió cuando Jesús se fue, información dada por los apóstoles; la venida del Espíritu Santo. Sabía de Juan, Pedro, recopiló ese resumen que fue escuchado de la boca de cada uno. De Esteban su muerte severa, lo dicho por Esteban. ¡Conversaciones largas de Pablo, de su vida, persecución, conversión, milagros, los temas de discusión de Pedro y Pablo!; Santiago con sus cuidos; todas las predicaciones de Pablo, las huidas, milagros, su tierna vida, la amó, lo cuidó, vendó sus heridas, y lo observó. Cada palabra de Dios dada a Pablo en Lucas fueron grandes tesoros para nuestros ojos que traspasan nuestras vidas con la verdad. ¡Bendito Dios que dio un hombre tan manso, simple y amó a Pablo como el hombre de Dios aquí en la tierra! Le respetó, hizo silencio y lo siguió hasta la muerte de Pablo y hasta su muerte. Amén.",
+    "contenido_renderizado": [
+      {
+        "tipo": "parrafo",
+        "texto": "El único que está conmigo es Lucas. Lucas escribe de su gran compañero Pablo, sus últimas vivencias y las sufre, padece y las vive con él, la razón: Demas me ha abandonado amando al mundo. Es autor de Lucas y Hechos. Es gentil que escribió una parte del Nuevo Testamento. Lucas es el único escritor del Nuevo Testamento que claramente se identifica como un no-judío.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Colosenses 4:14) Os saluda Lucas el médico amado.",
+        "referencias_inline": [
+          "Colosenses 4:14"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Quizás el interés de Lucas en la medicina es la razón por lo cual el evangelio da una gran relevancia a las sanidades que Jesús realizó.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Él era un portador de investigación de la vida de Jesús.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Filemón 1:24) Mis colaboradores (persona que \"siempre\" está dispuesta a ayudar), eso era Lucas.",
+        "referencias_inline": [
+          "Filemón 1:24"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Lucas, el médico amado, demostró ser un fiel \"compañero\" y ayudante hasta el fin.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(2 Timoteo 4:11) El amado doctor Lucas que era el \"único\" que mantenía contacto con Pablo está en Roma.",
+        "referencias_inline": [
+          "2 Timoteo 4:11"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "¡Cuánto debe haber significado para el apóstol tener el aliento espiritual y la destreza profesional de este gran hombre de Dios!",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Hechos 27:1) Pablo es enviado a Roma.",
+        "referencias_inline": [
+          "Hechos 27:1"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Lucas escribe esa partida de Pablo para Roma.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(V.7) Navegando lentamente \"muchos días despacio, el viento era muy fuerte.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "La navegación ya era peligrosa.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Ya (V.9) debía ser finales de septiembre o principios de octubre, por cuanto había pasado ya el Ayuno (el Día de la Expiación).",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Pablo le advierte los peligros que están hasta perder las vidas. Y están los ojos y memoria de Lucas guardando estos sucesos de peligros y dolor.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Hechos 16:6-11) Lucas se unió a Pablo en Troas en Asia Menor, durante el segundo viaje misionero de Pablo.",
+        "referencias_inline": [
+          "Hechos 16:6-11"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Los estudiosos piensan que fue Lucas \"el varón macedonio\" (Turquía), a quien Pablo (V.9) vio en su sueño.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Lucas se quedó en Filipos durante el segundo viaje misionero (Hechos 17:1) y lo recogieron nuevamente para unirse a Pablo en el tercer viaje (Hechos 20:5-6): \"Nos esperaron en Troas\".",
+        "referencias_inline": [
+          "Hechos 17:1",
+          "Hechos 20:5-6"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Lucas acompañó a Pablo en su viaje a Jerusalén y Roma y estuvo con él allí durante su encarcelamiento (2 Timoteo 4:11).",
+        "referencias_inline": [
+          "2 Timoteo 4:11"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "La clara descripción de Lucas de sus viajes con Pablo en Hechos 27, parecen indicar que él había viajado mucho y tenía mucho conocimiento en la navegación.",
+        "referencias_inline": [
+          "Hechos 27"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "En lo que vivía tenía una gran entrega para aprender.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Al Lucas hacerse cristiano se entregó y se unió a los apóstoles y los discípulos. (Hechos 16:10).",
+        "referencias_inline": [
+          "Hechos 16:10"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Hechos 20:5,12) Los hermanos mencionados se dirigieron por adelantado a Troas, mientras Pablo y Lucas visitaban a Filipos.",
+        "referencias_inline": [
+          "Hechos 20:5,12"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(V.6,7) Parece que el apóstol esperó a propósito en Troas durante siete días para poder estar allá para el partimiento del pan en el \"Día del Señor\".",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(V.7) Era la práctica de los cristianos primitivos reunirse \"el primer día de la \"semana\" con el propósito de celebrar la Cena del Señor.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Allí estaba Lucas (V.11-12), celebrando la Cena del Señor que era una exclusividad para ellos y está en la historia.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Hechos 21:1-16) Estaba en momentos del profeta que le advertía un futuro con lágrimas, tristezas, pérdida de esa persona: tierna, amable, con fe, con servicio y con Dios.",
+        "referencias_inline": [
+          "Hechos 21:1-16"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Demas le ruega que no vaya, pero (V. 11-13) Pablo le reclama: ¿Qué hacéis llorando y quebrantándome el corazón?",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(V.14) Y como (Lucas) no le pudimos persuadir, desistimos, diciendo: \"Hágase la voluntad del Señor\".",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Era decirle: Ahí estaré contigo Pablo.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Estuvo cerca de Pablo (2 Timoteo 4:11).",
+        "referencias_inline": [
+          "2 Timoteo 4:11"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Ya pierde a Pablo, pero le tocaba investigar: a María con la revelación de cómo Jesús llegaría a la tierra; a los apóstoles para escribir de Jesús; Hechos se le llaman; Hechos de los apóstoles. Escribió cuando Jesús se fue, información dada por los apóstoles; la venida del Espíritu Santo. Sabía de Juan, Pedro, recopiló ese resumen que fue escuchado de la boca de cada uno. De Esteban su muerte severa, lo dicho por Esteban. ¡Conversaciones largas de Pablo, de su vida, persecución, conversión, milagros, los temas de discusión de Pedro y Pablo!; Santiago con sus cuidos; todas las predicaciones de Pablo, las huidas, milagros, su tierna vida, la amó, lo cuidó, vendó sus heridas, y lo observó. Cada palabra de Dios dada a Pablo en Lucas fueron grandes tesoros para nuestros ojos que traspasan nuestras vidas con la verdad. ¡Bendito Dios que dio un hombre tan manso, simple y amó a Pablo como el hombre de Dios aquí en la tierra! Le respetó, hizo silencio y lo siguió hasta la muerte de Pablo y hasta su muerte. Amén.",
+        "referencias_inline": []
+      }
+    ]
+  },
+  "busqueda": {
+    "texto_indexable": "fiel companero hasta el fin 2 timoteo 4 11 liderazgo espiritual discipulado palabra de Dios arrepentimiento perseverancia lagrimas filipos evangelio el unico que esta conmigo es lucas lucas escribe de su gran companero pablo sus ultimas vivencias y las sufre padece y las vive con el la razon demas me ha abandonado amando al mundo es autor de lucas y hechos es gentil que escribio una parte del nuevo testamento lucas es el unico escritor del nuevo testamento que claramente se identifica como un no judio colosenses 4 14 os saluda lucas el medico amado quizas el interes de lucas en la medicina es la razon por lo cual el evangelio da una gran relevancia a las sanidades que Jesus realizo el era un portador de investigacion de la vida de Jesus filemon 1 24 mis colaboradores persona que siempre esta dispuesta a ayudar eso era lucas lucas el medico amado demostro ser un fiel companero y ayudante hasta el fin 2 timoteo 4 11 el amado doctor lucas que era el unico que mantenia contacto con pablo esta en roma cuanto debe haber significado para el apostol tener el aliento espiritual y la destreza profesional de este gran hombre de Dios hechos 27 1 pablo es enviado a roma lucas escribe esa partida de pablo para roma v 7 navegando lentamente muchos dias despacio el viento era muy fuerte la navegacion ya era peligrosa ya v 9 debia ser finales de septiembre o principios de octubre por cuanto habia pasado ya el ayuno el dia de la expiacion pablo le advierte los peligros que estan hasta perder las vidas y estan los ojos y memoria de lucas guardando estos sucesos de peligros y dolor hechos 16 6 11 lucas se unio a pablo en troas en asia menor durante el segundo viaje misionero de pablo los estudiosos piensan que fue lucas el varon macedonio turquia a quien pablo v 9 vio en su sueno lucas se quedo en filipos durante el segundo viaje misionero hechos 17 1 y lo recogieron nuevamente para unirse a pablo en el tercer viaje hechos 20 5 6 nos esperaron en troas lucas acompano a pablo en su viaje a jerusalen y roma y estuvo con el alli durante su encarcelamiento 2 timoteo 4 11 la clara descripcion de lucas de sus viajes con pablo en hechos 27 parecen indicar que el habia viajado mucho y tenia mucho conocimiento en la navegacion en lo que vivia tenia una gran entrega para aprender al lucas hacerse cristiano se entrego y se unio a los apostoles y los discipulos hechos 16 10 hechos 20 5 12 los hermanos mencionados se dirigieron por adelantado a troas mientras pablo y lucas visitaban a filipos v 6 7 parece que el apostol espero a proposito en troas durante siete dias para poder estar alla para el partimiento del pan en el dia del senor v 7 era la practica de los cristianos primitivos reunirse el primer dia de la semana con el proposito de celebrar la cena del senor alli estaba lucas v 11 12 celebrando la cena del senor que era una exclusividad para ellos y esta en la historia hechos 21 1 16 estaba en momentos del profeta que le advertia un futuro con lagrimas tristezas perdida de esa persona tierna amable con fe con servicio y con Dios demas le ruega que no vaya pero v 11 13 pablo le reclama que haceis llorando y quebrantandome el corazon v 14 y como lucas no le pudimos persuadir desistimos diciendo hagase la voluntad del senor era decirle ahi estare contigo pablo estuvo cerca de pablo 2 timoteo 4 11 ya pierde a pablo pero le tocaba investigar a maria con la revelacion de como Jesus llegaria a la tierra a los apostoles para escribir de Jesus hechos se le llaman hechos de los apostoles escribio cuando Jesus se fue informacion dada por los apostoles la venida del espiritu santo sabia de juan pedro recopilo ese resumen que fue escuchado de la boca de cada uno de esteban su muerte severa lo dicho por esteban conversaciones largas de pablo de su vida persecucion conversion milagros los temas de discusion de pedro y pablo santiago con sus cuidos todas las predicaciones de pablo las huidas milagros su tierna vida la amo lo cuido vendo sus heridas y lo observo cada palabra de Dios dada a pablo en lucas fueron grandes tesoros para nuestros ojos que traspasan nuestras vidas con la verdad bendito Dios que dio un hombre tan manso simple y amo a pablo como el hombre de Dios aqui en la tierra le respeto hizo silencio y lo siguio hasta la muerte de pablo y hasta su muerte amen",
+    "alias_busqueda": [
+      "Estudio 1236",
+      "2 Timoteo",
+      "2 Timoteo 4",
+      "2 Timoteo 4:11",
+      "arrepentimiento",
+      "perseverancia",
+      "lágrimas",
+      "filipos",
+      "Liderazgo espiritual",
+      "Discipulado"
+    ]
+  },
+  "revision_manual": {
+    "requiere_revision": false,
+    "motivo": ""
+  },
+  "ui": {
+    "mostrar_credito_en_header": true,
+    "mostrar_numero_estudio": true,
+    "mostrar_fecha": true,
+    "mostrar_topicos": true,
+    "permitir_favorito": true,
+    "permitir_compartir": true
+  }
+}

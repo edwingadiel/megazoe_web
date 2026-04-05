@@ -1,0 +1,478 @@
+{
+  "id": "estudio-1136-poderosa-la-fe-aun-al-morir",
+  "slug": "estudio-1136-poderosa-la-fe-aun-al-morir",
+  "numero_estudio": 1136,
+  "tipo_estudio": "Iglesia en las casas",
+  "ministerio": {
+    "iglesia": "Iglesia Cristiana Mega Zoe",
+    "pastora": "Pastora Edith Cruz",
+    "credito_corto": "Iglesia Cristiana Mega Zoe · Pastora Edith Cruz",
+    "credito_largo": "Contenido original de Iglesia Cristiana Mega Zoe, conservando el crédito ministerial correspondiente a la Pastora Edith Cruz."
+  },
+  "identidad_editorial": {
+    "idioma": "es",
+    "fuente_original": "documento_word",
+    "archivo_origen": "/Users/edwingadiel/Desktop/Estudios en Word/Estudio #1136 Poderosa la fe aun al morir - Hebreos 11 20-21.docx",
+    "estado_revision": "procesado",
+    "version_schema": "1.0"
+  },
+  "encabezado": {
+    "titulo": "Poderosa la fe aún al morir",
+    "subtitulo": null,
+    "cita_principal": "Hebreos 11:20-22",
+    "resumen_corto": "Poderosa la fe aún al morir enseña a buscar la bendición de Dios y perseverar en la oración."
+  },
+  "fechas": {
+    "fecha_inicio": null,
+    "fecha_fin": null,
+    "fecha_texto_original": "",
+    "ano": null
+  },
+  "clasificacion_biblica": {
+    "libro_principal": "Hebreos",
+    "capitulo_principal": 11,
+    "versiculos_principales": [
+      20,
+      21,
+      22
+    ],
+    "referencia_principal_normalizada": "Hebreos 11:20-22",
+    "testamento_principal": "Nuevo Testamento"
+  },
+  "clasificacion_tematica": {
+    "topicos": [
+      "Bendición",
+      "Oración",
+      "Familia",
+      "Fe"
+    ],
+    "keywords": [
+      "voluntad de Dios",
+      "voz de Dios",
+      "oración",
+      "arrepentimiento",
+      "arca"
+    ]
+  },
+  "referencias_biblicas": [
+    {
+      "referencia": "Hebreos 11:20-22",
+      "referencia_normalizada": "Hebreos 11:20-22",
+      "libro": "Hebreos",
+      "capitulo": 11,
+      "versiculos": [
+        20,
+        21,
+        22
+      ],
+      "tipo": "principal",
+      "clickeable": true
+    },
+    {
+      "referencia": "Génesis 25:22-23",
+      "referencia_normalizada": "Génesis 25:22-23",
+      "libro": "Génesis",
+      "capitulo": 25,
+      "versiculos": [
+        22,
+        23
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Génesis 27:33",
+      "referencia_normalizada": "Génesis 27:33",
+      "libro": "Génesis",
+      "capitulo": 27,
+      "versiculos": [
+        33
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Génesis 27:36",
+      "referencia_normalizada": "Génesis 27:36",
+      "libro": "Génesis",
+      "capitulo": 27,
+      "versiculos": [
+        36
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Génesis 25:33",
+      "referencia_normalizada": "Génesis 25:33",
+      "libro": "Génesis",
+      "capitulo": 25,
+      "versiculos": [
+        33
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Génesis 27:27-33",
+      "referencia_normalizada": "Génesis 27:27-33",
+      "libro": "Génesis",
+      "capitulo": 27,
+      "versiculos": [
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Génesis 27:3",
+      "referencia_normalizada": "Génesis 27:3",
+      "libro": "Génesis",
+      "capitulo": 27,
+      "versiculos": [
+        3
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Génesis 27:39-40",
+      "referencia_normalizada": "Génesis 27:39-40",
+      "libro": "Génesis",
+      "capitulo": 27,
+      "versiculos": [
+        39,
+        40
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "2 Reyes 8:20-22",
+      "referencia_normalizada": "2 Reyes 8:20-22",
+      "libro": "2 Reyes",
+      "capitulo": 8,
+      "versiculos": [
+        20,
+        21,
+        22
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Génesis 48:20",
+      "referencia_normalizada": "Génesis 48:20",
+      "libro": "Génesis",
+      "capitulo": 48,
+      "versiculos": [
+        20
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Éxodo 12:40",
+      "referencia_normalizada": "Éxodo 12:40",
+      "libro": "Éxodo",
+      "capitulo": 12,
+      "versiculos": [
+        40
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Génesis 50:25",
+      "referencia_normalizada": "Génesis 50:25",
+      "libro": "Génesis",
+      "capitulo": 50,
+      "versiculos": [
+        25
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Éxodo 13:19",
+      "referencia_normalizada": "Éxodo 13:19",
+      "libro": "Éxodo",
+      "capitulo": 13,
+      "versiculos": [
+        19
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Josué 24:32",
+      "referencia_normalizada": "Josué 24:32",
+      "libro": "Josué",
+      "capitulo": 24,
+      "versiculos": [
+        32
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    }
+  ],
+  "contenido": {
+    "introduccion": null,
+    "secciones": [],
+    "contenido_completo": "La fe que ejercitaron estos hombres Isaac, Jacob y José, por ejemplo, tiene un puesto en la galería de la fama de la fe por haber invocado bendiciones futuras sobre Jacob y Esaú. La fe de José de llevar \"sus huesos\" para sepultarlo en Canaán.\n\nI. Por la fe, bendijo Isaac a Jacob y Esaú.\n\nA. Puesta la vista en el futuro de ambos.\n\n1. La palabra es \"fe\".\n\n2. Las intrigas que estaban en medio de las bendiciones a Isaac no se le fue revelado, ya estaba un tanto ciego.\n\n3. Las bendiciones vienen de Dios no del hombre.\n\n4. El autor sagrado hace entender que es por la fe que Isaac bendijo a sus hijos.\n\n5. Muchas intrigas de parte de la madre (Rebeca) de ellos.\n\n6. Fue por fe que estuvo la bendición.\n\n7. Antes (Génesis 25:22-23) que naciesen los hijos, el Señor anunció a Rebeca que los hermanos vendrían a ser cabeza de naciones, y que el mayor (Esaú) serviría al menor (Jacob).\n\n8. Esaú era el hijo favorito de Isaac y, como hijo mayor, habría normalmente recibido la mejor porción de su padre.\n\n9. Rebeca sentía que sus hijos luchaban dentro de ella, y dijo \"Si es así, ¿para qué vivo yo? Y fue a consultar a Jehová; y le respondió Jehová: \"Dos naciones hay en tu seno, y dos pueblos serán divididos desde tus entrañas; Un pueblo será más fuerte que el otro pueblo, y el mayor servirá al menor.\"\n\n10.Rebeca sabía quién era Jacob, y por él luchó por su bendición, ella también era de fe porque Dios le había hablado a ella directamente.\n\n11. (Génesis 27:33) Y tembló violentamente Isaac; se estremeció grandemente.\n\n12. (Génesis 27:36, Génesis 25:33)\n\n13. (Génesis 27:27-33) \"Yo le bendije y será bendito\".\n\n14. Era Esaú su preferido por su valentía: \"Tráeme caza\" (Génesis 27:3); hombre de campo, diestro en la caza. Mientras Jacob era varón quieto; Rebeca tenía la voz de Dios sobre Jacob, y lo cuidó para la voluntad de Dios.\n\n15. Isaac se dio cuenta que debía mantenerse la supremacía de Dios por encima de su debilidad personal por su hijo.\n\n16. Esaú también tenía un asomo y por cierto, con profecía a larga distancia de tiempo; (Génesis 27:39-40) He aquí, será tu habitación en grosura de la tierra, y del rocío de los cielos de arriba; y por tu espada vivirás, y a tu hermano servirás; y sucederá cuando te fortalezcas, que descansarás su yugo de tu cerviz.\n\n17. (2 Reyes 8:20-22) Esto sugiere que los edomitas vivirían en lugares desiertos, que serían guerreros, que estarían sujetos a los israelitas, pero un día se rebelarían contra ese dominio. Esta última profecía se cumplió durante el reino de Joram, rey de Judá.\n\n18. (21) Por la fe, bendijo a Jacob, cuando estuvo para morir bendijo a los dos hijos de José se apoyó para arrodillarse, ir a tierra para adoración, apoyándose en la extremidad de su (báculo) bordón.\n\n19. (Génesis 48:20) Un hombre que su carácter fue superando todo con la edad y \"murió\" en un estallido de gloria.\n\n20. Cuando bendijo a Efraín y a Manasés, los hijos de José, cruzó sus manos de manera que la bendición del primogénito viniese sobre Efraín, el más joven.\n\n21. A pesar de las protestas de José, Jacob insistió en que las bendiciones debían mantenerse así, porque éste era el orden que el Señor había especificado.\n\n22. Aunque su visión física estaba oscurecida, su visión espiritual era aguda\".\n\n23. La escena final de la vida de Jacob lo encuentra adorando apoyado sobre el extremo de su bordón.\n\n24. Nuestro anciano patriarca: la suplantación (sustitución), la compraventa (compra de la primogenitura, por unas sopas (la venta), la astucia, las tratas, los temores egoístas e incredulidad, negras nubes de la naturaleza del hombre, parecen haberse desvanecidos, y sale, en toda la serena elevación de la fe, para otorgar bendiciones e impartir dignidades (honorabilidad, sentimiento de amor, nobleza, honra, lealtad, generosidad), con aquella santa destreza que sólo puede \"proceder de la comunión con Dios\".\n\n25. (22) La fe de José fue también poderosa al morir.\n\n26. Creyó la promesa de Dios de que El liberaría al pueblo de Israel de Egipto.\n\n27. \"La fe lo capacitó\" para contemplar anticipadamente el éxodo.\n\n28. Para él fue algo tan seguro que dio instrucciones a sus hijos acerca de llevar con ellos \"sus huesos\" para su \"sepultura en Canaán\".\n\n29. Aunque rodeado por la pompa y el esplendor de Egipto, su corazón no estaba allá en absoluto, sino con su pueblo en su futuro gloria y bendición.\n\n30. Sus restos se marchaban a la Tierra prometida.\n\n31. Esa fe es de un viaje continuo, los años no la detienen, un bisnieto quería esa tierra, aunque fueran sus huesos porque la fe es el todo de un ser.\n\n32. (Éxodo 12:40) 430 años.\n\n33. (Génesis 50:25) fe que iba para Canaán.\n\n34. (Éxodo 13:19) Moisés toma los huesos de José, honrando su fe.\n\n35. (Josué 24:32) Sepultura de José.\n\nAmén.",
+    "contenido_renderizado": [
+      {
+        "tipo": "parrafo",
+        "texto": "La fe que ejercitaron estos hombres Isaac, Jacob y José, por ejemplo, tiene un puesto en la galería de la fama de la fe por haber invocado bendiciones futuras sobre Jacob y Esaú. La fe de José de llevar \"sus huesos\" para sepultarlo en Canaán.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "I. Por la fe, bendijo Isaac a Jacob y Esaú.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "A. Puesta la vista en el futuro de ambos.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "1. La palabra es \"fe\".",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "2. Las intrigas que estaban en medio de las bendiciones a Isaac no se le fue revelado, ya estaba un tanto ciego.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "3. Las bendiciones vienen de Dios no del hombre.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "4. El autor sagrado hace entender que es por la fe que Isaac bendijo a sus hijos.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "5. Muchas intrigas de parte de la madre (Rebeca) de ellos.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "6. Fue por fe que estuvo la bendición.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "7. Antes (Génesis 25:22-23) que naciesen los hijos, el Señor anunció a Rebeca que los hermanos vendrían a ser cabeza de naciones, y que el mayor (Esaú) serviría al menor (Jacob).",
+        "referencias_inline": [
+          "Génesis 25:22-23"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "8. Esaú era el hijo favorito de Isaac y, como hijo mayor, habría normalmente recibido la mejor porción de su padre.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "9. Rebeca sentía que sus hijos luchaban dentro de ella, y dijo \"Si es así, ¿para qué vivo yo? Y fue a consultar a Jehová; y le respondió Jehová: \"Dos naciones hay en tu seno, y dos pueblos serán divididos desde tus entrañas; Un pueblo será más fuerte que el otro pueblo, y el mayor servirá al menor.\"",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "10.Rebeca sabía quién era Jacob, y por él luchó por su bendición, ella también era de fe porque Dios le había hablado a ella directamente.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "11. (Génesis 27:33) Y tembló violentamente Isaac; se estremeció grandemente.",
+        "referencias_inline": [
+          "Génesis 27:33"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "12. (Génesis 27:36, Génesis 25:33)",
+        "referencias_inline": [
+          "Génesis 27:36",
+          "Génesis 25:33"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "13. (Génesis 27:27-33) \"Yo le bendije y será bendito\".",
+        "referencias_inline": [
+          "Génesis 27:27-33"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "14. Era Esaú su preferido por su valentía: \"Tráeme caza\" (Génesis 27:3); hombre de campo, diestro en la caza. Mientras Jacob era varón quieto; Rebeca tenía la voz de Dios sobre Jacob, y lo cuidó para la voluntad de Dios.",
+        "referencias_inline": [
+          "Génesis 27:3"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "15. Isaac se dio cuenta que debía mantenerse la supremacía de Dios por encima de su debilidad personal por su hijo.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "16. Esaú también tenía un asomo y por cierto, con profecía a larga distancia de tiempo; (Génesis 27:39-40) He aquí, será tu habitación en grosura de la tierra, y del rocío de los cielos de arriba; y por tu espada vivirás, y a tu hermano servirás; y sucederá cuando te fortalezcas, que descansarás su yugo de tu cerviz.",
+        "referencias_inline": [
+          "Génesis 27:39-40"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "17. (2 Reyes 8:20-22) Esto sugiere que los edomitas vivirían en lugares desiertos, que serían guerreros, que estarían sujetos a los israelitas, pero un día se rebelarían contra ese dominio. Esta última profecía se cumplió durante el reino de Joram, rey de Judá.",
+        "referencias_inline": [
+          "2 Reyes 8:20-22"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "18. (21) Por la fe, bendijo a Jacob, cuando estuvo para morir bendijo a los dos hijos de José se apoyó para arrodillarse, ir a tierra para adoración, apoyándose en la extremidad de su (báculo) bordón.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "19. (Génesis 48:20) Un hombre que su carácter fue superando todo con la edad y \"murió\" en un estallido de gloria.",
+        "referencias_inline": [
+          "Génesis 48:20"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "20. Cuando bendijo a Efraín y a Manasés, los hijos de José, cruzó sus manos de manera que la bendición del primogénito viniese sobre Efraín, el más joven.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "21. A pesar de las protestas de José, Jacob insistió en que las bendiciones debían mantenerse así, porque éste era el orden que el Señor había especificado.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "22. Aunque su visión física estaba oscurecida, su visión espiritual era aguda\".",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "23. La escena final de la vida de Jacob lo encuentra adorando apoyado sobre el extremo de su bordón.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "24. Nuestro anciano patriarca: la suplantación (sustitución), la compraventa (compra de la primogenitura, por unas sopas (la venta), la astucia, las tratas, los temores egoístas e incredulidad, negras nubes de la naturaleza del hombre, parecen haberse desvanecidos, y sale, en toda la serena elevación de la fe, para otorgar bendiciones e impartir dignidades (honorabilidad, sentimiento de amor, nobleza, honra, lealtad, generosidad), con aquella santa destreza que sólo puede \"proceder de la comunión con Dios\".",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "25. (22) La fe de José fue también poderosa al morir.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "26. Creyó la promesa de Dios de que El liberaría al pueblo de Israel de Egipto.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "27. \"La fe lo capacitó\" para contemplar anticipadamente el éxodo.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "28. Para él fue algo tan seguro que dio instrucciones a sus hijos acerca de llevar con ellos \"sus huesos\" para su \"sepultura en Canaán\".",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "29. Aunque rodeado por la pompa y el esplendor de Egipto, su corazón no estaba allá en absoluto, sino con su pueblo en su futuro gloria y bendición.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "30. Sus restos se marchaban a la Tierra prometida.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "31. Esa fe es de un viaje continuo, los años no la detienen, un bisnieto quería esa tierra, aunque fueran sus huesos porque la fe es el todo de un ser.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "32. (Éxodo 12:40) 430 años.",
+        "referencias_inline": [
+          "Éxodo 12:40"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "33. (Génesis 50:25) fe que iba para Canaán.",
+        "referencias_inline": [
+          "Génesis 50:25"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "34. (Éxodo 13:19) Moisés toma los huesos de José, honrando su fe.",
+        "referencias_inline": [
+          "Éxodo 13:19"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "35. (Josué 24:32) Sepultura de José.",
+        "referencias_inline": [
+          "Josué 24:32"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Amén.",
+        "referencias_inline": []
+      }
+    ]
+  },
+  "busqueda": {
+    "texto_indexable": "poderosa la fe aun al morir hebreos 11 20 22 bendicion oracion familia voluntad de Dios voz de Dios oracion arrepentimiento arca la fe que ejercitaron estos hombres isaac jacob y jose por ejemplo tiene un puesto en la galeria de la fama de la fe por haber invocado bendiciones futuras sobre jacob y esau la fe de jose de llevar sus huesos para sepultarlo en canaan i por la fe bendijo isaac a jacob y esau a puesta la vista en el futuro de ambos 1 la palabra es fe 2 las intrigas que estaban en medio de las bendiciones a isaac no se le fue revelado ya estaba un tanto ciego 3 las bendiciones vienen de Dios no del hombre 4 el autor sagrado hace entender que es por la fe que isaac bendijo a sus hijos 5 muchas intrigas de parte de la madre rebeca de ellos 6 fue por fe que estuvo la bendicion 7 antes genesis 25 22 23 que naciesen los hijos el senor anuncio a rebeca que los hermanos vendrian a ser cabeza de naciones y que el mayor esau serviria al menor jacob 8 esau era el hijo favorito de isaac y como hijo mayor habria normalmente recibido la mejor porcion de su padre 9 rebeca sentia que sus hijos luchaban dentro de ella y dijo si es asi para que vivo yo y fue a consultar a jehova y le respondio jehova dos naciones hay en tu seno y dos pueblos seran divididos desde tus entranas un pueblo sera mas fuerte que el otro pueblo y el mayor servira al menor 10 rebeca sabia quien era jacob y por el lucho por su bendicion ella tambien era de fe porque Dios le habia hablado a ella directamente 11 genesis 27 33 y temblo violentamente isaac se estremecio grandemente 12 genesis 27 36 genesis 25 33 13 genesis 27 27 33 yo le bendije y sera bendito 14 era esau su preferido por su valentia traeme caza genesis 27 3 hombre de campo diestro en la caza mientras jacob era varon quieto rebeca tenia la voz de Dios sobre jacob y lo cuido para la voluntad de Dios 15 isaac se dio cuenta que debia mantenerse la supremacia de Dios por encima de su debilidad personal por su hijo 16 esau tambien tenia un asomo y por cierto con profecia a larga distancia de tiempo genesis 27 39 40 he aqui sera tu habitacion en grosura de la tierra y del rocio de los cielos de arriba y por tu espada viviras y a tu hermano serviras y sucedera cuando te fortalezcas que descansaras su yugo de tu cerviz 17 2 reyes 8 20 22 esto sugiere que los edomitas vivirian en lugares desiertos que serian guerreros que estarian sujetos a los israelitas pero un dia se rebelarian contra ese dominio esta ultima profecia se cumplio durante el reino de joram rey de juda 18 21 por la fe bendijo a jacob cuando estuvo para morir bendijo a los dos hijos de jose se apoyo para arrodillarse ir a tierra para adoracion apoyandose en la extremidad de su baculo bordon 19 genesis 48 20 un hombre que su caracter fue superando todo con la edad y murio en un estallido de gloria 20 cuando bendijo a efrain y a manases los hijos de jose cruzo sus manos de manera que la bendicion del primogenito viniese sobre efrain el mas joven 21 a pesar de las protestas de jose jacob insistio en que las bendiciones debian mantenerse asi porque este era el orden que el senor habia especificado 22 aunque su vision fisica estaba oscurecida su vision espiritual era aguda 23 la escena final de la vida de jacob lo encuentra adorando apoyado sobre el extremo de su bordon 24 nuestro anciano patriarca la suplantacion sustitucion la compraventa compra de la primogenitura por unas sopas la venta la astucia las tratas los temores egoistas e incredulidad negras nubes de la naturaleza del hombre parecen haberse desvanecidos y sale en toda la serena elevacion de la fe para otorgar bendiciones e impartir dignidades honorabilidad sentimiento de amor nobleza honra lealtad generosidad con aquella santa destreza que solo puede proceder de la comunion con Dios 25 22 la fe de jose fue tambien poderosa al morir 26 creyo la promesa de Dios de que el liberaria al pueblo de israel de egipto 27 la fe lo capacito para contemplar anticipadamente el exodo 28 para el fue algo tan seguro que dio instrucciones a sus hijos acerca de llevar con ellos sus huesos para su sepultura en canaan 29 aunque rodeado por la pompa y el esplendor de egipto su corazon no estaba alla en absoluto sino con su pueblo en su futuro gloria y bendicion 30 sus restos se marchaban a la tierra prometida 31 esa fe es de un viaje continuo los anos no la detienen un bisnieto queria esa tierra aunque fueran sus huesos porque la fe es el todo de un ser 32 exodo 12 40 430 anos 33 genesis 50 25 fe que iba para canaan 34 exodo 13 19 moises toma los huesos de jose honrando su fe 35 josue 24 32 sepultura de jose amen",
+    "alias_busqueda": [
+      "Poderosa la fe aún al morir",
+      "Hebreos",
+      "Hebreos 11",
+      "Hebreos 11:20-22",
+      "voluntad de Dios",
+      "voz de Dios",
+      "oración",
+      "arrepentimiento",
+      "Bendición"
+    ]
+  },
+  "revision_manual": {
+    "requiere_revision": false,
+    "motivo": ""
+  },
+  "ui": {
+    "mostrar_credito_en_header": true,
+    "mostrar_numero_estudio": true,
+    "mostrar_fecha": true,
+    "mostrar_topicos": true,
+    "permitir_favorito": true,
+    "permitir_compartir": true
+  }
+}

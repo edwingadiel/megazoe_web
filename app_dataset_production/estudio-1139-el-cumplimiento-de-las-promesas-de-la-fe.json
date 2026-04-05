@@ -1,0 +1,453 @@
+{
+  "id": "estudio-1139-el-cumplimiento-de-las-promesas-de-la-fe",
+  "slug": "estudio-1139-el-cumplimiento-de-las-promesas-de-la-fe",
+  "numero_estudio": 1139,
+  "tipo_estudio": "Iglesia en las casas",
+  "ministerio": {
+    "iglesia": "Iglesia Cristiana Mega Zoe",
+    "pastora": "Pastora Edith Cruz",
+    "credito_corto": "Iglesia Cristiana Mega Zoe · Pastora Edith Cruz",
+    "credito_largo": "Contenido original de Iglesia Cristiana Mega Zoe, conservando el crédito ministerial correspondiente a la Pastora Edith Cruz."
+  },
+  "identidad_editorial": {
+    "idioma": "es",
+    "fuente_original": "documento_word",
+    "archivo_origen": "/Users/edwingadiel/Desktop/Estudios en Word/Estudio #1139 El cumplimiento de las promesas de la fe - Hebreos 11 33-40.docx",
+    "estado_revision": "procesado",
+    "version_schema": "1.0"
+  },
+  "encabezado": {
+    "titulo": "El cumplimiento de las promesas de la fe",
+    "subtitulo": null,
+    "cita_principal": "Hebreos 11:33-40",
+    "resumen_corto": "El cumplimiento de las promesas de la fe llama a buscar la bendición de Dios y caminar en fe."
+  },
+  "fechas": {
+    "fecha_inicio": null,
+    "fecha_fin": null,
+    "fecha_texto_original": "",
+    "ano": null
+  },
+  "clasificacion_biblica": {
+    "libro_principal": "Hebreos",
+    "capitulo_principal": 11,
+    "versiculos_principales": [
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40
+    ],
+    "referencia_principal_normalizada": "Hebreos 11:33-40",
+    "testamento_principal": "Nuevo Testamento"
+  },
+  "clasificacion_tematica": {
+    "topicos": [
+      "Bendición",
+      "Promesas de Dios",
+      "Liberación espiritual",
+      "Fe"
+    ],
+    "keywords": [
+      "oración",
+      "sansón",
+      "mundo",
+      "Jezabel",
+      "fuego",
+      "filisteos",
+      "arca"
+    ]
+  },
+  "referencias_biblicas": [
+    {
+      "referencia": "Hebreos 11:33-40",
+      "referencia_normalizada": "Hebreos 11:33-40",
+      "libro": "Hebreos",
+      "capitulo": 11,
+      "versiculos": [
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40
+      ],
+      "tipo": "principal",
+      "clickeable": true
+    },
+    {
+      "referencia": "Salmos 34:15",
+      "referencia_normalizada": "Salmos 34:15",
+      "libro": "Salmos",
+      "capitulo": 34,
+      "versiculos": [
+        15
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Daniel 6:22",
+      "referencia_normalizada": "Daniel 6:22",
+      "libro": "Daniel",
+      "capitulo": 6,
+      "versiculos": [
+        22
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Jueces 14:5,6",
+      "referencia_normalizada": "Jueces 14:5,6",
+      "libro": "Jueces",
+      "capitulo": 14,
+      "versiculos": [
+        5,
+        6
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "1 Samuel 17:34-35",
+      "referencia_normalizada": "1 Samuel 17:34-35",
+      "libro": "1 Samuel",
+      "capitulo": 17,
+      "versiculos": [
+        34,
+        35
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Daniel 3:25",
+      "referencia_normalizada": "Daniel 3:25",
+      "libro": "Daniel",
+      "capitulo": 3,
+      "versiculos": [
+        25
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "1 Samuel 19:9-10",
+      "referencia_normalizada": "1 Samuel 19:9-10",
+      "libro": "1 Samuel",
+      "capitulo": 19,
+      "versiculos": [
+        9,
+        10
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "2 Reyes 6:15-19",
+      "referencia_normalizada": "2 Reyes 6:15-19",
+      "libro": "2 Reyes",
+      "capitulo": 6,
+      "versiculos": [
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Jueces 3:12,22",
+      "referencia_normalizada": "Jueces 3:12,22",
+      "libro": "Jueces",
+      "capitulo": 3,
+      "versiculos": [
+        12,
+        22
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Jueces 4:21",
+      "referencia_normalizada": "Jueces 4:21",
+      "libro": "Jueces",
+      "capitulo": 4,
+      "versiculos": [
+        21
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Jueces 7:20",
+      "referencia_normalizada": "Jueces 7:20",
+      "libro": "Jueces",
+      "capitulo": 7,
+      "versiculos": [
+        20
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Jueces 15:15",
+      "referencia_normalizada": "Jueces 15:15",
+      "libro": "Jueces",
+      "capitulo": 15,
+      "versiculos": [
+        15
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "1 Corintios 1:27",
+      "referencia_normalizada": "1 Corintios 1:27",
+      "libro": "1 Corintios",
+      "capitulo": 1,
+      "versiculos": [
+        27
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "1 Reyes 17:22",
+      "referencia_normalizada": "1 Reyes 17:22",
+      "libro": "1 Reyes",
+      "capitulo": 17,
+      "versiculos": [
+        22
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "2 Reyes 4:34",
+      "referencia_normalizada": "2 Reyes 4:34",
+      "libro": "2 Reyes",
+      "capitulo": 4,
+      "versiculos": [
+        34
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Jeremías 20:1-6",
+      "referencia_normalizada": "Jeremías 20:1-6",
+      "libro": "Jeremías",
+      "capitulo": 20,
+      "versiculos": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Génesis 39:20",
+      "referencia_normalizada": "Génesis 39:20",
+      "libro": "Génesis",
+      "capitulo": 39,
+      "versiculos": [
+        20
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Mateo 23:25",
+      "referencia_normalizada": "Mateo 23:25",
+      "libro": "Mateo",
+      "capitulo": 23,
+      "versiculos": [
+        25
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    }
+  ],
+  "contenido": {
+    "introduccion": null,
+    "secciones": [],
+    "contenido_completo": "Para llegar a Dios es mediante la fe. No hay otra forma: ni obras, ni calidad de vida, rutinas, ni sacrificios. Para abrir el cielo y llegar a Dios es tu fe. ¿Cuánto es la distancia al cielo? No podemos imaginar. La fe nos lleva a Él cuando oramos y podemos ver (Salmos 34:15) … y sus oídos atentos a sus oraciones. Hermano ora más, y Él sale a ayudarte, hablarte y aclararte Su voluntad. No reclames ni exijas.\n\nI. Termina el escritor la lista de personas de fe.\n\nA. Comienza a citar sus hazañas (gran esfuerzo y valor, heroico, digno de su destacado esfuerzo, trasciende en el tiempo).\n\n1. Conquistaron reinos. Aquí nuestras mentes se vuelven a Josué y a los jueces eran realmente caudillos (persona que guía y manda a un grupo de personas, a un ejército militar), a David y a otros.\n\n2. Hicieron justicia: Reyes como Salomón, Asa, Josafat, Joás, Ezequías y Josías son recordados por reinos que, aunque no perfectos, estuvieron caracterizados por la justicia.\n\n3. Alcanzaron promesas. Esto puede significar que Dios hizo pacto con ellos, como en el caso de Abraham, Moisés, David y Salomón; o puede significar que recibieron el cumplimiento de promesas, demostraron así la veracidad de la palabra de Dios. La fe de estos hombres logró que lo que Dios había dicho se cumpliera. Fueron capaz del cumplimiento de promesas de Dios para nuestro tiempo. Porque le creemos.\n\n4. Taparon bocas de leones. Daniel, es aquí un ejemplo prominente (superior o más elevado, está colocado), (Daniel 6:22) pero deberíamos también recordar a Sansón (Jueces 14:5,6) y a David (1 Samuel 17:34-35).\n\n5. (34) Apagaron fuegos impetuosos. El horno de fuego sólo consiguió quemar las ataduras de los tres jóvenes hebreos y liberarlos. (Daniel 3:25) Así, resultó ser una bendición enmascarada. Y tú puedes enfrentar tu bendición enmascarada.\n\na. Evitaron y escaparon del filo de la espada. David escapó de los maliciosos ataques de Saúl (1 Samuel 19:9-10), Elías escapó del odio asesino de Jezabel (1 Reyes19:1-3) y Eliseo escapó de Siria (2 Reyes 6:15-19).\n\nb. Sacaron fuerzas de flaqueza (debilidad). En los libros de la fe se encuentran muchos símbolos de debilidad. Aod, hijo de Gera por ejemplo era zurdo; sin embargo, le dio muerte al rey de Moab (Jueces 3:12,22). Jael, miembro del sexo débil, dio muerte a Sísara (capitán del ejército) con una estaca de la tienda (Jueces 4:21). Gedeón empleó unos frágiles cántaros de barro (Jueces 7:20) vacíos con teas ardiendo dentro de los cántaros en la derrota de los madianitas. Sansón utilizó la quijada de un asno para dar muerte a mil filisteos (Jueces 15:15). Todos ellos ilustran la verdad de que \"Dios ha escogido las cosas débiles de este mundo para avergonzar a las fuerzas\". (1 Corintios 1:27)\n\nc. Se hicieron fuertes en batallas. Las batallas los debilitaron. La fe dotó a los hombres de unas fuerzas más allá de la naturaleza y los capacitó para vencer frente a obstáculos insuperables.\n\nd. Pusieron en fuga ejércitos extranjeros. Aunque a menudo deficientemente equipados y muy superados en números, los ejércitos de Israel consiguieron victorias para confusión de los enemigos y asombro de todos los demás.\n\n6. (35) Las mujeres recibieron sus muertos mediante \"resurrección\". (1 Reyes 17:22) La viuda de Sarepta y la mujer de Sunem (2 Reyes 4:34) son casos concretos (existe en la realidad).\n\na. Más otros fueron atormentados, no aceptando el rescate, a fin de obtener \"mejor resurrección\". La fe tiene otro rostro. Además de los que efectuaron sorprendentes hazañas, hubo los que soportaron intensos padecimientos, Dios valora esto último tanto como lo primero. Algunos debido a su fe en el Señor fueron sujetos a crueles torturas. Si hubiesen renunciado a Jehová, habrían recibido liberación; pero para ellos era mejor morir y resucitar luego para gloria eterna que proseguir en esta vida marcados como traidores de Dios. Hay una liberación que la fe abraza. Hay una liberación que la fe rehúsa (nunca negar al Señor, aunque lo maten).\n\n7. (36) Otros fueron escarnecidos y azotados y encadenados en cárceles. Por su fidelidad a Dios, Jeremías soportó todas esas formas de castigos (Jeremías 20:1-6; 37:15) También José fue encarcelado porque prefería sufrir antes que pecar (Génesis 39:20).\n\na. Fueron apedreados. Jesús recordó a los escritores y fariseos que sus antecedentes habían dado muerte a Zacarías entre el santuario y el altar. (Mateo 23:25)\n\nb. Aserrados. Se dice que fue el método que empleó Manasés para ejecutar a Isaías.\n\nc. Puestos a prueba - Las enormes presiones que fueron aplicadas a los creyentes para que negasen al Señor.\n\nd. Anduvieron de acá para allá cubiertos de pieles de ovejas y de cabras, menesterosos, atribulados, maltratados, pero con fe.\n\n8. (38) El mundo los trató como indignos de vivir. El mundo no era digno de ellos. Errando (no acertar algo, equivocado) por los desiertos, por los montes, por las cuevas y por las cavernas de la tierra. Sin familia, ni hogar, cazados como animales. El ardor del sol y del frío, tribulaciones, penalidades, pero no negarían a su Señor.\n\n9. (39) Pero murieron antes de recibir el cumplimiento de lo \"prometido\". No vivieron para ver la Venida del Mesías tan largamente esperado ni para gozar de las \"bendiciones\" que iban a venir de Su ministerio.\n\n10.(40) ¡Dios había \"reservado\" para nosotros algo mejor! Había dispuesto que no fuesen perfeccionados aparte de nosotros. No tuvieron tantos privilegios como nosotros. Amén.",
+    "contenido_renderizado": [
+      {
+        "tipo": "parrafo",
+        "texto": "Para llegar a Dios es mediante la fe. No hay otra forma: ni obras, ni calidad de vida, rutinas, ni sacrificios. Para abrir el cielo y llegar a Dios es tu fe. ¿Cuánto es la distancia al cielo? No podemos imaginar. La fe nos lleva a Él cuando oramos y podemos ver (Salmos 34:15) … y sus oídos atentos a sus oraciones. Hermano ora más, y Él sale a ayudarte, hablarte y aclararte Su voluntad. No reclames ni exijas.",
+        "referencias_inline": [
+          "Salmos 34:15"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "I. Termina el escritor la lista de personas de fe.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "A. Comienza a citar sus hazañas (gran esfuerzo y valor, heroico, digno de su destacado esfuerzo, trasciende en el tiempo).",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "1. Conquistaron reinos. Aquí nuestras mentes se vuelven a Josué y a los jueces eran realmente caudillos (persona que guía y manda a un grupo de personas, a un ejército militar), a David y a otros.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "2. Hicieron justicia: Reyes como Salomón, Asa, Josafat, Joás, Ezequías y Josías son recordados por reinos que, aunque no perfectos, estuvieron caracterizados por la justicia.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "3. Alcanzaron promesas. Esto puede significar que Dios hizo pacto con ellos, como en el caso de Abraham, Moisés, David y Salomón; o puede significar que recibieron el cumplimiento de promesas, demostraron así la veracidad de la palabra de Dios. La fe de estos hombres logró que lo que Dios había dicho se cumpliera. Fueron capaz del cumplimiento de promesas de Dios para nuestro tiempo. Porque le creemos.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "4. Taparon bocas de leones. Daniel, es aquí un ejemplo prominente (superior o más elevado, está colocado), (Daniel 6:22) pero deberíamos también recordar a Sansón (Jueces 14:5,6) y a David (1 Samuel 17:34-35).",
+        "referencias_inline": [
+          "Daniel 6:22",
+          "Jueces 14:5,6",
+          "1 Samuel 17:34-35"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "5. (34) Apagaron fuegos impetuosos. El horno de fuego sólo consiguió quemar las ataduras de los tres jóvenes hebreos y liberarlos. (Daniel 3:25) Así, resultó ser una bendición enmascarada. Y tú puedes enfrentar tu bendición enmascarada.",
+        "referencias_inline": [
+          "Daniel 3:25"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "a. Evitaron y escaparon del filo de la espada. David escapó de los maliciosos ataques de Saúl (1 Samuel 19:9-10), Elías escapó del odio asesino de Jezabel (1 Reyes19:1-3) y Eliseo escapó de Siria (2 Reyes 6:15-19).",
+        "referencias_inline": [
+          "1 Samuel 19:9-10",
+          "2 Reyes 6:15-19"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "b. Sacaron fuerzas de flaqueza (debilidad). En los libros de la fe se encuentran muchos símbolos de debilidad. Aod, hijo de Gera por ejemplo era zurdo; sin embargo, le dio muerte al rey de Moab (Jueces 3:12,22). Jael, miembro del sexo débil, dio muerte a Sísara (capitán del ejército) con una estaca de la tienda (Jueces 4:21). Gedeón empleó unos frágiles cántaros de barro (Jueces 7:20) vacíos con teas ardiendo dentro de los cántaros en la derrota de los madianitas. Sansón utilizó la quijada de un asno para dar muerte a mil filisteos (Jueces 15:15). Todos ellos ilustran la verdad de que \"Dios ha escogido las cosas débiles de este mundo para avergonzar a las fuerzas\". (1 Corintios 1:27)",
+        "referencias_inline": [
+          "Jueces 3:12,22",
+          "Jueces 4:21",
+          "Jueces 7:20",
+          "Jueces 15:15",
+          "1 Corintios 1:27"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "c. Se hicieron fuertes en batallas. Las batallas los debilitaron. La fe dotó a los hombres de unas fuerzas más allá de la naturaleza y los capacitó para vencer frente a obstáculos insuperables.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "d. Pusieron en fuga ejércitos extranjeros. Aunque a menudo deficientemente equipados y muy superados en números, los ejércitos de Israel consiguieron victorias para confusión de los enemigos y asombro de todos los demás.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "6. (35) Las mujeres recibieron sus muertos mediante \"resurrección\". (1 Reyes 17:22) La viuda de Sarepta y la mujer de Sunem (2 Reyes 4:34) son casos concretos (existe en la realidad).",
+        "referencias_inline": [
+          "1 Reyes 17:22",
+          "2 Reyes 4:34"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "a. Más otros fueron atormentados, no aceptando el rescate, a fin de obtener \"mejor resurrección\". La fe tiene otro rostro. Además de los que efectuaron sorprendentes hazañas, hubo los que soportaron intensos padecimientos, Dios valora esto último tanto como lo primero. Algunos debido a su fe en el Señor fueron sujetos a crueles torturas. Si hubiesen renunciado a Jehová, habrían recibido liberación; pero para ellos era mejor morir y resucitar luego para gloria eterna que proseguir en esta vida marcados como traidores de Dios. Hay una liberación que la fe abraza. Hay una liberación que la fe rehúsa (nunca negar al Señor, aunque lo maten).",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "7. (36) Otros fueron escarnecidos y azotados y encadenados en cárceles. Por su fidelidad a Dios, Jeremías soportó todas esas formas de castigos (Jeremías 20:1-6; 37:15) También José fue encarcelado porque prefería sufrir antes que pecar (Génesis 39:20).",
+        "referencias_inline": [
+          "Jeremías 20:1-6",
+          "Génesis 39:20"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "a. Fueron apedreados. Jesús recordó a los escritores y fariseos que sus antecedentes habían dado muerte a Zacarías entre el santuario y el altar. (Mateo 23:25)",
+        "referencias_inline": [
+          "Mateo 23:25"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "b. Aserrados. Se dice que fue el método que empleó Manasés para ejecutar a Isaías.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "c. Puestos a prueba - Las enormes presiones que fueron aplicadas a los creyentes para que negasen al Señor.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "d. Anduvieron de acá para allá cubiertos de pieles de ovejas y de cabras, menesterosos, atribulados, maltratados, pero con fe.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "8. (38) El mundo los trató como indignos de vivir. El mundo no era digno de ellos. Errando (no acertar algo, equivocado) por los desiertos, por los montes, por las cuevas y por las cavernas de la tierra. Sin familia, ni hogar, cazados como animales. El ardor del sol y del frío, tribulaciones, penalidades, pero no negarían a su Señor.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "9. (39) Pero murieron antes de recibir el cumplimiento de lo \"prometido\". No vivieron para ver la Venida del Mesías tan largamente esperado ni para gozar de las \"bendiciones\" que iban a venir de Su ministerio.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "10.(40) ¡Dios había \"reservado\" para nosotros algo mejor! Había dispuesto que no fuesen perfeccionados aparte de nosotros. No tuvieron tantos privilegios como nosotros. Amén.",
+        "referencias_inline": []
+      }
+    ]
+  },
+  "busqueda": {
+    "texto_indexable": "el cumplimiento de las promesas de la fe hebreos 11 33 40 bendicion promesas de Dios liberacion espiritual oracion sanson mundo jezabel fuego filisteos arca para llegar a Dios es mediante la fe no hay otra forma ni obras ni calidad de vida rutinas ni sacrificios para abrir el cielo y llegar a Dios es tu fe cuanto es la distancia al cielo no podemos imaginar la fe nos lleva a el cuando oramos y podemos ver salmo 34 15 y sus oidos atentos a sus oraciones hermano ora mas y el sale a ayudarte hablarte y aclararte su voluntad no reclames ni exijas i termina el escritor la lista de personas de fe a comienza a citar sus hazanas gran esfuerzo y valor heroico digno de su destacado esfuerzo trasciende en el tiempo 1 conquistaron reinos aqui nuestras mentes se vuelven a josue y a los jueces eran realmente caudillos persona que guia y manda a un grupo de personas a un ejercito militar a david y a otros 2 hicieron justicia reyes como salomon asa josafat joas ezequias y josias son recordados por reinos que aunque no perfectos estuvieron caracterizados por la justicia 3 alcanzaron promesas esto puede significar que Dios hizo pacto con ellos como en el caso de abraham moises david y salomon o puede significar que recibieron el cumplimiento de promesas demostraron asi la veracidad de la palabra de Dios la fe de estos hombres logro que lo que Dios habia dicho se cumpliera fueron capaz del cumplimiento de promesas de Dios para nuestro tiempo porque le creemos 4 taparon bocas de leones daniel es aqui un ejemplo prominente superior o mas elevado esta colocado daniel 6 22 pero deberiamos tambien recordar a sanson jueces 14 5 6 y a david 1 samuel 17 34 35 5 34 apagaron fuegos impetuosos el horno de fuego solo consiguio quemar las ataduras de los tres jovenes hebreos y liberarlos daniel 3 25 asi resulto ser una bendicion enmascarada y tu puedes enfrentar tu bendicion enmascarada a evitaron y escaparon del filo de la espada david escapo de los maliciosos ataques de saul 1 samuel 19 9 10 elias escapo del odio asesino de jezabel 1 reyes19 1 3 y eliseo escapo de siria 2 reyes 6 15 19 b sacaron fuerzas de flaqueza debilidad en los libros de la fe se encuentran muchos simbolos de debilidad aod hijo de gera por ejemplo era zurdo sin embargo le dio muerte al rey de moab jueces 3 12 22 jael miembro del sexo debil dio muerte a sisara capitan del ejercito con una estaca de la tienda jueces 4 21 gedeon empleo unos fragiles cantaros de barro jueces 7 20 vacios con teas ardiendo dentro de los cantaros en la derrota de los madianitas sanson utilizo la quijada de un asno para dar muerte a mil filisteos jueces 15 15 todos ellos ilustran la verdad de que Dios ha escogido las cosas debiles de este mundo para avergonzar a las fuerzas 1 corintios 1 27 c se hicieron fuertes en batallas las batallas los debilitaron la fe doto a los hombres de unas fuerzas mas alla de la naturaleza y los capacito para vencer frente a obstaculos insuperables d pusieron en fuga ejercitos extranjeros aunque a menudo deficientemente equipados y muy superados en numeros los ejercitos de israel consiguieron victorias para confusion de los enemigos y asombro de todos los demas 6 35 las mujeres recibieron sus muertos mediante resurreccion 1 reyes 17 22 la viuda de sarepta y la mujer de sunem 2 reyes 4 34 son casos concretos existe en la realidad a mas otros fueron atormentados no aceptando el rescate a fin de obtener mejor resurreccion la fe tiene otro rostro ademas de los que efectuaron sorprendentes hazanas hubo los que soportaron intensos padecimientos Dios valora esto ultimo tanto como lo primero algunos debido a su fe en el senor fueron sujetos a crueles torturas si hubiesen renunciado a jehova habrian recibido liberacion pero para ellos era mejor morir y resucitar luego para gloria eterna que proseguir en esta vida marcados como traidores de Dios hay una liberacion que la fe abraza hay una liberacion que la fe rehusa nunca negar al senor aunque lo maten 7 36 otros fueron escarnecidos y azotados y encadenados en carceles por su fidelidad a Dios jeremias soporto todas esas formas de castigos jeremias 20 1 6 37 15 tambien jose fue encarcelado porque preferia sufrir antes que pecar genesis 39 20 a fueron apedreados Jesus recordo a los escritores y fariseos que sus antecedentes habian dado muerte a zacarias entre el santuario y el altar mateo 23 25 b aserrados se dice que fue el metodo que empleo manases para ejecutar a isaias c puestos a prueba las enormes presiones que fueron aplicadas a los creyentes para que negasen al senor d anduvieron de aca para alla cubiertos de pieles de ovejas y de cabras menesterosos atribulados maltratados pero con fe 8 38 el mundo los trato como indignos de vivir el mundo no era digno de ellos errando no acertar algo equivocado por los desiertos por los montes por las cuevas y por las cavernas de la tierra sin familia ni hogar cazados como animales el ardor del sol y del frio tribulaciones penalidades pero no negarian a su senor 9 39 pero murieron antes de recibir el cumplimiento de lo prometido no vivieron para ver la venida del mesias tan largamente esperado ni para gozar de las bendiciones que iban a venir de su ministerio 10 40 Dios habia reservado para nosotros algo mejor habia dispuesto que no fuesen perfeccionados aparte de nosotros no tuvieron tantos privilegios como nosotros amen",
+    "alias_busqueda": [
+      "El cumplimiento de las promesas de la fe",
+      "Hebreos",
+      "Hebreos 11",
+      "Hebreos 11:33-40",
+      "oración",
+      "sansón",
+      "mundo",
+      "Jezabel",
+      "Bendición",
+      "Promesas de Dios"
+    ]
+  },
+  "revision_manual": {
+    "requiere_revision": false,
+    "motivo": ""
+  },
+  "ui": {
+    "mostrar_credito_en_header": true,
+    "mostrar_numero_estudio": true,
+    "mostrar_fecha": true,
+    "mostrar_topicos": true,
+    "permitir_favorito": true,
+    "permitir_compartir": true
+  }
+}

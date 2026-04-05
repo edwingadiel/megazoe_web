@@ -1,0 +1,437 @@
+{
+  "id": "estudio-1462-estudio-1462",
+  "slug": "estudio-1462-estudio-1462",
+  "numero_estudio": 1462,
+  "tipo_estudio": "Iglesia en las casas",
+  "ministerio": {
+    "iglesia": "Iglesia Cristiana Mega Zoe",
+    "pastora": "Pastora Edith Cruz",
+    "credito_corto": "Iglesia Cristiana Mega Zoe · Pastora Edith Cruz",
+    "credito_largo": "Contenido original de Iglesia Cristiana Mega Zoe, conservando el crédito ministerial correspondiente a la Pastora Edith Cruz."
+  },
+  "identidad_editorial": {
+    "idioma": "es",
+    "fuente_original": "documento_word",
+    "archivo_origen": "/Users/edwingadiel/Desktop/Estudios en Word/Estudio #1462 Abrir las puertas del santuario y entrará el Rey de Gloria - Salmos 24 7.docx",
+    "estado_revision": "procesado",
+    "version_schema": "1.0"
+  },
+  "encabezado": {
+    "titulo": "Abrir las Puertas del Santuario, y Entrará el Rey de Gloria",
+    "subtitulo": null,
+    "cita_principal": "Salmos 24:7",
+    "resumen_corto": "Abrir las Puertas del Santuario, y Entrará el Rey de Gloria enseña a perseverar en la oración y buscar la bendición de Dios."
+  },
+  "fechas": {
+    "fecha_inicio": null,
+    "fecha_fin": null,
+    "fecha_texto_original": "",
+    "ano": null
+  },
+  "clasificacion_biblica": {
+    "libro_principal": "Salmos",
+    "capitulo_principal": 24,
+    "versiculos_principales": [
+      7
+    ],
+    "referencia_principal_normalizada": "Salmos 24:7",
+    "testamento_principal": "Antiguo Testamento"
+  },
+  "clasificacion_tematica": {
+    "topicos": [
+      "Oración",
+      "Bendición",
+      "Servicio cristiano"
+    ],
+    "keywords": [
+      "oración",
+      "arrepentimiento",
+      "preparación",
+      "perseverancia",
+      "fuego"
+    ]
+  },
+  "referencias_biblicas": [
+    {
+      "referencia": "Salmos 24:7",
+      "referencia_normalizada": "Salmos 24:7",
+      "libro": "Salmos",
+      "capitulo": 24,
+      "versiculos": [
+        7
+      ],
+      "tipo": "principal",
+      "clickeable": true
+    },
+    {
+      "referencia": "Números 9:11",
+      "referencia_normalizada": "Números 9:11",
+      "libro": "Números",
+      "capitulo": 9,
+      "versiculos": [
+        11
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "2 Crónicas 30:1-3",
+      "referencia_normalizada": "2 Crónicas 30:1-3",
+      "libro": "2 Crónicas",
+      "capitulo": 30,
+      "versiculos": [
+        1,
+        2,
+        3
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "2 Crónicas 30:6",
+      "referencia_normalizada": "2 Crónicas 30:6",
+      "libro": "2 Crónicas",
+      "capitulo": 30,
+      "versiculos": [
+        6
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "2 Crónicas 30:13-14",
+      "referencia_normalizada": "2 Crónicas 30:13-14",
+      "libro": "2 Crónicas",
+      "capitulo": 30,
+      "versiculos": [
+        13,
+        14
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "2 Crónicas 30:18",
+      "referencia_normalizada": "2 Crónicas 30:18",
+      "libro": "2 Crónicas",
+      "capitulo": 30,
+      "versiculos": [
+        18
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "2 Crónicas 30:21",
+      "referencia_normalizada": "2 Crónicas 30:21",
+      "libro": "2 Crónicas",
+      "capitulo": 30,
+      "versiculos": [
+        21
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Deuteronomio 33:10",
+      "referencia_normalizada": "Deuteronomio 33:10",
+      "libro": "Deuteronomio",
+      "capitulo": 33,
+      "versiculos": [
+        10
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "2 Crónicas 30:23",
+      "referencia_normalizada": "2 Crónicas 30:23",
+      "libro": "2 Crónicas",
+      "capitulo": 30,
+      "versiculos": [
+        23
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "2 Crónicas 30:25",
+      "referencia_normalizada": "2 Crónicas 30:25",
+      "libro": "2 Crónicas",
+      "capitulo": 30,
+      "versiculos": [
+        25
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "2 Crónicas 30:27",
+      "referencia_normalizada": "2 Crónicas 30:27",
+      "libro": "2 Crónicas",
+      "capitulo": 30,
+      "versiculos": [
+        27
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Números 6:22-23",
+      "referencia_normalizada": "Números 6:22-23",
+      "libro": "Números",
+      "capitulo": 6,
+      "versiculos": [
+        22,
+        23
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    }
+  ],
+  "contenido": {
+    "introduccion": null,
+    "secciones": [],
+    "contenido_completo": "Es dedicado entero a la reintegración (volver a incorporar) de la celebración de \"la Pascua\", que había dejado de observarse desde antes de la división del reino. Volvemos a Jehová Dios y Él se volverá al remanente (resto, sobrante, lo que queda de Israel).\n\nEn el primer mes, el rey había purificado el templo y restablecido sus servicios.\n\nEn el mes segundo, se preparó para celebrar la Pascua y la fiesta de los panes sin levadura.\n\nSegún (Números 9:11) la Pascua podía celebrarse en el \"mes segundo\", si alguno se hallaba inmundo por causa de cadáver o si estaban lejos en algún viaje o fuera de la nación, o se los hubiesen llevado cautivo y ya no estaban en Jerusalén.\n\nEn el caso de Ezequías, no fue posible celebrarla a su tiempo, durante el primer mes, por cuanto no había suficientes sacerdotes santificados.\n\n(2 Crónicas 30:1-3) Ya que era una fiesta nacional toda la nación debía ser invitada.\n\nAsí que enviaron mensajeros por todo Judá e Israel para invitarlos a acudir a Jerusalén.\n\n(2 Crónicas 30:6) \"Hijos de Israel, volveos a Jehová que es Dios de Abraham, de Isaac y de Israel.\"\n\nLas puertas del santuario están ahora abiertas y podéis entrar con completa libertad; \"el servicio del templo está de nuevo en funciones y seréis bienvenidos a tomar parte en él\".\n\nVolver al Dios que hizo pacto con nuestros antepasados.\n\nNo obstante, un pequeño remanente sí se arrepintió y viajó a Jerusalén para celebrar la Pascua el primer año del reinado de Ezequías.\n\nEl consejo es que \"no endurezcáis sus vidas como sus padres\".\n\nEn la vida lo mejor es, someterse a Jehová y lo segundo, es venir a su santuario, el cual Él ha santificado para siempre.\n\nEra volverse a Jehová Dios y Él se volverá al remanente (lo que queda, algo que sobra) que ha quedado.\n\n\"Servid a Jehová, vuestro Dios y el ardor de Su ira se apartaría.\"\n\nLa mayoría de los israelitas ridiculizó a los pregoneros que les exhortaban a volverse a Dios.\n\nNo obstante, un pequeño remanente se arrepintió y viajó a Jerusalén para celebrar la Pascua en el primer año del reinado de Ezequías.\n\n(2 Crónicas 30:13-14) La preparación que hicieron para la Pascua, muy buena preparación: quitaron todos los altares idolátricos que hallaron no solo en el templo, sino en Jerusalén.\n\nEl celo del pueblo avergonzó a los sacerdotes y a los levitas y le despertó a una consideración más seria de las tareas.\n\nEl pueblo decidido y celoso, más celoso y decidido que los sacerdotes y los levitas y se llenaron de vergüenza al ver al pueblo más presto a traer sacrificio que ellos a ofrecerla.\n\nEsto los lleva a santificarse.\n\nLas irregularidades que se cometieron en esta ocasión.\n\nLos levitas sacrificaron la Pascua, lo cual era competencia exclusiva de los sacerdotes.\n\nSe permitió comer la Pascua a muchos que no estaban purificados de la forma que señalaba la Ley.\n\n(2 Crónicas 30:18) Oración de Ezequías: Jehová que es bueno, sea propicio (oportuno, apropiado, conveniente) a todo aquel que ha preparado su corazón para buscar a Dios.\n\n(2 Crónicas 30:21) Cantaban salmos acompañándose de instrumentos musicales, todos los días de la fiesta.\n\nLos levitas (Deuteronomio 33:10) tenían un perfecto conocimiento de lo relativo (vínculo) a Jehová y no cabe duda de que enseñaron al pueblo.\n\nEzequías le habló del corazón de todos los levitas que tenían buena inteligencia en el servicio, los animó a cumplir con su oficio de maestros del pueblo en las cosas de Dios.\n\n(2 Crónicas 30:23) Era tal consuelo y ánimo con la observancia de estos siete días de la fiesta, que decidieron celebrar la fiesta por otros siete días más.\n\nLa tibieza nos destruye por descuidar lo que hay que hacer.\n\nCuando hay disposición muy devota (fervoroso, piadoso, fervor) ocurre que es un fuego, pasión, entrega y gozo.\n\n¡Cuán diferente disposición de la que tienen muchos que dicen: ¡qué aburrido es este culto! o ¡Cuándo se pasará el domingo!\n\n(2 Crónicas 30:25) Todo esto lo hicieron con alegría (23); todos se regocijaron y en especial los forasteros (fuera del lugar) (25); así que hubo entonces gran regocijo en Jerusalén.\n\nNunca se había visto cosa semejante desde el día en que Salomón dedicó el templo.\n\n(2 Crónicas 30:27) Finalmente, la congregación fue despedida con una solemne bendición.\n\nLa pronunciaron los sacerdotes, pues era parte de su oficio bendecir al pueblo. (Números 6:22-23) En esto eran como la boca del pueblo para dirigirse a Dios en oración y al mismo tiempo la boca de Dios al pueblo en forma de promesa, pues esta bendición incluía los dos aspectos.\n\n¡Qué consuelo para una asamblea marchar cada uno a su casa, coronado con tal bendición! (B) Dios puso Su Amén a esta bendición: Su oración llegó a la habitación de su santuario, al cielo.\n\nLas oraciones que suben al cielo descienden después a la tierra en lluvia de bendiciones. Amén",
+    "contenido_renderizado": [
+      {
+        "tipo": "parrafo",
+        "texto": "Es dedicado entero a la reintegración (volver a incorporar) de la celebración de \"la Pascua\", que había dejado de observarse desde antes de la división del reino. Volvemos a Jehová Dios y Él se volverá al remanente (resto, sobrante, lo que queda de Israel).",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "En el primer mes, el rey había purificado el templo y restablecido sus servicios.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "En el mes segundo, se preparó para celebrar la Pascua y la fiesta de los panes sin levadura.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Según (Números 9:11) la Pascua podía celebrarse en el \"mes segundo\", si alguno se hallaba inmundo por causa de cadáver o si estaban lejos en algún viaje o fuera de la nación, o se los hubiesen llevado cautivo y ya no estaban en Jerusalén.",
+        "referencias_inline": [
+          "Números 9:11"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "En el caso de Ezequías, no fue posible celebrarla a su tiempo, durante el primer mes, por cuanto no había suficientes sacerdotes santificados.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(2 Crónicas 30:1-3) Ya que era una fiesta nacional toda la nación debía ser invitada.",
+        "referencias_inline": [
+          "2 Crónicas 30:1-3"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Así que enviaron mensajeros por todo Judá e Israel para invitarlos a acudir a Jerusalén.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(2 Crónicas 30:6) \"Hijos de Israel, volveos a Jehová que es Dios de Abraham, de Isaac y de Israel.\"",
+        "referencias_inline": [
+          "2 Crónicas 30:6"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Las puertas del santuario están ahora abiertas y podéis entrar con completa libertad; \"el servicio del templo está de nuevo en funciones y seréis bienvenidos a tomar parte en él\".",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Volver al Dios que hizo pacto con nuestros antepasados.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "No obstante, un pequeño remanente sí se arrepintió y viajó a Jerusalén para celebrar la Pascua el primer año del reinado de Ezequías.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "El consejo es que \"no endurezcáis sus vidas como sus padres\".",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "En la vida lo mejor es, someterse a Jehová y lo segundo, es venir a su santuario, el cual Él ha santificado para siempre.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Era volverse a Jehová Dios y Él se volverá al remanente (lo que queda, algo que sobra) que ha quedado.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "\"Servid a Jehová, vuestro Dios y el ardor de Su ira se apartaría.\"",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "La mayoría de los israelitas ridiculizó a los pregoneros que les exhortaban a volverse a Dios.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "No obstante, un pequeño remanente se arrepintió y viajó a Jerusalén para celebrar la Pascua en el primer año del reinado de Ezequías.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(2 Crónicas 30:13-14) La preparación que hicieron para la Pascua, muy buena preparación: quitaron todos los altares idolátricos que hallaron no solo en el templo, sino en Jerusalén.",
+        "referencias_inline": [
+          "2 Crónicas 30:13-14"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "El celo del pueblo avergonzó a los sacerdotes y a los levitas y le despertó a una consideración más seria de las tareas.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "El pueblo decidido y celoso, más celoso y decidido que los sacerdotes y los levitas y se llenaron de vergüenza al ver al pueblo más presto a traer sacrificio que ellos a ofrecerla.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Esto los lleva a santificarse.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Las irregularidades que se cometieron en esta ocasión.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Los levitas sacrificaron la Pascua, lo cual era competencia exclusiva de los sacerdotes.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Se permitió comer la Pascua a muchos que no estaban purificados de la forma que señalaba la Ley.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(2 Crónicas 30:18) Oración de Ezequías: Jehová que es bueno, sea propicio (oportuno, apropiado, conveniente) a todo aquel que ha preparado su corazón para buscar a Dios.",
+        "referencias_inline": [
+          "2 Crónicas 30:18"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(2 Crónicas 30:21) Cantaban salmos acompañándose de instrumentos musicales, todos los días de la fiesta.",
+        "referencias_inline": [
+          "2 Crónicas 30:21"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Los levitas (Deuteronomio 33:10) tenían un perfecto conocimiento de lo relativo (vínculo) a Jehová y no cabe duda de que enseñaron al pueblo.",
+        "referencias_inline": [
+          "Deuteronomio 33:10"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Ezequías le habló del corazón de todos los levitas que tenían buena inteligencia en el servicio, los animó a cumplir con su oficio de maestros del pueblo en las cosas de Dios.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(2 Crónicas 30:23) Era tal consuelo y ánimo con la observancia de estos siete días de la fiesta, que decidieron celebrar la fiesta por otros siete días más.",
+        "referencias_inline": [
+          "2 Crónicas 30:23"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "La tibieza nos destruye por descuidar lo que hay que hacer.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Cuando hay disposición muy devota (fervoroso, piadoso, fervor) ocurre que es un fuego, pasión, entrega y gozo.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "¡Cuán diferente disposición de la que tienen muchos que dicen: ¡qué aburrido es este culto! o ¡Cuándo se pasará el domingo!",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(2 Crónicas 30:25) Todo esto lo hicieron con alegría (23); todos se regocijaron y en especial los forasteros (fuera del lugar) (25); así que hubo entonces gran regocijo en Jerusalén.",
+        "referencias_inline": [
+          "2 Crónicas 30:25"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Nunca se había visto cosa semejante desde el día en que Salomón dedicó el templo.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(2 Crónicas 30:27) Finalmente, la congregación fue despedida con una solemne bendición.",
+        "referencias_inline": [
+          "2 Crónicas 30:27"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "La pronunciaron los sacerdotes, pues era parte de su oficio bendecir al pueblo. (Números 6:22-23) En esto eran como la boca del pueblo para dirigirse a Dios en oración y al mismo tiempo la boca de Dios al pueblo en forma de promesa, pues esta bendición incluía los dos aspectos.",
+        "referencias_inline": [
+          "Números 6:22-23"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "¡Qué consuelo para una asamblea marchar cada uno a su casa, coronado con tal bendición! (B) Dios puso Su Amén a esta bendición: Su oración llegó a la habitación de su santuario, al cielo.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Las oraciones que suben al cielo descienden después a la tierra en lluvia de bendiciones. Amén",
+        "referencias_inline": []
+      }
+    ]
+  },
+  "busqueda": {
+    "texto_indexable": "abrir las puertas del santuario y entrara el rey de gloria salmo 24 7 oracion bendicion servicio cristiano oracion arrepentimiento preparacion perseverancia fuego es dedicado entero a la reintegracion volver a incorporar de la celebracion de la pascua que habia dejado de observarse desde antes de la division del reino volvemos a jehova Dios y el se volvera al remanente resto sobrante lo que queda de israel en el primer mes el rey habia purificado el templo y restablecido sus servicios en el mes segundo se preparo para celebrar la pascua y la fiesta de los panes sin levadura segun numeros 9 11 la pascua podia celebrarse en el mes segundo si alguno se hallaba inmundo por causa de cadaver o si estaban lejos en algun viaje o fuera de la nacion o se los hubiesen llevado cautivo y ya no estaban en jerusalen en el caso de ezequias no fue posible celebrarla a su tiempo durante el primer mes por cuanto no habia suficientes sacerdotes santificados 2 cronicas 30 1 3 ya que era una fiesta nacional toda la nacion debia ser invitada asi que enviaron mensajeros por todo juda e israel para invitarlos a acudir a jerusalen 2 cronicas 30 6 hijos de israel volveos a jehova que es Dios de abraham de isaac y de israel las puertas del santuario estan ahora abiertas y podeis entrar con completa libertad el servicio del templo esta de nuevo en funciones y sereis bienvenidos a tomar parte en el volver al Dios que hizo pacto con nuestros antepasados no obstante un pequeno remanente si se arrepintio y viajo a jerusalen para celebrar la pascua el primer ano del reinado de ezequias el consejo es que no endurezcais sus vidas como sus padres en la vida lo mejor es someterse a jehova y lo segundo es venir a su santuario el cual el ha santificado para siempre era volverse a jehova Dios y el se volvera al remanente lo que queda algo que sobra que ha quedado servid a jehova vuestro Dios y el ardor de su ira se apartaria la mayoria de los israelitas ridiculizo a los pregoneros que les exhortaban a volverse a Dios no obstante un pequeno remanente se arrepintio y viajo a jerusalen para celebrar la pascua en el primer ano del reinado de ezequias 2 cronicas 30 13 14 la preparacion que hicieron para la pascua muy buena preparacion quitaron todos los altares idolatricos que hallaron no solo en el templo sino en jerusalen el celo del pueblo avergonzo a los sacerdotes y a los levitas y le desperto a una consideracion mas seria de las tareas el pueblo decidido y celoso mas celoso y decidido que los sacerdotes y los levitas y se llenaron de verguenza al ver al pueblo mas presto a traer sacrificio que ellos a ofrecerla esto los lleva a santificarse las irregularidades que se cometieron en esta ocasion los levitas sacrificaron la pascua lo cual era competencia exclusiva de los sacerdotes se permitio comer la pascua a muchos que no estaban purificados de la forma que senalaba la ley 2 cronicas 30 18 oracion de ezequias jehova que es bueno sea propicio oportuno apropiado conveniente a todo aquel que ha preparado su corazon para buscar a Dios 2 cronicas 30 21 cantaban salmos acompanandose de instrumentos musicales todos los dias de la fiesta los levitas deuteronomio 33 10 tenian un perfecto conocimiento de lo relativo vinculo a jehova y no cabe duda de que ensenaron al pueblo ezequias le hablo del corazon de todos los levitas que tenian buena inteligencia en el servicio los animo a cumplir con su oficio de maestros del pueblo en las cosas de Dios 2 cronicas 30 23 era tal consuelo y animo con la observancia de estos siete dias de la fiesta que decidieron celebrar la fiesta por otros siete dias mas la tibieza nos destruye por descuidar lo que hay que hacer cuando hay disposicion muy devota fervoroso piadoso fervor ocurre que es un fuego pasion entrega y gozo cuan diferente disposicion de la que tienen muchos que dicen que aburrido es este culto o cuando se pasara el domingo 2 cronicas 30 25 todo esto lo hicieron con alegria 23 todos se regocijaron y en especial los forasteros fuera del lugar 25 asi que hubo entonces gran regocijo en jerusalen nunca se habia visto cosa semejante desde el dia en que salomon dedico el templo 2 cronicas 30 27 finalmente la congregacion fue despedida con una solemne bendicion la pronunciaron los sacerdotes pues era parte de su oficio bendecir al pueblo numeros 6 22 23 en esto eran como la boca del pueblo para dirigirse a Dios en oracion y al mismo tiempo la boca de Dios al pueblo en forma de promesa pues esta bendicion incluia los dos aspectos que consuelo para una asamblea marchar cada uno a su casa coronado con tal bendicion b Dios puso su amen a esta bendicion su oracion llego a la habitacion de su santuario al cielo las oraciones que suben al cielo descienden despues a la tierra en lluvia de bendiciones amen",
+    "alias_busqueda": [
+      "Estudio 1462",
+      "Salmos",
+      "Salmos 24",
+      "Salmos 24:7",
+      "oración",
+      "arrepentimiento",
+      "preparación",
+      "perseverancia",
+      "Bendición"
+    ]
+  },
+  "revision_manual": {
+    "requiere_revision": false,
+    "motivo": ""
+  },
+  "ui": {
+    "mostrar_credito_en_header": true,
+    "mostrar_numero_estudio": true,
+    "mostrar_fecha": true,
+    "mostrar_topicos": true,
+    "permitir_favorito": true,
+    "permitir_compartir": true
+  }
+}

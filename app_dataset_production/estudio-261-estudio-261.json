@@ -1,0 +1,301 @@
+{
+  "id": "estudio-261-estudio-261",
+  "slug": "estudio-261-estudio-261",
+  "numero_estudio": 261,
+  "tipo_estudio": "Iglesia en las casas",
+  "ministerio": {
+    "iglesia": "Iglesia Cristiana Mega Zoe",
+    "pastora": "Pastora Edith Cruz",
+    "credito_corto": "Iglesia Cristiana Mega Zoe · Pastora Edith Cruz",
+    "credito_largo": "Contenido original de Iglesia Cristiana Mega Zoe, conservando el crédito ministerial correspondiente a la Pastora Edith Cruz."
+  },
+  "identidad_editorial": {
+    "idioma": "es",
+    "fuente_original": "documento_word",
+    "archivo_origen": "/Users/edwingadiel/Desktop/Estudios en Word/Estudio #261 Somos más que vencedores - Romanos 8 28-39.doc",
+    "estado_revision": "procesado",
+    "version_schema": "1.0"
+  },
+  "encabezado": {
+    "titulo": "Somos Más Que Vencedores",
+    "subtitulo": null,
+    "cita_principal": "Romanos 8:28-39",
+    "resumen_corto": "Somos Más Que Vencedores llama a afirmar la vida del creyente."
+  },
+  "fechas": {
+    "fecha_inicio": null,
+    "fecha_fin": null,
+    "fecha_texto_original": "",
+    "ano": null
+  },
+  "clasificacion_biblica": {
+    "libro_principal": "Romanos",
+    "capitulo_principal": 8,
+    "versiculos_principales": [
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39
+    ],
+    "referencia_principal_normalizada": "Romanos 8:28-39",
+    "testamento_principal": "Nuevo Testamento"
+  },
+  "clasificacion_tematica": {
+    "topicos": [
+      "Llamado de Dios",
+      "Satanás",
+      "Propósito de Dios"
+    ],
+    "keywords": [
+      "arrepentimiento",
+      "perseverancia",
+      "evangelio",
+      "escogidos",
+      "corazón"
+    ]
+  },
+  "referencias_biblicas": [
+    {
+      "referencia": "Romanos 8:28-39",
+      "referencia_normalizada": "Romanos 8:28-39",
+      "libro": "Romanos",
+      "capitulo": 8,
+      "versiculos": [
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39
+      ],
+      "tipo": "principal",
+      "clickeable": true
+    },
+    {
+      "referencia": "Romanos 8: 28",
+      "referencia_normalizada": "Romanos 8:28",
+      "libro": "Romanos",
+      "capitulo": 8,
+      "versiculos": [
+        28
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Romanos 8: 29",
+      "referencia_normalizada": "Romanos 8:29",
+      "libro": "Romanos",
+      "capitulo": 8,
+      "versiculos": [
+        29
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Romanos 8: 30",
+      "referencia_normalizada": "Romanos 8:30",
+      "libro": "Romanos",
+      "capitulo": 8,
+      "versiculos": [
+        30
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Romanos 8:13",
+      "referencia_normalizada": "Romanos 8:13",
+      "libro": "Romanos",
+      "capitulo": 8,
+      "versiculos": [
+        13
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Romanos 8: 31,32",
+      "referencia_normalizada": "Romanos 8:31,32",
+      "libro": "Romanos",
+      "capitulo": 8,
+      "versiculos": [
+        31,
+        32
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Romanos 8: 33",
+      "referencia_normalizada": "Romanos 8:33",
+      "libro": "Romanos",
+      "capitulo": 8,
+      "versiculos": [
+        33
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Romanos 8: 34",
+      "referencia_normalizada": "Romanos 8:34",
+      "libro": "Romanos",
+      "capitulo": 8,
+      "versiculos": [
+        34
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Romanos 8: 35",
+      "referencia_normalizada": "Romanos 8:35",
+      "libro": "Romanos",
+      "capitulo": 8,
+      "versiculos": [
+        35
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Romanos 8: 36",
+      "referencia_normalizada": "Romanos 8:36",
+      "libro": "Romanos",
+      "capitulo": 8,
+      "versiculos": [
+        36
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Romanos 8: 37",
+      "referencia_normalizada": "Romanos 8:37",
+      "libro": "Romanos",
+      "capitulo": 8,
+      "versiculos": [
+        37
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Romanos 8: 38, 39",
+      "referencia_normalizada": "Romanos 8:38,39",
+      "libro": "Romanos",
+      "capitulo": 8,
+      "versiculos": [
+        38,
+        39
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    }
+  ],
+  "contenido": {
+    "introduccion": null,
+    "secciones": [],
+    "contenido_completo": "Introducción: Según pasa el tiempo podemos ver día a día más cosas que nos ayudan a entender más a Dios. No desperdiciemos nuestras vidas; solo si entendemos quien es Dios y como Él nos ha llamado, es que podremos vencer. La Palabra dice en Romanos 8: 28: \"Y sabemos que a los que aman a Dios, todas las cosas les ayudan a bien, esto es, a los que conforme a su propósito son llamados.\" La forma que nuestra vida va a tomar después de haber sido llamados, es: ¡A la imagen del Hijo! Romanos 8: 29\n\n¡Estemos claros, Dios nos llamó! Pero, no luchemos por lo que no es nuestro, porque seguramente ese no es nuestro lugar. Podríamos luchar por eso por veinte años, pero va a llegar el momento en que no podremos más y se convertirá en carga. Luchemos por lo que nos corresponde hacer a cada uno conforme al llamado de Dios. Pablo fue llamado por Dios a amar a un pueblo. ¿Creen ustedes que podrían amar a un pueblo así como Pablo lo hizo? El Infierno puede molestarse con la entrega de nuestro trabajo para Dios. Todos se pueden enojar contigo. Hablar de ti, por el coraje que tiene nuestro enemigo. Pero en algo tenemos que estar claros; Dios nos llamó, nos predestinó, nos justificó y glorificó. Romanos 8: 30 No hay condenación para el que ha creído. Cuando Dios llama es un orgullo.\n\nPredestinación es determinar, ordenar por anticipado o adelantado. Dios ha determinado antes que estuviésemos aquí en este mundo. Él ordenó por adelantado. ¿Por qué algunos se atreven a intervenir? Lo hacen, por falta de conocimiento. Conforme al propósito de Dios somos llamados. Esto no es fácil, el camino es de rosas y espinas. Las rosas para Dios y las espinas para nosotros. Las Escrituras hablan de Satanás como el príncipe de esta tierra, pero Jesús es el Rey, y Él es el que ordena, Él que señala. ¿Qué llevó a Jesús a la muerte? ¡La obediencia! Lo menos que le gusta al hombre y a la mujer, es ser obedientes. Por lo general, los individuos son muy cerrados a recibir, por eso su corazón se pone rígido, ¡y cuando se cae se agrieta! El que es obediente sigue el mandato, camina. Dios nos predestinó y nos llamó, por tal razón somos justificados. A nosotros nos llamó Dios y Él es el que determina el mover de la iglesia. Cuando conoces la Palabra, vives en paz completamente. Esta obra de Mega Zoé la hemos comenzado para bien. Porque para aquellos que se forman a la imagen de Él, todo obra para bien. El nos va a dar la salida, para todo lo que nos aqueje. Los problemas son para Dios glorificarse, para que crezcas en fe. Él está para ese hombre y para esa mujer que son constantes. Hay un propósito de Dios en cada uno de nosotros, y a este propósito no hay que huirle, ni temerle. A esos que por anticipado llamó, El se encargó de crearlos y de todos los detalles correspondientes a ese llamado. Dios ordenó lo que iba a ser tu vida.\n\n\"A los que aman a Dios todas las cosas ayudan a bien.\" Mi maestro, mi verdad, mi jefe, es el que resucitó, que no tan solo me lava con su sangre, sino que está a la diestra del Padre. Dios nos llama por la predicación del Evangelio y con corazón arrepentido hemos venido donde Él. ¿Somos manipulados por Satanás? ¡NO! ¿Entonces, por qué vivir oprimidos? El diablo no nos puede destruir, ¡nosotros somos Hijos de Dios!\n\nHay un proceso de Dios en nuestras vidas que no es fácil y es: la santificación. La tentación puede llegar, pero no puede posar o adueñarse de tu vida. Dios nos llamó para que seamos PUEBLO. Romanos 8:13 dice: \"Porque si vivís conforme a la carne moriréis, más si por el Espíritu hacéis morir las obras de la carne, viviréis.\" Por el Espíritu de Dios en tu vida, puedes hacer morir las obras de la carne. La terquedad es horrible, tenemos que levantarnos como la iglesia que Dios quiere y aceptar el proceso de la santificación. Este proceso cuesta pérdida, tenemos que morir y dejar la vida de la carne. Si el infinito Dios se ha encargado de protegernos y se ha comprometido a salvarnos, ¿qué astucia o milicia se puede oponer a su mandato? ¿Por qué tenemos que dudar del amor de Dios, si Él no escatimó ni a su propio Hijo, por ti y por mí? Romanos 8: 31,32 No hay mayor bendición que ésta, las demás están por debajo. ¿Cómo no nos va a dar el Señor, las demás cosas? Romanos 8: 33 ¿Quién acusará a los escogidos de Dios? Dios es el que justifica. Romanos 8: 34 El diablo se levanta a acusar y nos hace creer que vivimos en derrota. Romanos 8: 35 Si logramos comprender lo que es el llamado de Dios, entonces entenderemos todo lo que es santo. ¿Quién nos puede separar de este amor? Romanos 8: 36 Solo que te vuelvas al pecado. La angustia significa penuria, es como ser golpeado por todos los que te rodean, sin posibilidad de librarse o escaparse. En la angustia parece que no hay escape. No lo hay para el impío, pero tú y yo pasaremos por todo esto y lo superaremos. Peligro significa grandes alarmas y presagios de algo dañino. Dios está comprometido con nosotros en el peligro. Pero nosotros en vez de confiar, muchas veces huimos, porque no queremos ser quebrantados. \"Pero ante todas estas cosas, somos más que vencedores.\" Romanos 8: 37\n\nA los escogidos, nada los separará del amor de Dios, aunque halla grandes dificultades. Romanos 8: 38, 39\n\nNuestro Dios es el Creador. Ese fue el que te llamó, así que nada es tan grande, como para apartarte del Señor. Si somos hijos, de todo nos librará. Él ha hecho un compromiso contigo, te escogió y está al lado del Padre justificándote. ¡No nos cansaremos, somos más que vencedores!\n\n.",
+    "contenido_renderizado": [
+      {
+        "tipo": "parrafo",
+        "texto": "Introducción: Según pasa el tiempo podemos ver día a día más cosas que nos ayudan a entender más a Dios. No desperdiciemos nuestras vidas; solo si entendemos quien es Dios y como Él nos ha llamado, es que podremos vencer. La Palabra dice en Romanos 8: 28: \"Y sabemos que a los que aman a Dios, todas las cosas les ayudan a bien, esto es, a los que conforme a su propósito son llamados.\" La forma que nuestra vida va a tomar después de haber sido llamados, es: ¡A la imagen del Hijo! Romanos 8: 29",
+        "referencias_inline": [
+          "Romanos 8:28",
+          "Romanos 8:29"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "¡Estemos claros, Dios nos llamó! Pero, no luchemos por lo que no es nuestro, porque seguramente ese no es nuestro lugar. Podríamos luchar por eso por veinte años, pero va a llegar el momento en que no podremos más y se convertirá en carga. Luchemos por lo que nos corresponde hacer a cada uno conforme al llamado de Dios. Pablo fue llamado por Dios a amar a un pueblo. ¿Creen ustedes que podrían amar a un pueblo así como Pablo lo hizo? El Infierno puede molestarse con la entrega de nuestro trabajo para Dios. Todos se pueden enojar contigo. Hablar de ti, por el coraje que tiene nuestro enemigo. Pero en algo tenemos que estar claros; Dios nos llamó, nos predestinó, nos justificó y glorificó. Romanos 8: 30 No hay condenación para el que ha creído. Cuando Dios llama es un orgullo.",
+        "referencias_inline": [
+          "Romanos 8:30"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Predestinación es determinar, ordenar por anticipado o adelantado. Dios ha determinado antes que estuviésemos aquí en este mundo. Él ordenó por adelantado. ¿Por qué algunos se atreven a intervenir? Lo hacen, por falta de conocimiento. Conforme al propósito de Dios somos llamados. Esto no es fácil, el camino es de rosas y espinas. Las rosas para Dios y las espinas para nosotros. Las Escrituras hablan de Satanás como el príncipe de esta tierra, pero Jesús es el Rey, y Él es el que ordena, Él que señala. ¿Qué llevó a Jesús a la muerte? ¡La obediencia! Lo menos que le gusta al hombre y a la mujer, es ser obedientes. Por lo general, los individuos son muy cerrados a recibir, por eso su corazón se pone rígido, ¡y cuando se cae se agrieta! El que es obediente sigue el mandato, camina. Dios nos predestinó y nos llamó, por tal razón somos justificados. A nosotros nos llamó Dios y Él es el que determina el mover de la iglesia. Cuando conoces la Palabra, vives en paz completamente. Esta obra de Mega Zoé la hemos comenzado para bien. Porque para aquellos que se forman a la imagen de Él, todo obra para bien. El nos va a dar la salida, para todo lo que nos aqueje. Los problemas son para Dios glorificarse, para que crezcas en fe. Él está para ese hombre y para esa mujer que son constantes. Hay un propósito de Dios en cada uno de nosotros, y a este propósito no hay que huirle, ni temerle. A esos que por anticipado llamó, El se encargó de crearlos y de todos los detalles correspondientes a ese llamado. Dios ordenó lo que iba a ser tu vida.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "\"A los que aman a Dios todas las cosas ayudan a bien.\" Mi maestro, mi verdad, mi jefe, es el que resucitó, que no tan solo me lava con su sangre, sino que está a la diestra del Padre. Dios nos llama por la predicación del Evangelio y con corazón arrepentido hemos venido donde Él. ¿Somos manipulados por Satanás? ¡NO! ¿Entonces, por qué vivir oprimidos? El diablo no nos puede destruir, ¡nosotros somos Hijos de Dios!",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Hay un proceso de Dios en nuestras vidas que no es fácil y es: la santificación. La tentación puede llegar, pero no puede posar o adueñarse de tu vida. Dios nos llamó para que seamos PUEBLO. Romanos 8:13 dice: \"Porque si vivís conforme a la carne moriréis, más si por el Espíritu hacéis morir las obras de la carne, viviréis.\" Por el Espíritu de Dios en tu vida, puedes hacer morir las obras de la carne. La terquedad es horrible, tenemos que levantarnos como la iglesia que Dios quiere y aceptar el proceso de la santificación. Este proceso cuesta pérdida, tenemos que morir y dejar la vida de la carne. Si el infinito Dios se ha encargado de protegernos y se ha comprometido a salvarnos, ¿qué astucia o milicia se puede oponer a su mandato? ¿Por qué tenemos que dudar del amor de Dios, si Él no escatimó ni a su propio Hijo, por ti y por mí? Romanos 8: 31,32 No hay mayor bendición que ésta, las demás están por debajo. ¿Cómo no nos va a dar el Señor, las demás cosas? Romanos 8: 33 ¿Quién acusará a los escogidos de Dios? Dios es el que justifica. Romanos 8: 34 El diablo se levanta a acusar y nos hace creer que vivimos en derrota. Romanos 8: 35 Si logramos comprender lo que es el llamado de Dios, entonces entenderemos todo lo que es santo. ¿Quién nos puede separar de este amor? Romanos 8: 36 Solo que te vuelvas al pecado. La angustia significa penuria, es como ser golpeado por todos los que te rodean, sin posibilidad de librarse o escaparse. En la angustia parece que no hay escape. No lo hay para el impío, pero tú y yo pasaremos por todo esto y lo superaremos. Peligro significa grandes alarmas y presagios de algo dañino. Dios está comprometido con nosotros en el peligro. Pero nosotros en vez de confiar, muchas veces huimos, porque no queremos ser quebrantados. \"Pero ante todas estas cosas, somos más que vencedores.\" Romanos 8: 37",
+        "referencias_inline": [
+          "Romanos 8:13",
+          "Romanos 8:31,32",
+          "Romanos 8:33",
+          "Romanos 8:34",
+          "Romanos 8:35",
+          "Romanos 8:36",
+          "Romanos 8:37"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "A los escogidos, nada los separará del amor de Dios, aunque halla grandes dificultades. Romanos 8: 38, 39",
+        "referencias_inline": [
+          "Romanos 8:38,39"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Nuestro Dios es el Creador. Ese fue el que te llamó, así que nada es tan grande, como para apartarte del Señor. Si somos hijos, de todo nos librará. Él ha hecho un compromiso contigo, te escogió y está al lado del Padre justificándote. ¡No nos cansaremos, somos más que vencedores!",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": ".",
+        "referencias_inline": []
+      }
+    ]
+  },
+  "busqueda": {
+    "texto_indexable": "somos mas que vencedores romanos 8 28 39 llamado de Dios satanas proposito de Dios arrepentimiento perseverancia evangelio escogidos corazon introduccion segun pasa el tiempo podemos ver dia a dia mas cosas que nos ayudan a entender mas a Dios no desperdiciemos nuestras vidas solo si entendemos quien es Dios y como el nos ha llamado es que podremos vencer la palabra dice en romanos 8 28 y sabemos que a los que aman a Dios todas las cosas les ayudan a bien esto es a los que conforme a su proposito son llamados la forma que nuestra vida va a tomar despues de haber sido llamados es a la imagen del hijo romanos 8 29 estemos claros Dios nos llamo pero no luchemos por lo que no es nuestro porque seguramente ese no es nuestro lugar podriamos luchar por eso por veinte anos pero va a llegar el momento en que no podremos mas y se convertira en carga luchemos por lo que nos corresponde hacer a cada uno conforme al llamado de Dios pablo fue llamado por Dios a amar a un pueblo creen ustedes que podrian amar a un pueblo asi como pablo lo hizo el infierno puede molestarse con la entrega de nuestro trabajo para Dios todos se pueden enojar contigo hablar de ti por el coraje que tiene nuestro enemigo pero en algo tenemos que estar claros Dios nos llamo nos predestino nos justifico y glorifico romanos 8 30 no hay condenacion para el que ha creido cuando Dios llama es un orgullo predestinacion es determinar ordenar por anticipado o adelantado Dios ha determinado antes que estuviesemos aqui en este mundo el ordeno por adelantado por que algunos se atreven a intervenir lo hacen por falta de conocimiento conforme al proposito de Dios somos llamados esto no es facil el camino es de rosas y espinas las rosas para Dios y las espinas para nosotros las escrituras hablan de satanas como el principe de esta tierra pero Jesus es el rey y el es el que ordena el que senala que llevo a Jesus a la muerte la obediencia lo menos que le gusta al hombre y a la mujer es ser obedientes por lo general los individuos son muy cerrados a recibir por eso su corazon se pone rigido y cuando se cae se agrieta el que es obediente sigue el mandato camina Dios nos predestino y nos llamo por tal razon somos justificados a nosotros nos llamo Dios y el es el que determina el mover de la iglesia cuando conoces la palabra vives en paz completamente esta obra de mega zoe la hemos comenzado para bien porque para aquellos que se forman a la imagen de el todo obra para bien el nos va a dar la salida para todo lo que nos aqueje los problemas son para Dios glorificarse para que crezcas en fe el esta para ese hombre y para esa mujer que son constantes hay un proposito de Dios en cada uno de nosotros y a este proposito no hay que huirle ni temerle a esos que por anticipado llamo el se encargo de crearlos y de todos los detalles correspondientes a ese llamado Dios ordeno lo que iba a ser tu vida a los que aman a Dios todas las cosas ayudan a bien mi maestro mi verdad mi jefe es el que resucito que no tan solo me lava con su sangre sino que esta a la diestra del padre Dios nos llama por la predicacion del evangelio y con corazon arrepentido hemos venido donde el somos manipulados por satanas no entonces por que vivir oprimidos el diablo no nos puede destruir nosotros somos hijos de Dios hay un proceso de Dios en nuestras vidas que no es facil y es la santificacion la tentacion puede llegar pero no puede posar o aduenarse de tu vida Dios nos llamo para que seamos pueblo romanos 8 13 dice porque si vivis conforme a la carne morireis mas si por el espiritu haceis morir las obras de la carne vivireis por el espiritu de Dios en tu vida puedes hacer morir las obras de la carne la terquedad es horrible tenemos que levantarnos como la iglesia que Dios quiere y aceptar el proceso de la santificacion este proceso cuesta perdida tenemos que morir y dejar la vida de la carne si el infinito Dios se ha encargado de protegernos y se ha comprometido a salvarnos que astucia o milicia se puede oponer a su mandato por que tenemos que dudar del amor de Dios si el no escatimo ni a su propio hijo por ti y por mi romanos 8 31 32 no hay mayor bendicion que esta las demas estan por debajo como no nos va a dar el senor las demas cosas romanos 8 33 quien acusara a los escogidos de Dios Dios es el que justifica romanos 8 34 el diablo se levanta a acusar y nos hace creer que vivimos en derrota romanos 8 35 si logramos comprender lo que es el llamado de Dios entonces entenderemos todo lo que es santo quien nos puede separar de este amor romanos 8 36 solo que te vuelvas al pecado la angustia significa penuria es como ser golpeado por todos los que te rodean sin posibilidad de librarse o escaparse en la angustia parece que no hay escape no lo hay para el impio pero tu y yo pasaremos por todo esto y lo superaremos peligro significa grandes alarmas y presagios de algo danino Dios esta comprometido con nosotros en el peligro pero nosotros en vez de confiar muchas veces huimos porque no queremos ser quebrantados pero ante todas estas cosas somos mas que vencedores romanos 8 37 a los escogidos nada los separara del amor de Dios aunque halla grandes dificultades romanos 8 38 39 nuestro Dios es el creador ese fue el que te llamo asi que nada es tan grande como para apartarte del senor si somos hijos de todo nos librara el ha hecho un compromiso contigo te escogio y esta al lado del padre justificandote no nos cansaremos somos mas que vencedores",
+    "alias_busqueda": [
+      "Estudio 261",
+      "Romanos",
+      "Romanos 8",
+      "Romanos 8:28-39",
+      "arrepentimiento",
+      "perseverancia",
+      "evangelio",
+      "escogidos",
+      "Llamado de Dios",
+      "Satanás"
+    ]
+  },
+  "revision_manual": {
+    "requiere_revision": false,
+    "motivo": ""
+  },
+  "ui": {
+    "mostrar_credito_en_header": true,
+    "mostrar_numero_estudio": true,
+    "mostrar_fecha": true,
+    "mostrar_topicos": true,
+    "permitir_favorito": true,
+    "permitir_compartir": true
+  }
+}

@@ -1,0 +1,266 @@
+{
+  "id": "estudio-784-el-tabernaculo-el-refugio",
+  "slug": "estudio-784-el-tabernaculo-el-refugio",
+  "numero_estudio": 784,
+  "tipo_estudio": "Iglesia en las casas",
+  "ministerio": {
+    "iglesia": "Iglesia Cristiana Mega Zoe",
+    "pastora": "Pastora Edith Cruz",
+    "credito_corto": "Iglesia Cristiana Mega Zoe · Pastora Edith Cruz",
+    "credito_largo": "Contenido original de Iglesia Cristiana Mega Zoe, conservando el crédito ministerial correspondiente a la Pastora Edith Cruz."
+  },
+  "identidad_editorial": {
+    "idioma": "es",
+    "fuente_original": "documento_word",
+    "archivo_origen": "/Users/edwingadiel/Desktop/Estudios en Word/Estudio #784 El Tabernáculo, el refugio - Salmos 27 5 y 2 Crónicas 21 1-6.docx",
+    "estado_revision": "procesado",
+    "version_schema": "1.0"
+  },
+  "encabezado": {
+    "titulo": "El Tabernáculo, El Refugio",
+    "subtitulo": null,
+    "cita_principal": "Salmos 27:5",
+    "resumen_corto": "El Tabernáculo, El Refugio enseña a cuidar la vida del hogar delante de Dios y buscar la bendición de Dios."
+  },
+  "fechas": {
+    "fecha_inicio": null,
+    "fecha_fin": null,
+    "fecha_texto_original": "",
+    "ano": null
+  },
+  "clasificacion_biblica": {
+    "libro_principal": "Salmos",
+    "capitulo_principal": 27,
+    "versiculos_principales": [
+      5
+    ],
+    "referencia_principal_normalizada": "Salmos 27:5",
+    "testamento_principal": "Antiguo Testamento"
+  },
+  "clasificacion_tematica": {
+    "topicos": [
+      "Familia",
+      "Guía del Espíritu Santo",
+      "Bendición"
+    ],
+    "keywords": [
+      "juicio",
+      "refugio",
+      "Jezabel",
+      "aposento",
+      "esconderse"
+    ]
+  },
+  "referencias_biblicas": [
+    {
+      "referencia": "Salmos 27:5",
+      "referencia_normalizada": "Salmos 27:5",
+      "libro": "Salmos",
+      "capitulo": 27,
+      "versiculos": [
+        5
+      ],
+      "tipo": "principal",
+      "clickeable": true
+    },
+    {
+      "referencia": "2 Crónicas 21:1-6",
+      "referencia_normalizada": "2 Crónicas 21:1-6",
+      "libro": "2 Crónicas",
+      "capitulo": 21,
+      "versiculos": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "2 Crónicas 22:3",
+      "referencia_normalizada": "2 Crónicas 22:3",
+      "libro": "2 Crónicas",
+      "capitulo": 22,
+      "versiculos": [
+        3
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "2 Crónicas 22:8,9",
+      "referencia_normalizada": "2 Crónicas 22:8,9",
+      "libro": "2 Crónicas",
+      "capitulo": 22,
+      "versiculos": [
+        8,
+        9
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "2 Crónicas 22:10",
+      "referencia_normalizada": "2 Crónicas 22:10",
+      "libro": "2 Crónicas",
+      "capitulo": 22,
+      "versiculos": [
+        10
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "2 Crónicas 22:11, 12",
+      "referencia_normalizada": "2 Crónicas 22:11,12",
+      "libro": "2 Crónicas",
+      "capitulo": 22,
+      "versiculos": [
+        11,
+        12
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "2 Crónicas 24:2",
+      "referencia_normalizada": "2 Crónicas 24:2",
+      "libro": "2 Crónicas",
+      "capitulo": 24,
+      "versiculos": [
+        2
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "2 Crónicas 24:12, 13",
+      "referencia_normalizada": "2 Crónicas 24:12,13",
+      "libro": "2 Crónicas",
+      "capitulo": 24,
+      "versiculos": [
+        12,
+        13
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "2 Crónicas 24:15-27",
+      "referencia_normalizada": "2 Crónicas 24:15-27",
+      "libro": "2 Crónicas",
+      "capitulo": 24,
+      "versiculos": [
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    }
+  ],
+  "contenido": {
+    "introduccion": null,
+    "secciones": [],
+    "contenido_completo": "Atalía era esposa de Joram, rey de Judá. Esta mujer malvada tuvo una gran influencia sobre su hijo Ocozías, quien por sus horrendos consejos llegó a matar a casi todos sus propios hermanos. Por causa de Atalía, Ocozías llegó a ser dominado por un espíritu como el del malvado Acab, rey de Israel. 2 Crónicas 22:3 \"También él anduvo en los caminos de la casa de Acab: pues su madre le aconsejaba a que actuase impíamente.\" Ocozías, por instancias de su madre mató a sus hermanos los príncipes, menos a uno llamado Joás que fue escondido y librado de la muerte. Atalía era hija de la perversa Jezabel, esposa del rey de Israel Acab. Había en Atalía la maldad de su madre y por eso provocó en su marido Joram y en su hijo Ocozías que mataran a casi todos los descendientes del rey David. Ella quiso destruir todo el trono de David, no queriendo que otro reinara sobre la tierra de Judá sino ella, quien quería un templo para Baal, el falso Dios de los cananeos. (2 Crónicas 21:1-6) Joram, rey de Judá fue guiado por Atalía, tal y como Jezabel llevó a Acab a hacer el mal. Joram también había dado muerte a todos sus hermanos.\n\nMataron a Ocozías (2 Crónicas 22:8,9 \"Y haciendo juicio Jehú contra la casa de Acab, halló a los príncipes de Judá, y a los hijos de los hermanos de Ocozías, que servían a Ocozías, y los mató. Y buscando a Ocozías, el cual se había escondido en Samaria, lo hallaron, y lo trajeron a Jehú, y le mataron…\"). Atalía quedó con deseo de venganza contra Jehú. Ella quería reinar, así que se hizo una fiera debido a toda la ambición que moraba en ella y mató a todos los que pudo (2 Crónicas 22:10 \"Entonces Atalía madre de Ocozías, viendo que su hijo era muerto, se levantó y destruyó toda la descendencia real de la casa de Judá.\"). Los príncipes de Judá cayeron en las manos criminales de Atalía. Había que escapar de una persona tan perversa. Pero, ¿cómo escapar? En aquel momento no había ningún lugar seguro en Judá donde alguien se pudiera esconder. Sin embargo, se logró quitar de las manos de Atalía a Joas, hijo de Ocozías. Su tía Josabet, una hija de Joram, libró al niño de la muerte. Lo pudo ayudar en aquel día malo escondiéndolo en el tabernáculo (2 Crónicas 22:11, 12 \"Pero Josabet, hija del rey, tomó a Joás hijo de Ocozías, y escondiéndolo de entre los demás hijos del rey, a los cuales mataban, y le guardó a él y a su ama en uno de los aposentos. Así lo escondió Josabet, hija del rey Joram, mujer del sacerdote Joiada, (porque ella era hermana de Ocozías), de delante de Atalía, y no lo mataron. Y estuvo con ellos ESCONDIDO EN LA CASA DE Dios seis años.\"). Atalía no quería que la familia de David sobreviviera a la suya, pues sabía que Jehú, mandado por Dios, iba a destruir a todos los de Acab. Este es el triste fruto de la alianza desigual entre Joram el hijo del piadoso Josafat y Atalía una hija de la casa idólatra y malvada de Acab.\n\nJosabet era hija de Joram, por lo tanto era la tía de Joás. Josabet escondió a Joás en una de las recámaras del templo por seis años. Ella era esposa del sacerdote Joiada. Jamás pensó Atalía que el hijo del rey estuviese en un aposento del templo. Tampoco pudo pensar que de allí le llegaría su mal. Pensaba: \"¡Mato a todos y así seré la reina!\" Estaba llena de vanidad y de arrogancia. No sabía que del lugar más austero le llegaría su final.\n\nEl pequeño Joás estaba escondido en la cámara de las camas, en un lugar incómodo, sin nada de lujos ni de grandes comidas. No tenía allí las túnicas reales, nada de que presumir ni sentirse grande. El uso era para el sacerdote no era para el hijo del rey, así que Joás tuvo que experimentar antes el ser siervo para poder conservar su vida. Estuvo en un pequeño cuarto donde se guardaban los colchones y lo de dormir, no en un departamento. Sería el lugar más indicado para reponerse de las heridas por la muerte de sus hermanos. Aquel cuartito fue el escondite para el niño real para ser librado de la maldad de aquella perversa mujer que de seguro lo mataría.\n\nApliquemos ahora esto a nuestras vidas. ¿Dónde te escondes tú cuando el mal te quiere destruir? ¿Te escapas o te escondes con tus propias fuerzas lejos del templo, lejos de tu lugar? ¿De dónde te viene tu guianza, te viene del templo, de tu lugar que Dios escogió para protegerte? Joás fue bendecido mientras fue \"sepultado vivo en la oscuridad.\" El templo no es el lugar de la vanidad y de la vanagloria, sino que es el lugar donde están las paredes de la bendición y de los cuidados que te guardan y protegen del diablo y del mal.\n\nEn ese tiempo el pueblo ya estaba harto de la tiranía de Atalía. Maduró el pueblo y quiso tener un rey que fuera dirigido por un sacerdote justo y así poder vencer la idolatría. 2 Crónicas 24:2 \"E hizo Joás lo recto ante los ojos de Jehová todos los días de Joiada el sacerdote.\" El Sumo sacerdote Joiada era un hombre de autoridad debido a su oficio. Estaba emparentado con la familia real, su esposa Josabet era hija de Joram. Josabet pudo prestarle a Joás el mejor servicio, lo libertó de la usurpación de Atalía. Así fue como Joás tuvo la victoria y fue el rey. A Joás le fue de gran bendición el templo pues fue escondido y protegido allí. Por eso, cuando fue rey tomó la decisión de restaurar la casa de Jehová junto a Joiada, el sacerdote. 2 Crónicas 24:12, 13\n\nPero, el mal consejo le llegó a Joás y le hizo caso. (2 Crónicas 24:15-27) Sucedió que cuando murió Joiada lleno de días, a los 130 años, vinieron los príncipes de Judá y llenaron los oídos de Joás de mal y él los oyó. Ya Joás no necesitaría de la casa de Jehová para esconderse, pues Atalía no estaba. Pero, sí estaba la maldad dentro de él. Joás fue fiel hasta que estuvo vivo el sacerdote Joiada, varón justo. Ahora, sin aquella buena influencia, Joás se hizo un idólatra. Ya no tendría el favor de Dios quien lo protegió en su peor momento; Dios le enviaba profetas y no los escuchaba. Se llenó de maldad y mató a Zacarías, hijo de Joiada, el que le ayudó, que lo guió y dio su vida para protegerlo. Zacarías fue apedreado hasta la muerte por orden de Joás.\n\nVino Siria y los destruyó a todos cuando Joás también estaba agobiado por sus dolencias. El mal le vino porque no se acordó de la misericordia que Joiada, padre de Zacarías, había hecho con él. Se habían criado juntos y cuidado juntos; pero las voces de los príncipes vanidosos fueron más para él que la voz del compañero profeta de Dios.\n\nJoiada, después de vivir largos años, fue enterrado con todos los honores en la ciudad de David \"con los reyes.\" Aquel varón justo había hecho mucho bien para con Israel, para con Dios y con su casa. Mientras que Joás dejó su refugio, que era la casa de Dios dejando a Jehová su Dios. El mundo y la vanidad que escogió le trajeron una muerte temprana, deshonrosa y trágica. Aprendamos de esto y cuidemos nuestros pasos para nunca salir del amparo y refugio de la casa de Dios. Seamos fieles y justos como Joiada, y no unos malagradecidos y vanidosos como lo fue Joás al morir el sacerdote Joiada. Amén.",
+    "contenido_renderizado": [
+      {
+        "tipo": "parrafo",
+        "texto": "Atalía era esposa de Joram, rey de Judá. Esta mujer malvada tuvo una gran influencia sobre su hijo Ocozías, quien por sus horrendos consejos llegó a matar a casi todos sus propios hermanos. Por causa de Atalía, Ocozías llegó a ser dominado por un espíritu como el del malvado Acab, rey de Israel. 2 Crónicas 22:3 \"También él anduvo en los caminos de la casa de Acab: pues su madre le aconsejaba a que actuase impíamente.\" Ocozías, por instancias de su madre mató a sus hermanos los príncipes, menos a uno llamado Joás que fue escondido y librado de la muerte. Atalía era hija de la perversa Jezabel, esposa del rey de Israel Acab. Había en Atalía la maldad de su madre y por eso provocó en su marido Joram y en su hijo Ocozías que mataran a casi todos los descendientes del rey David. Ella quiso destruir todo el trono de David, no queriendo que otro reinara sobre la tierra de Judá sino ella, quien quería un templo para Baal, el falso Dios de los cananeos. (2 Crónicas 21:1-6) Joram, rey de Judá fue guiado por Atalía, tal y como Jezabel llevó a Acab a hacer el mal. Joram también había dado muerte a todos sus hermanos.",
+        "referencias_inline": [
+          "2 Crónicas 22:3",
+          "2 Crónicas 21:1-6"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Mataron a Ocozías (2 Crónicas 22:8,9 \"Y haciendo juicio Jehú contra la casa de Acab, halló a los príncipes de Judá, y a los hijos de los hermanos de Ocozías, que servían a Ocozías, y los mató. Y buscando a Ocozías, el cual se había escondido en Samaria, lo hallaron, y lo trajeron a Jehú, y le mataron…\"). Atalía quedó con deseo de venganza contra Jehú. Ella quería reinar, así que se hizo una fiera debido a toda la ambición que moraba en ella y mató a todos los que pudo (2 Crónicas 22:10 \"Entonces Atalía madre de Ocozías, viendo que su hijo era muerto, se levantó y destruyó toda la descendencia real de la casa de Judá.\"). Los príncipes de Judá cayeron en las manos criminales de Atalía. Había que escapar de una persona tan perversa. Pero, ¿cómo escapar? En aquel momento no había ningún lugar seguro en Judá donde alguien se pudiera esconder. Sin embargo, se logró quitar de las manos de Atalía a Joas, hijo de Ocozías. Su tía Josabet, una hija de Joram, libró al niño de la muerte. Lo pudo ayudar en aquel día malo escondiéndolo en el tabernáculo (2 Crónicas 22:11, 12 \"Pero Josabet, hija del rey, tomó a Joás hijo de Ocozías, y escondiéndolo de entre los demás hijos del rey, a los cuales mataban, y le guardó a él y a su ama en uno de los aposentos. Así lo escondió Josabet, hija del rey Joram, mujer del sacerdote Joiada, (porque ella era hermana de Ocozías), de delante de Atalía, y no lo mataron. Y estuvo con ellos ESCONDIDO EN LA CASA DE Dios seis años.\"). Atalía no quería que la familia de David sobreviviera a la suya, pues sabía que Jehú, mandado por Dios, iba a destruir a todos los de Acab. Este es el triste fruto de la alianza desigual entre Joram el hijo del piadoso Josafat y Atalía una hija de la casa idólatra y malvada de Acab.",
+        "referencias_inline": [
+          "2 Crónicas 22:8,9",
+          "2 Crónicas 22:10",
+          "2 Crónicas 22:11,12"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Josabet era hija de Joram, por lo tanto era la tía de Joás. Josabet escondió a Joás en una de las recámaras del templo por seis años. Ella era esposa del sacerdote Joiada. Jamás pensó Atalía que el hijo del rey estuviese en un aposento del templo. Tampoco pudo pensar que de allí le llegaría su mal. Pensaba: \"¡Mato a todos y así seré la reina!\" Estaba llena de vanidad y de arrogancia. No sabía que del lugar más austero le llegaría su final.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "El pequeño Joás estaba escondido en la cámara de las camas, en un lugar incómodo, sin nada de lujos ni de grandes comidas. No tenía allí las túnicas reales, nada de que presumir ni sentirse grande. El uso era para el sacerdote no era para el hijo del rey, así que Joás tuvo que experimentar antes el ser siervo para poder conservar su vida. Estuvo en un pequeño cuarto donde se guardaban los colchones y lo de dormir, no en un departamento. Sería el lugar más indicado para reponerse de las heridas por la muerte de sus hermanos. Aquel cuartito fue el escondite para el niño real para ser librado de la maldad de aquella perversa mujer que de seguro lo mataría.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Apliquemos ahora esto a nuestras vidas. ¿Dónde te escondes tú cuando el mal te quiere destruir? ¿Te escapas o te escondes con tus propias fuerzas lejos del templo, lejos de tu lugar? ¿De dónde te viene tu guianza, te viene del templo, de tu lugar que Dios escogió para protegerte? Joás fue bendecido mientras fue \"sepultado vivo en la oscuridad.\" El templo no es el lugar de la vanidad y de la vanagloria, sino que es el lugar donde están las paredes de la bendición y de los cuidados que te guardan y protegen del diablo y del mal.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "En ese tiempo el pueblo ya estaba harto de la tiranía de Atalía. Maduró el pueblo y quiso tener un rey que fuera dirigido por un sacerdote justo y así poder vencer la idolatría. 2 Crónicas 24:2 \"E hizo Joás lo recto ante los ojos de Jehová todos los días de Joiada el sacerdote.\" El Sumo sacerdote Joiada era un hombre de autoridad debido a su oficio. Estaba emparentado con la familia real, su esposa Josabet era hija de Joram. Josabet pudo prestarle a Joás el mejor servicio, lo libertó de la usurpación de Atalía. Así fue como Joás tuvo la victoria y fue el rey. A Joás le fue de gran bendición el templo pues fue escondido y protegido allí. Por eso, cuando fue rey tomó la decisión de restaurar la casa de Jehová junto a Joiada, el sacerdote. 2 Crónicas 24:12, 13",
+        "referencias_inline": [
+          "2 Crónicas 24:2",
+          "2 Crónicas 24:12,13"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Pero, el mal consejo le llegó a Joás y le hizo caso. (2 Crónicas 24:15-27) Sucedió que cuando murió Joiada lleno de días, a los 130 años, vinieron los príncipes de Judá y llenaron los oídos de Joás de mal y él los oyó. Ya Joás no necesitaría de la casa de Jehová para esconderse, pues Atalía no estaba. Pero, sí estaba la maldad dentro de él. Joás fue fiel hasta que estuvo vivo el sacerdote Joiada, varón justo. Ahora, sin aquella buena influencia, Joás se hizo un idólatra. Ya no tendría el favor de Dios quien lo protegió en su peor momento; Dios le enviaba profetas y no los escuchaba. Se llenó de maldad y mató a Zacarías, hijo de Joiada, el que le ayudó, que lo guió y dio su vida para protegerlo. Zacarías fue apedreado hasta la muerte por orden de Joás.",
+        "referencias_inline": [
+          "2 Crónicas 24:15-27"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Vino Siria y los destruyó a todos cuando Joás también estaba agobiado por sus dolencias. El mal le vino porque no se acordó de la misericordia que Joiada, padre de Zacarías, había hecho con él. Se habían criado juntos y cuidado juntos; pero las voces de los príncipes vanidosos fueron más para él que la voz del compañero profeta de Dios.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Joiada, después de vivir largos años, fue enterrado con todos los honores en la ciudad de David \"con los reyes.\" Aquel varón justo había hecho mucho bien para con Israel, para con Dios y con su casa. Mientras que Joás dejó su refugio, que era la casa de Dios dejando a Jehová su Dios. El mundo y la vanidad que escogió le trajeron una muerte temprana, deshonrosa y trágica. Aprendamos de esto y cuidemos nuestros pasos para nunca salir del amparo y refugio de la casa de Dios. Seamos fieles y justos como Joiada, y no unos malagradecidos y vanidosos como lo fue Joás al morir el sacerdote Joiada. Amén.",
+        "referencias_inline": []
+      }
+    ]
+  },
+  "busqueda": {
+    "texto_indexable": "el tabernaculo el refugio salmo 27 5 familia guia del espiritu santo bendicion juicio refugio jezabel aposento esconderse atalia era esposa de joram rey de juda esta mujer malvada tuvo una gran influencia sobre su hijo ocozias quien por sus horrendos consejos llego a matar a casi todos sus propios hermanos por causa de atalia ocozias llego a ser dominado por un espiritu como el del malvado acab rey de israel 2 cronicas 22 3 tambien el anduvo en los caminos de la casa de acab pues su madre le aconsejaba a que actuase impiamente ocozias por instancias de su madre mato a sus hermanos los principes menos a uno llamado joas que fue escondido y librado de la muerte atalia era hija de la perversa jezabel esposa del rey de israel acab habia en atalia la maldad de su madre y por eso provoco en su marido joram y en su hijo ocozias que mataran a casi todos los descendientes del rey david ella quiso destruir todo el trono de david no queriendo que otro reinara sobre la tierra de juda sino ella quien queria un templo para baal el falso Dios de los cananeos 2 cronicas 21 1 6 joram rey de juda fue guiado por atalia tal y como jezabel llevo a acab a hacer el mal joram tambien habia dado muerte a todos sus hermanos mataron a ocozias 2 cronicas 22 8 9 y haciendo juicio jehu contra la casa de acab hallo a los principes de juda y a los hijos de los hermanos de ocozias que servian a ocozias y los mato y buscando a ocozias el cual se habia escondido en samaria lo hallaron y lo trajeron a jehu y le mataron atalia quedo con deseo de venganza contra jehu ella queria reinar asi que se hizo una fiera debido a toda la ambicion que moraba en ella y mato a todos los que pudo 2 cronicas 22 10 entonces atalia madre de ocozias viendo que su hijo era muerto se levanto y destruyo toda la descendencia real de la casa de juda los principes de juda cayeron en las manos criminales de atalia habia que escapar de una persona tan perversa pero como escapar en aquel momento no habia ningun lugar seguro en juda donde alguien se pudiera esconder sin embargo se logro quitar de las manos de atalia a joas hijo de ocozias su tia josabet una hija de joram libro al nino de la muerte lo pudo ayudar en aquel dia malo escondiendolo en el tabernaculo 2 cronicas 22 11 12 pero josabet hija del rey tomo a joas hijo de ocozias y escondiendolo de entre los demas hijos del rey a los cuales mataban y le guardo a el y a su ama en uno de los aposentos asi lo escondio josabet hija del rey joram mujer del sacerdote joiada porque ella era hermana de ocozias de delante de atalia y no lo mataron y estuvo con ellos escondido en la casa de Dios seis anos atalia no queria que la familia de david sobreviviera a la suya pues sabia que jehu mandado por Dios iba a destruir a todos los de acab este es el triste fruto de la alianza desigual entre joram el hijo del piadoso josafat y atalia una hija de la casa idolatra y malvada de acab josabet era hija de joram por lo tanto era la tia de joas josabet escondio a joas en una de las recamaras del templo por seis anos ella era esposa del sacerdote joiada jamas penso atalia que el hijo del rey estuviese en un aposento del templo tampoco pudo pensar que de alli le llegaria su mal pensaba mato a todos y asi sere la reina estaba llena de vanidad y de arrogancia no sabia que del lugar mas austero le llegaria su final el pequeno joas estaba escondido en la camara de las camas en un lugar incomodo sin nada de lujos ni de grandes comidas no tenia alli las tunicas reales nada de que presumir ni sentirse grande el uso era para el sacerdote no era para el hijo del rey asi que joas tuvo que experimentar antes el ser siervo para poder conservar su vida estuvo en un pequeno cuarto donde se guardaban los colchones y lo de dormir no en un departamento seria el lugar mas indicado para reponerse de las heridas por la muerte de sus hermanos aquel cuartito fue el escondite para el nino real para ser librado de la maldad de aquella perversa mujer que de seguro lo mataria apliquemos ahora esto a nuestras vidas donde te escondes tu cuando el mal te quiere destruir te escapas o te escondes con tus propias fuerzas lejos del templo lejos de tu lugar de donde te viene tu guianza te viene del templo de tu lugar que Dios escogio para protegerte joas fue bendecido mientras fue sepultado vivo en la oscuridad el templo no es el lugar de la vanidad y de la vanagloria sino que es el lugar donde estan las paredes de la bendicion y de los cuidados que te guardan y protegen del diablo y del mal en ese tiempo el pueblo ya estaba harto de la tirania de atalia maduro el pueblo y quiso tener un rey que fuera dirigido por un sacerdote justo y asi poder vencer la idolatria 2 cronicas 24 2 e hizo joas lo recto ante los ojos de jehova todos los dias de joiada el sacerdote el sumo sacerdote joiada era un hombre de autoridad debido a su oficio estaba emparentado con la familia real su esposa josabet era hija de joram josabet pudo prestarle a joas el mejor servicio lo liberto de la usurpacion de atalia asi fue como joas tuvo la victoria y fue el rey a joas le fue de gran bendicion el templo pues fue escondido y protegido alli por eso cuando fue rey tomo la decision de restaurar la casa de jehova junto a joiada el sacerdote 2 cronicas 24 12 13 pero el mal consejo le llego a joas y le hizo caso 2 cronicas 24 15 27 sucedio que cuando murio joiada lleno de dias a los 130 anos vinieron los principes de juda y llenaron los oidos de joas de mal y el los oyo ya joas no necesitaria de la casa de jehova para esconderse pues atalia no estaba pero si estaba la maldad dentro de el joas fue fiel hasta que estuvo vivo el sacerdote joiada varon justo ahora sin aquella buena influencia joas se hizo un idolatra ya no tendria el favor de Dios quien lo protegio en su peor momento Dios le enviaba profetas y no los escuchaba se lleno de maldad y mato a zacarias hijo de joiada el que le ayudo que lo guio y dio su vida para protegerlo zacarias fue apedreado hasta la muerte por orden de joas vino siria y los destruyo a todos cuando joas tambien estaba agobiado por sus dolencias el mal le vino porque no se acordo de la misericordia que joiada padre de zacarias habia hecho con el se habian criado juntos y cuidado juntos pero las voces de los principes vanidosos fueron mas para el que la voz del companero profeta de Dios joiada despues de vivir largos anos fue enterrado con todos los honores en la ciudad de david con los reyes aquel varon justo habia hecho mucho bien para con israel para con Dios y con su casa mientras que joas dejo su refugio que era la casa de Dios dejando a jehova su Dios el mundo y la vanidad que escogio le trajeron una muerte temprana deshonrosa y tragica aprendamos de esto y cuidemos nuestros pasos para nunca salir del amparo y refugio de la casa de Dios seamos fieles y justos como joiada y no unos malagradecidos y vanidosos como lo fue joas al morir el sacerdote joiada amen",
+    "alias_busqueda": [
+      "El Tabernáculo, El Refugio",
+      "Salmos",
+      "Salmos 27",
+      "Salmos 27:5",
+      "juicio",
+      "refugio",
+      "Jezabel",
+      "aposento",
+      "Familia",
+      "Guía del Espíritu Santo"
+    ]
+  },
+  "revision_manual": {
+    "requiere_revision": false,
+    "motivo": ""
+  },
+  "ui": {
+    "mostrar_credito_en_header": true,
+    "mostrar_numero_estudio": true,
+    "mostrar_fecha": true,
+    "mostrar_topicos": true,
+    "permitir_favorito": true,
+    "permitir_compartir": true
+  }
+}

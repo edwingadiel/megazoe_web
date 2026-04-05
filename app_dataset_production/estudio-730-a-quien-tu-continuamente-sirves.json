@@ -1,0 +1,289 @@
+{
+  "id": "estudio-730-a-quien-tu-continuamente-sirves",
+  "slug": "estudio-730-a-quien-tu-continuamente-sirves",
+  "numero_estudio": 730,
+  "tipo_estudio": "Iglesia en las casas",
+  "ministerio": {
+    "iglesia": "Iglesia Cristiana Mega Zoe",
+    "pastora": "Pastora Edith Cruz",
+    "credito_corto": "Iglesia Cristiana Mega Zoe · Pastora Edith Cruz",
+    "credito_largo": "Contenido original de Iglesia Cristiana Mega Zoe, conservando el crédito ministerial correspondiente a la Pastora Edith Cruz."
+  },
+  "identidad_editorial": {
+    "idioma": "es",
+    "fuente_original": "documento_word",
+    "archivo_origen": "/Users/edwingadiel/Desktop/Estudios en Word/Estudio #730 A quien tú continuamente sirves - Daniel 6 15-22.docx",
+    "estado_revision": "procesado",
+    "version_schema": "1.0"
+  },
+  "encabezado": {
+    "titulo": "A Quien Tú Continuamente Sirves",
+    "subtitulo": null,
+    "cita_principal": "Daniel 6:15-22",
+    "resumen_corto": "A Quien Tú Continuamente Sirves enseña a perseverar en la oración y caminar con sabiduría espiritual."
+  },
+  "fechas": {
+    "fecha_inicio": null,
+    "fecha_fin": null,
+    "fecha_texto_original": "",
+    "ano": null
+  },
+  "clasificacion_biblica": {
+    "libro_principal": "Daniel",
+    "capitulo_principal": 6,
+    "versiculos_principales": [
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22
+    ],
+    "referencia_principal_normalizada": "Daniel 6:15-22",
+    "testamento_principal": "Antiguo Testamento"
+  },
+  "clasificacion_tematica": {
+    "topicos": [
+      "Oración",
+      "Sabiduría espiritual",
+      "Fidelidad de Dios",
+      "Tentación",
+      "Servicio cristiano"
+    ],
+    "keywords": [
+      "oración",
+      "arrepentimiento",
+      "soberbia",
+      "perseverancia",
+      "testimonio"
+    ]
+  },
+  "referencias_biblicas": [
+    {
+      "referencia": "Daniel 6:15-22",
+      "referencia_normalizada": "Daniel 6:15-22",
+      "libro": "Daniel",
+      "capitulo": 6,
+      "versiculos": [
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22
+      ],
+      "tipo": "principal",
+      "clickeable": true
+    },
+    {
+      "referencia": "Daniel 1:3-6",
+      "referencia_normalizada": "Daniel 1:3-6",
+      "libro": "Daniel",
+      "capitulo": 1,
+      "versiculos": [
+        3,
+        4,
+        5,
+        6
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Daniel 1:8",
+      "referencia_normalizada": "Daniel 1:8",
+      "libro": "Daniel",
+      "capitulo": 1,
+      "versiculos": [
+        8
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Daniel 4:7",
+      "referencia_normalizada": "Daniel 4:7",
+      "libro": "Daniel",
+      "capitulo": 4,
+      "versiculos": [
+        7
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Daniel 4:9",
+      "referencia_normalizada": "Daniel 4:9",
+      "libro": "Daniel",
+      "capitulo": 4,
+      "versiculos": [
+        9
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Daniel 4:25",
+      "referencia_normalizada": "Daniel 4:25",
+      "libro": "Daniel",
+      "capitulo": 4,
+      "versiculos": [
+        25
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Daniel 5:5-7",
+      "referencia_normalizada": "Daniel 5:5-7",
+      "libro": "Daniel",
+      "capitulo": 5,
+      "versiculos": [
+        5,
+        6,
+        7
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Daniel 5: 16,17",
+      "referencia_normalizada": "Daniel 5:16,17",
+      "libro": "Daniel",
+      "capitulo": 5,
+      "versiculos": [
+        16,
+        17
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Daniel 5:30,31",
+      "referencia_normalizada": "Daniel 5:30,31",
+      "libro": "Daniel",
+      "capitulo": 5,
+      "versiculos": [
+        30,
+        31
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Daniel 6:2-3",
+      "referencia_normalizada": "Daniel 6:2-3",
+      "libro": "Daniel",
+      "capitulo": 6,
+      "versiculos": [
+        2,
+        3
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Daniel 6:4, 7, 13",
+      "referencia_normalizada": "Daniel 6:4,7,13",
+      "libro": "Daniel",
+      "capitulo": 6,
+      "versiculos": [
+        4,
+        7,
+        13
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Daniel 6: 20,22",
+      "referencia_normalizada": "Daniel 6:20,22",
+      "libro": "Daniel",
+      "capitulo": 6,
+      "versiculos": [
+        20,
+        22
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    }
+  ],
+  "contenido": {
+    "introduccion": null,
+    "secciones": [],
+    "contenido_completo": "Daniel fue un noble joven, entre unos 12 a 15 años, quien fue llevado cautivo junto a sus compatriotas israelitas a Babilonia por el ejército del rey Nabucodonosor. Daniel entró a vivir en cautividad a una gran ciudad llena de grandeza y poderío. Claro, llegó encadenado como un esclavo con muchas humillaciones y grandes pérdidas materiales y sentimentales. Como él, todos aquellos israelitas llegaron a Babilonia con sus familias perdidas, sin propiedades, sin honra y todos los honores perdidos. Perdieron su amada tierra y su gran religión aprendida de lo recibido por Moisés. Su religión llevaba con ellos muchos siglos, muchos cientos de años. Sabían muy bien que la desobediencia a Dios había traído a su país la gran ruina y todas aquellas grandes vergüenzas. Daniel era un gran joven en su nación Israel (Daniel 1:3-6); era un muchacho en quien no había tacha alguna, bien parecido, lleno de sabiduría y ciencia, con mucho entendimiento. Fue seleccionado por orden de Nabucodonosor entre los demás jóvenes israelitas para estar en el palacio real en Babilonia. Fue escogido porque era alguien capaz de saber comportarse en aquel suntuoso palacio, y con el fin de que fuera enseñado y aprendiera la letra y la lengua de los caldeos. Ahora Daniel dejaría ver si era vanidoso o era un joven inflexible y tenaz para con su Dios. Por su conducta se sabría si allí había algo que lo llenara y él fuera capaz de dejar a su Dios por todo el gran brillo de aquella nación que se levantaba con mucho poderío. Estaría sirviendo al lado del rey Nabucodonosor durante unos largos 45 años en medio de grandes glorias humanas. Luego seguiría sirviendo bajo el gobierno de los demás reyes que vendrían y para quienes también trabajaría Daniel; ahora se sabría si lo haría para Dios o para él mismo.\n\nEl rey Nabucodonosor ostentaba el poder de dirigir el más grande imperio de su tiempo y aunque vivía lleno de ambición nunca pudo contaminar a Daniel con ninguno de sus ofrecimientos. Le ofreció las mejores comidas, pero Daniel se negó a comerlas por ser comidas inmundas para los israelitas; aquel joven no permitió que nada lo contaminara (Daniel 1:8). Era muy joven, pero muy inflexible a lo que él sabía que era Dios y cómo agradarle en su vida diaria. No quiso de ningún modo contaminarse con la espléndida comida del rey. Daniel se propuso en su corazón que no tendría contaminación con nada de lo vivido ahora en Babilonia. Dios lo estaría probando y formando en todo lo que ahora le tocaría vivir. Había un gran imperio de un rey impío, pero allí había un jovencito que llegaría a viejo sin claudicar. Daniel era como algunos lo comparan diciendo que: ¡tenía 2/3 partes de roble y lo demás de acero!\n\nEn la Biblia se lee de los sueños del rey Nabucodonosor. No hubo sabios, ni magos, ni astrólogos que le pudieran revelar al rey el significado de su sueño (Daniel 4:7). Nabucodonosor (Daniel 4:9) le pidió ayuda a Daniel para que le interpretara el sueño, pues reconocía que Daniel era un hombre con revelación de Dios a quien ningún misterio se le escondía. Nabucodonosor le contó el sueño a Daniel y éste le dio la interpretación. Dios le revelaba mediante aquel sueño las cosas terribles que le pasarían al rey en el futuro, por causa de su gran orgullo y ostentación al tener el imperio más grande del momento (Daniel 4:25). Así exactamente le pasó al rey Nabucodonosor. Daniel siguió siendo ese hombre inflexible a su creencia y fidelidad a su Dios. Murió Nabucodonosor y habían pasado más de 45 años de que Daniel y su pueblo estuvieran cautivos y siendo gobernados por aquel magnífico rey. Después de Nabucodonosor reinaron otros cinco reyes sucesores. El último de éstos, el rey Belsasar, quien tenía que buscar al que podría ayudarle en el nuevo gobierno y que fuera de confianza. Quién más, sino aquel mismo Daniel, ahora viejo, pero siempre fiel a sus reyes.\n\nAl rey Belsasar Dios también se le reveló mediante una escritura en la pared de su palacio real y nadie pudo interpretar lo escrito allí por el dedo de Dios (Daniel 5:5-7). Cuando Daniel es llevado al rey, éste le ofrece regalos para que le interprete la escritura en la pared, pero Daniel no quiere sus regalos (Daniel 5: 16,17). Daniel sigue siendo como un fuerte roble en sus más de 80 años de edad, no había quien lo doblara o postrara delante de la vanidad de aquel imperio impío. Esa misma noche fue muerto Belsasar, tal como lo interpretó Daniel. Entonces, Darío de Media tomó el reino (Daniel 5:30,31).\n\nDaniel continuó siendo el hombre fiel a estos nuevos reyes, ahora estaba con Darío y también fue muy apreciado y querido por este rey (Daniel 6:2-3). En este reino se juntaron unos hombres malvados contra Daniel y mediante una trampa lograron llevarlo al foso de los leones por orden del mismo Darío, aunque en contra de la voluntad del rey (Daniel 6:4, 7, 13). Querían acabar con el anciano que había sido durante toda su larga vida un hombre íntegro, firme y constante ante su Dios. Los demás gobernadores del reino de Darío, quienes habían organizado la trampa, sabían de la sabiduría e integridad de Daniel con su Dios y lo quisieron poner a prueba mediante una ley que prohibía orar a Jehová. Daniel abrió las ventanas para que todos lo vieran. Aquellas ventanas daban hacia su Jerusalén. No fue al rey a pedirle clemencia y abrió las ventanas de su cuarto orando tres veces al día. Allí lo estaban velando para acusarlo. Lo lograron acusar y le tocó la sentencia que el rey había firmado; un edicto, que cualquiera que pidiera oración a dioses u hombre que no fuera el rey fuera echado al foso de los leones. Darío no pudo dormir por su preocupación por aquel justo. En la mañana Darío va y le dice: \"…el Dios tuyo, a quien tú continuamente sirves, ¿te ha podido librar de los leones?\" \"Oh, rey vive para siempre…\", le responde un Daniel sin resentimiento (Daniel 6: 20,22). ¡Qué fe, qué valor, que anciano tan valeroso! Le contesta: \"Mi Dios envió su ángel, el cual cerró la boca de los leones para que no me hiciesen daño, porque ante él fui hallado inocente.\" El rey se alegró, porque en su conciencia no quería tener ese peso de algo tan injusto como ver morir de esa manera a un anciano que caminaba con Dios. Hacerle algo a aquel anciano era como hacerlo al mismo Dios que lo llamó y que lo había convertido en un maravilloso instrumento de Él. Daniel fue fiel a reyes como Nabucodonosor y Darío. Siendo estos reyes unos idólatras, el testimonio de Daniel y su vida con Dios los llevó a ellos a estimarlo y amarlo. Nabucodonosor, por ejemplo, al final de sus días dijo: \"Engrandezco y glorifico al rey del cielo porque todas sus obras son verdaderas y sus caminos justos y Él puede humillar a los que andan en soberbia.\" Daniel era inflexible siendo fiel a su Dios y así dejó huellas en las vidas de muchos. ¿Y tú, continuamente sirves a Dios como lo hizo Daniel? Amén.",
+    "contenido_renderizado": [
+      {
+        "tipo": "parrafo",
+        "texto": "Daniel fue un noble joven, entre unos 12 a 15 años, quien fue llevado cautivo junto a sus compatriotas israelitas a Babilonia por el ejército del rey Nabucodonosor. Daniel entró a vivir en cautividad a una gran ciudad llena de grandeza y poderío. Claro, llegó encadenado como un esclavo con muchas humillaciones y grandes pérdidas materiales y sentimentales. Como él, todos aquellos israelitas llegaron a Babilonia con sus familias perdidas, sin propiedades, sin honra y todos los honores perdidos. Perdieron su amada tierra y su gran religión aprendida de lo recibido por Moisés. Su religión llevaba con ellos muchos siglos, muchos cientos de años. Sabían muy bien que la desobediencia a Dios había traído a su país la gran ruina y todas aquellas grandes vergüenzas. Daniel era un gran joven en su nación Israel (Daniel 1:3-6); era un muchacho en quien no había tacha alguna, bien parecido, lleno de sabiduría y ciencia, con mucho entendimiento. Fue seleccionado por orden de Nabucodonosor entre los demás jóvenes israelitas para estar en el palacio real en Babilonia. Fue escogido porque era alguien capaz de saber comportarse en aquel suntuoso palacio, y con el fin de que fuera enseñado y aprendiera la letra y la lengua de los caldeos. Ahora Daniel dejaría ver si era vanidoso o era un joven inflexible y tenaz para con su Dios. Por su conducta se sabría si allí había algo que lo llenara y él fuera capaz de dejar a su Dios por todo el gran brillo de aquella nación que se levantaba con mucho poderío. Estaría sirviendo al lado del rey Nabucodonosor durante unos largos 45 años en medio de grandes glorias humanas. Luego seguiría sirviendo bajo el gobierno de los demás reyes que vendrían y para quienes también trabajaría Daniel; ahora se sabría si lo haría para Dios o para él mismo.",
+        "referencias_inline": [
+          "Daniel 1:3-6"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "El rey Nabucodonosor ostentaba el poder de dirigir el más grande imperio de su tiempo y aunque vivía lleno de ambición nunca pudo contaminar a Daniel con ninguno de sus ofrecimientos. Le ofreció las mejores comidas, pero Daniel se negó a comerlas por ser comidas inmundas para los israelitas; aquel joven no permitió que nada lo contaminara (Daniel 1:8). Era muy joven, pero muy inflexible a lo que él sabía que era Dios y cómo agradarle en su vida diaria. No quiso de ningún modo contaminarse con la espléndida comida del rey. Daniel se propuso en su corazón que no tendría contaminación con nada de lo vivido ahora en Babilonia. Dios lo estaría probando y formando en todo lo que ahora le tocaría vivir. Había un gran imperio de un rey impío, pero allí había un jovencito que llegaría a viejo sin claudicar. Daniel era como algunos lo comparan diciendo que: ¡tenía 2/3 partes de roble y lo demás de acero!",
+        "referencias_inline": [
+          "Daniel 1:8"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "En la Biblia se lee de los sueños del rey Nabucodonosor. No hubo sabios, ni magos, ni astrólogos que le pudieran revelar al rey el significado de su sueño (Daniel 4:7). Nabucodonosor (Daniel 4:9) le pidió ayuda a Daniel para que le interpretara el sueño, pues reconocía que Daniel era un hombre con revelación de Dios a quien ningún misterio se le escondía. Nabucodonosor le contó el sueño a Daniel y éste le dio la interpretación. Dios le revelaba mediante aquel sueño las cosas terribles que le pasarían al rey en el futuro, por causa de su gran orgullo y ostentación al tener el imperio más grande del momento (Daniel 4:25). Así exactamente le pasó al rey Nabucodonosor. Daniel siguió siendo ese hombre inflexible a su creencia y fidelidad a su Dios. Murió Nabucodonosor y habían pasado más de 45 años de que Daniel y su pueblo estuvieran cautivos y siendo gobernados por aquel magnífico rey. Después de Nabucodonosor reinaron otros cinco reyes sucesores. El último de éstos, el rey Belsasar, quien tenía que buscar al que podría ayudarle en el nuevo gobierno y que fuera de confianza. Quién más, sino aquel mismo Daniel, ahora viejo, pero siempre fiel a sus reyes.",
+        "referencias_inline": [
+          "Daniel 4:7",
+          "Daniel 4:9",
+          "Daniel 4:25"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Al rey Belsasar Dios también se le reveló mediante una escritura en la pared de su palacio real y nadie pudo interpretar lo escrito allí por el dedo de Dios (Daniel 5:5-7). Cuando Daniel es llevado al rey, éste le ofrece regalos para que le interprete la escritura en la pared, pero Daniel no quiere sus regalos (Daniel 5: 16,17). Daniel sigue siendo como un fuerte roble en sus más de 80 años de edad, no había quien lo doblara o postrara delante de la vanidad de aquel imperio impío. Esa misma noche fue muerto Belsasar, tal como lo interpretó Daniel. Entonces, Darío de Media tomó el reino (Daniel 5:30,31).",
+        "referencias_inline": [
+          "Daniel 5:5-7",
+          "Daniel 5:16,17",
+          "Daniel 5:30,31"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Daniel continuó siendo el hombre fiel a estos nuevos reyes, ahora estaba con Darío y también fue muy apreciado y querido por este rey (Daniel 6:2-3). En este reino se juntaron unos hombres malvados contra Daniel y mediante una trampa lograron llevarlo al foso de los leones por orden del mismo Darío, aunque en contra de la voluntad del rey (Daniel 6:4, 7, 13). Querían acabar con el anciano que había sido durante toda su larga vida un hombre íntegro, firme y constante ante su Dios. Los demás gobernadores del reino de Darío, quienes habían organizado la trampa, sabían de la sabiduría e integridad de Daniel con su Dios y lo quisieron poner a prueba mediante una ley que prohibía orar a Jehová. Daniel abrió las ventanas para que todos lo vieran. Aquellas ventanas daban hacia su Jerusalén. No fue al rey a pedirle clemencia y abrió las ventanas de su cuarto orando tres veces al día. Allí lo estaban velando para acusarlo. Lo lograron acusar y le tocó la sentencia que el rey había firmado; un edicto, que cualquiera que pidiera oración a dioses u hombre que no fuera el rey fuera echado al foso de los leones. Darío no pudo dormir por su preocupación por aquel justo. En la mañana Darío va y le dice: \"…el Dios tuyo, a quien tú continuamente sirves, ¿te ha podido librar de los leones?\" \"Oh, rey vive para siempre…\", le responde un Daniel sin resentimiento (Daniel 6: 20,22). ¡Qué fe, qué valor, que anciano tan valeroso! Le contesta: \"Mi Dios envió su ángel, el cual cerró la boca de los leones para que no me hiciesen daño, porque ante él fui hallado inocente.\" El rey se alegró, porque en su conciencia no quería tener ese peso de algo tan injusto como ver morir de esa manera a un anciano que caminaba con Dios. Hacerle algo a aquel anciano era como hacerlo al mismo Dios que lo llamó y que lo había convertido en un maravilloso instrumento de Él. Daniel fue fiel a reyes como Nabucodonosor y Darío. Siendo estos reyes unos idólatras, el testimonio de Daniel y su vida con Dios los llevó a ellos a estimarlo y amarlo. Nabucodonosor, por ejemplo, al final de sus días dijo: \"Engrandezco y glorifico al rey del cielo porque todas sus obras son verdaderas y sus caminos justos y Él puede humillar a los que andan en soberbia.\" Daniel era inflexible siendo fiel a su Dios y así dejó huellas en las vidas de muchos. ¿Y tú, continuamente sirves a Dios como lo hizo Daniel? Amén.",
+        "referencias_inline": [
+          "Daniel 6:2-3",
+          "Daniel 6:4,7,13",
+          "Daniel 6:20,22"
+        ]
+      }
+    ]
+  },
+  "busqueda": {
+    "texto_indexable": "a quien tu continuamente sirves daniel 6 15 22 oracion sabiduria espiritual fidelidad de Dios tentacion servicio cristiano oracion arrepentimiento soberbia perseverancia testimonio daniel fue un noble joven entre unos 12 a 15 anos quien fue llevado cautivo junto a sus compatriotas israelitas a babilonia por el ejercito del rey nabucodonosor daniel entro a vivir en cautividad a una gran ciudad llena de grandeza y poderio claro llego encadenado como un esclavo con muchas humillaciones y grandes perdidas materiales y sentimentales como el todos aquellos israelitas llegaron a babilonia con sus familias perdidas sin propiedades sin honra y todos los honores perdidos perdieron su amada tierra y su gran religion aprendida de lo recibido por moises su religion llevaba con ellos muchos siglos muchos cientos de anos sabian muy bien que la desobediencia a Dios habia traido a su pais la gran ruina y todas aquellas grandes verguenzas daniel era un gran joven en su nacion israel daniel 1 3 6 era un muchacho en quien no habia tacha alguna bien parecido lleno de sabiduria y ciencia con mucho entendimiento fue seleccionado por orden de nabucodonosor entre los demas jovenes israelitas para estar en el palacio real en babilonia fue escogido porque era alguien capaz de saber comportarse en aquel suntuoso palacio y con el fin de que fuera ensenado y aprendiera la letra y la lengua de los caldeos ahora daniel dejaria ver si era vanidoso o era un joven inflexible y tenaz para con su Dios por su conducta se sabria si alli habia algo que lo llenara y el fuera capaz de dejar a su Dios por todo el gran brillo de aquella nacion que se levantaba con mucho poderio estaria sirviendo al lado del rey nabucodonosor durante unos largos 45 anos en medio de grandes glorias humanas luego seguiria sirviendo bajo el gobierno de los demas reyes que vendrian y para quienes tambien trabajaria daniel ahora se sabria si lo haria para Dios o para el mismo el rey nabucodonosor ostentaba el poder de dirigir el mas grande imperio de su tiempo y aunque vivia lleno de ambicion nunca pudo contaminar a daniel con ninguno de sus ofrecimientos le ofrecio las mejores comidas pero daniel se nego a comerlas por ser comidas inmundas para los israelitas aquel joven no permitio que nada lo contaminara daniel 1 8 era muy joven pero muy inflexible a lo que el sabia que era Dios y como agradarle en su vida diaria no quiso de ningun modo contaminarse con la esplendida comida del rey daniel se propuso en su corazon que no tendria contaminacion con nada de lo vivido ahora en babilonia Dios lo estaria probando y formando en todo lo que ahora le tocaria vivir habia un gran imperio de un rey impio pero alli habia un jovencito que llegaria a viejo sin claudicar daniel era como algunos lo comparan diciendo que tenia 2 3 partes de roble y lo demas de acero en la biblia se lee de los suenos del rey nabucodonosor no hubo sabios ni magos ni astrologos que le pudieran revelar al rey el significado de su sueno daniel 4 7 nabucodonosor daniel 4 9 le pidio ayuda a daniel para que le interpretara el sueno pues reconocia que daniel era un hombre con revelacion de Dios a quien ningun misterio se le escondia nabucodonosor le conto el sueno a daniel y este le dio la interpretacion Dios le revelaba mediante aquel sueno las cosas terribles que le pasarian al rey en el futuro por causa de su gran orgullo y ostentacion al tener el imperio mas grande del momento daniel 4 25 asi exactamente le paso al rey nabucodonosor daniel siguio siendo ese hombre inflexible a su creencia y fidelidad a su Dios murio nabucodonosor y habian pasado mas de 45 anos de que daniel y su pueblo estuvieran cautivos y siendo gobernados por aquel magnifico rey despues de nabucodonosor reinaron otros cinco reyes sucesores el ultimo de estos el rey belsasar quien tenia que buscar al que podria ayudarle en el nuevo gobierno y que fuera de confianza quien mas sino aquel mismo daniel ahora viejo pero siempre fiel a sus reyes al rey belsasar Dios tambien se le revelo mediante una escritura en la pared de su palacio real y nadie pudo interpretar lo escrito alli por el dedo de Dios daniel 5 5 7 cuando daniel es llevado al rey este le ofrece regalos para que le interprete la escritura en la pared pero daniel no quiere sus regalos daniel 5 16 17 daniel sigue siendo como un fuerte roble en sus mas de 80 anos de edad no habia quien lo doblara o postrara delante de la vanidad de aquel imperio impio esa misma noche fue muerto belsasar tal como lo interpreto daniel entonces dario de media tomo el reino daniel 5 30 31 daniel continuo siendo el hombre fiel a estos nuevos reyes ahora estaba con dario y tambien fue muy apreciado y querido por este rey daniel 6 2 3 en este reino se juntaron unos hombres malvados contra daniel y mediante una trampa lograron llevarlo al foso de los leones por orden del mismo dario aunque en contra de la voluntad del rey daniel 6 4 7 13 querian acabar con el anciano que habia sido durante toda su larga vida un hombre integro firme y constante ante su Dios los demas gobernadores del reino de dario quienes habian organizado la trampa sabian de la sabiduria e integridad de daniel con su Dios y lo quisieron poner a prueba mediante una ley que prohibia orar a jehova daniel abrio las ventanas para que todos lo vieran aquellas ventanas daban hacia su jerusalen no fue al rey a pedirle clemencia y abrio las ventanas de su cuarto orando tres veces al dia alli lo estaban velando para acusarlo lo lograron acusar y le toco la sentencia que el rey habia firmado un edicto que cualquiera que pidiera oracion a dioses u hombre que no fuera el rey fuera echado al foso de los leones dario no pudo dormir por su preocupacion por aquel justo en la manana dario va y le dice el Dios tuyo a quien tu continuamente sirves te ha podido librar de los leones oh rey vive para siempre le responde un daniel sin resentimiento daniel 6 20 22 que fe que valor que anciano tan valeroso le contesta mi Dios envio su angel el cual cerro la boca de los leones para que no me hiciesen dano porque ante el fui hallado inocente el rey se alegro porque en su conciencia no queria tener ese peso de algo tan injusto como ver morir de esa manera a un anciano que caminaba con Dios hacerle algo a aquel anciano era como hacerlo al mismo Dios que lo llamo y que lo habia convertido en un maravilloso instrumento de el daniel fue fiel a reyes como nabucodonosor y dario siendo estos reyes unos idolatras el testimonio de daniel y su vida con Dios los llevo a ellos a estimarlo y amarlo nabucodonosor por ejemplo al final de sus dias dijo engrandezco y glorifico al rey del cielo porque todas sus obras son verdaderas y sus caminos justos y el puede humillar a los que andan en soberbia daniel era inflexible siendo fiel a su Dios y asi dejo huellas en las vidas de muchos y tu continuamente sirves a Dios como lo hizo daniel amen",
+    "alias_busqueda": [
+      "A Quien Tú Continuamente Sirves",
+      "Daniel",
+      "Daniel 6",
+      "Daniel 6:15-22",
+      "oración",
+      "arrepentimiento",
+      "soberbia",
+      "perseverancia",
+      "Sabiduría espiritual"
+    ]
+  },
+  "revision_manual": {
+    "requiere_revision": false,
+    "motivo": ""
+  },
+  "ui": {
+    "mostrar_credito_en_header": true,
+    "mostrar_numero_estudio": true,
+    "mostrar_fecha": true,
+    "mostrar_topicos": true,
+    "permitir_favorito": true,
+    "permitir_compartir": true
+  }
+}

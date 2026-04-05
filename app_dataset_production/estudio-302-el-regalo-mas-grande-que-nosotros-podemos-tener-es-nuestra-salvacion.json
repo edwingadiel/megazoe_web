@@ -1,0 +1,302 @@
+{
+  "id": "estudio-302-el-regalo-mas-grande-que-nosotros-podemos-tener-es-nuestra-salvacion",
+  "slug": "estudio-302-el-regalo-mas-grande-que-nosotros-podemos-tener-es-nuestra-salvacion",
+  "numero_estudio": 302,
+  "tipo_estudio": "Iglesia en las casas",
+  "ministerio": {
+    "iglesia": "Iglesia Cristiana Mega Zoe",
+    "pastora": "Pastora Edith Cruz",
+    "credito_corto": "Iglesia Cristiana Mega Zoe · Pastora Edith Cruz",
+    "credito_largo": "Contenido original de Iglesia Cristiana Mega Zoe, conservando el crédito ministerial correspondiente a la Pastora Edith Cruz."
+  },
+  "identidad_editorial": {
+    "idioma": "es",
+    "fuente_original": "documento_word",
+    "archivo_origen": "/Users/edwingadiel/Desktop/Estudios en Word/Estudio #302 El regalo más grande que nosotros podemos tener es nuestra salvación - Hebreos 2 1-3.doc",
+    "estado_revision": "procesado",
+    "version_schema": "1.0"
+  },
+  "encabezado": {
+    "titulo": "El Regalo Más Grande Que Nosotros Podemos Tener Es Nuestra Salvación",
+    "subtitulo": null,
+    "cita_principal": "Hebreos 2:1-3",
+    "resumen_corto": "El Regalo Más Grande Que Nosotros Podemos Tener Es Nuestra Salvación enseña a vivir con la mirada puesta en la vida eterna y permanecer como discípulos de Jesús."
+  },
+  "fechas": {
+    "fecha_inicio": "2003-06-10",
+    "fecha_fin": "2003-06-16",
+    "fecha_texto_original": "SEMANA DEL 10 @ 16 DE JUNIO DE 2003",
+    "ano": 2003
+  },
+  "clasificacion_biblica": {
+    "libro_principal": "Hebreos",
+    "capitulo_principal": 2,
+    "versiculos_principales": [
+      1,
+      2,
+      3
+    ],
+    "referencia_principal_normalizada": "Hebreos 2:1-3",
+    "testamento_principal": "Nuevo Testamento"
+  },
+  "clasificacion_tematica": {
+    "topicos": [
+      "Salvación",
+      "Vida eterna",
+      "Satanás",
+      "Discipulado"
+    ],
+    "keywords": [
+      "vida eterna",
+      "santidad",
+      "juicio",
+      "salvación",
+      "mundo",
+      "evangelio",
+      "escrituras",
+      "arca"
+    ]
+  },
+  "referencias_biblicas": [
+    {
+      "referencia": "Hebreos 2: 1-3",
+      "referencia_normalizada": "Hebreos 2:1-3",
+      "libro": "Hebreos",
+      "capitulo": 2,
+      "versiculos": [
+        1,
+        2,
+        3
+      ],
+      "tipo": "principal",
+      "clickeable": true
+    },
+    {
+      "referencia": "1 Timoteo 2: 4,5,6",
+      "referencia_normalizada": "1 Timoteo 2:4,5,6",
+      "libro": "1 Timoteo",
+      "capitulo": 2,
+      "versiculos": [
+        4,
+        5,
+        6
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "1 Pedro 5: 8",
+      "referencia_normalizada": "1 Pedro 5:8",
+      "libro": "1 Pedro",
+      "capitulo": 5,
+      "versiculos": [
+        8
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Romanos 5: 17",
+      "referencia_normalizada": "Romanos 5:17",
+      "libro": "Romanos",
+      "capitulo": 5,
+      "versiculos": [
+        17
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Lucas 17: 36",
+      "referencia_normalizada": "Lucas 17:36",
+      "libro": "Lucas",
+      "capitulo": 17,
+      "versiculos": [
+        36
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "1 Corintios 15: 52",
+      "referencia_normalizada": "1 Corintios 15:52",
+      "libro": "1 Corintios",
+      "capitulo": 15,
+      "versiculos": [
+        52
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Hebreos 2: 3",
+      "referencia_normalizada": "Hebreos 2:3",
+      "libro": "Hebreos",
+      "capitulo": 2,
+      "versiculos": [
+        3
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Mateo 12: 43-45",
+      "referencia_normalizada": "Mateo 12:43-45",
+      "libro": "Mateo",
+      "capitulo": 12,
+      "versiculos": [
+        43,
+        44,
+        45
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "1 Juan 5: 13",
+      "referencia_normalizada": "1 Juan 5:13",
+      "libro": "1 Juan",
+      "capitulo": 5,
+      "versiculos": [
+        13
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Hebreos 10: 28, 29",
+      "referencia_normalizada": "Hebreos 10:28,29",
+      "libro": "Hebreos",
+      "capitulo": 10,
+      "versiculos": [
+        28,
+        29
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Marcos 9: 42-44",
+      "referencia_normalizada": "Marcos 9:42-44",
+      "libro": "Marcos",
+      "capitulo": 9,
+      "versiculos": [
+        42,
+        43,
+        44
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Romanos 10:10",
+      "referencia_normalizada": "Romanos 10:10",
+      "libro": "Romanos",
+      "capitulo": 10,
+      "versiculos": [
+        10
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Filipenses 2:12",
+      "referencia_normalizada": "Filipenses 2:12",
+      "libro": "Filipenses",
+      "capitulo": 2,
+      "versiculos": [
+        12
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    }
+  ],
+  "contenido": {
+    "introduccion": null,
+    "secciones": [],
+    "contenido_completo": "Hebreos 2: 1-3 Cuando yo (la Pastora) estaba estudiando las Escrituras sobre la salvación, con lo más que pude identificarme fue con el amor y cuido de un bebé. Nuestra salvación hay que cuidarla como se cuida a un pequeño bebé. Los que han tenido a su cuidado un bebé saben que hay que darle todo tipo de atención. Las madres, quienes cuidan con esmero a sus niños, los protegen, le dan sus comidas, etc. Ellas tienen una medida alta de cuido con sus hijos porque son lo más importante en sus vidas. En una enfermedad del niño, uno no busca a nadie para que se lo cuide, sino que uno mismo lo cuida. Los hijos se cuidan con todas las fuerzas porque son nuestros. Así, la salvación es, mi hermano, lo más importante que tú puedes tener. (¡Espero que ya la hayas obtenido!) Pero, ¿Qué sucede? ¿Por qué el diablo quisiera quitártela a ti, robarte lo que es la salvación? Sencillo, porque es el más grande regalo no merecido, dado por Dios a los hombres de la Tierra. 1 Timoteo 2: 4,5,6 Ese regalo hay que cuidarlo, velarlo, celarlo, no dejar que se dañe o muera porque entonces perderíamos mucho. Es lo más importante que puede tener un hombre en la Tierra; tú puedes tener todo, pero lo único que te permite llegar al Cielo es si estás marcado con salvación. La salvación es lo más grande del mundo. Tal vez tengas otras cosas, ministerios, prediques, tengas poder, dinero, pero lo más importante es tu salvación, porque el día que se pierde se pierde la vida. El Enemigo (1 Pedro 5: 8) quisiera robarte tu salvación pues como él lo perdió todo, quiere que tú también lo pierdas todo. Se nos puede quitar la salvación si llega un día en que nosotros mismos digamos: ¡Ya basta!, y la abandonamos, buscando una razón impropia y tratando de que el mundo nos la justifique. Nunca nadie tendrá la razón como para pensar en que perderá la salvación, la salvación se cuida, se cela. Hay que considerar que la salvación no te la dió una iglesia, ni un predicador. Hay quienes se apartan porque el que lo trajo al Señor se apartó. ¿Cómo si el que te trajo al Señor fue el que te regaló la salvación? Nos dió la salvación, ¡nuestro Señor Jesús! Lo hizo através de una muerte sangrienta, es un regalo que es un don de Dios. Romanos 5: 17 Todo lo que Él padeció fue para regalarme a mí una gloriosa salvación. El regalo más grande, el que nunca se termina, del que nunca uno se cansa, una salvación para que tú seas hijo, una salvación para que tú camines en esta Tierra con dignidad. Tus manos van cargando una salvación, tu cuerpo va cargando una salvación, de cabeza a pies tú llevas un regalo demasiado grande. Así que jugar con ella, ¡es un gran peligro! ¿Cómo tú y yo vamos a escapar del Infierno ardiente si no le prestamos la atención debida a lo que es nuestra salvación? Ella nos acompaña las 24 horas del día. Está mientras tú caminas en el día, está en tu noche, está en tu trabajo, está cuando estás con tu familia; siempre te acompaña porque ese es el sello que está sobre ti cuando Él venga a buscar a los suyos. Lucas 17: 36; 1 Corintios 15: 52 ¿Y qué si Jesús le diese con venir de momento? Eso es lo que te va a levantar a ti, tu salvación. Si mueres hoy, es la salvación la que te va a permitir entrar a todo lo que son las promesas de Dios. Si nosotros perdemos la salvación perdemos al Espíritu Santo, perdemos el motivo de vivir, perdemos la felicidad, la comunión con el Padre y entonces no hay quien nos soporte. Hebreos 2: 3 Si un día decimos, \"¡Bueno, ya yo me cansé, todo me molesta, voy a soltar la salvación y me voy a quedar en casa durmiendo! ¡No voy a ir a la iglesia, y que ningún hermano me llame!\" Tal vez piensas que se te pudiera respetar tu espacio y tu voluntad atrevida, pero si lo hiciéramos, es lo mismo que decirte: ¡Muérete! Porque a la vez que la salvación abandone tu alma, como antes de la salvación era un sólo demonio el que te poseía, ahora si te apartas ese que se había marchado dice: ¡Vengan que la casa está limpia! Y entonces siete más vendrán a tu vida a destruírte. ¿No es eso lo peor que podría pasarte? Mateo 12: 43-45 Si la salvación nos abandonara, es porque, sencillamente, la hemos descuidado. Si soltamos nuestra salvación entramos a condenación del alma. Por eso, no la descuides por nada del mundo. ¡Con la salvación, un día tú y yo vamos a llegar a Dios! Hagamos memoria y veamos las razones por las que llegamos un día a la iglesia. Mira lo hermoso, quizá alguien te dijo, \"Ven vamos a la iglesia.\" Y eso nos hizo llegar y sentarnos…nos metimos en medio de gente desconocida. Lo menos que podías pensar era que había un regalo para ti muy grande, muy hermoso, que te iba ser dado por Dios, ¡esta salvación! Ahora, esta razón grande es la que te permite seguir congregándote, es la que te hace llegar hasta la iglesia buscando como vivir tu vida en santidad, para que tu vida sea santa. Todo, porque tienes una marca sobre tu vida, algo de Dios dentro de ti que te llena. Entonces, ¿Cómo vamos a tomar esta salvación y la vamos a tirar y la vamos a burlar? Por eso, tus pies no pueden ir donde iban antes porque sobre ti está la salvación. No puedes pensar como pensabas antes, ni hablar todo lo que antes se te antojaba por tu boca. No puedo estar peleando con los demás y haciendo mal porque sobre uno pesa una salvación. Lo que se llama profesión de fe, es que llegué y acepté al Señor Jesucristo como mi salvador. Fue que llegué al altar y había para mí un regalo grandote, que se llama salvación, ¡VIDA ETERNA! 1 Juan 5: 13 ¡Entonces, es para cuidarla con pasión! Hay personas que no les importa la salvación, que dicen: \"Yo no necesito ser salvo, a mi Dios no me interesa.\" No es que no le interese Dios, es que Satanás le está esperando para torturarlo. Es que se van a encontrar con un Infierno. El Padre prepara una salvación la cual la da por el Hijo. ¿Cómo nosotros vamos a escapar si la tomamos por poco, por nada? Hebreos 10: 28, 29 Por eso es que mi salvación son los siete días de la semana, no la dejo en mi cuarto, ni en el asiento de la iglesia. ¿Cuánto es de peso en tu vida lo que es salvación? ¿Cuánto te importa la salvación que tienes? ¿Alguna vez has pensado, \"Tengo un gran tesoro, pero si no lo cuido, si no lo celo, ¿lo puedo perder?\" Tú la alcanzas y pronto va a venir alguien a tratar de robártela y te va a decir: \"¡Tonto! Te metiste a la religión.\" Y es que el diablo quiere llevarte al Infierno donde hay un gusano que no muere. Marcos 9: 42-44 Cuídate mucho, porque por descuidar una salvación tan grande a muchos se les echará allá donde está la tortura. Porque en un momento dado, se nos va a resucitar a todos para presentarnos delante del Padre, y los libros serán abiertos y ese día se dirá todo y se conocerá el porqué muchos perdieron la salvación. Seguramente, por no haber vencido al diablo, por no haber resistido. Amar a este mundo nos lleva a una condenación eterna donde habrá tortura por la eternidad por no cuidar la salvación y por no morir a uno mismo, al ego, al yo. Ama la salvación que se te ha dado. Cuida más que otra cosa tu salvación con todas tus fuerzas. Ama a tu Salvador. ¡Amén!\n\nSi nosotoros tomamos esta salvación y decimos por qué yo tengo que amar, entonces comenzamos a descuidar una salvación tan grande y a veces pensamos que ya la tenemos segura, a veces nos damos de enojados y decimos ya yo tengo la salvación, yo no tengo porque orar, yo no tengo nada porque batallar, ya yo tengo la salvación y no tengo porque esforzarme… Cómo hemos de escapar, si decimos yo voy a descuidar la salvación… Si por algo yo lucho (la Pastora) es por la salvación porque ella es la que me va a llevar a Dios mi salvación es la que me va a llevar a ver a Dios cara a cara. Nuestros actos, nuestros hechos, lo que decimos con nuestra boca, lo que nos condena a nosotros es la boca porque de la abundancia del corazón suelta la boca y esta boca dice tantas cosas… Si tú descuidas esta salvación tan grande cómo hemos de escapar de los juicios, ¿cómo? Si nosotros no tomamos en peso la salvación, si yo descuido yendo donde no debo ir, si yo descuido cómo voy a escapar de los juicios. La salvación hay que cuidarla. Vamos a presentar la salvación tal cual es… Es importante saber que cuando tú agarres la salvación sepas que hay que cuidarla. Cada cual hemos de cuidar nuestra salvación… La salvación tuya la cuidas tú porque el juicio es para aquel que no cuide, cómo hemos de escapar… Si el pueblo que era escogido por Dios que era el pueblo de Israel que era la nación de Dios, Dios no se lo perdonó cómo escaparemos tú y yo que somos gentiles, que somos una rama injertada que no era para ti ni era para mí que no es peor el asunto nuestro, que no tenemos que cuidarla más esta salvación que hay que celarla más, que la salvación es lo más grande que podemos tener, es lo más grande que podemos alcanzar aquí en la tierra es un gran tesoro la salvación, pero cuando uno agarra la salvación nadie me la puede quitar, nadie, nadie, y no es que nadie me la va aquitar es que yo la tengo que cuidar, yo la tengo que conservar es un gran tesoro, llegó a mi vida porque al Padre le plació llamarme. ¿Por qué la terquedad?, ¿por qué se nos pone el corazón duro?, ¿por qué contender?, ¿por qué hay que pelear?, ¿por qué nos tienen que rogar que busquemos del Señor?\n\nCuando nosotros recibimos la salvación, llega el Espíritu Santo que nos dice sí, nos dice no, porque hermano hay que acomodar el evangelio, porque las iglesias traen tantas novedades para que amen esta salvación; es porque desconocemos lo que es el gran tesoro de la salvación. Es un gran tesoro que nos llega a todos para que lo cuidemos. Este evangelio que fue anunciado por nuestro Señor Jesús, empezó con Jesús luego al lado de él hay unos discípulos, esos 12 hombres. Uno, Judas, prefirió morir que la vida eterna. Jesús viene predica el evangelio, los discípulos lo siguen proclamando, el Espíritu Santo ha conservado lo que es este mensaje y ha sido llevado por todas las naciones de la tierra… El Espíritu Santo lo ha cuidado para que tú tuvieras una salvación, y no la dejarás. Todos tenemos circunstancias, hoy estamos contentos, mañana no, pero la salvación hay que cuidarla, sobretodo como la vamos a descuidar. Dios conserva este mensaje para salvación de los hombres. Cuidémosla porque si para los israelitas, para los judíos que era el bien y no lo quisieron, no será menor el castigo nuestro. Si el Padre ha ordenado desde el cielo que su Hijo sea el que viniése aquí para dar su sangre por nosotros, nada a detenido este mensaje, ni el comunismo, ni las divisiones de las iglesias, ni las contiendas de las iglesias, ni los problemas de los hermanos de la iglesia, ni cuando los hermanos se molestan; nada ha detenido este mensaje desde que Jesús lo comenzó, hoy este evangelio todavía está activo, esta salvación todavía se está presentando. Nadie la detiene, pero tú la debes cuidar.\n\nA veces el joven piensa que no es nada, durante la semana fornica, estuvieron con impíos haciendo pecado y luego va el domingo a la iglsia, se está bachateando con esta salvación, se burla, un regalo que nosotros no nos merecíamos. Al que le tocó la salvación, al que le llegó la salvación, cuídala. Romanos 10:10 Cuando la salvación llega a tu vida de verdad tú tienes que decirlo a otros. Con tu boca se confiesa para salvación, a tu vida a tu corazón llegó una salvación. Nuestros labios hablan de esto tan grande que ha surgido en nuestras vidas, desde que llegó la salvación nuestra boca lo tiene que decir, nuestros labios lo tienen que confesar, todo el mundo tiene que saber que ya no somos la misma persona. Llegó la salvación yo confieso llegó mi salvación. Es un regalo dado ya… Nuestra boca dirá que a nuestras vidas llegó la salvación, que hay una convicción de esta verdad, esto es una verdad dentro de uno, esto es una verdad y sobre esta verdad no hay otra cosa, no es cuestión de religión, es que nos llegó la salvación, es que llegó la verdad, que ya no eres ciego, que no hay un infierno que me espera… Esta salvación nadie me la va a quitar, nadie me la va a robar, con mi boca es que diré que ya no hay en nosotros tinieblas que en nosotros todo es luz, que llegó la salvación, que teníamos un velo, que no podíamos ver, pero fue quitado ese velo. Ya no hay velo, ahora hay salvación que por eso mi boca le dice a todo el mundo que soy salva.\n\nCuando tú te conviertes dice que en el cielo hay fiesta… El día que tú te conviertes todo el mundo lo tiene que saber. Todo el mundo tiene que saber que en mi vida hay salvación. Tengo que confesar con mi boca que me llegó la salvación. Bueno es cuando todo el mundo empieza a decirte mira al religioso que delante de él no se puede hablar eso… es verdad que delante de mí hay que cohibirse de muchas cosas. Hay que cuidar esta salvación, hay que saber que esta salvación llegó a nuestras vidas y hay que cuidarla porque hermano camina en nuestro cuerpo la salvación, está contigo la salvación, en tu cuerpo. Bendita sangre que nos ha lavado, bendita esa sangre que está sobre nosotros esa nos marca que tenemos una salvación, que en tu vida hay una salvación, porque antes tú estabas en condenación hoy por eso tienes que cuidarla porque ya tú eres redimido. Ya tú eres lavado de todos tus pecados, ¿entienden hermanos por qué es que tu cuerpo no lo puedes llevar a pecar?, porque tú eres redimido, lavado con una sangre preciosa y que quisiera Satanás que estemos manchados, que en tu túnica blanca hallan pedazos de bache entonces uno se mira con verguenza. Filipenses 2:12 Dios llegó con la salvación para que seamos libres no es para que tú camines con cadenas.\n\nUstedes, la iglesia que con tanto empeño he querido que ninguno se pierda que ninguno se ponga tibio, que a ninguno Satanás le robe la salvación, él no se puede quedar con ella, regresa entonces al Padre la salvación. A ustedes, a la iglesia, a los elegidos, a los que una vez se les predicó del Señor Jesucristo, a ustedes que en muchos he visto el temor hacia el Señor, en muchos he visto la pasión al Señor, a muchos los he visto reconciliarse, a otros he tenido que clamar para que Satanás no los ponga tibios, no les robe; a utedes que lo más grande que se le ha dado es la vida eterna. Estando yo cerca o estando yo lejos, sintiéndose ustedes que están cerca o lejos de uno, a ustedes que les fue dada una salvación el ser obediente es algo que Dios le pide a uno, estando ustedes en la soledad, en sitios de más pecados, sitios donde más compromisos ustedes pudieran tener. Nunca permita que su salvación vaya como algo segundo o algo tercero, la salvación sea el uniforme que ustedes caminen siempre de cabeza a pies, no permitir que nadie los confunda, no permitir que nadie les robe una salvación tan grande. No lo permita ni que usted mismo se robe una salvación tan grande tan poderosa, que, si el diablo le quiere robar la salvación, no, no lo permita, ocupaos en vuestra salvación, yo (la Pastora) no sé si en el día tú te pudes acordar que tienes una salvacion. Si en nosotros está consciente ocupaos de vuestra salvación porque somos obedientes.\n\nHoy como pastora, les digo ocupaos de su salvación, cuídala. Cuide esa salvación tan grande, deténgase en el día y piense, aunque en tu pensamiento en tu cabeza haya muchas cosas piensa yo tengo una salvación y de ella me voy a ocupar con temor. Con mucho temor, con un temor reverente que me la dió lo más sagrado… El me la dió yo me voy a ocupar de ella, yo la voy a amar esta salvación voy a estar pendiente no voy a descuidar por nada ni por nadie esta salvación. Voy a tener todo tipo de reverencia, voy a temblar, que mi cuerpo aprenda a tembrar que conozca que esta salvación se ha depositado sobre cuerpos mortales que somos corruptibles, que nuestro cuerpo ha de perecer un día, pero esta salvación y tu espíritu es incorruptible, él no puede morir. Si tu espíritu muere, si tu ser interior muere, si lo tuyo porque no te has ocupado con temblor con reverencia lo que es esta salvación y has cedido al mundo, y has cedido a la burla de la gente entonces hemos descuidado una salvación tan grande…\n\nTú que eres obediente cuida con temblor y temor tu salvación, es tu salvación y muchos no tienen salvación, y quieren quitarte tu salvación, muchos están ardiendo en el infierno, muchos ya son un tizón del infierno y quieren quitarte la salvación llevándote a tentar y en el momento que te sientes mal y sucio dices me voy de este camino entonces no cuidaste con temor, no cuidaste con temblor una salvación tan grande, el mundo tiene mucho que ofrecerte, pero es para quitarte, el mundo te ofrece, pero es para quitarte la salvación… lo que el diablo te da hoy mañana no es tuyo porque el diablo no da nada que sea para siempre. El Padre quiere que cuidemos nuestra vida eterna, que cuidemos con mucho temor y temblor porque se nos ha dado algo demasiado de grande, la vida eterna, la vida eterna que es para ti iglesia.",
+    "contenido_renderizado": [
+      {
+        "tipo": "parrafo",
+        "texto": "Hebreos 2: 1-3 Cuando yo (la Pastora) estaba estudiando las Escrituras sobre la salvación, con lo más que pude identificarme fue con el amor y cuido de un bebé. Nuestra salvación hay que cuidarla como se cuida a un pequeño bebé. Los que han tenido a su cuidado un bebé saben que hay que darle todo tipo de atención. Las madres, quienes cuidan con esmero a sus niños, los protegen, le dan sus comidas, etc. Ellas tienen una medida alta de cuido con sus hijos porque son lo más importante en sus vidas. En una enfermedad del niño, uno no busca a nadie para que se lo cuide, sino que uno mismo lo cuida. Los hijos se cuidan con todas las fuerzas porque son nuestros. Así, la salvación es, mi hermano, lo más importante que tú puedes tener. (¡Espero que ya la hayas obtenido!) Pero, ¿Qué sucede? ¿Por qué el diablo quisiera quitártela a ti, robarte lo que es la salvación? Sencillo, porque es el más grande regalo no merecido, dado por Dios a los hombres de la Tierra. 1 Timoteo 2: 4,5,6 Ese regalo hay que cuidarlo, velarlo, celarlo, no dejar que se dañe o muera porque entonces perderíamos mucho. Es lo más importante que puede tener un hombre en la Tierra; tú puedes tener todo, pero lo único que te permite llegar al Cielo es si estás marcado con salvación. La salvación es lo más grande del mundo. Tal vez tengas otras cosas, ministerios, prediques, tengas poder, dinero, pero lo más importante es tu salvación, porque el día que se pierde se pierde la vida. El Enemigo (1 Pedro 5: 8) quisiera robarte tu salvación pues como él lo perdió todo, quiere que tú también lo pierdas todo. Se nos puede quitar la salvación si llega un día en que nosotros mismos digamos: ¡Ya basta!, y la abandonamos, buscando una razón impropia y tratando de que el mundo nos la justifique. Nunca nadie tendrá la razón como para pensar en que perderá la salvación, la salvación se cuida, se cela. Hay que considerar que la salvación no te la dió una iglesia, ni un predicador. Hay quienes se apartan porque el que lo trajo al Señor se apartó. ¿Cómo si el que te trajo al Señor fue el que te regaló la salvación? Nos dió la salvación, ¡nuestro Señor Jesús! Lo hizo através de una muerte sangrienta, es un regalo que es un don de Dios. Romanos 5: 17 Todo lo que Él padeció fue para regalarme a mí una gloriosa salvación. El regalo más grande, el que nunca se termina, del que nunca uno se cansa, una salvación para que tú seas hijo, una salvación para que tú camines en esta Tierra con dignidad. Tus manos van cargando una salvación, tu cuerpo va cargando una salvación, de cabeza a pies tú llevas un regalo demasiado grande. Así que jugar con ella, ¡es un gran peligro! ¿Cómo tú y yo vamos a escapar del Infierno ardiente si no le prestamos la atención debida a lo que es nuestra salvación? Ella nos acompaña las 24 horas del día. Está mientras tú caminas en el día, está en tu noche, está en tu trabajo, está cuando estás con tu familia; siempre te acompaña porque ese es el sello que está sobre ti cuando Él venga a buscar a los suyos. Lucas 17: 36; 1 Corintios 15: 52 ¿Y qué si Jesús le diese con venir de momento? Eso es lo que te va a levantar a ti, tu salvación. Si mueres hoy, es la salvación la que te va a permitir entrar a todo lo que son las promesas de Dios. Si nosotros perdemos la salvación perdemos al Espíritu Santo, perdemos el motivo de vivir, perdemos la felicidad, la comunión con el Padre y entonces no hay quien nos soporte. Hebreos 2: 3 Si un día decimos, \"¡Bueno, ya yo me cansé, todo me molesta, voy a soltar la salvación y me voy a quedar en casa durmiendo! ¡No voy a ir a la iglesia, y que ningún hermano me llame!\" Tal vez piensas que se te pudiera respetar tu espacio y tu voluntad atrevida, pero si lo hiciéramos, es lo mismo que decirte: ¡Muérete! Porque a la vez que la salvación abandone tu alma, como antes de la salvación era un sólo demonio el que te poseía, ahora si te apartas ese que se había marchado dice: ¡Vengan que la casa está limpia! Y entonces siete más vendrán a tu vida a destruírte. ¿No es eso lo peor que podría pasarte? Mateo 12: 43-45 Si la salvación nos abandonara, es porque, sencillamente, la hemos descuidado. Si soltamos nuestra salvación entramos a condenación del alma. Por eso, no la descuides por nada del mundo. ¡Con la salvación, un día tú y yo vamos a llegar a Dios! Hagamos memoria y veamos las razones por las que llegamos un día a la iglesia. Mira lo hermoso, quizá alguien te dijo, \"Ven vamos a la iglesia.\" Y eso nos hizo llegar y sentarnos…nos metimos en medio de gente desconocida. Lo menos que podías pensar era que había un regalo para ti muy grande, muy hermoso, que te iba ser dado por Dios, ¡esta salvación! Ahora, esta razón grande es la que te permite seguir congregándote, es la que te hace llegar hasta la iglesia buscando como vivir tu vida en santidad, para que tu vida sea santa. Todo, porque tienes una marca sobre tu vida, algo de Dios dentro de ti que te llena. Entonces, ¿Cómo vamos a tomar esta salvación y la vamos a tirar y la vamos a burlar? Por eso, tus pies no pueden ir donde iban antes porque sobre ti está la salvación. No puedes pensar como pensabas antes, ni hablar todo lo que antes se te antojaba por tu boca. No puedo estar peleando con los demás y haciendo mal porque sobre uno pesa una salvación. Lo que se llama profesión de fe, es que llegué y acepté al Señor Jesucristo como mi salvador. Fue que llegué al altar y había para mí un regalo grandote, que se llama salvación, ¡VIDA ETERNA! 1 Juan 5: 13 ¡Entonces, es para cuidarla con pasión! Hay personas que no les importa la salvación, que dicen: \"Yo no necesito ser salvo, a mi Dios no me interesa.\" No es que no le interese Dios, es que Satanás le está esperando para torturarlo. Es que se van a encontrar con un Infierno. El Padre prepara una salvación la cual la da por el Hijo. ¿Cómo nosotros vamos a escapar si la tomamos por poco, por nada? Hebreos 10: 28, 29 Por eso es que mi salvación son los siete días de la semana, no la dejo en mi cuarto, ni en el asiento de la iglesia. ¿Cuánto es de peso en tu vida lo que es salvación? ¿Cuánto te importa la salvación que tienes? ¿Alguna vez has pensado, \"Tengo un gran tesoro, pero si no lo cuido, si no lo celo, ¿lo puedo perder?\" Tú la alcanzas y pronto va a venir alguien a tratar de robártela y te va a decir: \"¡Tonto! Te metiste a la religión.\" Y es que el diablo quiere llevarte al Infierno donde hay un gusano que no muere. Marcos 9: 42-44 Cuídate mucho, porque por descuidar una salvación tan grande a muchos se les echará allá donde está la tortura. Porque en un momento dado, se nos va a resucitar a todos para presentarnos delante del Padre, y los libros serán abiertos y ese día se dirá todo y se conocerá el porqué muchos perdieron la salvación. Seguramente, por no haber vencido al diablo, por no haber resistido. Amar a este mundo nos lleva a una condenación eterna donde habrá tortura por la eternidad por no cuidar la salvación y por no morir a uno mismo, al ego, al yo. Ama la salvación que se te ha dado. Cuida más que otra cosa tu salvación con todas tus fuerzas. Ama a tu Salvador. ¡Amén!",
+        "referencias_inline": [
+          "Hebreos 2:1-3",
+          "1 Timoteo 2:4,5,6",
+          "1 Pedro 5:8",
+          "Romanos 5:17",
+          "Lucas 17:36",
+          "1 Corintios 15:52",
+          "Hebreos 2:3",
+          "Mateo 12:43-45",
+          "1 Juan 5:13",
+          "Hebreos 10:28,29",
+          "Marcos 9:42-44"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Si nosotoros tomamos esta salvación y decimos por qué yo tengo que amar, entonces comenzamos a descuidar una salvación tan grande y a veces pensamos que ya la tenemos segura, a veces nos damos de enojados y decimos ya yo tengo la salvación, yo no tengo porque orar, yo no tengo nada porque batallar, ya yo tengo la salvación y no tengo porque esforzarme… Cómo hemos de escapar, si decimos yo voy a descuidar la salvación… Si por algo yo lucho (la Pastora) es por la salvación porque ella es la que me va a llevar a Dios mi salvación es la que me va a llevar a ver a Dios cara a cara. Nuestros actos, nuestros hechos, lo que decimos con nuestra boca, lo que nos condena a nosotros es la boca porque de la abundancia del corazón suelta la boca y esta boca dice tantas cosas… Si tú descuidas esta salvación tan grande cómo hemos de escapar de los juicios, ¿cómo? Si nosotros no tomamos en peso la salvación, si yo descuido yendo donde no debo ir, si yo descuido cómo voy a escapar de los juicios. La salvación hay que cuidarla. Vamos a presentar la salvación tal cual es… Es importante saber que cuando tú agarres la salvación sepas que hay que cuidarla. Cada cual hemos de cuidar nuestra salvación… La salvación tuya la cuidas tú porque el juicio es para aquel que no cuide, cómo hemos de escapar… Si el pueblo que era escogido por Dios que era el pueblo de Israel que era la nación de Dios, Dios no se lo perdonó cómo escaparemos tú y yo que somos gentiles, que somos una rama injertada que no era para ti ni era para mí que no es peor el asunto nuestro, que no tenemos que cuidarla más esta salvación que hay que celarla más, que la salvación es lo más grande que podemos tener, es lo más grande que podemos alcanzar aquí en la tierra es un gran tesoro la salvación, pero cuando uno agarra la salvación nadie me la puede quitar, nadie, nadie, y no es que nadie me la va aquitar es que yo la tengo que cuidar, yo la tengo que conservar es un gran tesoro, llegó a mi vida porque al Padre le plació llamarme. ¿Por qué la terquedad?, ¿por qué se nos pone el corazón duro?, ¿por qué contender?, ¿por qué hay que pelear?, ¿por qué nos tienen que rogar que busquemos del Señor?",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Cuando nosotros recibimos la salvación, llega el Espíritu Santo que nos dice sí, nos dice no, porque hermano hay que acomodar el evangelio, porque las iglesias traen tantas novedades para que amen esta salvación; es porque desconocemos lo que es el gran tesoro de la salvación. Es un gran tesoro que nos llega a todos para que lo cuidemos. Este evangelio que fue anunciado por nuestro Señor Jesús, empezó con Jesús luego al lado de él hay unos discípulos, esos 12 hombres. Uno, Judas, prefirió morir que la vida eterna. Jesús viene predica el evangelio, los discípulos lo siguen proclamando, el Espíritu Santo ha conservado lo que es este mensaje y ha sido llevado por todas las naciones de la tierra… El Espíritu Santo lo ha cuidado para que tú tuvieras una salvación, y no la dejarás. Todos tenemos circunstancias, hoy estamos contentos, mañana no, pero la salvación hay que cuidarla, sobretodo como la vamos a descuidar. Dios conserva este mensaje para salvación de los hombres. Cuidémosla porque si para los israelitas, para los judíos que era el bien y no lo quisieron, no será menor el castigo nuestro. Si el Padre ha ordenado desde el cielo que su Hijo sea el que viniése aquí para dar su sangre por nosotros, nada a detenido este mensaje, ni el comunismo, ni las divisiones de las iglesias, ni las contiendas de las iglesias, ni los problemas de los hermanos de la iglesia, ni cuando los hermanos se molestan; nada ha detenido este mensaje desde que Jesús lo comenzó, hoy este evangelio todavía está activo, esta salvación todavía se está presentando. Nadie la detiene, pero tú la debes cuidar.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "A veces el joven piensa que no es nada, durante la semana fornica, estuvieron con impíos haciendo pecado y luego va el domingo a la iglsia, se está bachateando con esta salvación, se burla, un regalo que nosotros no nos merecíamos. Al que le tocó la salvación, al que le llegó la salvación, cuídala. Romanos 10:10 Cuando la salvación llega a tu vida de verdad tú tienes que decirlo a otros. Con tu boca se confiesa para salvación, a tu vida a tu corazón llegó una salvación. Nuestros labios hablan de esto tan grande que ha surgido en nuestras vidas, desde que llegó la salvación nuestra boca lo tiene que decir, nuestros labios lo tienen que confesar, todo el mundo tiene que saber que ya no somos la misma persona. Llegó la salvación yo confieso llegó mi salvación. Es un regalo dado ya… Nuestra boca dirá que a nuestras vidas llegó la salvación, que hay una convicción de esta verdad, esto es una verdad dentro de uno, esto es una verdad y sobre esta verdad no hay otra cosa, no es cuestión de religión, es que nos llegó la salvación, es que llegó la verdad, que ya no eres ciego, que no hay un infierno que me espera… Esta salvación nadie me la va a quitar, nadie me la va a robar, con mi boca es que diré que ya no hay en nosotros tinieblas que en nosotros todo es luz, que llegó la salvación, que teníamos un velo, que no podíamos ver, pero fue quitado ese velo. Ya no hay velo, ahora hay salvación que por eso mi boca le dice a todo el mundo que soy salva.",
+        "referencias_inline": [
+          "Romanos 10:10"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Cuando tú te conviertes dice que en el cielo hay fiesta… El día que tú te conviertes todo el mundo lo tiene que saber. Todo el mundo tiene que saber que en mi vida hay salvación. Tengo que confesar con mi boca que me llegó la salvación. Bueno es cuando todo el mundo empieza a decirte mira al religioso que delante de él no se puede hablar eso… es verdad que delante de mí hay que cohibirse de muchas cosas. Hay que cuidar esta salvación, hay que saber que esta salvación llegó a nuestras vidas y hay que cuidarla porque hermano camina en nuestro cuerpo la salvación, está contigo la salvación, en tu cuerpo. Bendita sangre que nos ha lavado, bendita esa sangre que está sobre nosotros esa nos marca que tenemos una salvación, que en tu vida hay una salvación, porque antes tú estabas en condenación hoy por eso tienes que cuidarla porque ya tú eres redimido. Ya tú eres lavado de todos tus pecados, ¿entienden hermanos por qué es que tu cuerpo no lo puedes llevar a pecar?, porque tú eres redimido, lavado con una sangre preciosa y que quisiera Satanás que estemos manchados, que en tu túnica blanca hallan pedazos de bache entonces uno se mira con verguenza. Filipenses 2:12 Dios llegó con la salvación para que seamos libres no es para que tú camines con cadenas.",
+        "referencias_inline": [
+          "Filipenses 2:12"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Ustedes, la iglesia que con tanto empeño he querido que ninguno se pierda que ninguno se ponga tibio, que a ninguno Satanás le robe la salvación, él no se puede quedar con ella, regresa entonces al Padre la salvación. A ustedes, a la iglesia, a los elegidos, a los que una vez se les predicó del Señor Jesucristo, a ustedes que en muchos he visto el temor hacia el Señor, en muchos he visto la pasión al Señor, a muchos los he visto reconciliarse, a otros he tenido que clamar para que Satanás no los ponga tibios, no les robe; a utedes que lo más grande que se le ha dado es la vida eterna. Estando yo cerca o estando yo lejos, sintiéndose ustedes que están cerca o lejos de uno, a ustedes que les fue dada una salvación el ser obediente es algo que Dios le pide a uno, estando ustedes en la soledad, en sitios de más pecados, sitios donde más compromisos ustedes pudieran tener. Nunca permita que su salvación vaya como algo segundo o algo tercero, la salvación sea el uniforme que ustedes caminen siempre de cabeza a pies, no permitir que nadie los confunda, no permitir que nadie les robe una salvación tan grande. No lo permita ni que usted mismo se robe una salvación tan grande tan poderosa, que, si el diablo le quiere robar la salvación, no, no lo permita, ocupaos en vuestra salvación, yo (la Pastora) no sé si en el día tú te pudes acordar que tienes una salvacion. Si en nosotros está consciente ocupaos de vuestra salvación porque somos obedientes.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Hoy como pastora, les digo ocupaos de su salvación, cuídala. Cuide esa salvación tan grande, deténgase en el día y piense, aunque en tu pensamiento en tu cabeza haya muchas cosas piensa yo tengo una salvación y de ella me voy a ocupar con temor. Con mucho temor, con un temor reverente que me la dió lo más sagrado… El me la dió yo me voy a ocupar de ella, yo la voy a amar esta salvación voy a estar pendiente no voy a descuidar por nada ni por nadie esta salvación. Voy a tener todo tipo de reverencia, voy a temblar, que mi cuerpo aprenda a tembrar que conozca que esta salvación se ha depositado sobre cuerpos mortales que somos corruptibles, que nuestro cuerpo ha de perecer un día, pero esta salvación y tu espíritu es incorruptible, él no puede morir. Si tu espíritu muere, si tu ser interior muere, si lo tuyo porque no te has ocupado con temblor con reverencia lo que es esta salvación y has cedido al mundo, y has cedido a la burla de la gente entonces hemos descuidado una salvación tan grande…",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Tú que eres obediente cuida con temblor y temor tu salvación, es tu salvación y muchos no tienen salvación, y quieren quitarte tu salvación, muchos están ardiendo en el infierno, muchos ya son un tizón del infierno y quieren quitarte la salvación llevándote a tentar y en el momento que te sientes mal y sucio dices me voy de este camino entonces no cuidaste con temor, no cuidaste con temblor una salvación tan grande, el mundo tiene mucho que ofrecerte, pero es para quitarte, el mundo te ofrece, pero es para quitarte la salvación… lo que el diablo te da hoy mañana no es tuyo porque el diablo no da nada que sea para siempre. El Padre quiere que cuidemos nuestra vida eterna, que cuidemos con mucho temor y temblor porque se nos ha dado algo demasiado de grande, la vida eterna, la vida eterna que es para ti iglesia.",
+        "referencias_inline": []
+      }
+    ]
+  },
+  "busqueda": {
+    "texto_indexable": "el regalo mas grande que nosotros podemos tener es nuestra salvacion hebreos 2 1 3 salvacion vida eterna satanas discipulado vida eterna santidad juicio salvacion mundo evangelio escrituras arca hebreos 2 1 3 cuando yo la pastora estaba estudiando las escrituras sobre la salvacion con lo mas que pude identificarme fue con el amor y cuido de un bebe nuestra salvacion hay que cuidarla como se cuida a un pequeno bebe los que han tenido a su cuidado un bebe saben que hay que darle todo tipo de atencion las madres quienes cuidan con esmero a sus ninos los protegen le dan sus comidas etc ellas tienen una medida alta de cuido con sus hijos porque son lo mas importante en sus vidas en una enfermedad del nino uno no busca a nadie para que se lo cuide sino que uno mismo lo cuida los hijos se cuidan con todas las fuerzas porque son nuestros asi la salvacion es mi hermano lo mas importante que tu puedes tener espero que ya la hayas obtenido pero que sucede por que el diablo quisiera quitartela a ti robarte lo que es la salvacion sencillo porque es el mas grande regalo no merecido dado por Dios a los hombres de la tierra 1 timoteo 2 4 5 6 ese regalo hay que cuidarlo velarlo celarlo no dejar que se dane o muera porque entonces perderiamos mucho es lo mas importante que puede tener un hombre en la tierra tu puedes tener todo pero lo unico que te permite llegar al cielo es si estas marcado con salvacion la salvacion es lo mas grande del mundo tal vez tengas otras cosas ministerios prediques tengas poder dinero pero lo mas importante es tu salvacion porque el dia que se pierde se pierde la vida el enemigo 1 pedro 5 8 quisiera robarte tu salvacion pues como el lo perdio todo quiere que tu tambien lo pierdas todo se nos puede quitar la salvacion si llega un dia en que nosotros mismos digamos ya basta y la abandonamos buscando una razon impropia y tratando de que el mundo nos la justifique nunca nadie tendra la razon como para pensar en que perdera la salvacion la salvacion se cuida se cela hay que considerar que la salvacion no te la dio una iglesia ni un predicador hay quienes se apartan porque el que lo trajo al senor se aparto como si el que te trajo al senor fue el que te regalo la salvacion nos dio la salvacion nuestro senor Jesus lo hizo atraves de una muerte sangrienta es un regalo que es un don de Dios romanos 5 17 todo lo que el padecio fue para regalarme a mi una gloriosa salvacion el regalo mas grande el que nunca se termina del que nunca uno se cansa una salvacion para que tu seas hijo una salvacion para que tu camines en esta tierra con dignidad tus manos van cargando una salvacion tu cuerpo va cargando una salvacion de cabeza a pies tu llevas un regalo demasiado grande asi que jugar con ella es un gran peligro como tu y yo vamos a escapar del infierno ardiente si no le prestamos la atencion debida a lo que es nuestra salvacion ella nos acompana las 24 horas del dia esta mientras tu caminas en el dia esta en tu noche esta en tu trabajo esta cuando estas con tu familia siempre te acompana porque ese es el sello que esta sobre ti cuando el venga a buscar a los suyos lucas 17 36 1 corintios 15 52 y que si Jesus le diese con venir de momento eso es lo que te va a levantar a ti tu salvacion si mueres hoy es la salvacion la que te va a permitir entrar a todo lo que son las promesas de Dios si nosotros perdemos la salvacion perdemos al espiritu santo perdemos el motivo de vivir perdemos la felicidad la comunion con el padre y entonces no hay quien nos soporte hebreos 2 3 si un dia decimos bueno ya yo me canse todo me molesta voy a soltar la salvacion y me voy a quedar en casa durmiendo no voy a ir a la iglesia y que ningun hermano me llame tal vez piensas que se te pudiera respetar tu espacio y tu voluntad atrevida pero si lo hicieramos es lo mismo que decirte muerete porque a la vez que la salvacion abandone tu alma como antes de la salvacion era un solo demonio el que te poseia ahora si te apartas ese que se habia marchado dice vengan que la casa esta limpia y entonces siete mas vendran a tu vida a destruirte no es eso lo peor que podria pasarte mateo 12 43 45 si la salvacion nos abandonara es porque sencillamente la hemos descuidado si soltamos nuestra salvacion entramos a condenacion del alma por eso no la descuides por nada del mundo con la salvacion un dia tu y yo vamos a llegar a Dios hagamos memoria y veamos las razones por las que llegamos un dia a la iglesia mira lo hermoso quiza alguien te dijo ven vamos a la iglesia y eso nos hizo llegar y sentarnos nos metimos en medio de gente desconocida lo menos que podias pensar era que habia un regalo para ti muy grande muy hermoso que te iba ser dado por Dios esta salvacion ahora esta razon grande es la que te permite seguir congregandote es la que te hace llegar hasta la iglesia buscando como vivir tu vida en santidad para que tu vida sea santa todo porque tienes una marca sobre tu vida algo de Dios dentro de ti que te llena entonces como vamos a tomar esta salvacion y la vamos a tirar y la vamos a burlar por eso tus pies no pueden ir donde iban antes porque sobre ti esta la salvacion no puedes pensar como pensabas antes ni hablar todo lo que antes se te antojaba por tu boca no puedo estar peleando con los demas y haciendo mal porque sobre uno pesa una salvacion lo que se llama profesion de fe es que llegue y acepte al senor jesucristo como mi salvador fue que llegue al altar y habia para mi un regalo grandote que se llama salvacion vida eterna 1 juan 5 13 entonces es para cuidarla con pasion hay personas que no les importa la salvacion que dicen yo no necesito ser salvo a mi Dios no me interesa no es que no le interese Dios es que satanas le esta esperando para torturarlo es que se van a encontrar con un infierno el padre prepara una salvacion la cual la da por el hijo como nosotros vamos a escapar si la tomamos por poco por nada hebreos 10 28 29 por eso es que mi salvacion son los siete dias de la semana no la dejo en mi cuarto ni en el asiento de la iglesia cuanto es de peso en tu vida lo que es salvacion cuanto te importa la salvacion que tienes alguna vez has pensado tengo un gran tesoro pero si no lo cuido si no lo celo lo puedo perder tu la alcanzas y pronto va a venir alguien a tratar de robartela y te va a decir tonto te metiste a la religion y es que el diablo quiere llevarte al infierno donde hay un gusano que no muere marcos 9 42 44 cuidate mucho porque por descuidar una salvacion tan grande a muchos se les echara alla donde esta la tortura porque en un momento dado se nos va a resucitar a todos para presentarnos delante del padre y los libros seran abiertos y ese dia se dira todo y se conocera el porque muchos perdieron la salvacion seguramente por no haber vencido al diablo por no haber resistido amar a este mundo nos lleva a una condenacion eterna donde habra tortura por la eternidad por no cuidar la salvacion y por no morir a uno mismo al ego al yo ama la salvacion que se te ha dado cuida mas que otra cosa tu salvacion con todas tus fuerzas ama a tu salvador amen si nosotoros tomamos esta salvacion y decimos por que yo tengo que amar entonces comenzamos a descuidar una salvacion tan grande y a veces pensamos que ya la tenemos segura a veces nos damos de enojados y decimos ya yo tengo la salvacion yo no tengo porque orar yo no tengo nada porque batallar ya yo tengo la salvacion y no tengo porque esforzarme como hemos de escapar si decimos yo voy a descuidar la salvacion si por algo yo lucho la pastora es por la salvacion porque ella es la que me va a llevar a Dios mi salvacion es la que me va a llevar a ver a Dios cara a cara nuestros actos nuestros hechos lo que decimos con nuestra boca lo que nos condena a nosotros es la boca porque de la abundancia del corazon suelta la boca y esta boca dice tantas cosas si tu descuidas esta salvacion tan grande como hemos de escapar de los juicios como si nosotros no tomamos en peso la salvacion si yo descuido yendo donde no debo ir si yo descuido como voy a escapar de los juicios la salvacion hay que cuidarla vamos a presentar la salvacion tal cual es es importante saber que cuando tu agarres la salvacion sepas que hay que cuidarla cada cual hemos de cuidar nuestra salvacion la salvacion tuya la cuidas tu porque el juicio es para aquel que no cuide como hemos de escapar si el pueblo que era escogido por Dios que era el pueblo de israel que era la nacion de Dios Dios no se lo perdono como escaparemos tu y yo que somos gentiles que somos una rama injertada que no era para ti ni era para mi que no es peor el asunto nuestro que no tenemos que cuidarla mas esta salvacion que hay que celarla mas que la salvacion es lo mas grande que podemos tener es lo mas grande que podemos alcanzar aqui en la tierra es un gran tesoro la salvacion pero cuando uno agarra la salvacion nadie me la puede quitar nadie nadie y no es que nadie me la va aquitar es que yo la tengo que cuidar yo la tengo que conservar es un gran tesoro llego a mi vida porque al padre le placio llamarme por que la terquedad por que se nos pone el corazon duro por que contender por que hay que pelear por que nos tienen que rogar que busquemos del senor cuando nosotros recibimos la salvacion llega el espiritu santo que nos dice si nos dice no porque hermano hay que acomodar el evangelio porque las iglesias traen tantas novedades para que amen esta salvacion es porque desconocemos lo que es el gran tesoro de la salvacion es un gran tesoro que nos llega a todos para que lo cuidemos este evangelio que fue anunciado por nuestro senor Jesus empezo con Jesus luego al lado de el hay unos discipulos esos 12 hombres uno judas prefirio morir que la vida eterna Jesus viene predica el evangelio los discipulos lo siguen proclamando el espiritu santo ha conservado lo que es este mensaje y ha sido llevado por todas las naciones de la tierra el espiritu santo lo ha cuidado para que tu tuvieras una salvacion y no la dejaras todos tenemos circunstancias hoy estamos contentos manana no pero la salvacion hay que cuidarla sobretodo como la vamos a descuidar Dios conserva este mensaje para salvacion de los hombres cuidemosla porque si para los israelitas para los judios que era el bien y no lo quisieron no sera menor el castigo nuestro si el padre ha ordenado desde el cielo que su hijo sea el que viniese aqui para dar su sangre por nosotros nada a detenido este mensaje ni el comunismo ni las divisiones de las iglesias ni las contiendas de las iglesias ni los problemas de los hermanos de la iglesia ni cuando los hermanos se molestan nada ha detenido este mensaje desde que Jesus lo comenzo hoy este evangelio todavia esta activo esta salvacion todavia se esta presentando nadie la detiene pero tu la debes cuidar a veces el joven piensa que no es nada durante la semana fornica estuvieron con impios haciendo pecado y luego va el domingo a la iglsia se esta bachateando con esta salvacion se burla un regalo que nosotros no nos mereciamos al que le toco la salvacion al que le llego la salvacion cuidala romanos 10 10 cuando la salvacion llega a tu vida de verdad tu tienes que decirlo a otros con tu boca se confiesa para salvacion a tu vida a tu corazon llego una salvacion nuestros labios hablan de esto tan grande que ha surgido en nuestras vidas desde que llego la salvacion nuestra boca lo tiene que decir nuestros labios lo tienen que confesar todo el mundo tiene que saber que ya no somos la misma persona llego la salvacion yo confieso llego mi salvacion es un regalo dado ya nuestra boca dira que a nuestras vidas llego la salvacion que hay una conviccion de esta verdad esto es una verdad dentro de uno esto es una verdad y sobre esta verdad no hay otra cosa no es cuestion de religion es que nos llego la salvacion es que llego la verdad que ya no eres ciego que no hay un infierno que me espera esta salvacion nadie me la va a quitar nadie me la va a robar con mi boca es que dire que ya no hay en nosotros tinieblas que en nosotros todo es luz que llego la salvacion que teniamos un velo que no podiamos ver pero fue quitado ese velo ya no hay velo ahora hay salvacion que por eso mi boca le dice a todo el mundo que soy salva cuando tu te conviertes dice que en el cielo hay fiesta el dia que tu te conviertes todo el mundo lo tiene que saber todo el mundo tiene que saber que en mi vida hay salvacion tengo que confesar con mi boca que me llego la salvacion bueno es cuando todo el mundo empieza a decirte mira al religioso que delante de el no se puede hablar eso es verdad que delante de mi hay que cohibirse de muchas cosas hay que cuidar esta salvacion hay que saber que esta salvacion llego a nuestras vidas y hay que cuidarla porque hermano camina en nuestro cuerpo la salvacion esta contigo la salvacion en tu cuerpo bendita sangre que nos ha lavado bendita esa sangre que esta sobre nosotros esa nos marca que tenemos una salvacion que en tu vida hay una salvacion porque antes tu estabas en condenacion hoy por eso tienes que cuidarla porque ya tu eres redimido ya tu eres lavado de todos tus pecados entienden hermanos por que es que tu cuerpo no lo puedes llevar a pecar porque tu eres redimido lavado con una sangre preciosa y que quisiera satanas que estemos manchados que en tu tunica blanca hallan pedazos de bache entonces uno se mira con verguenza filipenses 2 12 Dios llego con la salvacion para que seamos libres no es para que tu camines con cadenas ustedes la iglesia que con tanto empeno he querido que ninguno se pierda que ninguno se ponga tibio que a ninguno satanas le robe la salvacion el no se puede quedar con ella regresa entonces al padre la salvacion a ustedes a la iglesia a los elegidos a los que una vez se les predico del senor jesucristo a ustedes que en muchos he visto el temor hacia el senor en muchos he visto la pasion al senor a muchos los he visto reconciliarse a otros he tenido que clamar para que satanas no los ponga tibios no les robe a utedes que lo mas grande que se le ha dado es la vida eterna estando yo cerca o estando yo lejos sintiendose ustedes que estan cerca o lejos de uno a ustedes que les fue dada una salvacion el ser obediente es algo que Dios le pide a uno estando ustedes en la soledad en sitios de mas pecados sitios donde mas compromisos ustedes pudieran tener nunca permita que su salvacion vaya como algo segundo o algo tercero la salvacion sea el uniforme que ustedes caminen siempre de cabeza a pies no permitir que nadie los confunda no permitir que nadie les robe una salvacion tan grande no lo permita ni que usted mismo se robe una salvacion tan grande tan poderosa que si el diablo le quiere robar la salvacion no no lo permita ocupaos en vuestra salvacion yo la pastora no se si en el dia tu te pudes acordar que tienes una salvacion si en nosotros esta consciente ocupaos de vuestra salvacion porque somos obedientes hoy como pastora les digo ocupaos de su salvacion cuidala cuide esa salvacion tan grande detengase en el dia y piense aunque en tu pensamiento en tu cabeza haya muchas cosas piensa yo tengo una salvacion y de ella me voy a ocupar con temor con mucho temor con un temor reverente que me la dio lo mas sagrado el me la dio yo me voy a ocupar de ella yo la voy a amar esta salvacion voy a estar pendiente no voy a descuidar por nada ni por nadie esta salvacion voy a tener todo tipo de reverencia voy a temblar que mi cuerpo aprenda a tembrar que conozca que esta salvacion se ha depositado sobre cuerpos mortales que somos corruptibles que nuestro cuerpo ha de perecer un dia pero esta salvacion y tu espiritu es incorruptible el no puede morir si tu espiritu muere si tu ser interior muere si lo tuyo porque no te has ocupado con temblor con reverencia lo que es esta salvacion y has cedido al mundo y has cedido a la burla de la gente entonces hemos descuidado una salvacion tan grande tu que eres obediente cuida con temblor y temor tu salvacion es tu salvacion y muchos no tienen salvacion y quieren quitarte tu salvacion muchos estan ardiendo en el infierno muchos ya son un tizon del infierno y quieren quitarte la salvacion llevandote a tentar y en el momento que te sientes mal y sucio dices me voy de este camino entonces no cuidaste con temor no cuidaste con temblor una salvacion tan grande el mundo tiene mucho que ofrecerte pero es para quitarte el mundo te ofrece pero es para quitarte la salvacion lo que el diablo te da hoy manana no es tuyo porque el diablo no da nada que sea para siempre el padre quiere que cuidemos nuestra vida eterna que cuidemos con mucho temor y temblor porque se nos ha dado algo demasiado de grande la vida eterna la vida eterna que es para ti iglesia",
+    "alias_busqueda": [
+      "El Regalo Más Grande Que Nosotros Podemos Tener Es Nuestra Salvación",
+      "Hebreos",
+      "Hebreos 2",
+      "Hebreos 2:1-3",
+      "vida eterna",
+      "santidad",
+      "juicio",
+      "salvación"
+    ]
+  },
+  "revision_manual": {
+    "requiere_revision": false,
+    "motivo": ""
+  },
+  "ui": {
+    "mostrar_credito_en_header": true,
+    "mostrar_numero_estudio": true,
+    "mostrar_fecha": true,
+    "mostrar_topicos": true,
+    "permitir_favorito": true,
+    "permitir_compartir": true
+  }
+}

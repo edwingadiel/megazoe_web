@@ -1,0 +1,266 @@
+{
+  "id": "estudio-703-vivir-en-la-inspiracion-del-espiritu",
+  "slug": "estudio-703-vivir-en-la-inspiracion-del-espiritu",
+  "numero_estudio": 703,
+  "tipo_estudio": "Iglesia en las casas",
+  "ministerio": {
+    "iglesia": "Iglesia Cristiana Mega Zoe",
+    "pastora": "Pastora Edith Cruz",
+    "credito_corto": "Iglesia Cristiana Mega Zoe · Pastora Edith Cruz",
+    "credito_largo": "Contenido original de Iglesia Cristiana Mega Zoe, conservando el crédito ministerial correspondiente a la Pastora Edith Cruz."
+  },
+  "identidad_editorial": {
+    "idioma": "es",
+    "fuente_original": "documento_word",
+    "archivo_origen": "/Users/edwingadiel/Desktop/Estudios en Word/Estudio #703 Vivir en la inspiración del Espíritu - 2 Samuel 23 2.docx",
+    "estado_revision": "procesado",
+    "version_schema": "1.0"
+  },
+  "encabezado": {
+    "titulo": "Vivir En La Inspiración Del Espíritu",
+    "subtitulo": null,
+    "cita_principal": "2 Samuel 23:2",
+    "resumen_corto": "Vivir En La Inspiración Del Espíritu llama a atender la Palabra de Dios y vivir en santidad."
+  },
+  "fechas": {
+    "fecha_inicio": null,
+    "fecha_fin": null,
+    "fecha_texto_original": "",
+    "ano": null
+  },
+  "clasificacion_biblica": {
+    "libro_principal": "2 Samuel",
+    "capitulo_principal": 23,
+    "versiculos_principales": [
+      2
+    ],
+    "referencia_principal_normalizada": "2 Samuel 23:2",
+    "testamento_principal": "Antiguo Testamento"
+  },
+  "clasificacion_tematica": {
+    "topicos": [
+      "Palabra de Dios",
+      "Santidad",
+      "Voluntad de Dios"
+    ],
+    "keywords": [
+      "voz de Dios",
+      "santidad",
+      "arrepentimiento",
+      "perseverancia",
+      "fuego"
+    ]
+  },
+  "referencias_biblicas": [
+    {
+      "referencia": "2 Samuel 23:2",
+      "referencia_normalizada": "2 Samuel 23:2",
+      "libro": "2 Samuel",
+      "capitulo": 23,
+      "versiculos": [
+        2
+      ],
+      "tipo": "principal",
+      "clickeable": true
+    },
+    {
+      "referencia": "2 Pedro 1: 21",
+      "referencia_normalizada": "2 Pedro 1:21",
+      "libro": "2 Pedro",
+      "capitulo": 1,
+      "versiculos": [
+        21
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "2 Timoteo 3: 16",
+      "referencia_normalizada": "2 Timoteo 3:16",
+      "libro": "2 Timoteo",
+      "capitulo": 3,
+      "versiculos": [
+        16
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Números 11:25",
+      "referencia_normalizada": "Números 11:25",
+      "libro": "Números",
+      "capitulo": 11,
+      "versiculos": [
+        25
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "1 Reyes 22:7, 14",
+      "referencia_normalizada": "1 Reyes 22:7,14",
+      "libro": "1 Reyes",
+      "capitulo": 22,
+      "versiculos": [
+        7,
+        14
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "1 Reyes 22: 5, 6",
+      "referencia_normalizada": "1 Reyes 22:5,6",
+      "libro": "1 Reyes",
+      "capitulo": 22,
+      "versiculos": [
+        5,
+        6
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "1 Reyes 22:8",
+      "referencia_normalizada": "1 Reyes 22:8",
+      "libro": "1 Reyes",
+      "capitulo": 22,
+      "versiculos": [
+        8
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Mateo 5: 11, 12",
+      "referencia_normalizada": "Mateo 5:11,12",
+      "libro": "Mateo",
+      "capitulo": 5,
+      "versiculos": [
+        11,
+        12
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "1 Reyes 22: 13",
+      "referencia_normalizada": "1 Reyes 22:13",
+      "libro": "1 Reyes",
+      "capitulo": 22,
+      "versiculos": [
+        13
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "2 Crónicas 24:20-21",
+      "referencia_normalizada": "2 Crónicas 24:20-21",
+      "libro": "2 Crónicas",
+      "capitulo": 24,
+      "versiculos": [
+        20,
+        21
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Jeremías 1:9",
+      "referencia_normalizada": "Jeremías 1:9",
+      "libro": "Jeremías",
+      "capitulo": 1,
+      "versiculos": [
+        9
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    }
+  ],
+  "contenido": {
+    "introduccion": null,
+    "secciones": [],
+    "contenido_completo": "El Espíritu Santo inspiró a los hombres dedicados a Dios. 2 Pedro 1: 21 Se sabe que la Escritura nos ha sido dada por la inspiración del Espíritu Santo. 2 Timoteo 3: 16 Todo hombre y mujer que se entregan a Dios tienen que saber quién les dirige, quién los lleva o los trae de aquí para allá. Todo hombre y mujer que vive para Dios se dejan guiar porque viven inspirados por el Espíritu de Dios. Porque no actuamos en conformidad con nuestras propias voluntades ni estamos expresando nuestros propios pensamientos sino siguiendo la mente de Dios en palabras dadas y ministradas por Él.\n\nFácil se les hace hablar a los hombres lo que quieren y lo que les place. Pero, ¿sabes de cuántas palabras hay que dar cuenta? Sobre todo cuando no vienen de Dios. Hay muchas palabras que vienen de lo que personalmente creemos, de lo que pensamos, de lo que te dijeron, por lo que te hicieron y te desquitas hablando, etc. Eso lo hace el carnal, el que no tiene la inspiración del Espíritu Santo en su vida. Aquí en 2 Samuel 23: 2 David decía: \"El Espíritu de Jehová ha hablado por mí…\" Si el Espíritu de Dios ha hablado, pues por tal razón la palabra que se tiene es segura, es clara, confiable. Esa palabra se recibe en paz, aunque provoque una gran guerra en nuestra vida interior o en nuestra relación con los otros seres humanos.\n\nNúmeros 11:25 Moisés necesitaba de ayuda espiritual para poder atender a la vasta multitud que era el pueblo de Dios, necesitaba hombres que hablaran al pueblo palabra de Dios y no de ellos mismos. Dios le concedió esto a Moisés quien se quejaba de que todo el peso estaba sobre él. Así pues, Dios le dio alivio. Moisés era un hombre de Dios esforzado y manso, pero eran demasiadas las personas que tenía a cargo para aconsejar y dirigir y por eso necesitaba de ayuda para dar palabras espirituales a aquel pueblo. Porque se hablaba mucho en aquel tiempo como también ahora, solo que se hablaba lo carnal; la murmuración, el chisme, la envidia, el enojo y la contienda, todo entre ellos era carnal y Moisés vio la necesidad de palabras espirituales. Así que Dios llegó a Moisés y lo hizo.\n\nLos reyes de Israel y de Judá necesitaban oír palabra de Jehová para tomar una importante decisión según vemos en I Reyes 22:7, 14. Reunidos ambos reyes, Acab de Israel y Josafat de Judá quisieron consultar a Dios. Para ello buscaron 400 profetas (I Reyes 22: 5, 6), pero todos esos profetas se habían vendido al rey; habían vendido sus palabras a este mundo y no eran fieles a Dios, Dios no era primero en sus vidas. Pero, había un profeta fiel a Dios llamado Micaías. Acab el rey de Israel lo aborrecía porque era un verdadero profeta que hablaba según las palabras que le llegaban inspiradas por Dios. Decía Acab en I Reyes 22:8, \"Yo lo aborrezco.\" Eso pasa con los que hablan por inspiración del Espíritu, son aborrecidos de muchos (Mateo 5: 11, 12). El hombre de Dios no actúa en conformidad con su propia voluntad. ¡Cuánto hay que resistirse a la voluntad mañosa y a las malas intenciones del corazón! Leemos en I Reyes 22: 13 que el mensajero le advierte al profeta Micaías que hablara la palabra conforme a la palabra de algunos de aquellos 400 profetas. Un profeta debe estar claro y entender que no está expresando su propio pensamiento, sino siguiendo la mente de Dios en las palabras dadas y ministradas por Él. No hablamos las palabras que quiere oír el hombre sino lo que Dios quiere hablar para bien del hombre. Micaías no temía al rey sino a Dios, iba a hablar lo que Dios le hablase, gustara o no gustara. El hombre de Dios, tal como lo entendió David, sabe \"que la palabra ha estado en mi (su) lengua\" Cuando se teme a Dios se sabe qué palabra es la que debe estar en la boca. No siempre habrá una buena recompensa cuando se habla de parte de Dios.\n\nEn 2 Crónicas 24:20-21 leemos que el profeta Zacarías habló de parte de Dios al rey Joás y al pueblo, quienes se habían apartado de Dios. ¡Lo aborrecieron y lo mataron! ¡Cuánto le duele al oído al que se ha separado de Dios y al impío las palabras de amonestación y corrección que les viene de Dios! Cuando sale la voz de Dios y llega a sus oídos los demonios hacen que se retuerzan y esos hombres no pueden disimular, la palabra les causa molestia, coraje, ira. Se les brotan por los ojos los demonios y no pueden disimular, están rabiando, se tuercen, pero el que vive en el Espíritu, el mismo Espíritu Santo lo respaldará. A Zacarías lo apedrearon hasta matarlo. Así era el coraje de los que estaban escuchando al profeta Zacarías, entonces el rey Joás lo mandó a matar. Hay mucho sacrificio cuando se quiere conservar pura e intacta la palabra que ha sido dada por Dios, hay que tener valentía, amor al Señor, entrega y un gran respeto a la voz de Dios que llega a nuestra vida por el Espíritu Santo.\n\nJeremías 1:9 \"He aquí he puesto mis palabras en tu boca…\" Así habló Jehová al profeta Jeremías. Ya no iba a vivir Jeremías hablando lo que quería sino que el Espíritu sellaría su boca con fuego. Ya no sería el pensamiento de Jeremías lo que dominaría en su vida. ¡Cuán torpe puede ser nuestro pensamiento el cual muchas veces nos traiciona! Jeremías sería llevado conforme a lo que el Espíritu Santo quería hablarle al pueblo. Jeremías tendría que seguir la mente de Dios en las palabras dadas y ministradas por Él. Ya no era lo que Jeremías pensara o como lo quisiera usar el rey, Jeremías le pertenecía a Dios. Su boca tenía que ser llena del Espíritu Santo; ahora él era un simple instrumento como lo somos tú y yo para Dios.\n\nCuando el Espíritu es el que ha hablado, lo próximo que sigue es que su palabra estará en tu lengua. Hay que cuidarla, tienes que celar cuando el Espíritu te quiere traer la voz de Dios. No te dejes llevar por sobornos, ni busques tener gente contenta, ni pienses que de esa manera consigues más. Acuérdate que la palabra de Dios es para ser cuidada y guardada fielmente y hablarla tal como es. Si no lo haces, entonces llegarán los días malos tal como lo vemos en este estudio. Seamos fieles a su palabra tal como Dios es fiel en todo. Amén.",
+    "contenido_renderizado": [
+      {
+        "tipo": "parrafo",
+        "texto": "El Espíritu Santo inspiró a los hombres dedicados a Dios. 2 Pedro 1: 21 Se sabe que la Escritura nos ha sido dada por la inspiración del Espíritu Santo. 2 Timoteo 3: 16 Todo hombre y mujer que se entregan a Dios tienen que saber quién les dirige, quién los lleva o los trae de aquí para allá. Todo hombre y mujer que vive para Dios se dejan guiar porque viven inspirados por el Espíritu de Dios. Porque no actuamos en conformidad con nuestras propias voluntades ni estamos expresando nuestros propios pensamientos sino siguiendo la mente de Dios en palabras dadas y ministradas por Él.",
+        "referencias_inline": [
+          "2 Pedro 1:21",
+          "2 Timoteo 3:16"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Fácil se les hace hablar a los hombres lo que quieren y lo que les place. Pero, ¿sabes de cuántas palabras hay que dar cuenta? Sobre todo cuando no vienen de Dios. Hay muchas palabras que vienen de lo que personalmente creemos, de lo que pensamos, de lo que te dijeron, por lo que te hicieron y te desquitas hablando, etc. Eso lo hace el carnal, el que no tiene la inspiración del Espíritu Santo en su vida. Aquí en 2 Samuel 23: 2 David decía: \"El Espíritu de Jehová ha hablado por mí…\" Si el Espíritu de Dios ha hablado, pues por tal razón la palabra que se tiene es segura, es clara, confiable. Esa palabra se recibe en paz, aunque provoque una gran guerra en nuestra vida interior o en nuestra relación con los otros seres humanos.",
+        "referencias_inline": [
+          "2 Samuel 23:2"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Números 11:25 Moisés necesitaba de ayuda espiritual para poder atender a la vasta multitud que era el pueblo de Dios, necesitaba hombres que hablaran al pueblo palabra de Dios y no de ellos mismos. Dios le concedió esto a Moisés quien se quejaba de que todo el peso estaba sobre él. Así pues, Dios le dio alivio. Moisés era un hombre de Dios esforzado y manso, pero eran demasiadas las personas que tenía a cargo para aconsejar y dirigir y por eso necesitaba de ayuda para dar palabras espirituales a aquel pueblo. Porque se hablaba mucho en aquel tiempo como también ahora, solo que se hablaba lo carnal; la murmuración, el chisme, la envidia, el enojo y la contienda, todo entre ellos era carnal y Moisés vio la necesidad de palabras espirituales. Así que Dios llegó a Moisés y lo hizo.",
+        "referencias_inline": [
+          "Números 11:25"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Los reyes de Israel y de Judá necesitaban oír palabra de Jehová para tomar una importante decisión según vemos en I Reyes 22:7, 14. Reunidos ambos reyes, Acab de Israel y Josafat de Judá quisieron consultar a Dios. Para ello buscaron 400 profetas (I Reyes 22: 5, 6), pero todos esos profetas se habían vendido al rey; habían vendido sus palabras a este mundo y no eran fieles a Dios, Dios no era primero en sus vidas. Pero, había un profeta fiel a Dios llamado Micaías. Acab el rey de Israel lo aborrecía porque era un verdadero profeta que hablaba según las palabras que le llegaban inspiradas por Dios. Decía Acab en I Reyes 22:8, \"Yo lo aborrezco.\" Eso pasa con los que hablan por inspiración del Espíritu, son aborrecidos de muchos (Mateo 5: 11, 12). El hombre de Dios no actúa en conformidad con su propia voluntad. ¡Cuánto hay que resistirse a la voluntad mañosa y a las malas intenciones del corazón! Leemos en I Reyes 22: 13 que el mensajero le advierte al profeta Micaías que hablara la palabra conforme a la palabra de algunos de aquellos 400 profetas. Un profeta debe estar claro y entender que no está expresando su propio pensamiento, sino siguiendo la mente de Dios en las palabras dadas y ministradas por Él. No hablamos las palabras que quiere oír el hombre sino lo que Dios quiere hablar para bien del hombre. Micaías no temía al rey sino a Dios, iba a hablar lo que Dios le hablase, gustara o no gustara. El hombre de Dios, tal como lo entendió David, sabe \"que la palabra ha estado en mi (su) lengua\" Cuando se teme a Dios se sabe qué palabra es la que debe estar en la boca. No siempre habrá una buena recompensa cuando se habla de parte de Dios.",
+        "referencias_inline": [
+          "1 Reyes 22:7,14",
+          "1 Reyes 22:5,6",
+          "1 Reyes 22:8",
+          "Mateo 5:11,12",
+          "1 Reyes 22:13"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "En 2 Crónicas 24:20-21 leemos que el profeta Zacarías habló de parte de Dios al rey Joás y al pueblo, quienes se habían apartado de Dios. ¡Lo aborrecieron y lo mataron! ¡Cuánto le duele al oído al que se ha separado de Dios y al impío las palabras de amonestación y corrección que les viene de Dios! Cuando sale la voz de Dios y llega a sus oídos los demonios hacen que se retuerzan y esos hombres no pueden disimular, la palabra les causa molestia, coraje, ira. Se les brotan por los ojos los demonios y no pueden disimular, están rabiando, se tuercen, pero el que vive en el Espíritu, el mismo Espíritu Santo lo respaldará. A Zacarías lo apedrearon hasta matarlo. Así era el coraje de los que estaban escuchando al profeta Zacarías, entonces el rey Joás lo mandó a matar. Hay mucho sacrificio cuando se quiere conservar pura e intacta la palabra que ha sido dada por Dios, hay que tener valentía, amor al Señor, entrega y un gran respeto a la voz de Dios que llega a nuestra vida por el Espíritu Santo.",
+        "referencias_inline": [
+          "2 Crónicas 24:20-21"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Jeremías 1:9 \"He aquí he puesto mis palabras en tu boca…\" Así habló Jehová al profeta Jeremías. Ya no iba a vivir Jeremías hablando lo que quería sino que el Espíritu sellaría su boca con fuego. Ya no sería el pensamiento de Jeremías lo que dominaría en su vida. ¡Cuán torpe puede ser nuestro pensamiento el cual muchas veces nos traiciona! Jeremías sería llevado conforme a lo que el Espíritu Santo quería hablarle al pueblo. Jeremías tendría que seguir la mente de Dios en las palabras dadas y ministradas por Él. Ya no era lo que Jeremías pensara o como lo quisiera usar el rey, Jeremías le pertenecía a Dios. Su boca tenía que ser llena del Espíritu Santo; ahora él era un simple instrumento como lo somos tú y yo para Dios.",
+        "referencias_inline": [
+          "Jeremías 1:9"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Cuando el Espíritu es el que ha hablado, lo próximo que sigue es que su palabra estará en tu lengua. Hay que cuidarla, tienes que celar cuando el Espíritu te quiere traer la voz de Dios. No te dejes llevar por sobornos, ni busques tener gente contenta, ni pienses que de esa manera consigues más. Acuérdate que la palabra de Dios es para ser cuidada y guardada fielmente y hablarla tal como es. Si no lo haces, entonces llegarán los días malos tal como lo vemos en este estudio. Seamos fieles a su palabra tal como Dios es fiel en todo. Amén.",
+        "referencias_inline": []
+      }
+    ]
+  },
+  "busqueda": {
+    "texto_indexable": "vivir en la inspiracion del espiritu 2 samuel 23 2 palabra de Dios santidad voluntad de Dios voz de Dios santidad arrepentimiento perseverancia fuego el espiritu santo inspiro a los hombres dedicados a Dios 2 pedro 1 21 se sabe que la escritura nos ha sido dada por la inspiracion del espiritu santo 2 timoteo 3 16 todo hombre y mujer que se entregan a Dios tienen que saber quien les dirige quien los lleva o los trae de aqui para alla todo hombre y mujer que vive para Dios se dejan guiar porque viven inspirados por el espiritu de Dios porque no actuamos en conformidad con nuestras propias voluntades ni estamos expresando nuestros propios pensamientos sino siguiendo la mente de Dios en palabras dadas y ministradas por el facil se les hace hablar a los hombres lo que quieren y lo que les place pero sabes de cuantas palabras hay que dar cuenta sobre todo cuando no vienen de Dios hay muchas palabras que vienen de lo que personalmente creemos de lo que pensamos de lo que te dijeron por lo que te hicieron y te desquitas hablando etc eso lo hace el carnal el que no tiene la inspiracion del espiritu santo en su vida aqui en 2 samuel 23 2 david decia el espiritu de jehova ha hablado por mi si el espiritu de Dios ha hablado pues por tal razon la palabra que se tiene es segura es clara confiable esa palabra se recibe en paz aunque provoque una gran guerra en nuestra vida interior o en nuestra relacion con los otros seres humanos numeros 11 25 moises necesitaba de ayuda espiritual para poder atender a la vasta multitud que era el pueblo de Dios necesitaba hombres que hablaran al pueblo palabra de Dios y no de ellos mismos Dios le concedio esto a moises quien se quejaba de que todo el peso estaba sobre el asi pues Dios le dio alivio moises era un hombre de Dios esforzado y manso pero eran demasiadas las personas que tenia a cargo para aconsejar y dirigir y por eso necesitaba de ayuda para dar palabras espirituales a aquel pueblo porque se hablaba mucho en aquel tiempo como tambien ahora solo que se hablaba lo carnal la murmuracion el chisme la envidia el enojo y la contienda todo entre ellos era carnal y moises vio la necesidad de palabras espirituales asi que Dios llego a moises y lo hizo los reyes de israel y de juda necesitaban oir palabra de jehova para tomar una importante decision segun vemos en i reyes 22 7 14 reunidos ambos reyes acab de israel y josafat de juda quisieron consultar a Dios para ello buscaron 400 profetas i reyes 22 5 6 pero todos esos profetas se habian vendido al rey habian vendido sus palabras a este mundo y no eran fieles a Dios Dios no era primero en sus vidas pero habia un profeta fiel a Dios llamado micaias acab el rey de israel lo aborrecia porque era un verdadero profeta que hablaba segun las palabras que le llegaban inspiradas por Dios decia acab en i reyes 22 8 yo lo aborrezco eso pasa con los que hablan por inspiracion del espiritu son aborrecidos de muchos mateo 5 11 12 el hombre de Dios no actua en conformidad con su propia voluntad cuanto hay que resistirse a la voluntad manosa y a las malas intenciones del corazon leemos en i reyes 22 13 que el mensajero le advierte al profeta micaias que hablara la palabra conforme a la palabra de algunos de aquellos 400 profetas un profeta debe estar claro y entender que no esta expresando su propio pensamiento sino siguiendo la mente de Dios en las palabras dadas y ministradas por el no hablamos las palabras que quiere oir el hombre sino lo que Dios quiere hablar para bien del hombre micaias no temia al rey sino a Dios iba a hablar lo que Dios le hablase gustara o no gustara el hombre de Dios tal como lo entendio david sabe que la palabra ha estado en mi su lengua cuando se teme a Dios se sabe que palabra es la que debe estar en la boca no siempre habra una buena recompensa cuando se habla de parte de Dios en 2 cronicas 24 20 21 leemos que el profeta zacarias hablo de parte de Dios al rey joas y al pueblo quienes se habian apartado de Dios lo aborrecieron y lo mataron cuanto le duele al oido al que se ha separado de Dios y al impio las palabras de amonestacion y correccion que les viene de Dios cuando sale la voz de Dios y llega a sus oidos los demonios hacen que se retuerzan y esos hombres no pueden disimular la palabra les causa molestia coraje ira se les brotan por los ojos los demonios y no pueden disimular estan rabiando se tuercen pero el que vive en el espiritu el mismo espiritu santo lo respaldara a zacarias lo apedrearon hasta matarlo asi era el coraje de los que estaban escuchando al profeta zacarias entonces el rey joas lo mando a matar hay mucho sacrificio cuando se quiere conservar pura e intacta la palabra que ha sido dada por Dios hay que tener valentia amor al senor entrega y un gran respeto a la voz de Dios que llega a nuestra vida por el espiritu santo jeremias 1 9 he aqui he puesto mis palabras en tu boca asi hablo jehova al profeta jeremias ya no iba a vivir jeremias hablando lo que queria sino que el espiritu sellaria su boca con fuego ya no seria el pensamiento de jeremias lo que dominaria en su vida cuan torpe puede ser nuestro pensamiento el cual muchas veces nos traiciona jeremias seria llevado conforme a lo que el espiritu santo queria hablarle al pueblo jeremias tendria que seguir la mente de Dios en las palabras dadas y ministradas por el ya no era lo que jeremias pensara o como lo quisiera usar el rey jeremias le pertenecia a Dios su boca tenia que ser llena del espiritu santo ahora el era un simple instrumento como lo somos tu y yo para Dios cuando el espiritu es el que ha hablado lo proximo que sigue es que su palabra estara en tu lengua hay que cuidarla tienes que celar cuando el espiritu te quiere traer la voz de Dios no te dejes llevar por sobornos ni busques tener gente contenta ni pienses que de esa manera consigues mas acuerdate que la palabra de Dios es para ser cuidada y guardada fielmente y hablarla tal como es si no lo haces entonces llegaran los dias malos tal como lo vemos en este estudio seamos fieles a su palabra tal como Dios es fiel en todo amen",
+    "alias_busqueda": [
+      "Vivir En La Inspiración Del Espíritu",
+      "2 Samuel",
+      "2 Samuel 23",
+      "2 Samuel 23:2",
+      "voz de Dios",
+      "santidad",
+      "arrepentimiento",
+      "perseverancia",
+      "Palabra de Dios"
+    ]
+  },
+  "revision_manual": {
+    "requiere_revision": false,
+    "motivo": ""
+  },
+  "ui": {
+    "mostrar_credito_en_header": true,
+    "mostrar_numero_estudio": true,
+    "mostrar_fecha": true,
+    "mostrar_topicos": true,
+    "permitir_favorito": true,
+    "permitir_compartir": true
+  }
+}

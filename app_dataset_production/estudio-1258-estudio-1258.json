@@ -1,0 +1,654 @@
+{
+  "id": "estudio-1258-estudio-1258",
+  "slug": "estudio-1258-estudio-1258",
+  "numero_estudio": 1258,
+  "tipo_estudio": "Iglesia en las casas",
+  "ministerio": {
+    "iglesia": "Iglesia Cristiana Mega Zoe",
+    "pastora": "Pastora Edith Cruz",
+    "credito_corto": "Iglesia Cristiana Mega Zoe · Pastora Edith Cruz",
+    "credito_largo": "Contenido original de Iglesia Cristiana Mega Zoe, conservando el crédito ministerial correspondiente a la Pastora Edith Cruz."
+  },
+  "identidad_editorial": {
+    "idioma": "es",
+    "fuente_original": "documento_word",
+    "archivo_origen": "/Users/edwingadiel/Desktop/Estudios en Word/Estudio #1258 Josué, el soldado del Señor - Josué 1 8-9.docx",
+    "estado_revision": "procesado",
+    "version_schema": "1.0"
+  },
+  "encabezado": {
+    "titulo": "Josué, Soldado Del Señor",
+    "subtitulo": null,
+    "cita_principal": "Josué 1:8-9",
+    "resumen_corto": "Josué, Soldado Del Señor enseña a discernir la batalla espiritual."
+  },
+  "fechas": {
+    "fecha_inicio": null,
+    "fecha_fin": null,
+    "fecha_texto_original": "",
+    "ano": null
+  },
+  "clasificacion_biblica": {
+    "libro_principal": "Josué",
+    "capitulo_principal": 1,
+    "versiculos_principales": [
+      8,
+      9
+    ],
+    "referencia_principal_normalizada": "Josué 1:8-9",
+    "testamento_principal": "Antiguo Testamento"
+  },
+  "clasificacion_tematica": {
+    "topicos": [
+      "Obediencia",
+      "Guerra espiritual",
+      "Amor al prójimo"
+    ],
+    "keywords": [
+      "santidad",
+      "arrepentimiento",
+      "tropiezo",
+      "perseverancia",
+      "reposo"
+    ]
+  },
+  "referencias_biblicas": [
+    {
+      "referencia": "Josué 1:8-9",
+      "referencia_normalizada": "Josué 1:8-9",
+      "libro": "Josué",
+      "capitulo": 1,
+      "versiculos": [
+        8,
+        9
+      ],
+      "tipo": "principal",
+      "clickeable": true
+    },
+    {
+      "referencia": "Josué 1:8",
+      "referencia_normalizada": "Josué 1:8",
+      "libro": "Josué",
+      "capitulo": 1,
+      "versiculos": [
+        8
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Éxodo 17:9",
+      "referencia_normalizada": "Éxodo 17:9",
+      "libro": "Éxodo",
+      "capitulo": 17,
+      "versiculos": [
+        9
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Éxodo 17:13",
+      "referencia_normalizada": "Éxodo 17:13",
+      "libro": "Éxodo",
+      "capitulo": 17,
+      "versiculos": [
+        13
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Números 13:8, 16",
+      "referencia_normalizada": "Números 13:8,16",
+      "libro": "Números",
+      "capitulo": 13,
+      "versiculos": [
+        8,
+        16
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Éxodo 24:12-13",
+      "referencia_normalizada": "Éxodo 24:12-13",
+      "libro": "Éxodo",
+      "capitulo": 24,
+      "versiculos": [
+        12,
+        13
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Éxodo 33:11",
+      "referencia_normalizada": "Éxodo 33:11",
+      "libro": "Éxodo",
+      "capitulo": 33,
+      "versiculos": [
+        11
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Números 14:6-30",
+      "referencia_normalizada": "Números 14:6-30",
+      "libro": "Números",
+      "capitulo": 14,
+      "versiculos": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Números 27:18-23",
+      "referencia_normalizada": "Números 27:18-23",
+      "libro": "Números",
+      "capitulo": 27,
+      "versiculos": [
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Deuteronomio 31:1-8",
+      "referencia_normalizada": "Deuteronomio 31:1-8",
+      "libro": "Deuteronomio",
+      "capitulo": 31,
+      "versiculos": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Josué 1:1-9",
+      "referencia_normalizada": "Josué 1:1-9",
+      "libro": "Josué",
+      "capitulo": 1,
+      "versiculos": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Josué 1:10-11",
+      "referencia_normalizada": "Josué 1:10-11",
+      "libro": "Josué",
+      "capitulo": 1,
+      "versiculos": [
+        10,
+        11
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Josué 3:14-17",
+      "referencia_normalizada": "Josué 3:14-17",
+      "libro": "Josué",
+      "capitulo": 3,
+      "versiculos": [
+        14,
+        15,
+        16,
+        17
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Josué 5:13-15",
+      "referencia_normalizada": "Josué 5:13-15",
+      "libro": "Josué",
+      "capitulo": 5,
+      "versiculos": [
+        13,
+        14,
+        15
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Josué 6:12-21",
+      "referencia_normalizada": "Josué 6:12-21",
+      "libro": "Josué",
+      "capitulo": 6,
+      "versiculos": [
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Josué 7",
+      "referencia_normalizada": "Josué 7",
+      "libro": "Josué",
+      "capitulo": 7,
+      "versiculos": [],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Josué 11:23",
+      "referencia_normalizada": "Josué 11:23",
+      "libro": "Josué",
+      "capitulo": 11,
+      "versiculos": [
+        23
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Josué 23:4",
+      "referencia_normalizada": "Josué 23:4",
+      "libro": "Josué",
+      "capitulo": 23,
+      "versiculos": [
+        4
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Josué 24:23",
+      "referencia_normalizada": "Josué 24:23",
+      "libro": "Josué",
+      "capitulo": 24,
+      "versiculos": [
+        23
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Josué 24:29-31",
+      "referencia_normalizada": "Josué 24:29-31",
+      "libro": "Josué",
+      "capitulo": 24,
+      "versiculos": [
+        29,
+        30,
+        31
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Efesios 6:12",
+      "referencia_normalizada": "Efesios 6:12",
+      "libro": "Efesios",
+      "capitulo": 6,
+      "versiculos": [
+        12
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "1 Juan 5:4",
+      "referencia_normalizada": "1 Juan 5:4",
+      "libro": "1 Juan",
+      "capitulo": 5,
+      "versiculos": [
+        4
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Jueces 3:1-8",
+      "referencia_normalizada": "Jueces 3:1-8",
+      "libro": "Jueces",
+      "capitulo": 3,
+      "versiculos": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Hebreos 4:11",
+      "referencia_normalizada": "Hebreos 4:11",
+      "libro": "Hebreos",
+      "capitulo": 4,
+      "versiculos": [
+        11
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    }
+  ],
+  "contenido": {
+    "introduccion": null,
+    "secciones": [],
+    "contenido_completo": "Dios pide a Josué que viva conforme a la Ley de Dios y hacer de ella su norma (reglas se deben seguir). (Josué 1:8) Es como si Dios pusiera en manos de Josué (1:9) el libro de la ley; y le encarga: (a) que de día y de noche medite en ella; (b) No había de perder que se apartase de su boca, y decirle al pueblo la relación con la Ley de Dios; (c) Siempre había de hacer conforme a toda la Ley. Aunque fuese hombre de gran poder y autoridad, debía someterse a lo mandado.\n\nSucesor de Moisés (Éxodo 17:9)\n\n(Éxodo 17:13) Josué deshizo a Amalec y a su pueblo.\n\nLa derrota de Amalec.\n\nLa victoria había estado en el aire por algún tiempo entre los dos campamentos, pero Israel siguió luchando hasta que Josué deshizo a Amalec.\n\nAunque Josué luchaba con grandes desventajas, con soldados faltos de disciplina, malas armaduras, cuarenta años quebrantados, largos años en esclavitud y siempre prestos a murmurar, nada de ellos para ganar.\n\nDios, sin embargo, obró por medio de ellos una gran salvación.\n\nSeamos amigos y conozcamos de él.\n\nSus primeros años y su preparación para el liderazgo.\n\nEra hijo de Nun, de la tribu de Efraín. (Números 13:8, 16)\n\n(Éxodo 17:9) Fue mencionado por primera vez en la batalla contra los amalecitas, donde dirigió las fuerzas de Israel.\n\nJosué (Éxodo 24:12-13; 33:11) servidor de Moisés.\n\nSe convirtió en el ayudante de Moisés y lo acompañó parte del camino hacia el Monte Sinaí cuando fue dicho el Decálogo (los Diez Mandamientos).\n\n(Éxodo 33:11) Fue el ayudador en el tabernáculo.\n\nEl joven Josué hijo de Nun, \"su servidor\", \"nunca\" se apartaba de en medio del tabernáculo.\n\n(Números 13:8, 16) Se le cambia su nombre, es enviado como uno de los espías enviados desde Cades a reconocer la tierra de Canaán.\n\n(Números 14:6-30) Dio un informe alentador sobre la tierra, junto con Caleb, resultando en la promesa a estos dos de entrar a la Tierra Prometida, mientras que todos los demás adultos de su generación murieron en el desierto.\n\nSu carrera como líder de Israel.\n\nFue designado por Dios y ordenado como sucesor de Moisés (Números 27:18-23); Varón en el cual hay espíritu (no es carnal) y pondrás tu mano sobre él.\n\nMoisés (Deuteronomio 31:1-8) le dio un encargo solemne ante \"todo Israel\": Y Jehová va delante de ti; Él estará contigo, no te dejará, ni te desamparará\"; no temas ni te intimides.\n\nDespués de la muerte de Moisés, fue designado por Dios como líder, se le animó en su tarea y se le instruyó acerca de las condiciones para tener éxito (Josué 1:1-9).\n\nEmpezó inmediatamente (Josué 1:10-11) su carrera de conquista, estado de temor.\n\nAl comienzo de su campaña ocurrieron tres sucesos sobrenaturales, que indicaron que el Señor estaba con él.\n\n(Josué 3:14-17) El río Jordán se divide cuando estaba a punto de desbordarse para dar paso a los israelitas.\n\nEl ángel de Jehová se le aparece (Josué 5:13-15).\n\n(Josué 6:12-21) Tan pronto se lleva a cabo el plan divino, en el momento en que el pueblo dé la señal, \"los muros de la ciudad caen\", permitiendo una victoria completa.\n\n(Josué 7) Josué solo encuentra un tropiezo, la derrota en Hai, que le enseñaba la necesidad de \"una obediencia absoluta a Dios.\"\n\n(Josué 11:23; 12:24) De aquí en adelante Josué continuó firme hasta que venció a treinta y un reyes, y la mayor parte de la tierra fue sometida.\n\nLuego dividió la tierra entre las tribus (Josué 23:4)\n\nSus últimos días.\n\n(Josué 24:23) Antes de su muerte, dirige unas palabras de despedida a Israel, aconsejando al pueblo a tener lealtad a Dios y a permanecer como una nación separada.\n\n(Josué 24:29-31) Murió, dejando una influencia poderosa en Israel.\n\nLas conquistas de Josué sobre los enemigos de Israel pueden verse como un tipo de la batalla que un cristiano tiene con las tres fuerzas básicas del mal: el mundo, la carne y el diablo. (Efesios 6:12)\n\nLa victoria de Josué fue ganada por fe; al igual que la del cristiano. (1 Juan 5:4)\n\nLos frutos de la conquista fueron perdidos pronto por los sucesores de Josué, que se rindieron deshonrosamente ante sus viejos enemigos (Jueces 3:1-8). Lo mismo ocurre muy a menudo en la vida cristiana.\n\n(Hebreos 4:11) El reposo solo llega a los que \"conservan\" lo que han ganado. Amén.",
+    "contenido_renderizado": [
+      {
+        "tipo": "parrafo",
+        "texto": "Dios pide a Josué que viva conforme a la Ley de Dios y hacer de ella su norma (reglas se deben seguir). (Josué 1:8) Es como si Dios pusiera en manos de Josué (1:9) el libro de la ley; y le encarga: (a) que de día y de noche medite en ella; (b) No había de perder que se apartase de su boca, y decirle al pueblo la relación con la Ley de Dios; (c) Siempre había de hacer conforme a toda la Ley. Aunque fuese hombre de gran poder y autoridad, debía someterse a lo mandado.",
+        "referencias_inline": [
+          "Josué 1:8"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Sucesor de Moisés (Éxodo 17:9)",
+        "referencias_inline": [
+          "Éxodo 17:9"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Éxodo 17:13) Josué deshizo a Amalec y a su pueblo.",
+        "referencias_inline": [
+          "Éxodo 17:13"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "La derrota de Amalec.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "La victoria había estado en el aire por algún tiempo entre los dos campamentos, pero Israel siguió luchando hasta que Josué deshizo a Amalec.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Aunque Josué luchaba con grandes desventajas, con soldados faltos de disciplina, malas armaduras, cuarenta años quebrantados, largos años en esclavitud y siempre prestos a murmurar, nada de ellos para ganar.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Dios, sin embargo, obró por medio de ellos una gran salvación.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Seamos amigos y conozcamos de él.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Sus primeros años y su preparación para el liderazgo.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Era hijo de Nun, de la tribu de Efraín. (Números 13:8, 16)",
+        "referencias_inline": [
+          "Números 13:8,16"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Éxodo 17:9) Fue mencionado por primera vez en la batalla contra los amalecitas, donde dirigió las fuerzas de Israel.",
+        "referencias_inline": [
+          "Éxodo 17:9"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Josué (Éxodo 24:12-13; 33:11) servidor de Moisés.",
+        "referencias_inline": [
+          "Éxodo 24:12-13"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Se convirtió en el ayudante de Moisés y lo acompañó parte del camino hacia el Monte Sinaí cuando fue dicho el Decálogo (los Diez Mandamientos).",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Éxodo 33:11) Fue el ayudador en el tabernáculo.",
+        "referencias_inline": [
+          "Éxodo 33:11"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "El joven Josué hijo de Nun, \"su servidor\", \"nunca\" se apartaba de en medio del tabernáculo.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Números 13:8, 16) Se le cambia su nombre, es enviado como uno de los espías enviados desde Cades a reconocer la tierra de Canaán.",
+        "referencias_inline": [
+          "Números 13:8,16"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Números 14:6-30) Dio un informe alentador sobre la tierra, junto con Caleb, resultando en la promesa a estos dos de entrar a la Tierra Prometida, mientras que todos los demás adultos de su generación murieron en el desierto.",
+        "referencias_inline": [
+          "Números 14:6-30"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Su carrera como líder de Israel.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Fue designado por Dios y ordenado como sucesor de Moisés (Números 27:18-23); Varón en el cual hay espíritu (no es carnal) y pondrás tu mano sobre él.",
+        "referencias_inline": [
+          "Números 27:18-23"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Moisés (Deuteronomio 31:1-8) le dio un encargo solemne ante \"todo Israel\": Y Jehová va delante de ti; Él estará contigo, no te dejará, ni te desamparará\"; no temas ni te intimides.",
+        "referencias_inline": [
+          "Deuteronomio 31:1-8"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Después de la muerte de Moisés, fue designado por Dios como líder, se le animó en su tarea y se le instruyó acerca de las condiciones para tener éxito (Josué 1:1-9).",
+        "referencias_inline": [
+          "Josué 1:1-9"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Empezó inmediatamente (Josué 1:10-11) su carrera de conquista, estado de temor.",
+        "referencias_inline": [
+          "Josué 1:10-11"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Al comienzo de su campaña ocurrieron tres sucesos sobrenaturales, que indicaron que el Señor estaba con él.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Josué 3:14-17) El río Jordán se divide cuando estaba a punto de desbordarse para dar paso a los israelitas.",
+        "referencias_inline": [
+          "Josué 3:14-17"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "El ángel de Jehová se le aparece (Josué 5:13-15).",
+        "referencias_inline": [
+          "Josué 5:13-15"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Josué 6:12-21) Tan pronto se lleva a cabo el plan divino, en el momento en que el pueblo dé la señal, \"los muros de la ciudad caen\", permitiendo una victoria completa.",
+        "referencias_inline": [
+          "Josué 6:12-21"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Josué 7) Josué solo encuentra un tropiezo, la derrota en Hai, que le enseñaba la necesidad de \"una obediencia absoluta a Dios.\"",
+        "referencias_inline": [
+          "Josué 7"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Josué 11:23; 12:24) De aquí en adelante Josué continuó firme hasta que venció a treinta y un reyes, y la mayor parte de la tierra fue sometida.",
+        "referencias_inline": [
+          "Josué 11:23"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Luego dividió la tierra entre las tribus (Josué 23:4)",
+        "referencias_inline": [
+          "Josué 23:4"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Sus últimos días.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Josué 24:23) Antes de su muerte, dirige unas palabras de despedida a Israel, aconsejando al pueblo a tener lealtad a Dios y a permanecer como una nación separada.",
+        "referencias_inline": [
+          "Josué 24:23"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Josué 24:29-31) Murió, dejando una influencia poderosa en Israel.",
+        "referencias_inline": [
+          "Josué 24:29-31"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Las conquistas de Josué sobre los enemigos de Israel pueden verse como un tipo de la batalla que un cristiano tiene con las tres fuerzas básicas del mal: el mundo, la carne y el diablo. (Efesios 6:12)",
+        "referencias_inline": [
+          "Efesios 6:12"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "La victoria de Josué fue ganada por fe; al igual que la del cristiano. (1 Juan 5:4)",
+        "referencias_inline": [
+          "1 Juan 5:4"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Los frutos de la conquista fueron perdidos pronto por los sucesores de Josué, que se rindieron deshonrosamente ante sus viejos enemigos (Jueces 3:1-8). Lo mismo ocurre muy a menudo en la vida cristiana.",
+        "referencias_inline": [
+          "Jueces 3:1-8"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Hebreos 4:11) El reposo solo llega a los que \"conservan\" lo que han ganado. Amén.",
+        "referencias_inline": [
+          "Hebreos 4:11"
+        ]
+      }
+    ]
+  },
+  "busqueda": {
+    "texto_indexable": "josue soldado del senor josue 1 8 9 obediencia guerra espiritual amor al projimo santidad arrepentimiento tropiezo perseverancia reposo Dios pide a josue que viva conforme a la ley de Dios y hacer de ella su norma reglas se deben seguir josue 1 8 es como si Dios pusiera en manos de josue 1 9 el libro de la ley y le encarga a que de dia y de noche medite en ella b no habia de perder que se apartase de su boca y decirle al pueblo la relacion con la ley de Dios c siempre habia de hacer conforme a toda la ley aunque fuese hombre de gran poder y autoridad debia someterse a lo mandado sucesor de moises exodo 17 9 exodo 17 13 josue deshizo a amalec y a su pueblo la derrota de amalec la victoria habia estado en el aire por algun tiempo entre los dos campamentos pero israel siguio luchando hasta que josue deshizo a amalec aunque josue luchaba con grandes desventajas con soldados faltos de disciplina malas armaduras cuarenta anos quebrantados largos anos en esclavitud y siempre prestos a murmurar nada de ellos para ganar Dios sin embargo obro por medio de ellos una gran salvacion seamos amigos y conozcamos de el sus primeros anos y su preparacion para el liderazgo era hijo de nun de la tribu de efrain numeros 13 8 16 exodo 17 9 fue mencionado por primera vez en la batalla contra los amalecitas donde dirigio las fuerzas de israel josue exodo 24 12 13 33 11 servidor de moises se convirtio en el ayudante de moises y lo acompano parte del camino hacia el monte sinai cuando fue dicho el decalogo los diez mandamientos exodo 33 11 fue el ayudador en el tabernaculo el joven josue hijo de nun su servidor nunca se apartaba de en medio del tabernaculo numeros 13 8 16 se le cambia su nombre es enviado como uno de los espias enviados desde cades a reconocer la tierra de canaan numeros 14 6 30 dio un informe alentador sobre la tierra junto con caleb resultando en la promesa a estos dos de entrar a la tierra prometida mientras que todos los demas adultos de su generacion murieron en el desierto su carrera como lider de israel fue designado por Dios y ordenado como sucesor de moises numeros 27 18 23 varon en el cual hay espiritu no es carnal y pondras tu mano sobre el moises deuteronomio 31 1 8 le dio un encargo solemne ante todo israel y jehova va delante de ti el estara contigo no te dejara ni te desamparara no temas ni te intimides despues de la muerte de moises fue designado por Dios como lider se le animo en su tarea y se le instruyo acerca de las condiciones para tener exito josue 1 1 9 empezo inmediatamente josue 1 10 11 su carrera de conquista estado de temor al comienzo de su campana ocurrieron tres sucesos sobrenaturales que indicaron que el senor estaba con el josue 3 14 17 el rio jordan se divide cuando estaba a punto de desbordarse para dar paso a los israelitas el angel de jehova se le aparece josue 5 13 15 josue 6 12 21 tan pronto se lleva a cabo el plan divino en el momento en que el pueblo de la senal los muros de la ciudad caen permitiendo una victoria completa josue 7 josue solo encuentra un tropiezo la derrota en hai que le ensenaba la necesidad de una obediencia absoluta a Dios josue 11 23 12 24 de aqui en adelante josue continuo firme hasta que vencio a treinta y un reyes y la mayor parte de la tierra fue sometida luego dividio la tierra entre las tribus josue 23 4 sus ultimos dias josue 24 23 antes de su muerte dirige unas palabras de despedida a israel aconsejando al pueblo a tener lealtad a Dios y a permanecer como una nacion separada josue 24 29 31 murio dejando una influencia poderosa en israel las conquistas de josue sobre los enemigos de israel pueden verse como un tipo de la batalla que un cristiano tiene con las tres fuerzas basicas del mal el mundo la carne y el diablo efesios 6 12 la victoria de josue fue ganada por fe al igual que la del cristiano 1 juan 5 4 los frutos de la conquista fueron perdidos pronto por los sucesores de josue que se rindieron deshonrosamente ante sus viejos enemigos jueces 3 1 8 lo mismo ocurre muy a menudo en la vida cristiana hebreos 4 11 el reposo solo llega a los que conservan lo que han ganado amen",
+    "alias_busqueda": [
+      "Estudio 1258",
+      "Josué",
+      "Josué 1",
+      "Josué 1:8-9",
+      "santidad",
+      "arrepentimiento",
+      "tropiezo",
+      "perseverancia",
+      "Obediencia",
+      "Guerra espiritual"
+    ]
+  },
+  "revision_manual": {
+    "requiere_revision": false,
+    "motivo": ""
+  },
+  "ui": {
+    "mostrar_credito_en_header": true,
+    "mostrar_numero_estudio": true,
+    "mostrar_fecha": true,
+    "mostrar_topicos": true,
+    "permitir_favorito": true,
+    "permitir_compartir": true
+  }
+}

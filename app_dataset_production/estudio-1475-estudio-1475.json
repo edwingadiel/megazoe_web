@@ -1,0 +1,433 @@
+{
+  "id": "estudio-1475-estudio-1475",
+  "slug": "estudio-1475-estudio-1475",
+  "numero_estudio": 1475,
+  "tipo_estudio": "Iglesia en las casas",
+  "ministerio": {
+    "iglesia": "Iglesia Cristiana Mega Zoe",
+    "pastora": "Pastora Edith Cruz",
+    "credito_corto": "Iglesia Cristiana Mega Zoe · Pastora Edith Cruz",
+    "credito_largo": "Contenido original de Iglesia Cristiana Mega Zoe, conservando el crédito ministerial correspondiente a la Pastora Edith Cruz."
+  },
+  "identidad_editorial": {
+    "idioma": "es",
+    "fuente_original": "documento_word",
+    "archivo_origen": "/Users/edwingadiel/Desktop/Estudios en Word/Estudio #1475 Todo efecto tiene una causa - Mateo 12 30-33.docx",
+    "estado_revision": "procesado",
+    "version_schema": "1.0"
+  },
+  "encabezado": {
+    "titulo": "Todo Efecto Tiene una Causa",
+    "subtitulo": null,
+    "cita_principal": "Mateo 12:30-33",
+    "resumen_corto": "Todo Efecto Tiene una Causa llama a servir fielmente al Señor y permanecer como discípulos de Jesús."
+  },
+  "fechas": {
+    "fecha_inicio": null,
+    "fecha_fin": null,
+    "fecha_texto_original": "",
+    "ano": null
+  },
+  "clasificacion_biblica": {
+    "libro_principal": "Mateo",
+    "capitulo_principal": 12,
+    "versiculos_principales": [
+      30,
+      31,
+      32,
+      33
+    ],
+    "referencia_principal_normalizada": "Mateo 12:30-33",
+    "testamento_principal": "Nuevo Testamento"
+  },
+  "clasificacion_tematica": {
+    "topicos": [
+      "Servicio cristiano",
+      "Discipulado",
+      "Humildad"
+    ],
+    "keywords": [
+      "verdad",
+      "santidad",
+      "juicio",
+      "arrepentimiento",
+      "perseverancia"
+    ]
+  },
+  "referencias_biblicas": [
+    {
+      "referencia": "Mateo 12: 30-33",
+      "referencia_normalizada": "Mateo 12:30-33",
+      "libro": "Mateo",
+      "capitulo": 12,
+      "versiculos": [
+        30,
+        31,
+        32,
+        33
+      ],
+      "tipo": "principal",
+      "clickeable": true
+    },
+    {
+      "referencia": "Amós 3:3-8",
+      "referencia_normalizada": "Amós 3:3-8",
+      "libro": "Amós",
+      "capitulo": 3,
+      "versiculos": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Mateo 12:30",
+      "referencia_normalizada": "Mateo 12:30",
+      "libro": "Mateo",
+      "capitulo": 12,
+      "versiculos": [
+        30
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Mateo 26:14-16",
+      "referencia_normalizada": "Mateo 26:14-16",
+      "libro": "Mateo",
+      "capitulo": 26,
+      "versiculos": [
+        14,
+        15,
+        16
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Salmos 41:9",
+      "referencia_normalizada": "Salmos 41:9",
+      "libro": "Salmos",
+      "capitulo": 41,
+      "versiculos": [
+        9
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Juan 12:4-5",
+      "referencia_normalizada": "Juan 12:4-5",
+      "libro": "Juan",
+      "capitulo": 12,
+      "versiculos": [
+        4,
+        5
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Juan 12: 4-6",
+      "referencia_normalizada": "Juan 12:4-6",
+      "libro": "Juan",
+      "capitulo": 12,
+      "versiculos": [
+        4,
+        5,
+        6
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Hechos 15: 36-41",
+      "referencia_normalizada": "Hechos 15:36-41",
+      "libro": "Hechos",
+      "capitulo": 15,
+      "versiculos": [
+        36,
+        37,
+        38,
+        39,
+        40,
+        41
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "2 Timoteo 4:10",
+      "referencia_normalizada": "2 Timoteo 4:10",
+      "libro": "2 Timoteo",
+      "capitulo": 4,
+      "versiculos": [
+        10
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "2 Timoteo 4:11",
+      "referencia_normalizada": "2 Timoteo 4:11",
+      "libro": "2 Timoteo",
+      "capitulo": 4,
+      "versiculos": [
+        11
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    }
+  ],
+  "contenido": {
+    "introduccion": null,
+    "secciones": [],
+    "contenido_completo": "En Amós 3:3-8; el juicio no descendería sin razón; todo efecto (consecuencia, secuela, aquello que sigue, aquello que se consigue como consecuencia de una causa) tiene una causa (origen, principio, motivo, razón). Amós hace siete preguntas de causa y efecto culminando con una calamidad urbana (ciudad) \"causada por Jehová\". No tendría que tomarle por sorpresa puesto que Dios ya lo había revelado anteriormente por medio de Sus profetas.\n\n¿Andarán dos juntos, sino estuvieren de acuerdo?\n\nEs como decir: ¿rugirá el león en la selva sin haber presa?\n\nEl juicio no descendería sin razón; todo efecto tiene una causa.\n\n(Mateo 12:30) No recoge, desparrama (extender por muchas partes lo que estaba junto) el que no está conmigo (Jesús).\n\nEsta blasfemia (ofensa verbal contra la majestad divina, profano, pecado) actitud (desparramar) mostraba que los fariseos no estaban con el Señor; por tanto, estaban contra Él.\n\nAl rehusar recoger con Él, estaban desparramando \"el grano\".\n\nHabían acusado a Jesús de echar demonios por medio del poder de Satanás, intentando frustrar la obra de Dios.\n\nEstá con Él o está contra Él.\n\nAquí no hay medias tintas (indecisión o precaución, no asume una posición definida y lo peor deja espacio para la ambigüedad, no asume una posición concreta, confusión y doble sentido).\n\nSabes hermano, que Jesús nunca, pero nunca tendrá uno en Su ejército que desparrame.\n\nHay que recoger como Jesús lo hizo cuando estaba en la tierra.\n\nHoy en día el porciento alto es la media, pocos guerreros y muchos opinadores, presumidos, pretendiendo el saber.\n\nJehová ruge, es decir amenaza; \"y el que conmigo no recoge, desparrama\".\n\nNunca, nunca habrá un héroe desparramando.\n\n(Mateo 26:14-16) Entonces uno de los doce, esto es, uno de los discípulos que había vivido con el Señor, viajando con Él, viendo Sus milagros y oído Sus incomparables enseñanzas y que había sido testigo del milagro de una vida sin pecado, uno a quien Jesús podía llamar: \"mi amigo íntimo\", en quien confiaba, \"el hombre de mi paz, el que de mi pan comía, alzó contra mí el calcañar\" (Salmos 41:9), \"contra el Hijo de Dios\".\n\nJudas Iscariote fue a los del Sanedrín a cambio de treinta monedas de plata.\n\n¿Cómo lo ve?\n\nUn beso de Judas así fue su traición y su venta; ¿mira cómo lo ve?\n\nLos sacerdotes le pagaron allí mismo, un menospreciable total de alrededor de un mes de salario de un humilde jornalero.\n\nEs notable, observar el contraste entre la mujer que ungió a Jesús en casa de Simón y Judas (Juan 12:4-5).\n\nEl contraste tan violento (Juan 12: 4-6); ¿Por qué no fue este perfume vendido por trescientos denarios (40 dólares), el cual Judas vende a Jesús por (30) treinta monedas de plata y quería que el perfume fuera vendido por 300 denarios?\n\n(Hechos 15: 36-41) El segundo viaje misionero.\n\nPablo le presenta a Bernabé acerca de lo que le inquieta, le sugiere que vayan por las ciudades que habían anunciado la Palabra.\n\nBernabé le insiste en que su sobrino Marcos los acompañase.\n\nPablo se opuso enérgicamente (fuerte, firme, resuelto, decidido, concluyente = definitivo) a ello.\n\nRecordaba vívidamente cómo Marcos se había apartado de ellos desde Panfilia e indudablemente temía que volviese a repetirlo.\n\nLa contienda entre Bernabé y Pablo se hizo tan recia que estos dos distinguidos siervos del Señor se separaron el uno del otro; Bernabé tomando a Marcos, se embarcó rumbo a Chipre, su lugar natal y también la primera escala en su primer viaje misionero.\n\nPablo, escogiendo a Silas, pasó por Siria y Cilicia, consolidando (dando firmeza, solidez) a las iglesias.\n\n(2 Timoteo 4:10) Judas ve en Jesús dinero y lo vende, Bernabé complace a su sobrino y Bernabé se separa de Pablo, no estaban de acuerdo y así Demas abandonó a Pablo.\n\nDemas amaba este siglo.\n\nUna de las amargas experiencias en el servicio cristiano es ser abandonado por aquellos que habían sido compañeros en la obra.\n\nDemás había sido un amigo de Pablo, hermano en la fe y colaborador.\n\nPero ahora Pablo estaba en la cárcel, los cristianos estaban siendo perseguidos y el clima político era claramente insalubre (malo) para los cristianos.\n\nEn lugar de amar la venida del Señor, Demas amó este mundo y abandonó así a Pablo y se fue a Tesalónica.\n\nTal vez sus temores por su propia seguridad lo llevaron a caer.\n\n(11) \"Lucas está conmigo\", el amado doctor era el único que mantenía contacto con Pablo, está en Roma.\n\n¡Cuánto debe haber significado para el apóstol tener el aliento espiritual y la destreza profesional de este gran hombre de Dios!\n\nMás tarde, Pablo y Marcos se reconciliaron y aquí el apóstol pide específicamente por Marcos como uno que es útil para el ministerio (2 Timoteo 4:11). Amén",
+    "contenido_renderizado": [
+      {
+        "tipo": "parrafo",
+        "texto": "En Amós 3:3-8; el juicio no descendería sin razón; todo efecto (consecuencia, secuela, aquello que sigue, aquello que se consigue como consecuencia de una causa) tiene una causa (origen, principio, motivo, razón). Amós hace siete preguntas de causa y efecto culminando con una calamidad urbana (ciudad) \"causada por Jehová\". No tendría que tomarle por sorpresa puesto que Dios ya lo había revelado anteriormente por medio de Sus profetas.",
+        "referencias_inline": [
+          "Amós 3:3-8"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "¿Andarán dos juntos, sino estuvieren de acuerdo?",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Es como decir: ¿rugirá el león en la selva sin haber presa?",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "El juicio no descendería sin razón; todo efecto tiene una causa.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Mateo 12:30) No recoge, desparrama (extender por muchas partes lo que estaba junto) el que no está conmigo (Jesús).",
+        "referencias_inline": [
+          "Mateo 12:30"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Esta blasfemia (ofensa verbal contra la majestad divina, profano, pecado) actitud (desparramar) mostraba que los fariseos no estaban con el Señor; por tanto, estaban contra Él.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Al rehusar recoger con Él, estaban desparramando \"el grano\".",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Habían acusado a Jesús de echar demonios por medio del poder de Satanás, intentando frustrar la obra de Dios.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Está con Él o está contra Él.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Aquí no hay medias tintas (indecisión o precaución, no asume una posición definida y lo peor deja espacio para la ambigüedad, no asume una posición concreta, confusión y doble sentido).",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Sabes hermano, que Jesús nunca, pero nunca tendrá uno en Su ejército que desparrame.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Hay que recoger como Jesús lo hizo cuando estaba en la tierra.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Hoy en día el porciento alto es la media, pocos guerreros y muchos opinadores, presumidos, pretendiendo el saber.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Jehová ruge, es decir amenaza; \"y el que conmigo no recoge, desparrama\".",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Nunca, nunca habrá un héroe desparramando.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Mateo 26:14-16) Entonces uno de los doce, esto es, uno de los discípulos que había vivido con el Señor, viajando con Él, viendo Sus milagros y oído Sus incomparables enseñanzas y que había sido testigo del milagro de una vida sin pecado, uno a quien Jesús podía llamar: \"mi amigo íntimo\", en quien confiaba, \"el hombre de mi paz, el que de mi pan comía, alzó contra mí el calcañar\" (Salmos 41:9), \"contra el Hijo de Dios\".",
+        "referencias_inline": [
+          "Mateo 26:14-16",
+          "Salmos 41:9"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Judas Iscariote fue a los del Sanedrín a cambio de treinta monedas de plata.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "¿Cómo lo ve?",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Un beso de Judas así fue su traición y su venta; ¿mira cómo lo ve?",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Los sacerdotes le pagaron allí mismo, un menospreciable total de alrededor de un mes de salario de un humilde jornalero.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Es notable, observar el contraste entre la mujer que ungió a Jesús en casa de Simón y Judas (Juan 12:4-5).",
+        "referencias_inline": [
+          "Juan 12:4-5"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "El contraste tan violento (Juan 12: 4-6); ¿Por qué no fue este perfume vendido por trescientos denarios (40 dólares), el cual Judas vende a Jesús por (30) treinta monedas de plata y quería que el perfume fuera vendido por 300 denarios?",
+        "referencias_inline": [
+          "Juan 12:4-6"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Hechos 15: 36-41) El segundo viaje misionero.",
+        "referencias_inline": [
+          "Hechos 15:36-41"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Pablo le presenta a Bernabé acerca de lo que le inquieta, le sugiere que vayan por las ciudades que habían anunciado la Palabra.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Bernabé le insiste en que su sobrino Marcos los acompañase.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Pablo se opuso enérgicamente (fuerte, firme, resuelto, decidido, concluyente = definitivo) a ello.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Recordaba vívidamente cómo Marcos se había apartado de ellos desde Panfilia e indudablemente temía que volviese a repetirlo.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "La contienda entre Bernabé y Pablo se hizo tan recia que estos dos distinguidos siervos del Señor se separaron el uno del otro; Bernabé tomando a Marcos, se embarcó rumbo a Chipre, su lugar natal y también la primera escala en su primer viaje misionero.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Pablo, escogiendo a Silas, pasó por Siria y Cilicia, consolidando (dando firmeza, solidez) a las iglesias.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(2 Timoteo 4:10) Judas ve en Jesús dinero y lo vende, Bernabé complace a su sobrino y Bernabé se separa de Pablo, no estaban de acuerdo y así Demas abandonó a Pablo.",
+        "referencias_inline": [
+          "2 Timoteo 4:10"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Demas amaba este siglo.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Una de las amargas experiencias en el servicio cristiano es ser abandonado por aquellos que habían sido compañeros en la obra.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Demás había sido un amigo de Pablo, hermano en la fe y colaborador.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Pero ahora Pablo estaba en la cárcel, los cristianos estaban siendo perseguidos y el clima político era claramente insalubre (malo) para los cristianos.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "En lugar de amar la venida del Señor, Demas amó este mundo y abandonó así a Pablo y se fue a Tesalónica.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Tal vez sus temores por su propia seguridad lo llevaron a caer.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(11) \"Lucas está conmigo\", el amado doctor era el único que mantenía contacto con Pablo, está en Roma.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "¡Cuánto debe haber significado para el apóstol tener el aliento espiritual y la destreza profesional de este gran hombre de Dios!",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Más tarde, Pablo y Marcos se reconciliaron y aquí el apóstol pide específicamente por Marcos como uno que es útil para el ministerio (2 Timoteo 4:11). Amén",
+        "referencias_inline": [
+          "2 Timoteo 4:11"
+        ]
+      }
+    ]
+  },
+  "busqueda": {
+    "texto_indexable": "todo efecto tiene una causa mateo 12 30 33 servicio cristiano discipulado humildad verdad santidad juicio arrepentimiento perseverancia en amos 3 3 8 el juicio no descenderia sin razon todo efecto consecuencia secuela aquello que sigue aquello que se consigue como consecuencia de una causa tiene una causa origen principio motivo razon amos hace siete preguntas de causa y efecto culminando con una calamidad urbana ciudad causada por jehova no tendria que tomarle por sorpresa puesto que Dios ya lo habia revelado anteriormente por medio de sus profetas andaran dos juntos sino estuvieren de acuerdo es como decir rugira el leon en la selva sin haber presa el juicio no descenderia sin razon todo efecto tiene una causa mateo 12 30 no recoge desparrama extender por muchas partes lo que estaba junto el que no esta conmigo Jesus esta blasfemia ofensa verbal contra la majestad divina profano pecado actitud desparramar mostraba que los fariseos no estaban con el senor por tanto estaban contra el al rehusar recoger con el estaban desparramando el grano habian acusado a Jesus de echar demonios por medio del poder de satanas intentando frustrar la obra de Dios esta con el o esta contra el aqui no hay medias tintas indecision o precaucion no asume una posicion definida y lo peor deja espacio para la ambiguedad no asume una posicion concreta confusion y doble sentido sabes hermano que Jesus nunca pero nunca tendra uno en su ejercito que desparrame hay que recoger como Jesus lo hizo cuando estaba en la tierra hoy en dia el porciento alto es la media pocos guerreros y muchos opinadores presumidos pretendiendo el saber jehova ruge es decir amenaza y el que conmigo no recoge desparrama nunca nunca habra un heroe desparramando mateo 26 14 16 entonces uno de los doce esto es uno de los discipulos que habia vivido con el senor viajando con el viendo sus milagros y oido sus incomparables ensenanzas y que habia sido testigo del milagro de una vida sin pecado uno a quien Jesus podia llamar mi amigo intimo en quien confiaba el hombre de mi paz el que de mi pan comia alzo contra mi el calcanar salmos 41 9 contra el hijo de Dios judas iscariote fue a los del sanedrin a cambio de treinta monedas de plata como lo ve un beso de judas asi fue su traicion y su venta mira como lo ve los sacerdotes le pagaron alli mismo un menospreciable total de alrededor de un mes de salario de un humilde jornalero es notable observar el contraste entre la mujer que ungio a Jesus en casa de simon y judas juan 12 4 5 el contraste tan violento juan 12 4 6 por que no fue este perfume vendido por trescientos denarios 40 dolares el cual judas vende a Jesus por 30 treinta monedas de plata y queria que el perfume fuera vendido por 300 denarios hechos 15 36 41 el segundo viaje misionero pablo le presenta a bernabe acerca de lo que le inquieta le sugiere que vayan por las ciudades que habian anunciado la palabra bernabe le insiste en que su sobrino marcos los acompanase pablo se opuso energicamente fuerte firme resuelto decidido concluyente definitivo a ello recordaba vividamente como marcos se habia apartado de ellos desde panfilia e indudablemente temia que volviese a repetirlo la contienda entre bernabe y pablo se hizo tan recia que estos dos distinguidos siervos del senor se separaron el uno del otro bernabe tomando a marcos se embarco rumbo a chipre su lugar natal y tambien la primera escala en su primer viaje misionero pablo escogiendo a silas paso por siria y cilicia consolidando dando firmeza solidez a las iglesias 2 timoteo 4 10 judas ve en Jesus dinero y lo vende bernabe complace a su sobrino y bernabe se separa de pablo no estaban de acuerdo y asi demas abandono a pablo demas amaba este siglo una de las amargas experiencias en el servicio cristiano es ser abandonado por aquellos que habian sido companeros en la obra demas habia sido un amigo de pablo hermano en la fe y colaborador pero ahora pablo estaba en la carcel los cristianos estaban siendo perseguidos y el clima politico era claramente insalubre malo para los cristianos en lugar de amar la venida del senor demas amo este mundo y abandono asi a pablo y se fue a tesalonica tal vez sus temores por su propia seguridad lo llevaron a caer 11 lucas esta conmigo el amado doctor era el unico que mantenia contacto con pablo esta en roma cuanto debe haber significado para el apostol tener el aliento espiritual y la destreza profesional de este gran hombre de Dios mas tarde pablo y marcos se reconciliaron y aqui el apostol pide especificamente por marcos como uno que es util para el ministerio 2 timoteo 4 11 amen",
+    "alias_busqueda": [
+      "Estudio 1475",
+      "Mateo",
+      "Mateo 12",
+      "Mateo 12:30-33",
+      "verdad",
+      "santidad",
+      "juicio",
+      "arrepentimiento",
+      "Servicio cristiano",
+      "Discipulado"
+    ]
+  },
+  "revision_manual": {
+    "requiere_revision": false,
+    "motivo": ""
+  },
+  "ui": {
+    "mostrar_credito_en_header": true,
+    "mostrar_numero_estudio": true,
+    "mostrar_fecha": true,
+    "mostrar_topicos": true,
+    "permitir_favorito": true,
+    "permitir_compartir": true
+  }
+}

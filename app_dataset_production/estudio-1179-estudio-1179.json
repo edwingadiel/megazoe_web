@@ -1,0 +1,488 @@
+{
+  "id": "estudio-1179-estudio-1179",
+  "slug": "estudio-1179-estudio-1179",
+  "numero_estudio": 1179,
+  "tipo_estudio": "Iglesia en las casas",
+  "ministerio": {
+    "iglesia": "Iglesia Cristiana Mega Zoe",
+    "pastora": "Pastora Edith Cruz",
+    "credito_corto": "Iglesia Cristiana Mega Zoe · Pastora Edith Cruz",
+    "credito_largo": "Contenido original de Iglesia Cristiana Mega Zoe, conservando el crédito ministerial correspondiente a la Pastora Edith Cruz."
+  },
+  "identidad_editorial": {
+    "idioma": "es",
+    "fuente_original": "documento_word",
+    "archivo_origen": "/Users/edwingadiel/Desktop/Estudios en Word/Estudio #1179 El Señor es mi estandarte de guerra - Exodo 17 8-16.docx",
+    "estado_revision": "procesado",
+    "version_schema": "1.0"
+  },
+  "encabezado": {
+    "titulo": "El Señor es mi Estandarte de Guerra",
+    "subtitulo": null,
+    "cita_principal": "Éxodo 17:8-16",
+    "resumen_corto": "El Señor es mi Estandarte de Guerra llama a perseverar en la oración y servir fielmente al Señor."
+  },
+  "fechas": {
+    "fecha_inicio": null,
+    "fecha_fin": null,
+    "fecha_texto_original": "",
+    "ano": null
+  },
+  "clasificacion_biblica": {
+    "libro_principal": "Éxodo",
+    "capitulo_principal": 17,
+    "versiculos_principales": [
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+    ],
+    "referencia_principal_normalizada": "Éxodo 17:8-16",
+    "testamento_principal": "Antiguo Testamento"
+  },
+  "clasificacion_tematica": {
+    "topicos": [
+      "Oración",
+      "Servicio cristiano",
+      "Palabra de Dios"
+    ],
+    "keywords": [
+      "temor de Dios",
+      "santidad",
+      "oración",
+      "arrepentimiento",
+      "perseverancia"
+    ]
+  },
+  "referencias_biblicas": [
+    {
+      "referencia": "Éxodo 17:8-16",
+      "referencia_normalizada": "Éxodo 17:8-16",
+      "libro": "Éxodo",
+      "capitulo": 17,
+      "versiculos": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "tipo": "principal",
+      "clickeable": true
+    },
+    {
+      "referencia": "Deuteronomio 25:18",
+      "referencia_normalizada": "Deuteronomio 25:18",
+      "libro": "Deuteronomio",
+      "capitulo": 25,
+      "versiculos": [
+        18
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Deuteronomio 32:9-14",
+      "referencia_normalizada": "Deuteronomio 32:9-14",
+      "libro": "Deuteronomio",
+      "capitulo": 32,
+      "versiculos": [
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Éxodo 17:12",
+      "referencia_normalizada": "Éxodo 17:12",
+      "libro": "Éxodo",
+      "capitulo": 17,
+      "versiculos": [
+        12
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Éxodo 17:13",
+      "referencia_normalizada": "Éxodo 17:13",
+      "libro": "Éxodo",
+      "capitulo": 17,
+      "versiculos": [
+        13
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Éxodo 17:15",
+      "referencia_normalizada": "Éxodo 17:15",
+      "libro": "Éxodo",
+      "capitulo": 17,
+      "versiculos": [
+        15
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Éxodo 17:14",
+      "referencia_normalizada": "Éxodo 17:14",
+      "libro": "Éxodo",
+      "capitulo": 17,
+      "versiculos": [
+        14
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Zacarías 2:8",
+      "referencia_normalizada": "Zacarías 2:8",
+      "libro": "Zacarías",
+      "capitulo": 2,
+      "versiculos": [
+        8
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "1 Samuel 15",
+      "referencia_normalizada": "1 Samuel 15",
+      "libro": "1 Samuel",
+      "capitulo": 15,
+      "versiculos": [],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "1 Samuel 30",
+      "referencia_normalizada": "1 Samuel 30",
+      "libro": "1 Samuel",
+      "capitulo": 30,
+      "versiculos": [],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "2 Samuel 1:1",
+      "referencia_normalizada": "2 Samuel 1:1",
+      "libro": "2 Samuel",
+      "capitulo": 1,
+      "versiculos": [
+        1
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Éxodo 17:16",
+      "referencia_normalizada": "Éxodo 17:16",
+      "libro": "Éxodo",
+      "capitulo": 17,
+      "versiculos": [
+        16
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    }
+  ],
+  "contenido": {
+    "introduccion": null,
+    "secciones": [],
+    "contenido_completo": "El Señor es mi bandera. Una tribu nómada que robaba; eran descendientes de Esaú, quien aborrecía a su hermano Jacob por haberle arrebatado la primogenitura. Puede ser que este ataque de Amalec era un eco de enemistad hereditaria. (Deuteronomio 25:18) De cómo le salió al encuentro en el camino y le desbarató la retaguardia \"de todos los débiles\" que iban detrás de ti, cuando tú estabas cansado, trabajado y no tuvo ningún temor de Dios.\n\nEra un campamento guardado milagrosamente.\n\nNo sabían lo que hacían.\n\nJosué es mencionado por vez primera.\n\nEs el comandante de esta primera guerra contra los que le quieren extinguir.\n\nMoisés ora y tiene la vara de Dios en su mano.\n\nJosué lucha.\n\nLa vara es levantada por Moisés para animar a los israelitas.\n\nEntusiasma a los soldados con la vara, le era una bandera.\n\nEra una antena de oración de Moisés, era el intercesor que apelaba a Dios en demanda de éxito y victoria.\n\nAlguien dijo: La oración es la fuerza del hombre y la debilidad de Dios (Deuteronomio 32:9-14).\n\nSu gran amor, no es falta de poder y dominio.\n\nMoisés se cansaba: Las manos de Moisés se cansaban, estaban pesadas.\n\nNo dice que las manos de Josué estuviesen cansadas de pelear, pero sí que las de Moisés estaban cansadas de orar.\n\n(M.H.) Dice: Cuanto más espiritual es un servicio, mayor es el peligro que tenemos de fracasar o de flaquear en él.\n\nEl poder de la vara que determinaba la intervención que se podía obtener para el triunfo de la batalla de Moisés para con Israel.\n\nEsta es la influencia que la vara de Moisés tenía en la batalla: Cuando alzaba Moisés su mano en la oración, Israel prevalecía; pero cuando él bajaba su mano prevalecía Amalec.\n\nLo diligente que tuvieron de sostener las manos de Moisés.\n\nCuando ya no pudo más mantenerse de pie, se sentó sobre una piedra (Éxodo 17:12); cuando no pudo sostener más sus manos en alto, hubo que sostenérselas.\n\nMoisés el hombre de Dios, está tranquilo de que le ayudaban Aarón su hermano y Hur.\n\nAsí hubo en sus manos firmeza, fe, fidelidad hasta que se puso el sol.\n\nEl tener a Moisés orando en lo alto del monte por ellos y a Josué delante de ellos en el campo de la batalla, debemos de saber que le sirvió de gran aliento para el pueblo de Israel.\n\nLa derrota de Amalec (Éxodo 17:13).\n\nLa victoria había estado en el aire por algún tiempo entre los dos campamentos, pero Israel siguió luchando hasta que Josué deshizo a Amalec.\n\nJosué luchaba con muchas desventajas.\n\nSoldados murmuradores por la comida.\n\nNo sabían de disciplina de guerra y de ninguna otra.\n\nLas armas no eran conocidas por ellos, eran esclavos no guerreros, ni defensores de Egipto.\n\nEn su esclavitud estaban experimentados por largo tiempo.\n\nDios, sin embargo, obró por medio de ellos una gran salvación.\n\n(Éxodo 17:15) Moisés se preocupó de que Dios tuviese la gloria de aquella victoria.\n\nLevantó un altar en honor a Dios y lo que con mayor esmero se registra en el relato es la inscripción sobre el altar: Jehová Nissi, Jehová es mi bandera (estandarte).\n\nSe refiere a la vara de Dios levantada como una bandera de esta acción militar.\n\nLa presencia y poder de Jehová eran la bandera bajo la cual estaban alistados, por ella habían sido alentados y se habían \"mantenidos firmes.\"\n\nDios procuró que la posteridad tuviese consuelo y provecho por medio del recuerdo de tal victoria (Éxodo 17:14): Escribe esto para memoria en un libro y repítelo a los oídos de Josué (hebreo) era como decirle, \"encomiéndale este memorial, para que lo trasmita a las generaciones venideras.\"\n\nMoisés ha de comenzar ahora a guardar un diario de lo que suceda al pueblo de Israel.\n\nEn la primera mención que encontramos en la Biblia acerca de escribir.\n\nEscribe lo que se ha hecho.\n\nQue las edades venideras sepan que Dios lucha por su pueblo, \"y que el que toca a su pueblo, toca la niña de su ojo (Zacarías 2:8).\n\nEscribe lo que hay que hacer.\n\nQue, al correr de los años, Amalec será totalmente destruido.\n\nIsrael triunfará sin duda, al fin, en la caída de Amalec.\n\nEsta sentencia fue ejecutada en parte por Saúl (1 Samuel 15) y completada por David (1 Samuel 30; 2 Samuel 1:1; 8:12)\n\nDespués de eso, desaparece hasta el nombre de Amalec.\n\n(Éxodo 17:16) Que entretanto, Dios tendría guerra constante contra Amalec.\n\nEsto se escribió para advertir a Israel que nunca debía unirse con los amalecitas.",
+    "contenido_renderizado": [
+      {
+        "tipo": "parrafo",
+        "texto": "El Señor es mi bandera. Una tribu nómada que robaba; eran descendientes de Esaú, quien aborrecía a su hermano Jacob por haberle arrebatado la primogenitura. Puede ser que este ataque de Amalec era un eco de enemistad hereditaria. (Deuteronomio 25:18) De cómo le salió al encuentro en el camino y le desbarató la retaguardia \"de todos los débiles\" que iban detrás de ti, cuando tú estabas cansado, trabajado y no tuvo ningún temor de Dios.",
+        "referencias_inline": [
+          "Deuteronomio 25:18"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Era un campamento guardado milagrosamente.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "No sabían lo que hacían.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Josué es mencionado por vez primera.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Es el comandante de esta primera guerra contra los que le quieren extinguir.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Moisés ora y tiene la vara de Dios en su mano.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Josué lucha.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "La vara es levantada por Moisés para animar a los israelitas.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Entusiasma a los soldados con la vara, le era una bandera.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Era una antena de oración de Moisés, era el intercesor que apelaba a Dios en demanda de éxito y victoria.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Alguien dijo: La oración es la fuerza del hombre y la debilidad de Dios (Deuteronomio 32:9-14).",
+        "referencias_inline": [
+          "Deuteronomio 32:9-14"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Su gran amor, no es falta de poder y dominio.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Moisés se cansaba: Las manos de Moisés se cansaban, estaban pesadas.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "No dice que las manos de Josué estuviesen cansadas de pelear, pero sí que las de Moisés estaban cansadas de orar.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(M.H.) Dice: Cuanto más espiritual es un servicio, mayor es el peligro que tenemos de fracasar o de flaquear en él.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "El poder de la vara que determinaba la intervención que se podía obtener para el triunfo de la batalla de Moisés para con Israel.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Esta es la influencia que la vara de Moisés tenía en la batalla: Cuando alzaba Moisés su mano en la oración, Israel prevalecía; pero cuando él bajaba su mano prevalecía Amalec.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Lo diligente que tuvieron de sostener las manos de Moisés.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Cuando ya no pudo más mantenerse de pie, se sentó sobre una piedra (Éxodo 17:12); cuando no pudo sostener más sus manos en alto, hubo que sostenérselas.",
+        "referencias_inline": [
+          "Éxodo 17:12"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Moisés el hombre de Dios, está tranquilo de que le ayudaban Aarón su hermano y Hur.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Así hubo en sus manos firmeza, fe, fidelidad hasta que se puso el sol.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "El tener a Moisés orando en lo alto del monte por ellos y a Josué delante de ellos en el campo de la batalla, debemos de saber que le sirvió de gran aliento para el pueblo de Israel.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "La derrota de Amalec (Éxodo 17:13).",
+        "referencias_inline": [
+          "Éxodo 17:13"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "La victoria había estado en el aire por algún tiempo entre los dos campamentos, pero Israel siguió luchando hasta que Josué deshizo a Amalec.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Josué luchaba con muchas desventajas.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Soldados murmuradores por la comida.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "No sabían de disciplina de guerra y de ninguna otra.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Las armas no eran conocidas por ellos, eran esclavos no guerreros, ni defensores de Egipto.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "En su esclavitud estaban experimentados por largo tiempo.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Dios, sin embargo, obró por medio de ellos una gran salvación.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Éxodo 17:15) Moisés se preocupó de que Dios tuviese la gloria de aquella victoria.",
+        "referencias_inline": [
+          "Éxodo 17:15"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Levantó un altar en honor a Dios y lo que con mayor esmero se registra en el relato es la inscripción sobre el altar: Jehová Nissi, Jehová es mi bandera (estandarte).",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Se refiere a la vara de Dios levantada como una bandera de esta acción militar.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "La presencia y poder de Jehová eran la bandera bajo la cual estaban alistados, por ella habían sido alentados y se habían \"mantenidos firmes.\"",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Dios procuró que la posteridad tuviese consuelo y provecho por medio del recuerdo de tal victoria (Éxodo 17:14): Escribe esto para memoria en un libro y repítelo a los oídos de Josué (hebreo) era como decirle, \"encomiéndale este memorial, para que lo trasmita a las generaciones venideras.\"",
+        "referencias_inline": [
+          "Éxodo 17:14"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Moisés ha de comenzar ahora a guardar un diario de lo que suceda al pueblo de Israel.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "En la primera mención que encontramos en la Biblia acerca de escribir.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Escribe lo que se ha hecho.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Que las edades venideras sepan que Dios lucha por su pueblo, \"y que el que toca a su pueblo, toca la niña de su ojo (Zacarías 2:8).",
+        "referencias_inline": [
+          "Zacarías 2:8"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Escribe lo que hay que hacer.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Que, al correr de los años, Amalec será totalmente destruido.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Israel triunfará sin duda, al fin, en la caída de Amalec.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Esta sentencia fue ejecutada en parte por Saúl (1 Samuel 15) y completada por David (1 Samuel 30; 2 Samuel 1:1; 8:12)",
+        "referencias_inline": [
+          "1 Samuel 15",
+          "1 Samuel 30",
+          "2 Samuel 1:1"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Después de eso, desaparece hasta el nombre de Amalec.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Éxodo 17:16) Que entretanto, Dios tendría guerra constante contra Amalec.",
+        "referencias_inline": [
+          "Éxodo 17:16"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Esto se escribió para advertir a Israel que nunca debía unirse con los amalecitas.",
+        "referencias_inline": []
+      }
+    ]
+  },
+  "busqueda": {
+    "texto_indexable": "el senor es mi estandarte de guerra exodo 17 8 16 oracion servicio cristiano palabra de Dios temor de Dios santidad oracion arrepentimiento perseverancia el senor es mi bandera una tribu nomada que robaba eran descendientes de esau quien aborrecia a su hermano jacob por haberle arrebatado la primogenitura puede ser que este ataque de amalec era un eco de enemistad hereditaria deuteronomio 25 18 de como le salio al encuentro en el camino y le desbarato la retaguardia de todos los debiles que iban detras de ti cuando tu estabas cansado trabajado y no tuvo ningun temor de Dios era un campamento guardado milagrosamente no sabian lo que hacian josue es mencionado por vez primera es el comandante de esta primera guerra contra los que le quieren extinguir moises ora y tiene la vara de Dios en su mano josue lucha la vara es levantada por moises para animar a los israelitas entusiasma a los soldados con la vara le era una bandera era una antena de oracion de moises era el intercesor que apelaba a Dios en demanda de exito y victoria alguien dijo la oracion es la fuerza del hombre y la debilidad de Dios deuteronomio 32 9 14 su gran amor no es falta de poder y dominio moises se cansaba las manos de moises se cansaban estaban pesadas no dice que las manos de josue estuviesen cansadas de pelear pero si que las de moises estaban cansadas de orar m h dice cuanto mas espiritual es un servicio mayor es el peligro que tenemos de fracasar o de flaquear en el el poder de la vara que determinaba la intervencion que se podia obtener para el triunfo de la batalla de moises para con israel esta es la influencia que la vara de moises tenia en la batalla cuando alzaba moises su mano en la oracion israel prevalecia pero cuando el bajaba su mano prevalecia amalec lo diligente que tuvieron de sostener las manos de moises cuando ya no pudo mas mantenerse de pie se sento sobre una piedra exodo 17 12 cuando no pudo sostener mas sus manos en alto hubo que sostenerselas moises el hombre de Dios esta tranquilo de que le ayudaban aaron su hermano y hur asi hubo en sus manos firmeza fe fidelidad hasta que se puso el sol el tener a moises orando en lo alto del monte por ellos y a josue delante de ellos en el campo de la batalla debemos de saber que le sirvio de gran aliento para el pueblo de israel la derrota de amalec exodo 17 13 la victoria habia estado en el aire por algun tiempo entre los dos campamentos pero israel siguio luchando hasta que josue deshizo a amalec josue luchaba con muchas desventajas soldados murmuradores por la comida no sabian de disciplina de guerra y de ninguna otra las armas no eran conocidas por ellos eran esclavos no guerreros ni defensores de egipto en su esclavitud estaban experimentados por largo tiempo Dios sin embargo obro por medio de ellos una gran salvacion exodo 17 15 moises se preocupo de que Dios tuviese la gloria de aquella victoria levanto un altar en honor a Dios y lo que con mayor esmero se registra en el relato es la inscripcion sobre el altar jehova nissi jehova es mi bandera estandarte se refiere a la vara de Dios levantada como una bandera de esta accion militar la presencia y poder de jehova eran la bandera bajo la cual estaban alistados por ella habian sido alentados y se habian mantenidos firmes Dios procuro que la posteridad tuviese consuelo y provecho por medio del recuerdo de tal victoria exodo 17 14 escribe esto para memoria en un libro y repitelo a los oidos de josue hebreo era como decirle encomiendale este memorial para que lo trasmita a las generaciones venideras moises ha de comenzar ahora a guardar un diario de lo que suceda al pueblo de israel en la primera mencion que encontramos en la biblia acerca de escribir escribe lo que se ha hecho que las edades venideras sepan que Dios lucha por su pueblo y que el que toca a su pueblo toca la nina de su ojo zacarias 2 8 escribe lo que hay que hacer que al correr de los anos amalec sera totalmente destruido israel triunfara sin duda al fin en la caida de amalec esta sentencia fue ejecutada en parte por saul 1 samuel 15 y completada por david 1 samuel 30 2 samuel 1 1 8 12 despues de eso desaparece hasta el nombre de amalec exodo 17 16 que entretanto Dios tendria guerra constante contra amalec esto se escribio para advertir a israel que nunca debia unirse con los amalecitas",
+    "alias_busqueda": [
+      "Estudio 1179",
+      "Éxodo",
+      "Éxodo 17",
+      "Éxodo 17:8-16",
+      "temor de Dios",
+      "santidad",
+      "oración",
+      "arrepentimiento",
+      "Servicio cristiano"
+    ]
+  },
+  "revision_manual": {
+    "requiere_revision": false,
+    "motivo": ""
+  },
+  "ui": {
+    "mostrar_credito_en_header": true,
+    "mostrar_numero_estudio": true,
+    "mostrar_fecha": true,
+    "mostrar_topicos": true,
+    "permitir_favorito": true,
+    "permitir_compartir": true
+  }
+}

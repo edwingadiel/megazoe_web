@@ -1,0 +1,110 @@
+{
+  "id": "estudio-241-estudio-241",
+  "slug": "estudio-241-estudio-241",
+  "numero_estudio": 241,
+  "tipo_estudio": "",
+  "ministerio": {
+    "iglesia": "Iglesia Cristiana Mega Zoe",
+    "pastora": "Pastora Edith Cruz",
+    "credito_corto": "Iglesia Cristiana Mega Zoe · Pastora Edith Cruz",
+    "credito_largo": "Contenido original de Iglesia Cristiana Mega Zoe, conservando el crédito ministerial correspondiente a la Pastora Edith Cruz."
+  },
+  "identidad_editorial": {
+    "idioma": "es",
+    "fuente_original": "documento_word",
+    "archivo_origen": "/Users/edwingadiel/Desktop/Estudios en Word/Estudio #241 El conocimiento envanece, pero el amor edifica - 1 Cor. 4 8-16.doc",
+    "estado_revision": "procesado",
+    "version_schema": "1.0"
+  },
+  "encabezado": {
+    "titulo": "El conocimiento envanece, pero el amor edifica",
+    "subtitulo": null,
+    "cita_principal": "Lucas 9:46-48",
+    "resumen_corto": "El conocimiento envanece, pero el amor edifica llama a perseverar en la oración y caminar con sabiduría espiritual."
+  },
+  "fechas": {
+    "fecha_inicio": "2002-04-02",
+    "fecha_fin": "2002-04-08",
+    "fecha_texto_original": "SEMANA DEL 2 @ 8 DE ABRIL DE 2002",
+    "ano": 2002
+  },
+  "clasificacion_biblica": {
+    "libro_principal": "Lucas",
+    "capitulo_principal": 9,
+    "versiculos_principales": [
+      46,
+      47,
+      48
+    ],
+    "referencia_principal_normalizada": "Lucas 9:46-48",
+    "testamento_principal": "Nuevo Testamento"
+  },
+  "clasificacion_tematica": {
+    "topicos": [
+      "Oración",
+      "Sabiduría espiritual",
+      "Discipulado",
+      "Pruebas"
+    ],
+    "keywords": [
+      "oración",
+      "lágrimas",
+      "escrituras",
+      "arca",
+      "testimonio"
+    ]
+  },
+  "referencias_biblicas": [
+    {
+      "referencia": "Lucas 9:46-48",
+      "referencia_normalizada": "Lucas 9:46-48",
+      "libro": "Lucas",
+      "capitulo": 9,
+      "versiculos": [
+        46,
+        47,
+        48
+      ],
+      "tipo": "principal",
+      "clickeable": true
+    }
+  ],
+  "contenido": {
+    "introduccion": null,
+    "secciones": [],
+    "contenido_completo": "Yo (la pastora) no vivo de acuerdo a lo que nos hicieron, lo que quiero es que no se pierda ninguno y aprovechar la oportunidad que nos ha dado Dios. Demos ejemplo y testimonio, que seamos un libro abierto para que la gente lo vea. Que nuestros actos no pongan a la gente a huir, dejemos ver que tenemos sentimientos nobles. Si tu vives para ser generoso y cedes, no vives con ese empeño de ganar serás cualificado como generoso. Al conocimiento le gusta ganar, pero el generoso cede y al ceder no perdemos. Hay situaciones que son de todos los días, como por ejemplo cuando vamos conduciendo y llega el momento entre dos conductores, que uno tiene que ceder para que siga fluyendo el tránsito, pero si ninguno de los dos tiene esa capacidad de ceder, probablemente surgirá una discusión que puede terminar en una pelea o hasta la muerte. Esto, en muchas ocasiones se nos hace una costumbre, vivir en plena discusión y cuando llegamos a la iglesia queremos ser igual. Así se han levantado las falsas doctrinas, con hombres que aparentemente tienen un conocimiento, pero poco han edificado. A veces los hermanos se hablan con sarcasmos, el que tiene mucho conocimiento es más pronto para contestar. Me pongo a observar a los jóvenes, a ver como su vida va creciendo, no queriendo juzgarlos de acuerdo a los que yo he vivido, sino de acuerdo a lo que se está edificando, cumpliendo la voluntad del Padre. Las experiencias vividas no deben dirigir el presente, no tienen porqué repetirse si no se lo permitimos. El Pueblo no debe quedarse estancado en un conocimiento; el que edifica puede hacerlo hasta el día de su muerte, si ama. Tal vez, nos hayamos hecho grandes para los ojos de los hombres, pero, ¿Cómo nos conoce Dios? Debemos trabajar cono dice 1ra Cor. 13. Podemos estar llenos de lenguas, pero si no tenemos amor, de nada nos sirve. Podemos ser los profetas más grandes de la historia, tal vez ser como Isaías, pero si no tenemos amor, para nada edifica, es metal que resuena. Cuando nos gusta edificar, lo hacemos con muchas lágrimas. Si estamos dispuestos, el Señor rompe en nosotros ese vano conocimiento y crecemos en lo perfecto.",
+    "contenido_renderizado": [
+      {
+        "tipo": "parrafo",
+        "texto": "Yo (la pastora) no vivo de acuerdo a lo que nos hicieron, lo que quiero es que no se pierda ninguno y aprovechar la oportunidad que nos ha dado Dios. Demos ejemplo y testimonio, que seamos un libro abierto para que la gente lo vea. Que nuestros actos no pongan a la gente a huir, dejemos ver que tenemos sentimientos nobles. Si tu vives para ser generoso y cedes, no vives con ese empeño de ganar serás cualificado como generoso. Al conocimiento le gusta ganar, pero el generoso cede y al ceder no perdemos. Hay situaciones que son de todos los días, como por ejemplo cuando vamos conduciendo y llega el momento entre dos conductores, que uno tiene que ceder para que siga fluyendo el tránsito, pero si ninguno de los dos tiene esa capacidad de ceder, probablemente surgirá una discusión que puede terminar en una pelea o hasta la muerte. Esto, en muchas ocasiones se nos hace una costumbre, vivir en plena discusión y cuando llegamos a la iglesia queremos ser igual. Así se han levantado las falsas doctrinas, con hombres que aparentemente tienen un conocimiento, pero poco han edificado. A veces los hermanos se hablan con sarcasmos, el que tiene mucho conocimiento es más pronto para contestar. Me pongo a observar a los jóvenes, a ver como su vida va creciendo, no queriendo juzgarlos de acuerdo a los que yo he vivido, sino de acuerdo a lo que se está edificando, cumpliendo la voluntad del Padre. Las experiencias vividas no deben dirigir el presente, no tienen porqué repetirse si no se lo permitimos. El Pueblo no debe quedarse estancado en un conocimiento; el que edifica puede hacerlo hasta el día de su muerte, si ama. Tal vez, nos hayamos hecho grandes para los ojos de los hombres, pero, ¿Cómo nos conoce Dios? Debemos trabajar cono dice 1ra Cor. 13. Podemos estar llenos de lenguas, pero si no tenemos amor, de nada nos sirve. Podemos ser los profetas más grandes de la historia, tal vez ser como Isaías, pero si no tenemos amor, para nada edifica, es metal que resuena. Cuando nos gusta edificar, lo hacemos con muchas lágrimas. Si estamos dispuestos, el Señor rompe en nosotros ese vano conocimiento y crecemos en lo perfecto.",
+        "referencias_inline": []
+      }
+    ]
+  },
+  "busqueda": {
+    "texto_indexable": "el conocimiento envanece pero el amor edifica lucas 9 46 48 oracion sabiduria espiritual discipulado pruebas oracion lagrimas escrituras arca testimonio yo la pastora no vivo de acuerdo a lo que nos hicieron lo que quiero es que no se pierda ninguno y aprovechar la oportunidad que nos ha dado Dios demos ejemplo y testimonio que seamos un libro abierto para que la gente lo vea que nuestros actos no pongan a la gente a huir dejemos ver que tenemos sentimientos nobles si tu vives para ser generoso y cedes no vives con ese empeno de ganar seras cualificado como generoso al conocimiento le gusta ganar pero el generoso cede y al ceder no perdemos hay situaciones que son de todos los dias como por ejemplo cuando vamos conduciendo y llega el momento entre dos conductores que uno tiene que ceder para que siga fluyendo el transito pero si ninguno de los dos tiene esa capacidad de ceder probablemente surgira una discusion que puede terminar en una pelea o hasta la muerte esto en muchas ocasiones se nos hace una costumbre vivir en plena discusion y cuando llegamos a la iglesia queremos ser igual asi se han levantado las falsas doctrinas con hombres que aparentemente tienen un conocimiento pero poco han edificado a veces los hermanos se hablan con sarcasmos el que tiene mucho conocimiento es mas pronto para contestar me pongo a observar a los jovenes a ver como su vida va creciendo no queriendo juzgarlos de acuerdo a los que yo he vivido sino de acuerdo a lo que se esta edificando cumpliendo la voluntad del padre las experiencias vividas no deben dirigir el presente no tienen porque repetirse si no se lo permitimos el pueblo no debe quedarse estancado en un conocimiento el que edifica puede hacerlo hasta el dia de su muerte si ama tal vez nos hayamos hecho grandes para los ojos de los hombres pero como nos conoce Dios debemos trabajar cono dice 1ra cor 13 podemos estar llenos de lenguas pero si no tenemos amor de nada nos sirve podemos ser los profetas mas grandes de la historia tal vez ser como isaias pero si no tenemos amor para nada edifica es metal que resuena cuando nos gusta edificar lo hacemos con muchas lagrimas si estamos dispuestos el senor rompe en nosotros ese vano conocimiento y crecemos en lo perfecto",
+    "alias_busqueda": [
+      "Estudio 241",
+      "Lucas",
+      "Lucas 9",
+      "Lucas 9:46-48",
+      "oración",
+      "lágrimas",
+      "escrituras",
+      "arca",
+      "Sabiduría espiritual"
+    ]
+  },
+  "revision_manual": {
+    "requiere_revision": false,
+    "motivo": ""
+  },
+  "ui": {
+    "mostrar_credito_en_header": true,
+    "mostrar_numero_estudio": true,
+    "mostrar_fecha": true,
+    "mostrar_topicos": true,
+    "permitir_favorito": true,
+    "permitir_compartir": true
+  }
+}

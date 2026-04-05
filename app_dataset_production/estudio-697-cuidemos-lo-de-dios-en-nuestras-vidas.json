@@ -1,0 +1,274 @@
+{
+  "id": "estudio-697-cuidemos-lo-de-Dios-en-nuestras-vidas",
+  "slug": "estudio-697-cuidemos-lo-de-Dios-en-nuestras-vidas",
+  "numero_estudio": 697,
+  "tipo_estudio": "Iglesia en las casas",
+  "ministerio": {
+    "iglesia": "Iglesia Cristiana Mega Zoe",
+    "pastora": "Pastora Edith Cruz",
+    "credito_corto": "Iglesia Cristiana Mega Zoe · Pastora Edith Cruz",
+    "credito_largo": "Contenido original de Iglesia Cristiana Mega Zoe, conservando el crédito ministerial correspondiente a la Pastora Edith Cruz."
+  },
+  "identidad_editorial": {
+    "idioma": "es",
+    "fuente_original": "documento_word",
+    "archivo_origen": "/Users/edwingadiel/Desktop/Estudios en Word/Estudio #697 Cuidemos lo de Dios en nuestras vidas - 1 Samuel 6 1-9.docx",
+    "estado_revision": "procesado",
+    "version_schema": "1.0"
+  },
+  "encabezado": {
+    "titulo": "Cuidemos lo de Dios en Nuestras Vidas",
+    "subtitulo": null,
+    "cita_principal": "1 Samuel 6:1-9",
+    "resumen_corto": "Cuidemos lo de Dios en Nuestras Vidas llama a caminar con sabiduría espiritual y perseverar en la oración."
+  },
+  "fechas": {
+    "fecha_inicio": null,
+    "fecha_fin": null,
+    "fecha_texto_original": "",
+    "ano": null
+  },
+  "clasificacion_biblica": {
+    "libro_principal": "1 Samuel",
+    "capitulo_principal": 6,
+    "versiculos_principales": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "referencia_principal_normalizada": "1 Samuel 6:1-9",
+    "testamento_principal": "Antiguo Testamento"
+  },
+  "clasificacion_tematica": {
+    "topicos": [
+      "Sabiduría espiritual",
+      "Oración",
+      "Guía del Espíritu Santo"
+    ],
+    "keywords": [
+      "gloria de Dios",
+      "oración",
+      "fuego",
+      "filisteos",
+      "arca"
+    ]
+  },
+  "referencias_biblicas": [
+    {
+      "referencia": "1 Samuel 6:1-9",
+      "referencia_normalizada": "1 Samuel 6:1-9",
+      "libro": "1 Samuel",
+      "capitulo": 6,
+      "versiculos": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "tipo": "principal",
+      "clickeable": true
+    },
+    {
+      "referencia": "1 Samuel 5: 1, 6",
+      "referencia_normalizada": "1 Samuel 5:1,6",
+      "libro": "1 Samuel",
+      "capitulo": 5,
+      "versiculos": [
+        1,
+        6
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "1 Samuel 5: 2",
+      "referencia_normalizada": "1 Samuel 5:2",
+      "libro": "1 Samuel",
+      "capitulo": 5,
+      "versiculos": [
+        2
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "1 Samuel 5:3",
+      "referencia_normalizada": "1 Samuel 5:3",
+      "libro": "1 Samuel",
+      "capitulo": 5,
+      "versiculos": [
+        3
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "1 Samuel 6: 4",
+      "referencia_normalizada": "1 Samuel 6:4",
+      "libro": "1 Samuel",
+      "capitulo": 6,
+      "versiculos": [
+        4
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "1 Samuel 6: 7",
+      "referencia_normalizada": "1 Samuel 6:7",
+      "libro": "1 Samuel",
+      "capitulo": 6,
+      "versiculos": [
+        7
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "1 Samuel 6: 9",
+      "referencia_normalizada": "1 Samuel 6:9",
+      "libro": "1 Samuel",
+      "capitulo": 6,
+      "versiculos": [
+        9
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "1 Samuel 6: 14,15",
+      "referencia_normalizada": "1 Samuel 6:14,15",
+      "libro": "1 Samuel",
+      "capitulo": 6,
+      "versiculos": [
+        14,
+        15
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "1 Samuel 6: 14",
+      "referencia_normalizada": "1 Samuel 6:14",
+      "libro": "1 Samuel",
+      "capitulo": 6,
+      "versiculos": [
+        14
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Josué 21:16",
+      "referencia_normalizada": "Josué 21:16",
+      "libro": "Josué",
+      "capitulo": 21,
+      "versiculos": [
+        16
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "1 Samuel 6: 19",
+      "referencia_normalizada": "1 Samuel 6:19",
+      "libro": "1 Samuel",
+      "capitulo": 6,
+      "versiculos": [
+        19
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    }
+  ],
+  "contenido": {
+    "introduccion": null,
+    "secciones": [],
+    "contenido_completo": "Después que el Arca del Pacto estuvo siete meses en la tierra de los filisteos ellos consultaron a sus sacerdotes y adivinos sobre cómo enviarla de regreso a su lugar. El tener el Arca en cautiverio en su territorio era para ellos una maldición (I Samuel 5: 1, 6). Los filisteos estaban muy claros de todo el mal que les había venido sobre sus cuerpos, pues se habían enfermado, estaban en grandes maldiciones y quebrantos. Pero, también el mal estaba en Israel por la ausencia del Arca. Israel estuvo castigado por sus enemigos por haber descuidado el Arca, quería decir que ahora Dios no estaba con ellos. Cuando Dios no está se vive a la merced del Diablo. A Dios no se le puede abandonar por nada ni por nadie. Por lo tanto: ¡cuidemos lo de Dios en nuestras vidas! Cuando nos descuidamos y echamos lo de Dios por la borda, entonces ya hemos perecido.\n\nA pesar de todo lo sucedido a Israel, ese es el pueblo de las promesas. Es el pueblo separado por Dios de entre todos los pueblos del mundo. Así que, por los muchos padecimientos los filisteos decidieron devolverles el Arca. Fueron a consultar a sus sacerdotes y adivinos para saber cómo la devolverían a Israel. Para los filisteos sus adivinos eran los mejores informados sobre esto, sabrían cómo se debía hacer porque pensaban que en ellos estaba la sabiduría. Así que, los sacerdotes y adivinos les aconsejaron con todo detalle. Pero, nosotros sabemos que los consejos fueron de acuerdo a su criterio y no de acuerdo a un conocimiento que viniera de Dios. Temían mucho a Dios según se nos dice el capítulo 5:11, 12. Habían puesto el Arca del Pacto en su templo al lado del ídolo que representaba a su Dios Dagón (I Samuel 5: 2). Aquel ídolo quedó postrado en tierra delante del Arca del Dios de Israel (I Samuel 5:3). Ellos habían llevado el Arca como botín dedicado a Dagón, pero, la imagen de Dagón cayó postrada y aunque la levantaron y la pusieron nuevamente en su lugar volvió a caer partida por la mitad postrada a delante del Arca de Dios (vs. 4)\n\nLos sacerdotes y adivinos de Dagón le hicieron ver a los filisteos que era absolutamente necesario devolver el Arca. Estaban convencidos del peligro en que estaban al tener el Arca de Dios en un lugar inmundo. Se acordaron de lo que les había pasado a Egipto y a Faraón. Sabían lo que seguro le vendría a ellos. Pudieron entender que Dios era un Dios celoso y que tendrían que enviar con el Arca una ofrenda de expiación. De esa manera, al menos reconocían ante Dios el castigo sufrido y merecido. No serían sanados por ningún otro medio sino mediante un pago por su mal, pero entendamos que sus mentes eran muy limitadas en cuanto a lo espiritual. Así, que cuando comenzaron a tratar de fijar la satisfacción que habían de pagarle a Dios se hicieron miserablemente vanos en sus necias imaginaciones. Hicieron imágenes de tumores y de ratones por la plaga vergonzosa, así creían ellos que pagaban por su iniquidad (I Samuel 6: 4).\n\nIgual que Egipto no dejó ir al pueblo de Dios y fueron destruidos, también ellos temían ser destruidos. Mejor era hacer un carro nuevo y enviar de vuelta el Arca de Dios. Las vacas que usaron para acarrear el carro donde llevaban el Arca no estaban acostumbradas a tener un yugo; lo hicieron así para que nadie las guiara ni influyera en su camino a seguir (I Samuel 6: 7). Entendían que por medio de un poder invisible las vacas serían guiadas en contra de su instinto natural (I Samuel 6: 9). Así que unas vacas sin entendimiento llevaron el carro con el Arca al lugar llamado Bet-semes. La pequeña ciudad de Bet-semes estaba a 15 kilómetros de distancia de los filisteos. Con lo sucedido vemos lo que es el peligro de intervenir como no es debido en lo que es sagrado. El hombre debe primero conocer y entonces con todo cuidado y temor reverente acercarse a lo sagrado. Las vacas siguieron su camino y llegaron a Israel; ellas no se confundieron, fueron los hombres los que se confundieron. Todo aquel que ve a Dios como algo simple se confundirá y se equivocará. La mano invisible que dirigió las vacas a Israel las llevó directamente al campo de Josué donde había una gran piedra; una piedra grande muy conveniente para poner encima el Arca (I Samuel 6: 14,15).\n\nEn todo esto los filisteos habían estado viendo la Gloria de Dios ante ellos, pero aún así no dejaron de adorar a su Dios falso. Y aunque los segadores del pueblo de Israel se alegraron por la llegada del Arca, aún así no le dieron el valor correcto. El carro de madera lo usaron como fuego y las vacas para el sacrificio; esto les parecía bien (I Samuel 6: 14). Aquí se probaba la devoción verdadera o la rebelión y la ignorancia. El sacrificio de las vacas y el fuego con el carro de madera no era lo que más podía agradar a Dios, era la atención y el cuidado del Arca lo importante, pues Dios descendía y les hablaba desde allí. Porque vieron la madera y las vacas levantaron un altar a Dios, antepusieron eso al Arca. Es un gran peligro cuando no se ve lo que en verdad hay que ver.\n\nBet-semes era una de las ciudades asignadas a los hijos de Aarón según la heredad de Judá (Josué 21:16). Por lo tanto, era conveniente tener allí personas consagradas a Dios para hacer el oficio del Arca. Pero, los de Bet-semes eran torpes e indiferentes a la ley de Dios y miraron dentro del Arca de Jehová (I Samuel 6: 19). La ruina del hombre viene por la ambición de conocer lo que le es prohibido. No se podía mirar dentro del Arca, eso era absolutamente prohibido. De parte de ellos esto fue una expresión de menosprecio de lo santo. Así es la ofensa hacia Dios si tenemos en poco sus ordenanzas. Si hubiesen discernido el alto significado del Arca y no hubiesen juzgado aquello meramente por la apariencia exterior se habrían percatado de que nunca había brillado el Arca con tanta majestad como ahora que les era tan necesaria. Dios hizo morir a muchos hombres de Israel por tan grave atrevimiento; por no saber dónde estaba Dios. ¡Bendito sea su nombre, cuando podemos estar delante de Él para rendirle adoración! Pero, estar delante de Dios para contender con Él, eso no es permitido. Al que lo hace le vendrán muchos males como les vinieron a los filisteos y a los israelitas rebeldes. Cuidemos lo de Dios en nuestras vidas y no seamos descuidados ni torpes con lo que es sagrado, seamos sabios y temerosos. Así disfrutaremos siempre de la presencia del Todopoderoso Dios. Amén.",
+    "contenido_renderizado": [
+      {
+        "tipo": "parrafo",
+        "texto": "Después que el Arca del Pacto estuvo siete meses en la tierra de los filisteos ellos consultaron a sus sacerdotes y adivinos sobre cómo enviarla de regreso a su lugar. El tener el Arca en cautiverio en su territorio era para ellos una maldición (I Samuel 5: 1, 6). Los filisteos estaban muy claros de todo el mal que les había venido sobre sus cuerpos, pues se habían enfermado, estaban en grandes maldiciones y quebrantos. Pero, también el mal estaba en Israel por la ausencia del Arca. Israel estuvo castigado por sus enemigos por haber descuidado el Arca, quería decir que ahora Dios no estaba con ellos. Cuando Dios no está se vive a la merced del Diablo. A Dios no se le puede abandonar por nada ni por nadie. Por lo tanto: ¡cuidemos lo de Dios en nuestras vidas! Cuando nos descuidamos y echamos lo de Dios por la borda, entonces ya hemos perecido.",
+        "referencias_inline": [
+          "1 Samuel 5:1,6"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "A pesar de todo lo sucedido a Israel, ese es el pueblo de las promesas. Es el pueblo separado por Dios de entre todos los pueblos del mundo. Así que, por los muchos padecimientos los filisteos decidieron devolverles el Arca. Fueron a consultar a sus sacerdotes y adivinos para saber cómo la devolverían a Israel. Para los filisteos sus adivinos eran los mejores informados sobre esto, sabrían cómo se debía hacer porque pensaban que en ellos estaba la sabiduría. Así que, los sacerdotes y adivinos les aconsejaron con todo detalle. Pero, nosotros sabemos que los consejos fueron de acuerdo a su criterio y no de acuerdo a un conocimiento que viniera de Dios. Temían mucho a Dios según se nos dice el capítulo 5:11, 12. Habían puesto el Arca del Pacto en su templo al lado del ídolo que representaba a su Dios Dagón (I Samuel 5: 2). Aquel ídolo quedó postrado en tierra delante del Arca del Dios de Israel (I Samuel 5:3). Ellos habían llevado el Arca como botín dedicado a Dagón, pero, la imagen de Dagón cayó postrada y aunque la levantaron y la pusieron nuevamente en su lugar volvió a caer partida por la mitad postrada a delante del Arca de Dios (vs. 4)",
+        "referencias_inline": [
+          "1 Samuel 5:2",
+          "1 Samuel 5:3"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Los sacerdotes y adivinos de Dagón le hicieron ver a los filisteos que era absolutamente necesario devolver el Arca. Estaban convencidos del peligro en que estaban al tener el Arca de Dios en un lugar inmundo. Se acordaron de lo que les había pasado a Egipto y a Faraón. Sabían lo que seguro le vendría a ellos. Pudieron entender que Dios era un Dios celoso y que tendrían que enviar con el Arca una ofrenda de expiación. De esa manera, al menos reconocían ante Dios el castigo sufrido y merecido. No serían sanados por ningún otro medio sino mediante un pago por su mal, pero entendamos que sus mentes eran muy limitadas en cuanto a lo espiritual. Así, que cuando comenzaron a tratar de fijar la satisfacción que habían de pagarle a Dios se hicieron miserablemente vanos en sus necias imaginaciones. Hicieron imágenes de tumores y de ratones por la plaga vergonzosa, así creían ellos que pagaban por su iniquidad (I Samuel 6: 4).",
+        "referencias_inline": [
+          "1 Samuel 6:4"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Igual que Egipto no dejó ir al pueblo de Dios y fueron destruidos, también ellos temían ser destruidos. Mejor era hacer un carro nuevo y enviar de vuelta el Arca de Dios. Las vacas que usaron para acarrear el carro donde llevaban el Arca no estaban acostumbradas a tener un yugo; lo hicieron así para que nadie las guiara ni influyera en su camino a seguir (I Samuel 6: 7). Entendían que por medio de un poder invisible las vacas serían guiadas en contra de su instinto natural (I Samuel 6: 9). Así que unas vacas sin entendimiento llevaron el carro con el Arca al lugar llamado Bet-semes. La pequeña ciudad de Bet-semes estaba a 15 kilómetros de distancia de los filisteos. Con lo sucedido vemos lo que es el peligro de intervenir como no es debido en lo que es sagrado. El hombre debe primero conocer y entonces con todo cuidado y temor reverente acercarse a lo sagrado. Las vacas siguieron su camino y llegaron a Israel; ellas no se confundieron, fueron los hombres los que se confundieron. Todo aquel que ve a Dios como algo simple se confundirá y se equivocará. La mano invisible que dirigió las vacas a Israel las llevó directamente al campo de Josué donde había una gran piedra; una piedra grande muy conveniente para poner encima el Arca (I Samuel 6: 14,15).",
+        "referencias_inline": [
+          "1 Samuel 6:7",
+          "1 Samuel 6:9",
+          "1 Samuel 6:14,15"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "En todo esto los filisteos habían estado viendo la Gloria de Dios ante ellos, pero aún así no dejaron de adorar a su Dios falso. Y aunque los segadores del pueblo de Israel se alegraron por la llegada del Arca, aún así no le dieron el valor correcto. El carro de madera lo usaron como fuego y las vacas para el sacrificio; esto les parecía bien (I Samuel 6: 14). Aquí se probaba la devoción verdadera o la rebelión y la ignorancia. El sacrificio de las vacas y el fuego con el carro de madera no era lo que más podía agradar a Dios, era la atención y el cuidado del Arca lo importante, pues Dios descendía y les hablaba desde allí. Porque vieron la madera y las vacas levantaron un altar a Dios, antepusieron eso al Arca. Es un gran peligro cuando no se ve lo que en verdad hay que ver.",
+        "referencias_inline": [
+          "1 Samuel 6:14"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Bet-semes era una de las ciudades asignadas a los hijos de Aarón según la heredad de Judá (Josué 21:16). Por lo tanto, era conveniente tener allí personas consagradas a Dios para hacer el oficio del Arca. Pero, los de Bet-semes eran torpes e indiferentes a la ley de Dios y miraron dentro del Arca de Jehová (I Samuel 6: 19). La ruina del hombre viene por la ambición de conocer lo que le es prohibido. No se podía mirar dentro del Arca, eso era absolutamente prohibido. De parte de ellos esto fue una expresión de menosprecio de lo santo. Así es la ofensa hacia Dios si tenemos en poco sus ordenanzas. Si hubiesen discernido el alto significado del Arca y no hubiesen juzgado aquello meramente por la apariencia exterior se habrían percatado de que nunca había brillado el Arca con tanta majestad como ahora que les era tan necesaria. Dios hizo morir a muchos hombres de Israel por tan grave atrevimiento; por no saber dónde estaba Dios. ¡Bendito sea su nombre, cuando podemos estar delante de Él para rendirle adoración! Pero, estar delante de Dios para contender con Él, eso no es permitido. Al que lo hace le vendrán muchos males como les vinieron a los filisteos y a los israelitas rebeldes. Cuidemos lo de Dios en nuestras vidas y no seamos descuidados ni torpes con lo que es sagrado, seamos sabios y temerosos. Así disfrutaremos siempre de la presencia del Todopoderoso Dios. Amén.",
+        "referencias_inline": [
+          "Josué 21:16",
+          "1 Samuel 6:19"
+        ]
+      }
+    ]
+  },
+  "busqueda": {
+    "texto_indexable": "cuidemos lo de Dios en nuestras vidas 1 samuel 6 1 9 sabiduria espiritual oracion guia del espiritu santo gloria de Dios oracion fuego filisteos arca despues que el arca del pacto estuvo siete meses en la tierra de los filisteos ellos consultaron a sus sacerdotes y adivinos sobre como enviarla de regreso a su lugar el tener el arca en cautiverio en su territorio era para ellos una maldicion i samuel 5 1 6 los filisteos estaban muy claros de todo el mal que les habia venido sobre sus cuerpos pues se habian enfermado estaban en grandes maldiciones y quebrantos pero tambien el mal estaba en israel por la ausencia del arca israel estuvo castigado por sus enemigos por haber descuidado el arca queria decir que ahora Dios no estaba con ellos cuando Dios no esta se vive a la merced del diablo a Dios no se le puede abandonar por nada ni por nadie por lo tanto cuidemos lo de Dios en nuestras vidas cuando nos descuidamos y echamos lo de Dios por la borda entonces ya hemos perecido a pesar de todo lo sucedido a israel ese es el pueblo de las promesas es el pueblo separado por Dios de entre todos los pueblos del mundo asi que por los muchos padecimientos los filisteos decidieron devolverles el arca fueron a consultar a sus sacerdotes y adivinos para saber como la devolverian a israel para los filisteos sus adivinos eran los mejores informados sobre esto sabrian como se debia hacer porque pensaban que en ellos estaba la sabiduria asi que los sacerdotes y adivinos les aconsejaron con todo detalle pero nosotros sabemos que los consejos fueron de acuerdo a su criterio y no de acuerdo a un conocimiento que viniera de Dios temian mucho a Dios segun se nos dice el capitulo 5 11 12 habian puesto el arca del pacto en su templo al lado del idolo que representaba a su Dios dagon i samuel 5 2 aquel idolo quedo postrado en tierra delante del arca del Dios de israel i samuel 5 3 ellos habian llevado el arca como botin dedicado a dagon pero la imagen de dagon cayo postrada y aunque la levantaron y la pusieron nuevamente en su lugar volvio a caer partida por la mitad postrada a delante del arca de Dios vs 4 los sacerdotes y adivinos de dagon le hicieron ver a los filisteos que era absolutamente necesario devolver el arca estaban convencidos del peligro en que estaban al tener el arca de Dios en un lugar inmundo se acordaron de lo que les habia pasado a egipto y a faraon sabian lo que seguro le vendria a ellos pudieron entender que Dios era un Dios celoso y que tendrian que enviar con el arca una ofrenda de expiacion de esa manera al menos reconocian ante Dios el castigo sufrido y merecido no serian sanados por ningun otro medio sino mediante un pago por su mal pero entendamos que sus mentes eran muy limitadas en cuanto a lo espiritual asi que cuando comenzaron a tratar de fijar la satisfaccion que habian de pagarle a Dios se hicieron miserablemente vanos en sus necias imaginaciones hicieron imagenes de tumores y de ratones por la plaga vergonzosa asi creian ellos que pagaban por su iniquidad i samuel 6 4 igual que egipto no dejo ir al pueblo de Dios y fueron destruidos tambien ellos temian ser destruidos mejor era hacer un carro nuevo y enviar de vuelta el arca de Dios las vacas que usaron para acarrear el carro donde llevaban el arca no estaban acostumbradas a tener un yugo lo hicieron asi para que nadie las guiara ni influyera en su camino a seguir i samuel 6 7 entendian que por medio de un poder invisible las vacas serian guiadas en contra de su instinto natural i samuel 6 9 asi que unas vacas sin entendimiento llevaron el carro con el arca al lugar llamado bet semes la pequena ciudad de bet semes estaba a 15 kilometros de distancia de los filisteos con lo sucedido vemos lo que es el peligro de intervenir como no es debido en lo que es sagrado el hombre debe primero conocer y entonces con todo cuidado y temor reverente acercarse a lo sagrado las vacas siguieron su camino y llegaron a israel ellas no se confundieron fueron los hombres los que se confundieron todo aquel que ve a Dios como algo simple se confundira y se equivocara la mano invisible que dirigio las vacas a israel las llevo directamente al campo de josue donde habia una gran piedra una piedra grande muy conveniente para poner encima el arca i samuel 6 14 15 en todo esto los filisteos habian estado viendo la gloria de Dios ante ellos pero aun asi no dejaron de adorar a su Dios falso y aunque los segadores del pueblo de israel se alegraron por la llegada del arca aun asi no le dieron el valor correcto el carro de madera lo usaron como fuego y las vacas para el sacrificio esto les parecia bien i samuel 6 14 aqui se probaba la devocion verdadera o la rebelion y la ignorancia el sacrificio de las vacas y el fuego con el carro de madera no era lo que mas podia agradar a Dios era la atencion y el cuidado del arca lo importante pues Dios descendia y les hablaba desde alli porque vieron la madera y las vacas levantaron un altar a Dios antepusieron eso al arca es un gran peligro cuando no se ve lo que en verdad hay que ver bet semes era una de las ciudades asignadas a los hijos de aaron segun la heredad de juda josue 21 16 por lo tanto era conveniente tener alli personas consagradas a Dios para hacer el oficio del arca pero los de bet semes eran torpes e indiferentes a la ley de Dios y miraron dentro del arca de jehova i samuel 6 19 la ruina del hombre viene por la ambicion de conocer lo que le es prohibido no se podia mirar dentro del arca eso era absolutamente prohibido de parte de ellos esto fue una expresion de menosprecio de lo santo asi es la ofensa hacia Dios si tenemos en poco sus ordenanzas si hubiesen discernido el alto significado del arca y no hubiesen juzgado aquello meramente por la apariencia exterior se habrian percatado de que nunca habia brillado el arca con tanta majestad como ahora que les era tan necesaria Dios hizo morir a muchos hombres de israel por tan grave atrevimiento por no saber donde estaba Dios bendito sea su nombre cuando podemos estar delante de el para rendirle adoracion pero estar delante de Dios para contender con el eso no es permitido al que lo hace le vendran muchos males como les vinieron a los filisteos y a los israelitas rebeldes cuidemos lo de Dios en nuestras vidas y no seamos descuidados ni torpes con lo que es sagrado seamos sabios y temerosos asi disfrutaremos siempre de la presencia del todopoderoso Dios amen",
+    "alias_busqueda": [
+      "Cuidemos lo de Dios en Nuestras Vidas",
+      "1 Samuel",
+      "1 Samuel 6",
+      "1 Samuel 6:1-9",
+      "gloria de Dios",
+      "oración",
+      "fuego",
+      "filisteos",
+      "Sabiduría espiritual"
+    ]
+  },
+  "revision_manual": {
+    "requiere_revision": false,
+    "motivo": ""
+  },
+  "ui": {
+    "mostrar_credito_en_header": true,
+    "mostrar_numero_estudio": true,
+    "mostrar_fecha": true,
+    "mostrar_topicos": true,
+    "permitir_favorito": true,
+    "permitir_compartir": true
+  }
+}

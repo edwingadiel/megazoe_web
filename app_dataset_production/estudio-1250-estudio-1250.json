@@ -1,0 +1,393 @@
+{
+  "id": "estudio-1250-estudio-1250",
+  "slug": "estudio-1250-estudio-1250",
+  "numero_estudio": 1250,
+  "tipo_estudio": "Iglesia en las casas",
+  "ministerio": {
+    "iglesia": "Iglesia Cristiana Mega Zoe",
+    "pastora": "Pastora Edith Cruz",
+    "credito_corto": "Iglesia Cristiana Mega Zoe · Pastora Edith Cruz",
+    "credito_largo": "Contenido original de Iglesia Cristiana Mega Zoe, conservando el crédito ministerial correspondiente a la Pastora Edith Cruz."
+  },
+  "identidad_editorial": {
+    "idioma": "es",
+    "fuente_original": "documento_word",
+    "archivo_origen": "/Users/edwingadiel/Desktop/Estudios en Word/Estudio #1250 Los hijos de Coré no murieron - Números 26 11.docx",
+    "estado_revision": "procesado",
+    "version_schema": "1.0"
+  },
+  "encabezado": {
+    "titulo": "Los Hijos De Coré No Murieron",
+    "subtitulo": null,
+    "cita_principal": "Números 26:11",
+    "resumen_corto": "Los Hijos De Coré No Murieron enseña a cuidar la vida del hogar delante de Dios y descansar en la misericordia de Dios."
+  },
+  "fechas": {
+    "fecha_inicio": null,
+    "fecha_fin": null,
+    "fecha_texto_original": "",
+    "ano": null
+  },
+  "clasificacion_biblica": {
+    "libro_principal": "Números",
+    "capitulo_principal": 26,
+    "versiculos_principales": [
+      11
+    ],
+    "referencia_principal_normalizada": "Números 26:11",
+    "testamento_principal": "Antiguo Testamento"
+  },
+  "clasificacion_tematica": {
+    "topicos": [
+      "Familia",
+      "Misericordia de Dios",
+      "Crianza de hijos"
+    ],
+    "keywords": [
+      "verdad",
+      "santidad",
+      "arrepentimiento",
+      "perseverancia",
+      "arca"
+    ]
+  },
+  "referencias_biblicas": [
+    {
+      "referencia": "Números 26:11",
+      "referencia_normalizada": "Números 26:11",
+      "libro": "Números",
+      "capitulo": 26,
+      "versiculos": [
+        11
+      ],
+      "tipo": "principal",
+      "clickeable": true
+    },
+    {
+      "referencia": "Números 16:1",
+      "referencia_normalizada": "Números 16:1",
+      "libro": "Números",
+      "capitulo": 16,
+      "versiculos": [
+        1
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "1 Crónicas 6:33",
+      "referencia_normalizada": "1 Crónicas 6:33",
+      "libro": "1 Crónicas",
+      "capitulo": 6,
+      "versiculos": [
+        33
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "1 Crónicas 6:37-39",
+      "referencia_normalizada": "1 Crónicas 6:37-39",
+      "libro": "1 Crónicas",
+      "capitulo": 6,
+      "versiculos": [
+        37,
+        38,
+        39
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "1 Crónicas 9:17-19",
+      "referencia_normalizada": "1 Crónicas 9:17-19",
+      "libro": "1 Crónicas",
+      "capitulo": 9,
+      "versiculos": [
+        17,
+        18,
+        19
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "1 Crónicas 25:2",
+      "referencia_normalizada": "1 Crónicas 25:2",
+      "libro": "1 Crónicas",
+      "capitulo": 25,
+      "versiculos": [
+        2
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "1 Crónicas 25:3",
+      "referencia_normalizada": "1 Crónicas 25:3",
+      "libro": "1 Crónicas",
+      "capitulo": 25,
+      "versiculos": [
+        3
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Génesis 18:26",
+      "referencia_normalizada": "Génesis 18:26",
+      "libro": "Génesis",
+      "capitulo": 18,
+      "versiculos": [
+        26
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Esdras 9:13",
+      "referencia_normalizada": "Esdras 9:13",
+      "libro": "Esdras",
+      "capitulo": 9,
+      "versiculos": [
+        13
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Nehemías 9:17, 31",
+      "referencia_normalizada": "Nehemías 9:17,31",
+      "libro": "Nehemías",
+      "capitulo": 9,
+      "versiculos": [
+        17,
+        31
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Salmos 103:11",
+      "referencia_normalizada": "Salmos 103:11",
+      "libro": "Salmos",
+      "capitulo": 103,
+      "versiculos": [
+        11
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    }
+  ],
+  "contenido": {
+    "introduccion": null,
+    "secciones": [],
+    "contenido_completo": "Dios es misericordioso, amoroso y justo. Dios restaura a los hijos de Coré. Un pasado: Su padre Coré pertenecía a la tribu de Leví (Números 16:1) y específicamente a la descendencia de Coat. Los coatitas eran los encargados de transportar el Arca, la mesa, el candelabro, los altares y los utensilios. Eran también los guardas del Santuario.\n\nSu padre se reveló contra Moisés.\n\nCoré hijo de Izhar, hijo de Coat, hijo de Leví.\n\nSu presente de los hijos de Coré.\n\nEn los días de David.\n\n(1 Crónicas 6:33; 15:19) Ayudaban los hijos de Coat, es del linaje era el abuelo de Coré; (6:33) de los hijos de Coat, el cantor Hemán hijo de Joel; (15:19) Así Hemán, Asaf, Etán que eran cantores, sonaban címbalos de bronce.\n\nAsaf (1 Crónicas 6:37-39) Tahat, hijo de Asir, hijo de Ebiasaf, hijo de Coré, hijo de Izhar, hijo de Coat, hijo de Leví, hijo de Israel.\n\nPorteros Salum, Acub, Talmón (1 Crónicas 9:17-19) \"Entre las cuadrillas de los hijos de Leví han sido estos los porteros en la puerta del rey que está al oriente; Salum hijo de Coré por la casa de su padre, tuvieron a su cargo la obra del ministerio, guardando las puertas del tabernáculo, como sus padres guardaron la entrada del campamento de Jehová.\"\n\nTareas gloriosas (1 Crónicas 25:2) a) Asaf de sus hijos; (músicos y cantores) Zacur, José…el cual profetizaba bajo los órdenes del rey.\n\n(1 Crónicas 25:3) Los hijos de Jedutún profetizaban con arpa para aclamar y alabar a Jehová.\n\n(1 Crónicas 9:17-19) Puesto de confianza Salum, coreíta (Coré).\n\nDe igual en los días de Salomón.\n\nEn los días de la reforma de Ezequías.\n\n(Génesis 18:26; 19:16) Dios busca al justo al que no se deja llevar por el impío.\n\nAunque sufren con ellos, no sufren como ellos.\n\nAsí los hijos de Coré tomaron su decisión; sufrir con ellos, \"no sufren como ellos.\"\n\nDios manda a rescatar a Lot (19:16); Daban prisa a Lot, dormía placentero, escapa tú, tu esposa e hijas; la razón, no perezcan junto al impío.\n\nDisfrutar de Sus misericordias.\n\nFueron \"asidos\" de las manos de los ángeles, hubiese sido fatal si no los hubiesen sacado de allí salvando con temor.\n\nSe debe a la misericordia de Dios.\n\n(Esdras 9:13) Lo que le ha sobrevenido a causa de nuestras \"malas obras\" y a causa de \"nuestro gran pecado\".\n\nYa que tú, Dios nuestro, \"no nos has castigado\" de acuerdo con nuestras iniquidades (injusticia o gran maldad en el modo de obrar).\n\nLa razón es que, si se mezclaban con naciones, se contaminarían; \"era una tierra inmunda\" y \"ellos eran santos\".\n\nConsciente de la gravedad del pecado, Esdras reconoce que el castigo que han sufrido era menor de lo que se merecían.\n\n(Nehemías 9:17, 31) Nehemías le acuerda cómo Dios le ha librado y cómo fue con ellos en el desierto y demás cuando tenían la tierra de leche y miel.\n\nPero endurecieron su cerviz y en su rebeldía, pensaron poner caudillo (capitán) para volverse a su servidumbre.\n\nPero Dios es quien \"perdona\", \"clemente\" (bueno) y piadoso, tardo para la ira y grande en misericordia, \"porque no los abandonaste\".\n\n(Vs. 31) Más por Tus muchas misericordias no los consumiste (destruiste).\n\nNi los desamparaste: la razón que debemos saber, porque es Dios clemente y misericordioso (se compadece de los sufrimientos).\n\n(Salmos 103:11) El temor piadoso es uno de los primeros productos de la vida divina en nosotros.\n\nEs el principio de la sabiduría, asegura plenamente a su poseedor todos los beneficios de la misericordia divina y verdaderamente aquí y en todas partes es empleado como criterio de la verdadera religión. Amén.",
+    "contenido_renderizado": [
+      {
+        "tipo": "parrafo",
+        "texto": "Dios es misericordioso, amoroso y justo. Dios restaura a los hijos de Coré. Un pasado: Su padre Coré pertenecía a la tribu de Leví (Números 16:1) y específicamente a la descendencia de Coat. Los coatitas eran los encargados de transportar el Arca, la mesa, el candelabro, los altares y los utensilios. Eran también los guardas del Santuario.",
+        "referencias_inline": [
+          "Números 16:1"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Su padre se reveló contra Moisés.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Coré hijo de Izhar, hijo de Coat, hijo de Leví.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Su presente de los hijos de Coré.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "En los días de David.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(1 Crónicas 6:33; 15:19) Ayudaban los hijos de Coat, es del linaje era el abuelo de Coré; (6:33) de los hijos de Coat, el cantor Hemán hijo de Joel; (15:19) Así Hemán, Asaf, Etán que eran cantores, sonaban címbalos de bronce.",
+        "referencias_inline": [
+          "1 Crónicas 6:33"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Asaf (1 Crónicas 6:37-39) Tahat, hijo de Asir, hijo de Ebiasaf, hijo de Coré, hijo de Izhar, hijo de Coat, hijo de Leví, hijo de Israel.",
+        "referencias_inline": [
+          "1 Crónicas 6:37-39"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Porteros Salum, Acub, Talmón (1 Crónicas 9:17-19) \"Entre las cuadrillas de los hijos de Leví han sido estos los porteros en la puerta del rey que está al oriente; Salum hijo de Coré por la casa de su padre, tuvieron a su cargo la obra del ministerio, guardando las puertas del tabernáculo, como sus padres guardaron la entrada del campamento de Jehová.\"",
+        "referencias_inline": [
+          "1 Crónicas 9:17-19"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Tareas gloriosas (1 Crónicas 25:2) a) Asaf de sus hijos; (músicos y cantores) Zacur, José…el cual profetizaba bajo los órdenes del rey.",
+        "referencias_inline": [
+          "1 Crónicas 25:2"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(1 Crónicas 25:3) Los hijos de Jedutún profetizaban con arpa para aclamar y alabar a Jehová.",
+        "referencias_inline": [
+          "1 Crónicas 25:3"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(1 Crónicas 9:17-19) Puesto de confianza Salum, coreíta (Coré).",
+        "referencias_inline": [
+          "1 Crónicas 9:17-19"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "De igual en los días de Salomón.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "En los días de la reforma de Ezequías.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Génesis 18:26; 19:16) Dios busca al justo al que no se deja llevar por el impío.",
+        "referencias_inline": [
+          "Génesis 18:26"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Aunque sufren con ellos, no sufren como ellos.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Así los hijos de Coré tomaron su decisión; sufrir con ellos, \"no sufren como ellos.\"",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Dios manda a rescatar a Lot (19:16); Daban prisa a Lot, dormía placentero, escapa tú, tu esposa e hijas; la razón, no perezcan junto al impío.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Disfrutar de Sus misericordias.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Fueron \"asidos\" de las manos de los ángeles, hubiese sido fatal si no los hubiesen sacado de allí salvando con temor.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Se debe a la misericordia de Dios.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Esdras 9:13) Lo que le ha sobrevenido a causa de nuestras \"malas obras\" y a causa de \"nuestro gran pecado\".",
+        "referencias_inline": [
+          "Esdras 9:13"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Ya que tú, Dios nuestro, \"no nos has castigado\" de acuerdo con nuestras iniquidades (injusticia o gran maldad en el modo de obrar).",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "La razón es que, si se mezclaban con naciones, se contaminarían; \"era una tierra inmunda\" y \"ellos eran santos\".",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Consciente de la gravedad del pecado, Esdras reconoce que el castigo que han sufrido era menor de lo que se merecían.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Nehemías 9:17, 31) Nehemías le acuerda cómo Dios le ha librado y cómo fue con ellos en el desierto y demás cuando tenían la tierra de leche y miel.",
+        "referencias_inline": [
+          "Nehemías 9:17,31"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Pero endurecieron su cerviz y en su rebeldía, pensaron poner caudillo (capitán) para volverse a su servidumbre.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Pero Dios es quien \"perdona\", \"clemente\" (bueno) y piadoso, tardo para la ira y grande en misericordia, \"porque no los abandonaste\".",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Vs. 31) Más por Tus muchas misericordias no los consumiste (destruiste).",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Ni los desamparaste: la razón que debemos saber, porque es Dios clemente y misericordioso (se compadece de los sufrimientos).",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Salmos 103:11) El temor piadoso es uno de los primeros productos de la vida divina en nosotros.",
+        "referencias_inline": [
+          "Salmos 103:11"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Es el principio de la sabiduría, asegura plenamente a su poseedor todos los beneficios de la misericordia divina y verdaderamente aquí y en todas partes es empleado como criterio de la verdadera religión. Amén.",
+        "referencias_inline": []
+      }
+    ]
+  },
+  "busqueda": {
+    "texto_indexable": "los hijos de core no murieron numeros 26 11 familia misericordia de Dios crianza de hijos verdad santidad arrepentimiento perseverancia arca Dios es misericordioso amoroso y justo Dios restaura a los hijos de core un pasado su padre core pertenecia a la tribu de levi numeros 16 1 y especificamente a la descendencia de coat los coatitas eran los encargados de transportar el arca la mesa el candelabro los altares y los utensilios eran tambien los guardas del santuario su padre se revelo contra moises core hijo de izhar hijo de coat hijo de levi su presente de los hijos de core en los dias de david 1 cronicas 6 33 15 19 ayudaban los hijos de coat es del linaje era el abuelo de core 6 33 de los hijos de coat el cantor heman hijo de joel 15 19 asi heman asaf etan que eran cantores sonaban cimbalos de bronce asaf 1 cronicas 6 37 39 tahat hijo de asir hijo de ebiasaf hijo de core hijo de izhar hijo de coat hijo de levi hijo de israel porteros salum acub talmon 1 cronicas 9 17 19 entre las cuadrillas de los hijos de levi han sido estos los porteros en la puerta del rey que esta al oriente salum hijo de core por la casa de su padre tuvieron a su cargo la obra del ministerio guardando las puertas del tabernaculo como sus padres guardaron la entrada del campamento de jehova tareas gloriosas 1 cronicas 25 2 a asaf de sus hijos musicos y cantores zacur jose el cual profetizaba bajo los ordenes del rey 1 cronicas 25 3 los hijos de jedutun profetizaban con arpa para aclamar y alabar a jehova 1 cronicas 9 17 19 puesto de confianza salum coreita core de igual en los dias de salomon en los dias de la reforma de ezequias genesis 18 26 19 16 Dios busca al justo al que no se deja llevar por el impio aunque sufren con ellos no sufren como ellos asi los hijos de core tomaron su decision sufrir con ellos no sufren como ellos Dios manda a rescatar a lot 19 16 daban prisa a lot dormia placentero escapa tu tu esposa e hijas la razon no perezcan junto al impio disfrutar de sus misericordias fueron asidos de las manos de los angeles hubiese sido fatal si no los hubiesen sacado de alli salvando con temor se debe a la misericordia de Dios esdras 9 13 lo que le ha sobrevenido a causa de nuestras malas obras y a causa de nuestro gran pecado ya que tu Dios nuestro no nos has castigado de acuerdo con nuestras iniquidades injusticia o gran maldad en el modo de obrar la razon es que si se mezclaban con naciones se contaminarian era una tierra inmunda y ellos eran santos consciente de la gravedad del pecado esdras reconoce que el castigo que han sufrido era menor de lo que se merecian nehemias 9 17 31 nehemias le acuerda como Dios le ha librado y como fue con ellos en el desierto y demas cuando tenian la tierra de leche y miel pero endurecieron su cerviz y en su rebeldia pensaron poner caudillo capitan para volverse a su servidumbre pero Dios es quien perdona clemente bueno y piadoso tardo para la ira y grande en misericordia porque no los abandonaste vs 31 mas por tus muchas misericordias no los consumiste destruiste ni los desamparaste la razon que debemos saber porque es Dios clemente y misericordioso se compadece de los sufrimientos salmos 103 11 el temor piadoso es uno de los primeros productos de la vida divina en nosotros es el principio de la sabiduria asegura plenamente a su poseedor todos los beneficios de la misericordia divina y verdaderamente aqui y en todas partes es empleado como criterio de la verdadera religion amen",
+    "alias_busqueda": [
+      "Estudio 1250",
+      "Números",
+      "Números 26",
+      "Números 26:11",
+      "verdad",
+      "santidad",
+      "arrepentimiento",
+      "perseverancia",
+      "Familia",
+      "Misericordia de Dios"
+    ]
+  },
+  "revision_manual": {
+    "requiere_revision": false,
+    "motivo": ""
+  },
+  "ui": {
+    "mostrar_credito_en_header": true,
+    "mostrar_numero_estudio": true,
+    "mostrar_fecha": true,
+    "mostrar_topicos": true,
+    "permitir_favorito": true,
+    "permitir_compartir": true
+  }
+}

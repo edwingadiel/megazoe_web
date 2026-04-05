@@ -1,0 +1,335 @@
+{
+  "id": "estudio-910-desobedecer-es-quedar-en-verguenza",
+  "slug": "estudio-910-desobedecer-es-quedar-en-verguenza",
+  "numero_estudio": 910,
+  "tipo_estudio": "Iglesia en las casas",
+  "ministerio": {
+    "iglesia": "Iglesia Cristiana Mega Zoe",
+    "pastora": "Pastora Edith Cruz",
+    "credito_corto": "Iglesia Cristiana Mega Zoe · Pastora Edith Cruz",
+    "credito_largo": "Contenido original de Iglesia Cristiana Mega Zoe, conservando el crédito ministerial correspondiente a la Pastora Edith Cruz."
+  },
+  "identidad_editorial": {
+    "idioma": "es",
+    "fuente_original": "documento_word",
+    "archivo_origen": "/Users/edwingadiel/Desktop/Estudios en Word/Estudio #910 Desobedecer Es Quedar En Vergüenza - Jeremías 35 1-19.docx",
+    "estado_revision": "procesado",
+    "version_schema": "1.0"
+  },
+  "encabezado": {
+    "titulo": "Desobedecer Es Quedar En Vergüenza",
+    "subtitulo": null,
+    "cita_principal": "Jeremías 35:1-19",
+    "resumen_corto": "Desobedecer Es Quedar En Vergüenza enseña a cuidar la vida del hogar delante de Dios."
+  },
+  "fechas": {
+    "fecha_inicio": null,
+    "fecha_fin": null,
+    "fecha_texto_original": "",
+    "ano": null
+  },
+  "clasificacion_biblica": {
+    "libro_principal": "Jeremías",
+    "capitulo_principal": 35,
+    "versiculos_principales": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19
+    ],
+    "referencia_principal_normalizada": "Jeremías 35:1-19",
+    "testamento_principal": "Antiguo Testamento"
+  },
+  "clasificacion_tematica": {
+    "topicos": [
+      "Obediencia",
+      "Familia",
+      "Promesas de Dios"
+    ],
+    "keywords": [
+      "arrepentimiento",
+      "obediencia",
+      "nazareo",
+      "aposento",
+      "testimonio"
+    ]
+  },
+  "referencias_biblicas": [
+    {
+      "referencia": "Jeremías 35:1-19",
+      "referencia_normalizada": "Jeremías 35:1-19",
+      "libro": "Jeremías",
+      "capitulo": 35,
+      "versiculos": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "tipo": "principal",
+      "clickeable": true
+    },
+    {
+      "referencia": "1 Crónicas 2:55",
+      "referencia_normalizada": "1 Crónicas 2:55",
+      "libro": "1 Crónicas",
+      "capitulo": 2,
+      "versiculos": [
+        55
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Jueces 1:16",
+      "referencia_normalizada": "Jueces 1:16",
+      "libro": "Jueces",
+      "capitulo": 1,
+      "versiculos": [
+        16
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Jeremías 35:6",
+      "referencia_normalizada": "Jeremías 35:6",
+      "libro": "Jeremías",
+      "capitulo": 35,
+      "versiculos": [
+        6
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Jeremías 35:8-10",
+      "referencia_normalizada": "Jeremías 35:8-10",
+      "libro": "Jeremías",
+      "capitulo": 35,
+      "versiculos": [
+        8,
+        9,
+        10
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "1 Samuel 15:6",
+      "referencia_normalizada": "1 Samuel 15:6",
+      "libro": "1 Samuel",
+      "capitulo": 15,
+      "versiculos": [
+        6
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "2 Reyes 10:15",
+      "referencia_normalizada": "2 Reyes 10:15",
+      "libro": "2 Reyes",
+      "capitulo": 10,
+      "versiculos": [
+        15
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Jeremías 35:2",
+      "referencia_normalizada": "Jeremías 35:2",
+      "libro": "Jeremías",
+      "capitulo": 35,
+      "versiculos": [
+        2
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Jeremías 35:4",
+      "referencia_normalizada": "Jeremías 35:4",
+      "libro": "Jeremías",
+      "capitulo": 35,
+      "versiculos": [
+        4
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Jeremías 35:5",
+      "referencia_normalizada": "Jeremías 35:5",
+      "libro": "Jeremías",
+      "capitulo": 35,
+      "versiculos": [
+        5
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Jeremías 35:14, 15",
+      "referencia_normalizada": "Jeremías 35:14,15",
+      "libro": "Jeremías",
+      "capitulo": 35,
+      "versiculos": [
+        14,
+        15
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Jeremías 35:16",
+      "referencia_normalizada": "Jeremías 35:16",
+      "libro": "Jeremías",
+      "capitulo": 35,
+      "versiculos": [
+        16
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Jeremías 35:17",
+      "referencia_normalizada": "Jeremías 35:17",
+      "libro": "Jeremías",
+      "capitulo": 35,
+      "versiculos": [
+        17
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Jeremías 35:19",
+      "referencia_normalizada": "Jeremías 35:19",
+      "libro": "Jeremías",
+      "capitulo": 35,
+      "versiculos": [
+        19
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    }
+  ],
+  "contenido": {
+    "introduccion": null,
+    "secciones": [],
+    "contenido_completo": "El profeta Jeremías deja ver la obediencia que tuvieron los recabitas hacia sus padres y entonces condena la desobediencia de los Judíos a Dios el Padre. ¡Aquí vemos cómo Dios ama y recompensa LA OBEDIENCIA! Y cómo el Señor aborrece y castiga LA DESOBEDIENCIA. Los recabitas eran una tribu nómada perteneciente a los ceneos de Hamat (1 Crónicas 2:55 \"Y las familias de los escribas que moraban en Jabes fueron los tirateos, los simeateos y los sucateos, los cuales son los ceneos que vinieron de Hamat padre de la casa de Recab.\"). El suegro de Moisés era de esa familia (Jueces 1:16). En Jeremías 35:6 dice que Jonadab fue quien guió al clan y los enseñó a vivir para Dios al estilo de los hijos de los profetas y de los nazareos. (\"Mas ellos dijeron: No beberemos vino; porque Jonadab hijo de Recab nuestro padre nos ordenó diciendo: No beberéis jamás vino vosotros ni vuestros hijos.\")\n\nLas excelentes características de los recabitas fueron usadas por el profeta como protesta contra el sedentarismo y comodidad de Israel en la tierra de Canaán. Los recabitas tomaron el estilo de la vida nómada, regresando a los ideales originales del pueblo de Israel; que era la vida del desierto. Ellos eran testimonio en medio de un pueblo que se habían hecho muy cómodos y complacientes. Su modo de vida era claro y firme de acuerdo a la obediencia a su líder. Jeremías 35:8-10 \"Y nosotros hemos obedecido a la voz de nuestro padre Jonadab hijo de Recab en todas las cosas que nos mandó, de no beber vino en todos nuestros días, ni nosotros, ni nuestras mujeres, ni nuestros hijos ni nuestras hijas; y de no edificar casas para nuestra morada y de no tener viña, ni heredad, ni sementera. Moramos, pues, en tiendas y hemos obedecido y hecho conforme a todas las cosas que nos mandó Jonadab nuestro padre.\" No beberían vino, no edificarían casas ni sembrarían semillas (sementera). Ni plantarían viñedos. NO IBAN A POSEER NADA QUE LOS AMARRARA A ESTA VIDA PASAJERA. Entraron en Canaán con los Israelitas, pero con la mira de preservar su independencia; prefirieron vivir en tiendas sin residencia fija (1 Samuel 15:6; 2 Reyes 10:15).\n\nJeremías 35:2 \"Ve a casa de los recabitas y habla con ellos, e introdúcelos en la casa de Jehová, en uno de los aposentos y dales a beber vino.\" Jeremías los llevaría al templo para probarlos pues allí habría testigos aptos entre los sacerdotes y la gente principal. Era un gran reproche por parte del Señor y del profeta Jeremías a los sacerdotes pues ellos sí se habían dado a la borrachera. Jeremías 35:4 \"…y los llevé a la casa de Jehová, al aposento de los hijos de Hanán hijo de Igdalías, varón de Dios…\" Se le llama varón de Dios a Hanán. Significa que es uno que no se pertenece a sí mismo sino a Dios; uno que se ha desprendido de todo para darse enteramente a Dios. Jeremías 35:5 \"Y puse delante de los hijos de la familia de los recabitas tazas y copas llenas de vino y les dije: Bebed vino.\" Jeremías les dijo que bebieran. La respuesta de los recabitas fue: \"No beberemos…\" No lo harían porque Jonadab así les había enseñado, porque sus antepasados les habían dado órdenes diciendo: \"No beberéis jamás vino vosotros ni vuestros hijos…\" ¡Esto es pura obediencia!\n\nAquí se celebra la obediencia de los hijos. Los recabitas no eran de la estirpe de Jacob, sino que eran forasteros en Israel. ELLOS TIPIFICAN A LOS HIJOS DE Dios QUE PEREGRINAN EN LA TIERRA Y CONSIDERAN EL CIELO COMO SU PATRIA. Ellos tienen tan poco que perder, en las épocas de crisis económicas apenas se muestran alarmados, despreocupándose enteramente de lo que tienen. Personas como los recabitas muestran en sus vidas una obediencia sin reserva en todos los aspectos, en todo tiempo y por parte de todos ellos, sin excepción. Mientras que en lo que respecta al pueblo de Israel, su obediencia a Dios dejó mucho que desear.\n\nLos recabitas obedecen a uno que era hombre como ellos, a Jonadab. Los judíos, en cambio, desobedecían al Dios infinito y eterno que tenía \"absoluta autoridad\" sobre ellos. Además a los recabitas nadie les había traído a la memoria la obligación de obedecer a su padre, mientras que Dios había enviado con mucha frecuencia profetas a su pueblo. Jeremías 35:14, 15 \"Fue firme la palabra de Jonadab hijo de Recab, el cual mandó a sus hijos que no bebiesen vino y no lo han bebido hasta hoy, por obedecer al mandamiento de su padre; y yo os he hablado a vosotros desde temprano y sin cesar y no me habéis oído. Y envié a vosotros todos mis siervos los profetas, desde temprano y sin cesar, para deciros: Volveos ahora cada uno de vuestro mal camino y enmendad vuestras obras y no vayáis tras dioses ajenos para servirles y viviréis en la tierra que di a vosotros y a vuestros padres; mas no inclinasteis vuestro oído, ni me oísteis.\" Dios les había dado a los Judíos una tierra buena y les había prometido que si le obedecían la poseerían a perpetuidad; así que tanto la gratitud como el propio interés les podían obligar a obedecer, sin embargo no quisieron hacer caso. Dios le había mandado a Israel que le sirviese y añadió al mandamiento una misericordiosa promesa: \"…y viviréis en la tierra que di a vosotros…\", pero todo fue en vano.\n\nLos mandamientos de Jonadab no eran para una eternidad ni eran nada obligatorio, sin embargo fueron obedecidos por los recabitas. Jeremías 35:16 \"Ciertamente los hijos de Jonadab hijo de Recab tuvieron por firme el mandamiento que les dio su padre…\" Mucho más deben ser obedecidos los mandamientos de Dios que son justos. Jeremías 35:17 \"…porque les hablé, y no oyeron; los llamé y no han respondido.\" Jeremías 35:19 \"…por tanto, así ha dicho Jehová de los ejércitos, Dios de Israel: No faltará de Jonadab hijo de Recab un varón que esté en mi presencia todos los días.\" Siempre habría alguien del clan de Jonadab para adorarlo. Se dice que entre los que regresaron de la cautividad estaban los recabitas.\n\nNo podemos hacer menos que imitar a los recabitas en integridad, obediencia y compromiso, pues en este tiempo es a nosotros que Dios ha llamado, nos ha dado mandamientos y promesas como a ellos, ¡obedezcamos! Los que desobedecen quedan en vergüenza, pero Mega Zoé, que seamos como los recabitas. Amén.",
+    "contenido_renderizado": [
+      {
+        "tipo": "parrafo",
+        "texto": "El profeta Jeremías deja ver la obediencia que tuvieron los recabitas hacia sus padres y entonces condena la desobediencia de los Judíos a Dios el Padre. ¡Aquí vemos cómo Dios ama y recompensa LA OBEDIENCIA! Y cómo el Señor aborrece y castiga LA DESOBEDIENCIA. Los recabitas eran una tribu nómada perteneciente a los ceneos de Hamat (1 Crónicas 2:55 \"Y las familias de los escribas que moraban en Jabes fueron los tirateos, los simeateos y los sucateos, los cuales son los ceneos que vinieron de Hamat padre de la casa de Recab.\"). El suegro de Moisés era de esa familia (Jueces 1:16). En Jeremías 35:6 dice que Jonadab fue quien guió al clan y los enseñó a vivir para Dios al estilo de los hijos de los profetas y de los nazareos. (\"Mas ellos dijeron: No beberemos vino; porque Jonadab hijo de Recab nuestro padre nos ordenó diciendo: No beberéis jamás vino vosotros ni vuestros hijos.\")",
+        "referencias_inline": [
+          "1 Crónicas 2:55",
+          "Jueces 1:16",
+          "Jeremías 35:6"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Las excelentes características de los recabitas fueron usadas por el profeta como protesta contra el sedentarismo y comodidad de Israel en la tierra de Canaán. Los recabitas tomaron el estilo de la vida nómada, regresando a los ideales originales del pueblo de Israel; que era la vida del desierto. Ellos eran testimonio en medio de un pueblo que se habían hecho muy cómodos y complacientes. Su modo de vida era claro y firme de acuerdo a la obediencia a su líder. Jeremías 35:8-10 \"Y nosotros hemos obedecido a la voz de nuestro padre Jonadab hijo de Recab en todas las cosas que nos mandó, de no beber vino en todos nuestros días, ni nosotros, ni nuestras mujeres, ni nuestros hijos ni nuestras hijas; y de no edificar casas para nuestra morada y de no tener viña, ni heredad, ni sementera. Moramos, pues, en tiendas y hemos obedecido y hecho conforme a todas las cosas que nos mandó Jonadab nuestro padre.\" No beberían vino, no edificarían casas ni sembrarían semillas (sementera). Ni plantarían viñedos. NO IBAN A POSEER NADA QUE LOS AMARRARA A ESTA VIDA PASAJERA. Entraron en Canaán con los Israelitas, pero con la mira de preservar su independencia; prefirieron vivir en tiendas sin residencia fija (1 Samuel 15:6; 2 Reyes 10:15).",
+        "referencias_inline": [
+          "Jeremías 35:8-10",
+          "1 Samuel 15:6",
+          "2 Reyes 10:15"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Jeremías 35:2 \"Ve a casa de los recabitas y habla con ellos, e introdúcelos en la casa de Jehová, en uno de los aposentos y dales a beber vino.\" Jeremías los llevaría al templo para probarlos pues allí habría testigos aptos entre los sacerdotes y la gente principal. Era un gran reproche por parte del Señor y del profeta Jeremías a los sacerdotes pues ellos sí se habían dado a la borrachera. Jeremías 35:4 \"…y los llevé a la casa de Jehová, al aposento de los hijos de Hanán hijo de Igdalías, varón de Dios…\" Se le llama varón de Dios a Hanán. Significa que es uno que no se pertenece a sí mismo sino a Dios; uno que se ha desprendido de todo para darse enteramente a Dios. Jeremías 35:5 \"Y puse delante de los hijos de la familia de los recabitas tazas y copas llenas de vino y les dije: Bebed vino.\" Jeremías les dijo que bebieran. La respuesta de los recabitas fue: \"No beberemos…\" No lo harían porque Jonadab así les había enseñado, porque sus antepasados les habían dado órdenes diciendo: \"No beberéis jamás vino vosotros ni vuestros hijos…\" ¡Esto es pura obediencia!",
+        "referencias_inline": [
+          "Jeremías 35:2",
+          "Jeremías 35:4",
+          "Jeremías 35:5"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Aquí se celebra la obediencia de los hijos. Los recabitas no eran de la estirpe de Jacob, sino que eran forasteros en Israel. ELLOS TIPIFICAN A LOS HIJOS DE Dios QUE PEREGRINAN EN LA TIERRA Y CONSIDERAN EL CIELO COMO SU PATRIA. Ellos tienen tan poco que perder, en las épocas de crisis económicas apenas se muestran alarmados, despreocupándose enteramente de lo que tienen. Personas como los recabitas muestran en sus vidas una obediencia sin reserva en todos los aspectos, en todo tiempo y por parte de todos ellos, sin excepción. Mientras que en lo que respecta al pueblo de Israel, su obediencia a Dios dejó mucho que desear.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Los recabitas obedecen a uno que era hombre como ellos, a Jonadab. Los judíos, en cambio, desobedecían al Dios infinito y eterno que tenía \"absoluta autoridad\" sobre ellos. Además a los recabitas nadie les había traído a la memoria la obligación de obedecer a su padre, mientras que Dios había enviado con mucha frecuencia profetas a su pueblo. Jeremías 35:14, 15 \"Fue firme la palabra de Jonadab hijo de Recab, el cual mandó a sus hijos que no bebiesen vino y no lo han bebido hasta hoy, por obedecer al mandamiento de su padre; y yo os he hablado a vosotros desde temprano y sin cesar y no me habéis oído. Y envié a vosotros todos mis siervos los profetas, desde temprano y sin cesar, para deciros: Volveos ahora cada uno de vuestro mal camino y enmendad vuestras obras y no vayáis tras dioses ajenos para servirles y viviréis en la tierra que di a vosotros y a vuestros padres; mas no inclinasteis vuestro oído, ni me oísteis.\" Dios les había dado a los Judíos una tierra buena y les había prometido que si le obedecían la poseerían a perpetuidad; así que tanto la gratitud como el propio interés les podían obligar a obedecer, sin embargo no quisieron hacer caso. Dios le había mandado a Israel que le sirviese y añadió al mandamiento una misericordiosa promesa: \"…y viviréis en la tierra que di a vosotros…\", pero todo fue en vano.",
+        "referencias_inline": [
+          "Jeremías 35:14,15"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Los mandamientos de Jonadab no eran para una eternidad ni eran nada obligatorio, sin embargo fueron obedecidos por los recabitas. Jeremías 35:16 \"Ciertamente los hijos de Jonadab hijo de Recab tuvieron por firme el mandamiento que les dio su padre…\" Mucho más deben ser obedecidos los mandamientos de Dios que son justos. Jeremías 35:17 \"…porque les hablé, y no oyeron; los llamé y no han respondido.\" Jeremías 35:19 \"…por tanto, así ha dicho Jehová de los ejércitos, Dios de Israel: No faltará de Jonadab hijo de Recab un varón que esté en mi presencia todos los días.\" Siempre habría alguien del clan de Jonadab para adorarlo. Se dice que entre los que regresaron de la cautividad estaban los recabitas.",
+        "referencias_inline": [
+          "Jeremías 35:16",
+          "Jeremías 35:17",
+          "Jeremías 35:19"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "No podemos hacer menos que imitar a los recabitas en integridad, obediencia y compromiso, pues en este tiempo es a nosotros que Dios ha llamado, nos ha dado mandamientos y promesas como a ellos, ¡obedezcamos! Los que desobedecen quedan en vergüenza, pero Mega Zoé, que seamos como los recabitas. Amén.",
+        "referencias_inline": []
+      }
+    ]
+  },
+  "busqueda": {
+    "texto_indexable": "desobedecer es quedar en verguenza jeremias 35 1 19 obediencia familia promesas de Dios arrepentimiento obediencia nazareo aposento testimonio el profeta jeremias deja ver la obediencia que tuvieron los recabitas hacia sus padres y entonces condena la desobediencia de los judios a Dios el padre aqui vemos como Dios ama y recompensa la obediencia y como el senor aborrece y castiga la desobediencia los recabitas eran una tribu nomada perteneciente a los ceneos de hamat 1 cronicas 2 55 y las familias de los escribas que moraban en jabes fueron los tirateos los simeateos y los sucateos los cuales son los ceneos que vinieron de hamat padre de la casa de recab el suegro de moises era de esa familia jueces 1 16 en jeremias 35 6 dice que jonadab fue quien guio al clan y los enseno a vivir para Dios al estilo de los hijos de los profetas y de los nazareos mas ellos dijeron no beberemos vino porque jonadab hijo de recab nuestro padre nos ordeno diciendo no bebereis jamas vino vosotros ni vuestros hijos las excelentes caracteristicas de los recabitas fueron usadas por el profeta como protesta contra el sedentarismo y comodidad de israel en la tierra de canaan los recabitas tomaron el estilo de la vida nomada regresando a los ideales originales del pueblo de israel que era la vida del desierto ellos eran testimonio en medio de un pueblo que se habian hecho muy comodos y complacientes su modo de vida era claro y firme de acuerdo a la obediencia a su lider jeremias 35 8 10 y nosotros hemos obedecido a la voz de nuestro padre jonadab hijo de recab en todas las cosas que nos mando de no beber vino en todos nuestros dias ni nosotros ni nuestras mujeres ni nuestros hijos ni nuestras hijas y de no edificar casas para nuestra morada y de no tener vina ni heredad ni sementera moramos pues en tiendas y hemos obedecido y hecho conforme a todas las cosas que nos mando jonadab nuestro padre no beberian vino no edificarian casas ni sembrarian semillas sementera ni plantarian vinedos no iban a poseer nada que los amarrara a esta vida pasajera entraron en canaan con los israelitas pero con la mira de preservar su independencia prefirieron vivir en tiendas sin residencia fija 1 samuel 15 6 2 reyes 10 15 jeremias 35 2 ve a casa de los recabitas y habla con ellos e introducelos en la casa de jehova en uno de los aposentos y dales a beber vino jeremias los llevaria al templo para probarlos pues alli habria testigos aptos entre los sacerdotes y la gente principal era un gran reproche por parte del senor y del profeta jeremias a los sacerdotes pues ellos si se habian dado a la borrachera jeremias 35 4 y los lleve a la casa de jehova al aposento de los hijos de hanan hijo de igdalias varon de Dios se le llama varon de Dios a hanan significa que es uno que no se pertenece a si mismo sino a Dios uno que se ha desprendido de todo para darse enteramente a Dios jeremias 35 5 y puse delante de los hijos de la familia de los recabitas tazas y copas llenas de vino y les dije bebed vino jeremias les dijo que bebieran la respuesta de los recabitas fue no beberemos no lo harian porque jonadab asi les habia ensenado porque sus antepasados les habian dado ordenes diciendo no bebereis jamas vino vosotros ni vuestros hijos esto es pura obediencia aqui se celebra la obediencia de los hijos los recabitas no eran de la estirpe de jacob sino que eran forasteros en israel ellos tipifican a los hijos de Dios que peregrinan en la tierra y consideran el cielo como su patria ellos tienen tan poco que perder en las epocas de crisis economicas apenas se muestran alarmados despreocupandose enteramente de lo que tienen personas como los recabitas muestran en sus vidas una obediencia sin reserva en todos los aspectos en todo tiempo y por parte de todos ellos sin excepcion mientras que en lo que respecta al pueblo de israel su obediencia a Dios dejo mucho que desear los recabitas obedecen a uno que era hombre como ellos a jonadab los judios en cambio desobedecian al Dios infinito y eterno que tenia absoluta autoridad sobre ellos ademas a los recabitas nadie les habia traido a la memoria la obligacion de obedecer a su padre mientras que Dios habia enviado con mucha frecuencia profetas a su pueblo jeremias 35 14 15 fue firme la palabra de jonadab hijo de recab el cual mando a sus hijos que no bebiesen vino y no lo han bebido hasta hoy por obedecer al mandamiento de su padre y yo os he hablado a vosotros desde temprano y sin cesar y no me habeis oido y envie a vosotros todos mis siervos los profetas desde temprano y sin cesar para deciros volveos ahora cada uno de vuestro mal camino y enmendad vuestras obras y no vayais tras dioses ajenos para servirles y vivireis en la tierra que di a vosotros y a vuestros padres mas no inclinasteis vuestro oido ni me oisteis Dios les habia dado a los judios una tierra buena y les habia prometido que si le obedecian la poseerian a perpetuidad asi que tanto la gratitud como el propio interes les podian obligar a obedecer sin embargo no quisieron hacer caso Dios le habia mandado a israel que le sirviese y anadio al mandamiento una misericordiosa promesa y vivireis en la tierra que di a vosotros pero todo fue en vano los mandamientos de jonadab no eran para una eternidad ni eran nada obligatorio sin embargo fueron obedecidos por los recabitas jeremias 35 16 ciertamente los hijos de jonadab hijo de recab tuvieron por firme el mandamiento que les dio su padre mucho mas deben ser obedecidos los mandamientos de Dios que son justos jeremias 35 17 porque les hable y no oyeron los llame y no han respondido jeremias 35 19 por tanto asi ha dicho jehova de los ejercitos Dios de israel no faltara de jonadab hijo de recab un varon que este en mi presencia todos los dias siempre habria alguien del clan de jonadab para adorarlo se dice que entre los que regresaron de la cautividad estaban los recabitas no podemos hacer menos que imitar a los recabitas en integridad obediencia y compromiso pues en este tiempo es a nosotros que Dios ha llamado nos ha dado mandamientos y promesas como a ellos obedezcamos los que desobedecen quedan en verguenza pero mega zoe que seamos como los recabitas amen",
+    "alias_busqueda": [
+      "Desobedecer Es Quedar En Vergüenza",
+      "Jeremías",
+      "Jeremías 35",
+      "Jeremías 35:1-19",
+      "arrepentimiento",
+      "obediencia",
+      "nazareo",
+      "aposento",
+      "Familia"
+    ]
+  },
+  "revision_manual": {
+    "requiere_revision": false,
+    "motivo": ""
+  },
+  "ui": {
+    "mostrar_credito_en_header": true,
+    "mostrar_numero_estudio": true,
+    "mostrar_fecha": true,
+    "mostrar_topicos": true,
+    "permitir_favorito": true,
+    "permitir_compartir": true
+  }
+}

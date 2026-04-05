@@ -1,0 +1,455 @@
+{
+  "id": "estudio-1357-estudio-1357",
+  "slug": "estudio-1357-estudio-1357",
+  "numero_estudio": 1357,
+  "tipo_estudio": "Iglesia en las casas",
+  "ministerio": {
+    "iglesia": "Iglesia Cristiana Mega Zoe",
+    "pastora": "Pastora Edith Cruz",
+    "credito_corto": "Iglesia Cristiana Mega Zoe · Pastora Edith Cruz",
+    "credito_largo": "Contenido original de Iglesia Cristiana Mega Zoe, conservando el crédito ministerial correspondiente a la Pastora Edith Cruz."
+  },
+  "identidad_editorial": {
+    "idioma": "es",
+    "fuente_original": "documento_word",
+    "archivo_origen": "/Users/edwingadiel/Desktop/Estudios en Word/Estudio #1357 Los milagros necesitan fe - Josué 10 12-14.docx",
+    "estado_revision": "procesado",
+    "version_schema": "1.0"
+  },
+  "encabezado": {
+    "titulo": "Los Milagros Necesitan Fe",
+    "subtitulo": null,
+    "cita_principal": "Josué 10:12-14",
+    "resumen_corto": "Los Milagros Necesitan Fe llama a atender la Palabra de Dios y discernir la batalla espiritual."
+  },
+  "fechas": {
+    "fecha_inicio": null,
+    "fecha_fin": null,
+    "fecha_texto_original": "",
+    "ano": null
+  },
+  "clasificacion_biblica": {
+    "libro_principal": "Josué",
+    "capitulo_principal": 10,
+    "versiculos_principales": [
+      12,
+      13,
+      14
+    ],
+    "referencia_principal_normalizada": "Josué 10:12-14",
+    "testamento_principal": "Antiguo Testamento"
+  },
+  "clasificacion_tematica": {
+    "topicos": [
+      "Palabra de Dios",
+      "Guerra espiritual",
+      "Perseverancia",
+      "Fe"
+    ],
+    "keywords": [
+      "gloria de Dios",
+      "verdad",
+      "santidad",
+      "arrepentimiento",
+      "perseverancia"
+    ]
+  },
+  "referencias_biblicas": [
+    {
+      "referencia": "Josué 10:12-14",
+      "referencia_normalizada": "Josué 10:12-14",
+      "libro": "Josué",
+      "capitulo": 10,
+      "versiculos": [
+        12,
+        13,
+        14
+      ],
+      "tipo": "principal",
+      "clickeable": true
+    },
+    {
+      "referencia": "Josué 10: 9-11",
+      "referencia_normalizada": "Josué 10:9-11",
+      "libro": "Josué",
+      "capitulo": 10,
+      "versiculos": [
+        9,
+        10,
+        11
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Josué 10:12-15",
+      "referencia_normalizada": "Josué 10:12-15",
+      "libro": "Josué",
+      "capitulo": 10,
+      "versiculos": [
+        12,
+        13,
+        14,
+        15
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Josué 10:14",
+      "referencia_normalizada": "Josué 10:14",
+      "libro": "Josué",
+      "capitulo": 10,
+      "versiculos": [
+        14
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Génesis 1:3-19",
+      "referencia_normalizada": "Génesis 1:3-19",
+      "libro": "Génesis",
+      "capitulo": 1,
+      "versiculos": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Mateo 14:13-21",
+      "referencia_normalizada": "Mateo 14:13-21",
+      "libro": "Mateo",
+      "capitulo": 14,
+      "versiculos": [
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "2 Reyes 6:4-7",
+      "referencia_normalizada": "2 Reyes 6:4-7",
+      "libro": "2 Reyes",
+      "capitulo": 6,
+      "versiculos": [
+        4,
+        5,
+        6,
+        7
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Jonás 1:17",
+      "referencia_normalizada": "Jonás 1:17",
+      "libro": "Jonás",
+      "capitulo": 1,
+      "versiculos": [
+        17
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Mateo 14:28-30",
+      "referencia_normalizada": "Mateo 14:28-30",
+      "libro": "Mateo",
+      "capitulo": 14,
+      "versiculos": [
+        28,
+        29,
+        30
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Juan 9:1-11",
+      "referencia_normalizada": "Juan 9:1-11",
+      "libro": "Juan",
+      "capitulo": 9,
+      "versiculos": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Juan 11:4",
+      "referencia_normalizada": "Juan 11:4",
+      "libro": "Juan",
+      "capitulo": 11,
+      "versiculos": [
+        4
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Éxodo 12:40",
+      "referencia_normalizada": "Éxodo 12:40",
+      "libro": "Éxodo",
+      "capitulo": 12,
+      "versiculos": [
+        40
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Gálatas 3:14",
+      "referencia_normalizada": "Gálatas 3:14",
+      "libro": "Gálatas",
+      "capitulo": 3,
+      "versiculos": [
+        14
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    }
+  ],
+  "contenido": {
+    "introduccion": null,
+    "secciones": [],
+    "contenido_completo": "Cuando los reyes de las cinco ciudades cananeas oyeron que los gabaonitas habían desertado para unirse a los israelitas, reconocieron que el territorio central con sus colinas abundantes era vulnerable y decidieron atacar a Gabaón. Los gabaonitas enviaron a pedir ayuda militar a Josué.\n\nUna petición de Josué.\n\nUn ruego de un hombre justo, que le pide a un soberano Dios todopoderoso.\n\nEscuché una persona que dijo para aclarar: el sol no es que, rota alrededor de la tierra, es la tierra que rota alrededor del sol (el sol rota sobre su propio eje).\n\nAsí que para aquella \"persona\" el tal evento es imposible; que haya sido el sol que se detuviera.\n\n(Josué 10: 9-11) Aseguradas por el Señor de la victoria, Josué atacó las fuerzas enemigas en Gabaón, haciéndoles huir.\n\nDos milagros sucedieron en la destrucción del enemigo.\n\nPrimero, hubo una tremenda granizada, la cual mató \"más hombres\" de los que habían matado los israelitas.\n\nPero notamos que eran \"piedras de granizo\" que mataron solamente al enemigo.\n\nEntonces (Josué 10:12-15), a petición de Josué, sol y luna se detuvieron, prolongando las horas que los israelitas tenían para perseguir y destruir al enemigo antes de que pudiera escapar a la seguridad de sus ciudades amuralladas.\n\nLiteralmente es lenguaje descriptivo (describe algo, otorga información para que la gente pueda representárselo en su mente) decir que el sol y la luna se detuvieran.\n\nPero es suficiente saber que fue un milagro \"que resultó\" en un día prolongado para la batalla.\n\nSpurgeon dice: \"Como lo hizo no es pregunta para nosotros… No nos toca tratar de explicar o apocar (reducir, acortar) los milagros, sino de \"glorificar a Dios en ellos.\"\n\nEl versículo Josué 10:14 indica que este fue un día único en la historia \"del mundo.\"\n\nLas promesas de Dios no son dadas para relajar y suprimir (hacer que desaparezca, eliminar), sino para avisar y animar nuestros esfuerzos.\n\n(Génesis 1:3-19) El Creador: Y dijo Dios, sea la luz, y fue la luz; y llamó Dios a la expansión en medio de las aguas, separó las aguas de las aguas (expandirse); y llamó Dios a la expansión Cielo; llamó Dios a lo seco Tierra, y a la reunión de las aguas llamó Mares; produzca la tierra hierba verde, hierba que dé semillas, árbol, fruto, etc.\n\nAunque frecuentemente los escépticos (los que no creen) hacen burla de la idea de los milagros, en realidad, si existe un Dios sobrenatural, entonces los milagros son posibles en el marco del tiempo y propósito de Su voluntad.\n\n(Mateo 14:13-21) Dios no dijo como alimentó milagrosamente a miles de personas con solamente cinco panes y dos peces.\n\n(2 Reyes 6:4-7) Como hizo que un hacha flotara en el agua.\n\n(Jonás 1:17) Como exactamente Jonás pudo sobrevivir tres días en el vientre de un gran pez.\n\nY grande es también como hoy en día se sigue consolidando (arraigado, firme, fijo), las grandes hazañas que se dicen en la Palabra, para toda la tierra y testifican de ellas.\n\nLa aceptación del conocimiento y poder ilimitado de Dios debería ser una explicación lógica (sucesos demostrables que se respaldan en evidencia y quedan plasmadas en teorías científicas) suficiente.\n\n(Mateo 14:28-30) Dudó Pedro del poder del Señor y cayó.\n\n(Juan 9:1-11) Aquel que se llama Jesús…y recibí la vista.\n\n(Juan 11:4) La fe mueve el milagro.\n\nEra para la gloria de Dios, estos sucesos, Jesús era glorificado por ella (la muerte de Lázaro).\n\nMás milagros con aquel pueblo que era esclavo de la nación más poderosa de sus tiempos.\n\nSe vence al Faraón; llevan fortuna, alimentos, le favorece Jehová y una gran tierra prometida al padre Abraham.\n\nFueron 430 años (Éxodo 12:40 Gálatas 3:14) años desde el pacto de Abraham hasta Moisés y la ley.\n\nMilagros se hacen realidad, aunque el tiempo es, solo meramente espera por la fe. Amén.",
+    "contenido_renderizado": [
+      {
+        "tipo": "parrafo",
+        "texto": "Cuando los reyes de las cinco ciudades cananeas oyeron que los gabaonitas habían desertado para unirse a los israelitas, reconocieron que el territorio central con sus colinas abundantes era vulnerable y decidieron atacar a Gabaón. Los gabaonitas enviaron a pedir ayuda militar a Josué.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Una petición de Josué.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Un ruego de un hombre justo, que le pide a un soberano Dios todopoderoso.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Escuché una persona que dijo para aclarar: el sol no es que, rota alrededor de la tierra, es la tierra que rota alrededor del sol (el sol rota sobre su propio eje).",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Así que para aquella \"persona\" el tal evento es imposible; que haya sido el sol que se detuviera.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Josué 10: 9-11) Aseguradas por el Señor de la victoria, Josué atacó las fuerzas enemigas en Gabaón, haciéndoles huir.",
+        "referencias_inline": [
+          "Josué 10:9-11"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Dos milagros sucedieron en la destrucción del enemigo.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Primero, hubo una tremenda granizada, la cual mató \"más hombres\" de los que habían matado los israelitas.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Pero notamos que eran \"piedras de granizo\" que mataron solamente al enemigo.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Entonces (Josué 10:12-15), a petición de Josué, sol y luna se detuvieron, prolongando las horas que los israelitas tenían para perseguir y destruir al enemigo antes de que pudiera escapar a la seguridad de sus ciudades amuralladas.",
+        "referencias_inline": [
+          "Josué 10:12-15"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Literalmente es lenguaje descriptivo (describe algo, otorga información para que la gente pueda representárselo en su mente) decir que el sol y la luna se detuvieran.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Pero es suficiente saber que fue un milagro \"que resultó\" en un día prolongado para la batalla.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Spurgeon dice: \"Como lo hizo no es pregunta para nosotros… No nos toca tratar de explicar o apocar (reducir, acortar) los milagros, sino de \"glorificar a Dios en ellos.\"",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "El versículo Josué 10:14 indica que este fue un día único en la historia \"del mundo.\"",
+        "referencias_inline": [
+          "Josué 10:14"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Las promesas de Dios no son dadas para relajar y suprimir (hacer que desaparezca, eliminar), sino para avisar y animar nuestros esfuerzos.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Génesis 1:3-19) El Creador: Y dijo Dios, sea la luz, y fue la luz; y llamó Dios a la expansión en medio de las aguas, separó las aguas de las aguas (expandirse); y llamó Dios a la expansión Cielo; llamó Dios a lo seco Tierra, y a la reunión de las aguas llamó Mares; produzca la tierra hierba verde, hierba que dé semillas, árbol, fruto, etc.",
+        "referencias_inline": [
+          "Génesis 1:3-19"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Aunque frecuentemente los escépticos (los que no creen) hacen burla de la idea de los milagros, en realidad, si existe un Dios sobrenatural, entonces los milagros son posibles en el marco del tiempo y propósito de Su voluntad.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Mateo 14:13-21) Dios no dijo como alimentó milagrosamente a miles de personas con solamente cinco panes y dos peces.",
+        "referencias_inline": [
+          "Mateo 14:13-21"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(2 Reyes 6:4-7) Como hizo que un hacha flotara en el agua.",
+        "referencias_inline": [
+          "2 Reyes 6:4-7"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Jonás 1:17) Como exactamente Jonás pudo sobrevivir tres días en el vientre de un gran pez.",
+        "referencias_inline": [
+          "Jonás 1:17"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Y grande es también como hoy en día se sigue consolidando (arraigado, firme, fijo), las grandes hazañas que se dicen en la Palabra, para toda la tierra y testifican de ellas.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "La aceptación del conocimiento y poder ilimitado de Dios debería ser una explicación lógica (sucesos demostrables que se respaldan en evidencia y quedan plasmadas en teorías científicas) suficiente.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Mateo 14:28-30) Dudó Pedro del poder del Señor y cayó.",
+        "referencias_inline": [
+          "Mateo 14:28-30"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Juan 9:1-11) Aquel que se llama Jesús…y recibí la vista.",
+        "referencias_inline": [
+          "Juan 9:1-11"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Juan 11:4) La fe mueve el milagro.",
+        "referencias_inline": [
+          "Juan 11:4"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Era para la gloria de Dios, estos sucesos, Jesús era glorificado por ella (la muerte de Lázaro).",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Más milagros con aquel pueblo que era esclavo de la nación más poderosa de sus tiempos.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Se vence al Faraón; llevan fortuna, alimentos, le favorece Jehová y una gran tierra prometida al padre Abraham.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Fueron 430 años (Éxodo 12:40 Gálatas 3:14) años desde el pacto de Abraham hasta Moisés y la ley.",
+        "referencias_inline": [
+          "Éxodo 12:40",
+          "Gálatas 3:14"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Milagros se hacen realidad, aunque el tiempo es, solo meramente espera por la fe. Amén.",
+        "referencias_inline": []
+      }
+    ]
+  },
+  "busqueda": {
+    "texto_indexable": "los milagros necesitan fe josue 10 12 14 palabra de Dios guerra espiritual perseverancia gloria de Dios verdad santidad arrepentimiento perseverancia cuando los reyes de las cinco ciudades cananeas oyeron que los gabaonitas habian desertado para unirse a los israelitas reconocieron que el territorio central con sus colinas abundantes era vulnerable y decidieron atacar a gabaon los gabaonitas enviaron a pedir ayuda militar a josue una peticion de josue un ruego de un hombre justo que le pide a un soberano Dios todopoderoso escuche una persona que dijo para aclarar el sol no es que rota alrededor de la tierra es la tierra que rota alrededor del sol el sol rota sobre su propio eje asi que para aquella persona el tal evento es imposible que haya sido el sol que se detuviera josue 10 9 11 aseguradas por el senor de la victoria josue ataco las fuerzas enemigas en gabaon haciendoles huir dos milagros sucedieron en la destruccion del enemigo primero hubo una tremenda granizada la cual mato mas hombres de los que habian matado los israelitas pero notamos que eran piedras de granizo que mataron solamente al enemigo entonces josue 10 12 15 a peticion de josue sol y luna se detuvieron prolongando las horas que los israelitas tenian para perseguir y destruir al enemigo antes de que pudiera escapar a la seguridad de sus ciudades amuralladas literalmente es lenguaje descriptivo describe algo otorga informacion para que la gente pueda representarselo en su mente decir que el sol y la luna se detuvieran pero es suficiente saber que fue un milagro que resulto en un dia prolongado para la batalla spurgeon dice como lo hizo no es pregunta para nosotros no nos toca tratar de explicar o apocar reducir acortar los milagros sino de glorificar a Dios en ellos el versiculo josue 10 14 indica que este fue un dia unico en la historia del mundo las promesas de Dios no son dadas para relajar y suprimir hacer que desaparezca eliminar sino para avisar y animar nuestros esfuerzos genesis 1 3 19 el creador y dijo Dios sea la luz y fue la luz y llamo Dios a la expansion en medio de las aguas separo las aguas de las aguas expandirse y llamo Dios a la expansion cielo llamo Dios a lo seco tierra y a la reunion de las aguas llamo mares produzca la tierra hierba verde hierba que de semillas arbol fruto etc aunque frecuentemente los escepticos los que no creen hacen burla de la idea de los milagros en realidad si existe un Dios sobrenatural entonces los milagros son posibles en el marco del tiempo y proposito de su voluntad mateo 14 13 21 Dios no dijo como alimento milagrosamente a miles de personas con solamente cinco panes y dos peces 2 reyes 6 4 7 como hizo que un hacha flotara en el agua jonas 1 17 como exactamente jonas pudo sobrevivir tres dias en el vientre de un gran pez y grande es tambien como hoy en dia se sigue consolidando arraigado firme fijo las grandes hazanas que se dicen en la palabra para toda la tierra y testifican de ellas la aceptacion del conocimiento y poder ilimitado de Dios deberia ser una explicacion logica sucesos demostrables que se respaldan en evidencia y quedan plasmadas en teorias cientificas suficiente mateo 14 28 30 dudo pedro del poder del senor y cayo juan 9 1 11 aquel que se llama Jesus y recibi la vista juan 11 4 la fe mueve el milagro era para la gloria de Dios estos sucesos Jesus era glorificado por ella la muerte de lazaro mas milagros con aquel pueblo que era esclavo de la nacion mas poderosa de sus tiempos se vence al faraon llevan fortuna alimentos le favorece jehova y una gran tierra prometida al padre abraham fueron 430 anos exodo 12 40 galatas 3 14 anos desde el pacto de abraham hasta moises y la ley milagros se hacen realidad aunque el tiempo es solo meramente espera por la fe amen",
+    "alias_busqueda": [
+      "Estudio 1357",
+      "Josué",
+      "Josué 10",
+      "Josué 10:12-14",
+      "gloria de Dios",
+      "verdad",
+      "santidad",
+      "arrepentimiento",
+      "Palabra de Dios",
+      "Guerra espiritual"
+    ]
+  },
+  "revision_manual": {
+    "requiere_revision": false,
+    "motivo": ""
+  },
+  "ui": {
+    "mostrar_credito_en_header": true,
+    "mostrar_numero_estudio": true,
+    "mostrar_fecha": true,
+    "mostrar_topicos": true,
+    "permitir_favorito": true,
+    "permitir_compartir": true
+  }
+}

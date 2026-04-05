@@ -1,0 +1,604 @@
+{
+  "id": "estudio-1177-estudio-1177",
+  "slug": "estudio-1177-estudio-1177",
+  "numero_estudio": 1177,
+  "tipo_estudio": "Iglesia en las casas",
+  "ministerio": {
+    "iglesia": "Iglesia Cristiana Mega Zoe",
+    "pastora": "Pastora Edith Cruz",
+    "credito_corto": "Iglesia Cristiana Mega Zoe · Pastora Edith Cruz",
+    "credito_largo": "Contenido original de Iglesia Cristiana Mega Zoe, conservando el crédito ministerial correspondiente a la Pastora Edith Cruz."
+  },
+  "identidad_editorial": {
+    "idioma": "es",
+    "fuente_original": "documento_word",
+    "archivo_origen": "/Users/edwingadiel/Desktop/Estudios en Word/Estudio #1177 La desobediencia contra Dios - 2 Tesalonicenses 2 7-12 (2).docx",
+    "estado_revision": "procesado",
+    "version_schema": "1.0"
+  },
+  "encabezado": {
+    "titulo": "La Desobediencia Contra Dios",
+    "subtitulo": null,
+    "cita_principal": "2 Tesalonicenses 2:7-12",
+    "resumen_corto": "La Desobediencia Contra Dios llama a afirmar la vida del creyente."
+  },
+  "fechas": {
+    "fecha_inicio": null,
+    "fecha_fin": null,
+    "fecha_texto_original": "",
+    "ano": null
+  },
+  "clasificacion_biblica": {
+    "libro_principal": "2 Tesalonicenses",
+    "capitulo_principal": 2,
+    "versiculos_principales": [
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "referencia_principal_normalizada": "2 Tesalonicenses 2:7-12",
+    "testamento_principal": "Nuevo Testamento"
+  },
+  "clasificacion_tematica": {
+    "topicos": [
+      "Obediencia",
+      "Satanás",
+      "Liderazgo espiritual"
+    ],
+    "keywords": [
+      "arrepentimiento",
+      "perseverancia",
+      "mundo",
+      "evangelio",
+      "apostasia"
+    ]
+  },
+  "referencias_biblicas": [
+    {
+      "referencia": "2 Tesalonicenses 2:7-12",
+      "referencia_normalizada": "2 Tesalonicenses 2:7-12",
+      "libro": "2 Tesalonicenses",
+      "capitulo": 2,
+      "versiculos": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "tipo": "principal",
+      "clickeable": true
+    },
+    {
+      "referencia": "2 Tesalonicenses 2:3",
+      "referencia_normalizada": "2 Tesalonicenses 2:3",
+      "libro": "2 Tesalonicenses",
+      "capitulo": 2,
+      "versiculos": [
+        3
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "2 Tesalonicenses 2:3, 1",
+      "referencia_normalizada": "2 Tesalonicenses 2:3,1",
+      "libro": "2 Tesalonicenses",
+      "capitulo": 2,
+      "versiculos": [
+        1,
+        3
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Juan 2:18",
+      "referencia_normalizada": "Juan 2:18",
+      "libro": "Juan",
+      "capitulo": 2,
+      "versiculos": [
+        18
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Daniel 7:8",
+      "referencia_normalizada": "Daniel 7:8",
+      "libro": "Daniel",
+      "capitulo": 7,
+      "versiculos": [
+        8
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Daniel 8:23-25",
+      "referencia_normalizada": "Daniel 8:23-25",
+      "libro": "Daniel",
+      "capitulo": 8,
+      "versiculos": [
+        23,
+        24,
+        25
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Daniel 9:26",
+      "referencia_normalizada": "Daniel 9:26",
+      "libro": "Daniel",
+      "capitulo": 9,
+      "versiculos": [
+        26
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Daniel 11:36",
+      "referencia_normalizada": "Daniel 11:36",
+      "libro": "Daniel",
+      "capitulo": 11,
+      "versiculos": [
+        36
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Zacarías 11:17",
+      "referencia_normalizada": "Zacarías 11:17",
+      "libro": "Zacarías",
+      "capitulo": 11,
+      "versiculos": [
+        17
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Apocalipsis 13:1-10",
+      "referencia_normalizada": "Apocalipsis 13:1-10",
+      "libro": "Apocalipsis",
+      "capitulo": 13,
+      "versiculos": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "2 Tesalonicenses 2:7",
+      "referencia_normalizada": "2 Tesalonicenses 2:7",
+      "libro": "2 Tesalonicenses",
+      "capitulo": 2,
+      "versiculos": [
+        7
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Juan 14:16, 26",
+      "referencia_normalizada": "Juan 14:16,26",
+      "libro": "Juan",
+      "capitulo": 14,
+      "versiculos": [
+        16,
+        26
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Juan 14:17",
+      "referencia_normalizada": "Juan 14:17",
+      "libro": "Juan",
+      "capitulo": 14,
+      "versiculos": [
+        17
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Salmos 51:11",
+      "referencia_normalizada": "Salmos 51:11",
+      "libro": "Salmos",
+      "capitulo": 51,
+      "versiculos": [
+        11
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Juan 14:16",
+      "referencia_normalizada": "Juan 14:16",
+      "libro": "Juan",
+      "capitulo": 14,
+      "versiculos": [
+        16
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "2 Tesalonicenses 2:8",
+      "referencia_normalizada": "2 Tesalonicenses 2:8",
+      "libro": "2 Tesalonicenses",
+      "capitulo": 2,
+      "versiculos": [
+        8
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Apocalipsis 19:15",
+      "referencia_normalizada": "Apocalipsis 19:15",
+      "libro": "Apocalipsis",
+      "capitulo": 19,
+      "versiculos": [
+        15
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Isaías 11:4",
+      "referencia_normalizada": "Isaías 11:4",
+      "libro": "Isaías",
+      "capitulo": 11,
+      "versiculos": [
+        4
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "2 Tesalonicenses 2:9",
+      "referencia_normalizada": "2 Tesalonicenses 2:9",
+      "libro": "2 Tesalonicenses",
+      "capitulo": 2,
+      "versiculos": [
+        9
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "2 Tesalonicenses 2:10",
+      "referencia_normalizada": "2 Tesalonicenses 2:10",
+      "libro": "2 Tesalonicenses",
+      "capitulo": 2,
+      "versiculos": [
+        10
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "2 Tesalonicenses 2:11",
+      "referencia_normalizada": "2 Tesalonicenses 2:11",
+      "libro": "2 Tesalonicenses",
+      "capitulo": 2,
+      "versiculos": [
+        11
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "2 Tesalonicenses 2:12",
+      "referencia_normalizada": "2 Tesalonicenses 2:12",
+      "libro": "2 Tesalonicenses",
+      "capitulo": 2,
+      "versiculos": [
+        12
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    }
+  ],
+  "contenido": {
+    "introduccion": null,
+    "secciones": [],
+    "contenido_completo": "Pablo escribe que el anticristo no había llegado. Pablo había estado escribiendo sobre la venida del Señor en la primera carta y algunos comenzaron a hablar que el Señor había venido.\n\nPablo aclara los comentarios necios.\n\n(2 Tesalonicenses 2:3) El apóstol explica por qué no podían estar ahí en aquel día.\n\nPrimero habrá la apostasía.\n\n¿Qué es?: Un masivo abandono del cristianismo. Un rechazamiento de la fe cristiana. Entonces surgirá una gran figura mundial.\n\nSu carácter es el hombre de pecado o de iniquidad; es decir, la encarnación misma del pecado y de la rebelión.\n\nEn cuanto a su destino, es el hijo de perdición; está sentenciado a condenación eterna.\n\nAlgunos comentaristas creen que el hombre de pecado será un anticristo judío, romano, los grandes gobernantes de los tiempos del fin: (2 Tesalonicenses 2:3, 1 Juan 2:18) el anticristo; (Daniel 7:8; 24b-26) el cuerno pequeño; el rey altivo de rostro (Daniel 8:23-25) el príncipe que ha de venir (Daniel 9:26) el rey voluntarioso y engreído (Daniel 11:36); el pastor inútil (Zacarías 11:17); la bestia subida del mar (Apocalipsis 13:1-10); etc.…\n\nEl hombre de pecado ha tenido variedad de identificaciones a lo largo de los años.\n\n(V.4) Se opondrá de manera violenta a cualquier forma de culto divino y se entronizará a sí mismo en el templo de Dios en Jerusalén.\n\nPablo solía explicar esto a los tesalonicenses cuando él estaba todavía con ellos.\n\nSin embargo, con aquellas enseñanzas contradictorias que estaban recibiendo y que parecían describir de manera injusta las feroces persecuciones que estaban entonces soportando, habían olvidado lo que el apóstol había dicho.\n\nTodos olvidamos demasiado fácilmente y necesitamos que se nos recuerden una y otra vez las grandes verdades de la fe.\n\n(V.6) Ellos sabían lo que detenía la plena y abierta manifestación del hombre de pecado y lo que seguiría deteniéndole hasta el momento señalado.\n\nEs Algo y Alguien que, de una manera consciente, con propósito y designio, lo detiene con vistas a asegurar que el hombre de iniquidad se manifieste en el momento apropiado.\n\nEl Espíritu Santo y la verdadera iglesia (V. 7) en tanto que es habitación del Espíritu.\n\n(2 Tesalonicenses 2:7) Ya cuando Pablo escribía, el misterio de la iniquidad estaba ya en acción.\n\nPor esto, comprendemos que ya se estaba agitando bajo la superficie un enorme espíritu de desobediencia contra Dios.\n\nEstaba obrando en forma de misterio (no que fuese algo misterioso, sino que aún no estaba plenamente manifestado). Seguía en forma embrionaria.\n\n¿Qué es lo que ha estado estorbando la plena manifestación de este espíritu?\n\nCreemos que la presencia del Espíritu Santo morando en la iglesia y en cada creyente ha sido el poder refrenador.\n\nY seguirá ejerciendo esta función \"hasta que a su vez desaparezca de en medio, es decir, en el Arrebatamiento.\"\n\nEs una persona de la Deidad (Espíritu Santo), es el Omnipresente y está siempre en todos los lugares a la vez.\n\nY, sin embargo, hay un sentido distinto en el que Él vino a la tierra en el Día de Pentecostés.\n\n(Juan 14:16, 26; 15:26; 16:7) Jesús había repetido una y otra vez que Él y el Padre enviarían a el Espíritu. El Espíritu Santo vino como el morador permanente de la iglesia y de cada creyente.\n\nHasta Pentecostés, el Espíritu había estado con los creyentes, pero desde Pentecostés ha habitado en ellos. (Juan 14:17).\n\n(Salmos 51:11b) Y no quites de mí tu Santo Espíritu; hasta el Pentecostés se sabía que el Espíritu podía apartarse de los creyentes.\n\nDespués de Pentecostés, el Espíritu permanece para siempre en los creyentes de la Era de la Iglesia. (Juan 14:16)\n\nEl Espíritu Santo, creemos, se irá del mundo en el mismo sentido en que vino en Pentecostés; esto es, como la morada permanente de la iglesia y de cada creyente.\n\nSeguirá estando en el mundo, convenciendo a las personas de pecado.\n\nAquí habrá salvos.\n\nPero estas personas no serán miembros de la iglesia, sino que vendrán a ser súbditos (sujetos, debajo, sujeto a la autoridad) del glorioso reino de Cristo.\n\n(2 Tesalonicenses 2:8) Después que la iglesia haya sido arrebatada al cielo, entonces será revelado aquel inicuo al mundo. Señala no lo hará él en su tiempo, el apóstol pasa por alto la carrera del Anticristo y describe su condenación final.\n\nEntonces su loca desobediencia a Dios, su iniquidad y ambición de querer ser como Dios le durará en el Periodo de la Tribulación.\n\n(Apocalipsis 19:15; Isaías 11:4) \"El Señor Jesús lo matará con el espíritu de su boca\" y lo reducirá a la impotencia con la manifestación de su vida.\n\nCuando vuelva a la tierra para tomar el trono y reinar por mil años.\n\n(2 Tesalonicenses 2:9) Inicuo cuyo \"advenimiento\" (llegada) es en conformidad a \"la actuación de Satanás.\"\n\nSu carrera se asemeja a la \"de Satanás\" porque recibe su energía de Satanás.\n\n(V.2 Tesalonicenses 2:10) Llevará toda clase de milagros, señales y prodigios mentirosos.\n\nEl Anticristo se presentará sin escrúpulos, con toda clase de maldad para engañar a los que perecen; aquellos que desprecian el Evangelio durante la Edad de la Gracia, pero no tuvieron \"amor\" por la \"verdad.\"\n\n(2 Tesalonicenses 2:11) Dios realmente \"les\" enviará un poder engañoso de error para que crean la mentira.\n\nLa mentira es, naturalmente, la pretensión del Anticristo de ser Dios.\n\n(2 Tesalonicenses 2:12) Si fuera ahora, el que no ha creído en la Era de la Gracia, será difícil creer luego con el Anticristo: Dios enviará un poder engañoso.",
+    "contenido_renderizado": [
+      {
+        "tipo": "parrafo",
+        "texto": "Pablo escribe que el anticristo no había llegado. Pablo había estado escribiendo sobre la venida del Señor en la primera carta y algunos comenzaron a hablar que el Señor había venido.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Pablo aclara los comentarios necios.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(2 Tesalonicenses 2:3) El apóstol explica por qué no podían estar ahí en aquel día.",
+        "referencias_inline": [
+          "2 Tesalonicenses 2:3"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Primero habrá la apostasía.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "¿Qué es?: Un masivo abandono del cristianismo. Un rechazamiento de la fe cristiana. Entonces surgirá una gran figura mundial.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Su carácter es el hombre de pecado o de iniquidad; es decir, la encarnación misma del pecado y de la rebelión.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "En cuanto a su destino, es el hijo de perdición; está sentenciado a condenación eterna.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Algunos comentaristas creen que el hombre de pecado será un anticristo judío, romano, los grandes gobernantes de los tiempos del fin: (2 Tesalonicenses 2:3, 1 Juan 2:18) el anticristo; (Daniel 7:8; 24b-26) el cuerno pequeño; el rey altivo de rostro (Daniel 8:23-25) el príncipe que ha de venir (Daniel 9:26) el rey voluntarioso y engreído (Daniel 11:36); el pastor inútil (Zacarías 11:17); la bestia subida del mar (Apocalipsis 13:1-10); etc.…",
+        "referencias_inline": [
+          "2 Tesalonicenses 2:3,1",
+          "Juan 2:18",
+          "Daniel 7:8",
+          "Daniel 8:23-25",
+          "Daniel 9:26",
+          "Daniel 11:36",
+          "Zacarías 11:17",
+          "Apocalipsis 13:1-10"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "El hombre de pecado ha tenido variedad de identificaciones a lo largo de los años.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(V.4) Se opondrá de manera violenta a cualquier forma de culto divino y se entronizará a sí mismo en el templo de Dios en Jerusalén.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Pablo solía explicar esto a los tesalonicenses cuando él estaba todavía con ellos.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Sin embargo, con aquellas enseñanzas contradictorias que estaban recibiendo y que parecían describir de manera injusta las feroces persecuciones que estaban entonces soportando, habían olvidado lo que el apóstol había dicho.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Todos olvidamos demasiado fácilmente y necesitamos que se nos recuerden una y otra vez las grandes verdades de la fe.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(V.6) Ellos sabían lo que detenía la plena y abierta manifestación del hombre de pecado y lo que seguiría deteniéndole hasta el momento señalado.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Es Algo y Alguien que, de una manera consciente, con propósito y designio, lo detiene con vistas a asegurar que el hombre de iniquidad se manifieste en el momento apropiado.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "El Espíritu Santo y la verdadera iglesia (V. 7) en tanto que es habitación del Espíritu.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(2 Tesalonicenses 2:7) Ya cuando Pablo escribía, el misterio de la iniquidad estaba ya en acción.",
+        "referencias_inline": [
+          "2 Tesalonicenses 2:7"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Por esto, comprendemos que ya se estaba agitando bajo la superficie un enorme espíritu de desobediencia contra Dios.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Estaba obrando en forma de misterio (no que fuese algo misterioso, sino que aún no estaba plenamente manifestado). Seguía en forma embrionaria.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "¿Qué es lo que ha estado estorbando la plena manifestación de este espíritu?",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Creemos que la presencia del Espíritu Santo morando en la iglesia y en cada creyente ha sido el poder refrenador.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Y seguirá ejerciendo esta función \"hasta que a su vez desaparezca de en medio, es decir, en el Arrebatamiento.\"",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Es una persona de la Deidad (Espíritu Santo), es el Omnipresente y está siempre en todos los lugares a la vez.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Y, sin embargo, hay un sentido distinto en el que Él vino a la tierra en el Día de Pentecostés.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Juan 14:16, 26; 15:26; 16:7) Jesús había repetido una y otra vez que Él y el Padre enviarían a el Espíritu. El Espíritu Santo vino como el morador permanente de la iglesia y de cada creyente.",
+        "referencias_inline": [
+          "Juan 14:16,26"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Hasta Pentecostés, el Espíritu había estado con los creyentes, pero desde Pentecostés ha habitado en ellos. (Juan 14:17).",
+        "referencias_inline": [
+          "Juan 14:17"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Salmos 51:11b) Y no quites de mí tu Santo Espíritu; hasta el Pentecostés se sabía que el Espíritu podía apartarse de los creyentes.",
+        "referencias_inline": [
+          "Salmos 51:11"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Después de Pentecostés, el Espíritu permanece para siempre en los creyentes de la Era de la Iglesia. (Juan 14:16)",
+        "referencias_inline": [
+          "Juan 14:16"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "El Espíritu Santo, creemos, se irá del mundo en el mismo sentido en que vino en Pentecostés; esto es, como la morada permanente de la iglesia y de cada creyente.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Seguirá estando en el mundo, convenciendo a las personas de pecado.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Aquí habrá salvos.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Pero estas personas no serán miembros de la iglesia, sino que vendrán a ser súbditos (sujetos, debajo, sujeto a la autoridad) del glorioso reino de Cristo.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(2 Tesalonicenses 2:8) Después que la iglesia haya sido arrebatada al cielo, entonces será revelado aquel inicuo al mundo. Señala no lo hará él en su tiempo, el apóstol pasa por alto la carrera del Anticristo y describe su condenación final.",
+        "referencias_inline": [
+          "2 Tesalonicenses 2:8"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Entonces su loca desobediencia a Dios, su iniquidad y ambición de querer ser como Dios le durará en el Periodo de la Tribulación.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Apocalipsis 19:15; Isaías 11:4) \"El Señor Jesús lo matará con el espíritu de su boca\" y lo reducirá a la impotencia con la manifestación de su vida.",
+        "referencias_inline": [
+          "Apocalipsis 19:15",
+          "Isaías 11:4"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Cuando vuelva a la tierra para tomar el trono y reinar por mil años.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(2 Tesalonicenses 2:9) Inicuo cuyo \"advenimiento\" (llegada) es en conformidad a \"la actuación de Satanás.\"",
+        "referencias_inline": [
+          "2 Tesalonicenses 2:9"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Su carrera se asemeja a la \"de Satanás\" porque recibe su energía de Satanás.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(V.2 Tesalonicenses 2:10) Llevará toda clase de milagros, señales y prodigios mentirosos.",
+        "referencias_inline": [
+          "2 Tesalonicenses 2:10"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "El Anticristo se presentará sin escrúpulos, con toda clase de maldad para engañar a los que perecen; aquellos que desprecian el Evangelio durante la Edad de la Gracia, pero no tuvieron \"amor\" por la \"verdad.\"",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(2 Tesalonicenses 2:11) Dios realmente \"les\" enviará un poder engañoso de error para que crean la mentira.",
+        "referencias_inline": [
+          "2 Tesalonicenses 2:11"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "La mentira es, naturalmente, la pretensión del Anticristo de ser Dios.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(2 Tesalonicenses 2:12) Si fuera ahora, el que no ha creído en la Era de la Gracia, será difícil creer luego con el Anticristo: Dios enviará un poder engañoso.",
+        "referencias_inline": [
+          "2 Tesalonicenses 2:12"
+        ]
+      }
+    ]
+  },
+  "busqueda": {
+    "texto_indexable": "la desobediencia contra Dios 2 tesalonicenses 2 7 12 obediencia satanas liderazgo espiritual arrepentimiento perseverancia mundo evangelio apostasia pablo escribe que el anticristo no habia llegado pablo habia estado escribiendo sobre la venida del senor en la primera carta y algunos comenzaron a hablar que el senor habia venido pablo aclara los comentarios necios 2 tesalonicenses 2 3 el apostol explica por que no podian estar ahi en aquel dia primero habra la apostasia que es un masivo abandono del cristianismo un rechazamiento de la fe cristiana entonces surgira una gran figura mundial su caracter es el hombre de pecado o de iniquidad es decir la encarnacion misma del pecado y de la rebelion en cuanto a su destino es el hijo de perdicion esta sentenciado a condenacion eterna algunos comentaristas creen que el hombre de pecado sera un anticristo judio romano los grandes gobernantes de los tiempos del fin 2 tesalonicenses 2 3 1 juan 2 18 el anticristo daniel 7 8 24b 26 el cuerno pequeno el rey altivo de rostro daniel 8 23 25 el principe que ha de venir daniel 9 26 el rey voluntarioso y engreido daniel 11 36 el pastor inutil zacarias 11 17 la bestia subida del mar apocalipsis 13 1 10 etc el hombre de pecado ha tenido variedad de identificaciones a lo largo de los anos v 4 se opondra de manera violenta a cualquier forma de culto divino y se entronizara a si mismo en el templo de Dios en jerusalen pablo solia explicar esto a los tesalonicenses cuando el estaba todavia con ellos sin embargo con aquellas ensenanzas contradictorias que estaban recibiendo y que parecian describir de manera injusta las feroces persecuciones que estaban entonces soportando habian olvidado lo que el apostol habia dicho todos olvidamos demasiado facilmente y necesitamos que se nos recuerden una y otra vez las grandes verdades de la fe v 6 ellos sabian lo que detenia la plena y abierta manifestacion del hombre de pecado y lo que seguiria deteniendole hasta el momento senalado es algo y alguien que de una manera consciente con proposito y designio lo detiene con vistas a asegurar que el hombre de iniquidad se manifieste en el momento apropiado el espiritu santo y la verdadera iglesia v 7 en tanto que es habitacion del espiritu 2 tesalonicenses 2 7 ya cuando pablo escribia el misterio de la iniquidad estaba ya en accion por esto comprendemos que ya se estaba agitando bajo la superficie un enorme espiritu de desobediencia contra Dios estaba obrando en forma de misterio no que fuese algo misterioso sino que aun no estaba plenamente manifestado seguia en forma embrionaria que es lo que ha estado estorbando la plena manifestacion de este espiritu creemos que la presencia del espiritu santo morando en la iglesia y en cada creyente ha sido el poder refrenador y seguira ejerciendo esta funcion hasta que a su vez desaparezca de en medio es decir en el arrebatamiento es una persona de la deidad espiritu santo es el omnipresente y esta siempre en todos los lugares a la vez y sin embargo hay un sentido distinto en el que el vino a la tierra en el dia de pentecostes juan 14 16 26 15 26 16 7 Jesus habia repetido una y otra vez que el y el padre enviarian a el espiritu el espiritu santo vino como el morador permanente de la iglesia y de cada creyente hasta pentecostes el espiritu habia estado con los creyentes pero desde pentecostes ha habitado en ellos juan 14 17 salmo 51 11b y no quites de mi tu santo espiritu hasta el pentecostes se sabia que el espiritu podia apartarse de los creyentes despues de pentecostes el espiritu permanece para siempre en los creyentes de la era de la iglesia juan 14 16 el espiritu santo creemos se ira del mundo en el mismo sentido en que vino en pentecostes esto es como la morada permanente de la iglesia y de cada creyente seguira estando en el mundo convenciendo a las personas de pecado aqui habra salvos pero estas personas no seran miembros de la iglesia sino que vendran a ser subditos sujetos debajo sujeto a la autoridad del glorioso reino de cristo 2 tesalonicenses 2 8 despues que la iglesia haya sido arrebatada al cielo entonces sera revelado aquel inicuo al mundo senala no lo hara el en su tiempo el apostol pasa por alto la carrera del anticristo y describe su condenacion final entonces su loca desobediencia a Dios su iniquidad y ambicion de querer ser como Dios le durara en el periodo de la tribulacion apocalipsis 19 15 isaias 11 4 el senor Jesus lo matara con el espiritu de su boca y lo reducira a la impotencia con la manifestacion de su vida cuando vuelva a la tierra para tomar el trono y reinar por mil anos 2 tesalonicenses 2 9 inicuo cuyo advenimiento llegada es en conformidad a la actuacion de satanas su carrera se asemeja a la de satanas porque recibe su energia de satanas v 2 tesalonicenses 2 10 llevara toda clase de milagros senales y prodigios mentirosos el anticristo se presentara sin escrupulos con toda clase de maldad para enganar a los que perecen aquellos que desprecian el evangelio durante la edad de la gracia pero no tuvieron amor por la verdad 2 tesalonicenses 2 11 Dios realmente les enviara un poder enganoso de error para que crean la mentira la mentira es naturalmente la pretension del anticristo de ser Dios 2 tesalonicenses 2 12 si fuera ahora el que no ha creido en la era de la gracia sera dificil creer luego con el anticristo Dios enviara un poder enganoso",
+    "alias_busqueda": [
+      "Estudio 1177",
+      "2 Tesalonicenses",
+      "2 Tesalonicenses 2",
+      "2 Tesalonicenses 2:7-12",
+      "arrepentimiento",
+      "perseverancia",
+      "mundo",
+      "evangelio",
+      "Obediencia",
+      "Satanás"
+    ]
+  },
+  "revision_manual": {
+    "requiere_revision": false,
+    "motivo": ""
+  },
+  "ui": {
+    "mostrar_credito_en_header": true,
+    "mostrar_numero_estudio": true,
+    "mostrar_fecha": true,
+    "mostrar_topicos": true,
+    "permitir_favorito": true,
+    "permitir_compartir": true
+  }
+}

@@ -1,0 +1,426 @@
+{
+  "id": "estudio-1126-divagar-de-corazon",
+  "slug": "estudio-1126-divagar-de-corazon",
+  "numero_estudio": 1126,
+  "tipo_estudio": "Iglesia en las casas",
+  "ministerio": {
+    "iglesia": "Iglesia Cristiana Mega Zoe",
+    "pastora": "Pastora Edith Cruz",
+    "credito_corto": "Iglesia Cristiana Mega Zoe · Pastora Edith Cruz",
+    "credito_largo": "Contenido original de Iglesia Cristiana Mega Zoe, conservando el crédito ministerial correspondiente a la Pastora Edith Cruz."
+  },
+  "identidad_editorial": {
+    "idioma": "es",
+    "fuente_original": "documento_word",
+    "archivo_origen": "/Users/edwingadiel/Desktop/Estudios en Word/Estudio #1126  Divagar de Corazón - Hebreos 3 7-13.docx",
+    "estado_revision": "procesado",
+    "version_schema": "1.0"
+  },
+  "encabezado": {
+    "titulo": "Divagar De Corazón",
+    "subtitulo": null,
+    "cita_principal": "Hebreos 3:7-13",
+    "resumen_corto": "Divagar De Corazón enseña a vivir en santidad y permanecer en la verdad."
+  },
+  "fechas": {
+    "fecha_inicio": "2020-09-06",
+    "fecha_fin": "2020-09-06",
+    "fecha_texto_original": "DOMINGO, 6 SEPTIEMBRE DE 2020",
+    "ano": 2020
+  },
+  "clasificacion_biblica": {
+    "libro_principal": "Hebreos",
+    "capitulo_principal": 3,
+    "versiculos_principales": [
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13
+    ],
+    "referencia_principal_normalizada": "Hebreos 3:7-13",
+    "testamento_principal": "Nuevo Testamento"
+  },
+  "clasificacion_tematica": {
+    "topicos": [
+      "Santidad",
+      "Verdad",
+      "Salvación",
+      "Santificación"
+    ],
+    "keywords": [
+      "corazón malo",
+      "salvación",
+      "perseverancia",
+      "corazón",
+      "concupiscencia",
+      "arca",
+      "apostasia",
+      "reposo"
+    ]
+  },
+  "referencias_biblicas": [
+    {
+      "referencia": "Hebreos 3:7-13",
+      "referencia_normalizada": "Hebreos 3:7-13",
+      "libro": "Hebreos",
+      "capitulo": 3,
+      "versiculos": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "tipo": "principal",
+      "clickeable": true
+    },
+    {
+      "referencia": "Salmos 95:7-11",
+      "referencia_normalizada": "Salmos 95:7-11",
+      "libro": "Salmos",
+      "capitulo": 95,
+      "versiculos": [
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Números 13:25-29, 14",
+      "referencia_normalizada": "Números 13:25-29,14",
+      "libro": "Números",
+      "capitulo": 13,
+      "versiculos": [
+        14,
+        25,
+        26,
+        27,
+        28,
+        29
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Salmos 95:9",
+      "referencia_normalizada": "Salmos 95:9",
+      "libro": "Salmos",
+      "capitulo": 95,
+      "versiculos": [
+        9
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Números 14:33,34",
+      "referencia_normalizada": "Números 14:33,34",
+      "libro": "Números",
+      "capitulo": 14,
+      "versiculos": [
+        33,
+        34
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Números 14:28-30",
+      "referencia_normalizada": "Números 14:28-30",
+      "libro": "Números",
+      "capitulo": 14,
+      "versiculos": [
+        28,
+        29,
+        30
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Salmos 95:10",
+      "referencia_normalizada": "Salmos 95:10",
+      "libro": "Salmos",
+      "capitulo": 95,
+      "versiculos": [
+        10
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Hebreos 3:12-15",
+      "referencia_normalizada": "Hebreos 3:12-15",
+      "libro": "Hebreos",
+      "capitulo": 3,
+      "versiculos": [
+        12,
+        13,
+        14,
+        15
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Salmos 95:7,8",
+      "referencia_normalizada": "Salmos 95:7,8",
+      "libro": "Salmos",
+      "capitulo": 95,
+      "versiculos": [
+        7,
+        8
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    }
+  ],
+  "contenido": {
+    "introduccion": null,
+    "secciones": [],
+    "contenido_completo": "¡No nos atrevamos a copiar la conducta que tuvieron los israelitas en el desierto! ¡Esto es una advertencia de la Epístola! Una advertencia ¡en contra del endurecimiento de corazón! ¡Le había sucedido a Israel en el desierto, y puede volver a suceder a todo aquel que no cuide el corazón!\n\nI. De modo que hoy día el Espíritu Santo sigue hablando a través del Salmos 95:7-11.\n\nA. Igual como lo hizo al principio cuando inspiró al salmista. (Vs.7) \"Si oyereis hoy su voz…\"\n\nEl pueblo de Israel divagó (caminó sin un rumbo fijo) por el desierto.\n\n(Vs.8) \"No endurezcáis vuestro corazón…\" Cuando Dios habla, ¡debemos ser prontos en responder!\n\nDudar de Su palabra es tratar al Señor de mentiroso y eso significa que incurrirá en \"Su ira\", en \"Su furor\".\n\nNo es la ira o furor (sentimiento de intenso enfado) de la Pastora, sino la de Dios.\n\nNo echen a mi vida la ira que Dios pueda tener, pues la provocan cuando no Le quieren oír.\n\nEsta es la historia de Israel en el desierto. Un penoso registro de quejas (¡Cuidado tú también si te quejas de todo!), de las concupiscencias, de la idolatría, de la incredulidad y de la rebelión de aquella gente.\n\nFue en el desierto de Parán que volvieron los espías incrédulos con un malvado informe de desaliento y duda (Números 13:25-29, 14:). Y el pueblo decidió volverse a Egipto, a la tierra de su esclavitud.\n\n(Salmos 95:9) (Números 14:33,34) Fue tal la indignación de Dios que DECRETÓ QUE EL PUEBLO IRÍA ERRANTE POR EL DESIERTO DURANTE CUARENTA AÑOS.\n\nSólo entraron a la tierra prometida Caleb y Josué (Números 14:28-30).\n\nEs significativo que, así como Israel pasó cuarenta años en el desierto, así el Espíritu de Dios trató con la nación de Israel, después de la muerte de Cristo, durante aproximadamente cuarenta años.\n\n(Salmos 95:10) \"Pueblo es que divaga de corazón\". El profundo \"desagrado\" de Dios con Israel en el desierto provocó esta dura denuncia.\n\nDios los acusó de una perpetua inclinación a apartarse de Él y a ignorar voluntariamente \"Sus caminos\".\n\n¡No están en Dios, viven sin rumbo fijo, desconocen el camino en Dios! ¡Se alejan, pues viven vagando!\n\n(Vs.11) En su \"ira\", juró que no entrarían en Su reposo, es decir, a la tierra de Canaán.\n\nEn Hebreos 3:12-15 está la explicación que el Espíritu Santo nos da sobre esta experiencia de Israel.\n\nEs propio en la Epístola a los Hebreos llamar \"hermanos\" a quienes se les dirige la misma.\n\nPero, no todos los que llegan a la iglesia son verdaderos cristianos, ni verdaderos hermanos.\n\n¡Todos los que profesan ser creyentes deberían estar constantemente EN GUARDIA CONTRA UN CORAZÓN MALO DE INCREDULIDAD que pudiese llevarlos a apartarse del Dios vivo!\n\nEsto es una constante amenaza que hay en uno, no es aquel, ni el otro, ¡es lo que hay en la vida de uno mismo! Por tal razón, deja ya de acusar y examinar al otro y mírate \"tú\".\n\n(Vs.13) \"…antes exhortaos los unos a los otros cada día…\" Un buen antídoto es la mutua exhortación (la plática o sermón familiar breve para el aviso, para la advertencia).\n\nEs bueno hablar o exhortar cuando ves que se quieren alejar del Señor. Porque, hay religiones que no pueden tratar con el pecado de manera efectiva.\n\n\"…entre tanto que se dice: HOY…\" ¡Hoy, que todavía vives y está la oferta de Dios de salvación por la gracia! ¡Hoy, que es el tiempo aceptable! ¡Hoy, que es el día de salvación! ¡Hoy, escapa por tu vida!\n\n(Vs.14) Se te recuerda que \"…somos hechos participantes de Cristo…\", si retenemos FIRME HASTA EL FIN nuestra confianza del principio. Hay que demostrar con nuestras vidas que hemos sido salvos de manera genuina. De no ser así es pura hipocresía, sólo ha sido visitar meramente un lugar.\n\n¡LA FE ES LA RAÍZ DE LA SALVACIÓN! ¡LA PERSEVERANCIA ES EL FRUTO!\n\n¿Quiénes son los compañeros de Cristo? ¡Aquellos que por su firmeza en la fe demuestran que verdaderamente le pertenecen!\n\n(Vs.15) La triste experiencia de Israel está en las palabras del Salmos 95:7,8 \"Si oyereis hoy su voz, No endurezcáis vuestros corazones, como en la provocación.\"\n\nLo que fue dicho a Israel, se dirige ahora a todo aquel que pudiera sentirse tentado a abandonar las buenas nuevas y volverse atrás. ¡Es que no dejan a la iglesia, sino a Dios!\n\n(Vs.16) La apostasía de Israel: La \"rebelión\", la \"provocación\" y por tanto la \"retribución\" (¡el pago!).\n\nLOS REBELDES son identificados como \"…todos los que salieron de Egipto por mano de Moisés.\" 29. ¡Caleb y Josué fueron los solitarios excepcionales!\n\n(Vs.17) La PROVOCACIÓN = esos mismos rebeldes que provocaron a Jehová durante cuarenta años.\n\nEran unos seiscientos mil de ellos, y para cuando hubo terminado el plazo de los cuarenta años, el desierto estaba punteado (marcado) con seiscientos mil sepulcros.\n\n(Vs.18) La RETRIBUCIÓN = el pago que tendrán aquellos que pudiesen sentirse tentados a dejar \"la menospreciada\" minoría de verdaderos cristianos por la inmensa mayoría de los que tienen una forma externa de religión pero que niegan el poder de la piedad. ¿Acaso la mayoría tiene siempre razón?\n\nEn este capítulo de la historia de Israel, ¡sólo dos tenían razón, y más de medio millón de personas estaban en error!\n\n(Vs.19) Había sido la \"incredulidad\" lo que había mantenido a los \"hijos rebeldes\" fuera de la tierra prometida, y es la \"incredulidad\" lo que mantiene al hombre fuera de la heredad de Dios en cada dispensación. La lección es evidente: guardémonos de \"un corazón malo\" de \"incredulidad\".\n\nCaleb y Josué, honraron a Dios contando que Su palabra era absolutamente veraz, Su poder infinito, Su disposición inmutablemente llena de gracia, y Su fidelidad tal, que nunca suscitaría (promovería) ninguna esperanza que no fuese a satisfacer. Amén.",
+    "contenido_renderizado": [
+      {
+        "tipo": "parrafo",
+        "texto": "¡No nos atrevamos a copiar la conducta que tuvieron los israelitas en el desierto! ¡Esto es una advertencia de la Epístola! Una advertencia ¡en contra del endurecimiento de corazón! ¡Le había sucedido a Israel en el desierto, y puede volver a suceder a todo aquel que no cuide el corazón!",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "I. De modo que hoy día el Espíritu Santo sigue hablando a través del Salmos 95:7-11.",
+        "referencias_inline": [
+          "Salmos 95:7-11"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "A. Igual como lo hizo al principio cuando inspiró al salmista. (Vs.7) \"Si oyereis hoy su voz…\"",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "El pueblo de Israel divagó (caminó sin un rumbo fijo) por el desierto.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Vs.8) \"No endurezcáis vuestro corazón…\" Cuando Dios habla, ¡debemos ser prontos en responder!",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Dudar de Su palabra es tratar al Señor de mentiroso y eso significa que incurrirá en \"Su ira\", en \"Su furor\".",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "No es la ira o furor (sentimiento de intenso enfado) de la Pastora, sino la de Dios.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "No echen a mi vida la ira que Dios pueda tener, pues la provocan cuando no Le quieren oír.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Esta es la historia de Israel en el desierto. Un penoso registro de quejas (¡Cuidado tú también si te quejas de todo!), de las concupiscencias, de la idolatría, de la incredulidad y de la rebelión de aquella gente.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Fue en el desierto de Parán que volvieron los espías incrédulos con un malvado informe de desaliento y duda (Números 13:25-29, 14:). Y el pueblo decidió volverse a Egipto, a la tierra de su esclavitud.",
+        "referencias_inline": [
+          "Números 13:25-29,14"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Salmos 95:9) (Números 14:33,34) Fue tal la indignación de Dios que DECRETÓ QUE EL PUEBLO IRÍA ERRANTE POR EL DESIERTO DURANTE CUARENTA AÑOS.",
+        "referencias_inline": [
+          "Salmos 95:9",
+          "Números 14:33,34"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Sólo entraron a la tierra prometida Caleb y Josué (Números 14:28-30).",
+        "referencias_inline": [
+          "Números 14:28-30"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Es significativo que, así como Israel pasó cuarenta años en el desierto, así el Espíritu de Dios trató con la nación de Israel, después de la muerte de Cristo, durante aproximadamente cuarenta años.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Salmos 95:10) \"Pueblo es que divaga de corazón\". El profundo \"desagrado\" de Dios con Israel en el desierto provocó esta dura denuncia.",
+        "referencias_inline": [
+          "Salmos 95:10"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Dios los acusó de una perpetua inclinación a apartarse de Él y a ignorar voluntariamente \"Sus caminos\".",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "¡No están en Dios, viven sin rumbo fijo, desconocen el camino en Dios! ¡Se alejan, pues viven vagando!",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Vs.11) En su \"ira\", juró que no entrarían en Su reposo, es decir, a la tierra de Canaán.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "En Hebreos 3:12-15 está la explicación que el Espíritu Santo nos da sobre esta experiencia de Israel.",
+        "referencias_inline": [
+          "Hebreos 3:12-15"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Es propio en la Epístola a los Hebreos llamar \"hermanos\" a quienes se les dirige la misma.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Pero, no todos los que llegan a la iglesia son verdaderos cristianos, ni verdaderos hermanos.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "¡Todos los que profesan ser creyentes deberían estar constantemente EN GUARDIA CONTRA UN CORAZÓN MALO DE INCREDULIDAD que pudiese llevarlos a apartarse del Dios vivo!",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Esto es una constante amenaza que hay en uno, no es aquel, ni el otro, ¡es lo que hay en la vida de uno mismo! Por tal razón, deja ya de acusar y examinar al otro y mírate \"tú\".",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Vs.13) \"…antes exhortaos los unos a los otros cada día…\" Un buen antídoto es la mutua exhortación (la plática o sermón familiar breve para el aviso, para la advertencia).",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Es bueno hablar o exhortar cuando ves que se quieren alejar del Señor. Porque, hay religiones que no pueden tratar con el pecado de manera efectiva.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "\"…entre tanto que se dice: HOY…\" ¡Hoy, que todavía vives y está la oferta de Dios de salvación por la gracia! ¡Hoy, que es el tiempo aceptable! ¡Hoy, que es el día de salvación! ¡Hoy, escapa por tu vida!",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Vs.14) Se te recuerda que \"…somos hechos participantes de Cristo…\", si retenemos FIRME HASTA EL FIN nuestra confianza del principio. Hay que demostrar con nuestras vidas que hemos sido salvos de manera genuina. De no ser así es pura hipocresía, sólo ha sido visitar meramente un lugar.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "¡LA FE ES LA RAÍZ DE LA SALVACIÓN! ¡LA PERSEVERANCIA ES EL FRUTO!",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "¿Quiénes son los compañeros de Cristo? ¡Aquellos que por su firmeza en la fe demuestran que verdaderamente le pertenecen!",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Vs.15) La triste experiencia de Israel está en las palabras del Salmos 95:7,8 \"Si oyereis hoy su voz, No endurezcáis vuestros corazones, como en la provocación.\"",
+        "referencias_inline": [
+          "Salmos 95:7,8"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Lo que fue dicho a Israel, se dirige ahora a todo aquel que pudiera sentirse tentado a abandonar las buenas nuevas y volverse atrás. ¡Es que no dejan a la iglesia, sino a Dios!",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Vs.16) La apostasía de Israel: La \"rebelión\", la \"provocación\" y por tanto la \"retribución\" (¡el pago!).",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "LOS REBELDES son identificados como \"…todos los que salieron de Egipto por mano de Moisés.\" 29. ¡Caleb y Josué fueron los solitarios excepcionales!",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Vs.17) La PROVOCACIÓN = esos mismos rebeldes que provocaron a Jehová durante cuarenta años.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Eran unos seiscientos mil de ellos, y para cuando hubo terminado el plazo de los cuarenta años, el desierto estaba punteado (marcado) con seiscientos mil sepulcros.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Vs.18) La RETRIBUCIÓN = el pago que tendrán aquellos que pudiesen sentirse tentados a dejar \"la menospreciada\" minoría de verdaderos cristianos por la inmensa mayoría de los que tienen una forma externa de religión pero que niegan el poder de la piedad. ¿Acaso la mayoría tiene siempre razón?",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "En este capítulo de la historia de Israel, ¡sólo dos tenían razón, y más de medio millón de personas estaban en error!",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Vs.19) Había sido la \"incredulidad\" lo que había mantenido a los \"hijos rebeldes\" fuera de la tierra prometida, y es la \"incredulidad\" lo que mantiene al hombre fuera de la heredad de Dios en cada dispensación. La lección es evidente: guardémonos de \"un corazón malo\" de \"incredulidad\".",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Caleb y Josué, honraron a Dios contando que Su palabra era absolutamente veraz, Su poder infinito, Su disposición inmutablemente llena de gracia, y Su fidelidad tal, que nunca suscitaría (promovería) ninguna esperanza que no fuese a satisfacer. Amén.",
+        "referencias_inline": []
+      }
+    ]
+  },
+  "busqueda": {
+    "texto_indexable": "divagar de corazon hebreos 3 7 13 santidad verdad salvacion santificacion corazon malo salvacion perseverancia corazon concupiscencia arca apostasia reposo no nos atrevamos a copiar la conducta que tuvieron los israelitas en el desierto esto es una advertencia de la epistola una advertencia en contra del endurecimiento de corazon le habia sucedido a israel en el desierto y puede volver a suceder a todo aquel que no cuide el corazon i de modo que hoy dia el espiritu santo sigue hablando a traves del salmo 95 7 11 a igual como lo hizo al principio cuando inspiro al salmista vs 7 si oyereis hoy su voz el pueblo de israel divago camino sin un rumbo fijo por el desierto vs 8 no endurezcais vuestro corazon cuando Dios habla debemos ser prontos en responder dudar de su palabra es tratar al senor de mentiroso y eso significa que incurrira en su ira en su furor no es la ira o furor sentimiento de intenso enfado de la pastora sino la de Dios no echen a mi vida la ira que Dios pueda tener pues la provocan cuando no le quieren oir esta es la historia de israel en el desierto un penoso registro de quejas cuidado tu tambien si te quejas de todo de las concupiscencias de la idolatria de la incredulidad y de la rebelion de aquella gente fue en el desierto de paran que volvieron los espias incredulos con un malvado informe de desaliento y duda numeros 13 25 29 14 y el pueblo decidio volverse a egipto a la tierra de su esclavitud salmo 95 9 numeros 14 33 34 fue tal la indignacion de Dios que decreto que el pueblo iria errante por el desierto durante cuarenta anos solo entraron a la tierra prometida caleb y josue numeros 14 28 30 es significativo que asi como israel paso cuarenta anos en el desierto asi el espiritu de Dios trato con la nacion de israel despues de la muerte de cristo durante aproximadamente cuarenta anos salmo 95 10 pueblo es que divaga de corazon el profundo desagrado de Dios con israel en el desierto provoco esta dura denuncia Dios los acuso de una perpetua inclinacion a apartarse de el y a ignorar voluntariamente sus caminos no estan en Dios viven sin rumbo fijo desconocen el camino en Dios se alejan pues viven vagando vs 11 en su ira juro que no entrarian en su reposo es decir a la tierra de canaan en hebreos 3 12 15 esta la explicacion que el espiritu santo nos da sobre esta experiencia de israel es propio en la epistola a los hebreos llamar hermanos a quienes se les dirige la misma pero no todos los que llegan a la iglesia son verdaderos cristianos ni verdaderos hermanos todos los que profesan ser creyentes deberian estar constantemente en guardia contra un corazon malo de incredulidad que pudiese llevarlos a apartarse del Dios vivo esto es una constante amenaza que hay en uno no es aquel ni el otro es lo que hay en la vida de uno mismo por tal razon deja ya de acusar y examinar al otro y mirate tu vs 13 antes exhortaos los unos a los otros cada dia un buen antidoto es la mutua exhortacion la platica o sermon familiar breve para el aviso para la advertencia es bueno hablar o exhortar cuando ves que se quieren alejar del senor porque hay religiones que no pueden tratar con el pecado de manera efectiva entre tanto que se dice hoy hoy que todavia vives y esta la oferta de Dios de salvacion por la gracia hoy que es el tiempo aceptable hoy que es el dia de salvacion hoy escapa por tu vida vs 14 se te recuerda que somos hechos participantes de cristo si retenemos firme hasta el fin nuestra confianza del principio hay que demostrar con nuestras vidas que hemos sido salvos de manera genuina de no ser asi es pura hipocresia solo ha sido visitar meramente un lugar la fe es la raiz de la salvacion la perseverancia es el fruto quienes son los companeros de cristo aquellos que por su firmeza en la fe demuestran que verdaderamente le pertenecen vs 15 la triste experiencia de israel esta en las palabras del salmo 95 7 8 si oyereis hoy su voz no endurezcais vuestros corazones como en la provocacion lo que fue dicho a israel se dirige ahora a todo aquel que pudiera sentirse tentado a abandonar las buenas nuevas y volverse atras es que no dejan a la iglesia sino a Dios vs 16 la apostasia de israel la rebelion la provocacion y por tanto la retribucion el pago los rebeldes son identificados como todos los que salieron de egipto por mano de moises 29 caleb y josue fueron los solitarios excepcionales vs 17 la provocacion esos mismos rebeldes que provocaron a jehova durante cuarenta anos eran unos seiscientos mil de ellos y para cuando hubo terminado el plazo de los cuarenta anos el desierto estaba punteado marcado con seiscientos mil sepulcros vs 18 la retribucion el pago que tendran aquellos que pudiesen sentirse tentados a dejar la menospreciada minoria de verdaderos cristianos por la inmensa mayoria de los que tienen una forma externa de religion pero que niegan el poder de la piedad acaso la mayoria tiene siempre razon en este capitulo de la historia de israel solo dos tenian razon y mas de medio millon de personas estaban en error vs 19 habia sido la incredulidad lo que habia mantenido a los hijos rebeldes fuera de la tierra prometida y es la incredulidad lo que mantiene al hombre fuera de la heredad de Dios en cada dispensacion la leccion es evidente guardemonos de un corazon malo de incredulidad caleb y josue honraron a Dios contando que su palabra era absolutamente veraz su poder infinito su disposicion inmutablemente llena de gracia y su fidelidad tal que nunca suscitaria promoveria ninguna esperanza que no fuese a satisfacer amen",
+    "alias_busqueda": [
+      "Divagar De Corazón",
+      "Hebreos",
+      "Hebreos 3",
+      "Hebreos 3:7-13",
+      "corazón malo",
+      "salvación",
+      "perseverancia",
+      "corazón",
+      "Santidad",
+      "Verdad"
+    ]
+  },
+  "revision_manual": {
+    "requiere_revision": false,
+    "motivo": ""
+  },
+  "ui": {
+    "mostrar_credito_en_header": true,
+    "mostrar_numero_estudio": true,
+    "mostrar_fecha": true,
+    "mostrar_topicos": true,
+    "permitir_favorito": true,
+    "permitir_compartir": true
+  }
+}

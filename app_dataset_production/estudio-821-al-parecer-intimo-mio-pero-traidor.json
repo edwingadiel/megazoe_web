@@ -1,0 +1,274 @@
+{
+  "id": "estudio-821-al-parecer-intimo-mio-pero-traidor",
+  "slug": "estudio-821-al-parecer-intimo-mio-pero-traidor",
+  "numero_estudio": 821,
+  "tipo_estudio": "Iglesia en las casas",
+  "ministerio": {
+    "iglesia": "Iglesia Cristiana Mega Zoe",
+    "pastora": "Pastora Edith Cruz",
+    "credito_corto": "Iglesia Cristiana Mega Zoe · Pastora Edith Cruz",
+    "credito_largo": "Contenido original de Iglesia Cristiana Mega Zoe, conservando el crédito ministerial correspondiente a la Pastora Edith Cruz."
+  },
+  "identidad_editorial": {
+    "idioma": "es",
+    "fuente_original": "documento_word",
+    "archivo_origen": "/Users/edwingadiel/Desktop/Estudios en Word/Estudio #821 Al parece íntimo mío, pero traidor - Salmos 55 12-14.docx",
+    "estado_revision": "procesado",
+    "version_schema": "1.0"
+  },
+  "encabezado": {
+    "titulo": "Al Parecer Íntimo Mío, Pero Traidor",
+    "subtitulo": null,
+    "cita_principal": "Salmos 55:12-14",
+    "resumen_corto": "Al Parecer Íntimo Mío, Pero Traidor llama a perseverar en la oración y atender la Palabra de Dios."
+  },
+  "fechas": {
+    "fecha_inicio": null,
+    "fecha_fin": null,
+    "fecha_texto_original": "",
+    "ano": null
+  },
+  "clasificacion_biblica": {
+    "libro_principal": "Salmos",
+    "capitulo_principal": 55,
+    "versiculos_principales": [
+      12,
+      13,
+      14
+    ],
+    "referencia_principal_normalizada": "Salmos 55:12-14",
+    "testamento_principal": "Antiguo Testamento"
+  },
+  "clasificacion_tematica": {
+    "topicos": [
+      "Oración",
+      "Palabra de Dios",
+      "Guerra espiritual",
+      "Familia",
+      "Guía del Espíritu Santo"
+    ],
+    "keywords": [
+      "oración",
+      "arrepentimiento",
+      "secreto",
+      "perseverancia",
+      "arca"
+    ]
+  },
+  "referencias_biblicas": [
+    {
+      "referencia": "Salmos 55:12-14",
+      "referencia_normalizada": "Salmos 55:12-14",
+      "libro": "Salmos",
+      "capitulo": 55,
+      "versiculos": [
+        12,
+        13,
+        14
+      ],
+      "tipo": "principal",
+      "clickeable": true
+    },
+    {
+      "referencia": "2 Samuel 16:5-8",
+      "referencia_normalizada": "2 Samuel 16:5-8",
+      "libro": "2 Samuel",
+      "capitulo": 16,
+      "versiculos": [
+        5,
+        6,
+        7,
+        8
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "2 Samuel 16: 12-13",
+      "referencia_normalizada": "2 Samuel 16:12-13",
+      "libro": "2 Samuel",
+      "capitulo": 16,
+      "versiculos": [
+        12,
+        13
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "2 Samuel 15:12",
+      "referencia_normalizada": "2 Samuel 15:12",
+      "libro": "2 Samuel",
+      "capitulo": 15,
+      "versiculos": [
+        12
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "2 Samuel 15:31",
+      "referencia_normalizada": "2 Samuel 15:31",
+      "libro": "2 Samuel",
+      "capitulo": 15,
+      "versiculos": [
+        31
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "2 Samuel 16:23",
+      "referencia_normalizada": "2 Samuel 16:23",
+      "libro": "2 Samuel",
+      "capitulo": 16,
+      "versiculos": [
+        23
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "2 Samuel 17:14",
+      "referencia_normalizada": "2 Samuel 17:14",
+      "libro": "2 Samuel",
+      "capitulo": 17,
+      "versiculos": [
+        14
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "2 Samuel 17:1, 2",
+      "referencia_normalizada": "2 Samuel 17:1,2",
+      "libro": "2 Samuel",
+      "capitulo": 17,
+      "versiculos": [
+        1,
+        2
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "2 Samuel 17:23",
+      "referencia_normalizada": "2 Samuel 17:23",
+      "libro": "2 Samuel",
+      "capitulo": 17,
+      "versiculos": [
+        23
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "1 Crónicas 27:33",
+      "referencia_normalizada": "1 Crónicas 27:33",
+      "libro": "1 Crónicas",
+      "capitulo": 27,
+      "versiculos": [
+        33
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Salmos 55:12",
+      "referencia_normalizada": "Salmos 55:12",
+      "libro": "Salmos",
+      "capitulo": 55,
+      "versiculos": [
+        12
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Salmos 55:14",
+      "referencia_normalizada": "Salmos 55:14",
+      "libro": "Salmos",
+      "capitulo": 55,
+      "versiculos": [
+        14
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    }
+  ],
+  "contenido": {
+    "introduccion": null,
+    "secciones": [],
+    "contenido_completo": "\"Porque no me afrentó un enemigo, Lo cual habría soportado; Ni se alzó contra mí el que me aborrecía, porque me hubiera ocultado de él; Sino tú, hombre, al parecer íntimo mío, mi guía y mi familiar; que juntos comunicábamos dulcemente los secretos y andábamos en amistad en la casa de Dios.\" Salmos 55:12-14 No hay algo mayor que los reproches de nuestros íntimos, aquellos cercanos en quienes confiamos, esos reproches traicioneros son los que más nos hieren. Son nuestros íntimos los que conocen bien nuestras peculiaridades y debilidades. Ellos son los que se levantan y tocan nuestras cuerdas más sensibles y hablan de la forma que más nos hiere. La Biblia nos deja ver a dos hombres, Simei y Ahitofel, que eran cercanos al rey David y quienes le reprocharon y hablaron de él negativamente. Estos hombres fueron distintos en su proceder con su rey. Podemos tolerar a Simei, pero no podemos sufrir a Ahitofel.\n\nConozcamos bien a Simei y a Ahitofel; los dos se levantaron contra David. El primero, Simei era pobre, loco y envidioso (2 Samuel 16:5-8). Éste era un loco ignorante de la verdad. Desconocía de lo que estaba viviendo David, no tenía un conocimiento claro de lo que David había sufrido con Saúl. Entonces, juzgó por lo que su amargura y locura le dictaban. En realidad Simei opinó por su ambición, pensó que David le quitó lo que era de Saúl, quien era su familiar. No era capaz de entender que no fue David quien le quitó a Saúl sino Dios. David lo tomó como un pobre ignorante atormentado con la locura de su ignorancia. 2 Samuel 16: 12-13 \"Quizá mirará Jehová mi aflicción y me dará Jehová bien por sus maldiciones de hoy. Y mientras David y los suyos iban por el camino, Simei iba por el lado del monte delante de él andando y maldiciendo y arrojando piedras delante de él y esparciendo polvo.\"\n\nEl segundo hombre es Ahitofel, consejero de David (2 Samuel 15:12 \"Y mientras Absalón ofrecía los sacrificios, llamó a Ahitofel gilonita, consejero de David, de su ciudad de Gilo. Y la conspiración se hizo poderosa, y aumentaba el pueblo que seguía a Absalón.\" Vs. 31 \"Y dieron aviso a David, diciendo: Ahitofel está entre los que conspiraron con Absalón. Entonces dijo David: Entorpece ahora, oh Jehová, el consejo de Ahitofel.\") Este consejero tan cercano a David se unió al hijo de David, Absalón para conspirar contra David. ¡LLEGÓ A UN ACUERDO CON ABSALÓN PARA QUITARLE EL REINO! Maquinó en contra de su rey, tramó en su contra con toda su cordura, inteligencia y capacidad. Siendo su consejero de confianza sabía lo que era el reino, parece que deseó ese trono. Por medio de Ahitofel la conspiración se hizo poderosa. Y llegó al oído de David el mal que le había hecho Ahitofel (2 Samuel 15:31). Entonces, David hizo oración a Dios: \"Entorpece ahora, oh Jehová, el consejo de Ahitofel\". (2 Samuel 16:23 \"Y el consejo que daba Ahitofel en aquellos días, era como si se consultase la palabra de Dios. Así era todo consejo de Ahitofel, tanto con David como con Absalón.\") Ahitofel tenía tanta influencia que sus palabras pasaban como si se consultara la palabra de Dios. Pero, Dios escuchó la oración de David y frustró las intenciones malévolas de Ahitofel. 2 Samuel 17:14 \"Entonces Absalón y todos los de Israel dijeron: El consejo de Husai arquita es mejor que el consejo de Ahitofel. Porque Jehová había ordenado que el acertado consejo de Ahitofel se frustrara, para que Jehová hiciese venir el mal sobre Absalón.\" El consejo de Ahitofel era acertado y conveniente, pues ya con el cansancio de la noche con 12,000 hombres podía vencer a David. Todo el pueblo cansado huiría y dejarían solo a David y entonces Ahitofel lo mataría (2 Samuel 17:1, 2). Pero, Dios frustró aquel consejo para que el mal viniera sobre Absalón y no sobre David su escogido. (2 Samuel 17:23 \"Pero Ahitofel, viendo que no se había seguido su consejo, enalbardó su asno, y se levantó y se fue a su casa a su ciudad; y después de poner su casa en orden, se ahorcó, y así murió, y fue sepultado en el sepulcro de su padre.\") Se ahorcó Ahitofel porque Husai el buen amigo de David (I Crónicas 27:33 \"…y Husai arquita amigo del rey.\") le dio otro consejo a Absalón a favor del rey.\n\nSalmo 55:12 \"No se alzó contra mí el que me aborrecía porque me hubiera ocultado de él.\" Si nuestros orgullosos enemigos se jactan acerca de nosotros podemos ofrecerles resistencia. Pero, cuando aquellos que nos hacen ver que nos aman nos miran con desprecio, ¿a dónde iremos? Así fue como Judas, un discípulo favorecido de Jesús, le dio su peor desengaño e infidelidad. ¡Con cuánto amor Jesús le dijo \"Amigo, me besas y me vendes.\"! ¡Si Judas Iscariote no hubiera sido diez veces un hijo del infierno habría renunciado a su infame propósito!\n\nSalmo 55:14 \"…andábamos en amistad en la casa de Dios.\" Hay una medida de impiedad de carácter detestable en el engaño que rebaja la unión y amistad de hombres que han hecho profesión de piedad. ¿Se ha de ver el altar de Dios ensuciado por la hipocresía? ¿Han de verse las mismas asambleas del templo contaminadas por la presencia de la traición? ¡Todo esto era una verdad en Ahitofel y en Judas! Traidores unidos como amigos con los santos en lo que es la fe, en lo más santo, en llevar el mensaje de la gracia. La aparente cooperación de Judas con Jesús era para servir sus fines abominables, eso le marca como un primogénito del infierno. ¡Mejor le hubiera sido no haber nacido! De la nidada de la serpiente quedan aun algunas víboras que pican la mano que las acaricia y venden por plata a los que les han levantado a la posición en que pueden hacerse traidores abominables. ¡La muerte les sorprenderá! No hay vida en ellos. La tierra se contamina por sus pisadas. Acechan a traición. Aun en el vigor de la vida se hundirán en el Seol. Oramos por ellos como criaturas, pero son aborrecidos como enemigos de Dios. Amemos nosotros, amemos de verdad, amemos siempre, seamos verdaderos y fieles, cuidemos nuestro corazón para que nunca mienta ni traicione a los que amamos. Amén.",
+    "contenido_renderizado": [
+      {
+        "tipo": "parrafo",
+        "texto": "\"Porque no me afrentó un enemigo, Lo cual habría soportado; Ni se alzó contra mí el que me aborrecía, porque me hubiera ocultado de él; Sino tú, hombre, al parecer íntimo mío, mi guía y mi familiar; que juntos comunicábamos dulcemente los secretos y andábamos en amistad en la casa de Dios.\" Salmos 55:12-14 No hay algo mayor que los reproches de nuestros íntimos, aquellos cercanos en quienes confiamos, esos reproches traicioneros son los que más nos hieren. Son nuestros íntimos los que conocen bien nuestras peculiaridades y debilidades. Ellos son los que se levantan y tocan nuestras cuerdas más sensibles y hablan de la forma que más nos hiere. La Biblia nos deja ver a dos hombres, Simei y Ahitofel, que eran cercanos al rey David y quienes le reprocharon y hablaron de él negativamente. Estos hombres fueron distintos en su proceder con su rey. Podemos tolerar a Simei, pero no podemos sufrir a Ahitofel.",
+        "referencias_inline": [
+          "Salmos 55:12-14"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Conozcamos bien a Simei y a Ahitofel; los dos se levantaron contra David. El primero, Simei era pobre, loco y envidioso (2 Samuel 16:5-8). Éste era un loco ignorante de la verdad. Desconocía de lo que estaba viviendo David, no tenía un conocimiento claro de lo que David había sufrido con Saúl. Entonces, juzgó por lo que su amargura y locura le dictaban. En realidad Simei opinó por su ambición, pensó que David le quitó lo que era de Saúl, quien era su familiar. No era capaz de entender que no fue David quien le quitó a Saúl sino Dios. David lo tomó como un pobre ignorante atormentado con la locura de su ignorancia. 2 Samuel 16: 12-13 \"Quizá mirará Jehová mi aflicción y me dará Jehová bien por sus maldiciones de hoy. Y mientras David y los suyos iban por el camino, Simei iba por el lado del monte delante de él andando y maldiciendo y arrojando piedras delante de él y esparciendo polvo.\"",
+        "referencias_inline": [
+          "2 Samuel 16:5-8",
+          "2 Samuel 16:12-13"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "El segundo hombre es Ahitofel, consejero de David (2 Samuel 15:12 \"Y mientras Absalón ofrecía los sacrificios, llamó a Ahitofel gilonita, consejero de David, de su ciudad de Gilo. Y la conspiración se hizo poderosa, y aumentaba el pueblo que seguía a Absalón.\" Vs. 31 \"Y dieron aviso a David, diciendo: Ahitofel está entre los que conspiraron con Absalón. Entonces dijo David: Entorpece ahora, oh Jehová, el consejo de Ahitofel.\") Este consejero tan cercano a David se unió al hijo de David, Absalón para conspirar contra David. ¡LLEGÓ A UN ACUERDO CON ABSALÓN PARA QUITARLE EL REINO! Maquinó en contra de su rey, tramó en su contra con toda su cordura, inteligencia y capacidad. Siendo su consejero de confianza sabía lo que era el reino, parece que deseó ese trono. Por medio de Ahitofel la conspiración se hizo poderosa. Y llegó al oído de David el mal que le había hecho Ahitofel (2 Samuel 15:31). Entonces, David hizo oración a Dios: \"Entorpece ahora, oh Jehová, el consejo de Ahitofel\". (2 Samuel 16:23 \"Y el consejo que daba Ahitofel en aquellos días, era como si se consultase la palabra de Dios. Así era todo consejo de Ahitofel, tanto con David como con Absalón.\") Ahitofel tenía tanta influencia que sus palabras pasaban como si se consultara la palabra de Dios. Pero, Dios escuchó la oración de David y frustró las intenciones malévolas de Ahitofel. 2 Samuel 17:14 \"Entonces Absalón y todos los de Israel dijeron: El consejo de Husai arquita es mejor que el consejo de Ahitofel. Porque Jehová había ordenado que el acertado consejo de Ahitofel se frustrara, para que Jehová hiciese venir el mal sobre Absalón.\" El consejo de Ahitofel era acertado y conveniente, pues ya con el cansancio de la noche con 12,000 hombres podía vencer a David. Todo el pueblo cansado huiría y dejarían solo a David y entonces Ahitofel lo mataría (2 Samuel 17:1, 2). Pero, Dios frustró aquel consejo para que el mal viniera sobre Absalón y no sobre David su escogido. (2 Samuel 17:23 \"Pero Ahitofel, viendo que no se había seguido su consejo, enalbardó su asno, y se levantó y se fue a su casa a su ciudad; y después de poner su casa en orden, se ahorcó, y así murió, y fue sepultado en el sepulcro de su padre.\") Se ahorcó Ahitofel porque Husai el buen amigo de David (I Crónicas 27:33 \"…y Husai arquita amigo del rey.\") le dio otro consejo a Absalón a favor del rey.",
+        "referencias_inline": [
+          "2 Samuel 15:12",
+          "2 Samuel 15:31",
+          "2 Samuel 16:23",
+          "2 Samuel 17:14",
+          "2 Samuel 17:1,2",
+          "2 Samuel 17:23",
+          "1 Crónicas 27:33"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Salmos 55:12 \"No se alzó contra mí el que me aborrecía porque me hubiera ocultado de él.\" Si nuestros orgullosos enemigos se jactan acerca de nosotros podemos ofrecerles resistencia. Pero, cuando aquellos que nos hacen ver que nos aman nos miran con desprecio, ¿a dónde iremos? Así fue como Judas, un discípulo favorecido de Jesús, le dio su peor desengaño e infidelidad. ¡Con cuánto amor Jesús le dijo \"Amigo, me besas y me vendes.\"! ¡Si Judas Iscariote no hubiera sido diez veces un hijo del infierno habría renunciado a su infame propósito!",
+        "referencias_inline": [
+          "Salmos 55:12"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Salmos 55:14 \"…andábamos en amistad en la casa de Dios.\" Hay una medida de impiedad de carácter detestable en el engaño que rebaja la unión y amistad de hombres que han hecho profesión de piedad. ¿Se ha de ver el altar de Dios ensuciado por la hipocresía? ¿Han de verse las mismas asambleas del templo contaminadas por la presencia de la traición? ¡Todo esto era una verdad en Ahitofel y en Judas! Traidores unidos como amigos con los santos en lo que es la fe, en lo más santo, en llevar el mensaje de la gracia. La aparente cooperación de Judas con Jesús era para servir sus fines abominables, eso le marca como un primogénito del infierno. ¡Mejor le hubiera sido no haber nacido! De la nidada de la serpiente quedan aun algunas víboras que pican la mano que las acaricia y venden por plata a los que les han levantado a la posición en que pueden hacerse traidores abominables. ¡La muerte les sorprenderá! No hay vida en ellos. La tierra se contamina por sus pisadas. Acechan a traición. Aun en el vigor de la vida se hundirán en el Seol. Oramos por ellos como criaturas, pero son aborrecidos como enemigos de Dios. Amemos nosotros, amemos de verdad, amemos siempre, seamos verdaderos y fieles, cuidemos nuestro corazón para que nunca mienta ni traicione a los que amamos. Amén.",
+        "referencias_inline": [
+          "Salmos 55:14"
+        ]
+      }
+    ]
+  },
+  "busqueda": {
+    "texto_indexable": "al parecer intimo mio pero traidor salmo 55 12 14 oracion palabra de Dios guerra espiritual familia guia del espiritu santo oracion arrepentimiento secreto perseverancia arca porque no me afrento un enemigo lo cual habria soportado ni se alzo contra mi el que me aborrecia porque me hubiera ocultado de el sino tu hombre al parecer intimo mio mi guia y mi familiar que juntos comunicabamos dulcemente los secretos y andabamos en amistad en la casa de Dios salmo 55 12 14 no hay algo mayor que los reproches de nuestros intimos aquellos cercanos en quienes confiamos esos reproches traicioneros son los que mas nos hieren son nuestros intimos los que conocen bien nuestras peculiaridades y debilidades ellos son los que se levantan y tocan nuestras cuerdas mas sensibles y hablan de la forma que mas nos hiere la biblia nos deja ver a dos hombres simei y ahitofel que eran cercanos al rey david y quienes le reprocharon y hablaron de el negativamente estos hombres fueron distintos en su proceder con su rey podemos tolerar a simei pero no podemos sufrir a ahitofel conozcamos bien a simei y a ahitofel los dos se levantaron contra david el primero simei era pobre loco y envidioso 2 samuel 16 5 8 este era un loco ignorante de la verdad desconocia de lo que estaba viviendo david no tenia un conocimiento claro de lo que david habia sufrido con saul entonces juzgo por lo que su amargura y locura le dictaban en realidad simei opino por su ambicion penso que david le quito lo que era de saul quien era su familiar no era capaz de entender que no fue david quien le quito a saul sino Dios david lo tomo como un pobre ignorante atormentado con la locura de su ignorancia 2 samuel 16 12 13 quiza mirara jehova mi afliccion y me dara jehova bien por sus maldiciones de hoy y mientras david y los suyos iban por el camino simei iba por el lado del monte delante de el andando y maldiciendo y arrojando piedras delante de el y esparciendo polvo el segundo hombre es ahitofel consejero de david 2 samuel 15 12 y mientras absalon ofrecia los sacrificios llamo a ahitofel gilonita consejero de david de su ciudad de gilo y la conspiracion se hizo poderosa y aumentaba el pueblo que seguia a absalon vs 31 y dieron aviso a david diciendo ahitofel esta entre los que conspiraron con absalon entonces dijo david entorpece ahora oh jehova el consejo de ahitofel este consejero tan cercano a david se unio al hijo de david absalon para conspirar contra david llego a un acuerdo con absalon para quitarle el reino maquino en contra de su rey tramo en su contra con toda su cordura inteligencia y capacidad siendo su consejero de confianza sabia lo que era el reino parece que deseo ese trono por medio de ahitofel la conspiracion se hizo poderosa y llego al oido de david el mal que le habia hecho ahitofel 2 samuel 15 31 entonces david hizo oracion a Dios entorpece ahora oh jehova el consejo de ahitofel 2 samuel 16 23 y el consejo que daba ahitofel en aquellos dias era como si se consultase la palabra de Dios asi era todo consejo de ahitofel tanto con david como con absalon ahitofel tenia tanta influencia que sus palabras pasaban como si se consultara la palabra de Dios pero Dios escucho la oracion de david y frustro las intenciones malevolas de ahitofel 2 samuel 17 14 entonces absalon y todos los de israel dijeron el consejo de husai arquita es mejor que el consejo de ahitofel porque jehova habia ordenado que el acertado consejo de ahitofel se frustrara para que jehova hiciese venir el mal sobre absalon el consejo de ahitofel era acertado y conveniente pues ya con el cansancio de la noche con 12 000 hombres podia vencer a david todo el pueblo cansado huiria y dejarian solo a david y entonces ahitofel lo mataria 2 samuel 17 1 2 pero Dios frustro aquel consejo para que el mal viniera sobre absalon y no sobre david su escogido 2 samuel 17 23 pero ahitofel viendo que no se habia seguido su consejo enalbardo su asno y se levanto y se fue a su casa a su ciudad y despues de poner su casa en orden se ahorco y asi murio y fue sepultado en el sepulcro de su padre se ahorco ahitofel porque husai el buen amigo de david i cronicas 27 33 y husai arquita amigo del rey le dio otro consejo a absalon a favor del rey salmo 55 12 no se alzo contra mi el que me aborrecia porque me hubiera ocultado de el si nuestros orgullosos enemigos se jactan acerca de nosotros podemos ofrecerles resistencia pero cuando aquellos que nos hacen ver que nos aman nos miran con desprecio a donde iremos asi fue como judas un discipulo favorecido de Jesus le dio su peor desengano e infidelidad con cuanto amor Jesus le dijo amigo me besas y me vendes si judas iscariote no hubiera sido diez veces un hijo del infierno habria renunciado a su infame proposito salmo 55 14 andabamos en amistad en la casa de Dios hay una medida de impiedad de caracter detestable en el engano que rebaja la union y amistad de hombres que han hecho profesion de piedad se ha de ver el altar de Dios ensuciado por la hipocresia han de verse las mismas asambleas del templo contaminadas por la presencia de la traicion todo esto era una verdad en ahitofel y en judas traidores unidos como amigos con los santos en lo que es la fe en lo mas santo en llevar el mensaje de la gracia la aparente cooperacion de judas con Jesus era para servir sus fines abominables eso le marca como un primogenito del infierno mejor le hubiera sido no haber nacido de la nidada de la serpiente quedan aun algunas viboras que pican la mano que las acaricia y venden por plata a los que les han levantado a la posicion en que pueden hacerse traidores abominables la muerte les sorprendera no hay vida en ellos la tierra se contamina por sus pisadas acechan a traicion aun en el vigor de la vida se hundiran en el seol oramos por ellos como criaturas pero son aborrecidos como enemigos de Dios amemos nosotros amemos de verdad amemos siempre seamos verdaderos y fieles cuidemos nuestro corazon para que nunca mienta ni traicione a los que amamos amen",
+    "alias_busqueda": [
+      "Al Parecer Íntimo Mío, Pero Traidor",
+      "Salmos",
+      "Salmos 55",
+      "Salmos 55:12-14",
+      "oración",
+      "arrepentimiento",
+      "secreto",
+      "perseverancia",
+      "Palabra de Dios"
+    ]
+  },
+  "revision_manual": {
+    "requiere_revision": false,
+    "motivo": ""
+  },
+  "ui": {
+    "mostrar_credito_en_header": true,
+    "mostrar_numero_estudio": true,
+    "mostrar_fecha": true,
+    "mostrar_topicos": true,
+    "permitir_favorito": true,
+    "permitir_compartir": true
+  }
+}

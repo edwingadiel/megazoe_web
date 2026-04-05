@@ -1,0 +1,483 @@
+{
+  "id": "estudio-1260-estudio-1260",
+  "slug": "estudio-1260-estudio-1260",
+  "numero_estudio": 1260,
+  "tipo_estudio": "Iglesia en las casas",
+  "ministerio": {
+    "iglesia": "Iglesia Cristiana Mega Zoe",
+    "pastora": "Pastora Edith Cruz",
+    "credito_corto": "Iglesia Cristiana Mega Zoe · Pastora Edith Cruz",
+    "credito_largo": "Contenido original de Iglesia Cristiana Mega Zoe, conservando el crédito ministerial correspondiente a la Pastora Edith Cruz."
+  },
+  "identidad_editorial": {
+    "idioma": "es",
+    "fuente_original": "documento_word",
+    "archivo_origen": "/Users/edwingadiel/Desktop/Estudios en Word/Estudio #1260 Toma tu aflicción - Job 5 17-24.docx",
+    "estado_revision": "procesado",
+    "version_schema": "1.0"
+  },
+  "encabezado": {
+    "titulo": "Toma tu Aflicción",
+    "subtitulo": null,
+    "cita_principal": "Job 5:17-24",
+    "resumen_corto": "Toma tu Aflicción enseña a cuidar la vida del hogar delante de Dios y vivir en santidad."
+  },
+  "fechas": {
+    "fecha_inicio": null,
+    "fecha_fin": null,
+    "fecha_texto_original": "",
+    "ano": null
+  },
+  "clasificacion_biblica": {
+    "libro_principal": "Job",
+    "capitulo_principal": 5,
+    "versiculos_principales": [
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24
+    ],
+    "referencia_principal_normalizada": "Job 5:17-24",
+    "testamento_principal": "Antiguo Testamento"
+  },
+  "clasificacion_tematica": {
+    "topicos": [
+      "Familia",
+      "Santidad",
+      "Sabiduría espiritual"
+    ],
+    "keywords": [
+      "voz de Dios",
+      "verdad",
+      "santidad",
+      "arrepentimiento",
+      "perseverancia"
+    ]
+  },
+  "referencias_biblicas": [
+    {
+      "referencia": "Job 5:17-24",
+      "referencia_normalizada": "Job 5:17-24",
+      "libro": "Job",
+      "capitulo": 5,
+      "versiculos": [
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24
+      ],
+      "tipo": "principal",
+      "clickeable": true
+    },
+    {
+      "referencia": "Hebreos 12:6",
+      "referencia_normalizada": "Hebreos 12:6",
+      "libro": "Hebreos",
+      "capitulo": 12,
+      "versiculos": [
+        6
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Job 5:17",
+      "referencia_normalizada": "Job 5:17",
+      "libro": "Job",
+      "capitulo": 5,
+      "versiculos": [
+        17
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Job 5:18",
+      "referencia_normalizada": "Job 5:18",
+      "libro": "Job",
+      "capitulo": 5,
+      "versiculos": [
+        18
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Job 5:19",
+      "referencia_normalizada": "Job 5:19",
+      "libro": "Job",
+      "capitulo": 5,
+      "versiculos": [
+        19
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Job 5:20",
+      "referencia_normalizada": "Job 5:20",
+      "libro": "Job",
+      "capitulo": 5,
+      "versiculos": [
+        20
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Job 5:21",
+      "referencia_normalizada": "Job 5:21",
+      "libro": "Job",
+      "capitulo": 5,
+      "versiculos": [
+        21
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Job 5:22",
+      "referencia_normalizada": "Job 5:22",
+      "libro": "Job",
+      "capitulo": 5,
+      "versiculos": [
+        22
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "1 Corintios 15:55",
+      "referencia_normalizada": "1 Corintios 15:55",
+      "libro": "1 Corintios",
+      "capitulo": 15,
+      "versiculos": [
+        55
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Romanos 8:35-39",
+      "referencia_normalizada": "Romanos 8:35-39",
+      "libro": "Romanos",
+      "capitulo": 8,
+      "versiculos": [
+        35,
+        36,
+        37,
+        38,
+        39
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Job 5:23",
+      "referencia_normalizada": "Job 5:23",
+      "libro": "Job",
+      "capitulo": 5,
+      "versiculos": [
+        23
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Job 5:24-25",
+      "referencia_normalizada": "Job 5:24-25",
+      "libro": "Job",
+      "capitulo": 5,
+      "versiculos": [
+        24,
+        25
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Job 5:25",
+      "referencia_normalizada": "Job 5:25",
+      "libro": "Job",
+      "capitulo": 5,
+      "versiculos": [
+        25
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Job 5:26",
+      "referencia_normalizada": "Job 5:26",
+      "libro": "Job",
+      "capitulo": 5,
+      "versiculos": [
+        26
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Job 5:27",
+      "referencia_normalizada": "Job 5:27",
+      "libro": "Job",
+      "capitulo": 5,
+      "versiculos": [
+        27
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    }
+  ],
+  "contenido": {
+    "introduccion": null,
+    "secciones": [],
+    "contenido_completo": "Consejo a Job para que tome \"su aflicción\" como una disciplina de su buen Padre. Es la corrección del Todopoderoso.\n\nNo menosprecies la corrección.\n\nCambios que se deben hacer en la vida.\n\nRazón: para corregir las faltas, errores, defectos y demás.\n\nLa disciplina procede del amor de un buen padre y tiene por objetivo el bien del hijo. (Hebreos 12:6) Porque el Señor al que ama, disciplina y azota a todo el que recibe por hijo.\n\nLa aflicción es como la voz de Dios que nos envía un mensaje desde el cielo.\n\n\"Bienaventurado es el hombre a quien Dios corrige\". (Job 5:17)\n\nSi aprovecha la corrección que Dios envía, la corrección que te llega es evidencia (convicción, certeza) segura de santificación.\n\nDebes dejar de desear lo que no te toca, te vas a destruir tú y los tuyos.\n\n(Job 5:18) Cuando Dios produce heridas con las reprensiones de su Providencia, las venda y cura con los consuelos de su Espíritu.\n\nElifaz se dirige personalmente a Job y le declara muchas y grandes promesas de las buenas cosas que Dios haría por él si se humillase bajo la mano de su Hacedor.\n\n(Job 5:19) Se promete aquí.\n\nEnvidia = mental, es dolor o desdicha, tristeza o pesar del bien ajeno del envidiado, no tengo lo que tiene.\n\nCuantas veces sobrevengan aflicciones, otras tantas sobrevendrán también \"amorosas liberaciones\".\n\nEl número siete simboliza aquí, como siempre, totalidad y perfección.\n\n(Job 5:20) Cuando vengan calamidades públicas, el justo gozará de peculiar (aquello que se sale de lo dictado por la norma, distinto) protección.\n\n(Job 5:21) Todo lo que de los buenos se diga con calumnia o para destruir su reputación quedará sin efecto y no les hará daño.\n\nLos mejores y más inocentes no pueden verse libres de calumnias, reproches y falsas acusaciones.\n\nDe estas cosas no puede ponerse a salvo el hombre más santo, pero \"Dios sí puede resguardarlo (proteger, no reciba daño) y hacer que los malvados calumniadores no le perturben la paz ni le manchen la reputación.\n\nDisfrutarán de santa serenidad mental, nacida de su confianza en Dios, en medio de los peligros que les acechan: No temerán la destrucción (Job 5:21), ni a las fieras del campo (Job 5:22).\n\nPablo habla con gran alegría y satisfacción de la impotencia de la muerte y del sepulcro (1 Corintios 15:55), \"persuadido de que nada ni la muerte, puede separarnos del amor de Cristo (Romanos 8:35-39).\n\n(Job 5:23) Al estar en paz con Dios, habrá también un pacto de paz entre el justo y la creación entera; ni las \"piedras\" impedirán la fertilidad de su campo, ni las \"fieras\", \"estropearán\" las \"cosechas\".\n\n(Job 5:24-25) Sus casas y familias gozarán, no han sufrido daño y tendrán prosperidad: \"Paz en tu tienda\".\n\nEs decir, tu casa se hallará en completa seguridad y prosperidad.\n\nBienaventurado es el hombre que Dios castiga (Job 5:17).\n\nLo mismo ocurrirá con sus posesiones: cuando vaya a verlas, \"nada echará de menos\".\n\n(Job 5:25) Su familia será numerosa: su prole (linaje, hijos) brotará del seno como la grama que brota esplendorosa en campo tras la lluvia.\n\nAunque hayas perdido todos tus hijos, parece decirle a Job, si te vuelves a Dios, Él reconstruirá con creces a tu familia.\n\n(Job 5:26) Su muerte vendrá a su tiempo y sazón (punto o madurez de las cosas, estado de perfección, tiempo oportunamente).\n\n\"Terminarán el curso de la vida\" con \"gozo\" y \"honor\".\n\nBajamos al sepulcro en buena vejez.\n\n(Job 5:27) Inquirido (averiguar, indagar) ¡Óyelo y conócelo tú para tu provecho!\n\n\"Lo que estaba examinado de Dios es cierto\".\n\nLo mejor para Job en estos momentos de pérdidas, dolor, quebranto, castigo, aunque no se sepa el porqué es \"escucharla y aplicársela para su provecho\".\n\nNo es bastante oír y conocer la verdad, sino que debemos andar en ella y hacernos más sabios y mejores por medio de ella.\n\nIglesia abre los oídos y aplica el conocimiento de la verdad, deja atrás el orgullo y el sentido de superioridad y vanidad para que seas libre. Amén.",
+    "contenido_renderizado": [
+      {
+        "tipo": "parrafo",
+        "texto": "Consejo a Job para que tome \"su aflicción\" como una disciplina de su buen Padre. Es la corrección del Todopoderoso.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "No menosprecies la corrección.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Cambios que se deben hacer en la vida.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Razón: para corregir las faltas, errores, defectos y demás.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "La disciplina procede del amor de un buen padre y tiene por objetivo el bien del hijo. (Hebreos 12:6) Porque el Señor al que ama, disciplina y azota a todo el que recibe por hijo.",
+        "referencias_inline": [
+          "Hebreos 12:6"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "La aflicción es como la voz de Dios que nos envía un mensaje desde el cielo.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "\"Bienaventurado es el hombre a quien Dios corrige\". (Job 5:17)",
+        "referencias_inline": [
+          "Job 5:17"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Si aprovecha la corrección que Dios envía, la corrección que te llega es evidencia (convicción, certeza) segura de santificación.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Debes dejar de desear lo que no te toca, te vas a destruir tú y los tuyos.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Job 5:18) Cuando Dios produce heridas con las reprensiones de su Providencia, las venda y cura con los consuelos de su Espíritu.",
+        "referencias_inline": [
+          "Job 5:18"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Elifaz se dirige personalmente a Job y le declara muchas y grandes promesas de las buenas cosas que Dios haría por él si se humillase bajo la mano de su Hacedor.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Job 5:19) Se promete aquí.",
+        "referencias_inline": [
+          "Job 5:19"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Envidia = mental, es dolor o desdicha, tristeza o pesar del bien ajeno del envidiado, no tengo lo que tiene.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Cuantas veces sobrevengan aflicciones, otras tantas sobrevendrán también \"amorosas liberaciones\".",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "El número siete simboliza aquí, como siempre, totalidad y perfección.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Job 5:20) Cuando vengan calamidades públicas, el justo gozará de peculiar (aquello que se sale de lo dictado por la norma, distinto) protección.",
+        "referencias_inline": [
+          "Job 5:20"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Job 5:21) Todo lo que de los buenos se diga con calumnia o para destruir su reputación quedará sin efecto y no les hará daño.",
+        "referencias_inline": [
+          "Job 5:21"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Los mejores y más inocentes no pueden verse libres de calumnias, reproches y falsas acusaciones.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "De estas cosas no puede ponerse a salvo el hombre más santo, pero \"Dios sí puede resguardarlo (proteger, no reciba daño) y hacer que los malvados calumniadores no le perturben la paz ni le manchen la reputación.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Disfrutarán de santa serenidad mental, nacida de su confianza en Dios, en medio de los peligros que les acechan: No temerán la destrucción (Job 5:21), ni a las fieras del campo (Job 5:22).",
+        "referencias_inline": [
+          "Job 5:21",
+          "Job 5:22"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Pablo habla con gran alegría y satisfacción de la impotencia de la muerte y del sepulcro (1 Corintios 15:55), \"persuadido de que nada ni la muerte, puede separarnos del amor de Cristo (Romanos 8:35-39).",
+        "referencias_inline": [
+          "1 Corintios 15:55",
+          "Romanos 8:35-39"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Job 5:23) Al estar en paz con Dios, habrá también un pacto de paz entre el justo y la creación entera; ni las \"piedras\" impedirán la fertilidad de su campo, ni las \"fieras\", \"estropearán\" las \"cosechas\".",
+        "referencias_inline": [
+          "Job 5:23"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Job 5:24-25) Sus casas y familias gozarán, no han sufrido daño y tendrán prosperidad: \"Paz en tu tienda\".",
+        "referencias_inline": [
+          "Job 5:24-25"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Es decir, tu casa se hallará en completa seguridad y prosperidad.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Bienaventurado es el hombre que Dios castiga (Job 5:17).",
+        "referencias_inline": [
+          "Job 5:17"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Lo mismo ocurrirá con sus posesiones: cuando vaya a verlas, \"nada echará de menos\".",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Job 5:25) Su familia será numerosa: su prole (linaje, hijos) brotará del seno como la grama que brota esplendorosa en campo tras la lluvia.",
+        "referencias_inline": [
+          "Job 5:25"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Aunque hayas perdido todos tus hijos, parece decirle a Job, si te vuelves a Dios, Él reconstruirá con creces a tu familia.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Job 5:26) Su muerte vendrá a su tiempo y sazón (punto o madurez de las cosas, estado de perfección, tiempo oportunamente).",
+        "referencias_inline": [
+          "Job 5:26"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "\"Terminarán el curso de la vida\" con \"gozo\" y \"honor\".",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Bajamos al sepulcro en buena vejez.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Job 5:27) Inquirido (averiguar, indagar) ¡Óyelo y conócelo tú para tu provecho!",
+        "referencias_inline": [
+          "Job 5:27"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "\"Lo que estaba examinado de Dios es cierto\".",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Lo mejor para Job en estos momentos de pérdidas, dolor, quebranto, castigo, aunque no se sepa el porqué es \"escucharla y aplicársela para su provecho\".",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "No es bastante oír y conocer la verdad, sino que debemos andar en ella y hacernos más sabios y mejores por medio de ella.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Iglesia abre los oídos y aplica el conocimiento de la verdad, deja atrás el orgullo y el sentido de superioridad y vanidad para que seas libre. Amén.",
+        "referencias_inline": []
+      }
+    ]
+  },
+  "busqueda": {
+    "texto_indexable": "toma tu afliccion job 5 17 24 familia santidad sabiduria espiritual voz de Dios verdad santidad arrepentimiento perseverancia consejo a job para que tome su afliccion como una disciplina de su buen padre es la correccion del todopoderoso no menosprecies la correccion cambios que se deben hacer en la vida razon para corregir las faltas errores defectos y demas la disciplina procede del amor de un buen padre y tiene por objetivo el bien del hijo hebreos 12 6 porque el senor al que ama disciplina y azota a todo el que recibe por hijo la afliccion es como la voz de Dios que nos envia un mensaje desde el cielo bienaventurado es el hombre a quien Dios corrige job 5 17 si aprovecha la correccion que Dios envia la correccion que te llega es evidencia conviccion certeza segura de santificacion debes dejar de desear lo que no te toca te vas a destruir tu y los tuyos job 5 18 cuando Dios produce heridas con las reprensiones de su providencia las venda y cura con los consuelos de su espiritu elifaz se dirige personalmente a job y le declara muchas y grandes promesas de las buenas cosas que Dios haria por el si se humillase bajo la mano de su hacedor job 5 19 se promete aqui envidia mental es dolor o desdicha tristeza o pesar del bien ajeno del envidiado no tengo lo que tiene cuantas veces sobrevengan aflicciones otras tantas sobrevendran tambien amorosas liberaciones el numero siete simboliza aqui como siempre totalidad y perfeccion job 5 20 cuando vengan calamidades publicas el justo gozara de peculiar aquello que se sale de lo dictado por la norma distinto proteccion job 5 21 todo lo que de los buenos se diga con calumnia o para destruir su reputacion quedara sin efecto y no les hara dano los mejores y mas inocentes no pueden verse libres de calumnias reproches y falsas acusaciones de estas cosas no puede ponerse a salvo el hombre mas santo pero Dios si puede resguardarlo proteger no reciba dano y hacer que los malvados calumniadores no le perturben la paz ni le manchen la reputacion disfrutaran de santa serenidad mental nacida de su confianza en Dios en medio de los peligros que les acechan no temeran la destruccion job 5 21 ni a las fieras del campo job 5 22 pablo habla con gran alegria y satisfaccion de la impotencia de la muerte y del sepulcro 1 corintios 15 55 persuadido de que nada ni la muerte puede separarnos del amor de cristo romanos 8 35 39 job 5 23 al estar en paz con Dios habra tambien un pacto de paz entre el justo y la creacion entera ni las piedras impediran la fertilidad de su campo ni las fieras estropearan las cosechas job 5 24 25 sus casas y familias gozaran no han sufrido dano y tendran prosperidad paz en tu tienda es decir tu casa se hallara en completa seguridad y prosperidad bienaventurado es el hombre que Dios castiga job 5 17 lo mismo ocurrira con sus posesiones cuando vaya a verlas nada echara de menos job 5 25 su familia sera numerosa su prole linaje hijos brotara del seno como la grama que brota esplendorosa en campo tras la lluvia aunque hayas perdido todos tus hijos parece decirle a job si te vuelves a Dios el reconstruira con creces a tu familia job 5 26 su muerte vendra a su tiempo y sazon punto o madurez de las cosas estado de perfeccion tiempo oportunamente terminaran el curso de la vida con gozo y honor bajamos al sepulcro en buena vejez job 5 27 inquirido averiguar indagar oyelo y conocelo tu para tu provecho lo que estaba examinado de Dios es cierto lo mejor para job en estos momentos de perdidas dolor quebranto castigo aunque no se sepa el porque es escucharla y aplicarsela para su provecho no es bastante oir y conocer la verdad sino que debemos andar en ella y hacernos mas sabios y mejores por medio de ella iglesia abre los oidos y aplica el conocimiento de la verdad deja atras el orgullo y el sentido de superioridad y vanidad para que seas libre amen",
+    "alias_busqueda": [
+      "Estudio 1260",
+      "Job",
+      "Job 5",
+      "Job 5:17-24",
+      "voz de Dios",
+      "verdad",
+      "santidad",
+      "arrepentimiento",
+      "Familia"
+    ]
+  },
+  "revision_manual": {
+    "requiere_revision": false,
+    "motivo": ""
+  },
+  "ui": {
+    "mostrar_credito_en_header": true,
+    "mostrar_numero_estudio": true,
+    "mostrar_fecha": true,
+    "mostrar_topicos": true,
+    "permitir_favorito": true,
+    "permitir_compartir": true
+  }
+}

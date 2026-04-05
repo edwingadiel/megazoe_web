@@ -1,0 +1,456 @@
+{
+  "id": "estudio-1340-estudio-1340",
+  "slug": "estudio-1340-estudio-1340",
+  "numero_estudio": 1340,
+  "tipo_estudio": "Iglesia en las casas",
+  "ministerio": {
+    "iglesia": "Iglesia Cristiana Mega Zoe",
+    "pastora": "Pastora Edith Cruz",
+    "credito_corto": "Iglesia Cristiana Mega Zoe · Pastora Edith Cruz",
+    "credito_largo": "Contenido original de Iglesia Cristiana Mega Zoe, conservando el crédito ministerial correspondiente a la Pastora Edith Cruz."
+  },
+  "identidad_editorial": {
+    "idioma": "es",
+    "fuente_original": "documento_word",
+    "archivo_origen": "/Users/edwingadiel/Desktop/Estudios en Word/Estudio #1340 El Espíritu Santo te llevará - 1 Reyes 18 12.docx",
+    "estado_revision": "procesado",
+    "version_schema": "1.0"
+  },
+  "encabezado": {
+    "titulo": "El Espíritu Santo Le Llevará",
+    "subtitulo": null,
+    "cita_principal": "1 Reyes 18:12",
+    "resumen_corto": "El Espíritu Santo Le Llevará enseña a atender la Palabra de Dios y perseverar en la oración."
+  },
+  "fechas": {
+    "fecha_inicio": null,
+    "fecha_fin": null,
+    "fecha_texto_original": "",
+    "ano": null
+  },
+  "clasificacion_biblica": {
+    "libro_principal": "1 Reyes",
+    "capitulo_principal": 18,
+    "versiculos_principales": [
+      12
+    ],
+    "referencia_principal_normalizada": "1 Reyes 18:12",
+    "testamento_principal": "Antiguo Testamento"
+  },
+  "clasificacion_tematica": {
+    "topicos": [
+      "Palabra de Dios",
+      "Oración",
+      "Discipulado"
+    ],
+    "keywords": [
+      "santidad",
+      "oración",
+      "arrepentimiento",
+      "perseverancia",
+      "obediencia"
+    ]
+  },
+  "referencias_biblicas": [
+    {
+      "referencia": "1 Reyes 18:12",
+      "referencia_normalizada": "1 Reyes 18:12",
+      "libro": "1 Reyes",
+      "capitulo": 18,
+      "versiculos": [
+        12
+      ],
+      "tipo": "principal",
+      "clickeable": true
+    },
+    {
+      "referencia": "Lucas 1:15",
+      "referencia_normalizada": "Lucas 1:15",
+      "libro": "Lucas",
+      "capitulo": 1,
+      "versiculos": [
+        15
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Lucas 4:1",
+      "referencia_normalizada": "Lucas 4:1",
+      "libro": "Lucas",
+      "capitulo": 4,
+      "versiculos": [
+        1
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Hechos 2:4",
+      "referencia_normalizada": "Hechos 2:4",
+      "libro": "Hechos",
+      "capitulo": 2,
+      "versiculos": [
+        4
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Juan 14:16",
+      "referencia_normalizada": "Juan 14:16",
+      "libro": "Juan",
+      "capitulo": 14,
+      "versiculos": [
+        16
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Hechos 4:31",
+      "referencia_normalizada": "Hechos 4:31",
+      "libro": "Hechos",
+      "capitulo": 4,
+      "versiculos": [
+        31
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Hechos 7:55-58",
+      "referencia_normalizada": "Hechos 7:55-58",
+      "libro": "Hechos",
+      "capitulo": 7,
+      "versiculos": [
+        55,
+        56,
+        57,
+        58
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Lucas 23:46",
+      "referencia_normalizada": "Lucas 23:46",
+      "libro": "Lucas",
+      "capitulo": 23,
+      "versiculos": [
+        46
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Hechos 7:60",
+      "referencia_normalizada": "Hechos 7:60",
+      "libro": "Hechos",
+      "capitulo": 7,
+      "versiculos": [
+        60
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Lucas 23:34",
+      "referencia_normalizada": "Lucas 23:34",
+      "libro": "Lucas",
+      "capitulo": 23,
+      "versiculos": [
+        34
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Hechos 11:24",
+      "referencia_normalizada": "Hechos 11:24",
+      "libro": "Hechos",
+      "capitulo": 11,
+      "versiculos": [
+        24
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Hechos 13:52",
+      "referencia_normalizada": "Hechos 13:52",
+      "libro": "Hechos",
+      "capitulo": 13,
+      "versiculos": [
+        52
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    }
+  ],
+  "contenido": {
+    "introduccion": null,
+    "secciones": [],
+    "contenido_completo": "El temor de Abdías era que Acab lo mataría por no echar mano a Elías cuando lo tenía a su alcance, pues el rey se sentiría burlado al escapársele así la presa. Apela que no se merece ser expuesto a tal peligro, pues se ha comportado bien con los profetas de Dios: (9) ¿En que he pecado? Esperaba que el que había protegido a tantos profetas no debía ver su vida amenazada \"por un profeta tan grande.\"\n\nAbdías sabía que el Espíritu de Jehová era el que le llevaba.\n\nAbdías temía al Dios de Elías.\n\nCon el que Dios está, Le lleva. (Lucas 1:15)\n\nAhora podemos conocer a Juan el Bautista, el que vino para preparar el camino delante de Él.\n\nEste niño iba a ser \"grande a los ojos del Señor\".\n\nPara Dios era grande, le iba a ser útil del destino de la llegada del Mesías a la tierra.\n\nEra un precursor el que prepararía la visita del rey cuando estaba por llegar a Israel.\n\nJuan era del linaje sacerdotal.\n\nAnte todo, sería grande en su separación personal a Dios: no bebería \"jamás vino\" (uva) ni licor (hecho de grano).\n\nSería grande en sus excelencias espirituales; sería \"lleno del Espíritu Santo\" aún desde el vientre de su madre.\n\nEl Espíritu de Dios estaba en él desde el principio para prepararlo para \"su especial misión\" como precursor de Cristo.\n\nPues el Espíritu Santo lo llevará a donde Dios lo necesitaba.\n\n(Lucas 4:1) Nunca hubo un tiempo en la vida de nuestro Señor en que no estuviese lleno del Espíritu Santo, pero sí menciona aquí de manera específica en relación con Su tentación.\n\nEstar \"lleno del Espíritu Santo\" significa estar totalmente entregado a Él y ser totalmente obediente \"a cada palabra de Dios.\"\n\nUna persona llena del Espíritu está vacía de pecado conocido y \"del yo\" y en ella habita ricamente la \"Palabra de Dios.\"\n\nCuando Jesús regresaba \"del Jordán\", donde había sido bautizado, fue \"conducido por el Espíritu al desierto\", al Desierto de Judea, junto a la costa occidental del Mar Muerto.\n\n(Hechos 2:4) El milagro que se iba a experimentar, relacionado con Pentecostés, era el llenamiento del Espíritu Santo, que iría seguido de hablar \"en otras lenguas.\"\n\nHasta este momento, el Espíritu de Dios había estado con los discípulos, pero ahora tomó Su residencia en ellos (Juan. 14:17).\n\n(Juan 14:16) Comenzando desde el tiempo de Pentecostés, el Espíritu de Dios comenzó a habitar de manera permanente en personas: vino para permanecer.\n\nPues entonces Él te llevará a todo lugar que sea necesario.\n\nEl día de Pentecostés, los creyentes no solo vinieron a ser morada del Espíritu Santo, sino que fueron también llenados con Él.\n\nEl Espíritu Santo viene a morar en nosotros en el momento en que somos salvados, pero para ser llenos con el Espíritu hemos de estudiar la Palabra, pasar tiempo en oración y vivir en obediencia al Señor.\n\nÉl nos llevará para que seamos útil.\n\n(Hechos 4:31) Cuando acabaron de orar, el lugar …tembló, es una expresión física del poder espiritual presente.\n\nTodos fueron llenos del Espíritu Santo, \"indicando la obediencia de ellos al Señor, su andar en luz, su entrega a Él.\n\nSiguieron hablando con denuedo (valor, energía y decisión, valor) la Palabra de Dios.\n\n(Hechos 7:55-58) Se lanzaron sobre Esteban, lo arrastraron afuera de las murallas de la ciudad y \"comenzaron a apedrearle.\"\n\nLa muerte de Esteban se parecía a la de nuestro Señor.\n\n(59) Oró: Señor Jesús, recibe mi espíritu.\n\n(Lucas 23:46) Jesús había orado: \"Padre, en Tus manos encomiendo Mi espíritu.\"\n\nÉl oró: Señor, no le tomes en cuenta este pecado (60) Hechos 7:60.\n\n(Lucas 23:34) Jesús había orado: \"Padre, perdónalos, porque no saben lo que hacen\".\n\n(Hechos 11:24) Un varón lleno del Espíritu Santo y bueno.\n\nBernabé fue enviado a Antioquia y lo hacía el Espíritu Santo en la guía, tutela, orienta y rige (guarda, información, dirigir, gobernar o mandar).\n\nEl Espíritu Santo guiaría a Bernabé a la obra del Padre.\n\nEste amado hermano vio en seguida que el Señor estaba obrando poderosamente entre estos gentiles, por lo que \"exhortó\" (23) a todos a que con propósito de corazón permaneciesen fieles al Señor, porque Él estaba haciendo en ellos.\n\nQué bueno en tener personas llenas de la guía del Espíritu Santo y \"de fe.\"\n\nSe agregaron al Señor.\n\n(Hechos 13:52) Y los discípulos estaban llenos de gozo y del Espíritu Santo.\n\nNo era momento fácil para Pablo y Bernabé, pero el Espíritu Santo los llevó a Iconio.\n\nNada nos puede quitar al Espíritu; ni pruebas, ni persecución, ni rechazos. Amén.",
+    "contenido_renderizado": [
+      {
+        "tipo": "parrafo",
+        "texto": "El temor de Abdías era que Acab lo mataría por no echar mano a Elías cuando lo tenía a su alcance, pues el rey se sentiría burlado al escapársele así la presa. Apela que no se merece ser expuesto a tal peligro, pues se ha comportado bien con los profetas de Dios: (9) ¿En que he pecado? Esperaba que el que había protegido a tantos profetas no debía ver su vida amenazada \"por un profeta tan grande.\"",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Abdías sabía que el Espíritu de Jehová era el que le llevaba.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Abdías temía al Dios de Elías.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Con el que Dios está, Le lleva. (Lucas 1:15)",
+        "referencias_inline": [
+          "Lucas 1:15"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Ahora podemos conocer a Juan el Bautista, el que vino para preparar el camino delante de Él.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Este niño iba a ser \"grande a los ojos del Señor\".",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Para Dios era grande, le iba a ser útil del destino de la llegada del Mesías a la tierra.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Era un precursor el que prepararía la visita del rey cuando estaba por llegar a Israel.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Juan era del linaje sacerdotal.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Ante todo, sería grande en su separación personal a Dios: no bebería \"jamás vino\" (uva) ni licor (hecho de grano).",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Sería grande en sus excelencias espirituales; sería \"lleno del Espíritu Santo\" aún desde el vientre de su madre.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "El Espíritu de Dios estaba en él desde el principio para prepararlo para \"su especial misión\" como precursor de Cristo.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Pues el Espíritu Santo lo llevará a donde Dios lo necesitaba.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Lucas 4:1) Nunca hubo un tiempo en la vida de nuestro Señor en que no estuviese lleno del Espíritu Santo, pero sí menciona aquí de manera específica en relación con Su tentación.",
+        "referencias_inline": [
+          "Lucas 4:1"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Estar \"lleno del Espíritu Santo\" significa estar totalmente entregado a Él y ser totalmente obediente \"a cada palabra de Dios.\"",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Una persona llena del Espíritu está vacía de pecado conocido y \"del yo\" y en ella habita ricamente la \"Palabra de Dios.\"",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Cuando Jesús regresaba \"del Jordán\", donde había sido bautizado, fue \"conducido por el Espíritu al desierto\", al Desierto de Judea, junto a la costa occidental del Mar Muerto.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Hechos 2:4) El milagro que se iba a experimentar, relacionado con Pentecostés, era el llenamiento del Espíritu Santo, que iría seguido de hablar \"en otras lenguas.\"",
+        "referencias_inline": [
+          "Hechos 2:4"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Hasta este momento, el Espíritu de Dios había estado con los discípulos, pero ahora tomó Su residencia en ellos (Juan. 14:17).",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Juan 14:16) Comenzando desde el tiempo de Pentecostés, el Espíritu de Dios comenzó a habitar de manera permanente en personas: vino para permanecer.",
+        "referencias_inline": [
+          "Juan 14:16"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Pues entonces Él te llevará a todo lugar que sea necesario.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "El día de Pentecostés, los creyentes no solo vinieron a ser morada del Espíritu Santo, sino que fueron también llenados con Él.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "El Espíritu Santo viene a morar en nosotros en el momento en que somos salvados, pero para ser llenos con el Espíritu hemos de estudiar la Palabra, pasar tiempo en oración y vivir en obediencia al Señor.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Él nos llevará para que seamos útil.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Hechos 4:31) Cuando acabaron de orar, el lugar …tembló, es una expresión física del poder espiritual presente.",
+        "referencias_inline": [
+          "Hechos 4:31"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Todos fueron llenos del Espíritu Santo, \"indicando la obediencia de ellos al Señor, su andar en luz, su entrega a Él.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Siguieron hablando con denuedo (valor, energía y decisión, valor) la Palabra de Dios.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Hechos 7:55-58) Se lanzaron sobre Esteban, lo arrastraron afuera de las murallas de la ciudad y \"comenzaron a apedrearle.\"",
+        "referencias_inline": [
+          "Hechos 7:55-58"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "La muerte de Esteban se parecía a la de nuestro Señor.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(59) Oró: Señor Jesús, recibe mi espíritu.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Lucas 23:46) Jesús había orado: \"Padre, en Tus manos encomiendo Mi espíritu.\"",
+        "referencias_inline": [
+          "Lucas 23:46"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Él oró: Señor, no le tomes en cuenta este pecado (60) Hechos 7:60.",
+        "referencias_inline": [
+          "Hechos 7:60"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Lucas 23:34) Jesús había orado: \"Padre, perdónalos, porque no saben lo que hacen\".",
+        "referencias_inline": [
+          "Lucas 23:34"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Hechos 11:24) Un varón lleno del Espíritu Santo y bueno.",
+        "referencias_inline": [
+          "Hechos 11:24"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Bernabé fue enviado a Antioquia y lo hacía el Espíritu Santo en la guía, tutela, orienta y rige (guarda, información, dirigir, gobernar o mandar).",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "El Espíritu Santo guiaría a Bernabé a la obra del Padre.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Este amado hermano vio en seguida que el Señor estaba obrando poderosamente entre estos gentiles, por lo que \"exhortó\" (23) a todos a que con propósito de corazón permaneciesen fieles al Señor, porque Él estaba haciendo en ellos.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Qué bueno en tener personas llenas de la guía del Espíritu Santo y \"de fe.\"",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Se agregaron al Señor.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Hechos 13:52) Y los discípulos estaban llenos de gozo y del Espíritu Santo.",
+        "referencias_inline": [
+          "Hechos 13:52"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "No era momento fácil para Pablo y Bernabé, pero el Espíritu Santo los llevó a Iconio.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Nada nos puede quitar al Espíritu; ni pruebas, ni persecución, ni rechazos. Amén.",
+        "referencias_inline": []
+      }
+    ]
+  },
+  "busqueda": {
+    "texto_indexable": "el espiritu santo le llevara 1 reyes 18 12 palabra de Dios oracion discipulado santidad oracion arrepentimiento perseverancia obediencia el temor de abdias era que acab lo mataria por no echar mano a elias cuando lo tenia a su alcance pues el rey se sentiria burlado al escaparsele asi la presa apela que no se merece ser expuesto a tal peligro pues se ha comportado bien con los profetas de Dios 9 en que he pecado esperaba que el que habia protegido a tantos profetas no debia ver su vida amenazada por un profeta tan grande abdias sabia que el espiritu de jehova era el que le llevaba abdias temia al Dios de elias con el que Dios esta le lleva lucas 1 15 ahora podemos conocer a juan el bautista el que vino para preparar el camino delante de el este nino iba a ser grande a los ojos del senor para Dios era grande le iba a ser util del destino de la llegada del mesias a la tierra era un precursor el que prepararia la visita del rey cuando estaba por llegar a israel juan era del linaje sacerdotal ante todo seria grande en su separacion personal a Dios no beberia jamas vino uva ni licor hecho de grano seria grande en sus excelencias espirituales seria lleno del espiritu santo aun desde el vientre de su madre el espiritu de Dios estaba en el desde el principio para prepararlo para su especial mision como precursor de cristo pues el espiritu santo lo llevara a donde Dios lo necesitaba lucas 4 1 nunca hubo un tiempo en la vida de nuestro senor en que no estuviese lleno del espiritu santo pero si menciona aqui de manera especifica en relacion con su tentacion estar lleno del espiritu santo significa estar totalmente entregado a el y ser totalmente obediente a cada palabra de Dios una persona llena del espiritu esta vacia de pecado conocido y del yo y en ella habita ricamente la palabra de Dios cuando Jesus regresaba del jordan donde habia sido bautizado fue conducido por el espiritu al desierto al desierto de judea junto a la costa occidental del mar muerto hechos 2 4 el milagro que se iba a experimentar relacionado con pentecostes era el llenamiento del espiritu santo que iria seguido de hablar en otras lenguas hasta este momento el espiritu de Dios habia estado con los discipulos pero ahora tomo su residencia en ellos juan 14 17 juan 14 16 comenzando desde el tiempo de pentecostes el espiritu de Dios comenzo a habitar de manera permanente en personas vino para permanecer pues entonces el te llevara a todo lugar que sea necesario el dia de pentecostes los creyentes no solo vinieron a ser morada del espiritu santo sino que fueron tambien llenados con el el espiritu santo viene a morar en nosotros en el momento en que somos salvados pero para ser llenos con el espiritu hemos de estudiar la palabra pasar tiempo en oracion y vivir en obediencia al senor el nos llevara para que seamos util hechos 4 31 cuando acabaron de orar el lugar temblo es una expresion fisica del poder espiritual presente todos fueron llenos del espiritu santo indicando la obediencia de ellos al senor su andar en luz su entrega a el siguieron hablando con denuedo valor energia y decision valor la palabra de Dios hechos 7 55 58 se lanzaron sobre esteban lo arrastraron afuera de las murallas de la ciudad y comenzaron a apedrearle la muerte de esteban se parecia a la de nuestro senor 59 oro senor Jesus recibe mi espiritu lucas 23 46 Jesus habia orado padre en tus manos encomiendo mi espiritu el oro senor no le tomes en cuenta este pecado 60 hechos 7 60 lucas 23 34 Jesus habia orado padre perdonalos porque no saben lo que hacen hechos 11 24 un varon lleno del espiritu santo y bueno bernabe fue enviado a antioquia y lo hacia el espiritu santo en la guia tutela orienta y rige guarda informacion dirigir gobernar o mandar el espiritu santo guiaria a bernabe a la obra del padre este amado hermano vio en seguida que el senor estaba obrando poderosamente entre estos gentiles por lo que exhorto 23 a todos a que con proposito de corazon permaneciesen fieles al senor porque el estaba haciendo en ellos que bueno en tener personas llenas de la guia del espiritu santo y de fe se agregaron al senor hechos 13 52 y los discipulos estaban llenos de gozo y del espiritu santo no era momento facil para pablo y bernabe pero el espiritu santo los llevo a iconio nada nos puede quitar al espiritu ni pruebas ni persecucion ni rechazos amen",
+    "alias_busqueda": [
+      "Estudio 1340",
+      "1 Reyes",
+      "1 Reyes 18",
+      "1 Reyes 18:12",
+      "santidad",
+      "oración",
+      "arrepentimiento",
+      "perseverancia",
+      "Palabra de Dios"
+    ]
+  },
+  "revision_manual": {
+    "requiere_revision": false,
+    "motivo": ""
+  },
+  "ui": {
+    "mostrar_credito_en_header": true,
+    "mostrar_numero_estudio": true,
+    "mostrar_fecha": true,
+    "mostrar_topicos": true,
+    "permitir_favorito": true,
+    "permitir_compartir": true
+  }
+}

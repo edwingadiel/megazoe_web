@@ -1,0 +1,451 @@
+{
+  "id": "estudio-1164-estudio-1164",
+  "slug": "estudio-1164-estudio-1164",
+  "numero_estudio": 1164,
+  "tipo_estudio": "Iglesia en las casas",
+  "ministerio": {
+    "iglesia": "Iglesia Cristiana Mega Zoe",
+    "pastora": "Pastora Edith Cruz",
+    "credito_corto": "Iglesia Cristiana Mega Zoe · Pastora Edith Cruz",
+    "credito_largo": "Contenido original de Iglesia Cristiana Mega Zoe, conservando el crédito ministerial correspondiente a la Pastora Edith Cruz."
+  },
+  "identidad_editorial": {
+    "idioma": "es",
+    "fuente_original": "documento_word",
+    "archivo_origen": "/Users/edwingadiel/Desktop/Estudios en Word/Estudio #1164 El templo donde aprendemos el bien - Marcos 11 15-17.docx",
+    "estado_revision": "procesado",
+    "version_schema": "1.0"
+  },
+  "encabezado": {
+    "titulo": "El Templo Donde Aprendemos El Bien",
+    "subtitulo": null,
+    "cita_principal": "Marcos 11:15-17",
+    "resumen_corto": "El Templo Donde Aprendemos El Bien enseña a perseverar en la oración y cuidar la vida del hogar delante de Dios."
+  },
+  "fechas": {
+    "fecha_inicio": null,
+    "fecha_fin": null,
+    "fecha_texto_original": "",
+    "ano": null
+  },
+  "clasificacion_biblica": {
+    "libro_principal": "Marcos",
+    "capitulo_principal": 11,
+    "versiculos_principales": [
+      15,
+      16,
+      17
+    ],
+    "referencia_principal_normalizada": "Marcos 11:15-17",
+    "testamento_principal": "Nuevo Testamento"
+  },
+  "clasificacion_tematica": {
+    "topicos": [
+      "Oración",
+      "Familia",
+      "Santidad"
+    ],
+    "keywords": [
+      "oración",
+      "arrepentimiento",
+      "perseverancia",
+      "fuego",
+      "corazón"
+    ]
+  },
+  "referencias_biblicas": [
+    {
+      "referencia": "Marcos 11:15-17",
+      "referencia_normalizada": "Marcos 11:15-17",
+      "libro": "Marcos",
+      "capitulo": 11,
+      "versiculos": [
+        15,
+        16,
+        17
+      ],
+      "tipo": "principal",
+      "clickeable": true
+    },
+    {
+      "referencia": "Daniel 6:10",
+      "referencia_normalizada": "Daniel 6:10",
+      "libro": "Daniel",
+      "capitulo": 6,
+      "versiculos": [
+        10
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "2 Reyes 25:9",
+      "referencia_normalizada": "2 Reyes 25:9",
+      "libro": "2 Reyes",
+      "capitulo": 25,
+      "versiculos": [
+        9
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "1 Reyes 9:3",
+      "referencia_normalizada": "1 Reyes 9:3",
+      "libro": "1 Reyes",
+      "capitulo": 9,
+      "versiculos": [
+        3
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Jeremías 7:4",
+      "referencia_normalizada": "Jeremías 7:4",
+      "libro": "Jeremías",
+      "capitulo": 7,
+      "versiculos": [
+        4
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Jeremías 7:11",
+      "referencia_normalizada": "Jeremías 7:11",
+      "libro": "Jeremías",
+      "capitulo": 7,
+      "versiculos": [
+        11
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Isaías 56:7",
+      "referencia_normalizada": "Isaías 56:7",
+      "libro": "Isaías",
+      "capitulo": 56,
+      "versiculos": [
+        7
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Juan 2:16",
+      "referencia_normalizada": "Juan 2:16",
+      "libro": "Juan",
+      "capitulo": 2,
+      "versiculos": [
+        16
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Números 18:1-7, 4-5",
+      "referencia_normalizada": "Números 18:1-7,4-5",
+      "libro": "Números",
+      "capitulo": 18,
+      "versiculos": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Juan 2:17",
+      "referencia_normalizada": "Juan 2:17",
+      "libro": "Juan",
+      "capitulo": 2,
+      "versiculos": [
+        17
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Salmos 69:9",
+      "referencia_normalizada": "Salmos 69:9",
+      "libro": "Salmos",
+      "capitulo": 69,
+      "versiculos": [
+        9
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Hebreos 13:17",
+      "referencia_normalizada": "Hebreos 13:17",
+      "libro": "Hebreos",
+      "capitulo": 13,
+      "versiculos": [
+        17
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    }
+  ],
+  "contenido": {
+    "introduccion": null,
+    "secciones": [],
+    "contenido_completo": "Cuando llegas a la iglesia, tu pensamiento debe ser éste, es el templo de Dios: para oír Su voz, ver Sus milagros y mi salvación cuidarla para que siempre esté. En el silencio, la reverencia, los cánticos, la Palabra, cuando traigo mis ofrendas y cuando llego que ya no puedo más y voy a Dios y encuentro Sus milagros para mi vida y Él sale a favor mío y hace el bien que necesito.\n\nEn Daniel 6:10 dice: \"… y oraba mirando hacia Jerusalén\", a fin de mostrar el afecto que le tenía.\n\nA sus piedras y al polvo de ella (2 Reyes 25:9).\n\nEl templo fue incendiado.\n\nAquella casa de Dios, que David había preparado con tanto interés y que, Salomón había edificado con tantas expensas (gastos), aquella casa sobre la que estaban de \"continuo los ojos y el corazón de Dios (1 Reyes 9:3), fue convertida en cenizas.\n\nEsto se iba a cumplir si se cumplían estos requisitos: integridad de corazón y en equidad, cumplir con todo lo que Dios le había mandado y guardar Sus estatutos y Sus decretos, de esto dependía para ser para siempre. (integridad=no tocado o no alcanzado por un mal; equidad=dar a cada uno lo que merece).\n\nDios dejó ver que lo que le interesa no es la pompa externa del culto cuando falta la vida y el poder de la piedad (devoción frente a todo lo que guarda relación en todas las cosas santas y se guía por el amor que se siente hacia Dios).\n\nEl templo es el lugar de santificarse, cuando se tiene vida con Dios y el poder de la piedad, cuando no hay, esto es solo piedras que el fuego puede quemar.\n\nEl pueblo confiaba en el templo como si éste pudiese protegerles a pesar de todos sus pecados. (Jeremías 7:4).\n\nII. Los que sacaban provecho o beneficios de las actividades sagradas.\n\nAl llegar a Jerusalén y entrar en el templo Jesús:\n\nLlegó el día en que Dios visitaba el templo y \"comenzó a echar fuera a los que vendían y a los que compraban en el templo, día de la prueba para Jerusalén.\n\nNo solo arrojó del templo a los que hacían de él un lugar de mercado, sino que volcó las mesas de los cambistas (cambio de moneda) y los asientos de los que vendían palomas.\n\nNadie hizo nada porque, aunque se hacían de vista larga, entendían que el fraude era lo que se movía en todos ellos; por tal razón, no hubo protesta.\n\n(V.16) y no permitía que nadie transportase mercancías pasando por el templo.\n\nLos judíos reconocían que una de las muestras de honor debidas al templo era no hacer del monte santo o de los atrios del templo lugar de paso común o de acarreo de objetos.\n\nEl hacer del atrio un cómodo pasadizo de un lado a otro era ya profanar el templo.\n\n(V.17) Jesús le da la razón de su proceder con lo que dice Jeremías 7:11: ¿Es cueva de ladrones delante de vuestros ojos esta casa sobre la cual es \"invocado mi nombre? He aquí que también yo lo veo dice Jehová; Isaías 56:7…porque mi casa será llamada casa de oración para todos los pueblos.\n\nEl templo es una casa de oración.\n\nSe podía pensar que el templo era, ante todo, casa de sacrificios, como lo parecía indicar la compraventa de bueyes y palomas.\n\nEl Señor le dice casa de oración.\n\nAl principio de su ministerio (Juan 2:16), arrojó Jesús del templo a los que traficaban allí, dijo: \"No hagáis de la casa de mi Padre casa de mercado\".\n\nAhora les acusa de convertirla en cueva de ladrones.\n\nQuienes entretienen pensamientos mundanos mientras se hallan en sus devociones, convierten la casa de oración en un lugar de mercado; pero quienes devoran las casas de las ciudades y como pretexto, prefieren largas oraciones, la convierten en cueva de ladrones.\n\nPara llevar el santuario se necesita al sacerdote.\n\n(Números 18:1-7, 4-5 y 5) Gobierno de Dios es el gran peligro.\n\nSi estas instrucciones se obedecían, no había razón para temer Su ira.\n\nTú y tus hijos, se refiere solo a los sacerdotes.\n\nEl sacerdocio llevaría el pecado del santuario y el pecado del sacerdocio.\n\nY la casa de tu padre (Leví) contigo, llevaría el pecado del santuario; y tú y tus hijos contigo llevarían el pecado de vuestro sacerdocio.\n\nAl llevar el pecado, eran responsables por el descuido o por no cumplir el \"cuidado santo.\"\n\nLos levitas eran ayudantes de los sacerdotes, pero no podían entrar al tabernáculo en servicio del sacerdocio porque morirían.\n\nHan de vigilar con todo cuidado para que no se profanen las cosas sagradas.\n\nJuan 2:17: El celo de tu casa me consume. Salmos 69:9: porque me consumió el celo de tu casa.\n\n(Hebreos 13:17) Estos hombres actúan como representantes de Dios en la asamblea. Les ha sido dada autoridad y los creyentes deberían someterse a esta autoridad.\n\nComo sub-pastores (Jesús es el buen Pastor, el primero), los ancianos \"velan\" por las almas de la grey.\n\nEllos tendrán que dar cuenta a Dios en un día venidero.\n\nLo harán o bien \"con alegría\" o \"quejándose\", dependiendo del crecimiento espiritual \"de aquellos que les han sido encomendados\".\n\nSi tienen que hacerlo con tristeza, esto significará pérdida de recompensa para los santos implicados.\n\nAsí que es para beneficio de todos respetar las líneas sobre, bajo, debajo de autoridad que Dios ha establecido.",
+    "contenido_renderizado": [
+      {
+        "tipo": "parrafo",
+        "texto": "Cuando llegas a la iglesia, tu pensamiento debe ser éste, es el templo de Dios: para oír Su voz, ver Sus milagros y mi salvación cuidarla para que siempre esté. En el silencio, la reverencia, los cánticos, la Palabra, cuando traigo mis ofrendas y cuando llego que ya no puedo más y voy a Dios y encuentro Sus milagros para mi vida y Él sale a favor mío y hace el bien que necesito.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "En Daniel 6:10 dice: \"… y oraba mirando hacia Jerusalén\", a fin de mostrar el afecto que le tenía.",
+        "referencias_inline": [
+          "Daniel 6:10"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "A sus piedras y al polvo de ella (2 Reyes 25:9).",
+        "referencias_inline": [
+          "2 Reyes 25:9"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "El templo fue incendiado.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Aquella casa de Dios, que David había preparado con tanto interés y que, Salomón había edificado con tantas expensas (gastos), aquella casa sobre la que estaban de \"continuo los ojos y el corazón de Dios (1 Reyes 9:3), fue convertida en cenizas.",
+        "referencias_inline": [
+          "1 Reyes 9:3"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Esto se iba a cumplir si se cumplían estos requisitos: integridad de corazón y en equidad, cumplir con todo lo que Dios le había mandado y guardar Sus estatutos y Sus decretos, de esto dependía para ser para siempre. (integridad=no tocado o no alcanzado por un mal; equidad=dar a cada uno lo que merece).",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Dios dejó ver que lo que le interesa no es la pompa externa del culto cuando falta la vida y el poder de la piedad (devoción frente a todo lo que guarda relación en todas las cosas santas y se guía por el amor que se siente hacia Dios).",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "El templo es el lugar de santificarse, cuando se tiene vida con Dios y el poder de la piedad, cuando no hay, esto es solo piedras que el fuego puede quemar.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "El pueblo confiaba en el templo como si éste pudiese protegerles a pesar de todos sus pecados. (Jeremías 7:4).",
+        "referencias_inline": [
+          "Jeremías 7:4"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "II. Los que sacaban provecho o beneficios de las actividades sagradas.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Al llegar a Jerusalén y entrar en el templo Jesús:",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Llegó el día en que Dios visitaba el templo y \"comenzó a echar fuera a los que vendían y a los que compraban en el templo, día de la prueba para Jerusalén.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "No solo arrojó del templo a los que hacían de él un lugar de mercado, sino que volcó las mesas de los cambistas (cambio de moneda) y los asientos de los que vendían palomas.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Nadie hizo nada porque, aunque se hacían de vista larga, entendían que el fraude era lo que se movía en todos ellos; por tal razón, no hubo protesta.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(V.16) y no permitía que nadie transportase mercancías pasando por el templo.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Los judíos reconocían que una de las muestras de honor debidas al templo era no hacer del monte santo o de los atrios del templo lugar de paso común o de acarreo de objetos.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "El hacer del atrio un cómodo pasadizo de un lado a otro era ya profanar el templo.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(V.17) Jesús le da la razón de su proceder con lo que dice Jeremías 7:11: ¿Es cueva de ladrones delante de vuestros ojos esta casa sobre la cual es \"invocado mi nombre? He aquí que también yo lo veo dice Jehová; Isaías 56:7…porque mi casa será llamada casa de oración para todos los pueblos.",
+        "referencias_inline": [
+          "Jeremías 7:11",
+          "Isaías 56:7"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "El templo es una casa de oración.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Se podía pensar que el templo era, ante todo, casa de sacrificios, como lo parecía indicar la compraventa de bueyes y palomas.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "El Señor le dice casa de oración.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Al principio de su ministerio (Juan 2:16), arrojó Jesús del templo a los que traficaban allí, dijo: \"No hagáis de la casa de mi Padre casa de mercado\".",
+        "referencias_inline": [
+          "Juan 2:16"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Ahora les acusa de convertirla en cueva de ladrones.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Quienes entretienen pensamientos mundanos mientras se hallan en sus devociones, convierten la casa de oración en un lugar de mercado; pero quienes devoran las casas de las ciudades y como pretexto, prefieren largas oraciones, la convierten en cueva de ladrones.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Para llevar el santuario se necesita al sacerdote.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Números 18:1-7, 4-5 y 5) Gobierno de Dios es el gran peligro.",
+        "referencias_inline": [
+          "Números 18:1-7,4-5"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Si estas instrucciones se obedecían, no había razón para temer Su ira.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Tú y tus hijos, se refiere solo a los sacerdotes.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "El sacerdocio llevaría el pecado del santuario y el pecado del sacerdocio.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Y la casa de tu padre (Leví) contigo, llevaría el pecado del santuario; y tú y tus hijos contigo llevarían el pecado de vuestro sacerdocio.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Al llevar el pecado, eran responsables por el descuido o por no cumplir el \"cuidado santo.\"",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Los levitas eran ayudantes de los sacerdotes, pero no podían entrar al tabernáculo en servicio del sacerdocio porque morirían.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Han de vigilar con todo cuidado para que no se profanen las cosas sagradas.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Juan 2:17: El celo de tu casa me consume. Salmos 69:9: porque me consumió el celo de tu casa.",
+        "referencias_inline": [
+          "Juan 2:17",
+          "Salmos 69:9"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Hebreos 13:17) Estos hombres actúan como representantes de Dios en la asamblea. Les ha sido dada autoridad y los creyentes deberían someterse a esta autoridad.",
+        "referencias_inline": [
+          "Hebreos 13:17"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Como sub-pastores (Jesús es el buen Pastor, el primero), los ancianos \"velan\" por las almas de la grey.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Ellos tendrán que dar cuenta a Dios en un día venidero.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Lo harán o bien \"con alegría\" o \"quejándose\", dependiendo del crecimiento espiritual \"de aquellos que les han sido encomendados\".",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Si tienen que hacerlo con tristeza, esto significará pérdida de recompensa para los santos implicados.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Así que es para beneficio de todos respetar las líneas sobre, bajo, debajo de autoridad que Dios ha establecido.",
+        "referencias_inline": []
+      }
+    ]
+  },
+  "busqueda": {
+    "texto_indexable": "el templo donde aprendemos el bien marcos 11 15 17 oracion familia santidad oracion arrepentimiento perseverancia fuego corazon cuando llegas a la iglesia tu pensamiento debe ser este es el templo de Dios para oir su voz ver sus milagros y mi salvacion cuidarla para que siempre este en el silencio la reverencia los canticos la palabra cuando traigo mis ofrendas y cuando llego que ya no puedo mas y voy a Dios y encuentro sus milagros para mi vida y el sale a favor mio y hace el bien que necesito en daniel 6 10 dice y oraba mirando hacia jerusalen a fin de mostrar el afecto que le tenia a sus piedras y al polvo de ella 2 reyes 25 9 el templo fue incendiado aquella casa de Dios que david habia preparado con tanto interes y que salomon habia edificado con tantas expensas gastos aquella casa sobre la que estaban de continuo los ojos y el corazon de Dios 1 reyes 9 3 fue convertida en cenizas esto se iba a cumplir si se cumplian estos requisitos integridad de corazon y en equidad cumplir con todo lo que Dios le habia mandado y guardar sus estatutos y sus decretos de esto dependia para ser para siempre integridad no tocado o no alcanzado por un mal equidad dar a cada uno lo que merece Dios dejo ver que lo que le interesa no es la pompa externa del culto cuando falta la vida y el poder de la piedad devocion frente a todo lo que guarda relacion en todas las cosas santas y se guia por el amor que se siente hacia Dios el templo es el lugar de santificarse cuando se tiene vida con Dios y el poder de la piedad cuando no hay esto es solo piedras que el fuego puede quemar el pueblo confiaba en el templo como si este pudiese protegerles a pesar de todos sus pecados jeremias 7 4 ii los que sacaban provecho o beneficios de las actividades sagradas al llegar a jerusalen y entrar en el templo Jesus llego el dia en que Dios visitaba el templo y comenzo a echar fuera a los que vendian y a los que compraban en el templo dia de la prueba para jerusalen no solo arrojo del templo a los que hacian de el un lugar de mercado sino que volco las mesas de los cambistas cambio de moneda y los asientos de los que vendian palomas nadie hizo nada porque aunque se hacian de vista larga entendian que el fraude era lo que se movia en todos ellos por tal razon no hubo protesta v 16 y no permitia que nadie transportase mercancias pasando por el templo los judios reconocian que una de las muestras de honor debidas al templo era no hacer del monte santo o de los atrios del templo lugar de paso comun o de acarreo de objetos el hacer del atrio un comodo pasadizo de un lado a otro era ya profanar el templo v 17 Jesus le da la razon de su proceder con lo que dice jeremias 7 11 es cueva de ladrones delante de vuestros ojos esta casa sobre la cual es invocado mi nombre he aqui que tambien yo lo veo dice jehova isaias 56 7 porque mi casa sera llamada casa de oracion para todos los pueblos el templo es una casa de oracion se podia pensar que el templo era ante todo casa de sacrificios como lo parecia indicar la compraventa de bueyes y palomas el senor le dice casa de oracion al principio de su ministerio juan 2 16 arrojo Jesus del templo a los que traficaban alli dijo no hagais de la casa de mi padre casa de mercado ahora les acusa de convertirla en cueva de ladrones quienes entretienen pensamientos mundanos mientras se hallan en sus devociones convierten la casa de oracion en un lugar de mercado pero quienes devoran las casas de las ciudades y como pretexto prefieren largas oraciones la convierten en cueva de ladrones para llevar el santuario se necesita al sacerdote numeros 18 1 7 4 5 y 5 gobierno de Dios es el gran peligro si estas instrucciones se obedecian no habia razon para temer su ira tu y tus hijos se refiere solo a los sacerdotes el sacerdocio llevaria el pecado del santuario y el pecado del sacerdocio y la casa de tu padre levi contigo llevaria el pecado del santuario y tu y tus hijos contigo llevarian el pecado de vuestro sacerdocio al llevar el pecado eran responsables por el descuido o por no cumplir el cuidado santo los levitas eran ayudantes de los sacerdotes pero no podian entrar al tabernaculo en servicio del sacerdocio porque moririan han de vigilar con todo cuidado para que no se profanen las cosas sagradas juan 2 17 el celo de tu casa me consume salmo 69 9 porque me consumio el celo de tu casa hebreos 13 17 estos hombres actuan como representantes de Dios en la asamblea les ha sido dada autoridad y los creyentes deberian someterse a esta autoridad como sub pastores Jesus es el buen pastor el primero los ancianos velan por las almas de la grey ellos tendran que dar cuenta a Dios en un dia venidero lo haran o bien con alegria o quejandose dependiendo del crecimiento espiritual de aquellos que les han sido encomendados si tienen que hacerlo con tristeza esto significara perdida de recompensa para los santos implicados asi que es para beneficio de todos respetar las lineas sobre bajo debajo de autoridad que Dios ha establecido",
+    "alias_busqueda": [
+      "Estudio 1164",
+      "Marcos",
+      "Marcos 11",
+      "Marcos 11:15-17",
+      "oración",
+      "arrepentimiento",
+      "perseverancia",
+      "fuego",
+      "Familia"
+    ]
+  },
+  "revision_manual": {
+    "requiere_revision": false,
+    "motivo": ""
+  },
+  "ui": {
+    "mostrar_credito_en_header": true,
+    "mostrar_numero_estudio": true,
+    "mostrar_fecha": true,
+    "mostrar_topicos": true,
+    "permitir_favorito": true,
+    "permitir_compartir": true
+  }
+}

@@ -1,0 +1,335 @@
+{
+  "id": "estudio-921-me-postre-sobre-mi-rostro",
+  "slug": "estudio-921-me-postre-sobre-mi-rostro",
+  "numero_estudio": 921,
+  "tipo_estudio": "Iglesia en las casas",
+  "ministerio": {
+    "iglesia": "Iglesia Cristiana Mega Zoe",
+    "pastora": "Pastora Edith Cruz",
+    "credito_corto": "Iglesia Cristiana Mega Zoe · Pastora Edith Cruz",
+    "credito_largo": "Contenido original de Iglesia Cristiana Mega Zoe, conservando el crédito ministerial correspondiente a la Pastora Edith Cruz."
+  },
+  "identidad_editorial": {
+    "idioma": "es",
+    "fuente_original": "documento_word",
+    "archivo_origen": "/Users/edwingadiel/Desktop/Estudios en Word/Estudio #921 Me Postre Sobre Mi Rostro - Ezequiel 1 1-28.docx",
+    "estado_revision": "procesado",
+    "version_schema": "1.0"
+  },
+  "encabezado": {
+    "titulo": "Me Postré Sobre Mi Rostro",
+    "subtitulo": null,
+    "cita_principal": "Ezequiel 1:1-28",
+    "resumen_corto": "Me Postré Sobre Mi Rostro llama a caminar con sabiduría espiritual y cuidar la vida del hogar delante de Dios."
+  },
+  "fechas": {
+    "fecha_inicio": null,
+    "fecha_fin": null,
+    "fecha_texto_original": "",
+    "ano": null
+  },
+  "clasificacion_biblica": {
+    "libro_principal": "Ezequiel",
+    "capitulo_principal": 1,
+    "versiculos_principales": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28
+    ],
+    "referencia_principal_normalizada": "Ezequiel 1:1-28",
+    "testamento_principal": "Antiguo Testamento"
+  },
+  "clasificacion_tematica": {
+    "topicos": [
+      "Justicia de Dios",
+      "Sabiduría espiritual",
+      "Familia",
+      "Propósito de Dios",
+      "Santidad"
+    ],
+    "keywords": [
+      "evangelio de la paz",
+      "gloria de Dios",
+      "arrepentimiento",
+      "fuego",
+      "evangelio"
+    ]
+  },
+  "referencias_biblicas": [
+    {
+      "referencia": "Ezequiel 1:1-28",
+      "referencia_normalizada": "Ezequiel 1:1-28",
+      "libro": "Ezequiel",
+      "capitulo": 1,
+      "versiculos": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28
+      ],
+      "tipo": "principal",
+      "clickeable": true
+    },
+    {
+      "referencia": "Ezequiel 2:2",
+      "referencia_normalizada": "Ezequiel 2:2",
+      "libro": "Ezequiel",
+      "capitulo": 2,
+      "versiculos": [
+        2
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Efesios 5:8, 9",
+      "referencia_normalizada": "Efesios 5:8,9",
+      "libro": "Efesios",
+      "capitulo": 5,
+      "versiculos": [
+        8,
+        9
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Efesios 6:15",
+      "referencia_normalizada": "Efesios 6:15",
+      "libro": "Efesios",
+      "capitulo": 6,
+      "versiculos": [
+        15
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Ezequiel 2:3",
+      "referencia_normalizada": "Ezequiel 2:3",
+      "libro": "Ezequiel",
+      "capitulo": 2,
+      "versiculos": [
+        3
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Ezequiel 2:7",
+      "referencia_normalizada": "Ezequiel 2:7",
+      "libro": "Ezequiel",
+      "capitulo": 2,
+      "versiculos": [
+        7
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Ezequiel 2:4",
+      "referencia_normalizada": "Ezequiel 2:4",
+      "libro": "Ezequiel",
+      "capitulo": 2,
+      "versiculos": [
+        4
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Ezequiel 1:5",
+      "referencia_normalizada": "Ezequiel 1:5",
+      "libro": "Ezequiel",
+      "capitulo": 1,
+      "versiculos": [
+        5
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Ezequiel 1:8",
+      "referencia_normalizada": "Ezequiel 1:8",
+      "libro": "Ezequiel",
+      "capitulo": 1,
+      "versiculos": [
+        8
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Ezequiel 1:26",
+      "referencia_normalizada": "Ezequiel 1:26",
+      "libro": "Ezequiel",
+      "capitulo": 1,
+      "versiculos": [
+        26
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Éxodo 24:10",
+      "referencia_normalizada": "Éxodo 24:10",
+      "libro": "Éxodo",
+      "capitulo": 24,
+      "versiculos": [
+        10
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Ezequiel 1:28",
+      "referencia_normalizada": "Ezequiel 1:28",
+      "libro": "Ezequiel",
+      "capitulo": 1,
+      "versiculos": [
+        28
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    }
+  ],
+  "contenido": {
+    "introduccion": null,
+    "secciones": [],
+    "contenido_completo": "Al pueblo de Israel le llegó el momento del gran dolor debido a su alejamiento de Dios. Entonces, Dios quería hablar con el profeta Ezequiel, ¡y de qué forma tan violenta, fuerte y desconocedora para el profeta! Dios se hará conocer como Él quiere; en este caso lo hizo con gran fuerza, autoridad y dominio como el Dios Todopoderoso que es. ¡Ezequiel quedaría afectado con ver Su gloria, es de suponer!\n\n(Ezequiel 2:2 \"Y luego que me habló, entró el Espíritu en mí y ME AFIRMÓ SOBRE MIS PIES y oí al que me hablaba.\") El Espíritu Santo mismo afirmó el cuerpo débil del profeta sobre sus pies. Ezequiel estaba aturdido, debilitado, desencajado. ¡La humillación de nuestra parte es seguida por la exaltación de parte de Dios! Ahora Ezequiel empezaba un gran trabajo como profeta del pueblo y esa humillación era la mejor actitud para poder hacer con gran esmero el gran trabajo que Dios enviaría a hacer. Al decir aquí \"…sobre mis pies…\", significa que luego de su humillación y postración se puso derecho y firme sobre sus pies, recto, bien dispuesto. Cuando Dios te encarga un trabajo no puedes presentarte a Su servicio como un niño sino como un adulto, ni como carnal, menos charlatán, ni mentiroso, no vanidoso, ni engreído. Aprendamos que al ver su gloria nos humillamos y nos afirmamos sobre nuestros pies. \"Sobre los pies\" es la actitud y forma adecuada para el profeta presentarse ante Dios, para el que fue llamado a caminar y a trabajar por Dios (Efesios 5:8, 9 \"…andad como hijos de luz (porque el fruto del Espíritu, es en toda bondad, justicia y verdad).\" Efesios 6:15 \"…y calzados los pies con el apresto de evangelio de la paz.\").\n\nLos israelitas estaban en el cautiverio, en tierra ajena destrozados, avergonzados, humillados y quebrantados por todos lados; muchos de ellos sin familias y sin casas, sin alimentos, ni ropa; solos totalmente. Ezequiel 2:3 \"Y me dijo: Hijo de hombre, YO TE ENVÍO a los hijos de Israel, a gentes rebeldes que se rebelaron contra mí…\" Dios le hace frente con su mandamiento a todo obstáculo. Dios mandó a Ezequiel a hablarles y a trabajar por aquel pueblo tan afectado, pero, tan difícil y rebelde (Ezequiel 2:7 \"Les hablarás, pues, mis palabras, escuchen o dejen de escuchar…\"). Entendamos que los DEBERES son nuestros (que son nuestra responsabilidad y hay que llevarlos a cumplimiento) y que los ACONTECIMIENTOS (lo que ocurra) corresponde a Dios. Ezequiel 2:4 \"Yo, pues, te envío a hijos de duro rostro y de empedernido corazón; y les dirás: ASÍ HA DICHO JEHOVÁ EL SEÑOR.\" Dios encaraba con su nombre la terquedad de ellos. Los hombres conocerán aun cuando no escuchen. El ser humano no escucha las advertencias, los consejos y las reprensiones. Aun cuando no escuchen, por lo menos no tendrán excusas por su perversidad, por su grande maldad que les lleva a hacer daño intencionalmente. Escuchen o dejen de escuchar hay que advertirles (Ezequiel 2:7), hay que decir lo que Dios quiere hablarles porque el ser humano es rebelde contra el poder y la autoridad. Son personas malvadas. Pero, el justo no tiene que temer, los quebrantos son para grandes dolores de los que mal hacen.\n\nCon la grande revelación de la gloria de Dios se puede entender la autoridad divina. Llegó la gloria de Dios sobre Ezequiel. El dolor y la humillación para Dios fue de parte de Ezequiel, su escogido; lamentable que no fue de parte del pueblo. En la grande revelación se dejan ver QUERUBINES (Ezequiel 1:5 \"…y en medio de ella la figura de cuatro seres vivientes.\"). ¡A los querubines se le considera los guardianes de la gloria de Dios! Su velocidad es como la de un relámpago. Ellos conocen a Dios directo; saben lo que deben hacer con rectitud. Ezequiel 1:8 \"…cada uno caminaba derecho hacia adelante.\" Cada uno de ellos caminaba adelante y no tenían necesidad de darse vuelta cuando cambiaban de dirección, porque tenían un rostro mirando hacia cada uno de los cuatro puntos del cielo. No se equivocaban y su trabajo no tenía necesidad de ser hecho de nuevo. (¡Mira tú lo que hay que hacer; mira lo que se nos demanda!) Ellos no se vuelven para atrás ni hacia los lados MIENTRAS NO HAYAN CUMPLIDO LA TAREA QUE LES HA SIDO ENCOMENDADA. En Dios no se mira atrás; acordémonos de la figura de sal, la mujer de Lot. ¡Es DERECHO HACIA ADELANTE, ya las instrucciones han sido dadas por EL QUE TIENE LA GLORIA! Es el Espíritu el que mueve. Desviarse hacia el costado, hacia el lado, es rebelión contra EL QUE LLEVA, que es el Espíritu. Aquellos querubines indican o simbolizan la justicia intensamente pura y ardiente de Dios. Por lo cual, Dios castiga por medio de sus ángeles a aquellos que como Israel ¡SE HAN ENDURECIDO CONTRA SU GRAN PACIENCIA! ¡No te burles de su gran paciencia!\n\nEl fuego emitía chispas y relámpagos de luz como hacen las antorchas, expresando el vigor maravilloso del Espíritu de Dios en todos sus movimientos, \"nunca descansando y nunca cansado.\" La rectitud y justicia de Dios al fin harán que un rayo de su ira caiga sobre los culpables, como ahora iba a ocurrir sobre Jerusalén. Todas estas fuerzas que se describen en el Capítulo 1 de Ezequiel dejan ver la energía gigantesca y terrible de la providencia de Dios cumpliendo sus propósitos. Algo era\n\ncierto para Ezequiel y para aquel que conoce a Dios; la revelación de la gloria de Dios se levanta por encima de los dioses de los paganos para representar al Dios verdadero quien los hizo y continuamente los sostiene. ¿Quién te hizo, quién te sostiene?\n\nEl Espíritu estaba en todo (Vs. 21); en LAS RUEDAS LLENAS DE OJOS (Vs. 18), demostrando con esto la plenitud de la vida inteligente, siendo el ojo la ventana por la cual miraban. Allí había un total morar del Espíritu, esa vida relacionada con Dios santa y espiritual en toda la plenitud de su poder. Tenemos aquí el trono y Dios como un hombre con la apariencia de fuego alrededor (Ezequiel 1:26 \"Y sobre la expansión que había sobre sus cabezas se veía la figura de un trono que parecía de piedra de zafiro; y sobre la figura del trono había una semejanza que parecía de hombre sentado sobre él.\"). Su gloria embaldosada de zafiro (Éxodo 24:10) semejante al cielo cuando está sereno. Oía Ezequiel lo sonidos de su gloria (Vs. 24, 25). Su poder se reposa sobre la cabeza de los querubines. ¡Allí llegaba un trono con el Dios Poderoso, con El Eterno, con El Estandarte de Paz asegurando a todos que el propósito del Cielo era preservar en vez de destruir! Aun cuando la obra divina necesitase un diluvio de ira, la fidelidad de Dios brillará al fin más fuerte todavía a favor de los hijos de la promesa, como resultado de las tribulaciones necesarias para prepararlos para recibir el bien final.\n\nEn resumen, ¡ES NECESARIA LA ACTITUD CORRECTA HACIA Dios ANTES DE ENTRAR EN CUALQUIER OBRA ACTIVA PARA ÉL! Por eso, el profeta Ezequiel dijo: \"Me postré sobre mi rostro…\" Ezequiel 1:28 \"Esta fue la visión de la semejanza de la gloria de Jehová. Y cuando yo la vi, ME POSTRÉ SOBRE MI ROSTRO, y oí la voz de uno que hablaba.\" ¿Y TÚ, HARÁS LO MISMO? Amén.",
+    "contenido_renderizado": [
+      {
+        "tipo": "parrafo",
+        "texto": "Al pueblo de Israel le llegó el momento del gran dolor debido a su alejamiento de Dios. Entonces, Dios quería hablar con el profeta Ezequiel, ¡y de qué forma tan violenta, fuerte y desconocedora para el profeta! Dios se hará conocer como Él quiere; en este caso lo hizo con gran fuerza, autoridad y dominio como el Dios Todopoderoso que es. ¡Ezequiel quedaría afectado con ver Su gloria, es de suponer!",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Ezequiel 2:2 \"Y luego que me habló, entró el Espíritu en mí y ME AFIRMÓ SOBRE MIS PIES y oí al que me hablaba.\") El Espíritu Santo mismo afirmó el cuerpo débil del profeta sobre sus pies. Ezequiel estaba aturdido, debilitado, desencajado. ¡La humillación de nuestra parte es seguida por la exaltación de parte de Dios! Ahora Ezequiel empezaba un gran trabajo como profeta del pueblo y esa humillación era la mejor actitud para poder hacer con gran esmero el gran trabajo que Dios enviaría a hacer. Al decir aquí \"…sobre mis pies…\", significa que luego de su humillación y postración se puso derecho y firme sobre sus pies, recto, bien dispuesto. Cuando Dios te encarga un trabajo no puedes presentarte a Su servicio como un niño sino como un adulto, ni como carnal, menos charlatán, ni mentiroso, no vanidoso, ni engreído. Aprendamos que al ver su gloria nos humillamos y nos afirmamos sobre nuestros pies. \"Sobre los pies\" es la actitud y forma adecuada para el profeta presentarse ante Dios, para el que fue llamado a caminar y a trabajar por Dios (Efesios 5:8, 9 \"…andad como hijos de luz (porque el fruto del Espíritu, es en toda bondad, justicia y verdad).\" Efesios 6:15 \"…y calzados los pies con el apresto de evangelio de la paz.\").",
+        "referencias_inline": [
+          "Ezequiel 2:2",
+          "Efesios 5:8,9",
+          "Efesios 6:15"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Los israelitas estaban en el cautiverio, en tierra ajena destrozados, avergonzados, humillados y quebrantados por todos lados; muchos de ellos sin familias y sin casas, sin alimentos, ni ropa; solos totalmente. Ezequiel 2:3 \"Y me dijo: Hijo de hombre, YO TE ENVÍO a los hijos de Israel, a gentes rebeldes que se rebelaron contra mí…\" Dios le hace frente con su mandamiento a todo obstáculo. Dios mandó a Ezequiel a hablarles y a trabajar por aquel pueblo tan afectado, pero, tan difícil y rebelde (Ezequiel 2:7 \"Les hablarás, pues, mis palabras, escuchen o dejen de escuchar…\"). Entendamos que los DEBERES son nuestros (que son nuestra responsabilidad y hay que llevarlos a cumplimiento) y que los ACONTECIMIENTOS (lo que ocurra) corresponde a Dios. Ezequiel 2:4 \"Yo, pues, te envío a hijos de duro rostro y de empedernido corazón; y les dirás: ASÍ HA DICHO JEHOVÁ EL SEÑOR.\" Dios encaraba con su nombre la terquedad de ellos. Los hombres conocerán aun cuando no escuchen. El ser humano no escucha las advertencias, los consejos y las reprensiones. Aun cuando no escuchen, por lo menos no tendrán excusas por su perversidad, por su grande maldad que les lleva a hacer daño intencionalmente. Escuchen o dejen de escuchar hay que advertirles (Ezequiel 2:7), hay que decir lo que Dios quiere hablarles porque el ser humano es rebelde contra el poder y la autoridad. Son personas malvadas. Pero, el justo no tiene que temer, los quebrantos son para grandes dolores de los que mal hacen.",
+        "referencias_inline": [
+          "Ezequiel 2:3",
+          "Ezequiel 2:7",
+          "Ezequiel 2:4"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Con la grande revelación de la gloria de Dios se puede entender la autoridad divina. Llegó la gloria de Dios sobre Ezequiel. El dolor y la humillación para Dios fue de parte de Ezequiel, su escogido; lamentable que no fue de parte del pueblo. En la grande revelación se dejan ver QUERUBINES (Ezequiel 1:5 \"…y en medio de ella la figura de cuatro seres vivientes.\"). ¡A los querubines se le considera los guardianes de la gloria de Dios! Su velocidad es como la de un relámpago. Ellos conocen a Dios directo; saben lo que deben hacer con rectitud. Ezequiel 1:8 \"…cada uno caminaba derecho hacia adelante.\" Cada uno de ellos caminaba adelante y no tenían necesidad de darse vuelta cuando cambiaban de dirección, porque tenían un rostro mirando hacia cada uno de los cuatro puntos del cielo. No se equivocaban y su trabajo no tenía necesidad de ser hecho de nuevo. (¡Mira tú lo que hay que hacer; mira lo que se nos demanda!) Ellos no se vuelven para atrás ni hacia los lados MIENTRAS NO HAYAN CUMPLIDO LA TAREA QUE LES HA SIDO ENCOMENDADA. En Dios no se mira atrás; acordémonos de la figura de sal, la mujer de Lot. ¡Es DERECHO HACIA ADELANTE, ya las instrucciones han sido dadas por EL QUE TIENE LA GLORIA! Es el Espíritu el que mueve. Desviarse hacia el costado, hacia el lado, es rebelión contra EL QUE LLEVA, que es el Espíritu. Aquellos querubines indican o simbolizan la justicia intensamente pura y ardiente de Dios. Por lo cual, Dios castiga por medio de sus ángeles a aquellos que como Israel ¡SE HAN ENDURECIDO CONTRA SU GRAN PACIENCIA! ¡No te burles de su gran paciencia!",
+        "referencias_inline": [
+          "Ezequiel 1:5",
+          "Ezequiel 1:8"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "El fuego emitía chispas y relámpagos de luz como hacen las antorchas, expresando el vigor maravilloso del Espíritu de Dios en todos sus movimientos, \"nunca descansando y nunca cansado.\" La rectitud y justicia de Dios al fin harán que un rayo de su ira caiga sobre los culpables, como ahora iba a ocurrir sobre Jerusalén. Todas estas fuerzas que se describen en el Capítulo 1 de Ezequiel dejan ver la energía gigantesca y terrible de la providencia de Dios cumpliendo sus propósitos. Algo era",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "cierto para Ezequiel y para aquel que conoce a Dios; la revelación de la gloria de Dios se levanta por encima de los dioses de los paganos para representar al Dios verdadero quien los hizo y continuamente los sostiene. ¿Quién te hizo, quién te sostiene?",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "El Espíritu estaba en todo (Vs. 21); en LAS RUEDAS LLENAS DE OJOS (Vs. 18), demostrando con esto la plenitud de la vida inteligente, siendo el ojo la ventana por la cual miraban. Allí había un total morar del Espíritu, esa vida relacionada con Dios santa y espiritual en toda la plenitud de su poder. Tenemos aquí el trono y Dios como un hombre con la apariencia de fuego alrededor (Ezequiel 1:26 \"Y sobre la expansión que había sobre sus cabezas se veía la figura de un trono que parecía de piedra de zafiro; y sobre la figura del trono había una semejanza que parecía de hombre sentado sobre él.\"). Su gloria embaldosada de zafiro (Éxodo 24:10) semejante al cielo cuando está sereno. Oía Ezequiel lo sonidos de su gloria (Vs. 24, 25). Su poder se reposa sobre la cabeza de los querubines. ¡Allí llegaba un trono con el Dios Poderoso, con El Eterno, con El Estandarte de Paz asegurando a todos que el propósito del Cielo era preservar en vez de destruir! Aun cuando la obra divina necesitase un diluvio de ira, la fidelidad de Dios brillará al fin más fuerte todavía a favor de los hijos de la promesa, como resultado de las tribulaciones necesarias para prepararlos para recibir el bien final.",
+        "referencias_inline": [
+          "Ezequiel 1:26",
+          "Éxodo 24:10"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "En resumen, ¡ES NECESARIA LA ACTITUD CORRECTA HACIA Dios ANTES DE ENTRAR EN CUALQUIER OBRA ACTIVA PARA ÉL! Por eso, el profeta Ezequiel dijo: \"Me postré sobre mi rostro…\" Ezequiel 1:28 \"Esta fue la visión de la semejanza de la gloria de Jehová. Y cuando yo la vi, ME POSTRÉ SOBRE MI ROSTRO, y oí la voz de uno que hablaba.\" ¿Y TÚ, HARÁS LO MISMO? Amén.",
+        "referencias_inline": [
+          "Ezequiel 1:28"
+        ]
+      }
+    ]
+  },
+  "busqueda": {
+    "texto_indexable": "me postre sobre mi rostro ezequiel 1 1 28 justicia de Dios sabiduria espiritual familia proposito de Dios santidad evangelio de la paz gloria de Dios arrepentimiento fuego evangelio al pueblo de israel le llego el momento del gran dolor debido a su alejamiento de Dios entonces Dios queria hablar con el profeta ezequiel y de que forma tan violenta fuerte y desconocedora para el profeta Dios se hara conocer como el quiere en este caso lo hizo con gran fuerza autoridad y dominio como el Dios todopoderoso que es ezequiel quedaria afectado con ver su gloria es de suponer ezequiel 2 2 y luego que me hablo entro el espiritu en mi y me afirmo sobre mis pies y oi al que me hablaba el espiritu santo mismo afirmo el cuerpo debil del profeta sobre sus pies ezequiel estaba aturdido debilitado desencajado la humillacion de nuestra parte es seguida por la exaltacion de parte de Dios ahora ezequiel empezaba un gran trabajo como profeta del pueblo y esa humillacion era la mejor actitud para poder hacer con gran esmero el gran trabajo que Dios enviaria a hacer al decir aqui sobre mis pies significa que luego de su humillacion y postracion se puso derecho y firme sobre sus pies recto bien dispuesto cuando Dios te encarga un trabajo no puedes presentarte a su servicio como un nino sino como un adulto ni como carnal menos charlatan ni mentiroso no vanidoso ni engreido aprendamos que al ver su gloria nos humillamos y nos afirmamos sobre nuestros pies sobre los pies es la actitud y forma adecuada para el profeta presentarse ante Dios para el que fue llamado a caminar y a trabajar por Dios efesios 5 8 9 andad como hijos de luz porque el fruto del espiritu es en toda bondad justicia y verdad efesios 6 15 y calzados los pies con el apresto de evangelio de la paz los israelitas estaban en el cautiverio en tierra ajena destrozados avergonzados humillados y quebrantados por todos lados muchos de ellos sin familias y sin casas sin alimentos ni ropa solos totalmente ezequiel 2 3 y me dijo hijo de hombre yo te envio a los hijos de israel a gentes rebeldes que se rebelaron contra mi Dios le hace frente con su mandamiento a todo obstaculo Dios mando a ezequiel a hablarles y a trabajar por aquel pueblo tan afectado pero tan dificil y rebelde ezequiel 2 7 les hablaras pues mis palabras escuchen o dejen de escuchar entendamos que los deberes son nuestros que son nuestra responsabilidad y hay que llevarlos a cumplimiento y que los acontecimientos lo que ocurra corresponde a Dios ezequiel 2 4 yo pues te envio a hijos de duro rostro y de empedernido corazon y les diras asi ha dicho jehova el senor Dios encaraba con su nombre la terquedad de ellos los hombres conoceran aun cuando no escuchen el ser humano no escucha las advertencias los consejos y las reprensiones aun cuando no escuchen por lo menos no tendran excusas por su perversidad por su grande maldad que les lleva a hacer dano intencionalmente escuchen o dejen de escuchar hay que advertirles ezequiel 2 7 hay que decir lo que Dios quiere hablarles porque el ser humano es rebelde contra el poder y la autoridad son personas malvadas pero el justo no tiene que temer los quebrantos son para grandes dolores de los que mal hacen con la grande revelacion de la gloria de Dios se puede entender la autoridad divina llego la gloria de Dios sobre ezequiel el dolor y la humillacion para Dios fue de parte de ezequiel su escogido lamentable que no fue de parte del pueblo en la grande revelacion se dejan ver querubines ezequiel 1 5 y en medio de ella la figura de cuatro seres vivientes a los querubines se le considera los guardianes de la gloria de Dios su velocidad es como la de un relampago ellos conocen a Dios directo saben lo que deben hacer con rectitud ezequiel 1 8 cada uno caminaba derecho hacia adelante cada uno de ellos caminaba adelante y no tenian necesidad de darse vuelta cuando cambiaban de direccion porque tenian un rostro mirando hacia cada uno de los cuatro puntos del cielo no se equivocaban y su trabajo no tenia necesidad de ser hecho de nuevo mira tu lo que hay que hacer mira lo que se nos demanda ellos no se vuelven para atras ni hacia los lados mientras no hayan cumplido la tarea que les ha sido encomendada en Dios no se mira atras acordemonos de la figura de sal la mujer de lot es derecho hacia adelante ya las instrucciones han sido dadas por el que tiene la gloria es el espiritu el que mueve desviarse hacia el costado hacia el lado es rebelion contra el que lleva que es el espiritu aquellos querubines indican o simbolizan la justicia intensamente pura y ardiente de Dios por lo cual Dios castiga por medio de sus angeles a aquellos que como israel se han endurecido contra su gran paciencia no te burles de su gran paciencia el fuego emitia chispas y relampagos de luz como hacen las antorchas expresando el vigor maravilloso del espiritu de Dios en todos sus movimientos nunca descansando y nunca cansado la rectitud y justicia de Dios al fin haran que un rayo de su ira caiga sobre los culpables como ahora iba a ocurrir sobre jerusalen todas estas fuerzas que se describen en el capitulo 1 de ezequiel dejan ver la energia gigantesca y terrible de la providencia de Dios cumpliendo sus propositos algo era cierto para ezequiel y para aquel que conoce a Dios la revelacion de la gloria de Dios se levanta por encima de los dioses de los paganos para representar al Dios verdadero quien los hizo y continuamente los sostiene quien te hizo quien te sostiene el espiritu estaba en todo vs 21 en las ruedas llenas de ojos vs 18 demostrando con esto la plenitud de la vida inteligente siendo el ojo la ventana por la cual miraban alli habia un total morar del espiritu esa vida relacionada con Dios santa y espiritual en toda la plenitud de su poder tenemos aqui el trono y Dios como un hombre con la apariencia de fuego alrededor ezequiel 1 26 y sobre la expansion que habia sobre sus cabezas se veia la figura de un trono que parecia de piedra de zafiro y sobre la figura del trono habia una semejanza que parecia de hombre sentado sobre el su gloria embaldosada de zafiro exodo 24 10 semejante al cielo cuando esta sereno oia ezequiel lo sonidos de su gloria vs 24 25 su poder se reposa sobre la cabeza de los querubines alli llegaba un trono con el Dios poderoso con el eterno con el estandarte de paz asegurando a todos que el proposito del cielo era preservar en vez de destruir aun cuando la obra divina necesitase un diluvio de ira la fidelidad de Dios brillara al fin mas fuerte todavia a favor de los hijos de la promesa como resultado de las tribulaciones necesarias para prepararlos para recibir el bien final en resumen es necesaria la actitud correcta hacia Dios antes de entrar en cualquier obra activa para el por eso el profeta ezequiel dijo me postre sobre mi rostro ezequiel 1 28 esta fue la vision de la semejanza de la gloria de jehova y cuando yo la vi me postre sobre mi rostro y oi la voz de uno que hablaba y tu haras lo mismo amen",
+    "alias_busqueda": [
+      "Me Postré Sobre Mi Rostro",
+      "Ezequiel",
+      "Ezequiel 1",
+      "Ezequiel 1:1-28",
+      "evangelio de la paz",
+      "gloria de Dios",
+      "arrepentimiento",
+      "fuego",
+      "Justicia de Dios",
+      "Sabiduría espiritual"
+    ]
+  },
+  "revision_manual": {
+    "requiere_revision": false,
+    "motivo": ""
+  },
+  "ui": {
+    "mostrar_credito_en_header": true,
+    "mostrar_numero_estudio": true,
+    "mostrar_fecha": true,
+    "mostrar_topicos": true,
+    "permitir_favorito": true,
+    "permitir_compartir": true
+  }
+}

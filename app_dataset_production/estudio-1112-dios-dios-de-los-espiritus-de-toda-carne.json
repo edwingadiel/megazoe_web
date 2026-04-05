@@ -1,0 +1,455 @@
+{
+  "id": "estudio-1112-Dios-Dios-de-los-espiritus-de-toda-carne",
+  "slug": "estudio-1112-Dios-Dios-de-los-espiritus-de-toda-carne",
+  "numero_estudio": 1112,
+  "tipo_estudio": "Iglesia en las casas",
+  "ministerio": {
+    "iglesia": "Iglesia Cristiana Mega Zoe",
+    "pastora": "Pastora Edith Cruz",
+    "credito_corto": "Iglesia Cristiana Mega Zoe · Pastora Edith Cruz",
+    "credito_largo": "Contenido original de Iglesia Cristiana Mega Zoe, conservando el crédito ministerial correspondiente a la Pastora Edith Cruz."
+  },
+  "identidad_editorial": {
+    "idioma": "es",
+    "fuente_original": "documento_word",
+    "archivo_origen": "/Users/edwingadiel/Desktop/Estudios en Word/Estudio #1112 Dios, Dios de los espíritus de toda carne - Números 16 1-50.docx",
+    "estado_revision": "procesado",
+    "version_schema": "1.0"
+  },
+  "encabezado": {
+    "titulo": "Dios, Dios De Los Espíritus De Toda Carne",
+    "subtitulo": null,
+    "cita_principal": "Números 16:1-50",
+    "resumen_corto": "Dios, Dios De Los Espíritus De Toda Carne enseña a perseverar en la oración y cuidar la vida del hogar delante de Dios."
+  },
+  "fechas": {
+    "fecha_inicio": null,
+    "fecha_fin": null,
+    "fecha_texto_original": "",
+    "ano": null
+  },
+  "clasificacion_biblica": {
+    "libro_principal": "Números",
+    "capitulo_principal": 16,
+    "versiculos_principales": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50
+    ],
+    "referencia_principal_normalizada": "Números 16:1-50",
+    "testamento_principal": "Antiguo Testamento"
+  },
+  "clasificacion_tematica": {
+    "topicos": [
+      "Oración",
+      "Familia",
+      "Dios"
+    ],
+    "keywords": [
+      "oración",
+      "juicio",
+      "arrepentimiento",
+      "perseverancia",
+      "arca"
+    ]
+  },
+  "referencias_biblicas": [
+    {
+      "referencia": "Números 16:1-50",
+      "referencia_normalizada": "Números 16:1-50",
+      "libro": "Números",
+      "capitulo": 16,
+      "versiculos": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50
+      ],
+      "tipo": "principal",
+      "clickeable": true
+    },
+    {
+      "referencia": "Números 16:3",
+      "referencia_normalizada": "Números 16:3",
+      "libro": "Números",
+      "capitulo": 16,
+      "versiculos": [
+        3
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Éxodo 3:4",
+      "referencia_normalizada": "Éxodo 3:4",
+      "libro": "Éxodo",
+      "capitulo": 3,
+      "versiculos": [
+        4
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Éxodo 3:1-10",
+      "referencia_normalizada": "Éxodo 3:1-10",
+      "libro": "Éxodo",
+      "capitulo": 3,
+      "versiculos": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Números 16:2",
+      "referencia_normalizada": "Números 16:2",
+      "libro": "Números",
+      "capitulo": 16,
+      "versiculos": [
+        2
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Éxodo 6:18-21",
+      "referencia_normalizada": "Éxodo 6:18-21",
+      "libro": "Éxodo",
+      "capitulo": 6,
+      "versiculos": [
+        18,
+        19,
+        20,
+        21
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Éxodo 3:4-11",
+      "referencia_normalizada": "Éxodo 3:4-11",
+      "libro": "Éxodo",
+      "capitulo": 3,
+      "versiculos": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Éxodo 3:8",
+      "referencia_normalizada": "Éxodo 3:8",
+      "libro": "Éxodo",
+      "capitulo": 3,
+      "versiculos": [
+        8
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Números 16:19",
+      "referencia_normalizada": "Números 16:19",
+      "libro": "Números",
+      "capitulo": 16,
+      "versiculos": [
+        19
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    }
+  ],
+  "contenido": {
+    "introduccion": null,
+    "secciones": [],
+    "contenido_completo": "Los israelitas estaban culpando a Moisés y a Aarón de que habían matado al pueblo. Pero, no habían sido ellos los que mataron al pueblo, sino al contrario, ¡ellos lo salvaron! (Vs.41,47,48) Hay un problema en el hombre en la tierra, los rebeldes siempre tienen sus \"argumentos.\" Los argumentos son razonamientos usados para refutar o convencer a otro de algo. Pero, para que el argumento sea convincente se debe procurar que sea coherente, sólido, sin contradicciones que afecten su credibilidad, o sea, sin puntos débiles como para enfrentar réplicas, contestaciones y refutaciones que lo nieguen o invaliden. El argumento que usaron los rebeldes de Coré y su séquito fue que en la congregación de aquel pueblo todos eran santos y por tal razón, resentían que Moisés y Aarón fueran los líderes, diciendo que ninguno de la congregación debería ser excluido de ofrecer los sacrificios.\" Números 16:3 \"¡Basta ya de vosotros! Porque toda la congregación, todos ellos son santos, y en medio de ellos está Jehová; ¿por qué, pues, os levantáis vosotros sobre la congregación de Jehová?\"\n\nI. Dios llamó a Moisés de entre los hombres de aquel tiempo, desde la zarza que ardía en el monte de Dios.\n\nEl Señor lo llamó de en medio de la zarza, y le dijo: ¡Moisés, Moisés! (Éxodo 3:4)\n\nDios le dice: Yo soy el Dios de tu padre, Dios de Abraham, Dios de Isaac y el Dios de Jacob.\n\nDios lo llama para liberar a su pueblo (Éxodo 3:1-10).\n\n¿Podrías tener tú algún argumento para proponer que alguien más podía estar allí en ese llamado?\n\nSabemos del respaldo de Dios a Moisés enviando las plagas, dándoles el alimento (maná), sacándoles agua de la peña, haciendo que los egipcios les dieran fortunas al salir, abriéndoles el mar para pasar a salvo y llegar a la tierra de Canaán, a la tierra prometida.\n\n(Números 16:2) Coré era un primo de Aarón (Éxodo 6:18-21), parece que por la familiaridad creyó tener algún derecho para levantarse contra Dios.\n\n(Vs.3) Se juntaron contra Moisés y Aarón y les dijeron: ¡Basta ya de vosotros!\n\nEs fácil levantarse para demandar el poder, la autoridad y el llamado que Dios le ha dado a otro. Pero, debemos ver que en la vida de Moisés y Aarón había dolor, muchos desvelos, el tener que despegarse de sus hijos teniéndolos lejos, pasando noches y días de excesivas oraciones, pocos días de buen comer y teniendo al mundo entero en contra. Pero, ¿cuál era la envidia? A las personas les gusta ser líderes ¡el día bueno, en momentos agradables, cuando está el Shekinah de Jehová, cuando Dios manifiesta Su gloria, Su Presencia! Pero, eso no es tan frecuente como los problemas, las murmuraciones y críticas, las burlas, el maltrato, aun el físico, los desprecios, etc. ¡Te aseguro que Coré no iba a resistir tales ofensas!\n\nCoré era inconstante, y ahora era un rebelde, no un justo que respeta la justicia de Dios.\n\n(Éxodo 3:4-11) Ellos quieren liderato y Moisés les escucha y les dice qué hacer. Les ordenó que Coré y sus rebeldes se presentaran al día siguiente con incensarios, \"…esto os baste, hijos de Leví (Vs.6,7)\".\n\nPor ser hijos de Leví no había derecho de ¡levantarse en contra de lo santo!\n\nQuemar el incienso era una función sacerdotal. ¡Si Dios no los reconocía como \"sacerdotes\" se los demostraría con Su disgusto!\n\n(Vs.12-15) Entre los rebeldes estaban Datán y Abiram quienes se negaron a salir de sus tiendas, cuando Moisés los llamó, pero también eran rebeldes que le habían recriminado por su liderazgo.\n\n(Éxodo 3:8) Hablaron de la promesa hecha anteriormente de que Dios los llevaría a una tierra que fluye leche y miel y se estaban quejando aquí, con gran sarcasmo y burlas, de que Moisés en cambio los había sacado fuera de una tierra que sí destilaba leche y miel, refiriéndose a Egipto. ¡Egipto era el lugar donde fueron esclavos, maltratados con azotes y desprecio! Pero, así dejaban ver lo chismosos y engreídos que eran, querían tener todo a la mano, pero escondidos en sus cabañas. Eso es característico de los que hablan y que no son como Moisés. (Vs.4) Cuando oyó esto Moisés, se postró sobre su rostro… ¡Eso es ser un hombre con un espíritu luchador! No como los que tienen la palabra fácil, sazonada con el chisme, debido a la envidia.\n\n(Vs.16-22,46) Los doscientos cincuenta rebeldes junto a Coré aparecieron ante el tabernáculo con sus incensarios y Aarón también, pues Dios dejaría ver Su aprobación de quien podía ejercer el sacerdocio.\n\n(Números 16:19) La congregación de Israel también se juntó, tal vez, en simpatía con Coré.\n\n\"…entonces la gloria de Jehová apareció a toda la congregación.\"\n\nDios le habló a Moisés y Aarón que se apartasen de la congregación antes que los consumiera.\n\nSin embargo, fue por la intercesión de Moisés y Aarón que el juicio de Jehová no se llevó a cabo.\n\n(Vs.23-35) Entonces, de las tiendas donde vivían Coré, Datán y Abiram, Dios le dice a Moisés, que le advierta a la congregación para que se alejen de la cercanía de ellas.\n\n(Vs.28-30) Si esos hombres rebeldes mueren con una muerte natural, según \"la suerte de todos los hombres\", entonces Moisés sería desacreditado. Mas si Jehová milagrosamente causara que \"…la tierra abriese su boca y los tragase…\", entonces, todo el pueblo conocería que estos hombres habían sido culpables de rebelión (Vs.30).\n\nDicho estas palabras, se abrió la tierra, y tragó a Datán, Abiram, Coré, y sus familias que también murmuraron.\n\n(Vs.36-40) Los incensarios fueron santificados, esto era para recordar que sólo la familia de Aarón tenía los privilegios sacerdotales (Vs.11).\n\n(Vs.41-50) Vimos que Moisés y Aarón fueron acusados de matar al pueblo de Dios. Pero, Dios que en juicio los destruiría a todos, no lo hizo porque, esos dos varones, Moisés y Aarón fueron en clamor delante del tabernáculo de reunión para interceder por ellos.\n\nMientras que los rebeldes habían cuestionado el sacerdocio de Aarón, vemos que fue él quien hizo expiación por el pueblo y Dios que lo llamó le respondió y ¡cesó la mortandad! Amén.",
+    "contenido_renderizado": [
+      {
+        "tipo": "parrafo",
+        "texto": "Los israelitas estaban culpando a Moisés y a Aarón de que habían matado al pueblo. Pero, no habían sido ellos los que mataron al pueblo, sino al contrario, ¡ellos lo salvaron! (Vs.41,47,48) Hay un problema en el hombre en la tierra, los rebeldes siempre tienen sus \"argumentos.\" Los argumentos son razonamientos usados para refutar o convencer a otro de algo. Pero, para que el argumento sea convincente se debe procurar que sea coherente, sólido, sin contradicciones que afecten su credibilidad, o sea, sin puntos débiles como para enfrentar réplicas, contestaciones y refutaciones que lo nieguen o invaliden. El argumento que usaron los rebeldes de Coré y su séquito fue que en la congregación de aquel pueblo todos eran santos y por tal razón, resentían que Moisés y Aarón fueran los líderes, diciendo que ninguno de la congregación debería ser excluido de ofrecer los sacrificios.\" Números 16:3 \"¡Basta ya de vosotros! Porque toda la congregación, todos ellos son santos, y en medio de ellos está Jehová; ¿por qué, pues, os levantáis vosotros sobre la congregación de Jehová?\"",
+        "referencias_inline": [
+          "Números 16:3"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "I. Dios llamó a Moisés de entre los hombres de aquel tiempo, desde la zarza que ardía en el monte de Dios.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "El Señor lo llamó de en medio de la zarza, y le dijo: ¡Moisés, Moisés! (Éxodo 3:4)",
+        "referencias_inline": [
+          "Éxodo 3:4"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Dios le dice: Yo soy el Dios de tu padre, Dios de Abraham, Dios de Isaac y el Dios de Jacob.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Dios lo llama para liberar a su pueblo (Éxodo 3:1-10).",
+        "referencias_inline": [
+          "Éxodo 3:1-10"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "¿Podrías tener tú algún argumento para proponer que alguien más podía estar allí en ese llamado?",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Sabemos del respaldo de Dios a Moisés enviando las plagas, dándoles el alimento (maná), sacándoles agua de la peña, haciendo que los egipcios les dieran fortunas al salir, abriéndoles el mar para pasar a salvo y llegar a la tierra de Canaán, a la tierra prometida.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Números 16:2) Coré era un primo de Aarón (Éxodo 6:18-21), parece que por la familiaridad creyó tener algún derecho para levantarse contra Dios.",
+        "referencias_inline": [
+          "Números 16:2",
+          "Éxodo 6:18-21"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Vs.3) Se juntaron contra Moisés y Aarón y les dijeron: ¡Basta ya de vosotros!",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Es fácil levantarse para demandar el poder, la autoridad y el llamado que Dios le ha dado a otro. Pero, debemos ver que en la vida de Moisés y Aarón había dolor, muchos desvelos, el tener que despegarse de sus hijos teniéndolos lejos, pasando noches y días de excesivas oraciones, pocos días de buen comer y teniendo al mundo entero en contra. Pero, ¿cuál era la envidia? A las personas les gusta ser líderes ¡el día bueno, en momentos agradables, cuando está el Shekinah de Jehová, cuando Dios manifiesta Su gloria, Su Presencia! Pero, eso no es tan frecuente como los problemas, las murmuraciones y críticas, las burlas, el maltrato, aun el físico, los desprecios, etc. ¡Te aseguro que Coré no iba a resistir tales ofensas!",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Coré era inconstante, y ahora era un rebelde, no un justo que respeta la justicia de Dios.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Éxodo 3:4-11) Ellos quieren liderato y Moisés les escucha y les dice qué hacer. Les ordenó que Coré y sus rebeldes se presentaran al día siguiente con incensarios, \"…esto os baste, hijos de Leví (Vs.6,7)\".",
+        "referencias_inline": [
+          "Éxodo 3:4-11"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Por ser hijos de Leví no había derecho de ¡levantarse en contra de lo santo!",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Quemar el incienso era una función sacerdotal. ¡Si Dios no los reconocía como \"sacerdotes\" se los demostraría con Su disgusto!",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Vs.12-15) Entre los rebeldes estaban Datán y Abiram quienes se negaron a salir de sus tiendas, cuando Moisés los llamó, pero también eran rebeldes que le habían recriminado por su liderazgo.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Éxodo 3:8) Hablaron de la promesa hecha anteriormente de que Dios los llevaría a una tierra que fluye leche y miel y se estaban quejando aquí, con gran sarcasmo y burlas, de que Moisés en cambio los había sacado fuera de una tierra que sí destilaba leche y miel, refiriéndose a Egipto. ¡Egipto era el lugar donde fueron esclavos, maltratados con azotes y desprecio! Pero, así dejaban ver lo chismosos y engreídos que eran, querían tener todo a la mano, pero escondidos en sus cabañas. Eso es característico de los que hablan y que no son como Moisés. (Vs.4) Cuando oyó esto Moisés, se postró sobre su rostro… ¡Eso es ser un hombre con un espíritu luchador! No como los que tienen la palabra fácil, sazonada con el chisme, debido a la envidia.",
+        "referencias_inline": [
+          "Éxodo 3:8"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Vs.16-22,46) Los doscientos cincuenta rebeldes junto a Coré aparecieron ante el tabernáculo con sus incensarios y Aarón también, pues Dios dejaría ver Su aprobación de quien podía ejercer el sacerdocio.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Números 16:19) La congregación de Israel también se juntó, tal vez, en simpatía con Coré.",
+        "referencias_inline": [
+          "Números 16:19"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "\"…entonces la gloria de Jehová apareció a toda la congregación.\"",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Dios le habló a Moisés y Aarón que se apartasen de la congregación antes que los consumiera.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Sin embargo, fue por la intercesión de Moisés y Aarón que el juicio de Jehová no se llevó a cabo.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Vs.23-35) Entonces, de las tiendas donde vivían Coré, Datán y Abiram, Dios le dice a Moisés, que le advierta a la congregación para que se alejen de la cercanía de ellas.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Vs.28-30) Si esos hombres rebeldes mueren con una muerte natural, según \"la suerte de todos los hombres\", entonces Moisés sería desacreditado. Mas si Jehová milagrosamente causara que \"…la tierra abriese su boca y los tragase…\", entonces, todo el pueblo conocería que estos hombres habían sido culpables de rebelión (Vs.30).",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Dicho estas palabras, se abrió la tierra, y tragó a Datán, Abiram, Coré, y sus familias que también murmuraron.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Vs.36-40) Los incensarios fueron santificados, esto era para recordar que sólo la familia de Aarón tenía los privilegios sacerdotales (Vs.11).",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Vs.41-50) Vimos que Moisés y Aarón fueron acusados de matar al pueblo de Dios. Pero, Dios que en juicio los destruiría a todos, no lo hizo porque, esos dos varones, Moisés y Aarón fueron en clamor delante del tabernáculo de reunión para interceder por ellos.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Mientras que los rebeldes habían cuestionado el sacerdocio de Aarón, vemos que fue él quien hizo expiación por el pueblo y Dios que lo llamó le respondió y ¡cesó la mortandad! Amén.",
+        "referencias_inline": []
+      }
+    ]
+  },
+  "busqueda": {
+    "texto_indexable": "Dios Dios de los espiritus de toda carne numeros 16 1 50 oracion familia Dios oracion juicio arrepentimiento perseverancia arca los israelitas estaban culpando a moises y a aaron de que habian matado al pueblo pero no habian sido ellos los que mataron al pueblo sino al contrario ellos lo salvaron vs 41 47 48 hay un problema en el hombre en la tierra los rebeldes siempre tienen sus argumentos los argumentos son razonamientos usados para refutar o convencer a otro de algo pero para que el argumento sea convincente se debe procurar que sea coherente solido sin contradicciones que afecten su credibilidad o sea sin puntos debiles como para enfrentar replicas contestaciones y refutaciones que lo nieguen o invaliden el argumento que usaron los rebeldes de core y su sequito fue que en la congregacion de aquel pueblo todos eran santos y por tal razon resentian que moises y aaron fueran los lideres diciendo que ninguno de la congregacion deberia ser excluido de ofrecer los sacrificios numeros 16 3 basta ya de vosotros porque toda la congregacion todos ellos son santos y en medio de ellos esta jehova por que pues os levantais vosotros sobre la congregacion de jehova i Dios llamo a moises de entre los hombres de aquel tiempo desde la zarza que ardia en el monte de Dios el senor lo llamo de en medio de la zarza y le dijo moises moises exodo 3 4 Dios le dice yo soy el Dios de tu padre Dios de abraham Dios de isaac y el Dios de jacob Dios lo llama para liberar a su pueblo exodo 3 1 10 podrias tener tu algun argumento para proponer que alguien mas podia estar alli en ese llamado sabemos del respaldo de Dios a moises enviando las plagas dandoles el alimento mana sacandoles agua de la pena haciendo que los egipcios les dieran fortunas al salir abriendoles el mar para pasar a salvo y llegar a la tierra de canaan a la tierra prometida numeros 16 2 core era un primo de aaron exodo 6 18 21 parece que por la familiaridad creyo tener algun derecho para levantarse contra Dios vs 3 se juntaron contra moises y aaron y les dijeron basta ya de vosotros es facil levantarse para demandar el poder la autoridad y el llamado que Dios le ha dado a otro pero debemos ver que en la vida de moises y aaron habia dolor muchos desvelos el tener que despegarse de sus hijos teniendolos lejos pasando noches y dias de excesivas oraciones pocos dias de buen comer y teniendo al mundo entero en contra pero cual era la envidia a las personas les gusta ser lideres el dia bueno en momentos agradables cuando esta el shekinah de jehova cuando Dios manifiesta su gloria su presencia pero eso no es tan frecuente como los problemas las murmuraciones y criticas las burlas el maltrato aun el fisico los desprecios etc te aseguro que core no iba a resistir tales ofensas core era inconstante y ahora era un rebelde no un justo que respeta la justicia de Dios exodo 3 4 11 ellos quieren liderato y moises les escucha y les dice que hacer les ordeno que core y sus rebeldes se presentaran al dia siguiente con incensarios esto os baste hijos de levi vs 6 7 por ser hijos de levi no habia derecho de levantarse en contra de lo santo quemar el incienso era una funcion sacerdotal si Dios no los reconocia como sacerdotes se los demostraria con su disgusto vs 12 15 entre los rebeldes estaban datan y abiram quienes se negaron a salir de sus tiendas cuando moises los llamo pero tambien eran rebeldes que le habian recriminado por su liderazgo exodo 3 8 hablaron de la promesa hecha anteriormente de que Dios los llevaria a una tierra que fluye leche y miel y se estaban quejando aqui con gran sarcasmo y burlas de que moises en cambio los habia sacado fuera de una tierra que si destilaba leche y miel refiriendose a egipto egipto era el lugar donde fueron esclavos maltratados con azotes y desprecio pero asi dejaban ver lo chismosos y engreidos que eran querian tener todo a la mano pero escondidos en sus cabanas eso es caracteristico de los que hablan y que no son como moises vs 4 cuando oyo esto moises se postro sobre su rostro eso es ser un hombre con un espiritu luchador no como los que tienen la palabra facil sazonada con el chisme debido a la envidia vs 16 22 46 los doscientos cincuenta rebeldes junto a core aparecieron ante el tabernaculo con sus incensarios y aaron tambien pues Dios dejaria ver su aprobacion de quien podia ejercer el sacerdocio numeros 16 19 la congregacion de israel tambien se junto tal vez en simpatia con core entonces la gloria de jehova aparecio a toda la congregacion Dios le hablo a moises y aaron que se apartasen de la congregacion antes que los consumiera sin embargo fue por la intercesion de moises y aaron que el juicio de jehova no se llevo a cabo vs 23 35 entonces de las tiendas donde vivian core datan y abiram Dios le dice a moises que le advierta a la congregacion para que se alejen de la cercania de ellas vs 28 30 si esos hombres rebeldes mueren con una muerte natural segun la suerte de todos los hombres entonces moises seria desacreditado mas si jehova milagrosamente causara que la tierra abriese su boca y los tragase entonces todo el pueblo conoceria que estos hombres habian sido culpables de rebelion vs 30 dicho estas palabras se abrio la tierra y trago a datan abiram core y sus familias que tambien murmuraron vs 36 40 los incensarios fueron santificados esto era para recordar que solo la familia de aaron tenia los privilegios sacerdotales vs 11 vs 41 50 vimos que moises y aaron fueron acusados de matar al pueblo de Dios pero Dios que en juicio los destruiria a todos no lo hizo porque esos dos varones moises y aaron fueron en clamor delante del tabernaculo de reunion para interceder por ellos mientras que los rebeldes habian cuestionado el sacerdocio de aaron vemos que fue el quien hizo expiacion por el pueblo y Dios que lo llamo le respondio y ceso la mortandad amen",
+    "alias_busqueda": [
+      "Dios, Dios De Los Espíritus De Toda Carne",
+      "Números",
+      "Números 16",
+      "Números 16:1-50",
+      "oración",
+      "juicio",
+      "arrepentimiento",
+      "perseverancia",
+      "Familia"
+    ]
+  },
+  "revision_manual": {
+    "requiere_revision": false,
+    "motivo": ""
+  },
+  "ui": {
+    "mostrar_credito_en_header": true,
+    "mostrar_numero_estudio": true,
+    "mostrar_fecha": true,
+    "mostrar_topicos": true,
+    "permitir_favorito": true,
+    "permitir_compartir": true
+  }
+}

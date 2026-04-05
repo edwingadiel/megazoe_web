@@ -1,0 +1,337 @@
+{
+  "id": "estudio-1043-nuestro-testimonio-dice-si-hay-fe-o-no-retiro",
+  "slug": "estudio-1043-nuestro-testimonio-dice-si-hay-fe-o-no-retiro",
+  "numero_estudio": 1043,
+  "tipo_estudio": "Iglesia en las casas",
+  "ministerio": {
+    "iglesia": "Iglesia Cristiana Mega Zoe",
+    "pastora": "Pastora Edith Cruz",
+    "credito_corto": "Iglesia Cristiana Mega Zoe · Pastora Edith Cruz",
+    "credito_largo": "Contenido original de Iglesia Cristiana Mega Zoe, conservando el crédito ministerial correspondiente a la Pastora Edith Cruz."
+  },
+  "identidad_editorial": {
+    "idioma": "es",
+    "fuente_original": "documento_word",
+    "archivo_origen": "/Users/edwingadiel/Desktop/Estudios en Word/Estudio #1043 Nuestro testimonio dice si hay fe o no -(Retiro) - Hebreos 12 1.docx",
+    "estado_revision": "procesado",
+    "version_schema": "1.0"
+  },
+  "encabezado": {
+    "titulo": "Nuestro Testimonio Dice Si Hay Fe o No (Retiro)",
+    "subtitulo": null,
+    "cita_principal": "Hebreos 12:1",
+    "resumen_corto": "Este estudio llama a huir de la tentación y caminar en fe."
+  },
+  "fechas": {
+    "fecha_inicio": "2019-07-30",
+    "fecha_fin": "2019-08-05",
+    "fecha_texto_original": "SEMANA DEL 30 JULIO @ 5 AGOSTO DEL 2019",
+    "ano": 2019
+  },
+  "clasificacion_biblica": {
+    "libro_principal": "Hebreos",
+    "capitulo_principal": 12,
+    "versiculos_principales": [
+      1
+    ],
+    "referencia_principal_normalizada": "Hebreos 12:1",
+    "testamento_principal": "Nuevo Testamento"
+  },
+  "clasificacion_tematica": {
+    "topicos": [
+      "Tentación",
+      "Fe",
+      "Satanás",
+      "Santidad",
+      "Testimonio cristiano"
+    ],
+    "keywords": [
+      "perseverancia",
+      "mundo",
+      "escrituras",
+      "consagración",
+      "concupiscencia",
+      "testimonio"
+    ]
+  },
+  "referencias_biblicas": [
+    {
+      "referencia": "Hebreos 12:1",
+      "referencia_normalizada": "Hebreos 12:1",
+      "libro": "Hebreos",
+      "capitulo": 12,
+      "versiculos": [
+        1
+      ],
+      "tipo": "principal",
+      "clickeable": true
+    },
+    {
+      "referencia": "Lucas 15:7",
+      "referencia_normalizada": "Lucas 15:7",
+      "libro": "Lucas",
+      "capitulo": 15,
+      "versiculos": [
+        7
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "1 Juan 2:15",
+      "referencia_normalizada": "1 Juan 2:15",
+      "libro": "1 Juan",
+      "capitulo": 2,
+      "versiculos": [
+        15
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Éxodo 32:26",
+      "referencia_normalizada": "Éxodo 32:26",
+      "libro": "Éxodo",
+      "capitulo": 32,
+      "versiculos": [
+        26
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Job 11:14",
+      "referencia_normalizada": "Job 11:14",
+      "libro": "Job",
+      "capitulo": 11,
+      "versiculos": [
+        14
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Ezequiel 28:12",
+      "referencia_normalizada": "Ezequiel 28:12",
+      "libro": "Ezequiel",
+      "capitulo": 28,
+      "versiculos": [
+        12
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "1 Corintios 9:24",
+      "referencia_normalizada": "1 Corintios 9:24",
+      "libro": "1 Corintios",
+      "capitulo": 9,
+      "versiculos": [
+        24
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Gálatas 5:7",
+      "referencia_normalizada": "Gálatas 5:7",
+      "libro": "Gálatas",
+      "capitulo": 5,
+      "versiculos": [
+        7
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Efesios 4:22",
+      "referencia_normalizada": "Efesios 4:22",
+      "libro": "Efesios",
+      "capitulo": 4,
+      "versiculos": [
+        22
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "2 Timoteo 4:7",
+      "referencia_normalizada": "2 Timoteo 4:7",
+      "libro": "2 Timoteo",
+      "capitulo": 4,
+      "versiculos": [
+        7
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Ezequiel 28:12-16",
+      "referencia_normalizada": "Ezequiel 28:12-16",
+      "libro": "Ezequiel",
+      "capitulo": 28,
+      "versiculos": [
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    }
+  ],
+  "contenido": {
+    "introduccion": null,
+    "secciones": [],
+    "contenido_completo": "Ellos, hombres y mujeres de fe, nos rodean como una gran \"nube de testigos.\" Son aquellos, que son descritos en el capítulo 11, los cuales sufrieron duramente por su \"lealtad al Señor\" pero que resistieron. Estos mantuvieron aquella firme perseverancia con sus \"menores privilegios.\" ¡Cuánto más deberíamos nosotros, a los que han llegado las mejores cosas del cristianismo!\n\nEllos nos rodean como una \"gran nube de testigos.\" Más bien, estos creyentes, de los cuales nos hablan las Escrituras de cómo vencieron, nos dan testimonio a nosotros mediante sus vidas de fe y paciencia poniendo ante nosotros un gran ejemplo que imitar.\n\n¿Dudas de que el cielo nos ve? Lucas 15:7 dice: \"Os digo que ASÍ HABRÁ MÁS GOZO EN EL CIELO por un pecador que se arrepiente…\" ¡En el cielo ven cuando un pecador se arrepiente! ¡Y se gozan!\n\nUno que corre no puede tener sobrepeso en los pies y esto no se refiere a pecado interno. ¡Es que hay que correr con los pies livianos! Si fuera peso de pecado interno ya se estaría descualificado, pues alguien con sobrepeso de pecado ya está descualificado para correr. Las muchas tentaciones vienen para estimular la concupiscencia y dice la Palabra de Dios: \"Si alguno ama al mundo, el amor del Padre no está en él.\" (1 Juan 2:15).\n\nA. Es que esta carrera demanda DISCIPLINA Y PACIENCIA para vivir con un testimonio de fe. Hemos de despojarnos de todo aquello que pesa y por eso puede estorbarnos:\n\nde posesiones materiales, posesiones económicas\n\nde vínculos familiares\n\ndel amor a la comodidad\n\n¡Si el corredor no se despoja de estos pesos nunca ganaría la carrera!\n\nB. ¡Veamos estos hombres grandes que tuvieron fe en el Señor y que nos dejaron como ejemplo sus testimonios de fe y por tal razón su pureza!\n\nMoisés (Éxodo 32:26) (\"…se puso Moisés a la puerta del campamento y dijo: ¿Quién está por Jehová? Júntese conmigo. Y se juntaron…\") ¡Hubo consagración! (Vs.29) \"…para que Él derrame bendición hoy sobre vosotros.\" (Vs.32) Rogó a Jehová Moisés, \"…y si no, ráeme (bórrame, dame de baja, elimíname) ahora de tu libro que has escrito.\"\n\nJob 11:14 \"Si alguna iniquidad…\" (maldad, perversidad, abuso o gran injusticia). La iniquidad es maldad, impiedad o culpa y su gravedad está por encima del pecado. Como tal, es una ofensa contra Dios, fundada en el desconocimiento y rechazo de las \"leyes del Señor.\" La iniquidad es un desprecio por las leyes de Dios, no hay sujeción a la autoridad o la ley del Señor. Ezequiel 28:12 y 17 \"Tú eras el sello de la perfección, lleno de sabiduría y acabado de hermosura… Se enalteció tu corazón a causa de tu hermosura… (engrandecerse, enorgullecerse).\" Aquí se refiere a Satanás.\n\n1 Corintios 9:24 \"Corred de tal manera que lo obtengáis.\" Debes abstenerte: (Vs.27) \"…sino que golpeo mi cuerpo, y lo pongo en servidumbre, no sea que habiendo sido heraldo para otros, yo mismo venga a ser eliminado.\"\n\nGálatas 5:7 \"Vosotros corrías bien; ¿quién os estorbó (les impidió, les puso dificultad) para no obedecer a la verdad? ¿No sigues la verdad? ¿Acaso, tienes tu mente como tu educadora para así desafiar las leyes de Dios y hacer la iniquidad?\n\nEfesios 4:22 En tu antigua manera en que vivías. No digas: \"¡Yo era así desde niño! ¡Y así sigo! ¿Quieres terminar con eso ya? Digo, si es que quieres, hoy está para ti el detenerte para terminar para siempre tu mal. ¡Si es que quieres! \"…despojaos del viejo hombre, que está viciado (con impulso hacia lo que se apetece) conforme a los deseos engañosos (a lo que no es la verdad)…\"\n\n2 Timoteo 4:7 \"He peleado la buena batalla, he acabado la carrera, he guardado la fe.\"\n\na. Pablo alcanzó la corona de justicia (Vs.8).\n\nb. Pablo nuestro gran hombre de fe y su testimonio: de azotes, naufragios, cárceles, huidas, hambre, enfermedad y de gente que lo traicionaban y lo dejaban (Vs.10). Su testimonio deja ver como luchaba para \"guardar la fe\" que es lo que lo llevaba a Dios. ¡Si pierdes la fe, entonces ya no crees, no se obedece, hay rebelión, llega la amargura a tu vida y te gobiernas tú y te condenas tú solito!\n\n1 Pedro2:11 \"…extranjeros y peregrinos…\" ¿Eso eres aquí en la tierra? ¿Por qué has de vivir tan placenteramente como hizo Satanás en su iniquidad fuera de las leyes de Dios, en una anarquía, en impureza, lujurias, fornicación, adulterios (en desorden y placeres ilimitados)? \"…os ruego…que os abstengáis de los deseos carnales que batallan contra el alma.\" Tu carne batalla contra tu alma. ¡Tú decides! ¡O peleas la buena batalla y ganas o no lo haces y pierdes! Ezequiel 28:12-16 Satanás era el sello de la perfección y se halló en él maldad. Nosotros somos perfectos cuando la sangre de Cristo nos limpia, pero cuando se camina mal y se vuelve atrás, sucederá lo mismo, \"…se halló en ti maldad.\" ¿Lucharás? ¿Guardarás la fe? ¡Tú decides!\n\n(Vs.16) \"A causa de la multitud de tus contrataciones fuiste lleno de iniquidad y pecaste…\" Satanás hizo contrataciones. Los hombres también las hacen con el mundo. Si haces contrato con el mundo es por el orgullo. ¿Eres del cielo? Si el orgullo es lo suficientemente mortal como para destruir a un ser tan poderoso y sabio, ¡cuánto más cuidado debemos tener nosotros los mortales para no andar independientemente del Señor! ¿Oras? ¿Lees y amas la Palabra? ¿Vives apartado del mundo? No hagas contrato (un acuerdo cuando dos o más se comprometen a cumplir una serie de condiciones), no hagas pacto, no te obligues con otros. ¡No hagas acuerdos con otros y no con el Señor! ¡Tu testimonio dice si hay fe o no! Amén.",
+    "contenido_renderizado": [
+      {
+        "tipo": "parrafo",
+        "texto": "Ellos, hombres y mujeres de fe, nos rodean como una gran \"nube de testigos.\" Son aquellos, que son descritos en el capítulo 11, los cuales sufrieron duramente por su \"lealtad al Señor\" pero que resistieron. Estos mantuvieron aquella firme perseverancia con sus \"menores privilegios.\" ¡Cuánto más deberíamos nosotros, a los que han llegado las mejores cosas del cristianismo!",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Ellos nos rodean como una \"gran nube de testigos.\" Más bien, estos creyentes, de los cuales nos hablan las Escrituras de cómo vencieron, nos dan testimonio a nosotros mediante sus vidas de fe y paciencia poniendo ante nosotros un gran ejemplo que imitar.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "¿Dudas de que el cielo nos ve? Lucas 15:7 dice: \"Os digo que ASÍ HABRÁ MÁS GOZO EN EL CIELO por un pecador que se arrepiente…\" ¡En el cielo ven cuando un pecador se arrepiente! ¡Y se gozan!",
+        "referencias_inline": [
+          "Lucas 15:7"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Uno que corre no puede tener sobrepeso en los pies y esto no se refiere a pecado interno. ¡Es que hay que correr con los pies livianos! Si fuera peso de pecado interno ya se estaría descualificado, pues alguien con sobrepeso de pecado ya está descualificado para correr. Las muchas tentaciones vienen para estimular la concupiscencia y dice la Palabra de Dios: \"Si alguno ama al mundo, el amor del Padre no está en él.\" (1 Juan 2:15).",
+        "referencias_inline": [
+          "1 Juan 2:15"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "A. Es que esta carrera demanda DISCIPLINA Y PACIENCIA para vivir con un testimonio de fe. Hemos de despojarnos de todo aquello que pesa y por eso puede estorbarnos:",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "de posesiones materiales, posesiones económicas",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "de vínculos familiares",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "del amor a la comodidad",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "¡Si el corredor no se despoja de estos pesos nunca ganaría la carrera!",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "B. ¡Veamos estos hombres grandes que tuvieron fe en el Señor y que nos dejaron como ejemplo sus testimonios de fe y por tal razón su pureza!",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Moisés (Éxodo 32:26) (\"…se puso Moisés a la puerta del campamento y dijo: ¿Quién está por Jehová? Júntese conmigo. Y se juntaron…\") ¡Hubo consagración! (Vs.29) \"…para que Él derrame bendición hoy sobre vosotros.\" (Vs.32) Rogó a Jehová Moisés, \"…y si no, ráeme (bórrame, dame de baja, elimíname) ahora de tu libro que has escrito.\"",
+        "referencias_inline": [
+          "Éxodo 32:26"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Job 11:14 \"Si alguna iniquidad…\" (maldad, perversidad, abuso o gran injusticia). La iniquidad es maldad, impiedad o culpa y su gravedad está por encima del pecado. Como tal, es una ofensa contra Dios, fundada en el desconocimiento y rechazo de las \"leyes del Señor.\" La iniquidad es un desprecio por las leyes de Dios, no hay sujeción a la autoridad o la ley del Señor. Ezequiel 28:12 y 17 \"Tú eras el sello de la perfección, lleno de sabiduría y acabado de hermosura… Se enalteció tu corazón a causa de tu hermosura… (engrandecerse, enorgullecerse).\" Aquí se refiere a Satanás.",
+        "referencias_inline": [
+          "Job 11:14",
+          "Ezequiel 28:12"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "1 Corintios 9:24 \"Corred de tal manera que lo obtengáis.\" Debes abstenerte: (Vs.27) \"…sino que golpeo mi cuerpo, y lo pongo en servidumbre, no sea que habiendo sido heraldo para otros, yo mismo venga a ser eliminado.\"",
+        "referencias_inline": [
+          "1 Corintios 9:24"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Gálatas 5:7 \"Vosotros corrías bien; ¿quién os estorbó (les impidió, les puso dificultad) para no obedecer a la verdad? ¿No sigues la verdad? ¿Acaso, tienes tu mente como tu educadora para así desafiar las leyes de Dios y hacer la iniquidad?",
+        "referencias_inline": [
+          "Gálatas 5:7"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Efesios 4:22 En tu antigua manera en que vivías. No digas: \"¡Yo era así desde niño! ¡Y así sigo! ¿Quieres terminar con eso ya? Digo, si es que quieres, hoy está para ti el detenerte para terminar para siempre tu mal. ¡Si es que quieres! \"…despojaos del viejo hombre, que está viciado (con impulso hacia lo que se apetece) conforme a los deseos engañosos (a lo que no es la verdad)…\"",
+        "referencias_inline": [
+          "Efesios 4:22"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "2 Timoteo 4:7 \"He peleado la buena batalla, he acabado la carrera, he guardado la fe.\"",
+        "referencias_inline": [
+          "2 Timoteo 4:7"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "a. Pablo alcanzó la corona de justicia (Vs.8).",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "b. Pablo nuestro gran hombre de fe y su testimonio: de azotes, naufragios, cárceles, huidas, hambre, enfermedad y de gente que lo traicionaban y lo dejaban (Vs.10). Su testimonio deja ver como luchaba para \"guardar la fe\" que es lo que lo llevaba a Dios. ¡Si pierdes la fe, entonces ya no crees, no se obedece, hay rebelión, llega la amargura a tu vida y te gobiernas tú y te condenas tú solito!",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "1 Pedro2:11 \"…extranjeros y peregrinos…\" ¿Eso eres aquí en la tierra? ¿Por qué has de vivir tan placenteramente como hizo Satanás en su iniquidad fuera de las leyes de Dios, en una anarquía, en impureza, lujurias, fornicación, adulterios (en desorden y placeres ilimitados)? \"…os ruego…que os abstengáis de los deseos carnales que batallan contra el alma.\" Tu carne batalla contra tu alma. ¡Tú decides! ¡O peleas la buena batalla y ganas o no lo haces y pierdes! Ezequiel 28:12-16 Satanás era el sello de la perfección y se halló en él maldad. Nosotros somos perfectos cuando la sangre de Cristo nos limpia, pero cuando se camina mal y se vuelve atrás, sucederá lo mismo, \"…se halló en ti maldad.\" ¿Lucharás? ¿Guardarás la fe? ¡Tú decides!",
+        "referencias_inline": [
+          "Ezequiel 28:12-16"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Vs.16) \"A causa de la multitud de tus contrataciones fuiste lleno de iniquidad y pecaste…\" Satanás hizo contrataciones. Los hombres también las hacen con el mundo. Si haces contrato con el mundo es por el orgullo. ¿Eres del cielo? Si el orgullo es lo suficientemente mortal como para destruir a un ser tan poderoso y sabio, ¡cuánto más cuidado debemos tener nosotros los mortales para no andar independientemente del Señor! ¿Oras? ¿Lees y amas la Palabra? ¿Vives apartado del mundo? No hagas contrato (un acuerdo cuando dos o más se comprometen a cumplir una serie de condiciones), no hagas pacto, no te obligues con otros. ¡No hagas acuerdos con otros y no con el Señor! ¡Tu testimonio dice si hay fe o no! Amén.",
+        "referencias_inline": []
+      }
+    ]
+  },
+  "busqueda": {
+    "texto_indexable": "nuestro testimonio dice si hay fe o no retiro hebreos 12 1 tentacion palabra de Dios satanas santidad testimonio cristiano perseverancia mundo escrituras consagracion concupiscencia testimonio ellos hombres y mujeres de fe nos rodean como una gran nube de testigos son aquellos que son descritos en el capitulo 11 los cuales sufrieron duramente por su lealtad al senor pero que resistieron estos mantuvieron aquella firme perseverancia con sus menores privilegios cuanto mas deberiamos nosotros a los que han llegado las mejores cosas del cristianismo ellos nos rodean como una gran nube de testigos mas bien estos creyentes de los cuales nos hablan las escrituras de como vencieron nos dan testimonio a nosotros mediante sus vidas de fe y paciencia poniendo ante nosotros un gran ejemplo que imitar dudas de que el cielo nos ve lucas 15 7 dice os digo que asi habra mas gozo en el cielo por un pecador que se arrepiente en el cielo ven cuando un pecador se arrepiente y se gozan uno que corre no puede tener sobrepeso en los pies y esto no se refiere a pecado interno es que hay que correr con los pies livianos si fuera peso de pecado interno ya se estaria descualificado pues alguien con sobrepeso de pecado ya esta descualificado para correr las muchas tentaciones vienen para estimular la concupiscencia y dice la palabra de Dios si alguno ama al mundo el amor del padre no esta en el 1 juan 2 15 a es que esta carrera demanda disciplina y paciencia para vivir con un testimonio de fe hemos de despojarnos de todo aquello que pesa y por eso puede estorbarnos de posesiones materiales posesiones economicas de vinculos familiares del amor a la comodidad si el corredor no se despoja de estos pesos nunca ganaria la carrera b veamos estos hombres grandes que tuvieron fe en el senor y que nos dejaron como ejemplo sus testimonios de fe y por tal razon su pureza moises exodo 32 26 se puso moises a la puerta del campamento y dijo quien esta por jehova juntese conmigo y se juntaron hubo consagracion vs 29 para que el derrame bendicion hoy sobre vosotros vs 32 rogo a jehova moises y si no raeme borrame dame de baja eliminame ahora de tu libro que has escrito job 11 14 si alguna iniquidad maldad perversidad abuso o gran injusticia la iniquidad es maldad impiedad o culpa y su gravedad esta por encima del pecado como tal es una ofensa contra Dios fundada en el desconocimiento y rechazo de las leyes del senor la iniquidad es un desprecio por las leyes de Dios no hay sujecion a la autoridad o la ley del senor ezequiel 28 12 y 17 tu eras el sello de la perfeccion lleno de sabiduria y acabado de hermosura se enaltecio tu corazon a causa de tu hermosura engrandecerse enorgullecerse aqui se refiere a satanas 1 corintios 9 24 corred de tal manera que lo obtengais debes abstenerte vs 27 sino que golpeo mi cuerpo y lo pongo en servidumbre no sea que habiendo sido heraldo para otros yo mismo venga a ser eliminado galatas 5 7 vosotros corrias bien quien os estorbo les impidio les puso dificultad para no obedecer a la verdad no sigues la verdad acaso tienes tu mente como tu educadora para asi desafiar las leyes de Dios y hacer la iniquidad efesios 4 22 en tu antigua manera en que vivias no digas yo era asi desde nino y asi sigo quieres terminar con eso ya digo si es que quieres hoy esta para ti el detenerte para terminar para siempre tu mal si es que quieres despojaos del viejo hombre que esta viciado con impulso hacia lo que se apetece conforme a los deseos enganosos a lo que no es la verdad 2 timoteo 4 7 he peleado la buena batalla he acabado la carrera he guardado la fe a pablo alcanzo la corona de justicia vs 8 b pablo nuestro gran hombre de fe y su testimonio de azotes naufragios carceles huidas hambre enfermedad y de gente que lo traicionaban y lo dejaban vs 10 su testimonio deja ver como luchaba para guardar la fe que es lo que lo llevaba a Dios si pierdes la fe entonces ya no crees no se obedece hay rebelion llega la amargura a tu vida y te gobiernas tu y te condenas tu solito 1 pedro2 11 extranjeros y peregrinos eso eres aqui en la tierra por que has de vivir tan placenteramente como hizo satanas en su iniquidad fuera de las leyes de Dios en una anarquia en impureza lujurias fornicacion adulterios en desorden y placeres ilimitados os ruego que os abstengais de los deseos carnales que batallan contra el alma tu carne batalla contra tu alma tu decides o peleas la buena batalla y ganas o no lo haces y pierdes ezequiel 28 12 16 satanas era el sello de la perfeccion y se hallo en el maldad nosotros somos perfectos cuando la sangre de cristo nos limpia pero cuando se camina mal y se vuelve atras sucedera lo mismo se hallo en ti maldad lucharas guardaras la fe tu decides vs 16 a causa de la multitud de tus contrataciones fuiste lleno de iniquidad y pecaste satanas hizo contrataciones los hombres tambien las hacen con el mundo si haces contrato con el mundo es por el orgullo eres del cielo si el orgullo es lo suficientemente mortal como para destruir a un ser tan poderoso y sabio cuanto mas cuidado debemos tener nosotros los mortales para no andar independientemente del senor oras lees y amas la palabra vives apartado del mundo no hagas contrato un acuerdo cuando dos o mas se comprometen a cumplir una serie de condiciones no hagas pacto no te obligues con otros no hagas acuerdos con otros y no con el senor tu testimonio dice si hay fe o no amen",
+    "alias_busqueda": [
+      "Nuestro Testimonio Dice Si Hay Fe o No (Retiro)",
+      "Hebreos",
+      "Hebreos 12",
+      "Hebreos 12:1",
+      "perseverancia",
+      "mundo",
+      "escrituras",
+      "consagración",
+      "Tentación",
+      "Palabra de Dios"
+    ]
+  },
+  "revision_manual": {
+    "requiere_revision": false,
+    "motivo": ""
+  },
+  "ui": {
+    "mostrar_credito_en_header": true,
+    "mostrar_numero_estudio": true,
+    "mostrar_fecha": true,
+    "mostrar_topicos": true,
+    "permitir_favorito": true,
+    "permitir_compartir": true
+  }
+}

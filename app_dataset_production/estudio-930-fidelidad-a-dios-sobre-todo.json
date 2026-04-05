@@ -1,0 +1,288 @@
+{
+  "id": "estudio-930-fidelidad-a-Dios-sobre-todo",
+  "slug": "estudio-930-fidelidad-a-Dios-sobre-todo",
+  "numero_estudio": 930,
+  "tipo_estudio": "Iglesia en las casas",
+  "ministerio": {
+    "iglesia": "Iglesia Cristiana Mega Zoe",
+    "pastora": "Pastora Edith Cruz",
+    "credito_corto": "Iglesia Cristiana Mega Zoe · Pastora Edith Cruz",
+    "credito_largo": "Contenido original de Iglesia Cristiana Mega Zoe, conservando el crédito ministerial correspondiente a la Pastora Edith Cruz."
+  },
+  "identidad_editorial": {
+    "idioma": "es",
+    "fuente_original": "documento_word",
+    "archivo_origen": "/Users/edwingadiel/Desktop/Estudios en Word/Estudio #930 Fidelidad a Dios Sobre Todo - Daniel 3 16-27.docx",
+    "estado_revision": "procesado",
+    "version_schema": "1.0"
+  },
+  "encabezado": {
+    "titulo": "Fidelidad A Dios Sobre Todo",
+    "subtitulo": null,
+    "cita_principal": "Daniel 3:16-27",
+    "resumen_corto": "Fidelidad A Dios Sobre Todo enseña a discernir la batalla espiritual y perseverar en la oración."
+  },
+  "fechas": {
+    "fecha_inicio": null,
+    "fecha_fin": null,
+    "fecha_texto_original": "",
+    "ano": null
+  },
+  "clasificacion_biblica": {
+    "libro_principal": "Daniel",
+    "capitulo_principal": 3,
+    "versiculos_principales": [
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27
+    ],
+    "referencia_principal_normalizada": "Daniel 3:16-27",
+    "testamento_principal": "Antiguo Testamento"
+  },
+  "clasificacion_tematica": {
+    "topicos": [
+      "Fidelidad de Dios",
+      "Guerra espiritual",
+      "Oración"
+    ],
+    "keywords": [
+      "santidad",
+      "arrepentimiento",
+      "perseverancia",
+      "fuego",
+      "arca"
+    ]
+  },
+  "referencias_biblicas": [
+    {
+      "referencia": "Daniel 3:16-27",
+      "referencia_normalizada": "Daniel 3:16-27",
+      "libro": "Daniel",
+      "capitulo": 3,
+      "versiculos": [
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27
+      ],
+      "tipo": "principal",
+      "clickeable": true
+    },
+    {
+      "referencia": "Daniel 3:8",
+      "referencia_normalizada": "Daniel 3:8",
+      "libro": "Daniel",
+      "capitulo": 3,
+      "versiculos": [
+        8
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Daniel 3:17,18",
+      "referencia_normalizada": "Daniel 3:17,18",
+      "libro": "Daniel",
+      "capitulo": 3,
+      "versiculos": [
+        17,
+        18
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Daniel 3:15",
+      "referencia_normalizada": "Daniel 3:15",
+      "libro": "Daniel",
+      "capitulo": 3,
+      "versiculos": [
+        15
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Daniel 3:19",
+      "referencia_normalizada": "Daniel 3:19",
+      "libro": "Daniel",
+      "capitulo": 3,
+      "versiculos": [
+        19
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Daniel 3:20,21",
+      "referencia_normalizada": "Daniel 3:20,21",
+      "libro": "Daniel",
+      "capitulo": 3,
+      "versiculos": [
+        20,
+        21
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Daniel 3:22",
+      "referencia_normalizada": "Daniel 3:22",
+      "libro": "Daniel",
+      "capitulo": 3,
+      "versiculos": [
+        22
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Daniel 3:24,25",
+      "referencia_normalizada": "Daniel 3:24,25",
+      "libro": "Daniel",
+      "capitulo": 3,
+      "versiculos": [
+        24,
+        25
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Daniel 3:26",
+      "referencia_normalizada": "Daniel 3:26",
+      "libro": "Daniel",
+      "capitulo": 3,
+      "versiculos": [
+        26
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Daniel 3:29",
+      "referencia_normalizada": "Daniel 3:29",
+      "libro": "Daniel",
+      "capitulo": 3,
+      "versiculos": [
+        29
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Daniel 3:27",
+      "referencia_normalizada": "Daniel 3:27",
+      "libro": "Daniel",
+      "capitulo": 3,
+      "versiculos": [
+        27
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    }
+  ],
+  "contenido": {
+    "introduccion": null,
+    "secciones": [],
+    "contenido_completo": "Maliciosamente es que llegan ante el rey Nabucodonosor unos varones caldeos para hablarle mal de Sadrac, Mesac y Abed-nego, los tres jóvenes judíos amigos de Daniel. Vinieron al rey con toda la mala intención. Eran muy astutos debido a la maldad que había en ellos. Aquellos hombres querían acabar con el pueblo de Dios (Daniel 3:8 \"Por esto en aquel tiempo algunos varones caldeos vinieron y acusaron maliciosamente a los judíos.\"). La envidia es lo que los motivaba para llegar a hablar de los jóvenes judíos con tan grande despecho, en verdad que, no era por respeto al rey que lo hacían. Entendamos bien que, ¡LA ENVIDIA ES LO QUE MOTIVA A MUCHOS A HABLAR ASÍ!\n\nDaniel 3:17,18 \"He aquí nuestro Dios a quien servimos puede librarnos del horno de fuego ardiendo; y de tu mano, oh rey, nos librará. Y si no, sepas, oh rey, que no serviremos a tus dioses, ni tampoco adoraremos la estatua que has levantado.\" El asunto es, que estos jóvenes sabían, qué si les sucedía lo que los malvados caldeos habían planeado, ellos ¡SERÍAN LIBRADOS POR Dios! \"Si es nuestra suerte ser echados en el horno, Nuestro Dios es capaz de librarnos.\" \"El horno no puede con El PODEROSO Dios que puede librarnos.\" \"Si es así, que voy para el horno, NUESTRO Dios ES EL ÚNICO QUE NOS PUEDE LIBRAR.\" \"Que arda lo que tú quieras, pero a mí no me llegará ni el humo a mi pelo.\"\n\nEl rey Nabucodonosor desafía a los tres muchachos (\"Ahora, pues, ¿estáis dispuestos para qué al oír el son de la bocina, de la flauta, del tamboril, del arpa, del salterio, de la zampoña y de todo instrumento de música, os postréis y adoréis la estatua que he hecho? Porque si no la adorareis, en la misma hora seréis echados en medio de un horno de fuego ardiendo; ¿y qué Dios será aquel que os libre de mis manos?\" Daniel 3:15). Pero, cuando el rey recibe la firme y valiente respuesta de los jóvenes, de que no se postrarán ni adorarán la estatua de oro, éste se enciende en grande ira (\"Entonces Nabucodonosor se llenó de ira, y se demudó el aspecto de su rostro contra Sadrac, Mesac y Abed-nego, y ordenó que el horno se calentase siete veces más de lo acostumbrado.\" Daniel 3:19). \"Y si no, sepas, oh rey…\" ¡Entérate rey Nabucodonosor que Dios es Dios, y le seré fiel a Él, cual sea el resultado de lo que tenga que vivir, porque Él no me deja NUNCA! Si nuestro Dios nos libra, como puede hacerlo, o si no, nunca adoraremos a tu Dios.\" Aunque Él los matara (que por Su causa tuvieran que morir), todavía confiarían en Él. Consideremos su juventud, su terrible situación como cautivos y desterrados en un país extraño, sin amigos y ahora ante un rey de poder absoluto, que nadie podía ir sobre él, ante la amenaza de una muerte tan horrible como la que les esperaba. Si estos jóvenes perseveraban en su fe en Dios, ello enaltecería la gracia de Dios la cual los llevó a través de semejante prueba.\n\n(Daniel 3:19) Se le demudó el rostro al rey Nabucodonosor, ahora echaba para afuera sus demonios cuando antes había disimulado su ira con la aparente generosidad de darles indulgencia o perdón si adoraban la estatua. Les había propuesto a Sadrac, Mesac y a Abed-nego que se inclinaran a la estatua al son de la música y eso sería un favor para ellos. Pero ahora la ira lo llena y se manifiesta en toda su cara. El rey ordena que calienten el horno \"siete veces\" más de lo que jamás se había calentado. Daniel 3:20,21 \"Y mandó a hombres muy vigorosos que tenía en su ejército, que atasen a Sadrac, Mesac y Abed-nego, para echarlos en el horno de fuego ardiendo. Entonces estos varones fueron atados con sus mantos, sus calzas, sus turbantes y sus vestidos, y fueron echados dentro del horno de fuego ardiendo.\" Para seguir la prueba, a los tres jóvenes les fueron atadas las manos y pies con todo y turbantes y vestidos. Así se hizo más grande el poder de Dios, pues con tanta ropa el fuego se encendería más rápido, pero ¡NI EL HUMO SE LES ACERCÓ! ¡La llama fue para el enemigo (Daniel 3:22)!\n\nPara asombro del rey aquellos tres jovencitos sin autoridad ni fuerzas caminaban dentro del horno de fuego sin sufrir ningún daño. ¡EL ÁNGEL DE SEÑOR BAJÓ AL HORNO! ¡Así camina el Señor Jesús con nosotros en \"nuestro fuego\", Él no nos deja nunca! \"Entonces el rey Nabucodonosor se espantó, y se levantó apresuradamente y dijo a los de su consejo: ¿No echaron a tres varones atados dentro del fuego? Ellos respondieron al rey: Es verdad, oh rey. Y él dijo: He aquí yo veo CUATRO varones sueltos, que se pasean en medio del fuego sin sufrir ningún daño; y el aspecto del CUARTO es semejante a hijo de los dioses.\" Daniel 3:24,25 Los jóvenes estaban ahora desatados. ¡Dios arrancó esta confesión de la misma boca de sus enemigos! El mismo rey dijo: \"Veo a cuatro, aunque solo tres fueron echados atados.\" Dice: \"Sueltos están.\" El rey había querido verlos sufrir lo peor, pero ahora los ve sin sufrir daño y hasta tuvo que ver a Dios con ellos. ¡Santos jóvenes, sueltos en medio del fuego y el Dios Poderoso con ellos! ¡Ellos se paseaban en el fuego! Nunca tuvieron que gritar: \"¡Sáquennos de aquí!\" ¡Ahora estaban en una nube de bendición juntamente con Cristo! No salían del fuego, esperaban con calma el momento cuando Dios los sacara; ellos eran prisioneros de Dios hasta que Dios los libertara totalmente.\n\nEl rey ahora reconoce que son siervos del Dios Altísimo (\"Entonces Nabucodonosor se acercó a la puerta del horno de fuego ardiendo, y dijo: Sadrac, Mesac y Abed-nego, siervos del Dios Altísimo…\" Daniel 3:26). Reconoció que Jehová era supremo sobre otros dioses (\"Por lo tanto, decreto que todo pueblo, nación o lengua que dijere blasfemia contra el Dios de Sadrac, Mesac y Abed-nego, sea descuartizado, y su casa convertida en muladar; por cuanto no hay Dios que pueda librar como éste.\" Daniel 3:29). Ni del cabello el fuego se pudo enseñorear, ni siquiera había en ellos olor a fuego (Daniel 3:27). Nada debe dejar un mal olor en nosotros, ni marcas ni olor de lo que vivimos, porque el que nos libra es ¡EL QUE LLEVA TODO BAJO SU PODER Y DOMINIO!\n\nHermano, deja ver en ti tu fidelidad a Él sobre todas las cosas, deja ver en ti una fe inquebrantable y descansa en Su pecho. ¡FIDELIDAD A Dios SOBRE TODO! Amén.",
+    "contenido_renderizado": [
+      {
+        "tipo": "parrafo",
+        "texto": "Maliciosamente es que llegan ante el rey Nabucodonosor unos varones caldeos para hablarle mal de Sadrac, Mesac y Abed-nego, los tres jóvenes judíos amigos de Daniel. Vinieron al rey con toda la mala intención. Eran muy astutos debido a la maldad que había en ellos. Aquellos hombres querían acabar con el pueblo de Dios (Daniel 3:8 \"Por esto en aquel tiempo algunos varones caldeos vinieron y acusaron maliciosamente a los judíos.\"). La envidia es lo que los motivaba para llegar a hablar de los jóvenes judíos con tan grande despecho, en verdad que, no era por respeto al rey que lo hacían. Entendamos bien que, ¡LA ENVIDIA ES LO QUE MOTIVA A MUCHOS A HABLAR ASÍ!",
+        "referencias_inline": [
+          "Daniel 3:8"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Daniel 3:17,18 \"He aquí nuestro Dios a quien servimos puede librarnos del horno de fuego ardiendo; y de tu mano, oh rey, nos librará. Y si no, sepas, oh rey, que no serviremos a tus dioses, ni tampoco adoraremos la estatua que has levantado.\" El asunto es, que estos jóvenes sabían, qué si les sucedía lo que los malvados caldeos habían planeado, ellos ¡SERÍAN LIBRADOS POR Dios! \"Si es nuestra suerte ser echados en el horno, Nuestro Dios es capaz de librarnos.\" \"El horno no puede con El PODEROSO Dios que puede librarnos.\" \"Si es así, que voy para el horno, NUESTRO Dios ES EL ÚNICO QUE NOS PUEDE LIBRAR.\" \"Que arda lo que tú quieras, pero a mí no me llegará ni el humo a mi pelo.\"",
+        "referencias_inline": [
+          "Daniel 3:17,18"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "El rey Nabucodonosor desafía a los tres muchachos (\"Ahora, pues, ¿estáis dispuestos para qué al oír el son de la bocina, de la flauta, del tamboril, del arpa, del salterio, de la zampoña y de todo instrumento de música, os postréis y adoréis la estatua que he hecho? Porque si no la adorareis, en la misma hora seréis echados en medio de un horno de fuego ardiendo; ¿y qué Dios será aquel que os libre de mis manos?\" Daniel 3:15). Pero, cuando el rey recibe la firme y valiente respuesta de los jóvenes, de que no se postrarán ni adorarán la estatua de oro, éste se enciende en grande ira (\"Entonces Nabucodonosor se llenó de ira, y se demudó el aspecto de su rostro contra Sadrac, Mesac y Abed-nego, y ordenó que el horno se calentase siete veces más de lo acostumbrado.\" Daniel 3:19). \"Y si no, sepas, oh rey…\" ¡Entérate rey Nabucodonosor que Dios es Dios, y le seré fiel a Él, cual sea el resultado de lo que tenga que vivir, porque Él no me deja NUNCA! Si nuestro Dios nos libra, como puede hacerlo, o si no, nunca adoraremos a tu Dios.\" Aunque Él los matara (que por Su causa tuvieran que morir), todavía confiarían en Él. Consideremos su juventud, su terrible situación como cautivos y desterrados en un país extraño, sin amigos y ahora ante un rey de poder absoluto, que nadie podía ir sobre él, ante la amenaza de una muerte tan horrible como la que les esperaba. Si estos jóvenes perseveraban en su fe en Dios, ello enaltecería la gracia de Dios la cual los llevó a través de semejante prueba.",
+        "referencias_inline": [
+          "Daniel 3:15",
+          "Daniel 3:19"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Daniel 3:19) Se le demudó el rostro al rey Nabucodonosor, ahora echaba para afuera sus demonios cuando antes había disimulado su ira con la aparente generosidad de darles indulgencia o perdón si adoraban la estatua. Les había propuesto a Sadrac, Mesac y a Abed-nego que se inclinaran a la estatua al son de la música y eso sería un favor para ellos. Pero ahora la ira lo llena y se manifiesta en toda su cara. El rey ordena que calienten el horno \"siete veces\" más de lo que jamás se había calentado. Daniel 3:20,21 \"Y mandó a hombres muy vigorosos que tenía en su ejército, que atasen a Sadrac, Mesac y Abed-nego, para echarlos en el horno de fuego ardiendo. Entonces estos varones fueron atados con sus mantos, sus calzas, sus turbantes y sus vestidos, y fueron echados dentro del horno de fuego ardiendo.\" Para seguir la prueba, a los tres jóvenes les fueron atadas las manos y pies con todo y turbantes y vestidos. Así se hizo más grande el poder de Dios, pues con tanta ropa el fuego se encendería más rápido, pero ¡NI EL HUMO SE LES ACERCÓ! ¡La llama fue para el enemigo (Daniel 3:22)!",
+        "referencias_inline": [
+          "Daniel 3:19",
+          "Daniel 3:20,21",
+          "Daniel 3:22"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Para asombro del rey aquellos tres jovencitos sin autoridad ni fuerzas caminaban dentro del horno de fuego sin sufrir ningún daño. ¡EL ÁNGEL DE SEÑOR BAJÓ AL HORNO! ¡Así camina el Señor Jesús con nosotros en \"nuestro fuego\", Él no nos deja nunca! \"Entonces el rey Nabucodonosor se espantó, y se levantó apresuradamente y dijo a los de su consejo: ¿No echaron a tres varones atados dentro del fuego? Ellos respondieron al rey: Es verdad, oh rey. Y él dijo: He aquí yo veo CUATRO varones sueltos, que se pasean en medio del fuego sin sufrir ningún daño; y el aspecto del CUARTO es semejante a hijo de los dioses.\" Daniel 3:24,25 Los jóvenes estaban ahora desatados. ¡Dios arrancó esta confesión de la misma boca de sus enemigos! El mismo rey dijo: \"Veo a cuatro, aunque solo tres fueron echados atados.\" Dice: \"Sueltos están.\" El rey había querido verlos sufrir lo peor, pero ahora los ve sin sufrir daño y hasta tuvo que ver a Dios con ellos. ¡Santos jóvenes, sueltos en medio del fuego y el Dios Poderoso con ellos! ¡Ellos se paseaban en el fuego! Nunca tuvieron que gritar: \"¡Sáquennos de aquí!\" ¡Ahora estaban en una nube de bendición juntamente con Cristo! No salían del fuego, esperaban con calma el momento cuando Dios los sacara; ellos eran prisioneros de Dios hasta que Dios los libertara totalmente.",
+        "referencias_inline": [
+          "Daniel 3:24,25"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "El rey ahora reconoce que son siervos del Dios Altísimo (\"Entonces Nabucodonosor se acercó a la puerta del horno de fuego ardiendo, y dijo: Sadrac, Mesac y Abed-nego, siervos del Dios Altísimo…\" Daniel 3:26). Reconoció que Jehová era supremo sobre otros dioses (\"Por lo tanto, decreto que todo pueblo, nación o lengua que dijere blasfemia contra el Dios de Sadrac, Mesac y Abed-nego, sea descuartizado, y su casa convertida en muladar; por cuanto no hay Dios que pueda librar como éste.\" Daniel 3:29). Ni del cabello el fuego se pudo enseñorear, ni siquiera había en ellos olor a fuego (Daniel 3:27). Nada debe dejar un mal olor en nosotros, ni marcas ni olor de lo que vivimos, porque el que nos libra es ¡EL QUE LLEVA TODO BAJO SU PODER Y DOMINIO!",
+        "referencias_inline": [
+          "Daniel 3:26",
+          "Daniel 3:29",
+          "Daniel 3:27"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Hermano, deja ver en ti tu fidelidad a Él sobre todas las cosas, deja ver en ti una fe inquebrantable y descansa en Su pecho. ¡FIDELIDAD A Dios SOBRE TODO! Amén.",
+        "referencias_inline": []
+      }
+    ]
+  },
+  "busqueda": {
+    "texto_indexable": "fidelidad a Dios sobre todo daniel 3 16 27 fidelidad de Dios guerra espiritual oracion santidad arrepentimiento perseverancia fuego arca maliciosamente es que llegan ante el rey nabucodonosor unos varones caldeos para hablarle mal de sadrac mesac y abed nego los tres jovenes judios amigos de daniel vinieron al rey con toda la mala intencion eran muy astutos debido a la maldad que habia en ellos aquellos hombres querian acabar con el pueblo de Dios daniel 3 8 por esto en aquel tiempo algunos varones caldeos vinieron y acusaron maliciosamente a los judios la envidia es lo que los motivaba para llegar a hablar de los jovenes judios con tan grande despecho en verdad que no era por respeto al rey que lo hacian entendamos bien que la envidia es lo que motiva a muchos a hablar asi daniel 3 17 18 he aqui nuestro Dios a quien servimos puede librarnos del horno de fuego ardiendo y de tu mano oh rey nos librara y si no sepas oh rey que no serviremos a tus dioses ni tampoco adoraremos la estatua que has levantado el asunto es que estos jovenes sabian que si les sucedia lo que los malvados caldeos habian planeado ellos serian librados por Dios si es nuestra suerte ser echados en el horno nuestro Dios es capaz de librarnos el horno no puede con el poderoso Dios que puede librarnos si es asi que voy para el horno nuestro Dios es el unico que nos puede librar que arda lo que tu quieras pero a mi no me llegara ni el humo a mi pelo el rey nabucodonosor desafia a los tres muchachos ahora pues estais dispuestos para que al oir el son de la bocina de la flauta del tamboril del arpa del salterio de la zampona y de todo instrumento de musica os postreis y adoreis la estatua que he hecho porque si no la adorareis en la misma hora sereis echados en medio de un horno de fuego ardiendo y que Dios sera aquel que os libre de mis manos daniel 3 15 pero cuando el rey recibe la firme y valiente respuesta de los jovenes de que no se postraran ni adoraran la estatua de oro este se enciende en grande ira entonces nabucodonosor se lleno de ira y se demudo el aspecto de su rostro contra sadrac mesac y abed nego y ordeno que el horno se calentase siete veces mas de lo acostumbrado daniel 3 19 y si no sepas oh rey enterate rey nabucodonosor que Dios es Dios y le sere fiel a el cual sea el resultado de lo que tenga que vivir porque el no me deja nunca si nuestro Dios nos libra como puede hacerlo o si no nunca adoraremos a tu Dios aunque el los matara que por su causa tuvieran que morir todavia confiarian en el consideremos su juventud su terrible situacion como cautivos y desterrados en un pais extrano sin amigos y ahora ante un rey de poder absoluto que nadie podia ir sobre el ante la amenaza de una muerte tan horrible como la que les esperaba si estos jovenes perseveraban en su fe en Dios ello enalteceria la gracia de Dios la cual los llevo a traves de semejante prueba daniel 3 19 se le demudo el rostro al rey nabucodonosor ahora echaba para afuera sus demonios cuando antes habia disimulado su ira con la aparente generosidad de darles indulgencia o perdon si adoraban la estatua les habia propuesto a sadrac mesac y a abed nego que se inclinaran a la estatua al son de la musica y eso seria un favor para ellos pero ahora la ira lo llena y se manifiesta en toda su cara el rey ordena que calienten el horno siete veces mas de lo que jamas se habia calentado daniel 3 20 21 y mando a hombres muy vigorosos que tenia en su ejercito que atasen a sadrac mesac y abed nego para echarlos en el horno de fuego ardiendo entonces estos varones fueron atados con sus mantos sus calzas sus turbantes y sus vestidos y fueron echados dentro del horno de fuego ardiendo para seguir la prueba a los tres jovenes les fueron atadas las manos y pies con todo y turbantes y vestidos asi se hizo mas grande el poder de Dios pues con tanta ropa el fuego se encenderia mas rapido pero ni el humo se les acerco la llama fue para el enemigo daniel 3 22 para asombro del rey aquellos tres jovencitos sin autoridad ni fuerzas caminaban dentro del horno de fuego sin sufrir ningun dano el angel de senor bajo al horno asi camina el senor Jesus con nosotros en nuestro fuego el no nos deja nunca entonces el rey nabucodonosor se espanto y se levanto apresuradamente y dijo a los de su consejo no echaron a tres varones atados dentro del fuego ellos respondieron al rey es verdad oh rey y el dijo he aqui yo veo cuatro varones sueltos que se pasean en medio del fuego sin sufrir ningun dano y el aspecto del cuarto es semejante a hijo de los dioses daniel 3 24 25 los jovenes estaban ahora desatados Dios arranco esta confesion de la misma boca de sus enemigos el mismo rey dijo veo a cuatro aunque solo tres fueron echados atados dice sueltos estan el rey habia querido verlos sufrir lo peor pero ahora los ve sin sufrir dano y hasta tuvo que ver a Dios con ellos santos jovenes sueltos en medio del fuego y el Dios poderoso con ellos ellos se paseaban en el fuego nunca tuvieron que gritar saquennos de aqui ahora estaban en una nube de bendicion juntamente con cristo no salian del fuego esperaban con calma el momento cuando Dios los sacara ellos eran prisioneros de Dios hasta que Dios los libertara totalmente el rey ahora reconoce que son siervos del Dios altisimo entonces nabucodonosor se acerco a la puerta del horno de fuego ardiendo y dijo sadrac mesac y abed nego siervos del Dios altisimo daniel 3 26 reconocio que jehova era supremo sobre otros dioses por lo tanto decreto que todo pueblo nacion o lengua que dijere blasfemia contra el Dios de sadrac mesac y abed nego sea descuartizado y su casa convertida en muladar por cuanto no hay Dios que pueda librar como este daniel 3 29 ni del cabello el fuego se pudo ensenorear ni siquiera habia en ellos olor a fuego daniel 3 27 nada debe dejar un mal olor en nosotros ni marcas ni olor de lo que vivimos porque el que nos libra es el que lleva todo bajo su poder y dominio hermano deja ver en ti tu fidelidad a el sobre todas las cosas deja ver en ti una fe inquebrantable y descansa en su pecho fidelidad a Dios sobre todo amen",
+    "alias_busqueda": [
+      "Fidelidad A Dios Sobre Todo",
+      "Daniel",
+      "Daniel 3",
+      "Daniel 3:16-27",
+      "santidad",
+      "arrepentimiento",
+      "perseverancia",
+      "fuego",
+      "Fidelidad de Dios",
+      "Guerra espiritual"
+    ]
+  },
+  "revision_manual": {
+    "requiere_revision": false,
+    "motivo": ""
+  },
+  "ui": {
+    "mostrar_credito_en_header": true,
+    "mostrar_numero_estudio": true,
+    "mostrar_fecha": true,
+    "mostrar_topicos": true,
+    "permitir_favorito": true,
+    "permitir_compartir": true
+  }
+}

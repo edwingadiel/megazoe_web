@@ -1,0 +1,276 @@
+{
+  "id": "estudio-851-buscando-al-que-vive",
+  "slug": "estudio-851-buscando-al-que-vive",
+  "numero_estudio": 851,
+  "tipo_estudio": "Iglesia en las casas",
+  "ministerio": {
+    "iglesia": "Iglesia Cristiana Mega Zoe",
+    "pastora": "Pastora Edith Cruz",
+    "credito_corto": "Iglesia Cristiana Mega Zoe · Pastora Edith Cruz",
+    "credito_largo": "Contenido original de Iglesia Cristiana Mega Zoe, conservando el crédito ministerial correspondiente a la Pastora Edith Cruz."
+  },
+  "identidad_editorial": {
+    "idioma": "es",
+    "fuente_original": "documento_word",
+    "archivo_origen": "/Users/edwingadiel/Desktop/Estudios en Word/Estudio #851 Buscando...al que vive - Mateo 28 1-10, Lucas 24 1-12.docx",
+    "estado_revision": "procesado",
+    "version_schema": "1.0"
+  },
+  "encabezado": {
+    "titulo": "Buscando Al Que Vive",
+    "subtitulo": null,
+    "cita_principal": "Mateo 28:1-10",
+    "resumen_corto": "Buscando Al Que Vive llama a permanecer como discípulos de Jesús y atender la Palabra de Dios."
+  },
+  "fechas": {
+    "fecha_inicio": "2015-03-24",
+    "fecha_fin": "2015-03-30",
+    "fecha_texto_original": "SEMANA DEL 24 @ 30 MARZO DE 2015",
+    "ano": 2015
+  },
+  "clasificacion_biblica": {
+    "libro_principal": "Mateo",
+    "capitulo_principal": 28,
+    "versiculos_principales": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "referencia_principal_normalizada": "Mateo 28:1-10",
+    "testamento_principal": "Nuevo Testamento"
+  },
+  "clasificacion_tematica": {
+    "topicos": [
+      "Discipulado",
+      "Palabra de Dios",
+      "Resurrección de Cristo"
+    ],
+    "keywords": [
+      "verdad",
+      "santidad",
+      "arrepentimiento",
+      "perseverancia",
+      "mundo"
+    ]
+  },
+  "referencias_biblicas": [
+    {
+      "referencia": "Mateo 28:1-10",
+      "referencia_normalizada": "Mateo 28:1-10",
+      "libro": "Mateo",
+      "capitulo": 28,
+      "versiculos": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "tipo": "principal",
+      "clickeable": true
+    },
+    {
+      "referencia": "Lucas 24:1-12",
+      "referencia_normalizada": "Lucas 24:1-12",
+      "libro": "Lucas",
+      "capitulo": 24,
+      "versiculos": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Lucas 24:43-45",
+      "referencia_normalizada": "Lucas 24:43-45",
+      "libro": "Lucas",
+      "capitulo": 24,
+      "versiculos": [
+        43,
+        44,
+        45
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Lucas 24:16",
+      "referencia_normalizada": "Lucas 24:16",
+      "libro": "Lucas",
+      "capitulo": 24,
+      "versiculos": [
+        16
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Lucas 24:1, 2",
+      "referencia_normalizada": "Lucas 24:1,2",
+      "libro": "Lucas",
+      "capitulo": 24,
+      "versiculos": [
+        1,
+        2
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Lucas 24:6",
+      "referencia_normalizada": "Lucas 24:6",
+      "libro": "Lucas",
+      "capitulo": 24,
+      "versiculos": [
+        6
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Lucas 24:9",
+      "referencia_normalizada": "Lucas 24:9",
+      "libro": "Lucas",
+      "capitulo": 24,
+      "versiculos": [
+        9
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Juan 20:1, 4-9",
+      "referencia_normalizada": "Juan 20:1,4-9",
+      "libro": "Juan",
+      "capitulo": 20,
+      "versiculos": [
+        1,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Lucas 24:5, 6",
+      "referencia_normalizada": "Lucas 24:5,6",
+      "libro": "Lucas",
+      "capitulo": 24,
+      "versiculos": [
+        5,
+        6
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Juan 16:23",
+      "referencia_normalizada": "Juan 16:23",
+      "libro": "Juan",
+      "capitulo": 16,
+      "versiculos": [
+        23
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    }
+  ],
+  "contenido": {
+    "introduccion": null,
+    "secciones": [],
+    "contenido_completo": "En Lucas 24:43-45 leemos que Jesús les abrió el entendimiento a sus discípulos para que le reconociesen y entendiesen lo tocante a su muerte y resurrección, pues estas cosas les estaban veladas (ocultas, escondidas) (Lucas 24:16 \"Mas los ojos de ellos estaban velados, para que no le conociesen.\"). ¡Esto es lo glorioso del Maestro! ¡Cuán inmenso es su amor! Jesús estaba triunfante en los momentos en que se escriben estos versículos, pues ¡se había levantado de entre los muertos! El Señor ¡había resucitado! Hay que ver que antes de que ocurriera este maravilloso evento Jesús quería enseñarles a sus discípulos sobre la disposición para ir a la cruz. Jesús había dominado al demonio durante su vida y ministerio. Y precisamente, cuando estaba siendo admirado por la gente y dispuestos a aclamarle y a seguirle, Jesús les hace saber que: ¡SE DIRIGE A LA MUERTE! Al Señor le habría sido fácil seguir por el camino del éxito popular; pero no fue así, sino que su grandeza se vio en todo lo que rechazó, escogiendo antes: ¡LA CRUZ! No queriendo evitar una dolorosa y trágica cruz. Esa cruz se la aconsejó también tomar y llevar a sus seguidores. En la cruz padecería dolor y muerte, pero no se quedarían las cosas así, a los tres días se levantaría victorioso en la ¡RESURRECCIÓN! Así que Jesús estaba claro de que moriría y resucitaría.\n\nEn los versículos dice que nuestro Señor ya había resucitado. Así que: ¡YA ÉL VIVE; NO ESTÁ MUERTO! El domingo cristiano (pues para los creyentes ya el día principal no es el sábado) las mujeres que amaban a Jesús fueron a la tumba. La razón para ellas ir allí era terminar los quehaceres del amor por su Maestro. Querían embalsamar con aromas y ungüentos el cuerpo muerto de su amado. Aquellas mujeres se movieron con prisa, con amor, con entrega, con esfuerzo; lo dejaron todo para llegar hasta la tumba fría con el propósito de que el Maestro no se pudriera; ¡mi Amado! ¡Qué asombro para ellas! ¡La tumba estaba abierta! La preocupación de María Magdalena sería aquella terrible piedra que le cerraba el paso para entrar a la tumba y llegar hasta el Maestro y llenarlo de ungüentos y especias aromáticas. La grande piedra a la entrada de la tumba había sido quitada por unos poderosos ángeles a quienes les tocaba hacer tal trabajo para su Señor (Lucas 24:1, 2 \"El primer día de la semana, muy de mañana, vinieron al sepulcro trayendo las especias aromáticas que habían preparado y algunas otras mujeres con ellas. Y hallaron removida la piedra del sepulcro…\"). Había allí uno o dos ángeles; más lo grande es: ¡QUE LA TUMBA ESTABA VACÍA! (Lucas 24:6 \"No está aquí, sino que ha resucitado. Acordaos de lo que os habló…\") ¡Aquellas fueron las mujeres que llevaron a los discípulos y al mundo entero la mejor noticia de la historia! (Lucas 24:9 \"…y volviendo del sepulcro, dieron nuevas de todas estas cosas a los once y a todos los demás.)\n\nPedro y Juan salen corriendo hacia el sepulcro (Juan 20:1, 4-9). Aún no habían entendido la Escritura que era necesario que Él resucitase de los muertos. Todavía esa palabra no había tenido revelación para las vidas de ellos. Pero, en aquel glorioso momento solo a Pedro y Juan les sería revelada. Pedro sale corriendo y Juan por el impulso de Pedro le sigue. Aunque Juan corriera más, al momento de entrar al sepulcro lo hizo Pedro. Luego, Juan con reservas entró medio cauteloso. Con aquella experiencia Pedro, como una roca, fue creciendo para su Señor. Para ¡el que vive! La pregunta inevitable y desafiante de la historia es la que los ángeles mensajeros le dirigieron a las mujeres: \"…les dijeron: ¿Por qué buscáis entre los muertos AL QUE VIVE? No está aquí, sino que ha resucitado.\" (Lucas 24:5, 6)\n\nJesús es una realidad viviente en nuestro presente. ¿Cómo lo ves tú? ¿Lo ves como a alguien de poder que te sana, que te alivia, que te lava, te ayuda, te protege y te conviene, pero luego actúas con Él como si estuviera muerto? ¿Será que lo dejas atrás, que no te santificas para Él, que no es el primero en tu vida? ¿Es Dios en tu vida? ¡Él vive! ¡Su muerte fue para regalar a tu vida el todo! ¡Porque Él es el todo y lo llena todo! El Padre llevó a Jesús a una conquista de poder, de autoridad sobre todo principado y señorío y sobre todo nombre que se nombra debajo del cielo. Nosotros que somos el cuerpo de Cristo (la iglesia) tenemos la plenitud, abundancia y totalidad gracias a Él. Esto quiere decir, nada más y nada menos, que el plan de Dios para un mundo hundido en el pecado ¡depende de la Iglesia! Pablo enseña que Jesús está llenando paulatinamente (pausado, poco a poco, lento) todas las cosas en todos los lugares y que esta acción la está desarrollando la Iglesia. Jesús cuenta contigo.\n\nJesús es el modelo y ejemplo perfecto. Jesús es el que nos guía y fortalece para que podamos seguir su ejemplo. Es su presencia que nos ayuda a vivir. Puede que estés escaso de todo esto porque quizás estás buscando ¡ENTRE LOS MUERTOS AL QUE ESTÁ VIVO! Busca, ama y sigue al que está vivo. En el nombre de Jesús se echan fuera los demonios, se ora al Padre, se ora por los enfermos, todo lo que se pida al Padre lo dará. (Juan 16:23 \"…de cierto os digo, que todo cuanto pidiereis al Padre en mi nombre, os lo dará.\") ¡El Jesús vivo está con el Padre! ¡No lo busques entre los muertos y regocíjate en tu Dios! Amén.",
+    "contenido_renderizado": [
+      {
+        "tipo": "parrafo",
+        "texto": "En Lucas 24:43-45 leemos que Jesús les abrió el entendimiento a sus discípulos para que le reconociesen y entendiesen lo tocante a su muerte y resurrección, pues estas cosas les estaban veladas (ocultas, escondidas) (Lucas 24:16 \"Mas los ojos de ellos estaban velados, para que no le conociesen.\"). ¡Esto es lo glorioso del Maestro! ¡Cuán inmenso es su amor! Jesús estaba triunfante en los momentos en que se escriben estos versículos, pues ¡se había levantado de entre los muertos! El Señor ¡había resucitado! Hay que ver que antes de que ocurriera este maravilloso evento Jesús quería enseñarles a sus discípulos sobre la disposición para ir a la cruz. Jesús había dominado al demonio durante su vida y ministerio. Y precisamente, cuando estaba siendo admirado por la gente y dispuestos a aclamarle y a seguirle, Jesús les hace saber que: ¡SE DIRIGE A LA MUERTE! Al Señor le habría sido fácil seguir por el camino del éxito popular; pero no fue así, sino que su grandeza se vio en todo lo que rechazó, escogiendo antes: ¡LA CRUZ! No queriendo evitar una dolorosa y trágica cruz. Esa cruz se la aconsejó también tomar y llevar a sus seguidores. En la cruz padecería dolor y muerte, pero no se quedarían las cosas así, a los tres días se levantaría victorioso en la ¡RESURRECCIÓN! Así que Jesús estaba claro de que moriría y resucitaría.",
+        "referencias_inline": [
+          "Lucas 24:43-45",
+          "Lucas 24:16"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "En los versículos dice que nuestro Señor ya había resucitado. Así que: ¡YA ÉL VIVE; NO ESTÁ MUERTO! El domingo cristiano (pues para los creyentes ya el día principal no es el sábado) las mujeres que amaban a Jesús fueron a la tumba. La razón para ellas ir allí era terminar los quehaceres del amor por su Maestro. Querían embalsamar con aromas y ungüentos el cuerpo muerto de su amado. Aquellas mujeres se movieron con prisa, con amor, con entrega, con esfuerzo; lo dejaron todo para llegar hasta la tumba fría con el propósito de que el Maestro no se pudriera; ¡mi Amado! ¡Qué asombro para ellas! ¡La tumba estaba abierta! La preocupación de María Magdalena sería aquella terrible piedra que le cerraba el paso para entrar a la tumba y llegar hasta el Maestro y llenarlo de ungüentos y especias aromáticas. La grande piedra a la entrada de la tumba había sido quitada por unos poderosos ángeles a quienes les tocaba hacer tal trabajo para su Señor (Lucas 24:1, 2 \"El primer día de la semana, muy de mañana, vinieron al sepulcro trayendo las especias aromáticas que habían preparado y algunas otras mujeres con ellas. Y hallaron removida la piedra del sepulcro…\"). Había allí uno o dos ángeles; más lo grande es: ¡QUE LA TUMBA ESTABA VACÍA! (Lucas 24:6 \"No está aquí, sino que ha resucitado. Acordaos de lo que os habló…\") ¡Aquellas fueron las mujeres que llevaron a los discípulos y al mundo entero la mejor noticia de la historia! (Lucas 24:9 \"…y volviendo del sepulcro, dieron nuevas de todas estas cosas a los once y a todos los demás.)",
+        "referencias_inline": [
+          "Lucas 24:1,2",
+          "Lucas 24:6",
+          "Lucas 24:9"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Pedro y Juan salen corriendo hacia el sepulcro (Juan 20:1, 4-9). Aún no habían entendido la Escritura que era necesario que Él resucitase de los muertos. Todavía esa palabra no había tenido revelación para las vidas de ellos. Pero, en aquel glorioso momento solo a Pedro y Juan les sería revelada. Pedro sale corriendo y Juan por el impulso de Pedro le sigue. Aunque Juan corriera más, al momento de entrar al sepulcro lo hizo Pedro. Luego, Juan con reservas entró medio cauteloso. Con aquella experiencia Pedro, como una roca, fue creciendo para su Señor. Para ¡el que vive! La pregunta inevitable y desafiante de la historia es la que los ángeles mensajeros le dirigieron a las mujeres: \"…les dijeron: ¿Por qué buscáis entre los muertos AL QUE VIVE? No está aquí, sino que ha resucitado.\" (Lucas 24:5, 6)",
+        "referencias_inline": [
+          "Juan 20:1,4-9",
+          "Lucas 24:5,6"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Jesús es una realidad viviente en nuestro presente. ¿Cómo lo ves tú? ¿Lo ves como a alguien de poder que te sana, que te alivia, que te lava, te ayuda, te protege y te conviene, pero luego actúas con Él como si estuviera muerto? ¿Será que lo dejas atrás, que no te santificas para Él, que no es el primero en tu vida? ¿Es Dios en tu vida? ¡Él vive! ¡Su muerte fue para regalar a tu vida el todo! ¡Porque Él es el todo y lo llena todo! El Padre llevó a Jesús a una conquista de poder, de autoridad sobre todo principado y señorío y sobre todo nombre que se nombra debajo del cielo. Nosotros que somos el cuerpo de Cristo (la iglesia) tenemos la plenitud, abundancia y totalidad gracias a Él. Esto quiere decir, nada más y nada menos, que el plan de Dios para un mundo hundido en el pecado ¡depende de la Iglesia! Pablo enseña que Jesús está llenando paulatinamente (pausado, poco a poco, lento) todas las cosas en todos los lugares y que esta acción la está desarrollando la Iglesia. Jesús cuenta contigo.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Jesús es el modelo y ejemplo perfecto. Jesús es el que nos guía y fortalece para que podamos seguir su ejemplo. Es su presencia que nos ayuda a vivir. Puede que estés escaso de todo esto porque quizás estás buscando ¡ENTRE LOS MUERTOS AL QUE ESTÁ VIVO! Busca, ama y sigue al que está vivo. En el nombre de Jesús se echan fuera los demonios, se ora al Padre, se ora por los enfermos, todo lo que se pida al Padre lo dará. (Juan 16:23 \"…de cierto os digo, que todo cuanto pidiereis al Padre en mi nombre, os lo dará.\") ¡El Jesús vivo está con el Padre! ¡No lo busques entre los muertos y regocíjate en tu Dios! Amén.",
+        "referencias_inline": [
+          "Juan 16:23"
+        ]
+      }
+    ]
+  },
+  "busqueda": {
+    "texto_indexable": "buscando al que vive mateo 28 1 10 discipulado palabra de Dios resurreccion de cristo verdad santidad arrepentimiento perseverancia mundo en lucas 24 43 45 leemos que Jesus les abrio el entendimiento a sus discipulos para que le reconociesen y entendiesen lo tocante a su muerte y resurreccion pues estas cosas les estaban veladas ocultas escondidas lucas 24 16 mas los ojos de ellos estaban velados para que no le conociesen esto es lo glorioso del maestro cuan inmenso es su amor Jesus estaba triunfante en los momentos en que se escriben estos versiculos pues se habia levantado de entre los muertos el senor habia resucitado hay que ver que antes de que ocurriera este maravilloso evento Jesus queria ensenarles a sus discipulos sobre la disposicion para ir a la cruz Jesus habia dominado al demonio durante su vida y ministerio y precisamente cuando estaba siendo admirado por la gente y dispuestos a aclamarle y a seguirle Jesus les hace saber que se dirige a la muerte al senor le habria sido facil seguir por el camino del exito popular pero no fue asi sino que su grandeza se vio en todo lo que rechazo escogiendo antes la cruz no queriendo evitar una dolorosa y tragica cruz esa cruz se la aconsejo tambien tomar y llevar a sus seguidores en la cruz padeceria dolor y muerte pero no se quedarian las cosas asi a los tres dias se levantaria victorioso en la resurreccion asi que Jesus estaba claro de que moriria y resucitaria en los versiculos dice que nuestro senor ya habia resucitado asi que ya el vive no esta muerto el domingo cristiano pues para los creyentes ya el dia principal no es el sabado las mujeres que amaban a Jesus fueron a la tumba la razon para ellas ir alli era terminar los quehaceres del amor por su maestro querian embalsamar con aromas y unguentos el cuerpo muerto de su amado aquellas mujeres se movieron con prisa con amor con entrega con esfuerzo lo dejaron todo para llegar hasta la tumba fria con el proposito de que el maestro no se pudriera mi amado que asombro para ellas la tumba estaba abierta la preocupacion de maria magdalena seria aquella terrible piedra que le cerraba el paso para entrar a la tumba y llegar hasta el maestro y llenarlo de unguentos y especias aromaticas la grande piedra a la entrada de la tumba habia sido quitada por unos poderosos angeles a quienes les tocaba hacer tal trabajo para su senor lucas 24 1 2 el primer dia de la semana muy de manana vinieron al sepulcro trayendo las especias aromaticas que habian preparado y algunas otras mujeres con ellas y hallaron removida la piedra del sepulcro habia alli uno o dos angeles mas lo grande es que la tumba estaba vacia lucas 24 6 no esta aqui sino que ha resucitado acordaos de lo que os hablo aquellas fueron las mujeres que llevaron a los discipulos y al mundo entero la mejor noticia de la historia lucas 24 9 y volviendo del sepulcro dieron nuevas de todas estas cosas a los once y a todos los demas pedro y juan salen corriendo hacia el sepulcro juan 20 1 4 9 aun no habian entendido la escritura que era necesario que el resucitase de los muertos todavia esa palabra no habia tenido revelacion para las vidas de ellos pero en aquel glorioso momento solo a pedro y juan les seria revelada pedro sale corriendo y juan por el impulso de pedro le sigue aunque juan corriera mas al momento de entrar al sepulcro lo hizo pedro luego juan con reservas entro medio cauteloso con aquella experiencia pedro como una roca fue creciendo para su senor para el que vive la pregunta inevitable y desafiante de la historia es la que los angeles mensajeros le dirigieron a las mujeres les dijeron por que buscais entre los muertos al que vive no esta aqui sino que ha resucitado lucas 24 5 6 Jesus es una realidad viviente en nuestro presente como lo ves tu lo ves como a alguien de poder que te sana que te alivia que te lava te ayuda te protege y te conviene pero luego actuas con el como si estuviera muerto sera que lo dejas atras que no te santificas para el que no es el primero en tu vida es Dios en tu vida el vive su muerte fue para regalar a tu vida el todo porque el es el todo y lo llena todo el padre llevo a Jesus a una conquista de poder de autoridad sobre todo principado y senorio y sobre todo nombre que se nombra debajo del cielo nosotros que somos el cuerpo de cristo la iglesia tenemos la plenitud abundancia y totalidad gracias a el esto quiere decir nada mas y nada menos que el plan de Dios para un mundo hundido en el pecado depende de la iglesia pablo ensena que Jesus esta llenando paulatinamente pausado poco a poco lento todas las cosas en todos los lugares y que esta accion la esta desarrollando la iglesia Jesus cuenta contigo Jesus es el modelo y ejemplo perfecto Jesus es el que nos guia y fortalece para que podamos seguir su ejemplo es su presencia que nos ayuda a vivir puede que estes escaso de todo esto porque quizas estas buscando entre los muertos al que esta vivo busca ama y sigue al que esta vivo en el nombre de Jesus se echan fuera los demonios se ora al padre se ora por los enfermos todo lo que se pida al padre lo dara juan 16 23 de cierto os digo que todo cuanto pidiereis al padre en mi nombre os lo dara el Jesus vivo esta con el padre no lo busques entre los muertos y regocijate en tu Dios amen",
+    "alias_busqueda": [
+      "Buscando Al Que Vive",
+      "Mateo",
+      "Mateo 28",
+      "Mateo 28:1-10",
+      "verdad",
+      "santidad",
+      "arrepentimiento",
+      "perseverancia",
+      "Discipulado",
+      "Palabra de Dios"
+    ]
+  },
+  "revision_manual": {
+    "requiere_revision": false,
+    "motivo": ""
+  },
+  "ui": {
+    "mostrar_credito_en_header": true,
+    "mostrar_numero_estudio": true,
+    "mostrar_fecha": true,
+    "mostrar_topicos": true,
+    "permitir_favorito": true,
+    "permitir_compartir": true
+  }
+}

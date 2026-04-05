@@ -1,0 +1,335 @@
+{
+  "id": "estudio-924-intercede-el-justo",
+  "slug": "estudio-924-intercede-el-justo",
+  "numero_estudio": 924,
+  "tipo_estudio": "Iglesia en las casas",
+  "ministerio": {
+    "iglesia": "Iglesia Cristiana Mega Zoe",
+    "pastora": "Pastora Edith Cruz",
+    "credito_corto": "Iglesia Cristiana Mega Zoe · Pastora Edith Cruz",
+    "credito_largo": "Contenido original de Iglesia Cristiana Mega Zoe, conservando el crédito ministerial correspondiente a la Pastora Edith Cruz."
+  },
+  "identidad_editorial": {
+    "idioma": "es",
+    "fuente_original": "documento_word",
+    "archivo_origen": "/Users/edwingadiel/Desktop/Estudios en Word/Estudio #924 Intercede El Justo - Génesis 18 22-33.docx",
+    "estado_revision": "procesado",
+    "version_schema": "1.0"
+  },
+  "encabezado": {
+    "titulo": "Intercede El Justo",
+    "subtitulo": null,
+    "cita_principal": "Génesis 18:22-33",
+    "resumen_corto": "Intercede El Justo enseña a perseverar en la oración y atender la Palabra de Dios."
+  },
+  "fechas": {
+    "fecha_inicio": null,
+    "fecha_fin": null,
+    "fecha_texto_original": "",
+    "ano": null
+  },
+  "clasificacion_biblica": {
+    "libro_principal": "Génesis",
+    "capitulo_principal": 18,
+    "versiculos_principales": [
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33
+    ],
+    "referencia_principal_normalizada": "Génesis 18:22-33",
+    "testamento_principal": "Antiguo Testamento"
+  },
+  "clasificacion_tematica": {
+    "topicos": [
+      "Oración",
+      "Promesas de Dios",
+      "Justicia de Dios",
+      "Palabra de Dios"
+    ],
+    "keywords": [
+      "verdad",
+      "santidad",
+      "oración",
+      "arrepentimiento",
+      "perseverancia"
+    ]
+  },
+  "referencias_biblicas": [
+    {
+      "referencia": "Génesis 18:22-33",
+      "referencia_normalizada": "Génesis 18:22-33",
+      "libro": "Génesis",
+      "capitulo": 18,
+      "versiculos": [
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33
+      ],
+      "tipo": "principal",
+      "clickeable": true
+    },
+    {
+      "referencia": "Génesis 11:26",
+      "referencia_normalizada": "Génesis 11:26",
+      "libro": "Génesis",
+      "capitulo": 11,
+      "versiculos": [
+        26
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Génesis 12:4",
+      "referencia_normalizada": "Génesis 12:4",
+      "libro": "Génesis",
+      "capitulo": 12,
+      "versiculos": [
+        4
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Génesis 15:6",
+      "referencia_normalizada": "Génesis 15:6",
+      "libro": "Génesis",
+      "capitulo": 15,
+      "versiculos": [
+        6
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Génesis 22:2, 10-12",
+      "referencia_normalizada": "Génesis 22:2,10-12",
+      "libro": "Génesis",
+      "capitulo": 22,
+      "versiculos": [
+        2,
+        10,
+        11,
+        12
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Hebreos 11:17-19",
+      "referencia_normalizada": "Hebreos 11:17-19",
+      "libro": "Hebreos",
+      "capitulo": 11,
+      "versiculos": [
+        17,
+        18,
+        19
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Génesis 14:18-20",
+      "referencia_normalizada": "Génesis 14:18-20",
+      "libro": "Génesis",
+      "capitulo": 14,
+      "versiculos": [
+        18,
+        19,
+        20
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Génesis 14:12",
+      "referencia_normalizada": "Génesis 14:12",
+      "libro": "Génesis",
+      "capitulo": 14,
+      "versiculos": [
+        12
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Génesis 18:20, 21",
+      "referencia_normalizada": "Génesis 18:20,21",
+      "libro": "Génesis",
+      "capitulo": 18,
+      "versiculos": [
+        20,
+        21
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Génesis 13:12, 13",
+      "referencia_normalizada": "Génesis 13:12,13",
+      "libro": "Génesis",
+      "capitulo": 13,
+      "versiculos": [
+        12,
+        13
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Génesis 18:30",
+      "referencia_normalizada": "Génesis 18:30",
+      "libro": "Génesis",
+      "capitulo": 18,
+      "versiculos": [
+        30
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Hebreos 4:16",
+      "referencia_normalizada": "Hebreos 4:16",
+      "libro": "Hebreos",
+      "capitulo": 4,
+      "versiculos": [
+        16
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Génesis 19:15",
+      "referencia_normalizada": "Génesis 19:15",
+      "libro": "Génesis",
+      "capitulo": 19,
+      "versiculos": [
+        15
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Ezequiel 22:30",
+      "referencia_normalizada": "Ezequiel 22:30",
+      "libro": "Ezequiel",
+      "capitulo": 22,
+      "versiculos": [
+        30
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    }
+  ],
+  "contenido": {
+    "introduccion": null,
+    "secciones": [],
+    "contenido_completo": "El que intercede es el que habla a favor de otra persona. Entendamos que solo el JUSTO puede pedir a Dios por otro, lo puede hacer el hombre de piedad. El hombre y mujer de piedad tienen devoción a las cosas santas. Uno es piadoso cuando se da a Él. La piedad es ese fervor, ese amor que se siente hacia Dios. En el hombre JUSTO hay unas acciones que son impulsadas por el amor y la compasión hacia el ser humano.\n\nAbraham nació para ser justo, para ser piadoso (Génesis 11:26). Él se dejaba llevar por Dios (Génesis 12:4 \"Y se fue Abram, como Jehová le dijo…\") (Génesis 15:6 \"Y creyó (Abraham) a Jehová, y le fue contado por justicia.\"). Sabía Abraham que había nacido para Dios; dejó ver que era un hombre piadoso. Su fervor nadie se lo enfrió. Su entusiasmo, su dedicación y respeto a Dios eran todo el tiempo como un calor intenso en todo su ser. Abraham supo cómo obrar, no le faltaba nada pues era cumplidor. Para poder interceder y poder tener a Dios cerca hay que saber vivir piadosamente para Dios. La tierra está llena de farsantes religiosos y esos son los que más hablan.\n\n(Génesis 22:2, 10-12) Cuando Abraham estaba lleno de grandes promesas acerca de Isaac, su único hijo, entonces Dios se lo pidió en sacrificio. Si Isaac moría ya no habría promesas. Sara y Abraham, ya en su vejez, no tendrían más esperanzas de tener otro hijo. Nadie entendería tal caso. ¿Y ahora qué? Al parecer, se acababa todo para la descendencia de Abraham, quien había caminado y luchado tanto. Pero, Abraham creía a Dios confiadamente (Hebreos 11:17-19 \"Por la fe Abraham, cuando fue probado, ofreció a Isaac; y el que había recibido las promesas ofrecía su unigénito, habiéndosele dicho: En Isaac te será llamada descendencia; pensando que Dios es poderoso para levantar aun de entre los muertos, de donde, en sentido figurado, también le volvió a recibir.\").\n\n(Génesis 14:18-20) También leemos que a Melquisedec Abraham le dio el diezmo de todo. Aquí hay otra evidencia de su piedad. Podemos ver su valor, porque fue a un sacerdote o mediador oficial entre Dios y él. Al sacerdote Melquisedec Abraham le dio la décima parte de los despojos de guerra en señal de su gratitud y en honor a la divina ordenanza. Este acto era una señal de respeto. Melquisedec, como su sacerdote, a su vez ofreció la ofrenda prometida y dedicada a Dios. Esto que hizo Abraham es un acto de piedad, de temor y devoción a Dios; no hay allí rebelión sino honra. Que nada nos acuse. Debemos estar siempre preparados para poder tener esa clase de fervor, entusiasmo, dedicación y respeto como la tuvo Abraham. Hay muchos charlatanes y burladores, que son lo que son, por la rebeldía que hay en ellos contra Dios y Sus preceptos.\n\nYa hemos visto que Abraham era un hombre piadoso, era justo. Aquí en Génesis 18:22-33 hay una escena llena de interés e instrucción que demuestra la eficacia de la oración e intercesión de un justo. Lot, hijo del hermano de Abram, moraba en Sodoma (Génesis 14:12). Pero, Dios había decidido destruir a Sodoma debido a la mucha maldad que había en sus habitantes (Génesis 18:20, 21 \"Entonces Jehová le dijo: Por cuanto el clamor contra Sodoma y Gomorra se aumenta más y más, y el pecado de ellos se ha agravado en extremo, descenderé ahora…\"). Creo que Lot no oraba, que aquel hombre no tenía capacidad para poder hablar con Dios a favor de los suyos. ¡Pobre hombre! Había llegado a Sodoma con manos llenas y terminó su vida con manos vacías y con grandes vergüenzas (Génesis 13:12, 13 \"Abram acampó en la tierra de Canaán, en tanto que Lot habitó en las ciudades de la llanura, y fue poniendo sus tiendas hasta Sodoma. Más los hombres de Sodoma eran malos y pecadores contra Jehová en gran manera.\").\n\nSi en nuestras vidas queremos ver el bien deben estar en medio nuestro la oración y la Palabra de Dios. CON LA PALABRA NOS HABLA Dios, EN LA ORACIÓN LE HABLAMOS A Dios. Vemos en este pasaje de la Biblia que Abraham le habla a Dios a favor de Lot. Abraham se le acercó al Señor en confianza, se acercó con seguridad por su fe. Abraham ruega a Dios por si había algún justo entre los de Sodoma. Aquella era una cuidad degenerada, pero allí estaba Lot, su sobrino. Notamos en la oración e intercesión de Abraham un tremendo temor de no desagradar a Dios (Génesis 18:30 \"Y dijo: No se enoje ahora mi Señor, si hablare: quizá se hallarán allí treinta. Y respondió: No lo haré si hallare allí treinta.\"). Debemos acudir y tratar con Dios y no dirigirnos al hombre. Abraham pensaba que allí podía haber unos cuantos justos. TAL VEZ PENSÓ QUE SU SOBRINO LOT HUBIESE LLEVADO AL Dios DE ABRAHAM CON ÉL. Y QUE SI Dios ESTABA EN ÉL QUIZÁS TAMBIÉN ESTARÍA EN LA FAMILIA. Este Abraham, piadoso y justo intercesor, puso su oración ante el trono de la gracia para alcanzar misericordia a favor de Lot y su familia (Hebreos 4:16). Lo hizo con gran atrevimiento y con una confianza absoluta. Dios oyó a Abraham y le contestó favorablemente mandando a sus ángeles a sacar a Lot y a su familia de Sodoma (Génesis 19:15).\n\nEste es el problema en la tierra entre los hombres que no son como Abraham (Ezequiel 22:30 \"Y busqué entre ellos hombre que hiciese vallado y que se pusiese en la brecha delante de mí, a favor de la tierra, para que yo no la destruyese; y no lo hallé.\"). Se necesita un hombre \"que haga muro\", que se interponga entre la ira de Dios y el pueblo, una figura, una persona valiente y justa para llevar al pueblo al arrepentimiento. Una brecha en el muro es una rotura, una abertura. Alguien justo y con fe que se coloque en la brecha entre el pueblo y Dios. En Abraham lo vemos en la forma del intercesor, hablando a Dios a favor de aquella persona por la que había que orar.\n\nPero, aquí leemos en Ezequiel, que para el tiempo ya cercano a la cautividad de Judá, Dios le dice al profeta: \"No lo hallé.\" ¿Y en nuestro tiempo? ¿Lo hallará en ti? ¿Serás un justo que intercede a Dios por otros? Para ese tiempo allí también estaban junto a Ezequiel, el profeta Jeremías y Baruc, pero ninguno de los llamados piadosos deseaba por más tiempo \"interponerse\" entre la ira de Dios y el pueblo. ¿Y tú que haces hoy día? ¿Intercedes? ¿Eres ese justo que intercede como Abraham lo hacía? Amén.",
+    "contenido_renderizado": [
+      {
+        "tipo": "parrafo",
+        "texto": "El que intercede es el que habla a favor de otra persona. Entendamos que solo el JUSTO puede pedir a Dios por otro, lo puede hacer el hombre de piedad. El hombre y mujer de piedad tienen devoción a las cosas santas. Uno es piadoso cuando se da a Él. La piedad es ese fervor, ese amor que se siente hacia Dios. En el hombre JUSTO hay unas acciones que son impulsadas por el amor y la compasión hacia el ser humano.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Abraham nació para ser justo, para ser piadoso (Génesis 11:26). Él se dejaba llevar por Dios (Génesis 12:4 \"Y se fue Abram, como Jehová le dijo…\") (Génesis 15:6 \"Y creyó (Abraham) a Jehová, y le fue contado por justicia.\"). Sabía Abraham que había nacido para Dios; dejó ver que era un hombre piadoso. Su fervor nadie se lo enfrió. Su entusiasmo, su dedicación y respeto a Dios eran todo el tiempo como un calor intenso en todo su ser. Abraham supo cómo obrar, no le faltaba nada pues era cumplidor. Para poder interceder y poder tener a Dios cerca hay que saber vivir piadosamente para Dios. La tierra está llena de farsantes religiosos y esos son los que más hablan.",
+        "referencias_inline": [
+          "Génesis 11:26",
+          "Génesis 12:4",
+          "Génesis 15:6"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Génesis 22:2, 10-12) Cuando Abraham estaba lleno de grandes promesas acerca de Isaac, su único hijo, entonces Dios se lo pidió en sacrificio. Si Isaac moría ya no habría promesas. Sara y Abraham, ya en su vejez, no tendrían más esperanzas de tener otro hijo. Nadie entendería tal caso. ¿Y ahora qué? Al parecer, se acababa todo para la descendencia de Abraham, quien había caminado y luchado tanto. Pero, Abraham creía a Dios confiadamente (Hebreos 11:17-19 \"Por la fe Abraham, cuando fue probado, ofreció a Isaac; y el que había recibido las promesas ofrecía su unigénito, habiéndosele dicho: En Isaac te será llamada descendencia; pensando que Dios es poderoso para levantar aun de entre los muertos, de donde, en sentido figurado, también le volvió a recibir.\").",
+        "referencias_inline": [
+          "Génesis 22:2,10-12",
+          "Hebreos 11:17-19"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Génesis 14:18-20) También leemos que a Melquisedec Abraham le dio el diezmo de todo. Aquí hay otra evidencia de su piedad. Podemos ver su valor, porque fue a un sacerdote o mediador oficial entre Dios y él. Al sacerdote Melquisedec Abraham le dio la décima parte de los despojos de guerra en señal de su gratitud y en honor a la divina ordenanza. Este acto era una señal de respeto. Melquisedec, como su sacerdote, a su vez ofreció la ofrenda prometida y dedicada a Dios. Esto que hizo Abraham es un acto de piedad, de temor y devoción a Dios; no hay allí rebelión sino honra. Que nada nos acuse. Debemos estar siempre preparados para poder tener esa clase de fervor, entusiasmo, dedicación y respeto como la tuvo Abraham. Hay muchos charlatanes y burladores, que son lo que son, por la rebeldía que hay en ellos contra Dios y Sus preceptos.",
+        "referencias_inline": [
+          "Génesis 14:18-20"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Ya hemos visto que Abraham era un hombre piadoso, era justo. Aquí en Génesis 18:22-33 hay una escena llena de interés e instrucción que demuestra la eficacia de la oración e intercesión de un justo. Lot, hijo del hermano de Abram, moraba en Sodoma (Génesis 14:12). Pero, Dios había decidido destruir a Sodoma debido a la mucha maldad que había en sus habitantes (Génesis 18:20, 21 \"Entonces Jehová le dijo: Por cuanto el clamor contra Sodoma y Gomorra se aumenta más y más, y el pecado de ellos se ha agravado en extremo, descenderé ahora…\"). Creo que Lot no oraba, que aquel hombre no tenía capacidad para poder hablar con Dios a favor de los suyos. ¡Pobre hombre! Había llegado a Sodoma con manos llenas y terminó su vida con manos vacías y con grandes vergüenzas (Génesis 13:12, 13 \"Abram acampó en la tierra de Canaán, en tanto que Lot habitó en las ciudades de la llanura, y fue poniendo sus tiendas hasta Sodoma. Más los hombres de Sodoma eran malos y pecadores contra Jehová en gran manera.\").",
+        "referencias_inline": [
+          "Génesis 18:22-33",
+          "Génesis 14:12",
+          "Génesis 18:20,21",
+          "Génesis 13:12,13"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Si en nuestras vidas queremos ver el bien deben estar en medio nuestro la oración y la Palabra de Dios. CON LA PALABRA NOS HABLA Dios, EN LA ORACIÓN LE HABLAMOS A Dios. Vemos en este pasaje de la Biblia que Abraham le habla a Dios a favor de Lot. Abraham se le acercó al Señor en confianza, se acercó con seguridad por su fe. Abraham ruega a Dios por si había algún justo entre los de Sodoma. Aquella era una cuidad degenerada, pero allí estaba Lot, su sobrino. Notamos en la oración e intercesión de Abraham un tremendo temor de no desagradar a Dios (Génesis 18:30 \"Y dijo: No se enoje ahora mi Señor, si hablare: quizá se hallarán allí treinta. Y respondió: No lo haré si hallare allí treinta.\"). Debemos acudir y tratar con Dios y no dirigirnos al hombre. Abraham pensaba que allí podía haber unos cuantos justos. TAL VEZ PENSÓ QUE SU SOBRINO LOT HUBIESE LLEVADO AL Dios DE ABRAHAM CON ÉL. Y QUE SI Dios ESTABA EN ÉL QUIZÁS TAMBIÉN ESTARÍA EN LA FAMILIA. Este Abraham, piadoso y justo intercesor, puso su oración ante el trono de la gracia para alcanzar misericordia a favor de Lot y su familia (Hebreos 4:16). Lo hizo con gran atrevimiento y con una confianza absoluta. Dios oyó a Abraham y le contestó favorablemente mandando a sus ángeles a sacar a Lot y a su familia de Sodoma (Génesis 19:15).",
+        "referencias_inline": [
+          "Génesis 18:30",
+          "Hebreos 4:16",
+          "Génesis 19:15"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Este es el problema en la tierra entre los hombres que no son como Abraham (Ezequiel 22:30 \"Y busqué entre ellos hombre que hiciese vallado y que se pusiese en la brecha delante de mí, a favor de la tierra, para que yo no la destruyese; y no lo hallé.\"). Se necesita un hombre \"que haga muro\", que se interponga entre la ira de Dios y el pueblo, una figura, una persona valiente y justa para llevar al pueblo al arrepentimiento. Una brecha en el muro es una rotura, una abertura. Alguien justo y con fe que se coloque en la brecha entre el pueblo y Dios. En Abraham lo vemos en la forma del intercesor, hablando a Dios a favor de aquella persona por la que había que orar.",
+        "referencias_inline": [
+          "Ezequiel 22:30"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Pero, aquí leemos en Ezequiel, que para el tiempo ya cercano a la cautividad de Judá, Dios le dice al profeta: \"No lo hallé.\" ¿Y en nuestro tiempo? ¿Lo hallará en ti? ¿Serás un justo que intercede a Dios por otros? Para ese tiempo allí también estaban junto a Ezequiel, el profeta Jeremías y Baruc, pero ninguno de los llamados piadosos deseaba por más tiempo \"interponerse\" entre la ira de Dios y el pueblo. ¿Y tú que haces hoy día? ¿Intercedes? ¿Eres ese justo que intercede como Abraham lo hacía? Amén.",
+        "referencias_inline": []
+      }
+    ]
+  },
+  "busqueda": {
+    "texto_indexable": "intercede el justo genesis 18 22 33 oracion promesas de Dios justicia de Dios palabra de Dios verdad santidad oracion arrepentimiento perseverancia el que intercede es el que habla a favor de otra persona entendamos que solo el justo puede pedir a Dios por otro lo puede hacer el hombre de piedad el hombre y mujer de piedad tienen devocion a las cosas santas uno es piadoso cuando se da a el la piedad es ese fervor ese amor que se siente hacia Dios en el hombre justo hay unas acciones que son impulsadas por el amor y la compasion hacia el ser humano abraham nacio para ser justo para ser piadoso genesis 11 26 el se dejaba llevar por Dios genesis 12 4 y se fue abram como jehova le dijo genesis 15 6 y creyo abraham a jehova y le fue contado por justicia sabia abraham que habia nacido para Dios dejo ver que era un hombre piadoso su fervor nadie se lo enfrio su entusiasmo su dedicacion y respeto a Dios eran todo el tiempo como un calor intenso en todo su ser abraham supo como obrar no le faltaba nada pues era cumplidor para poder interceder y poder tener a Dios cerca hay que saber vivir piadosamente para Dios la tierra esta llena de farsantes religiosos y esos son los que mas hablan genesis 22 2 10 12 cuando abraham estaba lleno de grandes promesas acerca de isaac su unico hijo entonces Dios se lo pidio en sacrificio si isaac moria ya no habria promesas sara y abraham ya en su vejez no tendrian mas esperanzas de tener otro hijo nadie entenderia tal caso y ahora que al parecer se acababa todo para la descendencia de abraham quien habia caminado y luchado tanto pero abraham creia a Dios confiadamente hebreos 11 17 19 por la fe abraham cuando fue probado ofrecio a isaac y el que habia recibido las promesas ofrecia su unigenito habiendosele dicho en isaac te sera llamada descendencia pensando que Dios es poderoso para levantar aun de entre los muertos de donde en sentido figurado tambien le volvio a recibir genesis 14 18 20 tambien leemos que a melquisedec abraham le dio el diezmo de todo aqui hay otra evidencia de su piedad podemos ver su valor porque fue a un sacerdote o mediador oficial entre Dios y el al sacerdote melquisedec abraham le dio la decima parte de los despojos de guerra en senal de su gratitud y en honor a la divina ordenanza este acto era una senal de respeto melquisedec como su sacerdote a su vez ofrecio la ofrenda prometida y dedicada a Dios esto que hizo abraham es un acto de piedad de temor y devocion a Dios no hay alli rebelion sino honra que nada nos acuse debemos estar siempre preparados para poder tener esa clase de fervor entusiasmo dedicacion y respeto como la tuvo abraham hay muchos charlatanes y burladores que son lo que son por la rebeldia que hay en ellos contra Dios y sus preceptos ya hemos visto que abraham era un hombre piadoso era justo aqui en genesis 18 22 33 hay una escena llena de interes e instruccion que demuestra la eficacia de la oracion e intercesion de un justo lot hijo del hermano de abram moraba en sodoma genesis 14 12 pero Dios habia decidido destruir a sodoma debido a la mucha maldad que habia en sus habitantes genesis 18 20 21 entonces jehova le dijo por cuanto el clamor contra sodoma y gomorra se aumenta mas y mas y el pecado de ellos se ha agravado en extremo descendere ahora creo que lot no oraba que aquel hombre no tenia capacidad para poder hablar con Dios a favor de los suyos pobre hombre habia llegado a sodoma con manos llenas y termino su vida con manos vacias y con grandes verguenzas genesis 13 12 13 abram acampo en la tierra de canaan en tanto que lot habito en las ciudades de la llanura y fue poniendo sus tiendas hasta sodoma mas los hombres de sodoma eran malos y pecadores contra jehova en gran manera si en nuestras vidas queremos ver el bien deben estar en medio nuestro la oracion y la palabra de Dios con la palabra nos habla Dios en la oracion le hablamos a Dios vemos en este pasaje de la biblia que abraham le habla a Dios a favor de lot abraham se le acerco al senor en confianza se acerco con seguridad por su fe abraham ruega a Dios por si habia algun justo entre los de sodoma aquella era una cuidad degenerada pero alli estaba lot su sobrino notamos en la oracion e intercesion de abraham un tremendo temor de no desagradar a Dios genesis 18 30 y dijo no se enoje ahora mi senor si hablare quiza se hallaran alli treinta y respondio no lo hare si hallare alli treinta debemos acudir y tratar con Dios y no dirigirnos al hombre abraham pensaba que alli podia haber unos cuantos justos tal vez penso que su sobrino lot hubiese llevado al Dios de abraham con el y que si Dios estaba en el quizas tambien estaria en la familia este abraham piadoso y justo intercesor puso su oracion ante el trono de la gracia para alcanzar misericordia a favor de lot y su familia hebreos 4 16 lo hizo con gran atrevimiento y con una confianza absoluta Dios oyo a abraham y le contesto favorablemente mandando a sus angeles a sacar a lot y a su familia de sodoma genesis 19 15 este es el problema en la tierra entre los hombres que no son como abraham ezequiel 22 30 y busque entre ellos hombre que hiciese vallado y que se pusiese en la brecha delante de mi a favor de la tierra para que yo no la destruyese y no lo halle se necesita un hombre que haga muro que se interponga entre la ira de Dios y el pueblo una figura una persona valiente y justa para llevar al pueblo al arrepentimiento una brecha en el muro es una rotura una abertura alguien justo y con fe que se coloque en la brecha entre el pueblo y Dios en abraham lo vemos en la forma del intercesor hablando a Dios a favor de aquella persona por la que habia que orar pero aqui leemos en ezequiel que para el tiempo ya cercano a la cautividad de juda Dios le dice al profeta no lo halle y en nuestro tiempo lo hallara en ti seras un justo que intercede a Dios por otros para ese tiempo alli tambien estaban junto a ezequiel el profeta jeremias y baruc pero ninguno de los llamados piadosos deseaba por mas tiempo interponerse entre la ira de Dios y el pueblo y tu que haces hoy dia intercedes eres ese justo que intercede como abraham lo hacia amen",
+    "alias_busqueda": [
+      "Intercede El Justo",
+      "Génesis",
+      "Génesis 18",
+      "Génesis 18:22-33",
+      "verdad",
+      "santidad",
+      "oración",
+      "arrepentimiento",
+      "Promesas de Dios"
+    ]
+  },
+  "revision_manual": {
+    "requiere_revision": false,
+    "motivo": ""
+  },
+  "ui": {
+    "mostrar_credito_en_header": true,
+    "mostrar_numero_estudio": true,
+    "mostrar_fecha": true,
+    "mostrar_topicos": true,
+    "permitir_favorito": true,
+    "permitir_compartir": true
+  }
+}

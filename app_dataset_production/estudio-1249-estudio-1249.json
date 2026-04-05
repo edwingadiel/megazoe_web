@@ -1,0 +1,458 @@
+{
+  "id": "estudio-1249-estudio-1249",
+  "slug": "estudio-1249-estudio-1249",
+  "numero_estudio": 1249,
+  "tipo_estudio": "Iglesia en las casas",
+  "ministerio": {
+    "iglesia": "Iglesia Cristiana Mega Zoe",
+    "pastora": "Pastora Edith Cruz",
+    "credito_corto": "Iglesia Cristiana Mega Zoe · Pastora Edith Cruz",
+    "credito_largo": "Contenido original de Iglesia Cristiana Mega Zoe, conservando el crédito ministerial correspondiente a la Pastora Edith Cruz."
+  },
+  "identidad_editorial": {
+    "idioma": "es",
+    "fuente_original": "documento_word",
+    "archivo_origen": "/Users/edwingadiel/Desktop/Estudios en Word/Estudio #1249 El vano intento de maldecir - Números 24 10-25.docx",
+    "estado_revision": "procesado",
+    "version_schema": "1.0"
+  },
+  "encabezado": {
+    "titulo": "El Vano Intento De Maldecir",
+    "subtitulo": null,
+    "cita_principal": "Números 24:10-25",
+    "resumen_corto": "El Vano Intento De Maldecir llama a caminar con sabiduría espiritual."
+  },
+  "fechas": {
+    "fecha_inicio": null,
+    "fecha_fin": null,
+    "fecha_texto_original": "",
+    "ano": null
+  },
+  "clasificacion_biblica": {
+    "libro_principal": "Números",
+    "capitulo_principal": 24,
+    "versiculos_principales": [
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25
+    ],
+    "referencia_principal_normalizada": "Números 24:10-25",
+    "testamento_principal": "Antiguo Testamento"
+  },
+  "clasificacion_tematica": {
+    "topicos": [
+      "Voluntad de Dios",
+      "Sabiduría espiritual",
+      "Presencia de Dios"
+    ],
+    "keywords": [
+      "voluntad de Dios",
+      "santidad",
+      "arrepentimiento",
+      "perseverancia",
+      "evangelio"
+    ]
+  },
+  "referencias_biblicas": [
+    {
+      "referencia": "Números 24:10-25",
+      "referencia_normalizada": "Números 24:10-25",
+      "libro": "Números",
+      "capitulo": 24,
+      "versiculos": [
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25
+      ],
+      "tipo": "principal",
+      "clickeable": true
+    },
+    {
+      "referencia": "Números 24:16",
+      "referencia_normalizada": "Números 24:16",
+      "libro": "Números",
+      "capitulo": 24,
+      "versiculos": [
+        16
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "2 Corintios 3:8",
+      "referencia_normalizada": "2 Corintios 3:8",
+      "libro": "2 Corintios",
+      "capitulo": 3,
+      "versiculos": [
+        8
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "2 Samuel 8:2",
+      "referencia_normalizada": "2 Samuel 8:2",
+      "libro": "2 Samuel",
+      "capitulo": 8,
+      "versiculos": [
+        2
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "2 Samuel 8:14",
+      "referencia_normalizada": "2 Samuel 8:14",
+      "libro": "2 Samuel",
+      "capitulo": 8,
+      "versiculos": [
+        14
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Apocalipsis 2:28",
+      "referencia_normalizada": "Apocalipsis 2:28",
+      "libro": "Apocalipsis",
+      "capitulo": 2,
+      "versiculos": [
+        28
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Mateo 2:2",
+      "referencia_normalizada": "Mateo 2:2",
+      "libro": "Mateo",
+      "capitulo": 2,
+      "versiculos": [
+        2
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Daniel 2:44",
+      "referencia_normalizada": "Daniel 2:44",
+      "libro": "Daniel",
+      "capitulo": 2,
+      "versiculos": [
+        44
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Salmos 2:8-9",
+      "referencia_normalizada": "Salmos 2:8-9",
+      "libro": "Salmos",
+      "capitulo": 2,
+      "versiculos": [
+        8,
+        9
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Apocalipsis 2:27",
+      "referencia_normalizada": "Apocalipsis 2:27",
+      "libro": "Apocalipsis",
+      "capitulo": 2,
+      "versiculos": [
+        27
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Éxodo 17:14, 16",
+      "referencia_normalizada": "Éxodo 17:14,16",
+      "libro": "Éxodo",
+      "capitulo": 17,
+      "versiculos": [
+        14,
+        16
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Números 24:20",
+      "referencia_normalizada": "Números 24:20",
+      "libro": "Números",
+      "capitulo": 24,
+      "versiculos": [
+        20
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Números 24:21",
+      "referencia_normalizada": "Números 24:21",
+      "libro": "Números",
+      "capitulo": 24,
+      "versiculos": [
+        21
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Números 24:24",
+      "referencia_normalizada": "Números 24:24",
+      "libro": "Números",
+      "capitulo": 24,
+      "versiculos": [
+        24
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Números 24:23",
+      "referencia_normalizada": "Números 24:23",
+      "libro": "Números",
+      "capitulo": 24,
+      "versiculos": [
+        23
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Números 31:8",
+      "referencia_normalizada": "Números 31:8",
+      "libro": "Números",
+      "capitulo": 31,
+      "versiculos": [
+        8
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    }
+  ],
+  "contenido": {
+    "introduccion": null,
+    "secciones": [],
+    "contenido_completo": "Cuando se odia, se detesta porque se aborrece por alguna razón. Ya hay odio y se le desea lo peor. Es algo que no deja a nadie ser feliz. Bueno, qué peligro grande en la vida. Aprendamos y seamos capaz de huir de tan grande mal.\n\nBalac quiere maldecir al pueblo y busca a Balaam.\n\nBalaam abandona por completo lo que Balac quería hacer al pueblo de Dios.\n\nEra propio que a Balac le diera coraje y mucha molestia.\n\nLe echa de su presencia, le despide a su país y le niega los honores que le había prometido hacerle.\n\nPara Balaam le era bueno escapar.\n\nBalaam le dice que no hay porqué molestarse; ya él se lo había avisado.\n\nDándole una esperanza, Balaam le ofrece como si fuera de él el control de las profecías y le ofrece la última profecía.\n\nEl oficio de los profetas era bendecir y profetizar (amonestando o animando) en el nombre de Jehová.\n\nBalaam cumple el oficio de profeta admirablemente bien, al dirigirle Dios para que lo hiciera así, puesto que, aunque él era como era, la profecía, sin embargo, era verdadera. (Números 24:16) Vio la visión del Omnipotente e incluso, como dice antes: Conoce el conocimiento del Altísimo.\n\nCon todo esto, Balaam no teme en realidad a Dios, ni le ama ni ejercita una verdadera fe en Él.\n\n¡Tan cerca del Cielo puede llegar un hombre y con todo quedarse fuera!\n\nBalaam vio la visión del Omnipotente, pero no fue transformado a \"la misma imagen del Señor\". (2 Corintios 3:8).\n\nPodemos mantener nuestra cara \"descubierta\" confesando y abandonando el pecado, siendo totalmente francos con Dios y con \"nosotros mismos\".\n\nDejar caer los velos del pecado, del fingimiento, \"de toda hipocresía, de falsas apariencias, de toda medida a medias, de todo \"sí pero no\".\n\nBalaam emite una profecía acerca del que había (V. 18) de ser la corona y la gloria de Israel, quien es: 1.) David, el tipo y figura bajo quien las huestes (ejército) de Israel \"se portaron varonilmente\".\n\nEsto se cumplió cuando David derrotó a Moab y lo sometió (2 Samuel 8:2).\n\nEn ese mismo tiempo, fueron sometidos igualmente los de Edom al dominio de Israel (2 Samuel 8:14).\n\n(V. 17) El Señor Jesucristo, el prometido Mesías, es el principalmente aludido como anticipo (ante, anticipado) en la profecía pues era la voluntad de Dios que se diese así referencia a Su primera venida, mucho tiempo antes de ocurrir, no solo para que lo supiesen los judíos, sino también otras naciones, así como Su Evangelio se había de extender muy lejos de los límites de la tierra de Israel.\n\nSe predice aquí: (a) Que Su venida no será aún por mucho tiempo: Lo veré, más no ahora (V. 17): \"Lo contempló en visión, pero a muchísima distancia\", ya que habían de pasar 14 a 15 siglos.\n\nQue saldría de Jacob, como ESTRELLA y como cetro, lo que denota (indica) Su gloria y esplendor: La estrella resplandeciente de la mañana (Apocalipsis 2:28), por cuyo fulgor (resplandor) habían de ser guiados los magos (Mateo 2:2) quienes, sin duda, conocían de alguna manera esta profecía, el cetro (como símbolo de poder y dignidad) denota Su poder y autoridad, pues Él tendrá el dominio y Su reino será eterno. (Daniel 2:44; 7:14); (Lucas1:33).\n\nQue Su reino será universal y victorioso sobre toda oposición (Salmos 2:8-9; Apocalipsis 2:27; 19:15) lo que es tipificado (organizar) en las victorias de David sobre Moab y Edom, porque Cristo había de ser rey, no solo de Israel, sino de todo el mundo.\n\n(Éxodo 17:14, 16) (Números 24:20) Estos son los amalecitas (Amalec), eran cabeza de naciones por ser la primera en atacar a Israel, Balaam confirmaba la destrucción futura de Amalec, conforme había escrito Moisés casi cuarenta años antes.\n\nLos ceneos (Números 24:21) tenían privilegios, que la misma naturaleza les había servido de admirable.\n\n(Números 24:24) Profecía que se adelanta hasta el tiempo de los griegos y de los romanos, puesto que las costas de Quitim no son otras que las de Italia.\n\nLa introducción a esta parábola es digna de notarse: ¡Ay! ¿Quién vivirá cuando haga Dios estas cosas? (Números 24:23)\n\n(Números 31:8) Balaam fue muerto por Israel. Amén.",
+    "contenido_renderizado": [
+      {
+        "tipo": "parrafo",
+        "texto": "Cuando se odia, se detesta porque se aborrece por alguna razón. Ya hay odio y se le desea lo peor. Es algo que no deja a nadie ser feliz. Bueno, qué peligro grande en la vida. Aprendamos y seamos capaz de huir de tan grande mal.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Balac quiere maldecir al pueblo y busca a Balaam.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Balaam abandona por completo lo que Balac quería hacer al pueblo de Dios.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Era propio que a Balac le diera coraje y mucha molestia.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Le echa de su presencia, le despide a su país y le niega los honores que le había prometido hacerle.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Para Balaam le era bueno escapar.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Balaam le dice que no hay porqué molestarse; ya él se lo había avisado.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Dándole una esperanza, Balaam le ofrece como si fuera de él el control de las profecías y le ofrece la última profecía.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "El oficio de los profetas era bendecir y profetizar (amonestando o animando) en el nombre de Jehová.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Balaam cumple el oficio de profeta admirablemente bien, al dirigirle Dios para que lo hiciera así, puesto que, aunque él era como era, la profecía, sin embargo, era verdadera. (Números 24:16) Vio la visión del Omnipotente e incluso, como dice antes: Conoce el conocimiento del Altísimo.",
+        "referencias_inline": [
+          "Números 24:16"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Con todo esto, Balaam no teme en realidad a Dios, ni le ama ni ejercita una verdadera fe en Él.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "¡Tan cerca del Cielo puede llegar un hombre y con todo quedarse fuera!",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Balaam vio la visión del Omnipotente, pero no fue transformado a \"la misma imagen del Señor\". (2 Corintios 3:8).",
+        "referencias_inline": [
+          "2 Corintios 3:8"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Podemos mantener nuestra cara \"descubierta\" confesando y abandonando el pecado, siendo totalmente francos con Dios y con \"nosotros mismos\".",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Dejar caer los velos del pecado, del fingimiento, \"de toda hipocresía, de falsas apariencias, de toda medida a medias, de todo \"sí pero no\".",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Balaam emite una profecía acerca del que había (V. 18) de ser la corona y la gloria de Israel, quien es: 1.) David, el tipo y figura bajo quien las huestes (ejército) de Israel \"se portaron varonilmente\".",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Esto se cumplió cuando David derrotó a Moab y lo sometió (2 Samuel 8:2).",
+        "referencias_inline": [
+          "2 Samuel 8:2"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "En ese mismo tiempo, fueron sometidos igualmente los de Edom al dominio de Israel (2 Samuel 8:14).",
+        "referencias_inline": [
+          "2 Samuel 8:14"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(V. 17) El Señor Jesucristo, el prometido Mesías, es el principalmente aludido como anticipo (ante, anticipado) en la profecía pues era la voluntad de Dios que se diese así referencia a Su primera venida, mucho tiempo antes de ocurrir, no solo para que lo supiesen los judíos, sino también otras naciones, así como Su Evangelio se había de extender muy lejos de los límites de la tierra de Israel.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Se predice aquí: (a) Que Su venida no será aún por mucho tiempo: Lo veré, más no ahora (V. 17): \"Lo contempló en visión, pero a muchísima distancia\", ya que habían de pasar 14 a 15 siglos.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Que saldría de Jacob, como ESTRELLA y como cetro, lo que denota (indica) Su gloria y esplendor: La estrella resplandeciente de la mañana (Apocalipsis 2:28), por cuyo fulgor (resplandor) habían de ser guiados los magos (Mateo 2:2) quienes, sin duda, conocían de alguna manera esta profecía, el cetro (como símbolo de poder y dignidad) denota Su poder y autoridad, pues Él tendrá el dominio y Su reino será eterno. (Daniel 2:44; 7:14); (Lucas1:33).",
+        "referencias_inline": [
+          "Apocalipsis 2:28",
+          "Mateo 2:2",
+          "Daniel 2:44"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Que Su reino será universal y victorioso sobre toda oposición (Salmos 2:8-9; Apocalipsis 2:27; 19:15) lo que es tipificado (organizar) en las victorias de David sobre Moab y Edom, porque Cristo había de ser rey, no solo de Israel, sino de todo el mundo.",
+        "referencias_inline": [
+          "Salmos 2:8-9",
+          "Apocalipsis 2:27"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Éxodo 17:14, 16) (Números 24:20) Estos son los amalecitas (Amalec), eran cabeza de naciones por ser la primera en atacar a Israel, Balaam confirmaba la destrucción futura de Amalec, conforme había escrito Moisés casi cuarenta años antes.",
+        "referencias_inline": [
+          "Éxodo 17:14,16",
+          "Números 24:20"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Los ceneos (Números 24:21) tenían privilegios, que la misma naturaleza les había servido de admirable.",
+        "referencias_inline": [
+          "Números 24:21"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Números 24:24) Profecía que se adelanta hasta el tiempo de los griegos y de los romanos, puesto que las costas de Quitim no son otras que las de Italia.",
+        "referencias_inline": [
+          "Números 24:24"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "La introducción a esta parábola es digna de notarse: ¡Ay! ¿Quién vivirá cuando haga Dios estas cosas? (Números 24:23)",
+        "referencias_inline": [
+          "Números 24:23"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Números 31:8) Balaam fue muerto por Israel. Amén.",
+        "referencias_inline": [
+          "Números 31:8"
+        ]
+      }
+    ]
+  },
+  "busqueda": {
+    "texto_indexable": "el vano intento de maldecir numeros 24 10 25 voluntad de Dios sabiduria espiritual presencia de Dios voluntad de Dios santidad arrepentimiento perseverancia evangelio cuando se odia se detesta porque se aborrece por alguna razon ya hay odio y se le desea lo peor es algo que no deja a nadie ser feliz bueno que peligro grande en la vida aprendamos y seamos capaz de huir de tan grande mal balac quiere maldecir al pueblo y busca a balaam balaam abandona por completo lo que balac queria hacer al pueblo de Dios era propio que a balac le diera coraje y mucha molestia le echa de su presencia le despide a su pais y le niega los honores que le habia prometido hacerle para balaam le era bueno escapar balaam le dice que no hay porque molestarse ya el se lo habia avisado dandole una esperanza balaam le ofrece como si fuera de el el control de las profecias y le ofrece la ultima profecia el oficio de los profetas era bendecir y profetizar amonestando o animando en el nombre de jehova balaam cumple el oficio de profeta admirablemente bien al dirigirle Dios para que lo hiciera asi puesto que aunque el era como era la profecia sin embargo era verdadera numeros 24 16 vio la vision del omnipotente e incluso como dice antes conoce el conocimiento del altisimo con todo esto balaam no teme en realidad a Dios ni le ama ni ejercita una verdadera fe en el tan cerca del cielo puede llegar un hombre y con todo quedarse fuera balaam vio la vision del omnipotente pero no fue transformado a la misma imagen del senor 2 corintios 3 8 podemos mantener nuestra cara descubierta confesando y abandonando el pecado siendo totalmente francos con Dios y con nosotros mismos dejar caer los velos del pecado del fingimiento de toda hipocresia de falsas apariencias de toda medida a medias de todo si pero no balaam emite una profecia acerca del que habia v 18 de ser la corona y la gloria de israel quien es 1 david el tipo y figura bajo quien las huestes ejercito de israel se portaron varonilmente esto se cumplio cuando david derroto a moab y lo sometio 2 samuel 8 2 en ese mismo tiempo fueron sometidos igualmente los de edom al dominio de israel 2 samuel 8 14 v 17 el senor jesucristo el prometido mesias es el principalmente aludido como anticipo ante anticipado en la profecia pues era la voluntad de Dios que se diese asi referencia a su primera venida mucho tiempo antes de ocurrir no solo para que lo supiesen los judios sino tambien otras naciones asi como su evangelio se habia de extender muy lejos de los limites de la tierra de israel se predice aqui a que su venida no sera aun por mucho tiempo lo vere mas no ahora v 17 lo contemplo en vision pero a muchisima distancia ya que habian de pasar 14 a 15 siglos que saldria de jacob como estrella y como cetro lo que denota indica su gloria y esplendor la estrella resplandeciente de la manana apocalipsis 2 28 por cuyo fulgor resplandor habian de ser guiados los magos mateo 2 2 quienes sin duda conocian de alguna manera esta profecia el cetro como simbolo de poder y dignidad denota su poder y autoridad pues el tendra el dominio y su reino sera eterno daniel 2 44 7 14 lucas1 33 que su reino sera universal y victorioso sobre toda oposicion salmo 2 8 9 apocalipsis 2 27 19 15 lo que es tipificado organizar en las victorias de david sobre moab y edom porque cristo habia de ser rey no solo de israel sino de todo el mundo exodo 17 14 16 numeros 24 20 estos son los amalecitas amalec eran cabeza de naciones por ser la primera en atacar a israel balaam confirmaba la destruccion futura de amalec conforme habia escrito moises casi cuarenta anos antes los ceneos numeros 24 21 tenian privilegios que la misma naturaleza les habia servido de admirable numeros 24 24 profecia que se adelanta hasta el tiempo de los griegos y de los romanos puesto que las costas de quitim no son otras que las de italia la introduccion a esta parabola es digna de notarse ay quien vivira cuando haga Dios estas cosas numeros 24 23 numeros 31 8 balaam fue muerto por israel amen",
+    "alias_busqueda": [
+      "Estudio 1249",
+      "Números",
+      "Números 24",
+      "Números 24:10-25",
+      "voluntad de Dios",
+      "santidad",
+      "arrepentimiento",
+      "perseverancia",
+      "Sabiduría espiritual"
+    ]
+  },
+  "revision_manual": {
+    "requiere_revision": false,
+    "motivo": ""
+  },
+  "ui": {
+    "mostrar_credito_en_header": true,
+    "mostrar_numero_estudio": true,
+    "mostrar_fecha": true,
+    "mostrar_topicos": true,
+    "permitir_favorito": true,
+    "permitir_compartir": true
+  }
+}

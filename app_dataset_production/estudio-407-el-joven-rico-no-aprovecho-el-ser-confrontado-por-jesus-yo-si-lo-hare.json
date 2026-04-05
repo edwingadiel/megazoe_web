@@ -1,0 +1,597 @@
+{
+  "id": "estudio-407-el-joven-rico-no-aprovecho-el-ser-confrontado-por-Jesus-yo-si-lo-hare",
+  "slug": "estudio-407-el-joven-rico-no-aprovecho-el-ser-confrontado-por-Jesus-yo-si-lo-hare",
+  "numero_estudio": 407,
+  "tipo_estudio": "Iglesia en las casas",
+  "ministerio": {
+    "iglesia": "Iglesia Cristiana Mega Zoe",
+    "pastora": "Pastora Edith Cruz",
+    "credito_corto": "Iglesia Cristiana Mega Zoe · Pastora Edith Cruz",
+    "credito_largo": "Contenido original de Iglesia Cristiana Mega Zoe, conservando el crédito ministerial correspondiente a la Pastora Edith Cruz."
+  },
+  "identidad_editorial": {
+    "idioma": "es",
+    "fuente_original": "documento_pdf",
+    "archivo_origen": "/Users/edwingadiel/Desktop/PDF - Iglesias en las Casas/Estudio 407.pdf",
+    "estado_revision": "procesado",
+    "version_schema": "1.0"
+  },
+  "encabezado": {
+    "titulo": "El Joven Rico No Aprovechó El Ser Confrontado Por Jesús, Yo Sí Lo Haré",
+    "subtitulo": null,
+    "cita_principal": "Mateo 19:16-22",
+    "resumen_corto": "El Joven Rico No Aprovechó El Ser Confrontado Por Jesús, Yo Sí Lo Haré llama a vivir con la mirada puesta en la vida eterna."
+  },
+  "fechas": {
+    "fecha_inicio": null,
+    "fecha_fin": null,
+    "fecha_texto_original": "",
+    "ano": null
+  },
+  "clasificacion_biblica": {
+    "libro_principal": "Mateo",
+    "capitulo_principal": 19,
+    "versiculos_principales": [
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22
+    ],
+    "referencia_principal_normalizada": "Mateo 19:16-22",
+    "testamento_principal": "Nuevo Testamento"
+  },
+  "clasificacion_tematica": {
+    "topicos": [
+      "Vida eterna",
+      "Salvación",
+      "Justicia de Dios"
+    ],
+    "keywords": [
+      "vida eterna",
+      "santidad",
+      "arrepentimiento",
+      "perseverancia",
+      "altivez"
+    ]
+  },
+  "referencias_biblicas": [
+    {
+      "referencia": "Mateo 19:16-22",
+      "referencia_normalizada": "Mateo 19:16-22",
+      "libro": "Mateo",
+      "capitulo": 19,
+      "versiculos": [
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22
+      ],
+      "tipo": "principal",
+      "clickeable": true
+    },
+    {
+      "referencia": "Hechos 14: 22",
+      "referencia_normalizada": "Hechos 14:22",
+      "libro": "Hechos",
+      "capitulo": 14,
+      "versiculos": [
+        22
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Lucas 9: 23,24",
+      "referencia_normalizada": "Lucas 9:23,24",
+      "libro": "Lucas",
+      "capitulo": 9,
+      "versiculos": [
+        23,
+        24
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Gálatas 5: 16",
+      "referencia_normalizada": "Gálatas 5:16",
+      "libro": "Gálatas",
+      "capitulo": 5,
+      "versiculos": [
+        16
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Job 42: 5",
+      "referencia_normalizada": "Job 42:5",
+      "libro": "Job",
+      "capitulo": 42,
+      "versiculos": [
+        5
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Mateo 1 9",
+      "referencia_normalizada": "Mateo 1:9",
+      "libro": "Mateo",
+      "capitulo": 1,
+      "versiculos": [
+        9
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "2 Pedro 3: 1",
+      "referencia_normalizada": "2 Pedro 3:1",
+      "libro": "2 Pedro",
+      "capitulo": 3,
+      "versiculos": [
+        1
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Mateo 19:21",
+      "referencia_normalizada": "Mateo 19:21",
+      "libro": "Mateo",
+      "capitulo": 19,
+      "versiculos": [
+        21
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Mateo 5: 48",
+      "referencia_normalizada": "Mateo 5:48",
+      "libro": "Mateo",
+      "capitulo": 5,
+      "versiculos": [
+        48
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Santiago 1: 4",
+      "referencia_normalizada": "Santiago 1:4",
+      "libro": "Santiago",
+      "capitulo": 1,
+      "versiculos": [
+        4
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Gálatas 2: 20",
+      "referencia_normalizada": "Gálatas 2:20",
+      "libro": "Gálatas",
+      "capitulo": 2,
+      "versiculos": [
+        20
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    }
+  ],
+  "contenido": {
+    "introduccion": "Vivir esta vida sin una estrecha relación con el Señor es bien peligrosa aunque algunos no lo quieran aceptar. Les pueden surgir muchas cosas negativas a los que se sobre-confian en una pobre relación con Dios. Viven ajenos a la verdadera.comunión con el Señor, pero aún así se convierten en prepotentes confiando en que Dios cuida y controla todo en sus vidas. Se les olvida que debe haber una dependencia de Dios total en nuestra vida porque las cosas en este camino no son tan fáciles como algunos creen. Hechos 14: 22 A veces pensamos que en la Iglesia se nos van a realizar nuestros sueños de la noche a la mañana sin pasar por pruebas de nuestra fe, luchas con el enemigo y negaciones a nuestra carne. Lucas 9: 23,24 El joven rico estaba muy acomodado, tenía todo para ganar, tenía fortuna, pero cuando Jesús lo miró a los oj os fue confrontado pues se encontró con el Dador de la Vida. Cuando este joven fue creado Jesús estaba allí y su fortuna y todo lo que tenía le vino de Dios. Pero el joven se acercó a Jesús con toda su sutileza. A veces nosotros mismos nos acercamos a Jesús considerándole solo como Maestro y no como Dios. Es por eso que debemos conocer cada día más al Señor, porque mientras más le conocemos más sabemos cómo debemos comportarnos. En nuestra vida hay muchas cosas que nos hacen daño, hay que saber cuáles son, por eso hay que conocer al Señor y andar en el Espíritu. Gálatas 5: 16 A veces hay gente como este joven rico que está muy le jos de saber quien es Jesús. Para aquellos tiempos estaban los maestros y se les ponía mucha atención para aprender de ellos. Al joven rico se le pasó de ver que el que estaba en esta tierra no era un maestro como los demás, era Dios quien vino en Jesús. Hay que ver que Jesús se le presentó al joven como salvador; quería ser su salvador, librarlo. Pero el joven tenía muchas ambiciones y para nada tenía interés de caminar la vida que le restaba al lado de Jesús. Se le notó de inmediato, andaba detrás de sus propios intereses. Estaba muy confundido. Un hombre justo no se vende, no cambia de parecer por dinero, ni por nada. El hombre justo no tiene precio, nadie lo puede comprar porque ya ha sido comprado con la sangre más preciosa de esta tierra. Y el joven rico parecía demostrar ser un hombre justo. Parecía que estaba en total humillación; tenía todas las buenas cualidades de una buena educación. Se hincó de rodillas en muestra de humillación frente al Maestro; parecía ser dócil. En realidad era muy listo y astuto. Jesús no miró aquellos gestos, no miró lo de afuera sino el corazón. Causó maravilla en los demás, pero Jesús conocía lo que los demás desconocían. La vanidad le tenía confundido a aquel joven. Jesús quiso demostrarle que con quien hablaba era con Dios, pero aún así el muchacho no respondió como debía. Jesús vino a sanar, a enseñar, a salvar y estaba muy ocupado en eso para lo cual había venido a este mundo. Jesús sabía que en aquel joven no moraba el deseo de ayudar y de hacer el bien a otros, estaba enfocado en sus riquezas. Un mal común que tiene el ser humano es mencionar y echar la culpa a otros para salir bien. Jesús lo probó para saber cuánto él estaba dispuesto a amar a otros. Jesús nos prueba a todos para saber qué hay dentro de nosotros. La ley nos hace ver si somos transgresores de ella o no. Jesús le trae la ley a la conciencia del joven rico para que reconociera que la había quebrantado. Jesús quería abrirle los ojos de lo que estaba bien y de lo que estaba mal. Le tra jo la ley para producir en él conciencia para lo que era el pecado. La fortuna de este joven, sus riquezas se transformaron en sus ídolos, en su idolatría. Él le habló a Jesús desde su altivez violenta porque era rico. Había en él idolatría hacia su fortuna. Jesús lo confrontó y le comenzó a tocar los puntos del amor hacia los demás y le dejó ver donde fallaba. Cuando nos allegamos a Jesús Él nos confronta con lo que hay dentro nuestro. En nosotros muchas veces hay envidia, vanidad, celos, etc. Cual sea la idolatría Jesús nos va a confrontar. Él conoce al que se allega a Él. La idolatría que había en el joven rico lo ale jaría del Señor. Si lo que hay dentro de nosotros no es bueno, eso nos ale ja de Jesús. Aquel j oven cumplía con muchas cosas. Pero, a veces decimos que oramos y aunque cumplamos con las muchas cosas, no hay una entrega real y cuando no hay esto no podemos decir que somos hi jos, sino allegados; conocemos de oídos. Job 42: 5 Mateo 1 9: 1 7 Jesús amó a este joven y así también nos ama a cada uno de nosotros que luchamos por la vida eterna. Por esta vida terrenal no tenemos que luchar porque Dios nos la dio y escribió para ella. Lo que nos debe preocupar y por lo que debemos luchar es por no perder la vida eterna y así estar todos juntamente en la eternidad, pero el que no lo hace se pierde. En esta vida hay una gran batalla para que nos ale jemos y separemos de Dios para que no lleguemos al cielo. 2 Pedro 3: 1 7 Mateo 19:21 Aquel joven no estaba llegando con sus palabras a un hombre común sino a Dios. Nosotros también, además de buscar la vida eterna tenemos que buscar la perf ección. Nadie nos puede dar la perf ección aquí en la tierra por eso es que miramos a Dios. El que quiere ser perfecto tiene que amar la perfección misma. Si queremos vivir esta vida eterna tenemos que ser perf ectos. Mateo 5: 48 Santiago 1: 4 Cuando queremos amar la perfección nos llega un gran problema, Dios nos señalará la idolatría que pueda haber en nosotros, como la había en el joven rico hacia la riqueza. Cuando queremos ser perf ectos se nos señala lo que hay dentro no para vergüenza sino para humillación y postrer levantamiento. El Dios que nos llamó es el que nos señala. Es a Dios a quien le respondemos. Si queremos ser perf ectos andemos según el quiere y espera de nosotros, no nos estanquemos. Tenemos una vida que tenemos que cumplirla en perf ección, y esto es una lucha continua. Si sabemos que tenemos cosas que tenemos que dejar de jémoslas hoy mismo. Sabemos que tenemos que morir a nosotros. Gálatas 2: 20 Cuando Jesús le está señalando al joven rico su falta también lo estaba am<mdo. Ese amor Jesús lo lleva muy fuerte por nosotros y Él quiere que nosotros amemos la perf ección. Al joven se le ofreció la vida eterna, la perf ección y el amor de Jesús. La fortuna se acaba tan pronto se acaba la vida. Este joven se convirtió en pobre por no recibir la bendicitm de parte de Dios. Cuando no amamos la perf ección de nuestra vida hay pobreza, hay tristeza. Pobre será todo aquel que no sea capaz de de jarlo todo por Jesús. Rico el que lo ame, se niegue a sí mismo y lo siga. Amén.",
+    "secciones": [
+      {
+        "orden": 1,
+        "titulo": "Introducción",
+        "contenido": "Vivir esta vida sin una estrecha relación con el Señor es bien peligrosa aunque algunos no lo quieran",
+        "referencias_detectadas": []
+      },
+      {
+        "orden": 2,
+        "titulo": "Desarrollo",
+        "contenido": "aceptar. Les pueden surgir muchas cosas negativas a los que se sobre-confian en una pobre relación con Dios.\nViven ajenos a la verdadera.comunión con el Señor, pero aún así se convierten en prepotentes confiando en que\nDios cuida y controla todo en sus vidas. Se les olvida que debe haber una dependencia de Dios total en nuestra\nvida porque las cosas en este camino no son tan fáciles como algunos creen. Hechos 14: 22 A veces pensamos\nque en la Iglesia se nos van a realizar nuestros sueños de la noche a la mañana sin pasar por pruebas de nuestra fe,\nluchas con el enemigo y negaciones a nuestra carne. Lucas 9: 23,24\nEl joven rico estaba muy acomodado, tenía todo para ganar, tenía fortuna, pero cuando Jesús lo miró a los\noj os fue confrontado pues se encontró con el Dador de la Vida. Cuando este joven fue creado Jesús estaba allí y\nsu fortuna y todo lo que tenía le vino de Dios. Pero el joven se acercó a Jesús con toda su sutileza. A veces\nnosotros mismos nos acercamos a Jesús considerándole solo como Maestro y no como Dios. Es por eso que\ndebemos conocer cada día más al Señor, porque mientras más le conocemos más sabemos cómo debemos\ncomportarnos. En nuestra vida hay muchas cosas que nos hacen daño, hay que saber cuáles son, por eso hay que\nconocer al Señor y andar en el Espíritu. Gálatas 5: 16\nA veces hay gente como este joven rico que está muy le jos de saber quien es Jesús. Para aquellos tiempos\nestaban los maestros y se les ponía mucha atención para aprender de ellos. Al joven rico se le pasó de ver que el\nque estaba en esta tierra no era un maestro como los demás, era Dios quien vino en Jesús. Hay que ver que Jesús\nse le presentó al joven como salvador; quería ser su salvador, librarlo. Pero el joven tenía muchas ambiciones y\npara nada tenía interés de caminar la vida que le restaba al lado de Jesús. Se le notó de inmediato, andaba detrás\nde sus propios intereses. Estaba muy confundido.\nUn hombre justo no se vende, no cambia de parecer por dinero, ni por nada. El hombre justo no tiene precio,\nnadie lo puede comprar porque ya ha sido comprado con la sangre más preciosa de esta tierra. Y el joven rico\nparecía demostrar ser un hombre justo. Parecía que estaba en total humillación; tenía todas las buenas cualidades\nde una buena educación. Se hincó de rodillas en muestra de humillación frente al Maestro; parecía ser dócil. En\nrealidad era muy listo y astuto. Jesús no miró aquellos gestos, no miró lo de afuera sino el corazón. Causó\nmaravilla en los demás, pero Jesús conocía lo que los demás desconocían. La vanidad le tenía confundido a aquel\njoven. Jesús quiso demostrarle que con quien hablaba era con Dios, pero aún así el muchacho no respondió como\ndebía. Jesús vino a sanar, a enseñar, a salvar y estaba muy ocupado en eso para lo cual había venido a este\nmundo. Jesús sabía que en aquel joven no moraba el deseo de ayudar y de hacer el bien a otros, estaba enfocado\nen sus riquezas. Un mal común que tiene el ser humano es mencionar y echar la culpa a otros para salir bien.\nJesús lo probó para saber cuánto él estaba dispuesto a amar a otros. Jesús nos prueba a todos para saber qué hay\ndentro de nosotros.\nLa ley nos hace ver si somos transgresores de ella o no. Jesús le trae la ley a la conciencia del joven rico\npara que reconociera que la había quebrantado. Jesús quería abrirle los ojos de lo que estaba bien y de lo que\nestaba mal. Le tra jo la ley para producir en él conciencia para lo que era el pecado. La fortuna de este joven, sus\nriquezas se transformaron en sus ídolos, en su idolatría. Él le habló a Jesús desde su altivez violenta porque era\nrico. Había en él idolatría hacia su fortuna. Jesús lo confrontó y le comenzó a tocar los puntos del amor hacia\nlos demás y le dejó ver donde fallaba. Cuando nos allegamos a Jesús Él nos confronta con lo que hay dentro\nnuestro. En nosotros muchas veces hay envidia, vanidad, celos, etc. Cual sea la idolatría Jesús nos va a\nconfrontar. Él conoce al que se allega a Él. La idolatría que había en el joven rico lo ale jaría del Señor. Si lo que\nhay dentro de nosotros no es bueno, eso nos ale ja de Jesús. Aquel j oven cumplía con muchas cosas. Pero, a\nveces decimos que oramos y aunque cumplamos con las muchas cosas, no hay una entrega real y cuando no hay\nesto no podemos decir que somos hi jos, sino allegados; conocemos de oídos. Job 42: 5\nMateo 1 9: 1 7 Jesús amó a este joven y así también nos ama a cada uno de nosotros que luchamos por la vida\neterna. Por esta vida terrenal no tenemos que luchar porque Dios nos la dio y escribió para ella. Lo que nos debe\npreocupar y por lo que debemos luchar es por no perder la vida eterna y así estar todos juntamente en la eternidad,\npero el que no lo hace se pierde. En esta vida hay una gran batalla para que nos ale jemos y separemos de Dios\npara que no lleguemos al cielo. 2 Pedro 3: 1 7\nMateo 19:21 Aquel joven no estaba llegando con sus palabras a un hombre común sino a Dios. Nosotros\ntambién, además de buscar la vida eterna tenemos que buscar la perf ección. Nadie nos puede dar la perf ección\naquí en la tierra por eso es que miramos a Dios. El que quiere ser perfecto tiene que amar la perfección misma.\nSi queremos vivir esta vida eterna tenemos que ser perf ectos. Mateo 5: 48 Santiago 1: 4 Cuando queremos\namar la perfección nos llega un gran problema, Dios nos señalará la idolatría que pueda haber en nosotros, como\nla había en el joven rico hacia la riqueza. Cuando queremos ser perf ectos se nos señala lo que hay dentro no para\nvergüenza sino para humillación y postrer levantamiento. El Dios que nos llamó es el que nos señala. Es a Dios\na quien le respondemos. Si queremos ser perf ectos andemos según el quiere y espera de nosotros, no nos\nestanquemos. Tenemos una vida que tenemos que cumplirla en perf ección, y esto es una lucha continua. Si\nsabemos que tenemos cosas que tenemos que dejar de jémoslas hoy mismo. Sabemos que tenemos que morir a\nnosotros. Gálatas 2: 20\nCuando Jesús le está señalando al joven rico su falta también lo estaba am<mdo. Ese amor Jesús lo lleva muy\nfuerte por nosotros y Él quiere que nosotros amemos la perf ección. Al joven se le ofreció la vida eterna, la\nperf ección y el amor de Jesús. La fortuna se acaba tan pronto se acaba la vida. Este joven se convirtió en pobre\npor no recibir la bendicitm de parte de Dios. Cuando no amamos la perf ección de nuestra vida hay pobreza, hay\ntristeza. Pobre será todo aquel que no sea capaz de de jarlo todo por Jesús. Rico el que lo ame, se niegue a sí",
+        "referencias_detectadas": [
+          "Hechos 14:22",
+          "Lucas 9:23,24",
+          "Gálatas 5:16",
+          "Job 42:5",
+          "Mateo 1:9",
+          "2 Pedro 3:1",
+          "Mateo 19:21",
+          "Mateo 5:48",
+          "Santiago 1:4",
+          "Gálatas 2:20"
+        ]
+      },
+      {
+        "orden": 3,
+        "titulo": "Conclusión",
+        "contenido": "mismo y lo siga. Amén.",
+        "referencias_detectadas": []
+      }
+    ],
+    "contenido_completo": "Vivir esta vida sin una estrecha relación con el Señor es bien peligrosa aunque algunos no lo quieran aceptar. Les pueden surgir muchas cosas negativas a los que se sobre-confian en una pobre relación con Dios. Viven ajenos a la verdadera.comunión con el Señor, pero aún así se convierten en prepotentes confiando en que Dios cuida y controla todo en sus vidas. Se les olvida que debe haber una dependencia de Dios total en nuestra vida porque las cosas en este camino no son tan fáciles como algunos creen. Hechos 14: 22 A veces pensamos que en la Iglesia se nos van a realizar nuestros sueños de la noche a la mañana sin pasar por pruebas de nuestra fe, luchas con el enemigo y negaciones a nuestra carne. Lucas 9: 23,24 El joven rico estaba muy acomodado, tenía todo para ganar, tenía fortuna, pero cuando Jesús lo miró a los oj os fue confrontado pues se encontró con el Dador de la Vida. Cuando este joven fue creado Jesús estaba allí y su fortuna y todo lo que tenía le vino de Dios. Pero el joven se acercó a Jesús con toda su sutileza. A veces nosotros mismos nos acercamos a Jesús considerándole solo como Maestro y no como Dios. Es por eso que debemos conocer cada día más al Señor, porque mientras más le conocemos más sabemos cómo debemos comportarnos. En nuestra vida hay muchas cosas que nos hacen daño, hay que saber cuáles son, por eso hay que conocer al Señor y andar en el Espíritu. Gálatas 5: 16 A veces hay gente como este joven rico que está muy le jos de saber quien es Jesús. Para aquellos tiempos estaban los maestros y se les ponía mucha atención para aprender de ellos. Al joven rico se le pasó de ver que el que estaba en esta tierra no era un maestro como los demás, era Dios quien vino en Jesús. Hay que ver que Jesús se le presentó al joven como salvador; quería ser su salvador, librarlo. Pero el joven tenía muchas ambiciones y para nada tenía interés de caminar la vida que le restaba al lado de Jesús. Se le notó de inmediato, andaba detrás de sus propios intereses. Estaba muy confundido. Un hombre justo no se vende, no cambia de parecer por dinero, ni por nada. El hombre justo no tiene precio, nadie lo puede comprar porque ya ha sido comprado con la sangre más preciosa de esta tierra. Y el joven rico parecía demostrar ser un hombre justo. Parecía que estaba en total humillación; tenía todas las buenas cualidades de una buena educación. Se hincó de rodillas en muestra de humillación frente al Maestro; parecía ser dócil. En realidad era muy listo y astuto. Jesús no miró aquellos gestos, no miró lo de afuera sino el corazón. Causó maravilla en los demás, pero Jesús conocía lo que los demás desconocían. La vanidad le tenía confundido a aquel joven. Jesús quiso demostrarle que con quien hablaba era con Dios, pero aún así el muchacho no respondió como debía. Jesús vino a sanar, a enseñar, a salvar y estaba muy ocupado en eso para lo cual había venido a este mundo. Jesús sabía que en aquel joven no moraba el deseo de ayudar y de hacer el bien a otros, estaba enfocado en sus riquezas. Un mal común que tiene el ser humano es mencionar y echar la culpa a otros para salir bien. Jesús lo probó para saber cuánto él estaba dispuesto a amar a otros. Jesús nos prueba a todos para saber qué hay dentro de nosotros. La ley nos hace ver si somos transgresores de ella o no. Jesús le trae la ley a la conciencia del joven rico para que reconociera que la había quebrantado. Jesús quería abrirle los ojos de lo que estaba bien y de lo que estaba mal. Le tra jo la ley para producir en él conciencia para lo que era el pecado. La fortuna de este joven, sus riquezas se transformaron en sus ídolos, en su idolatría. Él le habló a Jesús desde su altivez violenta porque era rico. Había en él idolatría hacia su fortuna. Jesús lo confrontó y le comenzó a tocar los puntos del amor hacia los demás y le dejó ver donde fallaba. Cuando nos allegamos a Jesús Él nos confronta con lo que hay dentro nuestro. En nosotros muchas veces hay envidia, vanidad, celos, etc. Cual sea la idolatría Jesús nos va a confrontar. Él conoce al que se allega a Él. La idolatría que había en el joven rico lo ale jaría del Señor. Si lo que hay dentro de nosotros no es bueno, eso nos ale ja de Jesús. Aquel j oven cumplía con muchas cosas. Pero, a veces decimos que oramos y aunque cumplamos con las muchas cosas, no hay una entrega real y cuando no hay esto no podemos decir que somos hi jos, sino allegados; conocemos de oídos. Job 42: 5 Mateo 1 9: 1 7 Jesús amó a este joven y así también nos ama a cada uno de nosotros que luchamos por la vida eterna. Por esta vida terrenal no tenemos que luchar porque Dios nos la dio y escribió para ella. Lo que nos debe preocupar y por lo que debemos luchar es por no perder la vida eterna y así estar todos juntamente en la eternidad, pero el que no lo hace se pierde. En esta vida hay una gran batalla para que nos ale jemos y separemos de Dios para que no lleguemos al cielo. 2 Pedro 3: 1 7 Mateo 19:21 Aquel joven no estaba llegando con sus palabras a un hombre común sino a Dios. Nosotros también, además de buscar la vida eterna tenemos que buscar la perf ección. Nadie nos puede dar la perf ección aquí en la tierra por eso es que miramos a Dios. El que quiere ser perfecto tiene que amar la perfección misma. Si queremos vivir esta vida eterna tenemos que ser perf ectos. Mateo 5: 48 Santiago 1: 4 Cuando queremos amar la perfección nos llega un gran problema, Dios nos señalará la idolatría que pueda haber en nosotros, como la había en el joven rico hacia la riqueza. Cuando queremos ser perf ectos se nos señala lo que hay dentro no para vergüenza sino para humillación y postrer levantamiento. El Dios que nos llamó es el que nos señala. Es a Dios a quien le respondemos. Si queremos ser perf ectos andemos según el quiere y espera de nosotros, no nos estanquemos. Tenemos una vida que tenemos que cumplirla en perf ección, y esto es una lucha continua. Si sabemos que tenemos cosas que tenemos que dejar de jémoslas hoy mismo. Sabemos que tenemos que morir a nosotros. Gálatas 2: 20 Cuando Jesús le está señalando al joven rico su falta también lo estaba am<mdo. Ese amor Jesús lo lleva muy fuerte por nosotros y Él quiere que nosotros amemos la perf ección. Al joven se le ofreció la vida eterna, la perf ección y el amor de Jesús. La fortuna se acaba tan pronto se acaba la vida. Este joven se convirtió en pobre por no recibir la bendicitm de parte de Dios. Cuando no amamos la perf ección de nuestra vida hay pobreza, hay tristeza. Pobre será todo aquel que no sea capaz de de jarlo todo por Jesús. Rico el que lo ame, se niegue a sí mismo y lo siga. Amén.\n\nVivir esta vida sin una estrecha relación con el Señor es bien peligrosa aunque algunos no lo quieran\n\naceptar. Les pueden surgir muchas cosas negativas a los que se sobre-confian en una pobre relación con Dios.\nViven ajenos a la verdadera.comunión con el Señor, pero aún así se convierten en prepotentes confiando en que\nDios cuida y controla todo en sus vidas. Se les olvida que debe haber una dependencia de Dios total en nuestra\nvida porque las cosas en este camino no son tan fáciles como algunos creen. Hechos 14: 22 A veces pensamos\nque en la Iglesia se nos van a realizar nuestros sueños de la noche a la mañana sin pasar por pruebas de nuestra fe,\nluchas con el enemigo y negaciones a nuestra carne. Lucas 9: 23,24\nEl joven rico estaba muy acomodado, tenía todo para ganar, tenía fortuna, pero cuando Jesús lo miró a los\noj os fue confrontado pues se encontró con el Dador de la Vida. Cuando este joven fue creado Jesús estaba allí y\nsu fortuna y todo lo que tenía le vino de Dios. Pero el joven se acercó a Jesús con toda su sutileza. A veces\nnosotros mismos nos acercamos a Jesús considerándole solo como Maestro y no como Dios. Es por eso que\ndebemos conocer cada día más al Señor, porque mientras más le conocemos más sabemos cómo debemos\ncomportarnos. En nuestra vida hay muchas cosas que nos hacen daño, hay que saber cuáles son, por eso hay que\nconocer al Señor y andar en el Espíritu. Gálatas 5: 16\nA veces hay gente como este joven rico que está muy le jos de saber quien es Jesús. Para aquellos tiempos\nestaban los maestros y se les ponía mucha atención para aprender de ellos. Al joven rico se le pasó de ver que el\nque estaba en esta tierra no era un maestro como los demás, era Dios quien vino en Jesús. Hay que ver que Jesús\nse le presentó al joven como salvador; quería ser su salvador, librarlo. Pero el joven tenía muchas ambiciones y\npara nada tenía interés de caminar la vida que le restaba al lado de Jesús. Se le notó de inmediato, andaba detrás\nde sus propios intereses. Estaba muy confundido.\nUn hombre justo no se vende, no cambia de parecer por dinero, ni por nada. El hombre justo no tiene precio,\nnadie lo puede comprar porque ya ha sido comprado con la sangre más preciosa de esta tierra. Y el joven rico\nparecía demostrar ser un hombre justo. Parecía que estaba en total humillación; tenía todas las buenas cualidades\nde una buena educación. Se hincó de rodillas en muestra de humillación frente al Maestro; parecía ser dócil. En\nrealidad era muy listo y astuto. Jesús no miró aquellos gestos, no miró lo de afuera sino el corazón. Causó\nmaravilla en los demás, pero Jesús conocía lo que los demás desconocían. La vanidad le tenía confundido a aquel\njoven. Jesús quiso demostrarle que con quien hablaba era con Dios, pero aún así el muchacho no respondió como\ndebía. Jesús vino a sanar, a enseñar, a salvar y estaba muy ocupado en eso para lo cual había venido a este\nmundo. Jesús sabía que en aquel joven no moraba el deseo de ayudar y de hacer el bien a otros, estaba enfocado\nen sus riquezas. Un mal común que tiene el ser humano es mencionar y echar la culpa a otros para salir bien.\nJesús lo probó para saber cuánto él estaba dispuesto a amar a otros. Jesús nos prueba a todos para saber qué hay\ndentro de nosotros.\nLa ley nos hace ver si somos transgresores de ella o no. Jesús le trae la ley a la conciencia del joven rico\npara que reconociera que la había quebrantado. Jesús quería abrirle los ojos de lo que estaba bien y de lo que\nestaba mal. Le tra jo la ley para producir en él conciencia para lo que era el pecado. La fortuna de este joven, sus\nriquezas se transformaron en sus ídolos, en su idolatría. Él le habló a Jesús desde su altivez violenta porque era\nrico. Había en él idolatría hacia su fortuna. Jesús lo confrontó y le comenzó a tocar los puntos del amor hacia\nlos demás y le dejó ver donde fallaba. Cuando nos allegamos a Jesús Él nos confronta con lo que hay dentro\nnuestro. En nosotros muchas veces hay envidia, vanidad, celos, etc. Cual sea la idolatría Jesús nos va a\nconfrontar. Él conoce al que se allega a Él. La idolatría que había en el joven rico lo ale jaría del Señor. Si lo que\nhay dentro de nosotros no es bueno, eso nos ale ja de Jesús. Aquel j oven cumplía con muchas cosas. Pero, a\nveces decimos que oramos y aunque cumplamos con las muchas cosas, no hay una entrega real y cuando no hay\nesto no podemos decir que somos hi jos, sino allegados; conocemos de oídos. Job 42: 5\nMateo 1 9: 1 7 Jesús amó a este joven y así también nos ama a cada uno de nosotros que luchamos por la vida\neterna. Por esta vida terrenal no tenemos que luchar porque Dios nos la dio y escribió para ella. Lo que nos debe\npreocupar y por lo que debemos luchar es por no perder la vida eterna y así estar todos juntamente en la eternidad,\npero el que no lo hace se pierde. En esta vida hay una gran batalla para que nos ale jemos y separemos de Dios\npara que no lleguemos al cielo. 2 Pedro 3: 1 7\nMateo 19:21 Aquel joven no estaba llegando con sus palabras a un hombre común sino a Dios. Nosotros\ntambién, además de buscar la vida eterna tenemos que buscar la perf ección. Nadie nos puede dar la perf ección\naquí en la tierra por eso es que miramos a Dios. El que quiere ser perfecto tiene que amar la perfección misma.\nSi queremos vivir esta vida eterna tenemos que ser perf ectos. Mateo 5: 48 Santiago 1: 4 Cuando queremos\namar la perfección nos llega un gran problema, Dios nos señalará la idolatría que pueda haber en nosotros, como\nla había en el joven rico hacia la riqueza. Cuando queremos ser perf ectos se nos señala lo que hay dentro no para\nvergüenza sino para humillación y postrer levantamiento. El Dios que nos llamó es el que nos señala. Es a Dios\na quien le respondemos. Si queremos ser perf ectos andemos según el quiere y espera de nosotros, no nos\nestanquemos. Tenemos una vida que tenemos que cumplirla en perf ección, y esto es una lucha continua. Si\nsabemos que tenemos cosas que tenemos que dejar de jémoslas hoy mismo. Sabemos que tenemos que morir a\nnosotros. Gálatas 2: 20\nCuando Jesús le está señalando al joven rico su falta también lo estaba am<mdo. Ese amor Jesús lo lleva muy\nfuerte por nosotros y Él quiere que nosotros amemos la perf ección. Al joven se le ofreció la vida eterna, la\nperf ección y el amor de Jesús. La fortuna se acaba tan pronto se acaba la vida. Este joven se convirtió en pobre\npor no recibir la bendicitm de parte de Dios. Cuando no amamos la perf ección de nuestra vida hay pobreza, hay\ntristeza. Pobre será todo aquel que no sea capaz de de jarlo todo por Jesús. Rico el que lo ame, se niegue a sí\n\nmismo y lo siga. Amén.",
+    "contenido_renderizado": [
+      {
+        "tipo": "parrafo",
+        "texto": "Vivir esta vida sin una estrecha relación con el Señor es bien peligrosa aunque algunos no lo quieran",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "aceptar. Les pueden surgir muchas cosas negativas a los que se sobre-confian en una pobre relación con Dios.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Viven ajenos a la verdadera.comunión con el Señor, pero aún así se convierten en prepotentes confiando en que",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Dios cuida y controla todo en sus vidas. Se les olvida que debe haber una dependencia de Dios total en nuestra",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "vida porque las cosas en este camino no son tan fáciles como algunos creen. Hechos 14: 22 A veces pensamos",
+        "referencias_inline": [
+          "Hechos 14:22"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "que en la Iglesia se nos van a realizar nuestros sueños de la noche a la mañana sin pasar por pruebas de nuestra fe,",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "luchas con el enemigo y negaciones a nuestra carne. Lucas 9: 23,24",
+        "referencias_inline": [
+          "Lucas 9:23,24"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "El joven rico estaba muy acomodado, tenía todo para ganar, tenía fortuna, pero cuando Jesús lo miró a los",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "oj os fue confrontado pues se encontró con el Dador de la Vida. Cuando este joven fue creado Jesús estaba allí y",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "su fortuna y todo lo que tenía le vino de Dios. Pero el joven se acercó a Jesús con toda su sutileza. A veces",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "nosotros mismos nos acercamos a Jesús considerándole solo como Maestro y no como Dios. Es por eso que",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "debemos conocer cada día más al Señor, porque mientras más le conocemos más sabemos cómo debemos",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "comportarnos. En nuestra vida hay muchas cosas que nos hacen daño, hay que saber cuáles son, por eso hay que",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "conocer al Señor y andar en el Espíritu. Gálatas 5: 16",
+        "referencias_inline": [
+          "Gálatas 5:16"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "A veces hay gente como este joven rico que está muy le jos de saber quien es Jesús. Para aquellos tiempos",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "estaban los maestros y se les ponía mucha atención para aprender de ellos. Al joven rico se le pasó de ver que el",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "que estaba en esta tierra no era un maestro como los demás, era Dios quien vino en Jesús. Hay que ver que Jesús",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "se le presentó al joven como salvador; quería ser su salvador, librarlo. Pero el joven tenía muchas ambiciones y",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "para nada tenía interés de caminar la vida que le restaba al lado de Jesús. Se le notó de inmediato, andaba detrás",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "de sus propios intereses. Estaba muy confundido.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Un hombre justo no se vende, no cambia de parecer por dinero, ni por nada. El hombre justo no tiene precio,",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "nadie lo puede comprar porque ya ha sido comprado con la sangre más preciosa de esta tierra. Y el joven rico",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "parecía demostrar ser un hombre justo. Parecía que estaba en total humillación; tenía todas las buenas cualidades",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "de una buena educación. Se hincó de rodillas en muestra de humillación frente al Maestro; parecía ser dócil. En",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "realidad era muy listo y astuto. Jesús no miró aquellos gestos, no miró lo de afuera sino el corazón. Causó",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "maravilla en los demás, pero Jesús conocía lo que los demás desconocían. La vanidad le tenía confundido a aquel",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "joven. Jesús quiso demostrarle que con quien hablaba era con Dios, pero aún así el muchacho no respondió como",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "debía. Jesús vino a sanar, a enseñar, a salvar y estaba muy ocupado en eso para lo cual había venido a este",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "mundo. Jesús sabía que en aquel joven no moraba el deseo de ayudar y de hacer el bien a otros, estaba enfocado",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "en sus riquezas. Un mal común que tiene el ser humano es mencionar y echar la culpa a otros para salir bien.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Jesús lo probó para saber cuánto él estaba dispuesto a amar a otros. Jesús nos prueba a todos para saber qué hay",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "dentro de nosotros.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "La ley nos hace ver si somos transgresores de ella o no. Jesús le trae la ley a la conciencia del joven rico",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "para que reconociera que la había quebrantado. Jesús quería abrirle los ojos de lo que estaba bien y de lo que",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "estaba mal. Le tra jo la ley para producir en él conciencia para lo que era el pecado. La fortuna de este joven, sus",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "riquezas se transformaron en sus ídolos, en su idolatría. Él le habló a Jesús desde su altivez violenta porque era",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "rico. Había en él idolatría hacia su fortuna. Jesús lo confrontó y le comenzó a tocar los puntos del amor hacia",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "los demás y le dejó ver donde fallaba. Cuando nos allegamos a Jesús Él nos confronta con lo que hay dentro",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "nuestro. En nosotros muchas veces hay envidia, vanidad, celos, etc. Cual sea la idolatría Jesús nos va a",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "confrontar. Él conoce al que se allega a Él. La idolatría que había en el joven rico lo ale jaría del Señor. Si lo que",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "hay dentro de nosotros no es bueno, eso nos ale ja de Jesús. Aquel j oven cumplía con muchas cosas. Pero, a",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "veces decimos que oramos y aunque cumplamos con las muchas cosas, no hay una entrega real y cuando no hay",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "esto no podemos decir que somos hi jos, sino allegados; conocemos de oídos. Job 42: 5",
+        "referencias_inline": [
+          "Job 42:5"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Mateo 1 9: 1 7 Jesús amó a este joven y así también nos ama a cada uno de nosotros que luchamos por la vida",
+        "referencias_inline": [
+          "Mateo 1:9"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "eterna. Por esta vida terrenal no tenemos que luchar porque Dios nos la dio y escribió para ella. Lo que nos debe",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "preocupar y por lo que debemos luchar es por no perder la vida eterna y así estar todos juntamente en la eternidad,",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "pero el que no lo hace se pierde. En esta vida hay una gran batalla para que nos ale jemos y separemos de Dios",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "para que no lleguemos al cielo. 2 Pedro 3: 1 7",
+        "referencias_inline": [
+          "2 Pedro 3:1"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Mateo 19:21 Aquel joven no estaba llegando con sus palabras a un hombre común sino a Dios. Nosotros",
+        "referencias_inline": [
+          "Mateo 19:21"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "también, además de buscar la vida eterna tenemos que buscar la perf ección. Nadie nos puede dar la perf ección",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "aquí en la tierra por eso es que miramos a Dios. El que quiere ser perfecto tiene que amar la perfección misma.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Si queremos vivir esta vida eterna tenemos que ser perf ectos. Mateo 5: 48 Santiago 1: 4 Cuando queremos",
+        "referencias_inline": [
+          "Mateo 5:48",
+          "Santiago 1:4"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "amar la perfección nos llega un gran problema, Dios nos señalará la idolatría que pueda haber en nosotros, como",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "la había en el joven rico hacia la riqueza. Cuando queremos ser perf ectos se nos señala lo que hay dentro no para",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "vergüenza sino para humillación y postrer levantamiento. El Dios que nos llamó es el que nos señala. Es a Dios",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "a quien le respondemos. Si queremos ser perf ectos andemos según el quiere y espera de nosotros, no nos",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "estanquemos. Tenemos una vida que tenemos que cumplirla en perf ección, y esto es una lucha continua. Si",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "sabemos que tenemos cosas que tenemos que dejar de jémoslas hoy mismo. Sabemos que tenemos que morir a",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "nosotros. Gálatas 2: 20",
+        "referencias_inline": [
+          "Gálatas 2:20"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Cuando Jesús le está señalando al joven rico su falta también lo estaba am<mdo. Ese amor Jesús lo lleva muy",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "fuerte por nosotros y Él quiere que nosotros amemos la perf ección. Al joven se le ofreció la vida eterna, la",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "perf ección y el amor de Jesús. La fortuna se acaba tan pronto se acaba la vida. Este joven se convirtió en pobre",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "por no recibir la bendicitm de parte de Dios. Cuando no amamos la perf ección de nuestra vida hay pobreza, hay",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "tristeza. Pobre será todo aquel que no sea capaz de de jarlo todo por Jesús. Rico el que lo ame, se niegue a sí",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "mismo y lo siga. Amén.",
+        "referencias_inline": []
+      }
+    ]
+  },
+  "busqueda": {
+    "texto_indexable": "el joven rico no aprovecho el ser confrontado por Jesus yo si lo hare mateo 19 16 22 vida eterna salvacion justicia de Dios vida eterna santidad arrepentimiento perseverancia altivez vivir esta vida sin una estrecha relacion con el senor es bien peligrosa aunque algunos no lo quieran aceptar les pueden surgir muchas cosas negativas a los que se sobre confian en una pobre relacion con Dios viven ajenos a la verdadera comunion con el senor pero aun asi se convierten en prepotentes confiando en que Dios cuida y controla todo en sus vidas se les olvida que debe haber una dependencia de Dios total en nuestra vida porque las cosas en este camino no son tan faciles como algunos creen hechos 14 22 a veces pensamos que en la iglesia se nos van a realizar nuestros suenos de la noche a la manana sin pasar por pruebas de nuestra fe luchas con el enemigo y negaciones a nuestra carne lucas 9 23 24 el joven rico estaba muy acomodado tenia todo para ganar tenia fortuna pero cuando Jesus lo miro a los oj os fue confrontado pues se encontro con el dador de la vida cuando este joven fue creado Jesus estaba alli y su fortuna y todo lo que tenia le vino de Dios pero el joven se acerco a Jesus con toda su sutileza a veces nosotros mismos nos acercamos a Jesus considerandole solo como maestro y no como Dios es por eso que debemos conocer cada dia mas al senor porque mientras mas le conocemos mas sabemos como debemos comportarnos en nuestra vida hay muchas cosas que nos hacen dano hay que saber cuales son por eso hay que conocer al senor y andar en el espiritu galatas 5 16 a veces hay gente como este joven rico que esta muy le jos de saber quien es Jesus para aquellos tiempos estaban los maestros y se les ponia mucha atencion para aprender de ellos al joven rico se le paso de ver que el que estaba en esta tierra no era un maestro como los demas era Dios quien vino en Jesus hay que ver que Jesus se le presento al joven como salvador queria ser su salvador librarlo pero el joven tenia muchas ambiciones y para nada tenia interes de caminar la vida que le restaba al lado de Jesus se le noto de inmediato andaba detras de sus propios intereses estaba muy confundido un hombre justo no se vende no cambia de parecer por dinero ni por nada el hombre justo no tiene precio nadie lo puede comprar porque ya ha sido comprado con la sangre mas preciosa de esta tierra y el joven rico parecia demostrar ser un hombre justo parecia que estaba en total humillacion tenia todas las buenas cualidades de una buena educacion se hinco de rodillas en muestra de humillacion frente al maestro parecia ser docil en realidad era muy listo y astuto Jesus no miro aquellos gestos no miro lo de afuera sino el corazon causo maravilla en los demas pero Jesus conocia lo que los demas desconocian la vanidad le tenia confundido a aquel joven Jesus quiso demostrarle que con quien hablaba era con Dios pero aun asi el muchacho no respondio como debia Jesus vino a sanar a ensenar a salvar y estaba muy ocupado en eso para lo cual habia venido a este mundo Jesus sabia que en aquel joven no moraba el deseo de ayudar y de hacer el bien a otros estaba enfocado en sus riquezas un mal comun que tiene el ser humano es mencionar y echar la culpa a otros para salir bien Jesus lo probo para saber cuanto el estaba dispuesto a amar a otros Jesus nos prueba a todos para saber que hay dentro de nosotros la ley nos hace ver si somos transgresores de ella o no Jesus le trae la ley a la conciencia del joven rico para que reconociera que la habia quebrantado Jesus queria abrirle los ojos de lo que estaba bien y de lo que estaba mal le tra jo la ley para producir en el conciencia para lo que era el pecado la fortuna de este joven sus riquezas se transformaron en sus idolos en su idolatria el le hablo a Jesus desde su altivez violenta porque era rico habia en el idolatria hacia su fortuna Jesus lo confronto y le comenzo a tocar los puntos del amor hacia los demas y le dejo ver donde fallaba cuando nos allegamos a Jesus el nos confronta con lo que hay dentro nuestro en nosotros muchas veces hay envidia vanidad celos etc cual sea la idolatria Jesus nos va a confrontar el conoce al que se allega a el la idolatria que habia en el joven rico lo ale jaria del senor si lo que hay dentro de nosotros no es bueno eso nos ale ja de Jesus aquel j oven cumplia con muchas cosas pero a veces decimos que oramos y aunque cumplamos con las muchas cosas no hay una entrega real y cuando no hay esto no podemos decir que somos hi jos sino allegados conocemos de oidos job 42 5 mateo 1 9 1 7 Jesus amo a este joven y asi tambien nos ama a cada uno de nosotros que luchamos por la vida eterna por esta vida terrenal no tenemos que luchar porque Dios nos la dio y escribio para ella lo que nos debe preocupar y por lo que debemos luchar es por no perder la vida eterna y asi estar todos juntamente en la eternidad pero el que no lo hace se pierde en esta vida hay una gran batalla para que nos ale jemos y separemos de Dios para que no lleguemos al cielo 2 pedro 3 1 7 mateo 19 21 aquel joven no estaba llegando con sus palabras a un hombre comun sino a Dios nosotros tambien ademas de buscar la vida eterna tenemos que buscar la perf eccion nadie nos puede dar la perf eccion aqui en la tierra por eso es que miramos a Dios el que quiere ser perfecto tiene que amar la perfeccion misma si queremos vivir esta vida eterna tenemos que ser perf ectos mateo 5 48 santiago 1 4 cuando queremos amar la perfeccion nos llega un gran problema Dios nos senalara la idolatria que pueda haber en nosotros como la habia en el joven rico hacia la riqueza cuando queremos ser perf ectos se nos senala lo que hay dentro no para verguenza sino para humillacion y postrer levantamiento el Dios que nos llamo es el que nos senala es a Dios a quien le respondemos si queremos ser perf ectos andemos segun el quiere y espera de nosotros no nos estanquemos tenemos una vida que tenemos que cumplirla en perf eccion y esto es una lucha continua si sabemos que tenemos cosas que tenemos que dejar de jemoslas hoy mismo sabemos que tenemos que morir a nosotros galatas 2 20 cuando Jesus le esta senalando al joven rico su falta tambien lo estaba am mdo ese amor Jesus lo lleva muy fuerte por nosotros y el quiere que nosotros amemos la perf eccion al joven se le ofrecio la vida eterna la perf eccion y el amor de Jesus la fortuna se acaba tan pronto se acaba la vida este joven se convirtio en pobre por no recibir la bendicitm de parte de Dios cuando no amamos la perf eccion de nuestra vida hay pobreza hay tristeza pobre sera todo aquel que no sea capaz de de jarlo todo por Jesus rico el que lo ame se niegue a si mismo y lo siga amen vivir esta vida sin una estrecha relacion con el senor es bien peligrosa aunque algunos no lo quieran aceptar les pueden surgir muchas cosas negativas a los que se sobre confian en una pobre relacion con Dios viven ajenos a la verdadera comunion con el senor pero aun asi se convierten en prepotentes confiando en que Dios cuida y controla todo en sus vidas se les olvida que debe haber una dependencia de Dios total en nuestra vida porque las cosas en este camino no son tan faciles como algunos creen hechos 14 22 a veces pensamos que en la iglesia se nos van a realizar nuestros suenos de la noche a la manana sin pasar por pruebas de nuestra fe luchas con el enemigo y negaciones a nuestra carne lucas 9 23 24 el joven rico estaba muy acomodado tenia todo para ganar tenia fortuna pero cuando Jesus lo miro a los oj os fue confrontado pues se encontro con el dador de la vida cuando este joven fue creado Jesus estaba alli y su fortuna y todo lo que tenia le vino de Dios pero el joven se acerco a Jesus con toda su sutileza a veces nosotros mismos nos acercamos a Jesus considerandole solo como maestro y no como Dios es por eso que debemos conocer cada dia mas al senor porque mientras mas le conocemos mas sabemos como debemos comportarnos en nuestra vida hay muchas cosas que nos hacen dano hay que saber cuales son por eso hay que conocer al senor y andar en el espiritu galatas 5 16 a veces hay gente como este joven rico que esta muy le jos de saber quien es Jesus para aquellos tiempos estaban los maestros y se les ponia mucha atencion para aprender de ellos al joven rico se le paso de ver que el que estaba en esta tierra no era un maestro como los demas era Dios quien vino en Jesus hay que ver que Jesus se le presento al joven como salvador queria ser su salvador librarlo pero el joven tenia muchas ambiciones y para nada tenia interes de caminar la vida que le restaba al lado de Jesus se le noto de inmediato andaba detras de sus propios intereses estaba muy confundido un hombre justo no se vende no cambia de parecer por dinero ni por nada el hombre justo no tiene precio nadie lo puede comprar porque ya ha sido comprado con la sangre mas preciosa de esta tierra y el joven rico parecia demostrar ser un hombre justo parecia que estaba en total humillacion tenia todas las buenas cualidades de una buena educacion se hinco de rodillas en muestra de humillacion frente al maestro parecia ser docil en realidad era muy listo y astuto Jesus no miro aquellos gestos no miro lo de afuera sino el corazon causo maravilla en los demas pero Jesus conocia lo que los demas desconocian la vanidad le tenia confundido a aquel joven Jesus quiso demostrarle que con quien hablaba era con Dios pero aun asi el muchacho no respondio como debia Jesus vino a sanar a ensenar a salvar y estaba muy ocupado en eso para lo cual habia venido a este mundo Jesus sabia que en aquel joven no moraba el deseo de ayudar y de hacer el bien a otros estaba enfocado en sus riquezas un mal comun que tiene el ser humano es mencionar y echar la culpa a otros para salir bien Jesus lo probo para saber cuanto el estaba dispuesto a amar a otros Jesus nos prueba a todos para saber que hay dentro de nosotros la ley nos hace ver si somos transgresores de ella o no Jesus le trae la ley a la conciencia del joven rico para que reconociera que la habia quebrantado Jesus queria abrirle los ojos de lo que estaba bien y de lo que estaba mal le tra jo la ley para producir en el conciencia para lo que era el pecado la fortuna de este joven sus riquezas se transformaron en sus idolos en su idolatria el le hablo a Jesus desde su altivez violenta porque era rico habia en el idolatria hacia su fortuna Jesus lo confronto y le comenzo a tocar los puntos del amor hacia los demas y le dejo ver donde fallaba cuando nos allegamos a Jesus el nos confronta con lo que hay dentro nuestro en nosotros muchas veces hay envidia vanidad celos etc cual sea la idolatria Jesus nos va a confrontar el conoce al que se allega a el la idolatria que habia en el joven rico lo ale jaria del senor si lo que hay dentro de nosotros no es bueno eso nos ale ja de Jesus aquel j oven cumplia con muchas cosas pero a veces decimos que oramos y aunque cumplamos con las muchas cosas no hay una entrega real y cuando no hay esto no podemos decir que somos hi jos sino allegados conocemos de oidos job 42 5 mateo 1 9 1 7 Jesus amo a este joven y asi tambien nos ama a cada uno de nosotros que luchamos por la vida eterna por esta vida terrenal no tenemos que luchar porque Dios nos la dio y escribio para ella lo que nos debe preocupar y por lo que debemos luchar es por no perder la vida eterna y asi estar todos juntamente en la eternidad pero el que no lo hace se pierde en esta vida hay una gran batalla para que nos ale jemos y separemos de Dios para que no lleguemos al cielo 2 pedro 3 1 7 mateo 19 21 aquel joven no estaba llegando con sus palabras a un hombre comun sino a Dios nosotros tambien ademas de buscar la vida eterna tenemos que buscar la perf eccion nadie nos puede dar la perf eccion aqui en la tierra por eso es que miramos a Dios el que quiere ser perfecto tiene que amar la perfeccion misma si queremos vivir esta vida eterna tenemos que ser perf ectos mateo 5 48 santiago 1 4 cuando queremos amar la perfeccion nos llega un gran problema Dios nos senalara la idolatria que pueda haber en nosotros como la habia en el joven rico hacia la riqueza cuando queremos ser perf ectos se nos senala lo que hay dentro no para verguenza sino para humillacion y postrer levantamiento el Dios que nos llamo es el que nos senala es a Dios a quien le respondemos si queremos ser perf ectos andemos segun el quiere y espera de nosotros no nos estanquemos tenemos una vida que tenemos que cumplirla en perf eccion y esto es una lucha continua si sabemos que tenemos cosas que tenemos que dejar de jemoslas hoy mismo sabemos que tenemos que morir a nosotros galatas 2 20 cuando Jesus le esta senalando al joven rico su falta tambien lo estaba am mdo ese amor Jesus lo lleva muy fuerte por nosotros y el quiere que nosotros amemos la perf eccion al joven se le ofrecio la vida eterna la perf eccion y el amor de Jesus la fortuna se acaba tan pronto se acaba la vida este joven se convirtio en pobre por no recibir la bendicitm de parte de Dios cuando no amamos la perf eccion de nuestra vida hay pobreza hay tristeza pobre sera todo aquel que no sea capaz de de jarlo todo por Jesus rico el que lo ame se niegue a si mismo y lo siga amen",
+    "alias_busqueda": [
+      "El Joven Rico No Aprovechó El Ser Confrontado Por Jesús, Yo Sí Lo Haré",
+      "Mateo",
+      "Mateo 19",
+      "Mateo 19:16-22",
+      "vida eterna",
+      "santidad",
+      "arrepentimiento",
+      "perseverancia",
+      "Salvación"
+    ]
+  },
+  "revision_manual": {
+    "requiere_revision": false,
+    "motivo": ""
+  },
+  "ui": {
+    "mostrar_credito_en_header": true,
+    "mostrar_numero_estudio": true,
+    "mostrar_fecha": true,
+    "mostrar_topicos": true,
+    "permitir_favorito": true,
+    "permitir_compartir": true
+  }
+}

@@ -1,0 +1,566 @@
+{
+  "id": "estudio-1292-estudio-1292",
+  "slug": "estudio-1292-estudio-1292",
+  "numero_estudio": 1292,
+  "tipo_estudio": "Iglesia en las casas",
+  "ministerio": {
+    "iglesia": "Iglesia Cristiana Mega Zoe",
+    "pastora": "Pastora Edith Cruz",
+    "credito_corto": "Iglesia Cristiana Mega Zoe · Pastora Edith Cruz",
+    "credito_largo": "Contenido original de Iglesia Cristiana Mega Zoe, conservando el crédito ministerial correspondiente a la Pastora Edith Cruz."
+  },
+  "identidad_editorial": {
+    "idioma": "es",
+    "fuente_original": "documento_word",
+    "archivo_origen": "/Users/edwingadiel/Desktop/Estudios en Word/Estudio #1292 El hará grandes cosas para ellos - Exodo 23 20-33.docx",
+    "estado_revision": "procesado",
+    "version_schema": "1.0"
+  },
+  "encabezado": {
+    "titulo": "Él Hará Grandes Cosas Para Ellos",
+    "subtitulo": null,
+    "cita_principal": "Éxodo 23:20-33",
+    "resumen_corto": "Él Hará Grandes Cosas Para Ellos enseña a atender la Palabra de Dios y vivir en santidad."
+  },
+  "fechas": {
+    "fecha_inicio": null,
+    "fecha_fin": null,
+    "fecha_texto_original": "",
+    "ano": null
+  },
+  "clasificacion_biblica": {
+    "libro_principal": "Éxodo",
+    "capitulo_principal": 23,
+    "versiculos_principales": [
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33
+    ],
+    "referencia_principal_normalizada": "Éxodo 23:20-33",
+    "testamento_principal": "Antiguo Testamento"
+  },
+  "clasificacion_tematica": {
+    "topicos": [
+      "Palabra de Dios",
+      "Santidad",
+      "Promesas de Dios",
+      "Justicia de Dios",
+      "Familia"
+    ],
+    "keywords": [
+      "temor de Dios",
+      "falsos maestros",
+      "santidad",
+      "mundo",
+      "filisteos",
+      "Corinto",
+      "arca",
+      "altivez"
+    ]
+  },
+  "referencias_biblicas": [
+    {
+      "referencia": "Éxodo 23:20-33",
+      "referencia_normalizada": "Éxodo 23:20-33",
+      "libro": "Éxodo",
+      "capitulo": 23,
+      "versiculos": [
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33
+      ],
+      "tipo": "principal",
+      "clickeable": true
+    },
+    {
+      "referencia": "Éxodo 23:33",
+      "referencia_normalizada": "Éxodo 23:33",
+      "libro": "Éxodo",
+      "capitulo": 23,
+      "versiculos": [
+        33
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "2 Corintios 6:14-18",
+      "referencia_normalizada": "2 Corintios 6:14-18",
+      "libro": "2 Corintios",
+      "capitulo": 6,
+      "versiculos": [
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "2 Corintios 6:14",
+      "referencia_normalizada": "2 Corintios 6:14",
+      "libro": "2 Corintios",
+      "capitulo": 6,
+      "versiculos": [
+        14
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Éxodo 29:45",
+      "referencia_normalizada": "Éxodo 29:45",
+      "libro": "Éxodo",
+      "capitulo": 29,
+      "versiculos": [
+        45
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Levítico 26:12",
+      "referencia_normalizada": "Levítico 26:12",
+      "libro": "Levítico",
+      "capitulo": 26,
+      "versiculos": [
+        12
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Ezequiel 37:27",
+      "referencia_normalizada": "Ezequiel 37:27",
+      "libro": "Ezequiel",
+      "capitulo": 37,
+      "versiculos": [
+        27
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Isaías 52:11",
+      "referencia_normalizada": "Isaías 52:11",
+      "libro": "Isaías",
+      "capitulo": 52,
+      "versiculos": [
+        11
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "2 Corintios 7:1",
+      "referencia_normalizada": "2 Corintios 7:1",
+      "libro": "2 Corintios",
+      "capitulo": 7,
+      "versiculos": [
+        1
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "2 Corintios 6:17-18",
+      "referencia_normalizada": "2 Corintios 6:17-18",
+      "libro": "2 Corintios",
+      "capitulo": 6,
+      "versiculos": [
+        17,
+        18
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    }
+  ],
+  "contenido": {
+    "introduccion": null,
+    "secciones": [],
+    "contenido_completo": "Aquí Dios promete enviar Su Ángel (el mismo Señor) delante de los israelitas, para guiarlos a la Tierra Prometida y para echar \"fuera\" a los habitantes paganos. Si este pueblo se apartase de la idolatría y obedecieran al Señor, \"Él haría grandes cosas para ellos\".\n\nLos límites se extenderían \"desde el Mar Rojo hasta el mar de los filisteos y desde el desierto hasta el Éufrates\".\n\nVeamos el mandamiento de echar de delante suyo a los habitantes de la tierra.\n\nEste pueblo tenía que cumplir los deberes para con Dios.\n\nSi amas a Dios con todas tus fuerzas esto es tu verdad también.\n\nNotemos el mandamiento de echar \"de delante suyo\" a los habitantes de la tierra.\n\nQuedó prohibido cualquier alianza (unión), idolatría o entremezcla (mezclar una cosa con otra, confundir).\n\nDios los iba a librar de todos sus enemigos, pero ellos tenían que ayudar.\n\nEsto hace resaltar un principio espiritual importante: Dios nos da la victoria sobre nuestros enemigos (el mundo, la carne y el diablo), \"pero espera que luchemos la buena batalla de fe\".\n\nEl versículo Éxodo 23:33 tiene su complemento en 2 Corintios 6:14-18:\n\na. Pablo (2 Corintios 6:14) le dice que sean abiertos con Él en su afecto.\n\nb. Ahora les explica que una forma de hacer esto es separarse de toda clase de pecado e injusticia.\n\nc. Es indudable que está pensando en parte de los falsos maestros que habían invadido la asamblea en Corinto.\n\nd. Es una clara instrucción de que el creyente debe separarse de incrédulos, de la \"iniquidad\", \"de las tinieblas\", de Belial, de los ídolos.\n\ne. Un cristiano no debería contraer matrimonio con una persona (incrédula) inconversa (no cree lo que tú crees).\n\nf. En los negocios de igual.\n\ng. Un cristiano no debería participar como socio con alguien que no conoce al Señor.\n\nh. Donde el socio no quiere saber nada del Señor y menos es fiel al Señor, no hay pureza, ni obedece lo puro.\n\ni. No se debe ser partícipe de sus placeres mundanos.\n\nj. El impío, incrédulo no es miembro de la iglesia de Cristo.\n\nk. Que compañerismo tiene la justicia con la injusticia, describe toda la esfera de conducta moral.\n\nl. Luz y tinieblas tienen que ver con el conocimiento de las cosas de Dios.\n\nm. Cristo y Belial tienen que ver con el ámbito (espacio y conjunto de personas) de la autoridad, en otras palabras, la persona o cosa a quien uno reconoce como amo en su vida.\n\nn. Creyente e incrédulo tienen que ver con el ámbito (espacio, límite perimetral de un sitio) de la fe.\n\no. Es a Dios o los ídolos, que se le debe dar culto en lo absoluto.\n\nLa justicia y la injusticia no pueden tener comunión: son opuestos morales.\n\nTampoco puede la luz tener comunión… con las tinieblas.\n\nCuando la luz entra en una estancia (de estar o permanecer, viniendo), las tinieblas se desvanecen.\n\nAmbas no pueden existir juntas a la vez.\n\n(V. 15) El nombre de Belial significa \"indignidad\" (no es merecedor, ruin, bajo, malo) o maldad (un mal).\n\nAquí tenemos un nombre del Malo.\n\n¿Puede jamás haber paz entre Cristo y Satanás?\n\n¡Claro que no!\n\nTampoco puede haber comunión (unión, lazo, vínculo, conexión) entre un creyente y un incrédulo.\n\nIntentarlo es cometer traición contra el Señor.\n\n(16) Los ídolos no tienen nada que ver con \"el santuario de Dios.\"\n\nSiendo así, ¿Cómo pueden los creyentes mantener contacto con ídolos, cuando son ellos el santuario del Dios viviente?\n\nEres el santuario del Dios viviente.\n\nEs de saber aquí, ídolos se refiere no solo a imágenes talladas sino a todo aquello que se interponga entre el alma y Cristo.\n\nPodría ser el dinero, el placer, la fama o las cosas materiales.\n\nEl apóstol encuentra abundantes pruebas \"de que somos\" el templo del Dios viviente: Éxodo 29:45; Y habitaré entre los hijos de Israel y seré su Dios; Levítico 26:12: Y andaré entre vosotros y yo seré vuestro Dios y vosotros seréis mi pueblo. Ezequiel 37:27: Estará en medio de ellos mi tabernáculo y seré a ellos por Dios y ellos me serán por pueblo: aquí es Jesús y la Iglesia.\n\nPablo espera que los cristianos sean tan fervorosos como los judíos en mantener inviolada la santidad de la casa de Dios; y ahora nos dice que esta casa somos nosotros; somos nosotros mismos lo que hemos de \"mantenernos sin mancha del mundo\".\n\n(V. 17) Pablo hace un desafiante llamamiento a salir.\n\nCita a Isaías 52:11.\n\nAquí tenemos las llanas instrucciones de Dios a Su pueblo acerca de la separación del mal.\n\nLos cristianos no deben quedarse en medio de él, como parte de él (Isaías 52:11 inmunda), a fin de remediarlo.\n\n\"El programa de Dios es salir.\"\n\nEn este versículo, lo inmundo es primariamente el mundo pagano, sin duda, pero se aplica también a toda forma de mal, sea comercial, social o \"religioso.\"\n\n(V. 18) A menudo \"es muy difícil\" para los creyentes cortar lazos que han existido durante años para \"ser obediente a la palabra de Dios.\"\n\nY seré para vosotros por Padre y vosotros me seréis por hijos e hijas dice el Señor Todopoderoso.\n\nLa forma de mantenerse con Cristo en comunión en este mundo lleno de maldad es conservando la comunión con el Padre.\n\n¿Cómo te mantienes con Cristo?\n\nDebemos dejar aquel círculo de comunión en el que Jesús no es honrado y exaltado como Hijo bien amado de Dios y Salvador del mundo.\n\nPodrán hacer más por Dios fuera de tal círculo de comunión que lo que jamás conseguirán dentro de él.\n\n(2 Corintios 7:1) Las promesas (2 Corintios 6:17-18); Yo os acogeré… seré para vosotros por Padre… me seréis por hijos e hijas.\n\nA la vista de estas maravillosas promesas de Dios, deberíamos limpiarnos de toda contaminación de carne y de espíritu.\n\nLa contaminación de la carne incluye toda forma de impureza física, mientras que la contaminación del espíritu abarca la vida interior, \"los motivos\" y los pensamientos.\n\nPerfeccionando la santidad en el temor de Dios.\n\nTeme, deja la altivez, prepotencia y de creerte que puedes destruir la Iglesia de Cristo, lavada con Su sangre; aquí, búsqueda y santidad de años.\n\nNo es solo dejar el mal, es ser capaz de ser amoldados al Señor Jesucristo en nuestras vidas diarias.\n\nLa santificación práctica es un proceso que prosigue a todo lo largo de nuestra vida.\n\nVamos creciendo en la semejanza de Cristo hasta aquel día que le veremos cara a cara y entonces seremos como Él por toda la eternidad.\n\n(McCheyne) \"Señor hazme tan santo como sea posible para alguien a este lado del cielo.\" Amén.",
+    "contenido_renderizado": [
+      {
+        "tipo": "parrafo",
+        "texto": "Aquí Dios promete enviar Su Ángel (el mismo Señor) delante de los israelitas, para guiarlos a la Tierra Prometida y para echar \"fuera\" a los habitantes paganos. Si este pueblo se apartase de la idolatría y obedecieran al Señor, \"Él haría grandes cosas para ellos\".",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Los límites se extenderían \"desde el Mar Rojo hasta el mar de los filisteos y desde el desierto hasta el Éufrates\".",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Veamos el mandamiento de echar de delante suyo a los habitantes de la tierra.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Este pueblo tenía que cumplir los deberes para con Dios.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Si amas a Dios con todas tus fuerzas esto es tu verdad también.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Notemos el mandamiento de echar \"de delante suyo\" a los habitantes de la tierra.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Quedó prohibido cualquier alianza (unión), idolatría o entremezcla (mezclar una cosa con otra, confundir).",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Dios los iba a librar de todos sus enemigos, pero ellos tenían que ayudar.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Esto hace resaltar un principio espiritual importante: Dios nos da la victoria sobre nuestros enemigos (el mundo, la carne y el diablo), \"pero espera que luchemos la buena batalla de fe\".",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "El versículo Éxodo 23:33 tiene su complemento en 2 Corintios 6:14-18:",
+        "referencias_inline": [
+          "Éxodo 23:33",
+          "2 Corintios 6:14-18"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "a. Pablo (2 Corintios 6:14) le dice que sean abiertos con Él en su afecto.",
+        "referencias_inline": [
+          "2 Corintios 6:14"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "b. Ahora les explica que una forma de hacer esto es separarse de toda clase de pecado e injusticia.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "c. Es indudable que está pensando en parte de los falsos maestros que habían invadido la asamblea en Corinto.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "d. Es una clara instrucción de que el creyente debe separarse de incrédulos, de la \"iniquidad\", \"de las tinieblas\", de Belial, de los ídolos.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "e. Un cristiano no debería contraer matrimonio con una persona (incrédula) inconversa (no cree lo que tú crees).",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "f. En los negocios de igual.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "g. Un cristiano no debería participar como socio con alguien que no conoce al Señor.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "h. Donde el socio no quiere saber nada del Señor y menos es fiel al Señor, no hay pureza, ni obedece lo puro.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "i. No se debe ser partícipe de sus placeres mundanos.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "j. El impío, incrédulo no es miembro de la iglesia de Cristo.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "k. Que compañerismo tiene la justicia con la injusticia, describe toda la esfera de conducta moral.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "l. Luz y tinieblas tienen que ver con el conocimiento de las cosas de Dios.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "m. Cristo y Belial tienen que ver con el ámbito (espacio y conjunto de personas) de la autoridad, en otras palabras, la persona o cosa a quien uno reconoce como amo en su vida.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "n. Creyente e incrédulo tienen que ver con el ámbito (espacio, límite perimetral de un sitio) de la fe.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "o. Es a Dios o los ídolos, que se le debe dar culto en lo absoluto.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "La justicia y la injusticia no pueden tener comunión: son opuestos morales.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Tampoco puede la luz tener comunión… con las tinieblas.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Cuando la luz entra en una estancia (de estar o permanecer, viniendo), las tinieblas se desvanecen.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Ambas no pueden existir juntas a la vez.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(V. 15) El nombre de Belial significa \"indignidad\" (no es merecedor, ruin, bajo, malo) o maldad (un mal).",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Aquí tenemos un nombre del Malo.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "¿Puede jamás haber paz entre Cristo y Satanás?",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "¡Claro que no!",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Tampoco puede haber comunión (unión, lazo, vínculo, conexión) entre un creyente y un incrédulo.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Intentarlo es cometer traición contra el Señor.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(16) Los ídolos no tienen nada que ver con \"el santuario de Dios.\"",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Siendo así, ¿Cómo pueden los creyentes mantener contacto con ídolos, cuando son ellos el santuario del Dios viviente?",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Eres el santuario del Dios viviente.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Es de saber aquí, ídolos se refiere no solo a imágenes talladas sino a todo aquello que se interponga entre el alma y Cristo.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Podría ser el dinero, el placer, la fama o las cosas materiales.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "El apóstol encuentra abundantes pruebas \"de que somos\" el templo del Dios viviente: Éxodo 29:45; Y habitaré entre los hijos de Israel y seré su Dios; Levítico 26:12: Y andaré entre vosotros y yo seré vuestro Dios y vosotros seréis mi pueblo. Ezequiel 37:27: Estará en medio de ellos mi tabernáculo y seré a ellos por Dios y ellos me serán por pueblo: aquí es Jesús y la Iglesia.",
+        "referencias_inline": [
+          "Éxodo 29:45",
+          "Levítico 26:12",
+          "Ezequiel 37:27"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Pablo espera que los cristianos sean tan fervorosos como los judíos en mantener inviolada la santidad de la casa de Dios; y ahora nos dice que esta casa somos nosotros; somos nosotros mismos lo que hemos de \"mantenernos sin mancha del mundo\".",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(V. 17) Pablo hace un desafiante llamamiento a salir.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Cita a Isaías 52:11.",
+        "referencias_inline": [
+          "Isaías 52:11"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Aquí tenemos las llanas instrucciones de Dios a Su pueblo acerca de la separación del mal.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Los cristianos no deben quedarse en medio de él, como parte de él (Isaías 52:11 inmunda), a fin de remediarlo.",
+        "referencias_inline": [
+          "Isaías 52:11"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "\"El programa de Dios es salir.\"",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "En este versículo, lo inmundo es primariamente el mundo pagano, sin duda, pero se aplica también a toda forma de mal, sea comercial, social o \"religioso.\"",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(V. 18) A menudo \"es muy difícil\" para los creyentes cortar lazos que han existido durante años para \"ser obediente a la palabra de Dios.\"",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Y seré para vosotros por Padre y vosotros me seréis por hijos e hijas dice el Señor Todopoderoso.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "La forma de mantenerse con Cristo en comunión en este mundo lleno de maldad es conservando la comunión con el Padre.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "¿Cómo te mantienes con Cristo?",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Debemos dejar aquel círculo de comunión en el que Jesús no es honrado y exaltado como Hijo bien amado de Dios y Salvador del mundo.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Podrán hacer más por Dios fuera de tal círculo de comunión que lo que jamás conseguirán dentro de él.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(2 Corintios 7:1) Las promesas (2 Corintios 6:17-18); Yo os acogeré… seré para vosotros por Padre… me seréis por hijos e hijas.",
+        "referencias_inline": [
+          "2 Corintios 7:1",
+          "2 Corintios 6:17-18"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "A la vista de estas maravillosas promesas de Dios, deberíamos limpiarnos de toda contaminación de carne y de espíritu.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "La contaminación de la carne incluye toda forma de impureza física, mientras que la contaminación del espíritu abarca la vida interior, \"los motivos\" y los pensamientos.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Perfeccionando la santidad en el temor de Dios.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Teme, deja la altivez, prepotencia y de creerte que puedes destruir la Iglesia de Cristo, lavada con Su sangre; aquí, búsqueda y santidad de años.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "No es solo dejar el mal, es ser capaz de ser amoldados al Señor Jesucristo en nuestras vidas diarias.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "La santificación práctica es un proceso que prosigue a todo lo largo de nuestra vida.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Vamos creciendo en la semejanza de Cristo hasta aquel día que le veremos cara a cara y entonces seremos como Él por toda la eternidad.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(McCheyne) \"Señor hazme tan santo como sea posible para alguien a este lado del cielo.\" Amén.",
+        "referencias_inline": []
+      }
+    ]
+  },
+  "busqueda": {
+    "texto_indexable": "el hara grandes cosas para ellos exodo 23 20 33 palabra de Dios santidad promesas de Dios justicia de Dios familia temor de Dios falsos maestros santidad mundo filisteos corinto arca altivez aqui Dios promete enviar su angel el mismo senor delante de los israelitas para guiarlos a la tierra prometida y para echar fuera a los habitantes paganos si este pueblo se apartase de la idolatria y obedecieran al senor el haria grandes cosas para ellos los limites se extenderian desde el mar rojo hasta el mar de los filisteos y desde el desierto hasta el eufrates veamos el mandamiento de echar de delante suyo a los habitantes de la tierra este pueblo tenia que cumplir los deberes para con Dios si amas a Dios con todas tus fuerzas esto es tu verdad tambien notemos el mandamiento de echar de delante suyo a los habitantes de la tierra quedo prohibido cualquier alianza union idolatria o entremezcla mezclar una cosa con otra confundir Dios los iba a librar de todos sus enemigos pero ellos tenian que ayudar esto hace resaltar un principio espiritual importante Dios nos da la victoria sobre nuestros enemigos el mundo la carne y el diablo pero espera que luchemos la buena batalla de fe el versiculo exodo 23 33 tiene su complemento en 2 corintios 6 14 18 a pablo 2 corintios 6 14 le dice que sean abiertos con el en su afecto b ahora les explica que una forma de hacer esto es separarse de toda clase de pecado e injusticia c es indudable que esta pensando en parte de los falsos maestros que habian invadido la asamblea en corinto d es una clara instruccion de que el creyente debe separarse de incredulos de la iniquidad de las tinieblas de belial de los idolos e un cristiano no deberia contraer matrimonio con una persona incredula inconversa no cree lo que tu crees f en los negocios de igual g un cristiano no deberia participar como socio con alguien que no conoce al senor h donde el socio no quiere saber nada del senor y menos es fiel al senor no hay pureza ni obedece lo puro i no se debe ser participe de sus placeres mundanos j el impio incredulo no es miembro de la iglesia de cristo k que companerismo tiene la justicia con la injusticia describe toda la esfera de conducta moral l luz y tinieblas tienen que ver con el conocimiento de las cosas de Dios m cristo y belial tienen que ver con el ambito espacio y conjunto de personas de la autoridad en otras palabras la persona o cosa a quien uno reconoce como amo en su vida n creyente e incredulo tienen que ver con el ambito espacio limite perimetral de un sitio de la fe o es a Dios o los idolos que se le debe dar culto en lo absoluto la justicia y la injusticia no pueden tener comunion son opuestos morales tampoco puede la luz tener comunion con las tinieblas cuando la luz entra en una estancia de estar o permanecer viniendo las tinieblas se desvanecen ambas no pueden existir juntas a la vez v 15 el nombre de belial significa indignidad no es merecedor ruin bajo malo o maldad un mal aqui tenemos un nombre del malo puede jamas haber paz entre cristo y satanas claro que no tampoco puede haber comunion union lazo vinculo conexion entre un creyente y un incredulo intentarlo es cometer traicion contra el senor 16 los idolos no tienen nada que ver con el santuario de Dios siendo asi como pueden los creyentes mantener contacto con idolos cuando son ellos el santuario del Dios viviente eres el santuario del Dios viviente es de saber aqui idolos se refiere no solo a imagenes talladas sino a todo aquello que se interponga entre el alma y cristo podria ser el dinero el placer la fama o las cosas materiales el apostol encuentra abundantes pruebas de que somos el templo del Dios viviente exodo 29 45 y habitare entre los hijos de israel y sere su Dios levitico 26 12 y andare entre vosotros y yo sere vuestro Dios y vosotros sereis mi pueblo ezequiel 37 27 estara en medio de ellos mi tabernaculo y sere a ellos por Dios y ellos me seran por pueblo aqui es Jesus y la iglesia pablo espera que los cristianos sean tan fervorosos como los judios en mantener inviolada la santidad de la casa de Dios y ahora nos dice que esta casa somos nosotros somos nosotros mismos lo que hemos de mantenernos sin mancha del mundo v 17 pablo hace un desafiante llamamiento a salir cita a isaias 52 11 aqui tenemos las llanas instrucciones de Dios a su pueblo acerca de la separacion del mal los cristianos no deben quedarse en medio de el como parte de el isaias 52 11 inmunda a fin de remediarlo el programa de Dios es salir en este versiculo lo inmundo es primariamente el mundo pagano sin duda pero se aplica tambien a toda forma de mal sea comercial social o religioso v 18 a menudo es muy dificil para los creyentes cortar lazos que han existido durante anos para ser obediente a la palabra de Dios y sere para vosotros por padre y vosotros me sereis por hijos e hijas dice el senor todopoderoso la forma de mantenerse con cristo en comunion en este mundo lleno de maldad es conservando la comunion con el padre como te mantienes con cristo debemos dejar aquel circulo de comunion en el que Jesus no es honrado y exaltado como hijo bien amado de Dios y salvador del mundo podran hacer mas por Dios fuera de tal circulo de comunion que lo que jamas conseguiran dentro de el 2 corintios 7 1 las promesas 2 corintios 6 17 18 yo os acogere sere para vosotros por padre me sereis por hijos e hijas a la vista de estas maravillosas promesas de Dios deberiamos limpiarnos de toda contaminacion de carne y de espiritu la contaminacion de la carne incluye toda forma de impureza fisica mientras que la contaminacion del espiritu abarca la vida interior los motivos y los pensamientos perfeccionando la santidad en el temor de Dios teme deja la altivez prepotencia y de creerte que puedes destruir la iglesia de cristo lavada con su sangre aqui busqueda y santidad de anos no es solo dejar el mal es ser capaz de ser amoldados al senor jesucristo en nuestras vidas diarias la santificacion practica es un proceso que prosigue a todo lo largo de nuestra vida vamos creciendo en la semejanza de cristo hasta aquel dia que le veremos cara a cara y entonces seremos como el por toda la eternidad mccheyne senor hazme tan santo como sea posible para alguien a este lado del cielo amen",
+    "alias_busqueda": [
+      "Estudio 1292",
+      "Éxodo",
+      "Éxodo 23",
+      "Éxodo 23:20-33",
+      "temor de Dios",
+      "falsos maestros",
+      "santidad",
+      "mundo",
+      "Palabra de Dios"
+    ]
+  },
+  "revision_manual": {
+    "requiere_revision": false,
+    "motivo": ""
+  },
+  "ui": {
+    "mostrar_credito_en_header": true,
+    "mostrar_numero_estudio": true,
+    "mostrar_fecha": true,
+    "mostrar_topicos": true,
+    "permitir_favorito": true,
+    "permitir_compartir": true
+  }
+}

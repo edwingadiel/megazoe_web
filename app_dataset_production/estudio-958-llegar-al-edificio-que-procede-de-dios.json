@@ -1,0 +1,352 @@
+{
+  "id": "estudio-958-llegar-al-edificio-que-procede-de-Dios",
+  "slug": "estudio-958-llegar-al-edificio-que-procede-de-Dios",
+  "numero_estudio": 958,
+  "tipo_estudio": "Iglesia en las casas",
+  "ministerio": {
+    "iglesia": "Iglesia Cristiana Mega Zoe",
+    "pastora": "Pastora Edith Cruz",
+    "credito_corto": "Iglesia Cristiana Mega Zoe · Pastora Edith Cruz",
+    "credito_largo": "Contenido original de Iglesia Cristiana Mega Zoe, conservando el crédito ministerial correspondiente a la Pastora Edith Cruz."
+  },
+  "identidad_editorial": {
+    "idioma": "es",
+    "fuente_original": "documento_word",
+    "archivo_origen": "/Users/edwingadiel/Desktop/Estudios en Word/Estudio #958 El Edificio Que Procede De Dios - 2 Corintios 5 1-11.docx",
+    "estado_revision": "procesado",
+    "version_schema": "1.0"
+  },
+  "encabezado": {
+    "titulo": "Llegar Al Edificio Que Procede De Dios",
+    "subtitulo": null,
+    "cita_principal": "2 Corintios 5:1-11",
+    "resumen_corto": "Llegar Al Edificio Que Procede De Dios enseña a vivir con la mirada puesta en la vida eterna y permanecer firmes en las pruebas."
+  },
+  "fechas": {
+    "fecha_inicio": null,
+    "fecha_fin": null,
+    "fecha_texto_original": "",
+    "ano": null
+  },
+  "clasificacion_biblica": {
+    "libro_principal": "2 Corintios",
+    "capitulo_principal": 5,
+    "versiculos_principales": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "referencia_principal_normalizada": "2 Corintios 5:1-11",
+    "testamento_principal": "Nuevo Testamento"
+  },
+  "clasificacion_tematica": {
+    "topicos": [
+      "Vida eterna",
+      "Pruebas",
+      "Sabiduría espiritual",
+      "Liderazgo espiritual"
+    ],
+    "keywords": [
+      "vida eterna",
+      "juicio",
+      "arrepentimiento",
+      "perseverancia",
+      "testimonio"
+    ]
+  },
+  "referencias_biblicas": [
+    {
+      "referencia": "2 Corintios 5:1-11",
+      "referencia_normalizada": "2 Corintios 5:1-11",
+      "libro": "2 Corintios",
+      "capitulo": 5,
+      "versiculos": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "tipo": "principal",
+      "clickeable": true
+    },
+    {
+      "referencia": "2 Corintios 4:13",
+      "referencia_normalizada": "2 Corintios 4:13",
+      "libro": "2 Corintios",
+      "capitulo": 4,
+      "versiculos": [
+        13
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "2 Corintios 4:16",
+      "referencia_normalizada": "2 Corintios 4:16",
+      "libro": "2 Corintios",
+      "capitulo": 4,
+      "versiculos": [
+        16
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "2 Corintios 5:1",
+      "referencia_normalizada": "2 Corintios 5:1",
+      "libro": "2 Corintios",
+      "capitulo": 5,
+      "versiculos": [
+        1
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "2 Corintios 5:5",
+      "referencia_normalizada": "2 Corintios 5:5",
+      "libro": "2 Corintios",
+      "capitulo": 5,
+      "versiculos": [
+        5
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Romanos 8:16",
+      "referencia_normalizada": "Romanos 8:16",
+      "libro": "Romanos",
+      "capitulo": 8,
+      "versiculos": [
+        16
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Gálatas 4:6",
+      "referencia_normalizada": "Gálatas 4:6",
+      "libro": "Gálatas",
+      "capitulo": 4,
+      "versiculos": [
+        6
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "2 Corintios 5:9",
+      "referencia_normalizada": "2 Corintios 5:9",
+      "libro": "2 Corintios",
+      "capitulo": 5,
+      "versiculos": [
+        9
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "1 Juan 4:13",
+      "referencia_normalizada": "1 Juan 4:13",
+      "libro": "1 Juan",
+      "capitulo": 4,
+      "versiculos": [
+        13
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "2 Corintios 5:10",
+      "referencia_normalizada": "2 Corintios 5:10",
+      "libro": "2 Corintios",
+      "capitulo": 5,
+      "versiculos": [
+        10
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Filipenses 4:1",
+      "referencia_normalizada": "Filipenses 4:1",
+      "libro": "Filipenses",
+      "capitulo": 4,
+      "versiculos": [
+        1
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "2 Timoteo 4:2-8",
+      "referencia_normalizada": "2 Timoteo 4:2-8",
+      "libro": "2 Timoteo",
+      "capitulo": 4,
+      "versiculos": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Apocalipsis 2:10",
+      "referencia_normalizada": "Apocalipsis 2:10",
+      "libro": "Apocalipsis",
+      "capitulo": 2,
+      "versiculos": [
+        10
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "1 Pedro 5:2-4",
+      "referencia_normalizada": "1 Pedro 5:2-4",
+      "libro": "1 Pedro",
+      "capitulo": 5,
+      "versiculos": [
+        2,
+        3,
+        4
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "1 Corintios 9:25",
+      "referencia_normalizada": "1 Corintios 9:25",
+      "libro": "1 Corintios",
+      "capitulo": 9,
+      "versiculos": [
+        25
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Proverbios 14:18",
+      "referencia_normalizada": "Proverbios 14:18",
+      "libro": "Proverbios",
+      "capitulo": 14,
+      "versiculos": [
+        18
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Salmos 21:3,8,11",
+      "referencia_normalizada": "Salmos 21:3,8,11",
+      "libro": "Salmos",
+      "capitulo": 21,
+      "versiculos": [
+        3,
+        8,
+        11
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    }
+  ],
+  "contenido": {
+    "introduccion": null,
+    "secciones": [],
+    "contenido_completo": "Lo que el apóstol Pablo ha creído es lo que lo ha llevado a hablar (2 Corintios 4:13 \"…Creí, por lo cual hablé…\"). Decía el apóstol en 2 Corintios 4:16 \"Por tanto, no desmayamos; antes, aunque este nuestro hombre exterior se va desgastando, el interior no obstante se renueva de día en día.\" Pablo tiene descanso en lo que ha creído y como creyó así está hablando. No puede desmayar bajo la tribulación, pues la seguridad de la felicidad está tan solo EN LA VIDA ETERNA. Así que hay que mirar lo que no se ve, por eso miramos a lo eterno, a la vida eterna que el Padre nos da mediante nuestra fe en el sacrificio de su Hijo. Debe haber descanso en nuestras vidas tal como el apóstol lo vivía. Busquemos la felicidad eterna, no es la temporal. Mi querido hermano, ¿quieres ser feliz y librarte de las grandes tribulaciones? Hay una mejor y gran expectativa gloriosa para el justo, no aquí, sino ¡después de la muerte! 2 Corintios 5:1 \"Porque sabemos que si nuestra morada terrestre, este tabernáculo, se deshiciere, tenemos de Dios un edificio, una casa no hecha de manos, ¡ETERNA, EN LOS CIELOS! Nuestros pensamientos deben progresar, deben mejorar en cuanto a esto. El pensamiento del apóstol nos deja ver que podemos progresar no quedándonos en solo quejas y amargura. A lo largo del camino Pablo ve algo mayor que la vida terrenal. ¿Igual es para ti? Para él será un gran día cuando ya su cuerpo humano se haya acabado. Fíjate, que todo lo que nos agobia y atribula dejará de ser importante el día en que entendamos que nuestro cuerpo dejará de ser. Puedes verlo como si el cuerpo fuera una tienda de campaña, un alojamiento provisional en el que se vive temporalmente. Pues, llegará el día en que este cuerpo se disolverá en polvo, entonces nuestro espíritu podrá entrar en la residencia verdadera, en la \"habitación celestial (Vs.2)\" de nuestras almas, \"…una casa no hecha de manos, eterna en los Cielos.\" Esto fue lo que Pablo creyó y por tal habló esperando el día en que Dios le diera un cuerpo nuevo, glorificado ¡en el que todavía podría SERVIR y ADORAR A Dios en los lugares celestiales!\n\nAsí que, tras la muerte, lo que le espera a nuestra vida es ¡EL REVESTIMIENTO DE LA INMORTALIDAD! El apóstol Pablo no veía la eternidad como una jubilación en donde se está permanentemente inactivo, sino como la entrada en un cuerpo nuevo en el que se pueda realizar un \"servicio completo.\" Sin embargo, con todo su anhelo de la vida por venir, tampoco Pablo despreciaba la vida presente. La razón de eso es que aun aquí y ahora ¡poseemos el Espíritu Santo de Dios! 2 Corintios 5:5 \"Mas el que nos hizo para esto mismo es Dios, quien nos ha dado las arras del Espíritu.\" Las arras son unos anillos que representan un contrato privado, un compromiso como en las bodas, donde las partes pactan. Así Dios el Padre nos dio su Espíritu para que esté con nosotros y en nosotros. Romanos 8:16 \"El Espíritu mismo da testimonio a nuestro espíritu de que somos hijos de Dios.\" Gálatas 4:6 \"Y por cuanto sois hijos, Dios envió a vuestros corazones el Espíritu de su Hijo el cual clama: ¡Abba Padre!\" Dios es nuestro Padre y Pablo quería serle agradable (2 Corintios 5:9) en todo. El apóstol lleva en su relación con el Padre la confianza, la intimidad y la sumisión, una relación filial con sus responsabilidades.\n\nI Juan 4:13 \"En eso conocemos que permanecemos en Él y Él en nosotros en que nos ha dado de su Espíritu.\" Pablo, por cuanto creyó habló. Está convencido de que el cristiano ya puede disfrutar un adelanto de la vida eterna. No podemos vivir fatigados en esta vida pues hay quien nos lleva y es el Espíritu Santo; Él es la prenda (las arras o anillo) del compromiso de Dios con su Iglesia, el Espíritu Santo morando en nosotros, Él es la prenda del matrimonio entre Cristo y su Iglesia.\n\nCuando aquí Pablo estaba pensando en la vida por venir le aparece en su mente la nota grave. Es que nunca se olvidaría de que vamos camino no solamente hacia la gloria sino también hacia el juicio. Porque todos hemos de comparecer ante el Tribunal de Cristo (2 Corintios 5:10). Es la administración de la justicia. Sabemos que hay luchas, pero en esencia la vida es un campo de batalla que se nos presenta como algo tremendamente serio y emocionante. Es que en ella estamos \"logrando\" o \"fallando\" en lo que es nuestro destino, estamos \"ganando\" o \"perdiendo\" ¡NUESTRA CORONA! ¡El \"tiempo\" es el campo de pruebas de la eternidad! ¡La vida necesita entusiasmo para vivirla y para vencerla con tal de obtener la corona! Sepas hermano que hay que saber administrar la justicia porque si ganamos la carrera y guardamos la fe habrá para nosotros en la eternidad la CORONA DE GOZO (Filipenses 4:1). Esta corona son las almas que alcanzamos a través del ministerio. Es el premio, son las almas ganadas para Cristo. Obtendremos la CORONA DE JUSTICIA (2 Timoteo 4:2-8) que nos será dada cuando acabemos la carrera y guardemos la fe. \"Soporta las aflicciones, haz obra de evangelista, cumple tu ministerio, reprende, redarguye, insta a tiempo y fuera de tiempo con paciencia y doctrina.\" \"Sed sobrios en todo.\" Una CORONA DE VIDA (Apocalipsis 2:10) \"Se fiel hasta la muerte y yo te daré la corona de la vida.\" Una CORONA DE GLORIA por apacentar bien la grey. (1 Pedro 5:2-4) \"Apacentad la grey de Dios… cuidando de ella, no por fuerza, sino voluntariamente; no por ganancia deshonesta, …con ánimo pronto…no como teniendo señorío… siendo ejemplos…\" Obtener una CORONA INCORRUPTIBLE (I Corintios 9:25). \"Todo aquel que lucha, de todo se abstiene…\" También la CORONA DE SABIDURÍA (Proverbios 14:18) \"Mas los prudentes se coronarán de sabiduría.\" Dios nos dará la CORONA DE VICTORIA (Salmos 21:3,8,11) \"Bendiciones de bien… corona de oro fino has puesto sobre su cabeza…alcanzará tu mano a todos tus enemigos…mas no prevalecerán…\"\n\nTal como Pablo creyó y por lo tanto habló, ahora también nosotros hagamos igual y anhelemos más que nada llegar a obtener nuestro edificio en los cielos, nuestra nueva morada, nuestra casa no hecha de manos, nuestra habitación celestial para vivir la eternidad con nuestro amado Dios. Amén.",
+    "contenido_renderizado": [
+      {
+        "tipo": "parrafo",
+        "texto": "Lo que el apóstol Pablo ha creído es lo que lo ha llevado a hablar (2 Corintios 4:13 \"…Creí, por lo cual hablé…\"). Decía el apóstol en 2 Corintios 4:16 \"Por tanto, no desmayamos; antes, aunque este nuestro hombre exterior se va desgastando, el interior no obstante se renueva de día en día.\" Pablo tiene descanso en lo que ha creído y como creyó así está hablando. No puede desmayar bajo la tribulación, pues la seguridad de la felicidad está tan solo EN LA VIDA ETERNA. Así que hay que mirar lo que no se ve, por eso miramos a lo eterno, a la vida eterna que el Padre nos da mediante nuestra fe en el sacrificio de su Hijo. Debe haber descanso en nuestras vidas tal como el apóstol lo vivía. Busquemos la felicidad eterna, no es la temporal. Mi querido hermano, ¿quieres ser feliz y librarte de las grandes tribulaciones? Hay una mejor y gran expectativa gloriosa para el justo, no aquí, sino ¡después de la muerte! 2 Corintios 5:1 \"Porque sabemos que si nuestra morada terrestre, este tabernáculo, se deshiciere, tenemos de Dios un edificio, una casa no hecha de manos, ¡ETERNA, EN LOS CIELOS! Nuestros pensamientos deben progresar, deben mejorar en cuanto a esto. El pensamiento del apóstol nos deja ver que podemos progresar no quedándonos en solo quejas y amargura. A lo largo del camino Pablo ve algo mayor que la vida terrenal. ¿Igual es para ti? Para él será un gran día cuando ya su cuerpo humano se haya acabado. Fíjate, que todo lo que nos agobia y atribula dejará de ser importante el día en que entendamos que nuestro cuerpo dejará de ser. Puedes verlo como si el cuerpo fuera una tienda de campaña, un alojamiento provisional en el que se vive temporalmente. Pues, llegará el día en que este cuerpo se disolverá en polvo, entonces nuestro espíritu podrá entrar en la residencia verdadera, en la \"habitación celestial (Vs.2)\" de nuestras almas, \"…una casa no hecha de manos, eterna en los Cielos.\" Esto fue lo que Pablo creyó y por tal habló esperando el día en que Dios le diera un cuerpo nuevo, glorificado ¡en el que todavía podría SERVIR y ADORAR A Dios en los lugares celestiales!",
+        "referencias_inline": [
+          "2 Corintios 4:13",
+          "2 Corintios 4:16",
+          "2 Corintios 5:1"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Así que, tras la muerte, lo que le espera a nuestra vida es ¡EL REVESTIMIENTO DE LA INMORTALIDAD! El apóstol Pablo no veía la eternidad como una jubilación en donde se está permanentemente inactivo, sino como la entrada en un cuerpo nuevo en el que se pueda realizar un \"servicio completo.\" Sin embargo, con todo su anhelo de la vida por venir, tampoco Pablo despreciaba la vida presente. La razón de eso es que aun aquí y ahora ¡poseemos el Espíritu Santo de Dios! 2 Corintios 5:5 \"Mas el que nos hizo para esto mismo es Dios, quien nos ha dado las arras del Espíritu.\" Las arras son unos anillos que representan un contrato privado, un compromiso como en las bodas, donde las partes pactan. Así Dios el Padre nos dio su Espíritu para que esté con nosotros y en nosotros. Romanos 8:16 \"El Espíritu mismo da testimonio a nuestro espíritu de que somos hijos de Dios.\" Gálatas 4:6 \"Y por cuanto sois hijos, Dios envió a vuestros corazones el Espíritu de su Hijo el cual clama: ¡Abba Padre!\" Dios es nuestro Padre y Pablo quería serle agradable (2 Corintios 5:9) en todo. El apóstol lleva en su relación con el Padre la confianza, la intimidad y la sumisión, una relación filial con sus responsabilidades.",
+        "referencias_inline": [
+          "2 Corintios 5:5",
+          "Romanos 8:16",
+          "Gálatas 4:6",
+          "2 Corintios 5:9"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "I Juan 4:13 \"En eso conocemos que permanecemos en Él y Él en nosotros en que nos ha dado de su Espíritu.\" Pablo, por cuanto creyó habló. Está convencido de que el cristiano ya puede disfrutar un adelanto de la vida eterna. No podemos vivir fatigados en esta vida pues hay quien nos lleva y es el Espíritu Santo; Él es la prenda (las arras o anillo) del compromiso de Dios con su Iglesia, el Espíritu Santo morando en nosotros, Él es la prenda del matrimonio entre Cristo y su Iglesia.",
+        "referencias_inline": [
+          "1 Juan 4:13"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Cuando aquí Pablo estaba pensando en la vida por venir le aparece en su mente la nota grave. Es que nunca se olvidaría de que vamos camino no solamente hacia la gloria sino también hacia el juicio. Porque todos hemos de comparecer ante el Tribunal de Cristo (2 Corintios 5:10). Es la administración de la justicia. Sabemos que hay luchas, pero en esencia la vida es un campo de batalla que se nos presenta como algo tremendamente serio y emocionante. Es que en ella estamos \"logrando\" o \"fallando\" en lo que es nuestro destino, estamos \"ganando\" o \"perdiendo\" ¡NUESTRA CORONA! ¡El \"tiempo\" es el campo de pruebas de la eternidad! ¡La vida necesita entusiasmo para vivirla y para vencerla con tal de obtener la corona! Sepas hermano que hay que saber administrar la justicia porque si ganamos la carrera y guardamos la fe habrá para nosotros en la eternidad la CORONA DE GOZO (Filipenses 4:1). Esta corona son las almas que alcanzamos a través del ministerio. Es el premio, son las almas ganadas para Cristo. Obtendremos la CORONA DE JUSTICIA (2 Timoteo 4:2-8) que nos será dada cuando acabemos la carrera y guardemos la fe. \"Soporta las aflicciones, haz obra de evangelista, cumple tu ministerio, reprende, redarguye, insta a tiempo y fuera de tiempo con paciencia y doctrina.\" \"Sed sobrios en todo.\" Una CORONA DE VIDA (Apocalipsis 2:10) \"Se fiel hasta la muerte y yo te daré la corona de la vida.\" Una CORONA DE GLORIA por apacentar bien la grey. (1 Pedro 5:2-4) \"Apacentad la grey de Dios… cuidando de ella, no por fuerza, sino voluntariamente; no por ganancia deshonesta, …con ánimo pronto…no como teniendo señorío… siendo ejemplos…\" Obtener una CORONA INCORRUPTIBLE (I Corintios 9:25). \"Todo aquel que lucha, de todo se abstiene…\" También la CORONA DE SABIDURÍA (Proverbios 14:18) \"Mas los prudentes se coronarán de sabiduría.\" Dios nos dará la CORONA DE VICTORIA (Salmos 21:3,8,11) \"Bendiciones de bien… corona de oro fino has puesto sobre su cabeza…alcanzará tu mano a todos tus enemigos…mas no prevalecerán…\"",
+        "referencias_inline": [
+          "2 Corintios 5:10",
+          "Filipenses 4:1",
+          "2 Timoteo 4:2-8",
+          "Apocalipsis 2:10",
+          "1 Pedro 5:2-4",
+          "1 Corintios 9:25",
+          "Proverbios 14:18",
+          "Salmos 21:3,8,11"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Tal como Pablo creyó y por lo tanto habló, ahora también nosotros hagamos igual y anhelemos más que nada llegar a obtener nuestro edificio en los cielos, nuestra nueva morada, nuestra casa no hecha de manos, nuestra habitación celestial para vivir la eternidad con nuestro amado Dios. Amén.",
+        "referencias_inline": []
+      }
+    ]
+  },
+  "busqueda": {
+    "texto_indexable": "llegar al edificio que procede de Dios 2 corintios 5 1 11 vida eterna pruebas sabiduria espiritual liderazgo espiritual vida eterna juicio arrepentimiento perseverancia testimonio lo que el apostol pablo ha creido es lo que lo ha llevado a hablar 2 corintios 4 13 crei por lo cual hable decia el apostol en 2 corintios 4 16 por tanto no desmayamos antes aunque este nuestro hombre exterior se va desgastando el interior no obstante se renueva de dia en dia pablo tiene descanso en lo que ha creido y como creyo asi esta hablando no puede desmayar bajo la tribulacion pues la seguridad de la felicidad esta tan solo en la vida eterna asi que hay que mirar lo que no se ve por eso miramos a lo eterno a la vida eterna que el padre nos da mediante nuestra fe en el sacrificio de su hijo debe haber descanso en nuestras vidas tal como el apostol lo vivia busquemos la felicidad eterna no es la temporal mi querido hermano quieres ser feliz y librarte de las grandes tribulaciones hay una mejor y gran expectativa gloriosa para el justo no aqui sino despues de la muerte 2 corintios 5 1 porque sabemos que si nuestra morada terrestre este tabernaculo se deshiciere tenemos de Dios un edificio una casa no hecha de manos eterna en los cielos nuestros pensamientos deben progresar deben mejorar en cuanto a esto el pensamiento del apostol nos deja ver que podemos progresar no quedandonos en solo quejas y amargura a lo largo del camino pablo ve algo mayor que la vida terrenal igual es para ti para el sera un gran dia cuando ya su cuerpo humano se haya acabado fijate que todo lo que nos agobia y atribula dejara de ser importante el dia en que entendamos que nuestro cuerpo dejara de ser puedes verlo como si el cuerpo fuera una tienda de campana un alojamiento provisional en el que se vive temporalmente pues llegara el dia en que este cuerpo se disolvera en polvo entonces nuestro espiritu podra entrar en la residencia verdadera en la habitacion celestial vs 2 de nuestras almas una casa no hecha de manos eterna en los cielos esto fue lo que pablo creyo y por tal hablo esperando el dia en que Dios le diera un cuerpo nuevo glorificado en el que todavia podria servir y adorar a Dios en los lugares celestiales asi que tras la muerte lo que le espera a nuestra vida es el revestimiento de la inmortalidad el apostol pablo no veia la eternidad como una jubilacion en donde se esta permanentemente inactivo sino como la entrada en un cuerpo nuevo en el que se pueda realizar un servicio completo sin embargo con todo su anhelo de la vida por venir tampoco pablo despreciaba la vida presente la razon de eso es que aun aqui y ahora poseemos el espiritu santo de Dios 2 corintios 5 5 mas el que nos hizo para esto mismo es Dios quien nos ha dado las arras del espiritu las arras son unos anillos que representan un contrato privado un compromiso como en las bodas donde las partes pactan asi Dios el padre nos dio su espiritu para que este con nosotros y en nosotros romanos 8 16 el espiritu mismo da testimonio a nuestro espiritu de que somos hijos de Dios galatas 4 6 y por cuanto sois hijos Dios envio a vuestros corazones el espiritu de su hijo el cual clama abba padre Dios es nuestro padre y pablo queria serle agradable 2 corintios 5 9 en todo el apostol lleva en su relacion con el padre la confianza la intimidad y la sumision una relacion filial con sus responsabilidades i juan 4 13 en eso conocemos que permanecemos en el y el en nosotros en que nos ha dado de su espiritu pablo por cuanto creyo hablo esta convencido de que el cristiano ya puede disfrutar un adelanto de la vida eterna no podemos vivir fatigados en esta vida pues hay quien nos lleva y es el espiritu santo el es la prenda las arras o anillo del compromiso de Dios con su iglesia el espiritu santo morando en nosotros el es la prenda del matrimonio entre cristo y su iglesia cuando aqui pablo estaba pensando en la vida por venir le aparece en su mente la nota grave es que nunca se olvidaria de que vamos camino no solamente hacia la gloria sino tambien hacia el juicio porque todos hemos de comparecer ante el tribunal de cristo 2 corintios 5 10 es la administracion de la justicia sabemos que hay luchas pero en esencia la vida es un campo de batalla que se nos presenta como algo tremendamente serio y emocionante es que en ella estamos logrando o fallando en lo que es nuestro destino estamos ganando o perdiendo nuestra corona el tiempo es el campo de pruebas de la eternidad la vida necesita entusiasmo para vivirla y para vencerla con tal de obtener la corona sepas hermano que hay que saber administrar la justicia porque si ganamos la carrera y guardamos la fe habra para nosotros en la eternidad la corona de gozo filipenses 4 1 esta corona son las almas que alcanzamos a traves del ministerio es el premio son las almas ganadas para cristo obtendremos la corona de justicia 2 timoteo 4 2 8 que nos sera dada cuando acabemos la carrera y guardemos la fe soporta las aflicciones haz obra de evangelista cumple tu ministerio reprende redarguye insta a tiempo y fuera de tiempo con paciencia y doctrina sed sobrios en todo una corona de vida apocalipsis 2 10 se fiel hasta la muerte y yo te dare la corona de la vida una corona de gloria por apacentar bien la grey 1 pedro 5 2 4 apacentad la grey de Dios cuidando de ella no por fuerza sino voluntariamente no por ganancia deshonesta con animo pronto no como teniendo senorio siendo ejemplos obtener una corona incorruptible i corintios 9 25 todo aquel que lucha de todo se abstiene tambien la corona de sabiduria proverbios 14 18 mas los prudentes se coronaran de sabiduria Dios nos dara la corona de victoria salmo 21 3 8 11 bendiciones de bien corona de oro fino has puesto sobre su cabeza alcanzara tu mano a todos tus enemigos mas no prevaleceran tal como pablo creyo y por lo tanto hablo ahora tambien nosotros hagamos igual y anhelemos mas que nada llegar a obtener nuestro edificio en los cielos nuestra nueva morada nuestra casa no hecha de manos nuestra habitacion celestial para vivir la eternidad con nuestro amado Dios amen",
+    "alias_busqueda": [
+      "Llegar Al Edificio Que Procede De Dios",
+      "2 Corintios",
+      "2 Corintios 5",
+      "2 Corintios 5:1-11",
+      "vida eterna",
+      "juicio",
+      "arrepentimiento",
+      "perseverancia",
+      "Pruebas"
+    ]
+  },
+  "revision_manual": {
+    "requiere_revision": false,
+    "motivo": ""
+  },
+  "ui": {
+    "mostrar_credito_en_header": true,
+    "mostrar_numero_estudio": true,
+    "mostrar_fecha": true,
+    "mostrar_topicos": true,
+    "permitir_favorito": true,
+    "permitir_compartir": true
+  }
+}

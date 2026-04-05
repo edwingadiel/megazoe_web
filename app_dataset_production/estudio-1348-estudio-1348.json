@@ -1,0 +1,436 @@
+{
+  "id": "estudio-1348-estudio-1348",
+  "slug": "estudio-1348-estudio-1348",
+  "numero_estudio": 1348,
+  "tipo_estudio": "Iglesia en las casas",
+  "ministerio": {
+    "iglesia": "Iglesia Cristiana Mega Zoe",
+    "pastora": "Pastora Edith Cruz",
+    "credito_corto": "Iglesia Cristiana Mega Zoe · Pastora Edith Cruz",
+    "credito_largo": "Contenido original de Iglesia Cristiana Mega Zoe, conservando el crédito ministerial correspondiente a la Pastora Edith Cruz."
+  },
+  "identidad_editorial": {
+    "idioma": "es",
+    "fuente_original": "documento_word",
+    "archivo_origen": "/Users/edwingadiel/Desktop/Estudios en Word/Estudio #1348 Odio en la casa de su Dios - Hebreos 2 1-4.docx",
+    "estado_revision": "procesado",
+    "version_schema": "1.0"
+  },
+  "encabezado": {
+    "titulo": "Odio en la Casa de su Dios",
+    "subtitulo": null,
+    "cita_principal": "Hebreos 2:1-4",
+    "resumen_corto": "Odio en la Casa de su Dios enseña a atender la Palabra de Dios y perseverar en la oración."
+  },
+  "fechas": {
+    "fecha_inicio": null,
+    "fecha_fin": null,
+    "fecha_texto_original": "",
+    "ano": null
+  },
+  "clasificacion_biblica": {
+    "libro_principal": "Hebreos",
+    "capitulo_principal": 2,
+    "versiculos_principales": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "referencia_principal_normalizada": "Hebreos 2:1-4",
+    "testamento_principal": "Nuevo Testamento"
+  },
+  "clasificacion_tematica": {
+    "topicos": [
+      "Palabra de Dios",
+      "Oración",
+      "Arrepentimiento",
+      "Salvación",
+      "Sabiduría espiritual"
+    ],
+    "keywords": [
+      "falsos profetas",
+      "oración",
+      "juicio",
+      "arrepentimiento",
+      "salvación",
+      "prudencia",
+      "fuego",
+      "evangelio",
+      "apostasia"
+    ]
+  },
+  "referencias_biblicas": [
+    {
+      "referencia": "Hebreos 2:1-4",
+      "referencia_normalizada": "Hebreos 2:1-4",
+      "libro": "Hebreos",
+      "capitulo": 2,
+      "versiculos": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "tipo": "principal",
+      "clickeable": true
+    },
+    {
+      "referencia": "Oseas 9:7",
+      "referencia_normalizada": "Oseas 9:7",
+      "libro": "Oseas",
+      "capitulo": 9,
+      "versiculos": [
+        7
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Hebreos 2:1",
+      "referencia_normalizada": "Hebreos 2:1",
+      "libro": "Hebreos",
+      "capitulo": 2,
+      "versiculos": [
+        1
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Mateo 6:14-15",
+      "referencia_normalizada": "Mateo 6:14-15",
+      "libro": "Mateo",
+      "capitulo": 6,
+      "versiculos": [
+        14,
+        15
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Deuteronomio 33:2",
+      "referencia_normalizada": "Deuteronomio 33:2",
+      "libro": "Deuteronomio",
+      "capitulo": 33,
+      "versiculos": [
+        2
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Salmos 68:17",
+      "referencia_normalizada": "Salmos 68:17",
+      "libro": "Salmos",
+      "capitulo": 68,
+      "versiculos": [
+        17
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Juan 11: 1-44",
+      "referencia_normalizada": "Juan 11:1-44",
+      "libro": "Juan",
+      "capitulo": 11,
+      "versiculos": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Marcos 4:39",
+      "referencia_normalizada": "Marcos 4:39",
+      "libro": "Marcos",
+      "capitulo": 4,
+      "versiculos": [
+        39
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    }
+  ],
+  "contenido": {
+    "introduccion": null,
+    "secciones": [],
+    "contenido_completo": "Cuando no le prestamos atención a la Palabra de Dios; no crecemos espiritual. La carne arropa con la insensatez: (falta de buen juicio, prudencia y madurez antes de activar, ausencia de sensatez: es decir, de buen juicio, prudencia, sabiduría), y cuanto hace la naturaleza carnal. Se levanta contra uno mismo, y derrota. Tu carne te derrota a ti, no a nadie más, a menos que se quiera a (otra persona).\n\nI. (Oseas 9:7) El profeta falso.\n\nA. Se aproxima la condena.\n\n1. Llegan los días de retribución (pago, recompensa) e Israel la conocerá.\n\n2. Necio es el profeta.\n\n3. No estarán en la tierra para observar las fiestas señaladas, sino van para el cautiverio.\n\n4. En sus casas habrá ortiga (inflamación en la piel) y espinos (ramas espinosas) en lugar del pueblo (deshabitado).\n\n5. El exilio se aproximaba, al igual que la condena de todos los falsos profetas.\n\n6. ¿Sabes qué destruyó a Israel?: Grande Odio. (enemistad y la violencia, antipatía - rechazo, resistir).\n\n7. (Hebreos 2:1) Tenemos una salvación tan grande.\n\n8. Con más diligencia (separación o escoger, separar, cuidado y actividad en ejecutar algo) atendamos a las cosas que hemos oído.\n\n9. No seas olvidadizo, te puedes deslizar y caer.\n\n10. Está dejando ver que Cristo es mayor que los ángeles por cuanto Él es el Hijo de Dios.\n\n11. Esta es una advertencia en contra de marchar a la \"deriva\" (desvío sin dirección o propósito fijo, a la merced de las circunstancias) apartándose del mensaje de la Palabra.\n\n12. La grandeza del Dador y a la grandeza de Su don, los que escuchan la Palabra somos los que hemos de dar mucha mayor atención al mismo.\n\n13. Siempre, siempre hay el peligro apartándose de la \"Persona de Cristo\" y recaer en la apostasía (el pecado del que no hay arrepentimiento; la razón ya levanta unas imágenes, placeres, justificación, el mayor odio grande, la razón te puede justificar en todo; no oras: perdona mis deudas como perdonas (Mateo 6:14-15).\n\n14. (2) (Deuteronomio 33:2; Salmos 68:17) Y vino de entre diez millares de santos \"Con la ley de fuego\" a Su mano derecha.\n\n15. Los judíos daban una especial importancia en su historia al ministerio de los ángeles.\n\n16. Es cierto que la ley fue \"dicha por medio de los ángeles\".\n\n17. Es cierto que era válido.\n\n18. Es cierto que toda transgresión fue castigada de manera consecuente (firme, fiel, constante).\n\n19. (3) Pero ahora el argumento pasa de lo menor a lo mayor.\n\n20. Si los que quebrantaban la ley eran castigados, ¿cuál será la suerte de los que descuidan (no cuidar, no prestan atención) el evangelio?\n\n21. La Ley dice a los hombres qué deben hacer; el evangelio dice a los hombres lo que Dios ha hecho.\n\n22. Por la ley es el conocimiento del pecado; por el evangelio es el conocimiento de la \"salvación\".\n\n23. Descuidar \"una salvación tan grande\" es más grave que transgredir la ley.\n\n24. La ley fue dada por medio de los ángeles, a Moisés y luego al pueblo.\n\n25. Pero la Palabra del evangelio fue dada directamente por el mismo Señor Jesús.\n\n26. Y no sólo esto: \"fue confirmada\" a los primitivos cristianos por los apóstoles y horeos que oyeron al Salvador.\n\n27. (4) El mismo \"Dios\" testificando (afirmar la verdad, aprobó), certificó el mensaje \"tanto con señales como con prodigios (sucesos extraordinarios y maravillosos, no se pueden explicar por las leyes regulares de la naturaleza) y diversas (distintos) milagros y dones distribuidos por el Espíritu Santo.\n\n28. Las \"señales\" eran aquellos milagros del Señor y de los apóstoles que significaban verdades espirituales.\n\n29. Los prodigios: la resurrección de Lázaro (Juan 11: 1-44).\n\n30. Los dones del Espíritu Santo.\n\n31. Los milagros eran esas exhibiciones de poder sobrenatural, indican que contraviene las leyes de la naturaleza: (Marcos 4:39 al mar: Calla, enmudece).\n\n32. \"El propósito\" de todos estos \"milagros\" era testificar de la verdad del evangelio.\n\n33. Las palabras según Su voluntad indican que estos poderes milagrosos son dados por el \"Espíritu Santo\" como a \"Él le place\".\n\n34. Son los dones dados soberanamente por Dios.\n\n35. No pueden ser exigidos por los hombres \"ni pretendidos\" (falso-fabuloso-fingido-supuesto) en respuesta de la oración\" (no es que era que Dios te dé lo que pretendes, es vano orar así, Dios da de Su buena voluntad al que Él escoge, no es al que demanda), \"porque Dios nunca los ha prometido a todos. Amén.",
+    "contenido_renderizado": [
+      {
+        "tipo": "parrafo",
+        "texto": "Cuando no le prestamos atención a la Palabra de Dios; no crecemos espiritual. La carne arropa con la insensatez: (falta de buen juicio, prudencia y madurez antes de activar, ausencia de sensatez: es decir, de buen juicio, prudencia, sabiduría), y cuanto hace la naturaleza carnal. Se levanta contra uno mismo, y derrota. Tu carne te derrota a ti, no a nadie más, a menos que se quiera a (otra persona).",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "I. (Oseas 9:7) El profeta falso.",
+        "referencias_inline": [
+          "Oseas 9:7"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "A. Se aproxima la condena.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "1. Llegan los días de retribución (pago, recompensa) e Israel la conocerá.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "2. Necio es el profeta.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "3. No estarán en la tierra para observar las fiestas señaladas, sino van para el cautiverio.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "4. En sus casas habrá ortiga (inflamación en la piel) y espinos (ramas espinosas) en lugar del pueblo (deshabitado).",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "5. El exilio se aproximaba, al igual que la condena de todos los falsos profetas.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "6. ¿Sabes qué destruyó a Israel?: Grande Odio. (enemistad y la violencia, antipatía - rechazo, resistir).",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "7. (Hebreos 2:1) Tenemos una salvación tan grande.",
+        "referencias_inline": [
+          "Hebreos 2:1"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "8. Con más diligencia (separación o escoger, separar, cuidado y actividad en ejecutar algo) atendamos a las cosas que hemos oído.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "9. No seas olvidadizo, te puedes deslizar y caer.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "10. Está dejando ver que Cristo es mayor que los ángeles por cuanto Él es el Hijo de Dios.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "11. Esta es una advertencia en contra de marchar a la \"deriva\" (desvío sin dirección o propósito fijo, a la merced de las circunstancias) apartándose del mensaje de la Palabra.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "12. La grandeza del Dador y a la grandeza de Su don, los que escuchan la Palabra somos los que hemos de dar mucha mayor atención al mismo.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "13. Siempre, siempre hay el peligro apartándose de la \"Persona de Cristo\" y recaer en la apostasía (el pecado del que no hay arrepentimiento; la razón ya levanta unas imágenes, placeres, justificación, el mayor odio grande, la razón te puede justificar en todo; no oras: perdona mis deudas como perdonas (Mateo 6:14-15).",
+        "referencias_inline": [
+          "Mateo 6:14-15"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "14. (2) (Deuteronomio 33:2; Salmos 68:17) Y vino de entre diez millares de santos \"Con la ley de fuego\" a Su mano derecha.",
+        "referencias_inline": [
+          "Deuteronomio 33:2",
+          "Salmos 68:17"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "15. Los judíos daban una especial importancia en su historia al ministerio de los ángeles.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "16. Es cierto que la ley fue \"dicha por medio de los ángeles\".",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "17. Es cierto que era válido.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "18. Es cierto que toda transgresión fue castigada de manera consecuente (firme, fiel, constante).",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "19. (3) Pero ahora el argumento pasa de lo menor a lo mayor.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "20. Si los que quebrantaban la ley eran castigados, ¿cuál será la suerte de los que descuidan (no cuidar, no prestan atención) el evangelio?",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "21. La Ley dice a los hombres qué deben hacer; el evangelio dice a los hombres lo que Dios ha hecho.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "22. Por la ley es el conocimiento del pecado; por el evangelio es el conocimiento de la \"salvación\".",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "23. Descuidar \"una salvación tan grande\" es más grave que transgredir la ley.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "24. La ley fue dada por medio de los ángeles, a Moisés y luego al pueblo.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "25. Pero la Palabra del evangelio fue dada directamente por el mismo Señor Jesús.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "26. Y no sólo esto: \"fue confirmada\" a los primitivos cristianos por los apóstoles y horeos que oyeron al Salvador.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "27. (4) El mismo \"Dios\" testificando (afirmar la verdad, aprobó), certificó el mensaje \"tanto con señales como con prodigios (sucesos extraordinarios y maravillosos, no se pueden explicar por las leyes regulares de la naturaleza) y diversas (distintos) milagros y dones distribuidos por el Espíritu Santo.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "28. Las \"señales\" eran aquellos milagros del Señor y de los apóstoles que significaban verdades espirituales.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "29. Los prodigios: la resurrección de Lázaro (Juan 11: 1-44).",
+        "referencias_inline": [
+          "Juan 11:1-44"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "30. Los dones del Espíritu Santo.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "31. Los milagros eran esas exhibiciones de poder sobrenatural, indican que contraviene las leyes de la naturaleza: (Marcos 4:39 al mar: Calla, enmudece).",
+        "referencias_inline": [
+          "Marcos 4:39"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "32. \"El propósito\" de todos estos \"milagros\" era testificar de la verdad del evangelio.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "33. Las palabras según Su voluntad indican que estos poderes milagrosos son dados por el \"Espíritu Santo\" como a \"Él le place\".",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "34. Son los dones dados soberanamente por Dios.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "35. No pueden ser exigidos por los hombres \"ni pretendidos\" (falso-fabuloso-fingido-supuesto) en respuesta de la oración\" (no es que era que Dios te dé lo que pretendes, es vano orar así, Dios da de Su buena voluntad al que Él escoge, no es al que demanda), \"porque Dios nunca los ha prometido a todos. Amén.",
+        "referencias_inline": []
+      }
+    ]
+  },
+  "busqueda": {
+    "texto_indexable": "odio en la casa de su Dios hebreos 2 1 4 palabra de Dios oracion arrepentimiento salvacion sabiduria espiritual falsos profetas oracion juicio arrepentimiento salvacion prudencia fuego evangelio apostasia cuando no le prestamos atencion a la palabra de Dios no crecemos espiritual la carne arropa con la insensatez falta de buen juicio prudencia y madurez antes de activar ausencia de sensatez es decir de buen juicio prudencia sabiduria y cuanto hace la naturaleza carnal se levanta contra uno mismo y derrota tu carne te derrota a ti no a nadie mas a menos que se quiera a otra persona i oseas 9 7 el profeta falso a se aproxima la condena 1 llegan los dias de retribucion pago recompensa e israel la conocera 2 necio es el profeta 3 no estaran en la tierra para observar las fiestas senaladas sino van para el cautiverio 4 en sus casas habra ortiga inflamacion en la piel y espinos ramas espinosas en lugar del pueblo deshabitado 5 el exilio se aproximaba al igual que la condena de todos los falsos profetas 6 sabes que destruyo a israel grande odio enemistad y la violencia antipatia rechazo resistir 7 hebreos 2 1 tenemos una salvacion tan grande 8 con mas diligencia separacion o escoger separar cuidado y actividad en ejecutar algo atendamos a las cosas que hemos oido 9 no seas olvidadizo te puedes deslizar y caer 10 esta dejando ver que cristo es mayor que los angeles por cuanto el es el hijo de Dios 11 esta es una advertencia en contra de marchar a la deriva desvio sin direccion o proposito fijo a la merced de las circunstancias apartandose del mensaje de la palabra 12 la grandeza del dador y a la grandeza de su don los que escuchan la palabra somos los que hemos de dar mucha mayor atencion al mismo 13 siempre siempre hay el peligro apartandose de la persona de cristo y recaer en la apostasia el pecado del que no hay arrepentimiento la razon ya levanta unas imagenes placeres justificacion el mayor odio grande la razon te puede justificar en todo no oras perdona mis deudas como perdonas mateo 6 14 15 14 2 deuteronomio 33 2 salmo 68 17 y vino de entre diez millares de santos con la ley de fuego a su mano derecha 15 los judios daban una especial importancia en su historia al ministerio de los angeles 16 es cierto que la ley fue dicha por medio de los angeles 17 es cierto que era valido 18 es cierto que toda transgresion fue castigada de manera consecuente firme fiel constante 19 3 pero ahora el argumento pasa de lo menor a lo mayor 20 si los que quebrantaban la ley eran castigados cual sera la suerte de los que descuidan no cuidar no prestan atencion el evangelio 21 la ley dice a los hombres que deben hacer el evangelio dice a los hombres lo que Dios ha hecho 22 por la ley es el conocimiento del pecado por el evangelio es el conocimiento de la salvacion 23 descuidar una salvacion tan grande es mas grave que transgredir la ley 24 la ley fue dada por medio de los angeles a moises y luego al pueblo 25 pero la palabra del evangelio fue dada directamente por el mismo senor Jesus 26 y no solo esto fue confirmada a los primitivos cristianos por los apostoles y horeos que oyeron al salvador 27 4 el mismo Dios testificando afirmar la verdad aprobo certifico el mensaje tanto con senales como con prodigios sucesos extraordinarios y maravillosos no se pueden explicar por las leyes regulares de la naturaleza y diversas distintos milagros y dones distribuidos por el espiritu santo 28 las senales eran aquellos milagros del senor y de los apostoles que significaban verdades espirituales 29 los prodigios la resurreccion de lazaro juan 11 1 44 30 los dones del espiritu santo 31 los milagros eran esas exhibiciones de poder sobrenatural indican que contraviene las leyes de la naturaleza marcos 4 39 al mar calla enmudece 32 el proposito de todos estos milagros era testificar de la verdad del evangelio 33 las palabras segun su voluntad indican que estos poderes milagrosos son dados por el espiritu santo como a el le place 34 son los dones dados soberanamente por Dios 35 no pueden ser exigidos por los hombres ni pretendidos falso fabuloso fingido supuesto en respuesta de la oracion no es que era que Dios te de lo que pretendes es vano orar asi Dios da de su buena voluntad al que el escoge no es al que demanda porque Dios nunca los ha prometido a todos amen",
+    "alias_busqueda": [
+      "Estudio 1348",
+      "Hebreos",
+      "Hebreos 2",
+      "Hebreos 2:1-4",
+      "falsos profetas",
+      "oración",
+      "juicio",
+      "arrepentimiento",
+      "Palabra de Dios"
+    ]
+  },
+  "revision_manual": {
+    "requiere_revision": false,
+    "motivo": ""
+  },
+  "ui": {
+    "mostrar_credito_en_header": true,
+    "mostrar_numero_estudio": true,
+    "mostrar_fecha": true,
+    "mostrar_topicos": true,
+    "permitir_favorito": true,
+    "permitir_compartir": true
+  }
+}

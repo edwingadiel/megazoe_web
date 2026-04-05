@@ -1,0 +1,327 @@
+{
+  "id": "estudio-541-aprendere-a-tener-soledad-con-Dios",
+  "slug": "estudio-541-aprendere-a-tener-soledad-con-Dios",
+  "numero_estudio": 541,
+  "tipo_estudio": "Iglesia en las casas",
+  "ministerio": {
+    "iglesia": "Iglesia Cristiana Mega Zoe",
+    "pastora": "Pastora Edith Cruz",
+    "credito_corto": "Iglesia Cristiana Mega Zoe · Pastora Edith Cruz",
+    "credito_largo": "Contenido original de Iglesia Cristiana Mega Zoe, conservando el crédito ministerial correspondiente a la Pastora Edith Cruz."
+  },
+  "identidad_editorial": {
+    "idioma": "es",
+    "fuente_original": "documento_word",
+    "archivo_origen": "/Users/edwingadiel/Desktop/Estudios en Word/Estudio #541 Aprenderé A Tener Soledad Con Dios -  Mateo 6 6.doc",
+    "estado_revision": "procesado",
+    "version_schema": "1.0"
+  },
+  "encabezado": {
+    "titulo": "Aprenderé A Tener Soledad Con Dios",
+    "subtitulo": null,
+    "cita_principal": "Mateo 6:6",
+    "resumen_corto": "Aprenderé A Tener Soledad Con Dios llama a perseverar en la oración y caminar con sabiduría espiritual."
+  },
+  "fechas": {
+    "fecha_inicio": null,
+    "fecha_fin": null,
+    "fecha_texto_original": "",
+    "ano": null
+  },
+  "clasificacion_biblica": {
+    "libro_principal": "Mateo",
+    "capitulo_principal": 6,
+    "versiculos_principales": [
+      6
+    ],
+    "referencia_principal_normalizada": "Mateo 6:6",
+    "testamento_principal": "Nuevo Testamento"
+  },
+  "clasificacion_tematica": {
+    "topicos": [
+      "Oración",
+      "Sabiduría espiritual",
+      "Discipulado"
+    ],
+    "keywords": [
+      "el aposento de la oración",
+      "oración",
+      "juicio",
+      "secreto",
+      "aposento"
+    ]
+  },
+  "referencias_biblicas": [
+    {
+      "referencia": "Mateo 6:6",
+      "referencia_normalizada": "Mateo 6:6",
+      "libro": "Mateo",
+      "capitulo": 6,
+      "versiculos": [
+        6
+      ],
+      "tipo": "principal",
+      "clickeable": true
+    },
+    {
+      "referencia": "Mateo 5:44",
+      "referencia_normalizada": "Mateo 5:44",
+      "libro": "Mateo",
+      "capitulo": 5,
+      "versiculos": [
+        44
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Marcos 11:24",
+      "referencia_normalizada": "Marcos 11:24",
+      "libro": "Marcos",
+      "capitulo": 11,
+      "versiculos": [
+        24
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Lucas 18:1",
+      "referencia_normalizada": "Lucas 18:1",
+      "libro": "Lucas",
+      "capitulo": 18,
+      "versiculos": [
+        1
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Mateo 14:23",
+      "referencia_normalizada": "Mateo 14:23",
+      "libro": "Mateo",
+      "capitulo": 14,
+      "versiculos": [
+        23
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Marcos 1:35",
+      "referencia_normalizada": "Marcos 1:35",
+      "libro": "Marcos",
+      "capitulo": 1,
+      "versiculos": [
+        35
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Marcos 6:46",
+      "referencia_normalizada": "Marcos 6:46",
+      "libro": "Marcos",
+      "capitulo": 6,
+      "versiculos": [
+        46
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Lucas 5:16",
+      "referencia_normalizada": "Lucas 5:16",
+      "libro": "Lucas",
+      "capitulo": 5,
+      "versiculos": [
+        16
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Lucas 9:18",
+      "referencia_normalizada": "Lucas 9:18",
+      "libro": "Lucas",
+      "capitulo": 9,
+      "versiculos": [
+        18
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Lucas 11:1",
+      "referencia_normalizada": "Lucas 11:1",
+      "libro": "Lucas",
+      "capitulo": 11,
+      "versiculos": [
+        1
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Lucas 2:21",
+      "referencia_normalizada": "Lucas 2:21",
+      "libro": "Lucas",
+      "capitulo": 2,
+      "versiculos": [
+        21
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Juan 6:15",
+      "referencia_normalizada": "Juan 6:15",
+      "libro": "Juan",
+      "capitulo": 6,
+      "versiculos": [
+        15
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Lucas 9:29",
+      "referencia_normalizada": "Lucas 9:29",
+      "libro": "Lucas",
+      "capitulo": 9,
+      "versiculos": [
+        29
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Mateo 26:39",
+      "referencia_normalizada": "Mateo 26:39",
+      "libro": "Mateo",
+      "capitulo": 26,
+      "versiculos": [
+        39
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Lucas 23:34",
+      "referencia_normalizada": "Lucas 23:34",
+      "libro": "Lucas",
+      "capitulo": 23,
+      "versiculos": [
+        34
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    }
+  ],
+  "contenido": {
+    "introduccion": null,
+    "secciones": [],
+    "contenido_completo": "La oración se dirige al Padre. Jesús oraba en secreto y fue una de las personas más creídas en la tierra. Jesús todo el tiempo aconsejó que debemos mantenernos en oración. La oración es lo más difícil. Ella hace que de arriba se nos hable y por eso hay que entregarse completamente. Hay cosas que no entenderemos si no tenemos oración. Para cualquier confusión, en la oración llegará la claridad. Si no hay oración estamos desconectados completamente de Dios y desorientados. Lo más que el diablo quisiera es interrumpir la oración, porque sin oración faltará la mano de Dios en nosotros. Si no somos personas de oración no podemos aconsejar ni dar de nosotros nada. Porque como vivimos así hablamos, eso damos y de nosotros no hay mucho que enseñar. Pero, de Dios si hay mucho que dar y la oración es la que nos lleva a conocer a Dios y nos da mucha sabiduría.\n\nMateo 5:44 Cuando se nos ultraja y persigue lo que hacemos es quejarnos, pero de Dios es la misericordia o los juicios. Dios no quiere que nuestro corazón se contamine con odio contra nadie. Si tenemos algún problema con alguien no hagamos nada, sencillamente vayamos al Padre que ve. Él es quien obrará en la tierra. La oración se dirige apropiadamente a Dios el Padre. Él da órdenes al Espíritu Santo, quien a su vez ordena a los ángeles para que nos cuiden. Pero, logramos eso cerrando la puerta de nuestro dormitorio y orando al Padre. Si alguien conoce al Padre es Jesús y nos da ese consejo. Si lo experimentamos, las tendremos todas a ganar.\n\nMarcos 11:24 A veces nos encerramos en la casa por la depresión, pero no lo hacemos para orar porque todo lo que pedimos al Padre lo tendremos. El problema es que no tenemos \"el aposento de la oración\". Por eso vivimos siempre en una queja y eso se convierte en costumbre. De la única forma que movemos el poder de Dios es orando. Necesitamos la oración personal. Lucas 18:1 Jesús deja ver la necesidad de la oración. Necesitamos y para suplir esas necesidades está la oración para que el Padre responda. No podemos solos, porque esta vida es muy fuerte y hay que padecer muchas cosas. Cuando se deja de orar se escasea de las cosas que Dios tiene para nosotros, no las recibimos, no podemos gozarnos en ellas. Disciplinemos el cuerpo porque a éste le gusta la pereza. Si como iglesia dejamos de orar escasean muchas cosas para la iglesia. Cuando no se ora se deja de ser espiritual y domina la carne. Tan faltos de fuerzas podemos ser si el Padre no mete su mano. Y ¿cómo podemos mover la mano de Dios si no oramos y Él no conoce nuestro rostro? Dependamos totalmente de este Dios poderoso, por eso necesitamos la oración. La oración es un deseo, un ansiar, querer, pedir, es una súplica. Lo que es ansiar nos debe provocar a la oración. Orar y ansiar están unidos. Por eso lo tenemos que pedir nosotros.\n\nMateo 14:23 Jesús tuvo que salir de la gente para irse a orar, se iba escondido, en secreto. A veces hay oraciones que nos fascinan en público, pero el que ora tiene que saber que hay que vivir exactamente como dice el versículo, solos, donde no hay nadie. Cuando nos convertimos en personas de oración vamos a probar lo que es la soledad. Lo que pedimos lo vamos a comenzar a ver porque quedamos recompensados delante del mundo y él sabe que tenemos oración en nuestras vidas. La gente sabe donde hay oración y donde no la hay.\n\nMarcos 1:35 Jesús oraba, tenía comunión con Dios. Entonces, ¿qué de nosotros que somos como las viudas que no tienen quién las defienda? Tenemos que tener total dependencia de Dios. Hoy hay dependencia de cualquiera, poco se depende de Dios para todo. Jesús hacía milagros y enseñaba a los discípulos la necesidad del ayuno y la oración. El que decide hacer su vida en oración cada día depende de Dios completamente. Damos lo que del Padre viene para nosotros, pero lo obtenemos solamente en oración. Es necesario conocer al Padre.\n\nMarcos 6:46 Hay que amar la soledad no podemos ser gente de Dios claros y precisos si no tenemos momentos de soledad, porque ahí Dios habla con nosotros. El tiempo que vamos a sacar con Dios tiene que ser en soledad. Jesús mantenía comunión con el Padre. Los seres humanos no quieren orar, por eso son engañados. Porque cuando mantenemos mucha comunión con Dios no hay espíritus que nos engañen. Y si nos conservamos en la oración no hay espíritu satánico que nos posea. Orando es que conservamos nuestras vidas.\n\nLucas 5:16 Luego de sanar a la gente Jesús siempre se iba a un lugar desierto a orar. Quien ora no es llevado para donde quiera, sino que conoce la voz del Padre. Si como iglesia nos convertimos en ambiciosos y buscamos fama, y la podríamos tener, ahí Jesús no estará. Dios nos manda para lo que nos corresponde. Mejores son los lugares desiertos. Para hacer la obra de Dios tenemos que tener mucha oración. Aprendamos a tener esa soledad con Dios. Para hacer en esta tierra lo que debemos hacer necesitamos la comunión con el Padre.\n\nLucas 9:18 Jesús oraba aparte porque para la oración se necesita distancia de los seres amados. Lucas 11:1 Jesús enseñaba cómo orar porque era un principio suyo. El problema hoy día es que para muchos se les ha enseñado que la oración no es necesaria, pero no hay ninguna base para decir eso, porque si no oramos no tenemos vida con Dios. Jesús vivía la voluntad del Padre, Él no necesitaba de quebranto porque en Él había obediencia y abnegación. Hubo grandes crisis en la vida de Jesús y la oración era lo que le fortalecía.\n\nLucas 2:21 Es imposible que tomemos una decisión si no hemos orado. La oración declara quienes somos. Nuestra escasez o abundancia está en la oración. Si no nos hemos podido mantener en lo que Dios tenía para nosotros, es por la falta de oración. Antes de cualquier cosa es la oración. No hagamos nada si no hemos orado.\n\nJuan 6:15 Jesús acababa de alimentar a 5,000 personas y sabía que lo iban a hacer rey, por eso se retiró a orar. Si Jesús solo hubiera sido un hombre común, indudablemente habría aceptado bien dispuesto la propuesta de ellos. Porque el hombre es exaltado a los puestos de preeminencia, por eso es que no buscan la soledad. Jesús no se dejó mover por la vanidad y el orgullo. Él se ocultaba aun siendo el rey. Se presentó cuando lo iban a crucificar. La falta de oración hace que queramos que se nos haga reyes. Lucas 9:29 Mientras Jesús oraba ellos descansaban. En la transfiguración Jesús oraba; hacía esa oración por nosotros en ese momento. Aunque nosotros pasemos a la historia esta oración se sostendrá. Mateo 26:39 Jesús el hijo de Dios tenía una crisis, su cuerpo lo sentía violentamente y de la única forma que lo pudo pasar fue postrando su rostro en oración. Los demonios saben que mientras no oramos no vamos a ser guiados y eso no nos llevará a ganar lo que Dios tiene para nosotros. Lucas 23:34 En plena cruz Jesús se dedicó a orar. En la oración final Jesús pidió que perdonara a aquellos que lo estaban crucificando. Si no cuidamos nuestras vidas en oración nada nos importará, pero nuestra vida y nuestros hechos hablarán. Que sea la oración a Dios nuestro vivir y nuestra costumbre. Amén.",
+    "contenido_renderizado": [
+      {
+        "tipo": "parrafo",
+        "texto": "La oración se dirige al Padre. Jesús oraba en secreto y fue una de las personas más creídas en la tierra. Jesús todo el tiempo aconsejó que debemos mantenernos en oración. La oración es lo más difícil. Ella hace que de arriba se nos hable y por eso hay que entregarse completamente. Hay cosas que no entenderemos si no tenemos oración. Para cualquier confusión, en la oración llegará la claridad. Si no hay oración estamos desconectados completamente de Dios y desorientados. Lo más que el diablo quisiera es interrumpir la oración, porque sin oración faltará la mano de Dios en nosotros. Si no somos personas de oración no podemos aconsejar ni dar de nosotros nada. Porque como vivimos así hablamos, eso damos y de nosotros no hay mucho que enseñar. Pero, de Dios si hay mucho que dar y la oración es la que nos lleva a conocer a Dios y nos da mucha sabiduría.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Mateo 5:44 Cuando se nos ultraja y persigue lo que hacemos es quejarnos, pero de Dios es la misericordia o los juicios. Dios no quiere que nuestro corazón se contamine con odio contra nadie. Si tenemos algún problema con alguien no hagamos nada, sencillamente vayamos al Padre que ve. Él es quien obrará en la tierra. La oración se dirige apropiadamente a Dios el Padre. Él da órdenes al Espíritu Santo, quien a su vez ordena a los ángeles para que nos cuiden. Pero, logramos eso cerrando la puerta de nuestro dormitorio y orando al Padre. Si alguien conoce al Padre es Jesús y nos da ese consejo. Si lo experimentamos, las tendremos todas a ganar.",
+        "referencias_inline": [
+          "Mateo 5:44"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Marcos 11:24 A veces nos encerramos en la casa por la depresión, pero no lo hacemos para orar porque todo lo que pedimos al Padre lo tendremos. El problema es que no tenemos \"el aposento de la oración\". Por eso vivimos siempre en una queja y eso se convierte en costumbre. De la única forma que movemos el poder de Dios es orando. Necesitamos la oración personal. Lucas 18:1 Jesús deja ver la necesidad de la oración. Necesitamos y para suplir esas necesidades está la oración para que el Padre responda. No podemos solos, porque esta vida es muy fuerte y hay que padecer muchas cosas. Cuando se deja de orar se escasea de las cosas que Dios tiene para nosotros, no las recibimos, no podemos gozarnos en ellas. Disciplinemos el cuerpo porque a éste le gusta la pereza. Si como iglesia dejamos de orar escasean muchas cosas para la iglesia. Cuando no se ora se deja de ser espiritual y domina la carne. Tan faltos de fuerzas podemos ser si el Padre no mete su mano. Y ¿cómo podemos mover la mano de Dios si no oramos y Él no conoce nuestro rostro? Dependamos totalmente de este Dios poderoso, por eso necesitamos la oración. La oración es un deseo, un ansiar, querer, pedir, es una súplica. Lo que es ansiar nos debe provocar a la oración. Orar y ansiar están unidos. Por eso lo tenemos que pedir nosotros.",
+        "referencias_inline": [
+          "Marcos 11:24",
+          "Lucas 18:1"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Mateo 14:23 Jesús tuvo que salir de la gente para irse a orar, se iba escondido, en secreto. A veces hay oraciones que nos fascinan en público, pero el que ora tiene que saber que hay que vivir exactamente como dice el versículo, solos, donde no hay nadie. Cuando nos convertimos en personas de oración vamos a probar lo que es la soledad. Lo que pedimos lo vamos a comenzar a ver porque quedamos recompensados delante del mundo y él sabe que tenemos oración en nuestras vidas. La gente sabe donde hay oración y donde no la hay.",
+        "referencias_inline": [
+          "Mateo 14:23"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Marcos 1:35 Jesús oraba, tenía comunión con Dios. Entonces, ¿qué de nosotros que somos como las viudas que no tienen quién las defienda? Tenemos que tener total dependencia de Dios. Hoy hay dependencia de cualquiera, poco se depende de Dios para todo. Jesús hacía milagros y enseñaba a los discípulos la necesidad del ayuno y la oración. El que decide hacer su vida en oración cada día depende de Dios completamente. Damos lo que del Padre viene para nosotros, pero lo obtenemos solamente en oración. Es necesario conocer al Padre.",
+        "referencias_inline": [
+          "Marcos 1:35"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Marcos 6:46 Hay que amar la soledad no podemos ser gente de Dios claros y precisos si no tenemos momentos de soledad, porque ahí Dios habla con nosotros. El tiempo que vamos a sacar con Dios tiene que ser en soledad. Jesús mantenía comunión con el Padre. Los seres humanos no quieren orar, por eso son engañados. Porque cuando mantenemos mucha comunión con Dios no hay espíritus que nos engañen. Y si nos conservamos en la oración no hay espíritu satánico que nos posea. Orando es que conservamos nuestras vidas.",
+        "referencias_inline": [
+          "Marcos 6:46"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Lucas 5:16 Luego de sanar a la gente Jesús siempre se iba a un lugar desierto a orar. Quien ora no es llevado para donde quiera, sino que conoce la voz del Padre. Si como iglesia nos convertimos en ambiciosos y buscamos fama, y la podríamos tener, ahí Jesús no estará. Dios nos manda para lo que nos corresponde. Mejores son los lugares desiertos. Para hacer la obra de Dios tenemos que tener mucha oración. Aprendamos a tener esa soledad con Dios. Para hacer en esta tierra lo que debemos hacer necesitamos la comunión con el Padre.",
+        "referencias_inline": [
+          "Lucas 5:16"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Lucas 9:18 Jesús oraba aparte porque para la oración se necesita distancia de los seres amados. Lucas 11:1 Jesús enseñaba cómo orar porque era un principio suyo. El problema hoy día es que para muchos se les ha enseñado que la oración no es necesaria, pero no hay ninguna base para decir eso, porque si no oramos no tenemos vida con Dios. Jesús vivía la voluntad del Padre, Él no necesitaba de quebranto porque en Él había obediencia y abnegación. Hubo grandes crisis en la vida de Jesús y la oración era lo que le fortalecía.",
+        "referencias_inline": [
+          "Lucas 9:18",
+          "Lucas 11:1"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Lucas 2:21 Es imposible que tomemos una decisión si no hemos orado. La oración declara quienes somos. Nuestra escasez o abundancia está en la oración. Si no nos hemos podido mantener en lo que Dios tenía para nosotros, es por la falta de oración. Antes de cualquier cosa es la oración. No hagamos nada si no hemos orado.",
+        "referencias_inline": [
+          "Lucas 2:21"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Juan 6:15 Jesús acababa de alimentar a 5,000 personas y sabía que lo iban a hacer rey, por eso se retiró a orar. Si Jesús solo hubiera sido un hombre común, indudablemente habría aceptado bien dispuesto la propuesta de ellos. Porque el hombre es exaltado a los puestos de preeminencia, por eso es que no buscan la soledad. Jesús no se dejó mover por la vanidad y el orgullo. Él se ocultaba aun siendo el rey. Se presentó cuando lo iban a crucificar. La falta de oración hace que queramos que se nos haga reyes. Lucas 9:29 Mientras Jesús oraba ellos descansaban. En la transfiguración Jesús oraba; hacía esa oración por nosotros en ese momento. Aunque nosotros pasemos a la historia esta oración se sostendrá. Mateo 26:39 Jesús el hijo de Dios tenía una crisis, su cuerpo lo sentía violentamente y de la única forma que lo pudo pasar fue postrando su rostro en oración. Los demonios saben que mientras no oramos no vamos a ser guiados y eso no nos llevará a ganar lo que Dios tiene para nosotros. Lucas 23:34 En plena cruz Jesús se dedicó a orar. En la oración final Jesús pidió que perdonara a aquellos que lo estaban crucificando. Si no cuidamos nuestras vidas en oración nada nos importará, pero nuestra vida y nuestros hechos hablarán. Que sea la oración a Dios nuestro vivir y nuestra costumbre. Amén.",
+        "referencias_inline": [
+          "Juan 6:15",
+          "Lucas 9:29",
+          "Mateo 26:39",
+          "Lucas 23:34"
+        ]
+      }
+    ]
+  },
+  "busqueda": {
+    "texto_indexable": "aprendere a tener soledad con Dios mateo 6 6 oracion sabiduria espiritual discipulado el aposento de la oracion oracion juicio secreto aposento la oracion se dirige al padre Jesus oraba en secreto y fue una de las personas mas creidas en la tierra Jesus todo el tiempo aconsejo que debemos mantenernos en oracion la oracion es lo mas dificil ella hace que de arriba se nos hable y por eso hay que entregarse completamente hay cosas que no entenderemos si no tenemos oracion para cualquier confusion en la oracion llegara la claridad si no hay oracion estamos desconectados completamente de Dios y desorientados lo mas que el diablo quisiera es interrumpir la oracion porque sin oracion faltara la mano de Dios en nosotros si no somos personas de oracion no podemos aconsejar ni dar de nosotros nada porque como vivimos asi hablamos eso damos y de nosotros no hay mucho que ensenar pero de Dios si hay mucho que dar y la oracion es la que nos lleva a conocer a Dios y nos da mucha sabiduria mateo 5 44 cuando se nos ultraja y persigue lo que hacemos es quejarnos pero de Dios es la misericordia o los juicios Dios no quiere que nuestro corazon se contamine con odio contra nadie si tenemos algun problema con alguien no hagamos nada sencillamente vayamos al padre que ve el es quien obrara en la tierra la oracion se dirige apropiadamente a Dios el padre el da ordenes al espiritu santo quien a su vez ordena a los angeles para que nos cuiden pero logramos eso cerrando la puerta de nuestro dormitorio y orando al padre si alguien conoce al padre es Jesus y nos da ese consejo si lo experimentamos las tendremos todas a ganar marcos 11 24 a veces nos encerramos en la casa por la depresion pero no lo hacemos para orar porque todo lo que pedimos al padre lo tendremos el problema es que no tenemos el aposento de la oracion por eso vivimos siempre en una queja y eso se convierte en costumbre de la unica forma que movemos el poder de Dios es orando necesitamos la oracion personal lucas 18 1 Jesus deja ver la necesidad de la oracion necesitamos y para suplir esas necesidades esta la oracion para que el padre responda no podemos solos porque esta vida es muy fuerte y hay que padecer muchas cosas cuando se deja de orar se escasea de las cosas que Dios tiene para nosotros no las recibimos no podemos gozarnos en ellas disciplinemos el cuerpo porque a este le gusta la pereza si como iglesia dejamos de orar escasean muchas cosas para la iglesia cuando no se ora se deja de ser espiritual y domina la carne tan faltos de fuerzas podemos ser si el padre no mete su mano y como podemos mover la mano de Dios si no oramos y el no conoce nuestro rostro dependamos totalmente de este Dios poderoso por eso necesitamos la oracion la oracion es un deseo un ansiar querer pedir es una suplica lo que es ansiar nos debe provocar a la oracion orar y ansiar estan unidos por eso lo tenemos que pedir nosotros mateo 14 23 Jesus tuvo que salir de la gente para irse a orar se iba escondido en secreto a veces hay oraciones que nos fascinan en publico pero el que ora tiene que saber que hay que vivir exactamente como dice el versiculo solos donde no hay nadie cuando nos convertimos en personas de oracion vamos a probar lo que es la soledad lo que pedimos lo vamos a comenzar a ver porque quedamos recompensados delante del mundo y el sabe que tenemos oracion en nuestras vidas la gente sabe donde hay oracion y donde no la hay marcos 1 35 Jesus oraba tenia comunion con Dios entonces que de nosotros que somos como las viudas que no tienen quien las defienda tenemos que tener total dependencia de Dios hoy hay dependencia de cualquiera poco se depende de Dios para todo Jesus hacia milagros y ensenaba a los discipulos la necesidad del ayuno y la oracion el que decide hacer su vida en oracion cada dia depende de Dios completamente damos lo que del padre viene para nosotros pero lo obtenemos solamente en oracion es necesario conocer al padre marcos 6 46 hay que amar la soledad no podemos ser gente de Dios claros y precisos si no tenemos momentos de soledad porque ahi Dios habla con nosotros el tiempo que vamos a sacar con Dios tiene que ser en soledad Jesus mantenia comunion con el padre los seres humanos no quieren orar por eso son enganados porque cuando mantenemos mucha comunion con Dios no hay espiritus que nos enganen y si nos conservamos en la oracion no hay espiritu satanico que nos posea orando es que conservamos nuestras vidas lucas 5 16 luego de sanar a la gente Jesus siempre se iba a un lugar desierto a orar quien ora no es llevado para donde quiera sino que conoce la voz del padre si como iglesia nos convertimos en ambiciosos y buscamos fama y la podriamos tener ahi Jesus no estara Dios nos manda para lo que nos corresponde mejores son los lugares desiertos para hacer la obra de Dios tenemos que tener mucha oracion aprendamos a tener esa soledad con Dios para hacer en esta tierra lo que debemos hacer necesitamos la comunion con el padre lucas 9 18 Jesus oraba aparte porque para la oracion se necesita distancia de los seres amados lucas 11 1 Jesus ensenaba como orar porque era un principio suyo el problema hoy dia es que para muchos se les ha ensenado que la oracion no es necesaria pero no hay ninguna base para decir eso porque si no oramos no tenemos vida con Dios Jesus vivia la voluntad del padre el no necesitaba de quebranto porque en el habia obediencia y abnegacion hubo grandes crisis en la vida de Jesus y la oracion era lo que le fortalecia lucas 2 21 es imposible que tomemos una decision si no hemos orado la oracion declara quienes somos nuestra escasez o abundancia esta en la oracion si no nos hemos podido mantener en lo que Dios tenia para nosotros es por la falta de oracion antes de cualquier cosa es la oracion no hagamos nada si no hemos orado juan 6 15 Jesus acababa de alimentar a 5 000 personas y sabia que lo iban a hacer rey por eso se retiro a orar si Jesus solo hubiera sido un hombre comun indudablemente habria aceptado bien dispuesto la propuesta de ellos porque el hombre es exaltado a los puestos de preeminencia por eso es que no buscan la soledad Jesus no se dejo mover por la vanidad y el orgullo el se ocultaba aun siendo el rey se presento cuando lo iban a crucificar la falta de oracion hace que queramos que se nos haga reyes lucas 9 29 mientras Jesus oraba ellos descansaban en la transfiguracion Jesus oraba hacia esa oracion por nosotros en ese momento aunque nosotros pasemos a la historia esta oracion se sostendra mateo 26 39 Jesus el hijo de Dios tenia una crisis su cuerpo lo sentia violentamente y de la unica forma que lo pudo pasar fue postrando su rostro en oracion los demonios saben que mientras no oramos no vamos a ser guiados y eso no nos llevara a ganar lo que Dios tiene para nosotros lucas 23 34 en plena cruz Jesus se dedico a orar en la oracion final Jesus pidio que perdonara a aquellos que lo estaban crucificando si no cuidamos nuestras vidas en oracion nada nos importara pero nuestra vida y nuestros hechos hablaran que sea la oracion a Dios nuestro vivir y nuestra costumbre amen",
+    "alias_busqueda": [
+      "Aprenderé A Tener Soledad Con Dios",
+      "Mateo",
+      "Mateo 6",
+      "Mateo 6:6",
+      "el aposento de la oración",
+      "oración",
+      "juicio",
+      "secreto",
+      "Sabiduría espiritual"
+    ]
+  },
+  "revision_manual": {
+    "requiere_revision": false,
+    "motivo": ""
+  },
+  "ui": {
+    "mostrar_credito_en_header": true,
+    "mostrar_numero_estudio": true,
+    "mostrar_fecha": true,
+    "mostrar_topicos": true,
+    "permitir_favorito": true,
+    "permitir_compartir": true
+  }
+}

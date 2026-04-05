@@ -1,0 +1,283 @@
+{
+  "id": "estudio-892-el-hijo-del-hombre-es-senor-del-dia-de-reposo",
+  "slug": "estudio-892-el-hijo-del-hombre-es-senor-del-dia-de-reposo",
+  "numero_estudio": 892,
+  "tipo_estudio": "Iglesia en las casas",
+  "ministerio": {
+    "iglesia": "Iglesia Cristiana Mega Zoe",
+    "pastora": "Pastora Edith Cruz",
+    "credito_corto": "Iglesia Cristiana Mega Zoe · Pastora Edith Cruz",
+    "credito_largo": "Contenido original de Iglesia Cristiana Mega Zoe, conservando el crédito ministerial correspondiente a la Pastora Edith Cruz."
+  },
+  "identidad_editorial": {
+    "idioma": "es",
+    "fuente_original": "documento_word",
+    "archivo_origen": "/Users/edwingadiel/Desktop/Estudios en Word/Estudio #892 El Hijo de Hombre es Señor del  Día de Reposo - Hebreos 4 1-13.docx",
+    "estado_revision": "procesado",
+    "version_schema": "1.0"
+  },
+  "encabezado": {
+    "titulo": "El Hijo Del Hombre Es Señor Del Día De Reposo",
+    "subtitulo": null,
+    "cita_principal": "Hebreos 4:1-13",
+    "resumen_corto": "El Hijo Del Hombre Es Señor Del Día De Reposo enseña a atender la Palabra de Dios y confiar en Dios."
+  },
+  "fechas": {
+    "fecha_inicio": null,
+    "fecha_fin": null,
+    "fecha_texto_original": "",
+    "ano": null
+  },
+  "clasificacion_biblica": {
+    "libro_principal": "Hebreos",
+    "capitulo_principal": 4,
+    "versiculos_principales": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13
+    ],
+    "referencia_principal_normalizada": "Hebreos 4:1-13",
+    "testamento_principal": "Nuevo Testamento"
+  },
+  "clasificacion_tematica": {
+    "topicos": [
+      "Promesas de Dios",
+      "Obediencia",
+      "Palabra de Dios",
+      "Confianza en Dios",
+      "Verdad"
+    ],
+    "keywords": [
+      "vida eterna",
+      "juicio",
+      "arrepentimiento",
+      "corazón",
+      "reposo"
+    ]
+  },
+  "referencias_biblicas": [
+    {
+      "referencia": "Hebreos 4:1-13",
+      "referencia_normalizada": "Hebreos 4:1-13",
+      "libro": "Hebreos",
+      "capitulo": 4,
+      "versiculos": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "tipo": "principal",
+      "clickeable": true
+    },
+    {
+      "referencia": "Mateo 12:7-8, 12-13",
+      "referencia_normalizada": "Mateo 12:7-8,12-13",
+      "libro": "Mateo",
+      "capitulo": 12,
+      "versiculos": [
+        7,
+        8,
+        12,
+        13
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Hebreos 4:2",
+      "referencia_normalizada": "Hebreos 4:2",
+      "libro": "Hebreos",
+      "capitulo": 4,
+      "versiculos": [
+        2
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Génesis 2:2",
+      "referencia_normalizada": "Génesis 2:2",
+      "libro": "Génesis",
+      "capitulo": 2,
+      "versiculos": [
+        2
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Hebreos 3:16",
+      "referencia_normalizada": "Hebreos 3:16",
+      "libro": "Hebreos",
+      "capitulo": 3,
+      "versiculos": [
+        16
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Hebreos 3:10, 11",
+      "referencia_normalizada": "Hebreos 3:10,11",
+      "libro": "Hebreos",
+      "capitulo": 3,
+      "versiculos": [
+        10,
+        11
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Juan 5:24",
+      "referencia_normalizada": "Juan 5:24",
+      "libro": "Juan",
+      "capitulo": 5,
+      "versiculos": [
+        24
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Salmos 95",
+      "referencia_normalizada": "Salmos 95",
+      "libro": "Salmos",
+      "capitulo": 95,
+      "versiculos": [],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Salmos 95:7-11",
+      "referencia_normalizada": "Salmos 95:7-11",
+      "libro": "Salmos",
+      "capitulo": 95,
+      "versiculos": [
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Salmos 95:7",
+      "referencia_normalizada": "Salmos 95:7",
+      "libro": "Salmos",
+      "capitulo": 95,
+      "versiculos": [
+        7
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Hebreos 4:1",
+      "referencia_normalizada": "Hebreos 4:1",
+      "libro": "Hebreos",
+      "capitulo": 4,
+      "versiculos": [
+        1
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    }
+  ],
+  "contenido": {
+    "introduccion": null,
+    "secciones": [],
+    "contenido_completo": "Nuestro Señor es nuestro descanso, Él es nuestro reposo. Él había sido, en primer lugar, quien había instituido la ley sobre el día de reposo y quien por ello mismo era el más capacitado para interpretar su verdadero significado. Mateo 12:7-8, 12-13 \"Y si supieseis qué significa: Misericordia quiero y no sacrificio, no condenaríais a los inocentes; porque el Hijo del Hombre es Señor del día de reposo.\" \"Pues ¿cuánto más vale un hombre que una oveja? Por consiguiente, es lícito hacer el bien en los días de reposo. Entonces dijo a aquel hombre: Extiende tu mano. Y él la extendió y le fue restaurada sana como la otra.\" Parece que Mateo, enseñado por el Espíritu Santo, pasa lista aquí sobre los muchos nombres y oficios del Señor Jesús: \"El es el Hijo del Hombre (vs. 8, 40); Señor del sábado (vs. 8), mi Siervo (vs. 18); mi amado (vs. 18) hijo David (vs. 23); mayor que el templo (vs. 6), mayor que Jonás (vs. 41), mayor que Salomón (vs. 42). Por eso, la enormidad del pecado de rehusar aceptarlo a Él y no reconocer sus derechos divinos. Su reino es misericordia y justicia, por tal razón, eso es lo que quiere de nosotros.\n\nSi la profesión de la fe en Cristo es vana hay siempre el peligro de apartarse de Él (Hebreos 4:2 \"…pero no les aprovechó el oír la palabra, por no ir acompañada de fe en los que la oyeron.\"). El engaño y trampa del diablo es que alguien abrace algún sistema religioso (como los que exigen guardar el sábado) siendo eso impotente para salvar. Vamos a entender lo que es el reposo o \"Sabbat\" (en hebreo): es descansar, dejar de trabajar. Dice en Génesis 2:2 \"…y reposó el día séptimo de toda la obra que hizo.\" Quiere decir: dejó de hacer lo que estaba haciendo; es decir: cesó de hacer su obra. No era que iba a seguir trabajando luego del descanso, sino que \"terminó.\"\n\nEntendamos que en el nuevo Testamento (Nuevo Pacto) el Día de reposo es: EL LUGAR QUE TENEMOS EN LA GRACIA DE JESÚS. Es ese nuestro reposo. Aquí se deja ver claro que el nombre de Cristo es reposo para nuestra alma cargada y muy pesada. El pueblo de Israel perdió su reposo en todo, no le creían a Dios, todo su caminar era en duda. Hay que estar acompañados de fe cuando vamos a la Palabra, fe para creer lo que Dios tiene preparado para nosotros. Se alcanza este reposo por medio de la fe; así obtenemos el descanso. Si no estás unido con la fe de lo que la Palabra establece, unido con la iglesia en lo que se cree, pues no podrás entrar en el reposo para tu alma. El pueblo, aquellos que salieron de Egipto (Hebreos 3:16), fueron excluidos del reposo que Dios les había preparado en la tierra prometida por causa de la incredulidad; siempre andaban vagando (deambular, sin rumbo, andar errante) en sus corazones. Hebreos 3:10, 11 \"A causa de lo cual me disgusté contra esa generación, Y dije: Siempre andan vagando en su corazón y no han conocido mis caminos. Por tanto, juré en mi ira: No entrarán en mi reposo.\"\n\nAquellos israelitas perdieron el reposo, el descanso en la tierra prometida. Sin embrago, los que han creído han entrado al descanso. LA FE ES LA LLAVE QUE ABRE ESA PUERTA. Los que creen viven en descanso en sus conciencias, porque saben que nunca serán llevados a juicio por sus pecados (Juan 5:24 \"De cierto, de cierto os digo: El que oye mi palabra y cree al que me envió tiene vida eterna; y no vendrá a condenación, mas ha pasado de muerte a vida.\") Por otro lado, dice en el Salmos 95 \"…juré en mi furor que no entrarían en mi reposo.\" (Salmos 95:7-11) Vemos que la fe admite (deja entrar), mientras que la incredulidad excluye (no deja entrar). El que cree la Palabra tiene la certidumbre del reposo de Dios; el que no cree no puede tener esta verdad. David oye la voz que le dice al pueblo que pueden entrar en su reposo si no endurecen el corazón.\n\nPara el tiempo de Josué se distinguieron los testigos Caleb y Josué, quienes eran hombres de fe. Algunos de los israelitas fueron con ellos y con el poder de Dios conquistaron, pero los otros del pueblo escogieron la voz de los cobardes y no llegaron a lo prometido. No entraron a causa de la desobediencia. Vemos que siglos después de que Josué introdujera al pueblo en el reposo de la tierra prometida todavía Dios sigue llamando a entrar en su reposo. Dios sigue llamando a no endurecer el corazón y a entrar en su reposo. (Salmos 95:7 \"Porque él es nuestro Dios; Nosotros el pueblo de su prado y ovejas de su mano. Si oyereis HOY su voz.\") El \"hoy\" de Dios no ha terminado y la promesa sigue abierta, pero ese \"hoy\" no va a durar para siempre; la vida llega a su fin; uno se puede perder la promesa. Por lo tanto, se te dice: ¡Aquí y ahora por la fe, entrad en el verdadero reposo de Dios! ¡Tened cuidado, no sea que vuestra desobediencia y falta de fe tenga como consecuencia que se os cierre la entrada en el reposo y la paz que Dios os ofrece! ¡Tened cuidado, no sea que también creáis que habéis llegado demasiado tarde para entrar a disfrutar del reposo de Dios! TODAVÍA ESTÁ DISPONIBLE PARA TI EL \"HOY DE Dios.\" Nuestro Dios es tan grande como ha sido siempre. Si puedes oír con interés CREE Y PON TU FE EN ACCIÓN. ¡Son promesas para tu vida! De acuerdo a cómo escuchas es que tienes; pero si eres indiferente, distante, si eres de los que critica, si eres escéptico, si lo ves cínicamente, ¡NO OBTENDRÁS! En el primer versículo el autor de Hebreos exhorta a sus lectores para que tengan cuidado de no perder la promesa (\"Temamos, pues, no sea que permaneciendo aún la promesa de entrar en su reposo, alguno de vosotros parezca no haberlo alcanzado.\" Hebreos 4:1). Mejor es temer. El temor es el que hace que uno lo entregue todo esforzándose para no perder aquello que de veras vale la pena. Nuestro Amado nos llamó y nos dio ese descanso, el descanso que está y se consigue, ¡SOLO EN ÉL! Amén.",
+    "contenido_renderizado": [
+      {
+        "tipo": "parrafo",
+        "texto": "Nuestro Señor es nuestro descanso, Él es nuestro reposo. Él había sido, en primer lugar, quien había instituido la ley sobre el día de reposo y quien por ello mismo era el más capacitado para interpretar su verdadero significado. Mateo 12:7-8, 12-13 \"Y si supieseis qué significa: Misericordia quiero y no sacrificio, no condenaríais a los inocentes; porque el Hijo del Hombre es Señor del día de reposo.\" \"Pues ¿cuánto más vale un hombre que una oveja? Por consiguiente, es lícito hacer el bien en los días de reposo. Entonces dijo a aquel hombre: Extiende tu mano. Y él la extendió y le fue restaurada sana como la otra.\" Parece que Mateo, enseñado por el Espíritu Santo, pasa lista aquí sobre los muchos nombres y oficios del Señor Jesús: \"El es el Hijo del Hombre (vs. 8, 40); Señor del sábado (vs. 8), mi Siervo (vs. 18); mi amado (vs. 18) hijo David (vs. 23); mayor que el templo (vs. 6), mayor que Jonás (vs. 41), mayor que Salomón (vs. 42). Por eso, la enormidad del pecado de rehusar aceptarlo a Él y no reconocer sus derechos divinos. Su reino es misericordia y justicia, por tal razón, eso es lo que quiere de nosotros.",
+        "referencias_inline": [
+          "Mateo 12:7-8,12-13"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Si la profesión de la fe en Cristo es vana hay siempre el peligro de apartarse de Él (Hebreos 4:2 \"…pero no les aprovechó el oír la palabra, por no ir acompañada de fe en los que la oyeron.\"). El engaño y trampa del diablo es que alguien abrace algún sistema religioso (como los que exigen guardar el sábado) siendo eso impotente para salvar. Vamos a entender lo que es el reposo o \"Sabbat\" (en hebreo): es descansar, dejar de trabajar. Dice en Génesis 2:2 \"…y reposó el día séptimo de toda la obra que hizo.\" Quiere decir: dejó de hacer lo que estaba haciendo; es decir: cesó de hacer su obra. No era que iba a seguir trabajando luego del descanso, sino que \"terminó.\"",
+        "referencias_inline": [
+          "Hebreos 4:2",
+          "Génesis 2:2"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Entendamos que en el nuevo Testamento (Nuevo Pacto) el Día de reposo es: EL LUGAR QUE TENEMOS EN LA GRACIA DE JESÚS. Es ese nuestro reposo. Aquí se deja ver claro que el nombre de Cristo es reposo para nuestra alma cargada y muy pesada. El pueblo de Israel perdió su reposo en todo, no le creían a Dios, todo su caminar era en duda. Hay que estar acompañados de fe cuando vamos a la Palabra, fe para creer lo que Dios tiene preparado para nosotros. Se alcanza este reposo por medio de la fe; así obtenemos el descanso. Si no estás unido con la fe de lo que la Palabra establece, unido con la iglesia en lo que se cree, pues no podrás entrar en el reposo para tu alma. El pueblo, aquellos que salieron de Egipto (Hebreos 3:16), fueron excluidos del reposo que Dios les había preparado en la tierra prometida por causa de la incredulidad; siempre andaban vagando (deambular, sin rumbo, andar errante) en sus corazones. Hebreos 3:10, 11 \"A causa de lo cual me disgusté contra esa generación, Y dije: Siempre andan vagando en su corazón y no han conocido mis caminos. Por tanto, juré en mi ira: No entrarán en mi reposo.\"",
+        "referencias_inline": [
+          "Hebreos 3:16",
+          "Hebreos 3:10,11"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Aquellos israelitas perdieron el reposo, el descanso en la tierra prometida. Sin embrago, los que han creído han entrado al descanso. LA FE ES LA LLAVE QUE ABRE ESA PUERTA. Los que creen viven en descanso en sus conciencias, porque saben que nunca serán llevados a juicio por sus pecados (Juan 5:24 \"De cierto, de cierto os digo: El que oye mi palabra y cree al que me envió tiene vida eterna; y no vendrá a condenación, mas ha pasado de muerte a vida.\") Por otro lado, dice en el Salmos 95 \"…juré en mi furor que no entrarían en mi reposo.\" (Salmos 95:7-11) Vemos que la fe admite (deja entrar), mientras que la incredulidad excluye (no deja entrar). El que cree la Palabra tiene la certidumbre del reposo de Dios; el que no cree no puede tener esta verdad. David oye la voz que le dice al pueblo que pueden entrar en su reposo si no endurecen el corazón.",
+        "referencias_inline": [
+          "Juan 5:24",
+          "Salmos 95",
+          "Salmos 95:7-11"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Para el tiempo de Josué se distinguieron los testigos Caleb y Josué, quienes eran hombres de fe. Algunos de los israelitas fueron con ellos y con el poder de Dios conquistaron, pero los otros del pueblo escogieron la voz de los cobardes y no llegaron a lo prometido. No entraron a causa de la desobediencia. Vemos que siglos después de que Josué introdujera al pueblo en el reposo de la tierra prometida todavía Dios sigue llamando a entrar en su reposo. Dios sigue llamando a no endurecer el corazón y a entrar en su reposo. (Salmos 95:7 \"Porque él es nuestro Dios; Nosotros el pueblo de su prado y ovejas de su mano. Si oyereis HOY su voz.\") El \"hoy\" de Dios no ha terminado y la promesa sigue abierta, pero ese \"hoy\" no va a durar para siempre; la vida llega a su fin; uno se puede perder la promesa. Por lo tanto, se te dice: ¡Aquí y ahora por la fe, entrad en el verdadero reposo de Dios! ¡Tened cuidado, no sea que vuestra desobediencia y falta de fe tenga como consecuencia que se os cierre la entrada en el reposo y la paz que Dios os ofrece! ¡Tened cuidado, no sea que también creáis que habéis llegado demasiado tarde para entrar a disfrutar del reposo de Dios! TODAVÍA ESTÁ DISPONIBLE PARA TI EL \"HOY DE Dios.\" Nuestro Dios es tan grande como ha sido siempre. Si puedes oír con interés CREE Y PON TU FE EN ACCIÓN. ¡Son promesas para tu vida! De acuerdo a cómo escuchas es que tienes; pero si eres indiferente, distante, si eres de los que critica, si eres escéptico, si lo ves cínicamente, ¡NO OBTENDRÁS! En el primer versículo el autor de Hebreos exhorta a sus lectores para que tengan cuidado de no perder la promesa (\"Temamos, pues, no sea que permaneciendo aún la promesa de entrar en su reposo, alguno de vosotros parezca no haberlo alcanzado.\" Hebreos 4:1). Mejor es temer. El temor es el que hace que uno lo entregue todo esforzándose para no perder aquello que de veras vale la pena. Nuestro Amado nos llamó y nos dio ese descanso, el descanso que está y se consigue, ¡SOLO EN ÉL! Amén.",
+        "referencias_inline": [
+          "Salmos 95:7",
+          "Hebreos 4:1"
+        ]
+      }
+    ]
+  },
+  "busqueda": {
+    "texto_indexable": "el hijo del hombre es senor del dia de reposo hebreos 4 1 13 promesas de Dios obediencia palabra de Dios confianza en Dios verdad vida eterna juicio arrepentimiento corazon reposo nuestro senor es nuestro descanso el es nuestro reposo el habia sido en primer lugar quien habia instituido la ley sobre el dia de reposo y quien por ello mismo era el mas capacitado para interpretar su verdadero significado mateo 12 7 8 12 13 y si supieseis que significa misericordia quiero y no sacrificio no condenariais a los inocentes porque el hijo del hombre es senor del dia de reposo pues cuanto mas vale un hombre que una oveja por consiguiente es licito hacer el bien en los dias de reposo entonces dijo a aquel hombre extiende tu mano y el la extendio y le fue restaurada sana como la otra parece que mateo ensenado por el espiritu santo pasa lista aqui sobre los muchos nombres y oficios del senor Jesus el es el hijo del hombre vs 8 40 senor del sabado vs 8 mi siervo vs 18 mi amado vs 18 hijo david vs 23 mayor que el templo vs 6 mayor que jonas vs 41 mayor que salomon vs 42 por eso la enormidad del pecado de rehusar aceptarlo a el y no reconocer sus derechos divinos su reino es misericordia y justicia por tal razon eso es lo que quiere de nosotros si la profesion de la fe en cristo es vana hay siempre el peligro de apartarse de el hebreos 4 2 pero no les aprovecho el oir la palabra por no ir acompanada de fe en los que la oyeron el engano y trampa del diablo es que alguien abrace algun sistema religioso como los que exigen guardar el sabado siendo eso impotente para salvar vamos a entender lo que es el reposo o sabbat en hebreo es descansar dejar de trabajar dice en genesis 2 2 y reposo el dia septimo de toda la obra que hizo quiere decir dejo de hacer lo que estaba haciendo es decir ceso de hacer su obra no era que iba a seguir trabajando luego del descanso sino que termino entendamos que en el nuevo testamento nuevo pacto el dia de reposo es el lugar que tenemos en la gracia de Jesus es ese nuestro reposo aqui se deja ver claro que el nombre de cristo es reposo para nuestra alma cargada y muy pesada el pueblo de israel perdio su reposo en todo no le creian a Dios todo su caminar era en duda hay que estar acompanados de fe cuando vamos a la palabra fe para creer lo que Dios tiene preparado para nosotros se alcanza este reposo por medio de la fe asi obtenemos el descanso si no estas unido con la fe de lo que la palabra establece unido con la iglesia en lo que se cree pues no podras entrar en el reposo para tu alma el pueblo aquellos que salieron de egipto hebreos 3 16 fueron excluidos del reposo que Dios les habia preparado en la tierra prometida por causa de la incredulidad siempre andaban vagando deambular sin rumbo andar errante en sus corazones hebreos 3 10 11 a causa de lo cual me disguste contra esa generacion y dije siempre andan vagando en su corazon y no han conocido mis caminos por tanto jure en mi ira no entraran en mi reposo aquellos israelitas perdieron el reposo el descanso en la tierra prometida sin embrago los que han creido han entrado al descanso la fe es la llave que abre esa puerta los que creen viven en descanso en sus conciencias porque saben que nunca seran llevados a juicio por sus pecados juan 5 24 de cierto de cierto os digo el que oye mi palabra y cree al que me envio tiene vida eterna y no vendra a condenacion mas ha pasado de muerte a vida por otro lado dice en el salmo 95 jure en mi furor que no entrarian en mi reposo salmo 95 7 11 vemos que la fe admite deja entrar mientras que la incredulidad excluye no deja entrar el que cree la palabra tiene la certidumbre del reposo de Dios el que no cree no puede tener esta verdad david oye la voz que le dice al pueblo que pueden entrar en su reposo si no endurecen el corazon para el tiempo de josue se distinguieron los testigos caleb y josue quienes eran hombres de fe algunos de los israelitas fueron con ellos y con el poder de Dios conquistaron pero los otros del pueblo escogieron la voz de los cobardes y no llegaron a lo prometido no entraron a causa de la desobediencia vemos que siglos despues de que josue introdujera al pueblo en el reposo de la tierra prometida todavia Dios sigue llamando a entrar en su reposo Dios sigue llamando a no endurecer el corazon y a entrar en su reposo salmo 95 7 porque el es nuestro Dios nosotros el pueblo de su prado y ovejas de su mano si oyereis hoy su voz el hoy de Dios no ha terminado y la promesa sigue abierta pero ese hoy no va a durar para siempre la vida llega a su fin uno se puede perder la promesa por lo tanto se te dice aqui y ahora por la fe entrad en el verdadero reposo de Dios tened cuidado no sea que vuestra desobediencia y falta de fe tenga como consecuencia que se os cierre la entrada en el reposo y la paz que Dios os ofrece tened cuidado no sea que tambien creais que habeis llegado demasiado tarde para entrar a disfrutar del reposo de Dios todavia esta disponible para ti el hoy de Dios nuestro Dios es tan grande como ha sido siempre si puedes oir con interes cree y pon tu fe en accion son promesas para tu vida de acuerdo a como escuchas es que tienes pero si eres indiferente distante si eres de los que critica si eres esceptico si lo ves cinicamente no obtendras en el primer versiculo el autor de hebreos exhorta a sus lectores para que tengan cuidado de no perder la promesa temamos pues no sea que permaneciendo aun la promesa de entrar en su reposo alguno de vosotros parezca no haberlo alcanzado hebreos 4 1 mejor es temer el temor es el que hace que uno lo entregue todo esforzandose para no perder aquello que de veras vale la pena nuestro amado nos llamo y nos dio ese descanso el descanso que esta y se consigue solo en el amen",
+    "alias_busqueda": [
+      "El Hijo Del Hombre Es Señor Del Día De Reposo",
+      "Hebreos",
+      "Hebreos 4",
+      "Hebreos 4:1-13",
+      "vida eterna",
+      "juicio",
+      "arrepentimiento",
+      "corazón",
+      "Promesas de Dios",
+      "Obediencia"
+    ]
+  },
+  "revision_manual": {
+    "requiere_revision": false,
+    "motivo": ""
+  },
+  "ui": {
+    "mostrar_credito_en_header": true,
+    "mostrar_numero_estudio": true,
+    "mostrar_fecha": true,
+    "mostrar_topicos": true,
+    "permitir_favorito": true,
+    "permitir_compartir": true
+  }
+}

@@ -1,0 +1,309 @@
+{
+  "id": "estudio-295-la-trinidad-el-hijo-Jesus-nuestro-salvador",
+  "slug": "estudio-295-la-trinidad-el-hijo-Jesus-nuestro-salvador",
+  "numero_estudio": 295,
+  "tipo_estudio": "Iglesia en las casas",
+  "ministerio": {
+    "iglesia": "Iglesia Cristiana Mega Zoe",
+    "pastora": "Pastora Edith Cruz",
+    "credito_corto": "Iglesia Cristiana Mega Zoe · Pastora Edith Cruz",
+    "credito_largo": "Contenido original de Iglesia Cristiana Mega Zoe, conservando el crédito ministerial correspondiente a la Pastora Edith Cruz."
+  },
+  "identidad_editorial": {
+    "idioma": "es",
+    "fuente_original": "documento_word",
+    "archivo_origen": "/Users/edwingadiel/Desktop/Estudios en Word/Estudio #295 La Trinidad, El Hijo - Jesús Nuestro Salvador - Mateo 3 17.doc",
+    "estado_revision": "procesado",
+    "version_schema": "1.0"
+  },
+  "encabezado": {
+    "titulo": "La Trinidad, El Hijo- Jesús Nuestro Salvador",
+    "subtitulo": null,
+    "cita_principal": "Mateo 3:17",
+    "resumen_corto": "La Trinidad, El Hijo- Jesús Nuestro Salvador llama a perseverar en la oración."
+  },
+  "fechas": {
+    "fecha_inicio": "2003-04-22",
+    "fecha_fin": "2003-04-28",
+    "fecha_texto_original": "SEMANA DEL 22 @ 28 DE ABRIL DE 2003",
+    "ano": 2003
+  },
+  "clasificacion_biblica": {
+    "libro_principal": "Mateo",
+    "capitulo_principal": 3,
+    "versiculos_principales": [
+      17
+    ],
+    "referencia_principal_normalizada": "Mateo 3:17",
+    "testamento_principal": "Nuevo Testamento"
+  },
+  "clasificacion_tematica": {
+    "topicos": [
+      "Oración",
+      "Propósito de Dios",
+      "Gozo",
+      "Jesucristo"
+    ],
+    "keywords": [
+      "oración",
+      "juicio",
+      "arrepentimiento",
+      "perseverancia",
+      "fuego"
+    ]
+  },
+  "referencias_biblicas": [
+    {
+      "referencia": "Mateo 3:17",
+      "referencia_normalizada": "Mateo 3:17",
+      "libro": "Mateo",
+      "capitulo": 3,
+      "versiculos": [
+        17
+      ],
+      "tipo": "principal",
+      "clickeable": true
+    },
+    {
+      "referencia": "Romanos 5: 8",
+      "referencia_normalizada": "Romanos 5:8",
+      "libro": "Romanos",
+      "capitulo": 5,
+      "versiculos": [
+        8
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Eclesiastés 1: 8",
+      "referencia_normalizada": "Eclesiastés 1:8",
+      "libro": "Eclesiastés",
+      "capitulo": 1,
+      "versiculos": [
+        8
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Juan 15: 16",
+      "referencia_normalizada": "Juan 15:16",
+      "libro": "Juan",
+      "capitulo": 15,
+      "versiculos": [
+        16
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Mateo 8:28-29",
+      "referencia_normalizada": "Mateo 8:28-29",
+      "libro": "Mateo",
+      "capitulo": 8,
+      "versiculos": [
+        28,
+        29
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "1 Pedro 1: 18,19",
+      "referencia_normalizada": "1 Pedro 1:18,19",
+      "libro": "1 Pedro",
+      "capitulo": 1,
+      "versiculos": [
+        18,
+        19
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Lucas 1:35",
+      "referencia_normalizada": "Lucas 1:35",
+      "libro": "Lucas",
+      "capitulo": 1,
+      "versiculos": [
+        35
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "1 Juan 5: 7",
+      "referencia_normalizada": "1 Juan 5:7",
+      "libro": "1 Juan",
+      "capitulo": 5,
+      "versiculos": [
+        7
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Juan 8: 36",
+      "referencia_normalizada": "Juan 8:36",
+      "libro": "Juan",
+      "capitulo": 8,
+      "versiculos": [
+        36
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Juan 3:18",
+      "referencia_normalizada": "Juan 3:18",
+      "libro": "Juan",
+      "capitulo": 3,
+      "versiculos": [
+        18
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "1 Pedro 1: 2",
+      "referencia_normalizada": "1 Pedro 1:2",
+      "libro": "1 Pedro",
+      "capitulo": 1,
+      "versiculos": [
+        2
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Juan 14:13",
+      "referencia_normalizada": "Juan 14:13",
+      "libro": "Juan",
+      "capitulo": 14,
+      "versiculos": [
+        13
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Juan 15:7",
+      "referencia_normalizada": "Juan 15:7",
+      "libro": "Juan",
+      "capitulo": 15,
+      "versiculos": [
+        7
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "2 Pedro 1:17, 1",
+      "referencia_normalizada": "2 Pedro 1:17,1",
+      "libro": "2 Pedro",
+      "capitulo": 1,
+      "versiculos": [
+        1,
+        17
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Juan 4:15",
+      "referencia_normalizada": "Juan 4:15",
+      "libro": "Juan",
+      "capitulo": 4,
+      "versiculos": [
+        15
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    }
+  ],
+  "contenido": {
+    "introduccion": null,
+    "secciones": [],
+    "contenido_completo": "El que ha recibido al Señor Jesucristo tiene que saber que Él llegó y llegó para hacer en nuestras vidas. ¿Qué hubiese pasado si no hubiésemos aceptado al Señor Jesucristo? ¿Tú lo has aceptado? Tal vez hubiésemos llegado a ser ladrones, homicidas, prostitutas, homosexuales, en fin, estaríamos en mucho pecado. De seguro que no hubiéramos tenido compasión de nadie y hubiéramos hecho una vida cómoda a todo lo que se nos antojara. Pero, Jesús llegó porque al Padre le plació mandarlo a la Tierra por causa de nosotros. Fue como si el Padre dijera: Si esta humanidad sigue así terminará destruida. Entonces, Dios nos mostró su amor enviándonos a su HIJO. Romanos 5: 8 Con todo y eso gran parte de la humanidad vive endurecida en su corazón y persiste en pecar. Un caso de ejemplo lo fue el pueblo de Israel. A ellos les hizo milagros, les abrió el mar en dos, les daba de comer el maná día tras día, la nube caminaba con ellos de día y el fuego de noche, y sin embargo, ninguna de esas maravillas hizo que el pueblo le buscara. Porque el ojo del hombre nunca se sacia. Eclesiastés 1: 8 y 6: 7\n\nEn Mateo 3: 17 dice que una voz del Cielo habló y el Padre, que no conoce pecado, dijo: \"Este es mi Hijo amado en el cual tengo complacencia.\" Él se complacía cuando miraba a Jesús. Por eso el Padre responde cuando le oramos y le pedimos en el nombre de Jesús. Juan 15: 16 Vemos que Jesús por quien ha hecho es por ti. Si el Padre podía decir: \"Ciento complacencia por mi Hijo\", ¿qué tal nuestras vidas como para sentirnos complacidos, felices por el Hijo de Dios? Jesús estaba en pleno bautismo en las aguas del Río Jordán, pues estaba cumpliendo todo lo que el Padre le había enviado a hacer. Él fue obediente hasta la cruz, vivió en pura obediencia al Padre. Cuando uno complace a alguien es porque uno accede a cumplir con sus deseos. Así vivió Jesús y así complació al Padre haciendo lo que el Padre quería. Y al fin y al cabo, todo eso fue a favor tuyo. El Padre podría decir: \"Yo puedo hacerles milagros, haré el Cielo y la Tierra, les di espíritu a ellos, a los hombres les he dado lo mejor.\" Por eso, nos envió a su Hijo. Cuando el Padre vio que al pueblo lo que le gusta es todo lo que es malo y se inclina al pecado, resolvió enviar al Hijo para que pagara el precio del pecado en una dolorosa cruz. Por eso, Jesús accedió a lo que el Padre quería hacer a favor nuestro. Porque, siempre el Padre ha trabajado a favor nuestro. Jesús, entonces, comenzó a agradar al Padre haciendo lo que su Padre quería y vino con un cuerpo tan mortal como lo es el mío. Tan lleno de temor en el momento de las malas circunstancias, como nosotros. Y pagó el duro precio de una muerte de cruz.\n\nMateo 8:28-29 Jesús es conocido por el Padre y es conocido por los ángeles. También, los demonios sabían quién era Jesús. Es importante que todos lo conozcamos. Porque, la preciosa sangre de Jesús nos ha lavado. 1 Pedro 1: 18,19 Debemos entender lo que nos pertenece gracias a él. ¿Cuál debe ser nuestro conocimiento de su gracia? ¿Cómo es que debemos caminar? ¿Cómo movernos en esta Tierra pecadora? ¿Cómo es que debemos amarlo? Vimos que al Padre, le complace el Hijo. Que el Padre estaba satisfecho. Pero, los demonios le temen y le decían: ¿Qué haces aquí, Hijo de Dios? Les fue de asombro el ver a Jesús aquí en la Tierra. Nosotros lo amamos.\n\nLucas 1:35 Hoy en día los hombres son insensibles y no conocen a Jesús tal cual es, sino que lo conocen como si fuera un tirano que les fuera a quitar sus vidas, como si fuera alguien que destroza cuando llega, pero Él es el santo Hijo de Dios. Él en vez de quitar la vida, la da en abundancia. Es un gozo cuando hemos conocido a Jesús como es en verdad. Es nuestra meta más sagrada encontrarnos con Él. Lo hacemos en la oración, en el culto, porque así se hace más presente en nuestra vida. María tuvo una gran revelación del ángel Gabriel. El ángel se le revela a una mujer humilde, a una sierva de Dios. Dios llega sobre ésta mujer y aquí vemos la trinidad en acción. 1 Juan 5: 7 Está el poder del Altísimo que va a enviar a su Hijo al vientre de una mujer. A un santo ser. ¡Al Hijo de Dios! El Altísimo le cubre con una sombra, es una manifestación muy grande. Allí estaba el Padre, Hijo y el Espíritu Santo para que entonces llegara el Hijo a la Tierra con un propósito y es para que tú, en tu día, fueras lavado con su sangre. Con el propósito de quitar los juicios, de establecer su reino sobre ti y salvar tu alma que estaba perdida. Con un propósito que es, también, sanar tu cuerpo enfermo. Por eso, Él llegó a mi vida y quitó la maldición. El único que puede libertar es el Hijo de Dios, Él es el que rompe las cadenas. Juan 8: 36 Jesús quita todo lo que es maldición de mi vida. Mis hermanos, de una forma milagrosa llegó Jesús a ésta Tierra. Llegó con el Espíritu Santo. Vemos que cuando el Cielo se fue a despedir del Hijo de Dios, no fue de gran gozo ni de alegría. Así que el Padre con su presencia cubrió aquella mujer y esa sombra hermosa salió del mismo Cielo. Se abrieron los Cielos. Es el momento en que el Hijo llega a la Tierra como salvador de los hombres. ¿Ya eres salvo?\n\nJuan 3:18 El que cree en Él no es condenado, pero el que no le cree ya es condenado. Por lo que luchamos es para que las personas no sean condenadas. El que no cree es condenado, está en condenación, está para muerte eterna, estará en el Infierno para la eternidad. ¡El que le cree no es condenado y es libre! Cuando nos mira el Padre, ve una sangre que me cubre. Porque cuando el Espíritu llega a nosotros, tiene que ver que en nosotros está la sangre de nuestro Señor Jesucristo. 1 Pedro 1: 2 Mientras más yo le creo, más se mueve Su mano. Mientras más yo le creo se me quita toda condenación, por eso puedo alcanzar. Si le creo a Dios no soy condenado.\n\nJuan 14:13 El mundo que no le cree tiene condenación y la iglesia por el contrario, tiene que amar al Hijo con todas las fuerzas. Iglesia, si queremos santificar a Dios en medio del mundo, debemos pedir en el nombre del Hijo y Él lo hará. Pedimos en el nombre de Jesús. Vamos al Padre a través del Hijo, Jesús. Las oraciones de los justos están en unos cofres y son de olor grato a Jehová. No hay cofre para los impíos, sino para los santos. Juan 15:7 Si la Palabra permanece en mi, pediré y me será hecho. Le pido a Dios y Dios contesta. 2 de Pedro 1:17, 1 de Juan 4:15. Si tu le confiesas, Dios va a permanecer en ti. En Dios somos una familia, somos uno. Jesús permanece en ti. En el Padre tú permaneces por Jesús y de seguro el Padre te va a tomar como a un hijo. ¡Si amamos a Jesús como Él merece ser amado, si no tomamos en vano su sangre preciosa, si le damos el valor y si así enseñamos a nuestros hijos, seremos una iglesia triunfante! ¡AMÉN!",
+    "contenido_renderizado": [
+      {
+        "tipo": "parrafo",
+        "texto": "El que ha recibido al Señor Jesucristo tiene que saber que Él llegó y llegó para hacer en nuestras vidas. ¿Qué hubiese pasado si no hubiésemos aceptado al Señor Jesucristo? ¿Tú lo has aceptado? Tal vez hubiésemos llegado a ser ladrones, homicidas, prostitutas, homosexuales, en fin, estaríamos en mucho pecado. De seguro que no hubiéramos tenido compasión de nadie y hubiéramos hecho una vida cómoda a todo lo que se nos antojara. Pero, Jesús llegó porque al Padre le plació mandarlo a la Tierra por causa de nosotros. Fue como si el Padre dijera: Si esta humanidad sigue así terminará destruida. Entonces, Dios nos mostró su amor enviándonos a su HIJO. Romanos 5: 8 Con todo y eso gran parte de la humanidad vive endurecida en su corazón y persiste en pecar. Un caso de ejemplo lo fue el pueblo de Israel. A ellos les hizo milagros, les abrió el mar en dos, les daba de comer el maná día tras día, la nube caminaba con ellos de día y el fuego de noche, y sin embargo, ninguna de esas maravillas hizo que el pueblo le buscara. Porque el ojo del hombre nunca se sacia. Eclesiastés 1: 8 y 6: 7",
+        "referencias_inline": [
+          "Romanos 5:8",
+          "Eclesiastés 1:8"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "En Mateo 3: 17 dice que una voz del Cielo habló y el Padre, que no conoce pecado, dijo: \"Este es mi Hijo amado en el cual tengo complacencia.\" Él se complacía cuando miraba a Jesús. Por eso el Padre responde cuando le oramos y le pedimos en el nombre de Jesús. Juan 15: 16 Vemos que Jesús por quien ha hecho es por ti. Si el Padre podía decir: \"Ciento complacencia por mi Hijo\", ¿qué tal nuestras vidas como para sentirnos complacidos, felices por el Hijo de Dios? Jesús estaba en pleno bautismo en las aguas del Río Jordán, pues estaba cumpliendo todo lo que el Padre le había enviado a hacer. Él fue obediente hasta la cruz, vivió en pura obediencia al Padre. Cuando uno complace a alguien es porque uno accede a cumplir con sus deseos. Así vivió Jesús y así complació al Padre haciendo lo que el Padre quería. Y al fin y al cabo, todo eso fue a favor tuyo. El Padre podría decir: \"Yo puedo hacerles milagros, haré el Cielo y la Tierra, les di espíritu a ellos, a los hombres les he dado lo mejor.\" Por eso, nos envió a su Hijo. Cuando el Padre vio que al pueblo lo que le gusta es todo lo que es malo y se inclina al pecado, resolvió enviar al Hijo para que pagara el precio del pecado en una dolorosa cruz. Por eso, Jesús accedió a lo que el Padre quería hacer a favor nuestro. Porque, siempre el Padre ha trabajado a favor nuestro. Jesús, entonces, comenzó a agradar al Padre haciendo lo que su Padre quería y vino con un cuerpo tan mortal como lo es el mío. Tan lleno de temor en el momento de las malas circunstancias, como nosotros. Y pagó el duro precio de una muerte de cruz.",
+        "referencias_inline": [
+          "Mateo 3:17",
+          "Juan 15:16"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Mateo 8:28-29 Jesús es conocido por el Padre y es conocido por los ángeles. También, los demonios sabían quién era Jesús. Es importante que todos lo conozcamos. Porque, la preciosa sangre de Jesús nos ha lavado. 1 Pedro 1: 18,19 Debemos entender lo que nos pertenece gracias a él. ¿Cuál debe ser nuestro conocimiento de su gracia? ¿Cómo es que debemos caminar? ¿Cómo movernos en esta Tierra pecadora? ¿Cómo es que debemos amarlo? Vimos que al Padre, le complace el Hijo. Que el Padre estaba satisfecho. Pero, los demonios le temen y le decían: ¿Qué haces aquí, Hijo de Dios? Les fue de asombro el ver a Jesús aquí en la Tierra. Nosotros lo amamos.",
+        "referencias_inline": [
+          "Mateo 8:28-29",
+          "1 Pedro 1:18,19"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Lucas 1:35 Hoy en día los hombres son insensibles y no conocen a Jesús tal cual es, sino que lo conocen como si fuera un tirano que les fuera a quitar sus vidas, como si fuera alguien que destroza cuando llega, pero Él es el santo Hijo de Dios. Él en vez de quitar la vida, la da en abundancia. Es un gozo cuando hemos conocido a Jesús como es en verdad. Es nuestra meta más sagrada encontrarnos con Él. Lo hacemos en la oración, en el culto, porque así se hace más presente en nuestra vida. María tuvo una gran revelación del ángel Gabriel. El ángel se le revela a una mujer humilde, a una sierva de Dios. Dios llega sobre ésta mujer y aquí vemos la trinidad en acción. 1 Juan 5: 7 Está el poder del Altísimo que va a enviar a su Hijo al vientre de una mujer. A un santo ser. ¡Al Hijo de Dios! El Altísimo le cubre con una sombra, es una manifestación muy grande. Allí estaba el Padre, Hijo y el Espíritu Santo para que entonces llegara el Hijo a la Tierra con un propósito y es para que tú, en tu día, fueras lavado con su sangre. Con el propósito de quitar los juicios, de establecer su reino sobre ti y salvar tu alma que estaba perdida. Con un propósito que es, también, sanar tu cuerpo enfermo. Por eso, Él llegó a mi vida y quitó la maldición. El único que puede libertar es el Hijo de Dios, Él es el que rompe las cadenas. Juan 8: 36 Jesús quita todo lo que es maldición de mi vida. Mis hermanos, de una forma milagrosa llegó Jesús a ésta Tierra. Llegó con el Espíritu Santo. Vemos que cuando el Cielo se fue a despedir del Hijo de Dios, no fue de gran gozo ni de alegría. Así que el Padre con su presencia cubrió aquella mujer y esa sombra hermosa salió del mismo Cielo. Se abrieron los Cielos. Es el momento en que el Hijo llega a la Tierra como salvador de los hombres. ¿Ya eres salvo?",
+        "referencias_inline": [
+          "Lucas 1:35",
+          "1 Juan 5:7",
+          "Juan 8:36"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Juan 3:18 El que cree en Él no es condenado, pero el que no le cree ya es condenado. Por lo que luchamos es para que las personas no sean condenadas. El que no cree es condenado, está en condenación, está para muerte eterna, estará en el Infierno para la eternidad. ¡El que le cree no es condenado y es libre! Cuando nos mira el Padre, ve una sangre que me cubre. Porque cuando el Espíritu llega a nosotros, tiene que ver que en nosotros está la sangre de nuestro Señor Jesucristo. 1 Pedro 1: 2 Mientras más yo le creo, más se mueve Su mano. Mientras más yo le creo se me quita toda condenación, por eso puedo alcanzar. Si le creo a Dios no soy condenado.",
+        "referencias_inline": [
+          "Juan 3:18",
+          "1 Pedro 1:2"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Juan 14:13 El mundo que no le cree tiene condenación y la iglesia por el contrario, tiene que amar al Hijo con todas las fuerzas. Iglesia, si queremos santificar a Dios en medio del mundo, debemos pedir en el nombre del Hijo y Él lo hará. Pedimos en el nombre de Jesús. Vamos al Padre a través del Hijo, Jesús. Las oraciones de los justos están en unos cofres y son de olor grato a Jehová. No hay cofre para los impíos, sino para los santos. Juan 15:7 Si la Palabra permanece en mi, pediré y me será hecho. Le pido a Dios y Dios contesta. 2 de Pedro 1:17, 1 de Juan 4:15. Si tu le confiesas, Dios va a permanecer en ti. En Dios somos una familia, somos uno. Jesús permanece en ti. En el Padre tú permaneces por Jesús y de seguro el Padre te va a tomar como a un hijo. ¡Si amamos a Jesús como Él merece ser amado, si no tomamos en vano su sangre preciosa, si le damos el valor y si así enseñamos a nuestros hijos, seremos una iglesia triunfante! ¡AMÉN!",
+        "referencias_inline": [
+          "Juan 14:13",
+          "Juan 15:7",
+          "2 Pedro 1:17,1",
+          "Juan 4:15"
+        ]
+      }
+    ]
+  },
+  "busqueda": {
+    "texto_indexable": "la trinidad el hijo Jesus nuestro salvador mateo 3 17 oracion proposito de Dios gozo jesucristo oracion juicio arrepentimiento perseverancia fuego el que ha recibido al senor jesucristo tiene que saber que el llego y llego para hacer en nuestras vidas que hubiese pasado si no hubiesemos aceptado al senor jesucristo tu lo has aceptado tal vez hubiesemos llegado a ser ladrones homicidas prostitutas homosexuales en fin estariamos en mucho pecado de seguro que no hubieramos tenido compasion de nadie y hubieramos hecho una vida comoda a todo lo que se nos antojara pero Jesus llego porque al padre le placio mandarlo a la tierra por causa de nosotros fue como si el padre dijera si esta humanidad sigue asi terminara destruida entonces Dios nos mostro su amor enviandonos a su hijo romanos 5 8 con todo y eso gran parte de la humanidad vive endurecida en su corazon y persiste en pecar un caso de ejemplo lo fue el pueblo de israel a ellos les hizo milagros les abrio el mar en dos les daba de comer el mana dia tras dia la nube caminaba con ellos de dia y el fuego de noche y sin embargo ninguna de esas maravillas hizo que el pueblo le buscara porque el ojo del hombre nunca se sacia eclesiastes 1 8 y 6 7 en mateo 3 17 dice que una voz del cielo hablo y el padre que no conoce pecado dijo este es mi hijo amado en el cual tengo complacencia el se complacia cuando miraba a Jesus por eso el padre responde cuando le oramos y le pedimos en el nombre de Jesus juan 15 16 vemos que Jesus por quien ha hecho es por ti si el padre podia decir ciento complacencia por mi hijo que tal nuestras vidas como para sentirnos complacidos felices por el hijo de Dios Jesus estaba en pleno bautismo en las aguas del rio jordan pues estaba cumpliendo todo lo que el padre le habia enviado a hacer el fue obediente hasta la cruz vivio en pura obediencia al padre cuando uno complace a alguien es porque uno accede a cumplir con sus deseos asi vivio Jesus y asi complacio al padre haciendo lo que el padre queria y al fin y al cabo todo eso fue a favor tuyo el padre podria decir yo puedo hacerles milagros hare el cielo y la tierra les di espiritu a ellos a los hombres les he dado lo mejor por eso nos envio a su hijo cuando el padre vio que al pueblo lo que le gusta es todo lo que es malo y se inclina al pecado resolvio enviar al hijo para que pagara el precio del pecado en una dolorosa cruz por eso Jesus accedio a lo que el padre queria hacer a favor nuestro porque siempre el padre ha trabajado a favor nuestro Jesus entonces comenzo a agradar al padre haciendo lo que su padre queria y vino con un cuerpo tan mortal como lo es el mio tan lleno de temor en el momento de las malas circunstancias como nosotros y pago el duro precio de una muerte de cruz mateo 8 28 29 Jesus es conocido por el padre y es conocido por los angeles tambien los demonios sabian quien era Jesus es importante que todos lo conozcamos porque la preciosa sangre de Jesus nos ha lavado 1 pedro 1 18 19 debemos entender lo que nos pertenece gracias a el cual debe ser nuestro conocimiento de su gracia como es que debemos caminar como movernos en esta tierra pecadora como es que debemos amarlo vimos que al padre le complace el hijo que el padre estaba satisfecho pero los demonios le temen y le decian que haces aqui hijo de Dios les fue de asombro el ver a Jesus aqui en la tierra nosotros lo amamos lucas 1 35 hoy en dia los hombres son insensibles y no conocen a Jesus tal cual es sino que lo conocen como si fuera un tirano que les fuera a quitar sus vidas como si fuera alguien que destroza cuando llega pero el es el santo hijo de Dios el en vez de quitar la vida la da en abundancia es un gozo cuando hemos conocido a Jesus como es en verdad es nuestra meta mas sagrada encontrarnos con el lo hacemos en la oracion en el culto porque asi se hace mas presente en nuestra vida maria tuvo una gran revelacion del angel gabriel el angel se le revela a una mujer humilde a una sierva de Dios Dios llega sobre esta mujer y aqui vemos la trinidad en accion 1 juan 5 7 esta el poder del altisimo que va a enviar a su hijo al vientre de una mujer a un santo ser al hijo de Dios el altisimo le cubre con una sombra es una manifestacion muy grande alli estaba el padre hijo y el espiritu santo para que entonces llegara el hijo a la tierra con un proposito y es para que tu en tu dia fueras lavado con su sangre con el proposito de quitar los juicios de establecer su reino sobre ti y salvar tu alma que estaba perdida con un proposito que es tambien sanar tu cuerpo enfermo por eso el llego a mi vida y quito la maldicion el unico que puede libertar es el hijo de Dios el es el que rompe las cadenas juan 8 36 Jesus quita todo lo que es maldicion de mi vida mis hermanos de una forma milagrosa llego Jesus a esta tierra llego con el espiritu santo vemos que cuando el cielo se fue a despedir del hijo de Dios no fue de gran gozo ni de alegria asi que el padre con su presencia cubrio aquella mujer y esa sombra hermosa salio del mismo cielo se abrieron los cielos es el momento en que el hijo llega a la tierra como salvador de los hombres ya eres salvo juan 3 18 el que cree en el no es condenado pero el que no le cree ya es condenado por lo que luchamos es para que las personas no sean condenadas el que no cree es condenado esta en condenacion esta para muerte eterna estara en el infierno para la eternidad el que le cree no es condenado y es libre cuando nos mira el padre ve una sangre que me cubre porque cuando el espiritu llega a nosotros tiene que ver que en nosotros esta la sangre de nuestro senor jesucristo 1 pedro 1 2 mientras mas yo le creo mas se mueve su mano mientras mas yo le creo se me quita toda condenacion por eso puedo alcanzar si le creo a Dios no soy condenado juan 14 13 el mundo que no le cree tiene condenacion y la iglesia por el contrario tiene que amar al hijo con todas las fuerzas iglesia si queremos santificar a Dios en medio del mundo debemos pedir en el nombre del hijo y el lo hara pedimos en el nombre de Jesus vamos al padre a traves del hijo Jesus las oraciones de los justos estan en unos cofres y son de olor grato a jehova no hay cofre para los impios sino para los santos juan 15 7 si la palabra permanece en mi pedire y me sera hecho le pido a Dios y Dios contesta 2 de pedro 1 17 1 de juan 4 15 si tu le confiesas Dios va a permanecer en ti en Dios somos una familia somos uno Jesus permanece en ti en el padre tu permaneces por Jesus y de seguro el padre te va a tomar como a un hijo si amamos a Jesus como el merece ser amado si no tomamos en vano su sangre preciosa si le damos el valor y si asi ensenamos a nuestros hijos seremos una iglesia triunfante amen",
+    "alias_busqueda": [
+      "La Trinidad, El Hijo- Jesús Nuestro Salvador",
+      "Mateo",
+      "Mateo 3",
+      "Mateo 3:17",
+      "oración",
+      "juicio",
+      "arrepentimiento",
+      "perseverancia",
+      "Propósito de Dios"
+    ]
+  },
+  "revision_manual": {
+    "requiere_revision": false,
+    "motivo": ""
+  },
+  "ui": {
+    "mostrar_credito_en_header": true,
+    "mostrar_numero_estudio": true,
+    "mostrar_fecha": true,
+    "mostrar_topicos": true,
+    "permitir_favorito": true,
+    "permitir_compartir": true
+  }
+}

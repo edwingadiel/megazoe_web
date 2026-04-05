@@ -1,0 +1,467 @@
+{
+  "id": "estudio-1063-no-hay-otro-fuera-de-el",
+  "slug": "estudio-1063-no-hay-otro-fuera-de-el",
+  "numero_estudio": 1063,
+  "tipo_estudio": "Iglesia en las casas",
+  "ministerio": {
+    "iglesia": "Iglesia Cristiana Mega Zoe",
+    "pastora": "Pastora Edith Cruz",
+    "credito_corto": "Iglesia Cristiana Mega Zoe · Pastora Edith Cruz",
+    "credito_largo": "Contenido original de Iglesia Cristiana Mega Zoe, conservando el crédito ministerial correspondiente a la Pastora Edith Cruz."
+  },
+  "identidad_editorial": {
+    "idioma": "es",
+    "fuente_original": "documento_word",
+    "archivo_origen": "/Users/edwingadiel/Desktop/Estudios en Word/Estudio #1063 No Hay Otro Fuera De Él - Exodo 8 10.docx",
+    "estado_revision": "procesado",
+    "version_schema": "1.0"
+  },
+  "encabezado": {
+    "titulo": "No Hay Otro Fuera De Él",
+    "subtitulo": null,
+    "cita_principal": "Éxodo 8:10",
+    "resumen_corto": "Este estudio llama a perseverar en la oración y vivir con la mirada puesta en la vida eterna."
+  },
+  "fechas": {
+    "fecha_inicio": null,
+    "fecha_fin": null,
+    "fecha_texto_original": "",
+    "ano": null
+  },
+  "clasificacion_biblica": {
+    "libro_principal": "Éxodo",
+    "capitulo_principal": 8,
+    "versiculos_principales": [
+      10
+    ],
+    "referencia_principal_normalizada": "Éxodo 8:10",
+    "testamento_principal": "Antiguo Testamento"
+  },
+  "clasificacion_tematica": {
+    "topicos": [
+      "Oración",
+      "Vida eterna",
+      "Dios"
+    ],
+    "keywords": [
+      "santidad",
+      "oración",
+      "arrepentimiento",
+      "perseverancia",
+      "corazón"
+    ]
+  },
+  "referencias_biblicas": [
+    {
+      "referencia": "Éxodo 8:10",
+      "referencia_normalizada": "Éxodo 8:10",
+      "libro": "Éxodo",
+      "capitulo": 8,
+      "versiculos": [
+        10
+      ],
+      "tipo": "principal",
+      "clickeable": true
+    },
+    {
+      "referencia": "Salmos 114:7",
+      "referencia_normalizada": "Salmos 114:7",
+      "libro": "Salmos",
+      "capitulo": 114,
+      "versiculos": [
+        7
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Jueces 5:4",
+      "referencia_normalizada": "Jueces 5:4",
+      "libro": "Jueces",
+      "capitulo": 5,
+      "versiculos": [
+        4
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Salmos 104:32",
+      "referencia_normalizada": "Salmos 104:32",
+      "libro": "Salmos",
+      "capitulo": 104,
+      "versiculos": [
+        32
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Éxodo 15:11",
+      "referencia_normalizada": "Éxodo 15:11",
+      "libro": "Éxodo",
+      "capitulo": 15,
+      "versiculos": [
+        11
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Deuteronomio 33:26",
+      "referencia_normalizada": "Deuteronomio 33:26",
+      "libro": "Deuteronomio",
+      "capitulo": 33,
+      "versiculos": [
+        26
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "2 Samuel 7:22",
+      "referencia_normalizada": "2 Samuel 7:22",
+      "libro": "2 Samuel",
+      "capitulo": 7,
+      "versiculos": [
+        22
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "1 Reyes 8:23",
+      "referencia_normalizada": "1 Reyes 8:23",
+      "libro": "1 Reyes",
+      "capitulo": 8,
+      "versiculos": [
+        23
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "1 Crónicas 17:20",
+      "referencia_normalizada": "1 Crónicas 17:20",
+      "libro": "1 Crónicas",
+      "capitulo": 17,
+      "versiculos": [
+        20
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Isaías 46:5",
+      "referencia_normalizada": "Isaías 46:5",
+      "libro": "Isaías",
+      "capitulo": 46,
+      "versiculos": [
+        5
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Marcos 12:32,33",
+      "referencia_normalizada": "Marcos 12:32,33",
+      "libro": "Marcos",
+      "capitulo": 12,
+      "versiculos": [
+        32,
+        33
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Deuteronomio 6:4",
+      "referencia_normalizada": "Deuteronomio 6:4",
+      "libro": "Deuteronomio",
+      "capitulo": 6,
+      "versiculos": [
+        4
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    }
+  ],
+  "contenido": {
+    "introduccion": null,
+    "secciones": [],
+    "contenido_completo": "¡No hay nada ni nadie como Dios! ¡La tierra tiembla ante Dios! ¡A la presencia de Jehová tiembla la tierra (Salmos 114:7; Jueces 5:4 \"Cuando saliste de Seir, oh Jehová, cuando te marchaste de los campos de Edom, la tierra tembló y los cielos destilaron y las nubes gotearon aguas.\") (Salmos 104:32 \"Él mira a la tierra y ella tiembla…\")! ¡Cuán grande es nuestro Dios! Moisés se enfrenta a Faraón pidiéndole que deje salir a Israel de Egipto. Al Faraón rehusarse Dios le envía las diez plagas a Egipto. ¡Una de ellas fue la plaga de ranas! ¡FARAÓN TENDRÍA QUE RECONOCER QUE NO HAY OTRO Dios FUERA DE ÉL!\n\nI. (Vs.9) \"Y dijo Moisés a Faraón: Dígnate (acepta) indicarme cuándo debo orar por ti…\"\n\nA. ¡Para que le fueran quitadas las ranas a él y a todo Egipto!\n\n(Vs.10) ¡Qué lujo se dio Faraón contestándole a Moisés! \"…él dijo: MAÑANA…\"\n\n¡Faraón le da largas a algo tan importante para resolver!\n\n¡Se demora, Faraón tarda en resolver el mal que hay en su tierra!\n\nLo hace por el orgullo, por prepotente, por su olor a grandeza, por la maldad en su corazón.\n\nNo le importaba que fuera destruido él y todos en su reino y el pueblo.\n\nEra una gran desgracia aquella plaga de ranas, con solo una palabra de la boca del rey aquello se podía resolver para él y para los demás seres humanos que allí habitaban.\n\nPero, Faraón sólo sirvió para aplazar la resolución (resolver) firme que debió tomar sin demora.\n\nY Moisés respondió: \"Se hará conforme a tu palabra, PARA QUE CONOZCAS QUE NO HAY COMO JEHOVÁ NUESTRO Dios.\"\n\nB. Éxodo 15:11 \"¿Quién como tú, oh Jehová, entre los dioses?\"\n\nA Su pueblo Jehová se dejó ver como un Dios de poder infinito abriendo el Mar Rojo y sepultando allí a los egipcios. ¡Como un Dios de incomparable perfección!\n\nAquel pueblo de Egipto se había endurecido con el Dios de poder que no se lleva con el pecado, porque muy bien Él puede ver cuánto mal le hace el pecado al hombre y Él no puede consentir el mal.\n\nDios es muy severo con el pecado, con lo que le ha hecho tanto mal al hombre en la tierra.\n\nC. ¡Dios mío! \"No hay como el Dios de Jesurún…\" Deuteronomio 33:26\n\nAquí, en este capítulo, Moisés bendice a las tribus.\n\n\"¡No hay como el Dios de Jesurún! ¡Quien CABALGA sobre los cielos PARA TU AYUDA y sobre las nubes con SU GRANDEZA!\"\n\nHermano, ¿a quién más tú necesitas? ¡Te aseguro que a mí NO ES!\n\n¡Ningún ídolo hace lo que Dios ha hecho por el hombre en la tierra!\n\n¡Su poder y autoridad son soberanos (van por encima de todos, Él gobierna)! ¡Dios cabalga sobre los cielos, como un Rey que avanza en Su carro de guerra para dar rápida y completa victoria a Su pueblo, va sobre las nubes con Su grandeza!\n\nD. 2 Samuel 7:22 \"…Tú te has engrandecido, Jehová Dios…\"\n\nDavid sabía, sabía, sabía: \"…por cuanto no hay como tú, ni hay Dios fuera de ti…\" ¿Y tú sabes?\n\nHay condescendencia (que complace) de Dios para con David y honor que Dios le otorga.\n\nPero, en respuesta a eso, David nunca pierde el ánimo para venerar (darle culto, respetar al máximo) a su Dios, permanecía siempre en él un temor muy grande e intenso por la majestad divina.\n\n¡Pues cuánto más cerca está alguien de Dios, tanto más le deslumbra el resplandor de su gloria! ¡Y cuánto más preciosos somos a sus ojos, tanto MÁS GRANDE DEBERÍA SER ÉL a los nuestros!\n\nE. 1 Reyes 8:23 La dedicación del templo de Salomón.\n\nAllí había un acto de adoración y alabanza a Dios.\n\nAlabar a Dios por lo que Él es: Salomón dijo: \"No hay Dios como tú…\"\n\n¡Lo que es Dios para el pueblo!\n\n\"…que guardas el pacto y la misericordia a tus siervos…\"\n\n\"…los que andan delante de ti CON TODO SU CORAZÓN.\"\n\nF. 1 Crónicas 17:20 \"Jehová, no hay semejante a ti, ni hay Dios sino tú…\"\n\nMientras David buscaba a Dios e igual hacía el pueblo, conocían al Dios único. Pero, cuando dejaban de buscar al Señor hacían ídolos de madera y se ponían supersticiosos. No conocían ya a Dios porque dejaban de oír. \"…según todas las cosas que hemos oído con nuestros OÍDOS.\"\n\nG. Isaías 46:5 El pueblo levantó ídolos, igual que hoy en día.\n\n\"¿A quién me asemejáis y me igualáis y me comparáis…\"\n\nAbsurda cosa es pensar que se puede representar al ESPÍRITU INFINITO Y ETERNO por medio de la figura de una criatura cualquiera.\n\n¡Nadie vio jamás siquiera una semejanza de Dios; no se puede ver Su rostro y seguir con vida!\n\n¿Qué imagen podrá jamás representar a la Deidad exclusiva y absoluta?\n\nH. Marcos 12:32,33 \"…uno es Dios y no hay otro fuera de Él...\"\n\nUno es Dios, no hay más de uno.\n\n¡Uno es Dios y no hay otro!\n\n\"…amarle con todo el corazón, con todo el entendimiento, con toda el alma y con todas las fuerzas…\"\n\n(Deuteronomio 6:4) \"Oye, Israel: Jehová nuestro Dios, JEHOVÁ UNO ES.\"\n\n¡NO HAY OTRO FUERA DE ÉL! ¿Dices tú lo mismo en tu corazón? Amén.",
+    "contenido_renderizado": [
+      {
+        "tipo": "parrafo",
+        "texto": "¡No hay nada ni nadie como Dios! ¡La tierra tiembla ante Dios! ¡A la presencia de Jehová tiembla la tierra (Salmos 114:7; Jueces 5:4 \"Cuando saliste de Seir, oh Jehová, cuando te marchaste de los campos de Edom, la tierra tembló y los cielos destilaron y las nubes gotearon aguas.\") (Salmos 104:32 \"Él mira a la tierra y ella tiembla…\")! ¡Cuán grande es nuestro Dios! Moisés se enfrenta a Faraón pidiéndole que deje salir a Israel de Egipto. Al Faraón rehusarse Dios le envía las diez plagas a Egipto. ¡Una de ellas fue la plaga de ranas! ¡FARAÓN TENDRÍA QUE RECONOCER QUE NO HAY OTRO Dios FUERA DE ÉL!",
+        "referencias_inline": [
+          "Salmos 114:7",
+          "Jueces 5:4",
+          "Salmos 104:32"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "I. (Vs.9) \"Y dijo Moisés a Faraón: Dígnate (acepta) indicarme cuándo debo orar por ti…\"",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "A. ¡Para que le fueran quitadas las ranas a él y a todo Egipto!",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Vs.10) ¡Qué lujo se dio Faraón contestándole a Moisés! \"…él dijo: MAÑANA…\"",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "¡Faraón le da largas a algo tan importante para resolver!",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "¡Se demora, Faraón tarda en resolver el mal que hay en su tierra!",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Lo hace por el orgullo, por prepotente, por su olor a grandeza, por la maldad en su corazón.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "No le importaba que fuera destruido él y todos en su reino y el pueblo.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Era una gran desgracia aquella plaga de ranas, con solo una palabra de la boca del rey aquello se podía resolver para él y para los demás seres humanos que allí habitaban.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Pero, Faraón sólo sirvió para aplazar la resolución (resolver) firme que debió tomar sin demora.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Y Moisés respondió: \"Se hará conforme a tu palabra, PARA QUE CONOZCAS QUE NO HAY COMO JEHOVÁ NUESTRO Dios.\"",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "B. Éxodo 15:11 \"¿Quién como tú, oh Jehová, entre los dioses?\"",
+        "referencias_inline": [
+          "Éxodo 15:11"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "A Su pueblo Jehová se dejó ver como un Dios de poder infinito abriendo el Mar Rojo y sepultando allí a los egipcios. ¡Como un Dios de incomparable perfección!",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Aquel pueblo de Egipto se había endurecido con el Dios de poder que no se lleva con el pecado, porque muy bien Él puede ver cuánto mal le hace el pecado al hombre y Él no puede consentir el mal.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Dios es muy severo con el pecado, con lo que le ha hecho tanto mal al hombre en la tierra.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "C. ¡Dios mío! \"No hay como el Dios de Jesurún…\" Deuteronomio 33:26",
+        "referencias_inline": [
+          "Deuteronomio 33:26"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Aquí, en este capítulo, Moisés bendice a las tribus.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "\"¡No hay como el Dios de Jesurún! ¡Quien CABALGA sobre los cielos PARA TU AYUDA y sobre las nubes con SU GRANDEZA!\"",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Hermano, ¿a quién más tú necesitas? ¡Te aseguro que a mí NO ES!",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "¡Ningún ídolo hace lo que Dios ha hecho por el hombre en la tierra!",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "¡Su poder y autoridad son soberanos (van por encima de todos, Él gobierna)! ¡Dios cabalga sobre los cielos, como un Rey que avanza en Su carro de guerra para dar rápida y completa victoria a Su pueblo, va sobre las nubes con Su grandeza!",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "D. 2 Samuel 7:22 \"…Tú te has engrandecido, Jehová Dios…\"",
+        "referencias_inline": [
+          "2 Samuel 7:22"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "David sabía, sabía, sabía: \"…por cuanto no hay como tú, ni hay Dios fuera de ti…\" ¿Y tú sabes?",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Hay condescendencia (que complace) de Dios para con David y honor que Dios le otorga.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Pero, en respuesta a eso, David nunca pierde el ánimo para venerar (darle culto, respetar al máximo) a su Dios, permanecía siempre en él un temor muy grande e intenso por la majestad divina.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "¡Pues cuánto más cerca está alguien de Dios, tanto más le deslumbra el resplandor de su gloria! ¡Y cuánto más preciosos somos a sus ojos, tanto MÁS GRANDE DEBERÍA SER ÉL a los nuestros!",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "E. 1 Reyes 8:23 La dedicación del templo de Salomón.",
+        "referencias_inline": [
+          "1 Reyes 8:23"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Allí había un acto de adoración y alabanza a Dios.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Alabar a Dios por lo que Él es: Salomón dijo: \"No hay Dios como tú…\"",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "¡Lo que es Dios para el pueblo!",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "\"…que guardas el pacto y la misericordia a tus siervos…\"",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "\"…los que andan delante de ti CON TODO SU CORAZÓN.\"",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "F. 1 Crónicas 17:20 \"Jehová, no hay semejante a ti, ni hay Dios sino tú…\"",
+        "referencias_inline": [
+          "1 Crónicas 17:20"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Mientras David buscaba a Dios e igual hacía el pueblo, conocían al Dios único. Pero, cuando dejaban de buscar al Señor hacían ídolos de madera y se ponían supersticiosos. No conocían ya a Dios porque dejaban de oír. \"…según todas las cosas que hemos oído con nuestros OÍDOS.\"",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "G. Isaías 46:5 El pueblo levantó ídolos, igual que hoy en día.",
+        "referencias_inline": [
+          "Isaías 46:5"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "\"¿A quién me asemejáis y me igualáis y me comparáis…\"",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Absurda cosa es pensar que se puede representar al ESPÍRITU INFINITO Y ETERNO por medio de la figura de una criatura cualquiera.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "¡Nadie vio jamás siquiera una semejanza de Dios; no se puede ver Su rostro y seguir con vida!",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "¿Qué imagen podrá jamás representar a la Deidad exclusiva y absoluta?",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "H. Marcos 12:32,33 \"…uno es Dios y no hay otro fuera de Él...\"",
+        "referencias_inline": [
+          "Marcos 12:32,33"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Uno es Dios, no hay más de uno.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "¡Uno es Dios y no hay otro!",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "\"…amarle con todo el corazón, con todo el entendimiento, con toda el alma y con todas las fuerzas…\"",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Deuteronomio 6:4) \"Oye, Israel: Jehová nuestro Dios, JEHOVÁ UNO ES.\"",
+        "referencias_inline": [
+          "Deuteronomio 6:4"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "¡NO HAY OTRO FUERA DE ÉL! ¿Dices tú lo mismo en tu corazón? Amén.",
+        "referencias_inline": []
+      }
+    ]
+  },
+  "busqueda": {
+    "texto_indexable": "no hay otro fuera de el exodo 8 10 oracion vida eterna Dios santidad oracion arrepentimiento perseverancia corazon no hay nada ni nadie como Dios la tierra tiembla ante Dios a la presencia de jehova tiembla la tierra salmo 114 7 jueces 5 4 cuando saliste de seir oh jehova cuando te marchaste de los campos de edom la tierra temblo y los cielos destilaron y las nubes gotearon aguas salmo 104 32 el mira a la tierra y ella tiembla cuan grande es nuestro Dios moises se enfrenta a faraon pidiendole que deje salir a israel de egipto al faraon rehusarse Dios le envia las diez plagas a egipto una de ellas fue la plaga de ranas faraon tendria que reconocer que no hay otro Dios fuera de el i vs 9 y dijo moises a faraon dignate acepta indicarme cuando debo orar por ti a para que le fueran quitadas las ranas a el y a todo egipto vs 10 que lujo se dio faraon contestandole a moises el dijo manana faraon le da largas a algo tan importante para resolver se demora faraon tarda en resolver el mal que hay en su tierra lo hace por el orgullo por prepotente por su olor a grandeza por la maldad en su corazon no le importaba que fuera destruido el y todos en su reino y el pueblo era una gran desgracia aquella plaga de ranas con solo una palabra de la boca del rey aquello se podia resolver para el y para los demas seres humanos que alli habitaban pero faraon solo sirvio para aplazar la resolucion resolver firme que debio tomar sin demora y moises respondio se hara conforme a tu palabra para que conozcas que no hay como jehova nuestro Dios b exodo 15 11 quien como tu oh jehova entre los dioses a su pueblo jehova se dejo ver como un Dios de poder infinito abriendo el mar rojo y sepultando alli a los egipcios como un Dios de incomparable perfeccion aquel pueblo de egipto se habia endurecido con el Dios de poder que no se lleva con el pecado porque muy bien el puede ver cuanto mal le hace el pecado al hombre y el no puede consentir el mal Dios es muy severo con el pecado con lo que le ha hecho tanto mal al hombre en la tierra c Dios mio no hay como el Dios de jesurun deuteronomio 33 26 aqui en este capitulo moises bendice a las tribus no hay como el Dios de jesurun quien cabalga sobre los cielos para tu ayuda y sobre las nubes con su grandeza hermano a quien mas tu necesitas te aseguro que a mi no es ningun idolo hace lo que Dios ha hecho por el hombre en la tierra su poder y autoridad son soberanos van por encima de todos el gobierna Dios cabalga sobre los cielos como un rey que avanza en su carro de guerra para dar rapida y completa victoria a su pueblo va sobre las nubes con su grandeza d 2 samuel 7 22 tu te has engrandecido jehova Dios david sabia sabia sabia por cuanto no hay como tu ni hay Dios fuera de ti y tu sabes hay condescendencia que complace de Dios para con david y honor que Dios le otorga pero en respuesta a eso david nunca pierde el animo para venerar darle culto respetar al maximo a su Dios permanecia siempre en el un temor muy grande e intenso por la majestad divina pues cuanto mas cerca esta alguien de Dios tanto mas le deslumbra el resplandor de su gloria y cuanto mas preciosos somos a sus ojos tanto mas grande deberia ser el a los nuestros e 1 reyes 8 23 la dedicacion del templo de salomon alli habia un acto de adoracion y alabanza a Dios alabar a Dios por lo que el es salomon dijo no hay Dios como tu lo que es Dios para el pueblo que guardas el pacto y la misericordia a tus siervos los que andan delante de ti con todo su corazon f 1 cronicas 17 20 jehova no hay semejante a ti ni hay Dios sino tu mientras david buscaba a Dios e igual hacia el pueblo conocian al Dios unico pero cuando dejaban de buscar al senor hacian idolos de madera y se ponian supersticiosos no conocian ya a Dios porque dejaban de oir segun todas las cosas que hemos oido con nuestros oidos g isaias 46 5 el pueblo levanto idolos igual que hoy en dia a quien me asemejais y me igualais y me comparais absurda cosa es pensar que se puede representar al espiritu infinito y eterno por medio de la figura de una criatura cualquiera nadie vio jamas siquiera una semejanza de Dios no se puede ver su rostro y seguir con vida que imagen podra jamas representar a la deidad exclusiva y absoluta h marcos 12 32 33 uno es Dios y no hay otro fuera de el uno es Dios no hay mas de uno uno es Dios y no hay otro amarle con todo el corazon con todo el entendimiento con toda el alma y con todas las fuerzas deuteronomio 6 4 oye israel jehova nuestro Dios jehova uno es no hay otro fuera de el dices tu lo mismo en tu corazon amen",
+    "alias_busqueda": [
+      "No Hay Otro Fuera De Él",
+      "Éxodo",
+      "Éxodo 8",
+      "Éxodo 8:10",
+      "santidad",
+      "oración",
+      "arrepentimiento",
+      "perseverancia",
+      "Vida eterna"
+    ]
+  },
+  "revision_manual": {
+    "requiere_revision": false,
+    "motivo": ""
+  },
+  "ui": {
+    "mostrar_credito_en_header": true,
+    "mostrar_numero_estudio": true,
+    "mostrar_fecha": true,
+    "mostrar_topicos": true,
+    "permitir_favorito": true,
+    "permitir_compartir": true
+  }
+}

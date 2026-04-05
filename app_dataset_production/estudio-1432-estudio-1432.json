@@ -1,0 +1,604 @@
+{
+  "id": "estudio-1432-estudio-1432",
+  "slug": "estudio-1432-estudio-1432",
+  "numero_estudio": 1432,
+  "tipo_estudio": "Iglesia en las casas",
+  "ministerio": {
+    "iglesia": "Iglesia Cristiana Mega Zoe",
+    "pastora": "Pastora Edith Cruz",
+    "credito_corto": "Iglesia Cristiana Mega Zoe · Pastora Edith Cruz",
+    "credito_largo": "Contenido original de Iglesia Cristiana Mega Zoe, conservando el crédito ministerial correspondiente a la Pastora Edith Cruz."
+  },
+  "identidad_editorial": {
+    "idioma": "es",
+    "fuente_original": "documento_word",
+    "archivo_origen": "/Users/edwingadiel/Desktop/Estudios en Word/Estudio #1432 Si no hay fe, no puede haber milagros - Mateo 9 27-30.docx",
+    "estado_revision": "procesado",
+    "version_schema": "1.0"
+  },
+  "encabezado": {
+    "titulo": "Si No Hay Fe, No Puede Haber Milagros",
+    "subtitulo": null,
+    "cita_principal": "Mateo 9:27-30",
+    "resumen_corto": "Si No Hay Fe, No Puede Haber Milagros enseña a permanecer en la verdad y servir fielmente al Señor."
+  },
+  "fechas": {
+    "fecha_inicio": null,
+    "fecha_fin": null,
+    "fecha_texto_original": "",
+    "ano": null
+  },
+  "clasificacion_biblica": {
+    "libro_principal": "Mateo",
+    "capitulo_principal": 9,
+    "versiculos_principales": [
+      27,
+      28,
+      29,
+      30
+    ],
+    "referencia_principal_normalizada": "Mateo 9:27-30",
+    "testamento_principal": "Nuevo Testamento"
+  },
+  "clasificacion_tematica": {
+    "topicos": [
+      "Verdad",
+      "Obediencia",
+      "Servicio cristiano",
+      "Fe"
+    ],
+    "keywords": [
+      "vence al mundo",
+      "voz de Dios",
+      "gloria de Dios",
+      "mundo",
+      "fuego"
+    ]
+  },
+  "referencias_biblicas": [
+    {
+      "referencia": "Mateo 9:27-30",
+      "referencia_normalizada": "Mateo 9:27-30",
+      "libro": "Mateo",
+      "capitulo": 9,
+      "versiculos": [
+        27,
+        28,
+        29,
+        30
+      ],
+      "tipo": "principal",
+      "clickeable": true
+    },
+    {
+      "referencia": "Isaías 61:1",
+      "referencia_normalizada": "Isaías 61:1",
+      "libro": "Isaías",
+      "capitulo": 61,
+      "versiculos": [
+        1
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Mateo 9:29-30",
+      "referencia_normalizada": "Mateo 9:29-30",
+      "libro": "Mateo",
+      "capitulo": 9,
+      "versiculos": [
+        29,
+        30
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Juan 11:40",
+      "referencia_normalizada": "Juan 11:40",
+      "libro": "Juan",
+      "capitulo": 11,
+      "versiculos": [
+        40
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Hebreos 11:3",
+      "referencia_normalizada": "Hebreos 11:3",
+      "libro": "Hebreos",
+      "capitulo": 11,
+      "versiculos": [
+        3
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "1 Juan 5:13",
+      "referencia_normalizada": "1 Juan 5:13",
+      "libro": "1 Juan",
+      "capitulo": 5,
+      "versiculos": [
+        13
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Marcos 5:34",
+      "referencia_normalizada": "Marcos 5:34",
+      "libro": "Marcos",
+      "capitulo": 5,
+      "versiculos": [
+        34
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Marcos 5:33",
+      "referencia_normalizada": "Marcos 5:33",
+      "libro": "Marcos",
+      "capitulo": 5,
+      "versiculos": [
+        33
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "1 Juan 5:4-5",
+      "referencia_normalizada": "1 Juan 5:4-5",
+      "libro": "1 Juan",
+      "capitulo": 5,
+      "versiculos": [
+        4,
+        5
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "1 Juan 5:5",
+      "referencia_normalizada": "1 Juan 5:5",
+      "libro": "1 Juan",
+      "capitulo": 5,
+      "versiculos": [
+        5
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Romanos 14:23",
+      "referencia_normalizada": "Romanos 14:23",
+      "libro": "Romanos",
+      "capitulo": 14,
+      "versiculos": [
+        23
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Hebreos 11:6",
+      "referencia_normalizada": "Hebreos 11:6",
+      "libro": "Hebreos",
+      "capitulo": 11,
+      "versiculos": [
+        6
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Santiago 1:3",
+      "referencia_normalizada": "Santiago 1:3",
+      "libro": "Santiago",
+      "capitulo": 1,
+      "versiculos": [
+        3
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Santiago 2:17",
+      "referencia_normalizada": "Santiago 2:17",
+      "libro": "Santiago",
+      "capitulo": 2,
+      "versiculos": [
+        17
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    }
+  ],
+  "contenido": {
+    "introduccion": null,
+    "secciones": [],
+    "contenido_completo": "Creer en Cristo es tener la convicción de que Él es quien la Biblia dice que es. Que cumplirá Sus promesas. Que hará lo que ha prometido. Y tener una relación personal y eterna con el \"Hijo de Dios\". Creer, tener por cierto. Tener confianza. Es la confianza, la obediencia y la entrega: Como Abraham, que al escuchar lo que Dios le pedía lo puso en práctica.\n\nCreer, tener por cierto sin conocerlo de manera directa.\n\nAunque no esté comprobado o demostrado; confianza.\n\nLos ciegos rogaban que le devolviera la vista.\n\nAunque no poseían la visión natural, estos hombres tenían un profundo discernimiento espiritual.\n\nAl dirigirse a Jesús como \"Hijo de David, lo reconocieron como el \"Mesías\" largamente esperado y como el que era de derecho Rey de Israel\".\n\n(Isaías 61:1) A predicar buenas nuevas a los abatidos, a vendar a los quebrantados de corazón, a publicar libertad a los cautivos.\n\nY sabían que cuando viniese el Mesías, una de sus credenciales sería que sanaría al enfermo y los desolados.\n\nCuando Jesús puso a prueba la fe de ellos preguntándoles si creían que Él podía \"hacer esto\" (darles la vista) ellos respondieron sin vacilar: \"Sí, Señor.\"\n\nEl gran dador de los milagros.\n\nLa exigencia es que le creas.\n\n(Mateo 9:29-30) Entonces el Gran Sanador \"les tocó los ojos\" y les aseguró que debido a que \"creían, verían\"; debes creer para que veas los milagros que el Señor quiere hacer aquí en la tierra.\n\nDe inmediato sus ojos se volvieron completamente normales.\n\nSe dice: \"Si no lo veo, no lo creo.\"\n\nLa voz de Dios dice: \"Si crees, verás.\"\n\n(Juan 11:40) Jesús le dijo a Marta: \"¿No te he dicho que, si crees, verás?\n\n(Hebreos 11:3): \"Por la fe entendemos.\"\n\nSi no tienes fe no puedes entender nada de la vida y menos los milagros de Dios que hay para ti.\n\n(1 Juan 5:13) El apóstol Juan escribió: \"Estas cosas os he escrito a vosotros \"que creéis…\" \"para que sepáis.\"\n\n\"Dios no se complace\" \"con la clase de fe\" que exige un milagro previo (antes).\n\nQuiere que le creamos sencillamente porque Él es Dios.\n\n(Marcos 5:34) Cuando las alternativas se terminan.\n\n(Marcos 5:33) Temiendo y temblando, su temor y temblor, la razón era que sabía lo que en su cuerpo había sucedido y llegó a Jesús; testificó el gran milagro.\n\nEchándose a Sus pies, hizo su primera confesión pública de Jesús.\n\nA ella le llegó la sanidad y la gran bendición de la salvación del alma (34).\n\n(1 Juan 5:4-5) \"Solo el hombre que \"es nacido de Dios\" verdaderamente \"vence al mundo\", porque por la fe \"puede elevarse\" por encima de las cosas \"perecederas\" de este mundo y contemplar las cosas en su verdadera perspectiva (punto de vista desde el cual se considera o se analiza un asunto), la eterna.\n\nAsí, el que verdaderamente \"vence al mundo\" no es el gran científico, ni el gran orador, conocedor de religión, sino el sencillo creyente que se da cuenta de \"que las cosas que se ven son temporales\", y que las \"cosas que no se ven son eternas\".\n\nUna contemplación de la gloria de Dios en la faz (rostro, cara) de Jesús disipa (queda en nada) la gloria de este mundo.\n\n(1 Juan 5:5) Como hemos visto, el tema de esta sección es la fe como prueba de la vida eterna.\n\nJuan acaba de mencionar que \"el que vence al mundo\" es \"el que cree que Jesús es el Hijo de Dios\", es fe: ¿Conoces a Jesús de verdad?\n\n(Romanos 14:23) Por lo que toca al humano más débil, hace mal si come algo acerca de lo que su conciencia siente escrúpulos (reparo, asco, ciertos actos ya que no desea comportarse de forma incorrecta).\n\nSu comer no es un acto de \"fe\", es decir, tiene mala conciencia acerca de ello.\n\nY es \"pecado\" violar la propia conciencia.\n\nLo que no viene de fe, es pecado.\n\nSi lo que come, es condenado, porque no lo hace con fe y todo lo que no proviene de fe, es pecado.\n\n(Hebreos 11:6) Sin fe es imposible agradar a Dios.\n\nNinguna cantidad de buenas obras puede compensar la falta de \"fe\".\n\nDespués que todo está dicho y hecho, cuando alguien rehúsa creer a Dios le está haciendo mentiroso.\n\n\"El que no cree a Dios, le ha hecho mentiroso\", dime tú ¿y cómo puede Dios agradarse de los que le consideran mentiroso?\n\nLa fe es lo único que da a Dios el puesto \"que le corresponde\" y que pone también al hombre en su propio lugar.\n\n\"Glorifica a Dios sobremanera, porque demuestra que tenemos: más confianza en \"Su\" vista que en la nuestra.\" (C.H. Macintosh).\n\nLa fe no solo cree que Dios existe, sino que confía en que Él galardona a aquellos que le buscan.\n\nNo hay nada en Dios que haga imposible que los hombres crean. Nada tiene Dios que haga que nos lleve a dudar.\n\nLa dificultad reside en la voluntad humana.\n\n(Santiago 1:3) Santiago se refiere a \"la prueba de vuestra fe\".\n\nPresenta la fe como un metal precioso que está siendo probado por el Afinador (Dios) para ver si es genuino.\n\nEl metal es sometido a los fuegos de la \"persecución\", \"enfermedad\", padecimientos o dolor.\n\nSin problemas, nunca desarrollaríamos paciencia.\n\nHasta los hombres del mundo se dan cuenta de que los problemas \"fortalecen\" el carácter.\n\n(Charles Kettering capitán de la industria dijo): Los problemas son el precio del progreso.\n\nNo me traigas nada excepto problemas.\n\nLas buenas noticias me debilitan.\n\n(Santiago 2:17) Una fe sin obra está muerta en sí misma.\n\nUna 'fe\" sin \"obras\" no es una verdadera fe en absoluto.\n\nEs solo cuestión de palabras.\n\nLo que Santiago está enfatizando aquí es que no somos salvados \"solo por una fe de palabras\", sino por aquella clase de fe que resulta en \"una vida de buenas obras\".\n\n(Calvino) Somos salvados por la fe sola, pero no por una fe que queda sola, necesitas las obras.\n\nPilares de nuestra fe:\n\nDios es el Señor, el Todopoderoso.\n\nDios es el Creador.\n\nDios interviene en la historia.\n\nDios es justo y misericordioso.\n\nDios me ama infinitamente.\n\nPues Él me creó.\n\nLa fe es la plena convicción de que Dios es quien dice ser y que hará lo que dice. Es una inquebrantable e inconmovible certeza, que está basada en Su Palabra. Solo Dios basta como objeto de nuestra fe. Entonces cómo puedes vivir y vencer sin fe. Amén",
+    "contenido_renderizado": [
+      {
+        "tipo": "parrafo",
+        "texto": "Creer en Cristo es tener la convicción de que Él es quien la Biblia dice que es. Que cumplirá Sus promesas. Que hará lo que ha prometido. Y tener una relación personal y eterna con el \"Hijo de Dios\". Creer, tener por cierto. Tener confianza. Es la confianza, la obediencia y la entrega: Como Abraham, que al escuchar lo que Dios le pedía lo puso en práctica.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Creer, tener por cierto sin conocerlo de manera directa.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Aunque no esté comprobado o demostrado; confianza.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Los ciegos rogaban que le devolviera la vista.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Aunque no poseían la visión natural, estos hombres tenían un profundo discernimiento espiritual.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Al dirigirse a Jesús como \"Hijo de David, lo reconocieron como el \"Mesías\" largamente esperado y como el que era de derecho Rey de Israel\".",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Isaías 61:1) A predicar buenas nuevas a los abatidos, a vendar a los quebrantados de corazón, a publicar libertad a los cautivos.",
+        "referencias_inline": [
+          "Isaías 61:1"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Y sabían que cuando viniese el Mesías, una de sus credenciales sería que sanaría al enfermo y los desolados.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Cuando Jesús puso a prueba la fe de ellos preguntándoles si creían que Él podía \"hacer esto\" (darles la vista) ellos respondieron sin vacilar: \"Sí, Señor.\"",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "El gran dador de los milagros.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "La exigencia es que le creas.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Mateo 9:29-30) Entonces el Gran Sanador \"les tocó los ojos\" y les aseguró que debido a que \"creían, verían\"; debes creer para que veas los milagros que el Señor quiere hacer aquí en la tierra.",
+        "referencias_inline": [
+          "Mateo 9:29-30"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "De inmediato sus ojos se volvieron completamente normales.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Se dice: \"Si no lo veo, no lo creo.\"",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "La voz de Dios dice: \"Si crees, verás.\"",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Juan 11:40) Jesús le dijo a Marta: \"¿No te he dicho que, si crees, verás?",
+        "referencias_inline": [
+          "Juan 11:40"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Hebreos 11:3): \"Por la fe entendemos.\"",
+        "referencias_inline": [
+          "Hebreos 11:3"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Si no tienes fe no puedes entender nada de la vida y menos los milagros de Dios que hay para ti.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(1 Juan 5:13) El apóstol Juan escribió: \"Estas cosas os he escrito a vosotros \"que creéis…\" \"para que sepáis.\"",
+        "referencias_inline": [
+          "1 Juan 5:13"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "\"Dios no se complace\" \"con la clase de fe\" que exige un milagro previo (antes).",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Quiere que le creamos sencillamente porque Él es Dios.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Marcos 5:34) Cuando las alternativas se terminan.",
+        "referencias_inline": [
+          "Marcos 5:34"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Marcos 5:33) Temiendo y temblando, su temor y temblor, la razón era que sabía lo que en su cuerpo había sucedido y llegó a Jesús; testificó el gran milagro.",
+        "referencias_inline": [
+          "Marcos 5:33"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Echándose a Sus pies, hizo su primera confesión pública de Jesús.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "A ella le llegó la sanidad y la gran bendición de la salvación del alma (34).",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(1 Juan 5:4-5) \"Solo el hombre que \"es nacido de Dios\" verdaderamente \"vence al mundo\", porque por la fe \"puede elevarse\" por encima de las cosas \"perecederas\" de este mundo y contemplar las cosas en su verdadera perspectiva (punto de vista desde el cual se considera o se analiza un asunto), la eterna.",
+        "referencias_inline": [
+          "1 Juan 5:4-5"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Así, el que verdaderamente \"vence al mundo\" no es el gran científico, ni el gran orador, conocedor de religión, sino el sencillo creyente que se da cuenta de \"que las cosas que se ven son temporales\", y que las \"cosas que no se ven son eternas\".",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Una contemplación de la gloria de Dios en la faz (rostro, cara) de Jesús disipa (queda en nada) la gloria de este mundo.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(1 Juan 5:5) Como hemos visto, el tema de esta sección es la fe como prueba de la vida eterna.",
+        "referencias_inline": [
+          "1 Juan 5:5"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Juan acaba de mencionar que \"el que vence al mundo\" es \"el que cree que Jesús es el Hijo de Dios\", es fe: ¿Conoces a Jesús de verdad?",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Romanos 14:23) Por lo que toca al humano más débil, hace mal si come algo acerca de lo que su conciencia siente escrúpulos (reparo, asco, ciertos actos ya que no desea comportarse de forma incorrecta).",
+        "referencias_inline": [
+          "Romanos 14:23"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Su comer no es un acto de \"fe\", es decir, tiene mala conciencia acerca de ello.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Y es \"pecado\" violar la propia conciencia.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Lo que no viene de fe, es pecado.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Si lo que come, es condenado, porque no lo hace con fe y todo lo que no proviene de fe, es pecado.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Hebreos 11:6) Sin fe es imposible agradar a Dios.",
+        "referencias_inline": [
+          "Hebreos 11:6"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Ninguna cantidad de buenas obras puede compensar la falta de \"fe\".",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Después que todo está dicho y hecho, cuando alguien rehúsa creer a Dios le está haciendo mentiroso.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "\"El que no cree a Dios, le ha hecho mentiroso\", dime tú ¿y cómo puede Dios agradarse de los que le consideran mentiroso?",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "La fe es lo único que da a Dios el puesto \"que le corresponde\" y que pone también al hombre en su propio lugar.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "\"Glorifica a Dios sobremanera, porque demuestra que tenemos: más confianza en \"Su\" vista que en la nuestra.\" (C.H. Macintosh).",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "La fe no solo cree que Dios existe, sino que confía en que Él galardona a aquellos que le buscan.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "No hay nada en Dios que haga imposible que los hombres crean. Nada tiene Dios que haga que nos lleve a dudar.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "La dificultad reside en la voluntad humana.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Santiago 1:3) Santiago se refiere a \"la prueba de vuestra fe\".",
+        "referencias_inline": [
+          "Santiago 1:3"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Presenta la fe como un metal precioso que está siendo probado por el Afinador (Dios) para ver si es genuino.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "El metal es sometido a los fuegos de la \"persecución\", \"enfermedad\", padecimientos o dolor.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Sin problemas, nunca desarrollaríamos paciencia.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Hasta los hombres del mundo se dan cuenta de que los problemas \"fortalecen\" el carácter.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Charles Kettering capitán de la industria dijo): Los problemas son el precio del progreso.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "No me traigas nada excepto problemas.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Las buenas noticias me debilitan.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Santiago 2:17) Una fe sin obra está muerta en sí misma.",
+        "referencias_inline": [
+          "Santiago 2:17"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Una 'fe\" sin \"obras\" no es una verdadera fe en absoluto.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Es solo cuestión de palabras.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Lo que Santiago está enfatizando aquí es que no somos salvados \"solo por una fe de palabras\", sino por aquella clase de fe que resulta en \"una vida de buenas obras\".",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Calvino) Somos salvados por la fe sola, pero no por una fe que queda sola, necesitas las obras.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Pilares de nuestra fe:",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Dios es el Señor, el Todopoderoso.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Dios es el Creador.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Dios interviene en la historia.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Dios es justo y misericordioso.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Dios me ama infinitamente.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Pues Él me creó.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "La fe es la plena convicción de que Dios es quien dice ser y que hará lo que dice. Es una inquebrantable e inconmovible certeza, que está basada en Su Palabra. Solo Dios basta como objeto de nuestra fe. Entonces cómo puedes vivir y vencer sin fe. Amén",
+        "referencias_inline": []
+      }
+    ]
+  },
+  "busqueda": {
+    "texto_indexable": "si no hay fe no puede haber milagros mateo 9 27 30 verdad obediencia servicio cristiano vence al mundo voz de Dios gloria de Dios mundo fuego creer en cristo es tener la conviccion de que el es quien la biblia dice que es que cumplira sus promesas que hara lo que ha prometido y tener una relacion personal y eterna con el hijo de Dios creer tener por cierto tener confianza es la confianza la obediencia y la entrega como abraham que al escuchar lo que Dios le pedia lo puso en practica creer tener por cierto sin conocerlo de manera directa aunque no este comprobado o demostrado confianza los ciegos rogaban que le devolviera la vista aunque no poseian la vision natural estos hombres tenian un profundo discernimiento espiritual al dirigirse a Jesus como hijo de david lo reconocieron como el mesias largamente esperado y como el que era de derecho rey de israel isaias 61 1 a predicar buenas nuevas a los abatidos a vendar a los quebrantados de corazon a publicar libertad a los cautivos y sabian que cuando viniese el mesias una de sus credenciales seria que sanaria al enfermo y los desolados cuando Jesus puso a prueba la fe de ellos preguntandoles si creian que el podia hacer esto darles la vista ellos respondieron sin vacilar si senor el gran dador de los milagros la exigencia es que le creas mateo 9 29 30 entonces el gran sanador les toco los ojos y les aseguro que debido a que creian verian debes creer para que veas los milagros que el senor quiere hacer aqui en la tierra de inmediato sus ojos se volvieron completamente normales se dice si no lo veo no lo creo la voz de Dios dice si crees veras juan 11 40 Jesus le dijo a marta no te he dicho que si crees veras hebreos 11 3 por la fe entendemos si no tienes fe no puedes entender nada de la vida y menos los milagros de Dios que hay para ti 1 juan 5 13 el apostol juan escribio estas cosas os he escrito a vosotros que creeis para que sepais Dios no se complace con la clase de fe que exige un milagro previo antes quiere que le creamos sencillamente porque el es Dios marcos 5 34 cuando las alternativas se terminan marcos 5 33 temiendo y temblando su temor y temblor la razon era que sabia lo que en su cuerpo habia sucedido y llego a Jesus testifico el gran milagro echandose a sus pies hizo su primera confesion publica de Jesus a ella le llego la sanidad y la gran bendicion de la salvacion del alma 34 1 juan 5 4 5 solo el hombre que es nacido de Dios verdaderamente vence al mundo porque por la fe puede elevarse por encima de las cosas perecederas de este mundo y contemplar las cosas en su verdadera perspectiva punto de vista desde el cual se considera o se analiza un asunto la eterna asi el que verdaderamente vence al mundo no es el gran cientifico ni el gran orador conocedor de religion sino el sencillo creyente que se da cuenta de que las cosas que se ven son temporales y que las cosas que no se ven son eternas una contemplacion de la gloria de Dios en la faz rostro cara de Jesus disipa queda en nada la gloria de este mundo 1 juan 5 5 como hemos visto el tema de esta seccion es la fe como prueba de la vida eterna juan acaba de mencionar que el que vence al mundo es el que cree que Jesus es el hijo de Dios es fe conoces a Jesus de verdad romanos 14 23 por lo que toca al humano mas debil hace mal si come algo acerca de lo que su conciencia siente escrupulos reparo asco ciertos actos ya que no desea comportarse de forma incorrecta su comer no es un acto de fe es decir tiene mala conciencia acerca de ello y es pecado violar la propia conciencia lo que no viene de fe es pecado si lo que come es condenado porque no lo hace con fe y todo lo que no proviene de fe es pecado hebreos 11 6 sin fe es imposible agradar a Dios ninguna cantidad de buenas obras puede compensar la falta de fe despues que todo esta dicho y hecho cuando alguien rehusa creer a Dios le esta haciendo mentiroso el que no cree a Dios le ha hecho mentiroso dime tu y como puede Dios agradarse de los que le consideran mentiroso la fe es lo unico que da a Dios el puesto que le corresponde y que pone tambien al hombre en su propio lugar glorifica a Dios sobremanera porque demuestra que tenemos mas confianza en su vista que en la nuestra c h macintosh la fe no solo cree que Dios existe sino que confia en que el galardona a aquellos que le buscan no hay nada en Dios que haga imposible que los hombres crean nada tiene Dios que haga que nos lleve a dudar la dificultad reside en la voluntad humana santiago 1 3 santiago se refiere a la prueba de vuestra fe presenta la fe como un metal precioso que esta siendo probado por el afinador Dios para ver si es genuino el metal es sometido a los fuegos de la persecucion enfermedad padecimientos o dolor sin problemas nunca desarrollariamos paciencia hasta los hombres del mundo se dan cuenta de que los problemas fortalecen el caracter charles kettering capitan de la industria dijo los problemas son el precio del progreso no me traigas nada excepto problemas las buenas noticias me debilitan santiago 2 17 una fe sin obra esta muerta en si misma una fe sin obras no es una verdadera fe en absoluto es solo cuestion de palabras lo que santiago esta enfatizando aqui es que no somos salvados solo por una fe de palabras sino por aquella clase de fe que resulta en una vida de buenas obras calvino somos salvados por la fe sola pero no por una fe que queda sola necesitas las obras pilares de nuestra fe Dios es el senor el todopoderoso Dios es el creador Dios interviene en la historia Dios es justo y misericordioso Dios me ama infinitamente pues el me creo la fe es la plena conviccion de que Dios es quien dice ser y que hara lo que dice es una inquebrantable e inconmovible certeza que esta basada en su palabra solo Dios basta como objeto de nuestra fe entonces como puedes vivir y vencer sin fe amen",
+    "alias_busqueda": [
+      "Estudio 1432",
+      "Mateo",
+      "Mateo 9",
+      "Mateo 9:27-30",
+      "vence al mundo",
+      "voz de Dios",
+      "gloria de Dios",
+      "mundo",
+      "Verdad",
+      "Obediencia"
+    ]
+  },
+  "revision_manual": {
+    "requiere_revision": false,
+    "motivo": ""
+  },
+  "ui": {
+    "mostrar_credito_en_header": true,
+    "mostrar_numero_estudio": true,
+    "mostrar_fecha": true,
+    "mostrar_topicos": true,
+    "permitir_favorito": true,
+    "permitir_compartir": true
+  }
+}

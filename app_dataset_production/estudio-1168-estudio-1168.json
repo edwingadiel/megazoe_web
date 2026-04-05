@@ -1,0 +1,444 @@
+{
+  "id": "estudio-1168-estudio-1168",
+  "slug": "estudio-1168-estudio-1168",
+  "numero_estudio": 1168,
+  "tipo_estudio": "Iglesia en las casas",
+  "ministerio": {
+    "iglesia": "Iglesia Cristiana Mega Zoe",
+    "pastora": "Pastora Edith Cruz",
+    "credito_corto": "Iglesia Cristiana Mega Zoe · Pastora Edith Cruz",
+    "credito_largo": "Contenido original de Iglesia Cristiana Mega Zoe, conservando el crédito ministerial correspondiente a la Pastora Edith Cruz."
+  },
+  "identidad_editorial": {
+    "idioma": "es",
+    "fuente_original": "documento_word",
+    "archivo_origen": "/Users/edwingadiel/Desktop/Estudios en Word/Estudio #1168 Decid al justo que le irá bien - 2 Pedro 2 7-8.docx",
+    "estado_revision": "procesado",
+    "version_schema": "1.0"
+  },
+  "encabezado": {
+    "titulo": "Decid Al Justo Que Le Irá Bien",
+    "subtitulo": null,
+    "cita_principal": "2 Pedro 2:7-8",
+    "resumen_corto": "Decid Al Justo Que Le Irá Bien enseña a atender la Palabra de Dios."
+  },
+  "fechas": {
+    "fecha_inicio": null,
+    "fecha_fin": null,
+    "fecha_texto_original": "",
+    "ano": null
+  },
+  "clasificacion_biblica": {
+    "libro_principal": "2 Pedro",
+    "capitulo_principal": 2,
+    "versiculos_principales": [
+      7,
+      8
+    ],
+    "referencia_principal_normalizada": "2 Pedro 2:7-8",
+    "testamento_principal": "Nuevo Testamento"
+  },
+  "clasificacion_tematica": {
+    "topicos": [
+      "Justicia de Dios",
+      "Gracia de Dios",
+      "Palabra de Dios"
+    ],
+    "keywords": [
+      "verdad",
+      "santidad",
+      "oración",
+      "arrepentimiento",
+      "perseverancia"
+    ]
+  },
+  "referencias_biblicas": [
+    {
+      "referencia": "2 Pedro 2:7-8",
+      "referencia_normalizada": "2 Pedro 2:7-8",
+      "libro": "2 Pedro",
+      "capitulo": 2,
+      "versiculos": [
+        7,
+        8
+      ],
+      "tipo": "principal",
+      "clickeable": true
+    },
+    {
+      "referencia": "Job 36:7",
+      "referencia_normalizada": "Job 36:7",
+      "libro": "Job",
+      "capitulo": 36,
+      "versiculos": [
+        7
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Proverbios 11:10",
+      "referencia_normalizada": "Proverbios 11:10",
+      "libro": "Proverbios",
+      "capitulo": 11,
+      "versiculos": [
+        10
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Salmos 34:15",
+      "referencia_normalizada": "Salmos 34:15",
+      "libro": "Salmos",
+      "capitulo": 34,
+      "versiculos": [
+        15
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Salmos 51:8, 17",
+      "referencia_normalizada": "Salmos 51:8,17",
+      "libro": "Salmos",
+      "capitulo": 51,
+      "versiculos": [
+        8,
+        17
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Salmos 34:19",
+      "referencia_normalizada": "Salmos 34:19",
+      "libro": "Salmos",
+      "capitulo": 34,
+      "versiculos": [
+        19
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Salmos 132:1",
+      "referencia_normalizada": "Salmos 132:1",
+      "libro": "Salmos",
+      "capitulo": 132,
+      "versiculos": [
+        1
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Salmos 37:25",
+      "referencia_normalizada": "Salmos 37:25",
+      "libro": "Salmos",
+      "capitulo": 37,
+      "versiculos": [
+        25
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Salmos 92:12",
+      "referencia_normalizada": "Salmos 92:12",
+      "libro": "Salmos",
+      "capitulo": 92,
+      "versiculos": [
+        12
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Salmos 92:14",
+      "referencia_normalizada": "Salmos 92:14",
+      "libro": "Salmos",
+      "capitulo": 92,
+      "versiculos": [
+        14
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Isaías 3:10",
+      "referencia_normalizada": "Isaías 3:10",
+      "libro": "Isaías",
+      "capitulo": 3,
+      "versiculos": [
+        10
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Romanos 6:23",
+      "referencia_normalizada": "Romanos 6:23",
+      "libro": "Romanos",
+      "capitulo": 6,
+      "versiculos": [
+        23
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Mateo 13:43",
+      "referencia_normalizada": "Mateo 13:43",
+      "libro": "Mateo",
+      "capitulo": 13,
+      "versiculos": [
+        43
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    }
+  ],
+  "contenido": {
+    "introduccion": null,
+    "secciones": [],
+    "contenido_completo": "Dios rescata al justo. Pedro lo deja ver en Lot. Pedro, escribiendo por inspiración, nos dice que Lot era un justo, que vivía abrumado por la conducta de las personas de aquellos tiempos: cosas que causan horror hablar de ellas. Dios vio que Lot tenía una fe genuina y que amaba la justicia y aborrecía el pecado. Para dejar ver Pedro a Lot que era realmente un justo a pesar de las apariencias en contra. Pedro repite que su alma se afligía cada día por las cosas que oía y veía en Sodoma. El pecado le causaba un profundo sufrimiento.\n\n(Job 36:7) No apartará de los justos sus ojos.\n\nSerán exaltados - lo humillado puesto en alto.\n\nLo humillado puesto en alto.\n\nCuida y protege a los súbditos (sujetos a Él).\n\nNo sólo los mira, sino que no aparta de ellos sus ojos.\n\nSi un falso maestro o profeta, te quiere hacer daño, los ojos de Dios están sobre ti para librarte.\n\nAunque seas menospreciado y olvidado de quien esperas, los \"amorosos y compasivos ojos del Padre Celestial\" nunca se apartan de uno.\n\n(Proverbios 11:10) Con el éxito de los justos la ciudad se alegra.\n\nEl favor que Dios otorga no sólo es una bendición para ellos mismos, sino también para el bien común.\n\nLos justos gozan del favor especial de Dios: \"Los ojos de Jehová están sobre (Salmos 34:15) los justos, para guardarles y protegerles a fin de preservarles de todo mal y cuyos oídos están atentos al clamor de ellos.\n\nCualquier grito de dolor ante un peligro inminente o por haber sufrido alguna tragedia.\n\nDios guarda a los suyos, de forma que no se les quiebre ningún hueso.\n\nEl mundo está haciendo fiesta y grandes desafíos, pero en uno se aflige el alma.\n\nQuien tiene quebrantado el corazón (contrito equivale a triturado, como lo tenía Lot), no tendrá huesos quebrantados, sino que hasta los que hayan sido quebrantados se regocijarán (Salmos 51:8, 17).\n\n(Salmos 34:19) Sí, muchas son las aflicciones (males, tristeza, sufrir) de los justos.\n\n(Salmos 34:19) Pero Dios ha prometido librar a los justos. Pero de todas ellas le librará Jehová.\n\n(Salmos 132:1) Acuérdate, oh, Jehová, de David, y de toda su aflicción.\n\n(Salmos 37:25) Que no nos faltará lo necesario para la vida. Joven fui y he envejecido y no he visto justo desamparado, ni su descendencia que mendigue (pedir limosna) pan.\n\n(Salmos 92:12) El justo florecerá como la palmera: crecerá como cedro en el Líbano.\n\nBellas ramas, cuerpo esbelto, siempre está verde y su fruto, los dátiles, es muy agradable.\n\nSe dice que la palmera crece \"sub pondre crescit\" = crece bajo el peso: es decir, cuánto más la aprietan, mejor crece y prospera el justo bajo sus cargas y tribulaciones y da \"frutos de santificación\".\n\nLa palmera crece en el desierto, lugar de sequedad, desolación, florece y da fruto donde otros árboles no dan.\n\n(Salmos 92:14) Está prometido que darán fruto incluso en la vejez, en los árboles de Dios la fuerza de la gracia no decae por la falta de las fuerzas naturales.\n\nMuchas veces, los últimos días de los santos son los mejores días \"y su obra la mejor que han hecho en su vida.\"\n\nCrecerá como el cedro del Líbano. (Salmos 92:12b)\n\nCuando Dios da gracia, también da creciente gracia.\n\nLos árboles de Dios crecen más y más como los cedros del Líbano, famosos por su altura y pueden alcanzar los 40 metros de altura, su hoja perenne (que dura y con esbeltez); siempre hacia el cielo y prestos para buenos usos.\n\n(Isaías 3:10) Decid al justo que le irá bien, porque comerá de los frutos de sus manos.\n\nAunque las circunstancias son desfavorables, \"Dios gobierna\" en las vidas particulares (le perteneces, tiene relación contigo, \"propio.\")\n\n\"Cada uno recogerá de lo que siembre.\"\n\nNadie te defienda, \"según lo que siembras tal la cosecha.\"\n\nSi todos fuesen rectos, a todos les iría bien.\n\nAl que le va mal, no le sucede otra cosa sino el pago de la labor mala que ha llevado a cabo. (Romanos 6:23).\n\n(Mateo 13:43) Entonces los justos resplandecerán como el sol en el reino de su Padre.\n\nEn el reino del Padre los justos resplandecerán.",
+    "contenido_renderizado": [
+      {
+        "tipo": "parrafo",
+        "texto": "Dios rescata al justo. Pedro lo deja ver en Lot. Pedro, escribiendo por inspiración, nos dice que Lot era un justo, que vivía abrumado por la conducta de las personas de aquellos tiempos: cosas que causan horror hablar de ellas. Dios vio que Lot tenía una fe genuina y que amaba la justicia y aborrecía el pecado. Para dejar ver Pedro a Lot que era realmente un justo a pesar de las apariencias en contra. Pedro repite que su alma se afligía cada día por las cosas que oía y veía en Sodoma. El pecado le causaba un profundo sufrimiento.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Job 36:7) No apartará de los justos sus ojos.",
+        "referencias_inline": [
+          "Job 36:7"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Serán exaltados - lo humillado puesto en alto.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Lo humillado puesto en alto.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Cuida y protege a los súbditos (sujetos a Él).",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "No sólo los mira, sino que no aparta de ellos sus ojos.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Si un falso maestro o profeta, te quiere hacer daño, los ojos de Dios están sobre ti para librarte.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Aunque seas menospreciado y olvidado de quien esperas, los \"amorosos y compasivos ojos del Padre Celestial\" nunca se apartan de uno.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Proverbios 11:10) Con el éxito de los justos la ciudad se alegra.",
+        "referencias_inline": [
+          "Proverbios 11:10"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "El favor que Dios otorga no sólo es una bendición para ellos mismos, sino también para el bien común.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Los justos gozan del favor especial de Dios: \"Los ojos de Jehová están sobre (Salmos 34:15) los justos, para guardarles y protegerles a fin de preservarles de todo mal y cuyos oídos están atentos al clamor de ellos.",
+        "referencias_inline": [
+          "Salmos 34:15"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Cualquier grito de dolor ante un peligro inminente o por haber sufrido alguna tragedia.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Dios guarda a los suyos, de forma que no se les quiebre ningún hueso.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "El mundo está haciendo fiesta y grandes desafíos, pero en uno se aflige el alma.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Quien tiene quebrantado el corazón (contrito equivale a triturado, como lo tenía Lot), no tendrá huesos quebrantados, sino que hasta los que hayan sido quebrantados se regocijarán (Salmos 51:8, 17).",
+        "referencias_inline": [
+          "Salmos 51:8,17"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Salmos 34:19) Sí, muchas son las aflicciones (males, tristeza, sufrir) de los justos.",
+        "referencias_inline": [
+          "Salmos 34:19"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Salmos 34:19) Pero Dios ha prometido librar a los justos. Pero de todas ellas le librará Jehová.",
+        "referencias_inline": [
+          "Salmos 34:19"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Salmos 132:1) Acuérdate, oh, Jehová, de David, y de toda su aflicción.",
+        "referencias_inline": [
+          "Salmos 132:1"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Salmos 37:25) Que no nos faltará lo necesario para la vida. Joven fui y he envejecido y no he visto justo desamparado, ni su descendencia que mendigue (pedir limosna) pan.",
+        "referencias_inline": [
+          "Salmos 37:25"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Salmos 92:12) El justo florecerá como la palmera: crecerá como cedro en el Líbano.",
+        "referencias_inline": [
+          "Salmos 92:12"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Bellas ramas, cuerpo esbelto, siempre está verde y su fruto, los dátiles, es muy agradable.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Se dice que la palmera crece \"sub pondre crescit\" = crece bajo el peso: es decir, cuánto más la aprietan, mejor crece y prospera el justo bajo sus cargas y tribulaciones y da \"frutos de santificación\".",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "La palmera crece en el desierto, lugar de sequedad, desolación, florece y da fruto donde otros árboles no dan.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Salmos 92:14) Está prometido que darán fruto incluso en la vejez, en los árboles de Dios la fuerza de la gracia no decae por la falta de las fuerzas naturales.",
+        "referencias_inline": [
+          "Salmos 92:14"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Muchas veces, los últimos días de los santos son los mejores días \"y su obra la mejor que han hecho en su vida.\"",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Crecerá como el cedro del Líbano. (Salmos 92:12b)",
+        "referencias_inline": [
+          "Salmos 92:12"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Cuando Dios da gracia, también da creciente gracia.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Los árboles de Dios crecen más y más como los cedros del Líbano, famosos por su altura y pueden alcanzar los 40 metros de altura, su hoja perenne (que dura y con esbeltez); siempre hacia el cielo y prestos para buenos usos.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Isaías 3:10) Decid al justo que le irá bien, porque comerá de los frutos de sus manos.",
+        "referencias_inline": [
+          "Isaías 3:10"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Aunque las circunstancias son desfavorables, \"Dios gobierna\" en las vidas particulares (le perteneces, tiene relación contigo, \"propio.\")",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "\"Cada uno recogerá de lo que siembre.\"",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Nadie te defienda, \"según lo que siembras tal la cosecha.\"",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Si todos fuesen rectos, a todos les iría bien.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Al que le va mal, no le sucede otra cosa sino el pago de la labor mala que ha llevado a cabo. (Romanos 6:23).",
+        "referencias_inline": [
+          "Romanos 6:23"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Mateo 13:43) Entonces los justos resplandecerán como el sol en el reino de su Padre.",
+        "referencias_inline": [
+          "Mateo 13:43"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "En el reino del Padre los justos resplandecerán.",
+        "referencias_inline": []
+      }
+    ]
+  },
+  "busqueda": {
+    "texto_indexable": "decid al justo que le ira bien 2 pedro 2 7 8 justicia de Dios gracia de Dios palabra de Dios verdad santidad oracion arrepentimiento perseverancia Dios rescata al justo pedro lo deja ver en lot pedro escribiendo por inspiracion nos dice que lot era un justo que vivia abrumado por la conducta de las personas de aquellos tiempos cosas que causan horror hablar de ellas Dios vio que lot tenia una fe genuina y que amaba la justicia y aborrecia el pecado para dejar ver pedro a lot que era realmente un justo a pesar de las apariencias en contra pedro repite que su alma se afligia cada dia por las cosas que oia y veia en sodoma el pecado le causaba un profundo sufrimiento job 36 7 no apartara de los justos sus ojos seran exaltados lo humillado puesto en alto lo humillado puesto en alto cuida y protege a los subditos sujetos a el no solo los mira sino que no aparta de ellos sus ojos si un falso maestro o profeta te quiere hacer dano los ojos de Dios estan sobre ti para librarte aunque seas menospreciado y olvidado de quien esperas los amorosos y compasivos ojos del padre celestial nunca se apartan de uno proverbios 11 10 con el exito de los justos la ciudad se alegra el favor que Dios otorga no solo es una bendicion para ellos mismos sino tambien para el bien comun los justos gozan del favor especial de Dios los ojos de jehova estan sobre salmos 34 15 los justos para guardarles y protegerles a fin de preservarles de todo mal y cuyos oidos estan atentos al clamor de ellos cualquier grito de dolor ante un peligro inminente o por haber sufrido alguna tragedia Dios guarda a los suyos de forma que no se les quiebre ningun hueso el mundo esta haciendo fiesta y grandes desafios pero en uno se aflige el alma quien tiene quebrantado el corazon contrito equivale a triturado como lo tenia lot no tendra huesos quebrantados sino que hasta los que hayan sido quebrantados se regocijaran salmo 51 8 17 salmo 34 19 si muchas son las aflicciones males tristeza sufrir de los justos salmo 34 19 pero Dios ha prometido librar a los justos pero de todas ellas le librara jehova salmo 132 1 acuerdate oh jehova de david y de toda su afliccion salmo 37 25 que no nos faltara lo necesario para la vida joven fui y he envejecido y no he visto justo desamparado ni su descendencia que mendigue pedir limosna pan salmo 92 12 el justo florecera como la palmera crecera como cedro en el libano bellas ramas cuerpo esbelto siempre esta verde y su fruto los datiles es muy agradable se dice que la palmera crece sub pondre crescit crece bajo el peso es decir cuanto mas la aprietan mejor crece y prospera el justo bajo sus cargas y tribulaciones y da frutos de santificacion la palmera crece en el desierto lugar de sequedad desolacion florece y da fruto donde otros arboles no dan salmo 92 14 esta prometido que daran fruto incluso en la vejez en los arboles de Dios la fuerza de la gracia no decae por la falta de las fuerzas naturales muchas veces los ultimos dias de los santos son los mejores dias y su obra la mejor que han hecho en su vida crecera como el cedro del libano salmo 92 12b cuando Dios da gracia tambien da creciente gracia los arboles de Dios crecen mas y mas como los cedros del libano famosos por su altura y pueden alcanzar los 40 metros de altura su hoja perenne que dura y con esbeltez siempre hacia el cielo y prestos para buenos usos isaias 3 10 decid al justo que le ira bien porque comera de los frutos de sus manos aunque las circunstancias son desfavorables Dios gobierna en las vidas particulares le perteneces tiene relacion contigo propio cada uno recogera de lo que siembre nadie te defienda segun lo que siembras tal la cosecha si todos fuesen rectos a todos les iria bien al que le va mal no le sucede otra cosa sino el pago de la labor mala que ha llevado a cabo romanos 6 23 mateo 13 43 entonces los justos resplandeceran como el sol en el reino de su padre en el reino del padre los justos resplandeceran",
+    "alias_busqueda": [
+      "Estudio 1168",
+      "2 Pedro",
+      "2 Pedro 2",
+      "2 Pedro 2:7-8",
+      "verdad",
+      "santidad",
+      "oración",
+      "arrepentimiento",
+      "Justicia de Dios",
+      "Gracia de Dios"
+    ]
+  },
+  "revision_manual": {
+    "requiere_revision": false,
+    "motivo": ""
+  },
+  "ui": {
+    "mostrar_credito_en_header": true,
+    "mostrar_numero_estudio": true,
+    "mostrar_fecha": true,
+    "mostrar_topicos": true,
+    "permitir_favorito": true,
+    "permitir_compartir": true
+  }
+}

@@ -1,0 +1,329 @@
+{
+  "id": "estudio-694-amar-lo-que-Dios-escogio",
+  "slug": "estudio-694-amar-lo-que-Dios-escogio",
+  "numero_estudio": 694,
+  "tipo_estudio": "Iglesia en las casas",
+  "ministerio": {
+    "iglesia": "Iglesia Cristiana Mega Zoe",
+    "pastora": "Pastora Edith Cruz",
+    "credito_corto": "Iglesia Cristiana Mega Zoe · Pastora Edith Cruz",
+    "credito_largo": "Contenido original de Iglesia Cristiana Mega Zoe, conservando el crédito ministerial correspondiente a la Pastora Edith Cruz."
+  },
+  "identidad_editorial": {
+    "idioma": "es",
+    "fuente_original": "documento_word",
+    "archivo_origen": "/Users/edwingadiel/Desktop/Estudios en Word/Estudio #694 Amar lo que Dios escogió - Números 3 6-12.docx",
+    "estado_revision": "procesado",
+    "version_schema": "1.0"
+  },
+  "encabezado": {
+    "titulo": "Amar Lo Que Dios Escogió",
+    "subtitulo": null,
+    "cita_principal": "Números 3:6-12",
+    "resumen_corto": "Amar Lo Que Dios Escogió enseña a servir fielmente al Señor y atender la Palabra de Dios."
+  },
+  "fechas": {
+    "fecha_inicio": null,
+    "fecha_fin": null,
+    "fecha_texto_original": "",
+    "ano": null
+  },
+  "clasificacion_biblica": {
+    "libro_principal": "Números",
+    "capitulo_principal": 3,
+    "versiculos_principales": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "referencia_principal_normalizada": "Números 3:6-12",
+    "testamento_principal": "Antiguo Testamento"
+  },
+  "clasificacion_tematica": {
+    "topicos": [
+      "Servicio cristiano",
+      "Palabra de Dios",
+      "Guía del Espíritu Santo"
+    ],
+    "keywords": [
+      "santidad",
+      "arrepentimiento",
+      "perseverancia",
+      "evangelio",
+      "escrituras"
+    ]
+  },
+  "referencias_biblicas": [
+    {
+      "referencia": "Números 3:6-12",
+      "referencia_normalizada": "Números 3:6-12",
+      "libro": "Números",
+      "capitulo": 3,
+      "versiculos": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "tipo": "principal",
+      "clickeable": true
+    },
+    {
+      "referencia": "Mateo 10:5-10",
+      "referencia_normalizada": "Mateo 10:5-10",
+      "libro": "Mateo",
+      "capitulo": 10,
+      "versiculos": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "1 Corintios 9:14",
+      "referencia_normalizada": "1 Corintios 9:14",
+      "libro": "1 Corintios",
+      "capitulo": 9,
+      "versiculos": [
+        14
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Gálatas 6:6",
+      "referencia_normalizada": "Gálatas 6:6",
+      "libro": "Gálatas",
+      "capitulo": 6,
+      "versiculos": [
+        6
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Filipenses 4:14-17",
+      "referencia_normalizada": "Filipenses 4:14-17",
+      "libro": "Filipenses",
+      "capitulo": 4,
+      "versiculos": [
+        14,
+        15,
+        16,
+        17
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "1 Timoteo 5:18",
+      "referencia_normalizada": "1 Timoteo 5:18",
+      "libro": "1 Timoteo",
+      "capitulo": 5,
+      "versiculos": [
+        18
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Éxodo 28:1, 2",
+      "referencia_normalizada": "Éxodo 28:1,2",
+      "libro": "Éxodo",
+      "capitulo": 28,
+      "versiculos": [
+        1,
+        2
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Deuteronomio 12:5-12",
+      "referencia_normalizada": "Deuteronomio 12:5-12",
+      "libro": "Deuteronomio",
+      "capitulo": 12,
+      "versiculos": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Números 18: 1-21",
+      "referencia_normalizada": "Números 18:1-21",
+      "libro": "Números",
+      "capitulo": 18,
+      "versiculos": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Números 18:1",
+      "referencia_normalizada": "Números 18:1",
+      "libro": "Números",
+      "capitulo": 18,
+      "versiculos": [
+        1
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Números 35:2",
+      "referencia_normalizada": "Números 35:2",
+      "libro": "Números",
+      "capitulo": 35,
+      "versiculos": [
+        2
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Deuteronomio 12:19",
+      "referencia_normalizada": "Deuteronomio 12:19",
+      "libro": "Deuteronomio",
+      "capitulo": 12,
+      "versiculos": [
+        19
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Nehemías 13:10",
+      "referencia_normalizada": "Nehemías 13:10",
+      "libro": "Nehemías",
+      "capitulo": 13,
+      "versiculos": [
+        10
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    }
+  ],
+  "contenido": {
+    "introduccion": null,
+    "secciones": [],
+    "contenido_completo": "Dios escogió hombres que le sirvieran en el ministerio del tabernáculo. Para aquel tiempo Aarón, sus hijos y los demás sacerdotes estaban en el ministerio al servicio de Dios y el pueblo. Al día de hoy no podemos olvidar esto. Fácil es pasar por la Iglesia y criticar a los que sirven en el ministerio del sacerdocio, del pastorado, misiones, etc. En Mateo 10:5-10 dice: \"A éstos doce envió Jesús y les dio instrucciones diciendo: … no os proveáis de oro, ni plata, ni cobre,… ni de dos túnicas…porque el obrero es digno de su alimento.\" En I Corintios 9:14 también se nos dice que el que anuncia el evangelio que viva del evangelio. En Gálatas 6:6 dice: \"El que es enseñado en la palabra haga partícipe de toda cosa buena al que lo instruye.\" También en Filipenses 4:14-17 dice, \"…bien hicisteis en participar conmigo en mi tribulación…me enviasteis una y otra vez para mis necesidades…\" En I Timoteo 5:18 dice: \"No pondrás bozal al buey que trilla; y: Digno es el obrero de su salario.\" ¿Cómo se puede ser hijo de Dios nacido de nuevo y romper con todas las reglas y otras más, cuando se dice ser convertido? El que conoce las Escrituras, como pueblo de Dios que es, debe saber cómo conducirse en todo y cuál debe ser su actitud correcta y aprecio hacia el sacerdocio.\n\nPor ejemplo, salen nuestros misioneros a lugares lejanos y difíciles, entonces deben recibir su pago. Dios es el que lo ordena de esa manera. Hay que conocer, hay que saber que los asuntos de Dios funcionan así. Desde el principio Dios llamó a Aarón y a sus hijos para el servicio. En Éxodo 28:1, 2 Dios llama a Aarón y los hijos de éste para que sean sus sacerdotes. Había un templo o tabernáculo en el desierto, pero antes que un templo había un pueblo que el mismo Dios había llamado y los quería guiar. El Señor les manda a preparar para los sacerdotes vestiduras sagradas para honra y hermosura. Dios los separaba para que fueran sus sacerdotes, para ser guiados y consagrados para Él. En estos versículos, es con mucho detalle que Dios deja ver que Él quería para el pueblo hombres separados. Para eso estarían Aarón y sus hijos y los levitas quienes cuidarían el templo, el tabernáculo de reunión.\n\nEn Deuteronomio 12:5-12 se le instruye al pueblo de Israel sobre el lugar que Jehová escogería de entre todas las tribus para poner el nombre de Dios en alto. Llegarían todos hasta donde Dios estaba para ser adorado y alabado. Nada de llegar con manos vacías ante la presencia de Dios mientras ministraban los sacerdotes, había que presentarse con lo necesario para los holocaustos y para las ofrendas y los sacrificios. Se llegaba al templo, con ofrendas, diezmos, votos, primicias de las vacas, etc. Dice el Versículo 12, \"Y os alegrareis delante de Jehová vuestro Dios, vosotros, vuestros hijos… vuestros siervos… y el levita que habite en vuestras poblaciones; por cuanto no tiene parte ni heredad con vosotros.\"\n\nEn Números 18: 1-21 dice que el sacerdocio estaría a cargo de Aarón y de sus hijos y que el resto de la tribu de Leví estaría delante de Aarón para que le sirvieran. Fíjate el orden de Dios; ya no eran los primogénitos los más destacados como cuando salieron de Egipto, ahora serían los levitas. Ahora había deberes sacerdotales para Aarón y sus hijos. En Números 18:1 Dios le encargó el santuario a Aarón y a los levitas. Del pecado sacerdotal Aarón sería responsable, sería responsable de todo descuido al no cumplir con el cuidado santo. Por un deber mayor así también sería la responsabilidad y por ende las consecuencias. Los levitas eran ayudantes de los sacerdotes, pero no podían entrar al tabernáculo en el servicio propio del sacerdocio porque morirían. Al pastor que le llega este mensaje debe considerar el versículo 26 donde se le instruye cómo hacer cuando a los levitas se le llevaban los diezmos. A los levitas no se les dio tierras como a todo Israel. Si ellos eran muchos en alguna ciudad pues tenían derecho a mucho territorio y si eran pocos pues a poco territorio.\n\nNúmeros 35:2 Ahora no era alrededor del tabernáculo donde se establecerían los sacerdotes y levitas como se había hecho en el desierto. Les darían ciudades en los suburbios y lugares de pastos (pero no terrenos de labor). Les dieron ciudades para que pudiesen vivir cerca uno de otros, conversar juntos acerca de la ley y consultarse mutuamente en casos dudosos. Tendrían suficientes pastos para sus ganados Proveyendo el pueblo de esta manera para los levitas cada tribu manifestaría prácticamente su reconocimiento a Dios. Cada tribu podía así disfrutar del beneficio de tener habitando entre ellos a los levitas para que les enseñasen convenientemente sobre el conocimiento de Jehová.\n\nEn Deuteronomio 12:19 y 14:27 se nos enseña sobre el deber del pueblo de no desamparar al levita. En Nehemías 13:10 dice, \"Encontré asimismo que las porciones para los levitas no les habían sido dadas, y que los levitas y cantores que hacían el servicio habían huido cada uno a su heredad.\" Las porciones de alimento y sustento para los levitas no les habían sido dadas. El pueblo, quienes tenían que darlo, lo tomaban para ellos. Olvidarse del levita era olvidarse de Dios. Cuando un pueblo quiere pecar se olvida de quién es el que lo puede llevar a Dios. Nadie puede decir que no depende del pastor para que le guie. Tengamos cuidado con esto, un día te faltan las fuerzas y verás que no puedes. El Diablo quiere que tengas el mismo pensamiento de aquel pueblo que se desviaba de Dios y de sus leyes yendo en pos de sus dioses, del Diablo, de lo feo. Cuando alguien se quiere apartar lo primero que hace es no mirar al pastor y salir huyendo. Seamos fieles a los que están puestos por Dios para el sacerdocio y agrademos así a Dios quien es el que los puso para nuestro cuidado y para nuestro bien y el de nuestros hijos e hijas. Amén.",
+    "contenido_renderizado": [
+      {
+        "tipo": "parrafo",
+        "texto": "Dios escogió hombres que le sirvieran en el ministerio del tabernáculo. Para aquel tiempo Aarón, sus hijos y los demás sacerdotes estaban en el ministerio al servicio de Dios y el pueblo. Al día de hoy no podemos olvidar esto. Fácil es pasar por la Iglesia y criticar a los que sirven en el ministerio del sacerdocio, del pastorado, misiones, etc. En Mateo 10:5-10 dice: \"A éstos doce envió Jesús y les dio instrucciones diciendo: … no os proveáis de oro, ni plata, ni cobre,… ni de dos túnicas…porque el obrero es digno de su alimento.\" En I Corintios 9:14 también se nos dice que el que anuncia el evangelio que viva del evangelio. En Gálatas 6:6 dice: \"El que es enseñado en la palabra haga partícipe de toda cosa buena al que lo instruye.\" También en Filipenses 4:14-17 dice, \"…bien hicisteis en participar conmigo en mi tribulación…me enviasteis una y otra vez para mis necesidades…\" En I Timoteo 5:18 dice: \"No pondrás bozal al buey que trilla; y: Digno es el obrero de su salario.\" ¿Cómo se puede ser hijo de Dios nacido de nuevo y romper con todas las reglas y otras más, cuando se dice ser convertido? El que conoce las Escrituras, como pueblo de Dios que es, debe saber cómo conducirse en todo y cuál debe ser su actitud correcta y aprecio hacia el sacerdocio.",
+        "referencias_inline": [
+          "Mateo 10:5-10",
+          "1 Corintios 9:14",
+          "Gálatas 6:6",
+          "Filipenses 4:14-17",
+          "1 Timoteo 5:18"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Por ejemplo, salen nuestros misioneros a lugares lejanos y difíciles, entonces deben recibir su pago. Dios es el que lo ordena de esa manera. Hay que conocer, hay que saber que los asuntos de Dios funcionan así. Desde el principio Dios llamó a Aarón y a sus hijos para el servicio. En Éxodo 28:1, 2 Dios llama a Aarón y los hijos de éste para que sean sus sacerdotes. Había un templo o tabernáculo en el desierto, pero antes que un templo había un pueblo que el mismo Dios había llamado y los quería guiar. El Señor les manda a preparar para los sacerdotes vestiduras sagradas para honra y hermosura. Dios los separaba para que fueran sus sacerdotes, para ser guiados y consagrados para Él. En estos versículos, es con mucho detalle que Dios deja ver que Él quería para el pueblo hombres separados. Para eso estarían Aarón y sus hijos y los levitas quienes cuidarían el templo, el tabernáculo de reunión.",
+        "referencias_inline": [
+          "Éxodo 28:1,2"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "En Deuteronomio 12:5-12 se le instruye al pueblo de Israel sobre el lugar que Jehová escogería de entre todas las tribus para poner el nombre de Dios en alto. Llegarían todos hasta donde Dios estaba para ser adorado y alabado. Nada de llegar con manos vacías ante la presencia de Dios mientras ministraban los sacerdotes, había que presentarse con lo necesario para los holocaustos y para las ofrendas y los sacrificios. Se llegaba al templo, con ofrendas, diezmos, votos, primicias de las vacas, etc. Dice el Versículo 12, \"Y os alegrareis delante de Jehová vuestro Dios, vosotros, vuestros hijos… vuestros siervos… y el levita que habite en vuestras poblaciones; por cuanto no tiene parte ni heredad con vosotros.\"",
+        "referencias_inline": [
+          "Deuteronomio 12:5-12"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "En Números 18: 1-21 dice que el sacerdocio estaría a cargo de Aarón y de sus hijos y que el resto de la tribu de Leví estaría delante de Aarón para que le sirvieran. Fíjate el orden de Dios; ya no eran los primogénitos los más destacados como cuando salieron de Egipto, ahora serían los levitas. Ahora había deberes sacerdotales para Aarón y sus hijos. En Números 18:1 Dios le encargó el santuario a Aarón y a los levitas. Del pecado sacerdotal Aarón sería responsable, sería responsable de todo descuido al no cumplir con el cuidado santo. Por un deber mayor así también sería la responsabilidad y por ende las consecuencias. Los levitas eran ayudantes de los sacerdotes, pero no podían entrar al tabernáculo en el servicio propio del sacerdocio porque morirían. Al pastor que le llega este mensaje debe considerar el versículo 26 donde se le instruye cómo hacer cuando a los levitas se le llevaban los diezmos. A los levitas no se les dio tierras como a todo Israel. Si ellos eran muchos en alguna ciudad pues tenían derecho a mucho territorio y si eran pocos pues a poco territorio.",
+        "referencias_inline": [
+          "Números 18:1-21",
+          "Números 18:1"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Números 35:2 Ahora no era alrededor del tabernáculo donde se establecerían los sacerdotes y levitas como se había hecho en el desierto. Les darían ciudades en los suburbios y lugares de pastos (pero no terrenos de labor). Les dieron ciudades para que pudiesen vivir cerca uno de otros, conversar juntos acerca de la ley y consultarse mutuamente en casos dudosos. Tendrían suficientes pastos para sus ganados Proveyendo el pueblo de esta manera para los levitas cada tribu manifestaría prácticamente su reconocimiento a Dios. Cada tribu podía así disfrutar del beneficio de tener habitando entre ellos a los levitas para que les enseñasen convenientemente sobre el conocimiento de Jehová.",
+        "referencias_inline": [
+          "Números 35:2"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "En Deuteronomio 12:19 y 14:27 se nos enseña sobre el deber del pueblo de no desamparar al levita. En Nehemías 13:10 dice, \"Encontré asimismo que las porciones para los levitas no les habían sido dadas, y que los levitas y cantores que hacían el servicio habían huido cada uno a su heredad.\" Las porciones de alimento y sustento para los levitas no les habían sido dadas. El pueblo, quienes tenían que darlo, lo tomaban para ellos. Olvidarse del levita era olvidarse de Dios. Cuando un pueblo quiere pecar se olvida de quién es el que lo puede llevar a Dios. Nadie puede decir que no depende del pastor para que le guie. Tengamos cuidado con esto, un día te faltan las fuerzas y verás que no puedes. El Diablo quiere que tengas el mismo pensamiento de aquel pueblo que se desviaba de Dios y de sus leyes yendo en pos de sus dioses, del Diablo, de lo feo. Cuando alguien se quiere apartar lo primero que hace es no mirar al pastor y salir huyendo. Seamos fieles a los que están puestos por Dios para el sacerdocio y agrademos así a Dios quien es el que los puso para nuestro cuidado y para nuestro bien y el de nuestros hijos e hijas. Amén.",
+        "referencias_inline": [
+          "Deuteronomio 12:19",
+          "Nehemías 13:10"
+        ]
+      }
+    ]
+  },
+  "busqueda": {
+    "texto_indexable": "amar lo que Dios escogio numeros 3 6 12 servicio cristiano palabra de Dios guia del espiritu santo santidad arrepentimiento perseverancia evangelio escrituras Dios escogio hombres que le sirvieran en el ministerio del tabernaculo para aquel tiempo aaron sus hijos y los demas sacerdotes estaban en el ministerio al servicio de Dios y el pueblo al dia de hoy no podemos olvidar esto facil es pasar por la iglesia y criticar a los que sirven en el ministerio del sacerdocio del pastorado misiones etc en mateo 10 5 10 dice a estos doce envio Jesus y les dio instrucciones diciendo no os proveais de oro ni plata ni cobre ni de dos tunicas porque el obrero es digno de su alimento en i corintios 9 14 tambien se nos dice que el que anuncia el evangelio que viva del evangelio en galatas 6 6 dice el que es ensenado en la palabra haga participe de toda cosa buena al que lo instruye tambien en filipenses 4 14 17 dice bien hicisteis en participar conmigo en mi tribulacion me enviasteis una y otra vez para mis necesidades en i timoteo 5 18 dice no pondras bozal al buey que trilla y digno es el obrero de su salario como se puede ser hijo de Dios nacido de nuevo y romper con todas las reglas y otras mas cuando se dice ser convertido el que conoce las escrituras como pueblo de Dios que es debe saber como conducirse en todo y cual debe ser su actitud correcta y aprecio hacia el sacerdocio por ejemplo salen nuestros misioneros a lugares lejanos y dificiles entonces deben recibir su pago Dios es el que lo ordena de esa manera hay que conocer hay que saber que los asuntos de Dios funcionan asi desde el principio Dios llamo a aaron y a sus hijos para el servicio en exodo 28 1 2 Dios llama a aaron y los hijos de este para que sean sus sacerdotes habia un templo o tabernaculo en el desierto pero antes que un templo habia un pueblo que el mismo Dios habia llamado y los queria guiar el senor les manda a preparar para los sacerdotes vestiduras sagradas para honra y hermosura Dios los separaba para que fueran sus sacerdotes para ser guiados y consagrados para el en estos versiculos es con mucho detalle que Dios deja ver que el queria para el pueblo hombres separados para eso estarian aaron y sus hijos y los levitas quienes cuidarian el templo el tabernaculo de reunion en deuteronomio 12 5 12 se le instruye al pueblo de israel sobre el lugar que jehova escogeria de entre todas las tribus para poner el nombre de Dios en alto llegarian todos hasta donde Dios estaba para ser adorado y alabado nada de llegar con manos vacias ante la presencia de Dios mientras ministraban los sacerdotes habia que presentarse con lo necesario para los holocaustos y para las ofrendas y los sacrificios se llegaba al templo con ofrendas diezmos votos primicias de las vacas etc dice el versiculo 12 y os alegrareis delante de jehova vuestro Dios vosotros vuestros hijos vuestros siervos y el levita que habite en vuestras poblaciones por cuanto no tiene parte ni heredad con vosotros en numeros 18 1 21 dice que el sacerdocio estaria a cargo de aaron y de sus hijos y que el resto de la tribu de levi estaria delante de aaron para que le sirvieran fijate el orden de Dios ya no eran los primogenitos los mas destacados como cuando salieron de egipto ahora serian los levitas ahora habia deberes sacerdotales para aaron y sus hijos en numeros 18 1 Dios le encargo el santuario a aaron y a los levitas del pecado sacerdotal aaron seria responsable seria responsable de todo descuido al no cumplir con el cuidado santo por un deber mayor asi tambien seria la responsabilidad y por ende las consecuencias los levitas eran ayudantes de los sacerdotes pero no podian entrar al tabernaculo en el servicio propio del sacerdocio porque moririan al pastor que le llega este mensaje debe considerar el versiculo 26 donde se le instruye como hacer cuando a los levitas se le llevaban los diezmos a los levitas no se les dio tierras como a todo israel si ellos eran muchos en alguna ciudad pues tenian derecho a mucho territorio y si eran pocos pues a poco territorio numeros 35 2 ahora no era alrededor del tabernaculo donde se establecerian los sacerdotes y levitas como se habia hecho en el desierto les darian ciudades en los suburbios y lugares de pastos pero no terrenos de labor les dieron ciudades para que pudiesen vivir cerca uno de otros conversar juntos acerca de la ley y consultarse mutuamente en casos dudosos tendrian suficientes pastos para sus ganados proveyendo el pueblo de esta manera para los levitas cada tribu manifestaria practicamente su reconocimiento a Dios cada tribu podia asi disfrutar del beneficio de tener habitando entre ellos a los levitas para que les ensenasen convenientemente sobre el conocimiento de jehova en deuteronomio 12 19 y 14 27 se nos ensena sobre el deber del pueblo de no desamparar al levita en nehemias 13 10 dice encontre asimismo que las porciones para los levitas no les habian sido dadas y que los levitas y cantores que hacian el servicio habian huido cada uno a su heredad las porciones de alimento y sustento para los levitas no les habian sido dadas el pueblo quienes tenian que darlo lo tomaban para ellos olvidarse del levita era olvidarse de Dios cuando un pueblo quiere pecar se olvida de quien es el que lo puede llevar a Dios nadie puede decir que no depende del pastor para que le guie tengamos cuidado con esto un dia te faltan las fuerzas y veras que no puedes el diablo quiere que tengas el mismo pensamiento de aquel pueblo que se desviaba de Dios y de sus leyes yendo en pos de sus dioses del diablo de lo feo cuando alguien se quiere apartar lo primero que hace es no mirar al pastor y salir huyendo seamos fieles a los que estan puestos por Dios para el sacerdocio y agrademos asi a Dios quien es el que los puso para nuestro cuidado y para nuestro bien y el de nuestros hijos e hijas amen",
+    "alias_busqueda": [
+      "Amar Lo Que Dios Escogió",
+      "Números",
+      "Números 3",
+      "Números 3:6-12",
+      "santidad",
+      "arrepentimiento",
+      "perseverancia",
+      "evangelio",
+      "Servicio cristiano",
+      "Palabra de Dios"
+    ]
+  },
+  "revision_manual": {
+    "requiere_revision": false,
+    "motivo": ""
+  },
+  "ui": {
+    "mostrar_credito_en_header": true,
+    "mostrar_numero_estudio": true,
+    "mostrar_fecha": true,
+    "mostrar_topicos": true,
+    "permitir_favorito": true,
+    "permitir_compartir": true
+  }
+}

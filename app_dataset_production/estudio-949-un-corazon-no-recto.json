@@ -1,0 +1,264 @@
+{
+  "id": "estudio-949-un-corazon-no-recto",
+  "slug": "estudio-949-un-corazon-no-recto",
+  "numero_estudio": 949,
+  "tipo_estudio": "Iglesia en las casas",
+  "ministerio": {
+    "iglesia": "Iglesia Cristiana Mega Zoe",
+    "pastora": "Pastora Edith Cruz",
+    "credito_corto": "Iglesia Cristiana Mega Zoe · Pastora Edith Cruz",
+    "credito_largo": "Contenido original de Iglesia Cristiana Mega Zoe, conservando el crédito ministerial correspondiente a la Pastora Edith Cruz."
+  },
+  "identidad_editorial": {
+    "idioma": "es",
+    "fuente_original": "documento_word",
+    "archivo_origen": "/Users/edwingadiel/Desktop/Estudios en Word/Estudio #949 Un Corazon No Recto - Hechos 8 4-6.docx",
+    "estado_revision": "procesado",
+    "version_schema": "1.0"
+  },
+  "encabezado": {
+    "titulo": "Un Corazón No Recto",
+    "subtitulo": null,
+    "cita_principal": "Hechos 8:4-6",
+    "resumen_corto": "Un Corazón No Recto llama a perseverar en la oración y vivir con la mirada puesta en la vida eterna."
+  },
+  "fechas": {
+    "fecha_inicio": null,
+    "fecha_fin": null,
+    "fecha_texto_original": "",
+    "ano": null
+  },
+  "clasificacion_biblica": {
+    "libro_principal": "Hechos",
+    "capitulo_principal": 8,
+    "versiculos_principales": [
+      4,
+      5,
+      6
+    ],
+    "referencia_principal_normalizada": "Hechos 8:4-6",
+    "testamento_principal": "Nuevo Testamento"
+  },
+  "clasificacion_tematica": {
+    "topicos": [
+      "Oración",
+      "Liderazgo espiritual",
+      "Gozo",
+      "Vida eterna",
+      "Perdón"
+    ],
+    "keywords": [
+      "vida eterna",
+      "oración",
+      "evangelio",
+      "corazón",
+      "discernir"
+    ]
+  },
+  "referencias_biblicas": [
+    {
+      "referencia": "Hechos 8:4-6",
+      "referencia_normalizada": "Hechos 8:4-6",
+      "libro": "Hechos",
+      "capitulo": 8,
+      "versiculos": [
+        4,
+        5,
+        6
+      ],
+      "tipo": "principal",
+      "clickeable": true
+    },
+    {
+      "referencia": "Hechos 8:7-8",
+      "referencia_normalizada": "Hechos 8:7-8",
+      "libro": "Hechos",
+      "capitulo": 8,
+      "versiculos": [
+        7,
+        8
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Hechos 8:9",
+      "referencia_normalizada": "Hechos 8:9",
+      "libro": "Hechos",
+      "capitulo": 8,
+      "versiculos": [
+        9
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Hechos 8:13",
+      "referencia_normalizada": "Hechos 8:13",
+      "libro": "Hechos",
+      "capitulo": 8,
+      "versiculos": [
+        13
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Hechos 8:20-21",
+      "referencia_normalizada": "Hechos 8:20-21",
+      "libro": "Hechos",
+      "capitulo": 8,
+      "versiculos": [
+        20,
+        21
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Hechos 8:14",
+      "referencia_normalizada": "Hechos 8:14",
+      "libro": "Hechos",
+      "capitulo": 8,
+      "versiculos": [
+        14
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Hechos 8:17",
+      "referencia_normalizada": "Hechos 8:17",
+      "libro": "Hechos",
+      "capitulo": 8,
+      "versiculos": [
+        17
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Hechos 8:18,19",
+      "referencia_normalizada": "Hechos 8:18,19",
+      "libro": "Hechos",
+      "capitulo": 8,
+      "versiculos": [
+        18,
+        19
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Hechos 8:22,23",
+      "referencia_normalizada": "Hechos 8:22,23",
+      "libro": "Hechos",
+      "capitulo": 8,
+      "versiculos": [
+        22,
+        23
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Hechos 8:24",
+      "referencia_normalizada": "Hechos 8:24",
+      "libro": "Hechos",
+      "capitulo": 8,
+      "versiculos": [
+        24
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    }
+  ],
+  "contenido": {
+    "introduccion": null,
+    "secciones": [],
+    "contenido_completo": "\"Pero los que fueron esparcidos iban por todas partes anunciando el evangelio. Entonces Felipe, descendiendo a la ciudad de Samaria, les predicaba a Cristo. Y la gente, unánime, escuchaba atentamente las cosas que decía Felipe oyendo y viendo las señales que hacía.\" Dios estaba con Felipe. Felipe le contaba a la gente la historia de Jesús, el mensaje del amor de Dios revelado en Jesucristo. Y también había sanidad, pues Felipe hacía muchas señales (Hechos 8:7-8 \"Porque de muchos que tenían espíritus inmundos salían éstos dando grandes voces; y muchos paralíticos y cojos eran sanados; así que había gran gozo en aquella ciudad.\"). Él trajo la alegría que los samaritanos nunca habían experimentado. ¡Cuánto alboroto y alegría! ¡Había gran fiesta! Algo bueno pasaba; la atmósfera era de libertad y de mucho bien.\n\nSin embargo, veremos que el diablo quería tener un lugar en todo aquello. En la fiesta de nuevas vidas y muchos milagros en Samaria estaba Simón el mago disfrutando, acomodándose y tomando un lugar que no le correspondía (Hechos 8:9 \"Pero había un hombre llamado Simón, que antes ejercía la magia en aquella ciudad, y había engañado a la gente de Samaria haciéndose pasar por algún grande.\"). Y creyó aquel Simón. La fe de este hombre y su confesión de ella en el bautismo surgieron de su comprensión de que una potencia mayor que la suya operaba por medio de las palabras y obra de Felipe (Hechos 8:13 \"También creyó Simón mismo y habiéndose bautizado estaba siempre con Felipe; y viendo las señales y grandes milagros que se hacían estaba atónito.\"). Su profesión de fe era falsa (Hechos 8:20-21 \"Entonces Pedro le dijo: Tu dinero perezca contigo, porque has pensado que el don de Dios se obtiene con dinero. No tienes tú parte ni suerte en este asunto, porque tu corazón no es recto delante de Dios.\"). Simón jamás pensó entregar su voluntad al Señor. Fue malamente ambicioso, sin darse cuenta dónde estaba metiéndose. Simón estaba siempre junto a Felipe, es decir, que no le dejaba en ningún momento. Felipe lo tuvo por creyente genuino, confiaba en él, mientras que Simón buscaba lo suyo propio. No todos los discípulos poseían el don de \"discernir espíritus\" como lo vemos en Pedro y en Pablo.\n\nSucede que todavía no había descendido el Espíritu Santo sobre los nuevos creyentes allí en Samaria y para tal propósito les enviaron a los apóstoles Pedro y Juan (Hechos 8:14 \"…enviaron allá a Pedro y a Juan…\"). Pedro y Juan les trajeron la llenura del Espíritu Santo mediante la imposición de manos (Hechos 8:17 \"Entonces les imponían las manos y recibían el Espíritu Santo.\"). Pero, había que definir quien en verdad iba a entregar su voluntad al Señor. Todos dicen creer. Y claro está que hay que discernir los espíritus para no ser dominados por el engaño.\n\nAllí está Simón con sed de ser grande y quien confunde lo santo por sus impurezas. El Espíritu Santo fue demorado hasta que llegara Pedro y Juan y sería por imposición de manos que lo recibirían los samaritanos que habían creído con Felipe. Pero, rápidamente los apóstoles descubrieron y descartaron a Simón el mago. Simón les hace a Pedro y Juan la propuesta de darles dinero al ver que por la imposición de manos se daba el Espíritu Santo (Hechos 8:18,19 \"Cuando vio Simón que por la imposición de las manos de los apóstoles se daba el Espíritu Santo, les ofreció dinero, diciendo: Dadme también a mí este poder, para que cualquiera a quien yo impusiere las manos reciba el Espíritu Santo.\"). Para él aquella era una magia más elevada que la suya. Tenía la ambición de poseer el honor y poder de un apóstol. Y se atrevió pedirle a Pedro que le vendiera el Espíritu Santo, pensó que los apóstoles eran mercenarios como él. Pensó en la ganancia de la magia, el pensó que podía tener lo de ellos. Pensó que al no soltar a Felipe ya él era uno de ellos, pero con tan grandes y malas ambiciones.\n\nPedro con su discernir vio lo que había en él. Descubrió el crimen de Simón; y no hubo consideración a tal blasfemia (Hechos 8:22,23 \"Arrepiéntete, pues, de esta tu maldad, y ruega a Dios, si quizás te sea perdonado el pensamiento de tu corazón; porque en hiel de amargura y en prisión de maldad veo que estás.\"). Con dinero Simón quiso comprar salvación, perdón, el don del Espíritu y la vida eterna. Pensó que el poder de un apóstol se podía obtener mediante el pago de honorarios. Pedro lo descubre: \"…tu corazón no es recto delante de Dios.\" (Vs. 20,21)\n\nSomos lo que es nuestro corazón. Si el corazón está torcido ¡no se puede ser recto! Dios penetra hasta lo íntimo del corazón y por él somos juzgados. Nuestro supremo interés debe estar en ser aprobados delante de Dios, de lo contrario, es a nosotros mismos a quienes nos engañamos para nuestra ruina. Pedro dice en el Vs.23: \"…porque en hiel de amargura y en prisión de maldad veo que estás.\" Esto es hablar claro y no hay más remedio que hablar así cuando se trata del bien de las almas y de la eternidad.\n\nA Simón le vino de Pedro la sentencia en el Vs.20: \"Tu dinero perezca contigo, porque has pensado que el don de Dios se obtiene con dinero.\" ¡Fuera el dinero contigo! Nada se debe querer con ese tipo de personas. Una persona que tan groseramente ha despreciado al Espíritu Santo no puede tener parte en la bendición espiritual. Nada que ver esa persona con los dones del Espíritu; ¡su corazón no es recto!\n\nSimón, entonces, pidió oración (Hechos 8:24 \"Respondiendo entonces Simón, dijo: Rogad vosotros por mí al Señor, para que nada de esto que habéis dicho venga sobre mí.\"). Él no se atrevió a orar, sabía que su falta había sido grave y que el Señor no le respondería. Quiere librarse del castigo con que se le ha amenazado. Vemos que Simón el mago obtuvo lo que buscó. Cuidemos nuestro corazón de ambiciones como las de este hombre sin escrúpulos. ¡Seamos limpios y sanos, con UN CORAZÓN RECTO! Amén.",
+    "contenido_renderizado": [
+      {
+        "tipo": "parrafo",
+        "texto": "\"Pero los que fueron esparcidos iban por todas partes anunciando el evangelio. Entonces Felipe, descendiendo a la ciudad de Samaria, les predicaba a Cristo. Y la gente, unánime, escuchaba atentamente las cosas que decía Felipe oyendo y viendo las señales que hacía.\" Dios estaba con Felipe. Felipe le contaba a la gente la historia de Jesús, el mensaje del amor de Dios revelado en Jesucristo. Y también había sanidad, pues Felipe hacía muchas señales (Hechos 8:7-8 \"Porque de muchos que tenían espíritus inmundos salían éstos dando grandes voces; y muchos paralíticos y cojos eran sanados; así que había gran gozo en aquella ciudad.\"). Él trajo la alegría que los samaritanos nunca habían experimentado. ¡Cuánto alboroto y alegría! ¡Había gran fiesta! Algo bueno pasaba; la atmósfera era de libertad y de mucho bien.",
+        "referencias_inline": [
+          "Hechos 8:7-8"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Sin embargo, veremos que el diablo quería tener un lugar en todo aquello. En la fiesta de nuevas vidas y muchos milagros en Samaria estaba Simón el mago disfrutando, acomodándose y tomando un lugar que no le correspondía (Hechos 8:9 \"Pero había un hombre llamado Simón, que antes ejercía la magia en aquella ciudad, y había engañado a la gente de Samaria haciéndose pasar por algún grande.\"). Y creyó aquel Simón. La fe de este hombre y su confesión de ella en el bautismo surgieron de su comprensión de que una potencia mayor que la suya operaba por medio de las palabras y obra de Felipe (Hechos 8:13 \"También creyó Simón mismo y habiéndose bautizado estaba siempre con Felipe; y viendo las señales y grandes milagros que se hacían estaba atónito.\"). Su profesión de fe era falsa (Hechos 8:20-21 \"Entonces Pedro le dijo: Tu dinero perezca contigo, porque has pensado que el don de Dios se obtiene con dinero. No tienes tú parte ni suerte en este asunto, porque tu corazón no es recto delante de Dios.\"). Simón jamás pensó entregar su voluntad al Señor. Fue malamente ambicioso, sin darse cuenta dónde estaba metiéndose. Simón estaba siempre junto a Felipe, es decir, que no le dejaba en ningún momento. Felipe lo tuvo por creyente genuino, confiaba en él, mientras que Simón buscaba lo suyo propio. No todos los discípulos poseían el don de \"discernir espíritus\" como lo vemos en Pedro y en Pablo.",
+        "referencias_inline": [
+          "Hechos 8:9",
+          "Hechos 8:13",
+          "Hechos 8:20-21"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Sucede que todavía no había descendido el Espíritu Santo sobre los nuevos creyentes allí en Samaria y para tal propósito les enviaron a los apóstoles Pedro y Juan (Hechos 8:14 \"…enviaron allá a Pedro y a Juan…\"). Pedro y Juan les trajeron la llenura del Espíritu Santo mediante la imposición de manos (Hechos 8:17 \"Entonces les imponían las manos y recibían el Espíritu Santo.\"). Pero, había que definir quien en verdad iba a entregar su voluntad al Señor. Todos dicen creer. Y claro está que hay que discernir los espíritus para no ser dominados por el engaño.",
+        "referencias_inline": [
+          "Hechos 8:14",
+          "Hechos 8:17"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Allí está Simón con sed de ser grande y quien confunde lo santo por sus impurezas. El Espíritu Santo fue demorado hasta que llegara Pedro y Juan y sería por imposición de manos que lo recibirían los samaritanos que habían creído con Felipe. Pero, rápidamente los apóstoles descubrieron y descartaron a Simón el mago. Simón les hace a Pedro y Juan la propuesta de darles dinero al ver que por la imposición de manos se daba el Espíritu Santo (Hechos 8:18,19 \"Cuando vio Simón que por la imposición de las manos de los apóstoles se daba el Espíritu Santo, les ofreció dinero, diciendo: Dadme también a mí este poder, para que cualquiera a quien yo impusiere las manos reciba el Espíritu Santo.\"). Para él aquella era una magia más elevada que la suya. Tenía la ambición de poseer el honor y poder de un apóstol. Y se atrevió pedirle a Pedro que le vendiera el Espíritu Santo, pensó que los apóstoles eran mercenarios como él. Pensó en la ganancia de la magia, el pensó que podía tener lo de ellos. Pensó que al no soltar a Felipe ya él era uno de ellos, pero con tan grandes y malas ambiciones.",
+        "referencias_inline": [
+          "Hechos 8:18,19"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Pedro con su discernir vio lo que había en él. Descubrió el crimen de Simón; y no hubo consideración a tal blasfemia (Hechos 8:22,23 \"Arrepiéntete, pues, de esta tu maldad, y ruega a Dios, si quizás te sea perdonado el pensamiento de tu corazón; porque en hiel de amargura y en prisión de maldad veo que estás.\"). Con dinero Simón quiso comprar salvación, perdón, el don del Espíritu y la vida eterna. Pensó que el poder de un apóstol se podía obtener mediante el pago de honorarios. Pedro lo descubre: \"…tu corazón no es recto delante de Dios.\" (Vs. 20,21)",
+        "referencias_inline": [
+          "Hechos 8:22,23"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Somos lo que es nuestro corazón. Si el corazón está torcido ¡no se puede ser recto! Dios penetra hasta lo íntimo del corazón y por él somos juzgados. Nuestro supremo interés debe estar en ser aprobados delante de Dios, de lo contrario, es a nosotros mismos a quienes nos engañamos para nuestra ruina. Pedro dice en el Vs.23: \"…porque en hiel de amargura y en prisión de maldad veo que estás.\" Esto es hablar claro y no hay más remedio que hablar así cuando se trata del bien de las almas y de la eternidad.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "A Simón le vino de Pedro la sentencia en el Vs.20: \"Tu dinero perezca contigo, porque has pensado que el don de Dios se obtiene con dinero.\" ¡Fuera el dinero contigo! Nada se debe querer con ese tipo de personas. Una persona que tan groseramente ha despreciado al Espíritu Santo no puede tener parte en la bendición espiritual. Nada que ver esa persona con los dones del Espíritu; ¡su corazón no es recto!",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Simón, entonces, pidió oración (Hechos 8:24 \"Respondiendo entonces Simón, dijo: Rogad vosotros por mí al Señor, para que nada de esto que habéis dicho venga sobre mí.\"). Él no se atrevió a orar, sabía que su falta había sido grave y que el Señor no le respondería. Quiere librarse del castigo con que se le ha amenazado. Vemos que Simón el mago obtuvo lo que buscó. Cuidemos nuestro corazón de ambiciones como las de este hombre sin escrúpulos. ¡Seamos limpios y sanos, con UN CORAZÓN RECTO! Amén.",
+        "referencias_inline": [
+          "Hechos 8:24"
+        ]
+      }
+    ]
+  },
+  "busqueda": {
+    "texto_indexable": "un corazon no recto hechos 8 4 6 oracion liderazgo espiritual gozo vida eterna perdon vida eterna oracion evangelio corazon discernir pero los que fueron esparcidos iban por todas partes anunciando el evangelio entonces felipe descendiendo a la ciudad de samaria les predicaba a cristo y la gente unanime escuchaba atentamente las cosas que decia felipe oyendo y viendo las senales que hacia Dios estaba con felipe felipe le contaba a la gente la historia de Jesus el mensaje del amor de Dios revelado en jesucristo y tambien habia sanidad pues felipe hacia muchas senales hechos 8 7 8 porque de muchos que tenian espiritus inmundos salian estos dando grandes voces y muchos paraliticos y cojos eran sanados asi que habia gran gozo en aquella ciudad el trajo la alegria que los samaritanos nunca habian experimentado cuanto alboroto y alegria habia gran fiesta algo bueno pasaba la atmosfera era de libertad y de mucho bien sin embargo veremos que el diablo queria tener un lugar en todo aquello en la fiesta de nuevas vidas y muchos milagros en samaria estaba simon el mago disfrutando acomodandose y tomando un lugar que no le correspondia hechos 8 9 pero habia un hombre llamado simon que antes ejercia la magia en aquella ciudad y habia enganado a la gente de samaria haciendose pasar por algun grande y creyo aquel simon la fe de este hombre y su confesion de ella en el bautismo surgieron de su comprension de que una potencia mayor que la suya operaba por medio de las palabras y obra de felipe hechos 8 13 tambien creyo simon mismo y habiendose bautizado estaba siempre con felipe y viendo las senales y grandes milagros que se hacian estaba atonito su profesion de fe era falsa hechos 8 20 21 entonces pedro le dijo tu dinero perezca contigo porque has pensado que el don de Dios se obtiene con dinero no tienes tu parte ni suerte en este asunto porque tu corazon no es recto delante de Dios simon jamas penso entregar su voluntad al senor fue malamente ambicioso sin darse cuenta donde estaba metiendose simon estaba siempre junto a felipe es decir que no le dejaba en ningun momento felipe lo tuvo por creyente genuino confiaba en el mientras que simon buscaba lo suyo propio no todos los discipulos poseian el don de discernir espiritus como lo vemos en pedro y en pablo sucede que todavia no habia descendido el espiritu santo sobre los nuevos creyentes alli en samaria y para tal proposito les enviaron a los apostoles pedro y juan hechos 8 14 enviaron alla a pedro y a juan pedro y juan les trajeron la llenura del espiritu santo mediante la imposicion de manos hechos 8 17 entonces les imponian las manos y recibian el espiritu santo pero habia que definir quien en verdad iba a entregar su voluntad al senor todos dicen creer y claro esta que hay que discernir los espiritus para no ser dominados por el engano alli esta simon con sed de ser grande y quien confunde lo santo por sus impurezas el espiritu santo fue demorado hasta que llegara pedro y juan y seria por imposicion de manos que lo recibirian los samaritanos que habian creido con felipe pero rapidamente los apostoles descubrieron y descartaron a simon el mago simon les hace a pedro y juan la propuesta de darles dinero al ver que por la imposicion de manos se daba el espiritu santo hechos 8 18 19 cuando vio simon que por la imposicion de las manos de los apostoles se daba el espiritu santo les ofrecio dinero diciendo dadme tambien a mi este poder para que cualquiera a quien yo impusiere las manos reciba el espiritu santo para el aquella era una magia mas elevada que la suya tenia la ambicion de poseer el honor y poder de un apostol y se atrevio pedirle a pedro que le vendiera el espiritu santo penso que los apostoles eran mercenarios como el penso en la ganancia de la magia el penso que podia tener lo de ellos penso que al no soltar a felipe ya el era uno de ellos pero con tan grandes y malas ambiciones pedro con su discernir vio lo que habia en el descubrio el crimen de simon y no hubo consideracion a tal blasfemia hechos 8 22 23 arrepientete pues de esta tu maldad y ruega a Dios si quizas te sea perdonado el pensamiento de tu corazon porque en hiel de amargura y en prision de maldad veo que estas con dinero simon quiso comprar salvacion perdon el don del espiritu y la vida eterna penso que el poder de un apostol se podia obtener mediante el pago de honorarios pedro lo descubre tu corazon no es recto delante de Dios vs 20 21 somos lo que es nuestro corazon si el corazon esta torcido no se puede ser recto Dios penetra hasta lo intimo del corazon y por el somos juzgados nuestro supremo interes debe estar en ser aprobados delante de Dios de lo contrario es a nosotros mismos a quienes nos enganamos para nuestra ruina pedro dice en el vs 23 porque en hiel de amargura y en prision de maldad veo que estas esto es hablar claro y no hay mas remedio que hablar asi cuando se trata del bien de las almas y de la eternidad a simon le vino de pedro la sentencia en el vs 20 tu dinero perezca contigo porque has pensado que el don de Dios se obtiene con dinero fuera el dinero contigo nada se debe querer con ese tipo de personas una persona que tan groseramente ha despreciado al espiritu santo no puede tener parte en la bendicion espiritual nada que ver esa persona con los dones del espiritu su corazon no es recto simon entonces pidio oracion hechos 8 24 respondiendo entonces simon dijo rogad vosotros por mi al senor para que nada de esto que habeis dicho venga sobre mi el no se atrevio a orar sabia que su falta habia sido grave y que el senor no le responderia quiere librarse del castigo con que se le ha amenazado vemos que simon el mago obtuvo lo que busco cuidemos nuestro corazon de ambiciones como las de este hombre sin escrupulos seamos limpios y sanos con un corazon recto amen",
+    "alias_busqueda": [
+      "Un Corazón No Recto",
+      "Hechos",
+      "Hechos 8",
+      "Hechos 8:4-6",
+      "vida eterna",
+      "oración",
+      "evangelio",
+      "corazón",
+      "Liderazgo espiritual"
+    ]
+  },
+  "revision_manual": {
+    "requiere_revision": false,
+    "motivo": ""
+  },
+  "ui": {
+    "mostrar_credito_en_header": true,
+    "mostrar_numero_estudio": true,
+    "mostrar_fecha": true,
+    "mostrar_topicos": true,
+    "permitir_favorito": true,
+    "permitir_compartir": true
+  }
+}

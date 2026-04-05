@@ -1,0 +1,328 @@
+{
+  "id": "estudio-429-me-armare-con-la-espada-del-espiritu-la-palabra",
+  "slug": "estudio-429-me-armare-con-la-espada-del-espiritu-la-palabra",
+  "numero_estudio": 429,
+  "tipo_estudio": "Iglesia en las casas",
+  "ministerio": {
+    "iglesia": "Iglesia Cristiana Mega Zoe",
+    "pastora": "Pastora Edith Cruz",
+    "credito_corto": "Iglesia Cristiana Mega Zoe · Pastora Edith Cruz",
+    "credito_largo": "Contenido original de Iglesia Cristiana Mega Zoe, conservando el crédito ministerial correspondiente a la Pastora Edith Cruz."
+  },
+  "identidad_editorial": {
+    "idioma": "es",
+    "fuente_original": "documento_word",
+    "archivo_origen": "/Users/edwingadiel/Desktop/Estudios en Word/Estudio #429 Me armaré con la Espada del Espíritu, La Palabra - Efesios 6 17.doc",
+    "estado_revision": "procesado",
+    "version_schema": "1.0"
+  },
+  "encabezado": {
+    "titulo": "Me Armaré Con La Espada Del Espíritu: La Palabra",
+    "subtitulo": null,
+    "cita_principal": "Efesios 6:17",
+    "resumen_corto": "Me Armaré Con La Espada Del Espíritu: La Palabra llama a atender la Palabra de Dios y permanecer en la verdad."
+  },
+  "fechas": {
+    "fecha_inicio": null,
+    "fecha_fin": null,
+    "fecha_texto_original": "",
+    "ano": null
+  },
+  "clasificacion_biblica": {
+    "libro_principal": "Efesios",
+    "capitulo_principal": 6,
+    "versiculos_principales": [
+      17
+    ],
+    "referencia_principal_normalizada": "Efesios 6:17",
+    "testamento_principal": "Nuevo Testamento"
+  },
+  "clasificacion_tematica": {
+    "topicos": [
+      "Palabra de Dios",
+      "Satanás",
+      "Verdad",
+      "Tentación",
+      "Sabiduría espiritual"
+    ],
+    "keywords": [
+      "juicio",
+      "escrituras",
+      "escogidos",
+      "corazón",
+      "testimonio"
+    ]
+  },
+  "referencias_biblicas": [
+    {
+      "referencia": "Efesios 6:17",
+      "referencia_normalizada": "Efesios 6:17",
+      "libro": "Efesios",
+      "capitulo": 6,
+      "versiculos": [
+        17
+      ],
+      "tipo": "principal",
+      "clickeable": true
+    },
+    {
+      "referencia": "Lucas 4:1-13",
+      "referencia_normalizada": "Lucas 4:1-13",
+      "libro": "Lucas",
+      "capitulo": 4,
+      "versiculos": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Efesios 6:12",
+      "referencia_normalizada": "Efesios 6:12",
+      "libro": "Efesios",
+      "capitulo": 6,
+      "versiculos": [
+        12
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Deuteronomio 8:3",
+      "referencia_normalizada": "Deuteronomio 8:3",
+      "libro": "Deuteronomio",
+      "capitulo": 8,
+      "versiculos": [
+        3
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Deuteronomio 6:13, 16",
+      "referencia_normalizada": "Deuteronomio 6:13,16",
+      "libro": "Deuteronomio",
+      "capitulo": 6,
+      "versiculos": [
+        13,
+        16
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Salmos 91:11",
+      "referencia_normalizada": "Salmos 91:11",
+      "libro": "Salmos",
+      "capitulo": 91,
+      "versiculos": [
+        11
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "2 Timoteo 2:9",
+      "referencia_normalizada": "2 Timoteo 2:9",
+      "libro": "2 Timoteo",
+      "capitulo": 2,
+      "versiculos": [
+        9
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "1 Samuel 3:1",
+      "referencia_normalizada": "1 Samuel 3:1",
+      "libro": "1 Samuel",
+      "capitulo": 3,
+      "versiculos": [
+        1
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "1 Samuel 3:7",
+      "referencia_normalizada": "1 Samuel 3:7",
+      "libro": "1 Samuel",
+      "capitulo": 3,
+      "versiculos": [
+        7
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Malaquías 1",
+      "referencia_normalizada": "Malaquías 1",
+      "libro": "Malaquías",
+      "capitulo": 1,
+      "versiculos": [],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Romanos 10:17",
+      "referencia_normalizada": "Romanos 10:17",
+      "libro": "Romanos",
+      "capitulo": 10,
+      "versiculos": [
+        17
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Hebreos 4:12",
+      "referencia_normalizada": "Hebreos 4:12",
+      "libro": "Hebreos",
+      "capitulo": 4,
+      "versiculos": [
+        12
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "1 Juan 2:5",
+      "referencia_normalizada": "1 Juan 2:5",
+      "libro": "1 Juan",
+      "capitulo": 2,
+      "versiculos": [
+        5
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Apocalipsis 1:9",
+      "referencia_normalizada": "Apocalipsis 1:9",
+      "libro": "Apocalipsis",
+      "capitulo": 1,
+      "versiculos": [
+        9
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    }
+  ],
+  "contenido": {
+    "introduccion": null,
+    "secciones": [],
+    "contenido_completo": "Cada uno de nosotros está en una gran batalla y al final tenemos que salir triunfantes. Cada día hay batalla, pero al final de ésta será el triunfo. El Triunfo no es a la mitad de la batalla, ni se debe salir corriendo, ni mucho menos enojados o en actitud de rebeldía. No es para llenarse de molestia y querer irse de la iglesia. Sino que deben haber cambios en nuestra vida, estar constantemente renovándonos y procurar el triunfo final en nuestro batallar. Por eso nos es necesario aprender. En esta guerra hay que aprender a usar la espada del Espíritu que es la Palabra de Dios.\n\nLucas 4:1-13 Jesús tuvo un encuentro con el diablo para tentarle y en todo momento le citó las Escrituras. Efesios 6:12 Nuestra lucha no es con el hermano sino contra el mismo Satanás. Si algo Jesús conocía era la Palabra. Todo lo que decimos lo debemos respaldar con la Palabra de Dios y no con nuestros argumentos. Es que hay mucho nuestro en nuestras vidas y por eso no somos capaces de citar la Palabra. Jesús citó Deuteronomio 8:3 porque Él si conocía la Palabra. A la vez que conocemos la Palabra vamos a saber lo que debemos hablar y hacer.\n\nDeuteronomio 6:13, 16 El diablo citó el Salmos 91:11 porque él también conoce la Palabra para contrarrestarla. Debemos conocer la Palabra porque de ahí salen también las falsas doctrinas. Jesús no cayó en la tentación porque a Él nada le llenaba los ojos como a nosotros los mortales. A Él no le iba a provocar todos aquellos imperios que le ofrecía Satanás, no era movido por nada ni por nadie porque Él conocía la Palabra. Así también nosotros si conocemos la Palabra estaremos estables y nadie nos moverá. Lo que salía de la boca de Jesús era una espada con la que cada vez que el diablo le hablaba Él le atacaba. Es con la Palabra de la única forma que vencemos contra toda asechanza del diablo, viendo las cosas como son. Dando golpes repetidos con la espada fue como Jesús venció a su adversario en el desierto. Cuan repetido des los golpes con la espada de la Palabra el diablo se tendrá que ir.\n\nJesús no tenía necesidad de demostrar el poder que había en Él, pues Jesús nos ganó con sangre y con amor no con la demostración de su poder. El diablo quiere saber quienes somos entonces démosle golpes con la Palabra. Si no leemos la Palabra no la vamos a conocer sino que caminaremos con algo que desconocemos. La Palabra nos es necesaria para poder dar golpes constantes cuando el diablo viene, esa es nuestra pelea. Jesús venció la muerte por una razón, nunca pecó. El no hubiera resucitado, nadie lo podía retener porque en Él no había pecado. Cuando tenemos la espada, ella hace un gran ruido. Cada vez que la mencionamos al que la escucha se le estremecen sus oídos y su corazón también. Aprendamos a leerla, vivirla y a vencer la tentación con ella.\n\n2 Timoteo 2:9 La Palabra de Dios no está presa, no se puede encerrar. Ella es viva y esa vida es Cristo. Como la Palabra es viva no puede estar presa, es para nosotros. ¡Cuánto hay que amarla! Somos responsables de usarla bien. Es para defendernos cuando el diablo viene y no es para herirnos el uno al otro. Conocer la Palabra es una ventaja porque nadie nos puede confundir. La palabra de Dios no está presa, no está cautiva por nadie, así que no tenemos por qué caer ni ser engañados en falsas doctrinas. La Palabra de Dios nadie la puede retener. Cuidémonos. Pablo estaba preso por llevar la Palabra, no por malhechor. El Espíritu Santo y la Palabra que es la espada llegaron a nuestra vida. Preocupémonos por leerla, amarla y atesorarla porque ella será la que nos defenderá. Cuando viene la tentación debemos citarla. Aprendamos a conocerla y nadie nos engañará. La Palabra no le pertenece a ningún mortal sino que es un regalo de Dios para que sepamos cómo defendernos. La Palabra es la misma siempre.\n\nI Samuel 3:1 En esos momentos la Palabra estaba escaseando porque nadie la leía. Cuando vamos a enseñar la Palabra, ella no es de gustar a todo el mundo; menos para los oídos que están dañados. I Samuel 3:7 Samuel todavía no había conocido a Jehová ni se le había revelado la Palabra porque en aquellos días la Palabra escaseaba. Nosotros no podemos escasear en la Palabra. Cuando no hay valientes la Palabra de Dios escasea. Cuando la Palabra de Dios escasea en nuestro conocimiento, mente y corazón todo el mundo nos lleva de aquí para allá. Cuando hay un pueblo falto de palabra no hay una espada y toda asechanza del diablo es muy peligrosa, pero cuando la tenemos no dejamos que el diablo nos engañe. Cuando un pueblo está falto de la Palabra hay iniquidad, pecado porque el que la conoce sabe lo que está bien y lo que está mal. 1 Samuel 3:13 No iban a ser borradas las culpas de los hijos de Elí porque él no los reprendió cuando habían blasfemado por desconocer la Palabra de Dios. A veces no nos atrevemos a estorbar y a reprender lo que está mal porque no hemos aprendido a amar la Palabra.\n\nRomanos 10:17 La fe viene por el oír la Palabra. Vamos a tener más fe y creer mientras leamos la Palabra. Mientras más la leemos vamos a movernos más en fe, movemos la mano de Dios, encontraremos el milagro y haremos bien para nuestras vidas. Es bueno escuchar con un corazón abierto, escuchar con disposición la verdad de Dios. Por eso la tenemos que atesorar en nuestro corazón. No sabemos lo que nos toca vivir mañana, pero mientras conservemos la Palabra no va a haber nada que nos separe de ese amor de Dios. Mientras más oigamos y leamos la Palabra sabremos cómo contrarrestar al diablo. En muchas ocasiones escuchar la verdad de parte de Dios duele, es fuerte, pero debemos abrir el corazón a ella para que nos defienda, nos cuide y nos sea revelada. Cuando estamos en la guerra y necesitamos ganar es por ella que llega lo que nos es necesario alcanzar.\n\nHebreos 4:12 La Palabra de Dios es viva, eficaz y cortante por eso el diablo no quiere que la escuchemos porque ésta nos deja desnudos y no hay cosa creada que no quede manifiesta ante ella; discierne y sabe lo que hay en nuestros pensamientos. Cuánto bien ella puede hacer en nuestras vidas. Hay pecado cuando no se conoce. Hay poder en ella. Busquemos la Palabra para nosotros y no para otros. Mientras la busquemos para nosotros será un bien. Cuando vivimos la Palabra entonces la podemos dar a otros. Cuando se conoce la Palabra el pueblo no peca.\n\n1 Juan 2:5 Por guardar la Palabra sabemos que estamos en el amor de Dios y que nos hemos perfeccionado. Si nos perfeccionamos en la Palabra el amor de Dios estará en nosotros y somos escogidos.\n\nApocalipsis 1:9 Juan estuvo en la cárcel por causa de la Palabra. Allí tuvo revelación divina. Dios sabía que como Juan amaba la Palabra la iba a cuidar, por tal razón le dio el Apocalipsis. Cuánto amor y cuidado tenía Juan de la Palabra de Dios; solamente le importaba el testimonio de Jesús. Su cárcel se transformó en una antesala del cielo, recibió la gloria y el juicio. Juan vio todo lo que iba a pasar. Distinto a Elí, Juan cuidó la Palabra de Dios por eso se le dio mucho. Elí no la cuidó por eso se le quitó todo. Juan cuidó la Palabra de Dios y se le dio mucho. Conservemos la Palabra de Dios y se nos será revelado todo lo que nos es necesario para triunfar. Amén.",
+    "contenido_renderizado": [
+      {
+        "tipo": "parrafo",
+        "texto": "Cada uno de nosotros está en una gran batalla y al final tenemos que salir triunfantes. Cada día hay batalla, pero al final de ésta será el triunfo. El Triunfo no es a la mitad de la batalla, ni se debe salir corriendo, ni mucho menos enojados o en actitud de rebeldía. No es para llenarse de molestia y querer irse de la iglesia. Sino que deben haber cambios en nuestra vida, estar constantemente renovándonos y procurar el triunfo final en nuestro batallar. Por eso nos es necesario aprender. En esta guerra hay que aprender a usar la espada del Espíritu que es la Palabra de Dios.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Lucas 4:1-13 Jesús tuvo un encuentro con el diablo para tentarle y en todo momento le citó las Escrituras. Efesios 6:12 Nuestra lucha no es con el hermano sino contra el mismo Satanás. Si algo Jesús conocía era la Palabra. Todo lo que decimos lo debemos respaldar con la Palabra de Dios y no con nuestros argumentos. Es que hay mucho nuestro en nuestras vidas y por eso no somos capaces de citar la Palabra. Jesús citó Deuteronomio 8:3 porque Él si conocía la Palabra. A la vez que conocemos la Palabra vamos a saber lo que debemos hablar y hacer.",
+        "referencias_inline": [
+          "Lucas 4:1-13",
+          "Efesios 6:12",
+          "Deuteronomio 8:3"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Deuteronomio 6:13, 16 El diablo citó el Salmos 91:11 porque él también conoce la Palabra para contrarrestarla. Debemos conocer la Palabra porque de ahí salen también las falsas doctrinas. Jesús no cayó en la tentación porque a Él nada le llenaba los ojos como a nosotros los mortales. A Él no le iba a provocar todos aquellos imperios que le ofrecía Satanás, no era movido por nada ni por nadie porque Él conocía la Palabra. Así también nosotros si conocemos la Palabra estaremos estables y nadie nos moverá. Lo que salía de la boca de Jesús era una espada con la que cada vez que el diablo le hablaba Él le atacaba. Es con la Palabra de la única forma que vencemos contra toda asechanza del diablo, viendo las cosas como son. Dando golpes repetidos con la espada fue como Jesús venció a su adversario en el desierto. Cuan repetido des los golpes con la espada de la Palabra el diablo se tendrá que ir.",
+        "referencias_inline": [
+          "Deuteronomio 6:13,16",
+          "Salmos 91:11"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Jesús no tenía necesidad de demostrar el poder que había en Él, pues Jesús nos ganó con sangre y con amor no con la demostración de su poder. El diablo quiere saber quienes somos entonces démosle golpes con la Palabra. Si no leemos la Palabra no la vamos a conocer sino que caminaremos con algo que desconocemos. La Palabra nos es necesaria para poder dar golpes constantes cuando el diablo viene, esa es nuestra pelea. Jesús venció la muerte por una razón, nunca pecó. El no hubiera resucitado, nadie lo podía retener porque en Él no había pecado. Cuando tenemos la espada, ella hace un gran ruido. Cada vez que la mencionamos al que la escucha se le estremecen sus oídos y su corazón también. Aprendamos a leerla, vivirla y a vencer la tentación con ella.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "2 Timoteo 2:9 La Palabra de Dios no está presa, no se puede encerrar. Ella es viva y esa vida es Cristo. Como la Palabra es viva no puede estar presa, es para nosotros. ¡Cuánto hay que amarla! Somos responsables de usarla bien. Es para defendernos cuando el diablo viene y no es para herirnos el uno al otro. Conocer la Palabra es una ventaja porque nadie nos puede confundir. La palabra de Dios no está presa, no está cautiva por nadie, así que no tenemos por qué caer ni ser engañados en falsas doctrinas. La Palabra de Dios nadie la puede retener. Cuidémonos. Pablo estaba preso por llevar la Palabra, no por malhechor. El Espíritu Santo y la Palabra que es la espada llegaron a nuestra vida. Preocupémonos por leerla, amarla y atesorarla porque ella será la que nos defenderá. Cuando viene la tentación debemos citarla. Aprendamos a conocerla y nadie nos engañará. La Palabra no le pertenece a ningún mortal sino que es un regalo de Dios para que sepamos cómo defendernos. La Palabra es la misma siempre.",
+        "referencias_inline": [
+          "2 Timoteo 2:9"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "I Samuel 3:1 En esos momentos la Palabra estaba escaseando porque nadie la leía. Cuando vamos a enseñar la Palabra, ella no es de gustar a todo el mundo; menos para los oídos que están dañados. I Samuel 3:7 Samuel todavía no había conocido a Jehová ni se le había revelado la Palabra porque en aquellos días la Palabra escaseaba. Nosotros no podemos escasear en la Palabra. Cuando no hay valientes la Palabra de Dios escasea. Cuando la Palabra de Dios escasea en nuestro conocimiento, mente y corazón todo el mundo nos lleva de aquí para allá. Cuando hay un pueblo falto de palabra no hay una espada y toda asechanza del diablo es muy peligrosa, pero cuando la tenemos no dejamos que el diablo nos engañe. Cuando un pueblo está falto de la Palabra hay iniquidad, pecado porque el que la conoce sabe lo que está bien y lo que está mal. 1 Samuel 3:13 No iban a ser borradas las culpas de los hijos de Elí porque él no los reprendió cuando habían blasfemado por desconocer la Palabra de Dios. A veces no nos atrevemos a estorbar y a reprender lo que está mal porque no hemos aprendido a amar la Palabra.",
+        "referencias_inline": [
+          "1 Samuel 3:1",
+          "1 Samuel 3:7",
+          "Malaquías 1"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Romanos 10:17 La fe viene por el oír la Palabra. Vamos a tener más fe y creer mientras leamos la Palabra. Mientras más la leemos vamos a movernos más en fe, movemos la mano de Dios, encontraremos el milagro y haremos bien para nuestras vidas. Es bueno escuchar con un corazón abierto, escuchar con disposición la verdad de Dios. Por eso la tenemos que atesorar en nuestro corazón. No sabemos lo que nos toca vivir mañana, pero mientras conservemos la Palabra no va a haber nada que nos separe de ese amor de Dios. Mientras más oigamos y leamos la Palabra sabremos cómo contrarrestar al diablo. En muchas ocasiones escuchar la verdad de parte de Dios duele, es fuerte, pero debemos abrir el corazón a ella para que nos defienda, nos cuide y nos sea revelada. Cuando estamos en la guerra y necesitamos ganar es por ella que llega lo que nos es necesario alcanzar.",
+        "referencias_inline": [
+          "Romanos 10:17"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Hebreos 4:12 La Palabra de Dios es viva, eficaz y cortante por eso el diablo no quiere que la escuchemos porque ésta nos deja desnudos y no hay cosa creada que no quede manifiesta ante ella; discierne y sabe lo que hay en nuestros pensamientos. Cuánto bien ella puede hacer en nuestras vidas. Hay pecado cuando no se conoce. Hay poder en ella. Busquemos la Palabra para nosotros y no para otros. Mientras la busquemos para nosotros será un bien. Cuando vivimos la Palabra entonces la podemos dar a otros. Cuando se conoce la Palabra el pueblo no peca.",
+        "referencias_inline": [
+          "Hebreos 4:12"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "1 Juan 2:5 Por guardar la Palabra sabemos que estamos en el amor de Dios y que nos hemos perfeccionado. Si nos perfeccionamos en la Palabra el amor de Dios estará en nosotros y somos escogidos.",
+        "referencias_inline": [
+          "1 Juan 2:5"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Apocalipsis 1:9 Juan estuvo en la cárcel por causa de la Palabra. Allí tuvo revelación divina. Dios sabía que como Juan amaba la Palabra la iba a cuidar, por tal razón le dio el Apocalipsis. Cuánto amor y cuidado tenía Juan de la Palabra de Dios; solamente le importaba el testimonio de Jesús. Su cárcel se transformó en una antesala del cielo, recibió la gloria y el juicio. Juan vio todo lo que iba a pasar. Distinto a Elí, Juan cuidó la Palabra de Dios por eso se le dio mucho. Elí no la cuidó por eso se le quitó todo. Juan cuidó la Palabra de Dios y se le dio mucho. Conservemos la Palabra de Dios y se nos será revelado todo lo que nos es necesario para triunfar. Amén.",
+        "referencias_inline": [
+          "Apocalipsis 1:9"
+        ]
+      }
+    ]
+  },
+  "busqueda": {
+    "texto_indexable": "me armare con la espada del espiritu la palabra efesios 6 17 palabra de Dios satanas verdad tentacion sabiduria espiritual juicio escrituras escogidos corazon testimonio cada uno de nosotros esta en una gran batalla y al final tenemos que salir triunfantes cada dia hay batalla pero al final de esta sera el triunfo el triunfo no es a la mitad de la batalla ni se debe salir corriendo ni mucho menos enojados o en actitud de rebeldia no es para llenarse de molestia y querer irse de la iglesia sino que deben haber cambios en nuestra vida estar constantemente renovandonos y procurar el triunfo final en nuestro batallar por eso nos es necesario aprender en esta guerra hay que aprender a usar la espada del espiritu que es la palabra de Dios lucas 4 1 13 Jesus tuvo un encuentro con el diablo para tentarle y en todo momento le cito las escrituras efesios 6 12 nuestra lucha no es con el hermano sino contra el mismo satanas si algo Jesus conocia era la palabra todo lo que decimos lo debemos respaldar con la palabra de Dios y no con nuestros argumentos es que hay mucho nuestro en nuestras vidas y por eso no somos capaces de citar la palabra Jesus cito deuteronomio 8 3 porque el si conocia la palabra a la vez que conocemos la palabra vamos a saber lo que debemos hablar y hacer deuteronomio 6 13 16 el diablo cito el salmo 91 11 porque el tambien conoce la palabra para contrarrestarla debemos conocer la palabra porque de ahi salen tambien las falsas doctrinas Jesus no cayo en la tentacion porque a el nada le llenaba los ojos como a nosotros los mortales a el no le iba a provocar todos aquellos imperios que le ofrecia satanas no era movido por nada ni por nadie porque el conocia la palabra asi tambien nosotros si conocemos la palabra estaremos estables y nadie nos movera lo que salia de la boca de Jesus era una espada con la que cada vez que el diablo le hablaba el le atacaba es con la palabra de la unica forma que vencemos contra toda asechanza del diablo viendo las cosas como son dando golpes repetidos con la espada fue como Jesus vencio a su adversario en el desierto cuan repetido des los golpes con la espada de la palabra el diablo se tendra que ir Jesus no tenia necesidad de demostrar el poder que habia en el pues Jesus nos gano con sangre y con amor no con la demostracion de su poder el diablo quiere saber quienes somos entonces demosle golpes con la palabra si no leemos la palabra no la vamos a conocer sino que caminaremos con algo que desconocemos la palabra nos es necesaria para poder dar golpes constantes cuando el diablo viene esa es nuestra pelea Jesus vencio la muerte por una razon nunca peco el no hubiera resucitado nadie lo podia retener porque en el no habia pecado cuando tenemos la espada ella hace un gran ruido cada vez que la mencionamos al que la escucha se le estremecen sus oidos y su corazon tambien aprendamos a leerla vivirla y a vencer la tentacion con ella 2 timoteo 2 9 la palabra de Dios no esta presa no se puede encerrar ella es viva y esa vida es cristo como la palabra es viva no puede estar presa es para nosotros cuanto hay que amarla somos responsables de usarla bien es para defendernos cuando el diablo viene y no es para herirnos el uno al otro conocer la palabra es una ventaja porque nadie nos puede confundir la palabra de Dios no esta presa no esta cautiva por nadie asi que no tenemos por que caer ni ser enganados en falsas doctrinas la palabra de Dios nadie la puede retener cuidemonos pablo estaba preso por llevar la palabra no por malhechor el espiritu santo y la palabra que es la espada llegaron a nuestra vida preocupemonos por leerla amarla y atesorarla porque ella sera la que nos defendera cuando viene la tentacion debemos citarla aprendamos a conocerla y nadie nos enganara la palabra no le pertenece a ningun mortal sino que es un regalo de Dios para que sepamos como defendernos la palabra es la misma siempre i samuel 3 1 en esos momentos la palabra estaba escaseando porque nadie la leia cuando vamos a ensenar la palabra ella no es de gustar a todo el mundo menos para los oidos que estan danados i samuel 3 7 samuel todavia no habia conocido a jehova ni se le habia revelado la palabra porque en aquellos dias la palabra escaseaba nosotros no podemos escasear en la palabra cuando no hay valientes la palabra de Dios escasea cuando la palabra de Dios escasea en nuestro conocimiento mente y corazon todo el mundo nos lleva de aqui para alla cuando hay un pueblo falto de palabra no hay una espada y toda asechanza del diablo es muy peligrosa pero cuando la tenemos no dejamos que el diablo nos engane cuando un pueblo esta falto de la palabra hay iniquidad pecado porque el que la conoce sabe lo que esta bien y lo que esta mal 1 samuel 3 13 no iban a ser borradas las culpas de los hijos de eli porque el no los reprendio cuando habian blasfemado por desconocer la palabra de Dios a veces no nos atrevemos a estorbar y a reprender lo que esta mal porque no hemos aprendido a amar la palabra romanos 10 17 la fe viene por el oir la palabra vamos a tener mas fe y creer mientras leamos la palabra mientras mas la leemos vamos a movernos mas en fe movemos la mano de Dios encontraremos el milagro y haremos bien para nuestras vidas es bueno escuchar con un corazon abierto escuchar con disposicion la verdad de Dios por eso la tenemos que atesorar en nuestro corazon no sabemos lo que nos toca vivir manana pero mientras conservemos la palabra no va a haber nada que nos separe de ese amor de Dios mientras mas oigamos y leamos la palabra sabremos como contrarrestar al diablo en muchas ocasiones escuchar la verdad de parte de Dios duele es fuerte pero debemos abrir el corazon a ella para que nos defienda nos cuide y nos sea revelada cuando estamos en la guerra y necesitamos ganar es por ella que llega lo que nos es necesario alcanzar hebreos 4 12 la palabra de Dios es viva eficaz y cortante por eso el diablo no quiere que la escuchemos porque esta nos deja desnudos y no hay cosa creada que no quede manifiesta ante ella discierne y sabe lo que hay en nuestros pensamientos cuanto bien ella puede hacer en nuestras vidas hay pecado cuando no se conoce hay poder en ella busquemos la palabra para nosotros y no para otros mientras la busquemos para nosotros sera un bien cuando vivimos la palabra entonces la podemos dar a otros cuando se conoce la palabra el pueblo no peca 1 juan 2 5 por guardar la palabra sabemos que estamos en el amor de Dios y que nos hemos perfeccionado si nos perfeccionamos en la palabra el amor de Dios estara en nosotros y somos escogidos apocalipsis 1 9 juan estuvo en la carcel por causa de la palabra alli tuvo revelacion divina Dios sabia que como juan amaba la palabra la iba a cuidar por tal razon le dio el apocalipsis cuanto amor y cuidado tenia juan de la palabra de Dios solamente le importaba el testimonio de Jesus su carcel se transformo en una antesala del cielo recibio la gloria y el juicio juan vio todo lo que iba a pasar distinto a eli juan cuido la palabra de Dios por eso se le dio mucho eli no la cuido por eso se le quito todo juan cuido la palabra de Dios y se le dio mucho conservemos la palabra de Dios y se nos sera revelado todo lo que nos es necesario para triunfar amen",
+    "alias_busqueda": [
+      "Me Armaré Con La Espada Del Espíritu: La Palabra",
+      "Efesios",
+      "Efesios 6",
+      "Efesios 6:17",
+      "juicio",
+      "escrituras",
+      "escogidos",
+      "corazón",
+      "Palabra de Dios",
+      "Satanás"
+    ]
+  },
+  "revision_manual": {
+    "requiere_revision": false,
+    "motivo": ""
+  },
+  "ui": {
+    "mostrar_credito_en_header": true,
+    "mostrar_numero_estudio": true,
+    "mostrar_fecha": true,
+    "mostrar_topicos": true,
+    "permitir_favorito": true,
+    "permitir_compartir": true
+  }
+}

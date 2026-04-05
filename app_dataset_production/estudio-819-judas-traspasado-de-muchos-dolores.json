@@ -1,0 +1,283 @@
+{
+  "id": "estudio-819-judas-traspasado-de-muchos-dolores",
+  "slug": "estudio-819-judas-traspasado-de-muchos-dolores",
+  "numero_estudio": 819,
+  "tipo_estudio": "Iglesia en las casas",
+  "ministerio": {
+    "iglesia": "Iglesia Cristiana Mega Zoe",
+    "pastora": "Pastora Edith Cruz",
+    "credito_corto": "Iglesia Cristiana Mega Zoe · Pastora Edith Cruz",
+    "credito_largo": "Contenido original de Iglesia Cristiana Mega Zoe, conservando el crédito ministerial correspondiente a la Pastora Edith Cruz."
+  },
+  "identidad_editorial": {
+    "idioma": "es",
+    "fuente_original": "documento_word",
+    "archivo_origen": "/Users/edwingadiel/Desktop/Estudios en Word/Estudio #819 Judas - traspasado de muchos dolores - Juan 17 12.docx",
+    "estado_revision": "procesado",
+    "version_schema": "1.0"
+  },
+  "encabezado": {
+    "titulo": "Judas: Traspasado De Muchos Dolores",
+    "subtitulo": null,
+    "cita_principal": "Juan 17:12",
+    "resumen_corto": "Judas: Traspasado De Muchos Dolores llama a perseverar en la oración y permanecer como discípulos de Jesús."
+  },
+  "fechas": {
+    "fecha_inicio": null,
+    "fecha_fin": null,
+    "fecha_texto_original": "",
+    "ano": null
+  },
+  "clasificacion_biblica": {
+    "libro_principal": "Juan",
+    "capitulo_principal": 17,
+    "versiculos_principales": [
+      12
+    ],
+    "referencia_principal_normalizada": "Juan 17:12",
+    "testamento_principal": "Nuevo Testamento"
+  },
+  "clasificacion_tematica": {
+    "topicos": [
+      "Oración",
+      "Discipulado",
+      "Sufrimiento",
+      "Liderazgo espiritual"
+    ],
+    "keywords": [
+      "voluntad de Dios",
+      "oración",
+      "arrepentimiento",
+      "perseverancia",
+      "escrituras"
+    ]
+  },
+  "referencias_biblicas": [
+    {
+      "referencia": "Juan 17:12",
+      "referencia_normalizada": "Juan 17:12",
+      "libro": "Juan",
+      "capitulo": 17,
+      "versiculos": [
+        12
+      ],
+      "tipo": "principal",
+      "clickeable": true
+    },
+    {
+      "referencia": "Mateo 26:14-16",
+      "referencia_normalizada": "Mateo 26:14-16",
+      "libro": "Mateo",
+      "capitulo": 26,
+      "versiculos": [
+        14,
+        15,
+        16
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Salmos 41:9",
+      "referencia_normalizada": "Salmos 41:9",
+      "libro": "Salmos",
+      "capitulo": 41,
+      "versiculos": [
+        9
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Juan 12:5, 6",
+      "referencia_normalizada": "Juan 12:5,6",
+      "libro": "Juan",
+      "capitulo": 12,
+      "versiculos": [
+        5,
+        6
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Proverbios 3:9",
+      "referencia_normalizada": "Proverbios 3:9",
+      "libro": "Proverbios",
+      "capitulo": 3,
+      "versiculos": [
+        9
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Éxodo 22:29",
+      "referencia_normalizada": "Éxodo 22:29",
+      "libro": "Éxodo",
+      "capitulo": 22,
+      "versiculos": [
+        29
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "1 Timoteo 6:10",
+      "referencia_normalizada": "1 Timoteo 6:10",
+      "libro": "1 Timoteo",
+      "capitulo": 6,
+      "versiculos": [
+        10
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Marcos 14:10",
+      "referencia_normalizada": "Marcos 14:10",
+      "libro": "Marcos",
+      "capitulo": 14,
+      "versiculos": [
+        10
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Lucas 22:47, 48",
+      "referencia_normalizada": "Lucas 22:47,48",
+      "libro": "Lucas",
+      "capitulo": 22,
+      "versiculos": [
+        47,
+        48
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Juan 12:6",
+      "referencia_normalizada": "Juan 12:6",
+      "libro": "Juan",
+      "capitulo": 12,
+      "versiculos": [
+        6
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Mateo 27:3, 4",
+      "referencia_normalizada": "Mateo 27:3,4",
+      "libro": "Mateo",
+      "capitulo": 27,
+      "versiculos": [
+        3,
+        4
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Hechos 1:18",
+      "referencia_normalizada": "Hechos 1:18",
+      "libro": "Hechos",
+      "capitulo": 1,
+      "versiculos": [
+        18
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    }
+  ],
+  "contenido": {
+    "introduccion": null,
+    "secciones": [],
+    "contenido_completo": "\"Cuando estaba con ellos en el mundo, yo los guardaba en tu nombre; a los que me diste, yo los guardé, y ninguno de ellos se perdió, sino el hijo de perdición, para que la Escritura se cumpliese.\" La señal de que Judas iba a PERDERSE fue el amor que le puso al dinero. Amó el dinero que le darían los líderes religiosos por entregarle a Jesús. Él era administrador de hacer la voluntad de Dios, pero escogió el PERDERSE por amar más al dinero que a Jesús. \"Ninguno de ellos se perdió\", dijo Jesús, \"sino el hijo de perdición\", es decir, Judas. Esto no significa que Judas fuese uno de los hombres dados al Hijo por el Padre ni que jamás fuese un verdadero creyente. La oración dice claramente y significa esto: \"Los que me diste he guardado y ninguno de ellos se perdió, pero el hijo de perdición se ha perdido para que se cumpliese la Escritura.\" El título \"el hijo de perdición\" significa que Judas fue consignado a ruina o a condenación eterna. Se expresa esto por escrito para dejar constancia formal y legal que registra que Judas no fue empujado a traicionar a Cristo para que fuese cumplida la profecía sino que él decidió por sí mismo traicionar al Salvador. Al actuar así se cumplieron las Escrituras.\n\nLas características de Judas fueron la codicia, hipocresía, traición, deshonestidad y remordimiento.\n\nCODICIA, la vemos en (Mateo 26:14-16 \"Entonces uno de los doce, que se llamaba Judas Iscariote, fue a los principales sacerdotes y les dijo: ¿Qué me queréis dar, y yo os lo entregaré? Y ellos le asignaron treinta piezas de plata. Y desde entonces buscaba oportunidad para entregarle.\"). Judas sabía que los principales sacerdotes eran los enemigos de Jesús. Caminó todos los días con Jesús y vio la gran guerra que le hacían a Jesús estos religiosos. Aquí no había inocencia de parte de Judas, había claro AMOR AL DINERO. ¿Qué vio Judas? ¿Qué pensó Judas? Había viajado con el Señor, había visto sus milagros, también había oído Su incomparable enseñanza y más que nada había sido testigo del milagro de ¡una vida sin pecado! Judas era uno a quien Jesús podía llamar: \"mi amigo íntimo…el que comía mi pan.\" (Salmos 41:9 \"Aun el hombre de mi paz, en quien yo confiaba, el que de mi pan comía, alzó contra mí el calcañar.\") ¡Ese tan cercano fue el que se levantó contra el Hijo de Dios! Los sacerdotes le pagaron allí mismo 30 piezas de plata, un menospreciable total equivalente a un mes de salario de un humilde jornalero (Trabajador del campo). Según ese precio que Judas recibió para traicionar al Maestro vemos que valoraba a Jesús en bien poco. Por codicioso llegó a un terrible acuerdo alguien que había recibido más que bondades de parte de Jesús.\n\nHIPOCRESÍA (Juan 12:5, 6 \"…dijo Judas Iscariote…, el que le había de entregar: ¿Por qué no fue este perfume vendido por trescientos denarios, y dado a los pobres? Pero dijo esto, no porque se cuidara de los pobres, sino porque era ladrón, y teniendo la bolsa, sustraía de lo que se echaba en ella.\") El que iba a entregar a su Señor no podía soportar ver emplear aquel costosísimo perfume de aquella manera. Dice en Prov. 3:9 \"Honra a Jehová con tus bienes y con las primicias de todos tus frutos.\" Y Dios advierte en Éxodo 22:29 que no demorarás para traerle al Señor esas primicias de tu cosecha, no las traigas cuando puedas, ni al mes, ni cuando creas, ni tampoco las tomes prestadas porque en eso habrá maldad escondida. También dice en I Timoteo 6:10 \"…porque raíz de todos los males es el amor al dinero, el cual codiciando algunos, se extraviaron de la fe, y fueron TRASPASADOS DE MUCHOS DOLORES.\" Los que codician las primicias, dinero y bienes tienen grandes dolores. La maldad conduce a grandes dolores. Judas no consideraba que Jesús valiese trescientos denarios. Él pensaba que eso se debía dar al que no tenía, era pura hipocresía. Parece imposible que alguien pudiese seguir a Cristo como discípulo durante tres años, ver todos sus milagros, oír todas sus enseñanzas, recibir repetidas bondades de su parte y ser considerado como el apóstol y luego al final resultar corrompido de corazón. Quizá de pocas cosas nos llegamos a dar cuenta y no nos damos cuenta de la magnitud de la caída del hombre. Juan conocía bien a Judas y añade que no decía eso porque amara a los pobres sino porque era un ladrón y codicioso. Judas tenía la bolsa y solía sustraer de la bolsa.\n\nTRAICIÓN (Marcos 14:10) Judas buscaba la oportunidad para entregar al Señor Jesús. Vino a los sacerdotes con la oferta de entrega y ellos aceptaron sobre el dinero que le darían. Fueron días, años que pasó Judas ajustando los detalles de la entrega. (Lucas 22:47, 48) Llegó el traidor con el grupo de los principales sacerdotes, ancianos y jefes de la guardia del templo para arrestar al Señor. Judas, el traidor debía señalar quién era Jesús besándole. Un beso a Jesús, esa fue la última acción de Judas hacia el Señor; tan grande infamia en aquel huerto. Traicionó a su Maestro no con un grito, ni con un golpe, ni con una puñalada, sino con un beso; un acto muy malo, sin honor, ni dignidad.\n\nDESHONESTO (Juan 12:6 \"…y teniendo la bolsa, sustraía de lo que se echaba en ella.\") Judas era ladrón, no tenía honestidad. No era auténtico, no era genuino. Era deshonesto, era falso. No se respetaba él como apóstol, no respetó al Señor como Dios.\n\nREMORDIMIENTO, pero fue lo peor como hombre. (Mateo 27:3, 4 \"Entonces Judas, el que le había entregado, viendo que era condenado, devolvió arrepentido las treinta piezas de plata a los principales sacerdotes y a los ancianos, diciendo: Yo he pecado entregando sangre inocente. Mas ellos dijeron: ¿Qué nos importa a nosotros? ¡Allá tú! Y arrojando las piezas de plata en el templo, salió, y fue y se ahorcó.\") No era un arrepentimiento según Dios que llevase a salvación. Era sangre inocente la que él había entregado. Se entristeció por las consecuencias que su crimen tenía para él mismo, pero no estaba dispuesto a reconocer a Jesucristo como Señor y Salvador. Hechos 1:18 \"Este, pues, con el salario de su iniquidad adquirió un campo y cayendo de cabeza se reventó por la mitad y todas sus entrañas se derramaron.\" Aquí se dice la razón de la venta del Señor: un campo, una parcela. Judas sabía que al Maestro lo amaban mucho, que él iba a quedar mal con el pueblo y se ahorcó. Así que aquella tierra se le llamó \"campo de sangre\".\n\nEl que hace el mal como lo hizo Judas de una manera escondida e hipócrita, con codicia, traición y deshonestidad, con remordimiento será traspasado de muchos dolores. Cuidemos nuestro corazón para ser siempre sinceros, desprendidos y dadivosos, honestos, fieles y cumplidores de nuestro deber ante NUESTRO AMADO Y GRANDIOSO SEÑOR Y SALVADOR. Amén.",
+    "contenido_renderizado": [
+      {
+        "tipo": "parrafo",
+        "texto": "\"Cuando estaba con ellos en el mundo, yo los guardaba en tu nombre; a los que me diste, yo los guardé, y ninguno de ellos se perdió, sino el hijo de perdición, para que la Escritura se cumpliese.\" La señal de que Judas iba a PERDERSE fue el amor que le puso al dinero. Amó el dinero que le darían los líderes religiosos por entregarle a Jesús. Él era administrador de hacer la voluntad de Dios, pero escogió el PERDERSE por amar más al dinero que a Jesús. \"Ninguno de ellos se perdió\", dijo Jesús, \"sino el hijo de perdición\", es decir, Judas. Esto no significa que Judas fuese uno de los hombres dados al Hijo por el Padre ni que jamás fuese un verdadero creyente. La oración dice claramente y significa esto: \"Los que me diste he guardado y ninguno de ellos se perdió, pero el hijo de perdición se ha perdido para que se cumpliese la Escritura.\" El título \"el hijo de perdición\" significa que Judas fue consignado a ruina o a condenación eterna. Se expresa esto por escrito para dejar constancia formal y legal que registra que Judas no fue empujado a traicionar a Cristo para que fuese cumplida la profecía sino que él decidió por sí mismo traicionar al Salvador. Al actuar así se cumplieron las Escrituras.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Las características de Judas fueron la codicia, hipocresía, traición, deshonestidad y remordimiento.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "CODICIA, la vemos en (Mateo 26:14-16 \"Entonces uno de los doce, que se llamaba Judas Iscariote, fue a los principales sacerdotes y les dijo: ¿Qué me queréis dar, y yo os lo entregaré? Y ellos le asignaron treinta piezas de plata. Y desde entonces buscaba oportunidad para entregarle.\"). Judas sabía que los principales sacerdotes eran los enemigos de Jesús. Caminó todos los días con Jesús y vio la gran guerra que le hacían a Jesús estos religiosos. Aquí no había inocencia de parte de Judas, había claro AMOR AL DINERO. ¿Qué vio Judas? ¿Qué pensó Judas? Había viajado con el Señor, había visto sus milagros, también había oído Su incomparable enseñanza y más que nada había sido testigo del milagro de ¡una vida sin pecado! Judas era uno a quien Jesús podía llamar: \"mi amigo íntimo…el que comía mi pan.\" (Salmos 41:9 \"Aun el hombre de mi paz, en quien yo confiaba, el que de mi pan comía, alzó contra mí el calcañar.\") ¡Ese tan cercano fue el que se levantó contra el Hijo de Dios! Los sacerdotes le pagaron allí mismo 30 piezas de plata, un menospreciable total equivalente a un mes de salario de un humilde jornalero (Trabajador del campo). Según ese precio que Judas recibió para traicionar al Maestro vemos que valoraba a Jesús en bien poco. Por codicioso llegó a un terrible acuerdo alguien que había recibido más que bondades de parte de Jesús.",
+        "referencias_inline": [
+          "Mateo 26:14-16",
+          "Salmos 41:9"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "HIPOCRESÍA (Juan 12:5, 6 \"…dijo Judas Iscariote…, el que le había de entregar: ¿Por qué no fue este perfume vendido por trescientos denarios, y dado a los pobres? Pero dijo esto, no porque se cuidara de los pobres, sino porque era ladrón, y teniendo la bolsa, sustraía de lo que se echaba en ella.\") El que iba a entregar a su Señor no podía soportar ver emplear aquel costosísimo perfume de aquella manera. Dice en Prov. 3:9 \"Honra a Jehová con tus bienes y con las primicias de todos tus frutos.\" Y Dios advierte en Éxodo 22:29 que no demorarás para traerle al Señor esas primicias de tu cosecha, no las traigas cuando puedas, ni al mes, ni cuando creas, ni tampoco las tomes prestadas porque en eso habrá maldad escondida. También dice en I Timoteo 6:10 \"…porque raíz de todos los males es el amor al dinero, el cual codiciando algunos, se extraviaron de la fe, y fueron TRASPASADOS DE MUCHOS DOLORES.\" Los que codician las primicias, dinero y bienes tienen grandes dolores. La maldad conduce a grandes dolores. Judas no consideraba que Jesús valiese trescientos denarios. Él pensaba que eso se debía dar al que no tenía, era pura hipocresía. Parece imposible que alguien pudiese seguir a Cristo como discípulo durante tres años, ver todos sus milagros, oír todas sus enseñanzas, recibir repetidas bondades de su parte y ser considerado como el apóstol y luego al final resultar corrompido de corazón. Quizá de pocas cosas nos llegamos a dar cuenta y no nos damos cuenta de la magnitud de la caída del hombre. Juan conocía bien a Judas y añade que no decía eso porque amara a los pobres sino porque era un ladrón y codicioso. Judas tenía la bolsa y solía sustraer de la bolsa.",
+        "referencias_inline": [
+          "Juan 12:5,6",
+          "Proverbios 3:9",
+          "Éxodo 22:29",
+          "1 Timoteo 6:10"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "TRAICIÓN (Marcos 14:10) Judas buscaba la oportunidad para entregar al Señor Jesús. Vino a los sacerdotes con la oferta de entrega y ellos aceptaron sobre el dinero que le darían. Fueron días, años que pasó Judas ajustando los detalles de la entrega. (Lucas 22:47, 48) Llegó el traidor con el grupo de los principales sacerdotes, ancianos y jefes de la guardia del templo para arrestar al Señor. Judas, el traidor debía señalar quién era Jesús besándole. Un beso a Jesús, esa fue la última acción de Judas hacia el Señor; tan grande infamia en aquel huerto. Traicionó a su Maestro no con un grito, ni con un golpe, ni con una puñalada, sino con un beso; un acto muy malo, sin honor, ni dignidad.",
+        "referencias_inline": [
+          "Marcos 14:10",
+          "Lucas 22:47,48"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "DESHONESTO (Juan 12:6 \"…y teniendo la bolsa, sustraía de lo que se echaba en ella.\") Judas era ladrón, no tenía honestidad. No era auténtico, no era genuino. Era deshonesto, era falso. No se respetaba él como apóstol, no respetó al Señor como Dios.",
+        "referencias_inline": [
+          "Juan 12:6"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "REMORDIMIENTO, pero fue lo peor como hombre. (Mateo 27:3, 4 \"Entonces Judas, el que le había entregado, viendo que era condenado, devolvió arrepentido las treinta piezas de plata a los principales sacerdotes y a los ancianos, diciendo: Yo he pecado entregando sangre inocente. Mas ellos dijeron: ¿Qué nos importa a nosotros? ¡Allá tú! Y arrojando las piezas de plata en el templo, salió, y fue y se ahorcó.\") No era un arrepentimiento según Dios que llevase a salvación. Era sangre inocente la que él había entregado. Se entristeció por las consecuencias que su crimen tenía para él mismo, pero no estaba dispuesto a reconocer a Jesucristo como Señor y Salvador. Hechos 1:18 \"Este, pues, con el salario de su iniquidad adquirió un campo y cayendo de cabeza se reventó por la mitad y todas sus entrañas se derramaron.\" Aquí se dice la razón de la venta del Señor: un campo, una parcela. Judas sabía que al Maestro lo amaban mucho, que él iba a quedar mal con el pueblo y se ahorcó. Así que aquella tierra se le llamó \"campo de sangre\".",
+        "referencias_inline": [
+          "Mateo 27:3,4",
+          "Hechos 1:18"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "El que hace el mal como lo hizo Judas de una manera escondida e hipócrita, con codicia, traición y deshonestidad, con remordimiento será traspasado de muchos dolores. Cuidemos nuestro corazón para ser siempre sinceros, desprendidos y dadivosos, honestos, fieles y cumplidores de nuestro deber ante NUESTRO AMADO Y GRANDIOSO SEÑOR Y SALVADOR. Amén.",
+        "referencias_inline": []
+      }
+    ]
+  },
+  "busqueda": {
+    "texto_indexable": "judas traspasado de muchos dolores juan 17 12 oracion discipulado sufrimiento liderazgo espiritual voluntad de Dios oracion arrepentimiento perseverancia escrituras cuando estaba con ellos en el mundo yo los guardaba en tu nombre a los que me diste yo los guarde y ninguno de ellos se perdio sino el hijo de perdicion para que la escritura se cumpliese la senal de que judas iba a perderse fue el amor que le puso al dinero amo el dinero que le darian los lideres religiosos por entregarle a Jesus el era administrador de hacer la voluntad de Dios pero escogio el perderse por amar mas al dinero que a Jesus ninguno de ellos se perdio dijo Jesus sino el hijo de perdicion es decir judas esto no significa que judas fuese uno de los hombres dados al hijo por el padre ni que jamas fuese un verdadero creyente la oracion dice claramente y significa esto los que me diste he guardado y ninguno de ellos se perdio pero el hijo de perdicion se ha perdido para que se cumpliese la escritura el titulo el hijo de perdicion significa que judas fue consignado a ruina o a condenacion eterna se expresa esto por escrito para dejar constancia formal y legal que registra que judas no fue empujado a traicionar a cristo para que fuese cumplida la profecia sino que el decidio por si mismo traicionar al salvador al actuar asi se cumplieron las escrituras las caracteristicas de judas fueron la codicia hipocresia traicion deshonestidad y remordimiento codicia la vemos en mateo 26 14 16 entonces uno de los doce que se llamaba judas iscariote fue a los principales sacerdotes y les dijo que me quereis dar y yo os lo entregare y ellos le asignaron treinta piezas de plata y desde entonces buscaba oportunidad para entregarle judas sabia que los principales sacerdotes eran los enemigos de Jesus camino todos los dias con Jesus y vio la gran guerra que le hacian a Jesus estos religiosos aqui no habia inocencia de parte de judas habia claro amor al dinero que vio judas que penso judas habia viajado con el senor habia visto sus milagros tambien habia oido su incomparable ensenanza y mas que nada habia sido testigo del milagro de una vida sin pecado judas era uno a quien Jesus podia llamar mi amigo intimo el que comia mi pan salmo 41 9 aun el hombre de mi paz en quien yo confiaba el que de mi pan comia alzo contra mi el calcanar ese tan cercano fue el que se levanto contra el hijo de Dios los sacerdotes le pagaron alli mismo 30 piezas de plata un menospreciable total equivalente a un mes de salario de un humilde jornalero trabajador del campo segun ese precio que judas recibio para traicionar al maestro vemos que valoraba a Jesus en bien poco por codicioso llego a un terrible acuerdo alguien que habia recibido mas que bondades de parte de Jesus hipocresia juan 12 5 6 dijo judas iscariote el que le habia de entregar por que no fue este perfume vendido por trescientos denarios y dado a los pobres pero dijo esto no porque se cuidara de los pobres sino porque era ladron y teniendo la bolsa sustraia de lo que se echaba en ella el que iba a entregar a su senor no podia soportar ver emplear aquel costosisimo perfume de aquella manera dice en prov 3 9 honra a jehova con tus bienes y con las primicias de todos tus frutos y Dios advierte en exodo 22 29 que no demoraras para traerle al senor esas primicias de tu cosecha no las traigas cuando puedas ni al mes ni cuando creas ni tampoco las tomes prestadas porque en eso habra maldad escondida tambien dice en i timoteo 6 10 porque raiz de todos los males es el amor al dinero el cual codiciando algunos se extraviaron de la fe y fueron traspasados de muchos dolores los que codician las primicias dinero y bienes tienen grandes dolores la maldad conduce a grandes dolores judas no consideraba que Jesus valiese trescientos denarios el pensaba que eso se debia dar al que no tenia era pura hipocresia parece imposible que alguien pudiese seguir a cristo como discipulo durante tres anos ver todos sus milagros oir todas sus ensenanzas recibir repetidas bondades de su parte y ser considerado como el apostol y luego al final resultar corrompido de corazon quiza de pocas cosas nos llegamos a dar cuenta y no nos damos cuenta de la magnitud de la caida del hombre juan conocia bien a judas y anade que no decia eso porque amara a los pobres sino porque era un ladron y codicioso judas tenia la bolsa y solia sustraer de la bolsa traicion marcos 14 10 judas buscaba la oportunidad para entregar al senor Jesus vino a los sacerdotes con la oferta de entrega y ellos aceptaron sobre el dinero que le darian fueron dias anos que paso judas ajustando los detalles de la entrega lucas 22 47 48 llego el traidor con el grupo de los principales sacerdotes ancianos y jefes de la guardia del templo para arrestar al senor judas el traidor debia senalar quien era Jesus besandole un beso a Jesus esa fue la ultima accion de judas hacia el senor tan grande infamia en aquel huerto traiciono a su maestro no con un grito ni con un golpe ni con una punalada sino con un beso un acto muy malo sin honor ni dignidad deshonesto juan 12 6 y teniendo la bolsa sustraia de lo que se echaba en ella judas era ladron no tenia honestidad no era autentico no era genuino era deshonesto era falso no se respetaba el como apostol no respeto al senor como Dios remordimiento pero fue lo peor como hombre mateo 27 3 4 entonces judas el que le habia entregado viendo que era condenado devolvio arrepentido las treinta piezas de plata a los principales sacerdotes y a los ancianos diciendo yo he pecado entregando sangre inocente mas ellos dijeron que nos importa a nosotros alla tu y arrojando las piezas de plata en el templo salio y fue y se ahorco no era un arrepentimiento segun Dios que llevase a salvacion era sangre inocente la que el habia entregado se entristecio por las consecuencias que su crimen tenia para el mismo pero no estaba dispuesto a reconocer a jesucristo como senor y salvador hechos 1 18 este pues con el salario de su iniquidad adquirio un campo y cayendo de cabeza se revento por la mitad y todas sus entranas se derramaron aqui se dice la razon de la venta del senor un campo una parcela judas sabia que al maestro lo amaban mucho que el iba a quedar mal con el pueblo y se ahorco asi que aquella tierra se le llamo campo de sangre el que hace el mal como lo hizo judas de una manera escondida e hipocrita con codicia traicion y deshonestidad con remordimiento sera traspasado de muchos dolores cuidemos nuestro corazon para ser siempre sinceros desprendidos y dadivosos honestos fieles y cumplidores de nuestro deber ante nuestro amado y grandioso senor y salvador amen",
+    "alias_busqueda": [
+      "Judas: Traspasado De Muchos Dolores",
+      "Juan",
+      "Juan 17",
+      "Juan 17:12",
+      "voluntad de Dios",
+      "oración",
+      "arrepentimiento",
+      "perseverancia",
+      "Discipulado"
+    ]
+  },
+  "revision_manual": {
+    "requiere_revision": false,
+    "motivo": ""
+  },
+  "ui": {
+    "mostrar_credito_en_header": true,
+    "mostrar_numero_estudio": true,
+    "mostrar_fecha": true,
+    "mostrar_topicos": true,
+    "permitir_favorito": true,
+    "permitir_compartir": true
+  }
+}

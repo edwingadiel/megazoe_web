@@ -1,0 +1,346 @@
+{
+  "id": "estudio-941-la-tranquilidad",
+  "slug": "estudio-941-la-tranquilidad",
+  "numero_estudio": 941,
+  "tipo_estudio": "Iglesia en las casas",
+  "ministerio": {
+    "iglesia": "Iglesia Cristiana Mega Zoe",
+    "pastora": "Pastora Edith Cruz",
+    "credito_corto": "Iglesia Cristiana Mega Zoe · Pastora Edith Cruz",
+    "credito_largo": "Contenido original de Iglesia Cristiana Mega Zoe, conservando el crédito ministerial correspondiente a la Pastora Edith Cruz."
+  },
+  "identidad_editorial": {
+    "idioma": "es",
+    "fuente_original": "documento_word",
+    "archivo_origen": "/Users/edwingadiel/Desktop/Estudios en Word/Estudio #941 La Tranquilidad - Amós 6 1-8.docx",
+    "estado_revision": "procesado",
+    "version_schema": "1.0"
+  },
+  "encabezado": {
+    "titulo": "La Tranquilidad",
+    "subtitulo": null,
+    "cita_principal": "Amós 6:1-8",
+    "resumen_corto": "La Tranquilidad llama a discernir la batalla espiritual y cuidar la vida del hogar delante de Dios."
+  },
+  "fechas": {
+    "fecha_inicio": null,
+    "fecha_fin": null,
+    "fecha_texto_original": "",
+    "ano": null
+  },
+  "clasificacion_biblica": {
+    "libro_principal": "Amós",
+    "capitulo_principal": 6,
+    "versiculos_principales": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "referencia_principal_normalizada": "Amós 6:1-8",
+    "testamento_principal": "Antiguo Testamento"
+  },
+  "clasificacion_tematica": {
+    "topicos": [
+      "Guerra espiritual",
+      "Familia",
+      "Sabiduría espiritual"
+    ],
+    "keywords": [
+      "voz de Dios",
+      "verdad",
+      "santidad",
+      "arrepentimiento",
+      "perseverancia"
+    ]
+  },
+  "referencias_biblicas": [
+    {
+      "referencia": "Amós 6:1-8",
+      "referencia_normalizada": "Amós 6:1-8",
+      "libro": "Amós",
+      "capitulo": 6,
+      "versiculos": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "tipo": "principal",
+      "clickeable": true
+    },
+    {
+      "referencia": "Amós 6:1",
+      "referencia_normalizada": "Amós 6:1",
+      "libro": "Amós",
+      "capitulo": 6,
+      "versiculos": [
+        1
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Salmos 123:4",
+      "referencia_normalizada": "Salmos 123:4",
+      "libro": "Salmos",
+      "capitulo": 123,
+      "versiculos": [
+        4
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Isaías 32:9",
+      "referencia_normalizada": "Isaías 32:9",
+      "libro": "Isaías",
+      "capitulo": 32,
+      "versiculos": [
+        9
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Isaías 32:10,11",
+      "referencia_normalizada": "Isaías 32:10,11",
+      "libro": "Isaías",
+      "capitulo": 32,
+      "versiculos": [
+        10,
+        11
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Mateo 22:5",
+      "referencia_normalizada": "Mateo 22:5",
+      "libro": "Mateo",
+      "capitulo": 22,
+      "versiculos": [
+        5
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Zacarías 13:6",
+      "referencia_normalizada": "Zacarías 13:6",
+      "libro": "Zacarías",
+      "capitulo": 13,
+      "versiculos": [
+        6
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Salmos 22:18",
+      "referencia_normalizada": "Salmos 22:18",
+      "libro": "Salmos",
+      "capitulo": 22,
+      "versiculos": [
+        18
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Isaías 32",
+      "referencia_normalizada": "Isaías 32",
+      "libro": "Isaías",
+      "capitulo": 32,
+      "versiculos": [],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Mateo 22:6,7",
+      "referencia_normalizada": "Mateo 22:6,7",
+      "libro": "Mateo",
+      "capitulo": 22,
+      "versiculos": [
+        6,
+        7
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Mateo 24:12",
+      "referencia_normalizada": "Mateo 24:12",
+      "libro": "Mateo",
+      "capitulo": 24,
+      "versiculos": [
+        12
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Lucas 18:8",
+      "referencia_normalizada": "Lucas 18:8",
+      "libro": "Lucas",
+      "capitulo": 18,
+      "versiculos": [
+        8
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    }
+  ],
+  "contenido": {
+    "introduccion": null,
+    "secciones": [],
+    "contenido_completo": "I- \"¡Ay de los reposados en Sion y de los confiados en el monte de Samaria, los notables y principales entre las naciones a los cuales acude la casa de Israel!\" Amós 6:1 Estos eran los nobles en Israel, eran tan eminentes en influencias que sus nombres eran famosos entre las naciones principales. Sion y Samaria, en Israel, eran ciudades consideradas las principales plazas fuertes entre las naciones gentiles. Estos hombres estaban en TRANQUILIDAD de una forma atrevida, carentes de moralidad. Ellos beben vino en tazones, no contentos con las tazas pequeñas, y ¡NO SE AFLIGEN POR EL QUEBRANTAMIENTO DE JOSÉ! (Vs. 6:6) El \"quebrantamiento de José\" es simbólico, pues se refiere a la calamidad nacional de Israel aquí comparada con José, el hijo de Jacob. En esto se deja ver que estos hombres seguían el ejemplo de impenitencia de sus antecesores, los otros 11 hijos de Jacob, que comían pan mientras su hermano José estaba en la cisterna y luego lo vendieron a los ismaelitas.\n\nII- Aquí se deja ver la desgraciada TRANQUILIDAD mientras se vive negligentemente con Dios no importándole el padecimiento de su pueblo.\n\nA- Viven TRANQUILOS bebiendo y fiestando, cuando hay tanto que padecer por el dolor y el quebranto de sus compañeros, los que son como ellos, el pueblo de Dios.\n\n1- Salmos 123:4 \"Hastiada está nuestra alma del escarnio de los que están en holgura y del menosprecio de los soberbios.\" El ímpetu del río arrastra todo lo que halla a su paso. Así rugen los enemigos de la Iglesia y no pueden ser detenidos por la fuerza humana. Contra esto nos es necesario valernos de la protección y ayuda de Dios.\n\n2- Tal es la Iglesia en el día de hoy comparada con sus enemigos; es igual que Israel en aquellos días del profeta Amós. Podemos ser comparados con aquellos que eran atacados por el poder del espíritu maligno. Somos como un pequeño arbusto que hace poco que creció y que no tiene arraigo, pero el enemigo es como un grande río que se sale de su cauce y con gran fuerza derriba todo lo que se le opone. Nosotros somos como una hoja marchita, pendiendo en la rama del árbol; y el río en su crecida es fuerte como el viento del norte que puede derribar los arboles de cuajo.\n\n3- ¿Cómo podremos resistir o defendernos con nuestro humano poder? ¿Cómo lo haremos, cuando son los mismos que están en la iglesia los que se levantan en contra de mi familia? ¿Cómo defendernos, cuando los mismos miembros de la iglesia son los que se levantan como enemigos de la obra del Señor?\n\n4- Eso sucedía en aquel tiempo de Amós y hoy día sucede igual.\n\nB- Vemos un caso similar en Isaías 32:9 \"Mujeres indolentes, levantaos, oíd mi voz; hijas confiadas, escuchad mi razón.\" Aquí se mencionan también a mujeres indolentes, que no se conmueven o afectan por lo que está sucediendo a su alrededor y con los suyos.\n\n1- No hacen cosas de bien debido a su pereza, a su TRANQUILIDAD. Nada les duele o afecta. Mujeres que poco se inquietaban por lo que sucedía y estaban viendo. Esto representaba que llegaba la ruina a la nación. Ellas vivían desenfrenadamente, sin ningún control.\n\n2- Isaías 32:10,11 \"De aquí a algo más de un año tendréis espanto, oh confiadas; porque la vendimia faltará, y la cosecha no vendrá. Temblad, oh indolentes; turbaos, oh confiadas…\" Se les predice la falta de alimento a causa de las devastaciones (desastre y destrucción) del enemigo, cuyo objeto era probablemente influir en ellas apelando a su calidad de madres de familia, acostumbradas hasta entonces a vivir en el lujo.\n\nC- Otro ejemplo está en Mateo 22:5 \"Mas ellos, sin hacer caso se fueron, uno a su labranza y otro a sus negocios…\"\n\n1- El asunto de lo que Jesús les hablaba era que los llamaba (como su pueblo) para las bodas con Él, pero no le hicieron caso. No prestaron atención a las mejores palabras que ellos iban a recibir en sus vidas. Vemos aquí también el rechazamiento, ya había sido predicho por los profetas sobre Jesús (Zacarías 13:6, Salmos 22:18). Ahora, para ellos era la fiesta, Él les invita y lo triste fue el rechazo por la apatía, por la TRANQUILIDAD. Es igual a lo de aquellas mujeres de las que hablaba Isaías 32.\n\n2- Mateo 22:6,7 \"…y otros, tomando a los siervos, los afrentaron y los mataron. Al oírlo el rey, se enojó; y enviando sus ejércitos destruyó a aquellos homicidas y quemó su ciudad.\" Todo rechazo a la voz de Dios se hace terrible para las vidas. La destrucción de Jerusalén por los ejércitos de Roma fue después de esto en el año 70 d.C. El templo fue saqueado y quemado y la ciudad destruida, de tal manera que se hizo pasar por toda ella un arado. Un terrible desastre había acontecido a los que se negaron a reconocer al Hijo de Dios cuando vino. Les aconteció el mal a ellos y a todos los suyos.\n\nD- Mateo 24:12 \"…y por haberse multiplicado la maldad, el amor de muchos se enfriará.\"\n\n1- No se sabe a quién exactamente le saldrá la maldad. Las palabras de cualquier persona pueden ser dulces, pero no ser ciertas. Sabemos del crecimiento y de la impiedad y frialdad del mundo.\n\n2- El amor a Dios y al prójimo se asientan en una fe viva. Pero, Jesús dice en Lucas 18:8 \"Pero cuando venga el Hijo del Hombre, ¿hallará fe en la tierra?\" Mediante esta pregunta el Señor nos deja ver que la fe escaseará en los días que preceden a su segunda venida. Solo los verdaderos seguidores de Cristo pueden aguantar la prueba.\n\n3- Sepamos que la tranquilidad nos lleva a condenar a los demás.\n\n4- Estemos alerta, cuidándonos de lo que pensamos, hablamos y hacemos. Laboremos, sirvamos como Jesús lo hizo. Seamos fieles a Dios y obedientes, conscientes de lo que sucede a nuestro alrededor y conscientes del trato de Dios con nosotros mismos y con su pueblo. TRANQUILOS no podemos estar. Amén.",
+    "contenido_renderizado": [
+      {
+        "tipo": "parrafo",
+        "texto": "I- \"¡Ay de los reposados en Sion y de los confiados en el monte de Samaria, los notables y principales entre las naciones a los cuales acude la casa de Israel!\" Amós 6:1 Estos eran los nobles en Israel, eran tan eminentes en influencias que sus nombres eran famosos entre las naciones principales. Sion y Samaria, en Israel, eran ciudades consideradas las principales plazas fuertes entre las naciones gentiles. Estos hombres estaban en TRANQUILIDAD de una forma atrevida, carentes de moralidad. Ellos beben vino en tazones, no contentos con las tazas pequeñas, y ¡NO SE AFLIGEN POR EL QUEBRANTAMIENTO DE JOSÉ! (Vs. 6:6) El \"quebrantamiento de José\" es simbólico, pues se refiere a la calamidad nacional de Israel aquí comparada con José, el hijo de Jacob. En esto se deja ver que estos hombres seguían el ejemplo de impenitencia de sus antecesores, los otros 11 hijos de Jacob, que comían pan mientras su hermano José estaba en la cisterna y luego lo vendieron a los ismaelitas.",
+        "referencias_inline": [
+          "Amós 6:1"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "II- Aquí se deja ver la desgraciada TRANQUILIDAD mientras se vive negligentemente con Dios no importándole el padecimiento de su pueblo.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "A- Viven TRANQUILOS bebiendo y fiestando, cuando hay tanto que padecer por el dolor y el quebranto de sus compañeros, los que son como ellos, el pueblo de Dios.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "1- Salmos 123:4 \"Hastiada está nuestra alma del escarnio de los que están en holgura y del menosprecio de los soberbios.\" El ímpetu del río arrastra todo lo que halla a su paso. Así rugen los enemigos de la Iglesia y no pueden ser detenidos por la fuerza humana. Contra esto nos es necesario valernos de la protección y ayuda de Dios.",
+        "referencias_inline": [
+          "Salmos 123:4"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "2- Tal es la Iglesia en el día de hoy comparada con sus enemigos; es igual que Israel en aquellos días del profeta Amós. Podemos ser comparados con aquellos que eran atacados por el poder del espíritu maligno. Somos como un pequeño arbusto que hace poco que creció y que no tiene arraigo, pero el enemigo es como un grande río que se sale de su cauce y con gran fuerza derriba todo lo que se le opone. Nosotros somos como una hoja marchita, pendiendo en la rama del árbol; y el río en su crecida es fuerte como el viento del norte que puede derribar los arboles de cuajo.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "3- ¿Cómo podremos resistir o defendernos con nuestro humano poder? ¿Cómo lo haremos, cuando son los mismos que están en la iglesia los que se levantan en contra de mi familia? ¿Cómo defendernos, cuando los mismos miembros de la iglesia son los que se levantan como enemigos de la obra del Señor?",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "4- Eso sucedía en aquel tiempo de Amós y hoy día sucede igual.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "B- Vemos un caso similar en Isaías 32:9 \"Mujeres indolentes, levantaos, oíd mi voz; hijas confiadas, escuchad mi razón.\" Aquí se mencionan también a mujeres indolentes, que no se conmueven o afectan por lo que está sucediendo a su alrededor y con los suyos.",
+        "referencias_inline": [
+          "Isaías 32:9"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "1- No hacen cosas de bien debido a su pereza, a su TRANQUILIDAD. Nada les duele o afecta. Mujeres que poco se inquietaban por lo que sucedía y estaban viendo. Esto representaba que llegaba la ruina a la nación. Ellas vivían desenfrenadamente, sin ningún control.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "2- Isaías 32:10,11 \"De aquí a algo más de un año tendréis espanto, oh confiadas; porque la vendimia faltará, y la cosecha no vendrá. Temblad, oh indolentes; turbaos, oh confiadas…\" Se les predice la falta de alimento a causa de las devastaciones (desastre y destrucción) del enemigo, cuyo objeto era probablemente influir en ellas apelando a su calidad de madres de familia, acostumbradas hasta entonces a vivir en el lujo.",
+        "referencias_inline": [
+          "Isaías 32:10,11"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "C- Otro ejemplo está en Mateo 22:5 \"Mas ellos, sin hacer caso se fueron, uno a su labranza y otro a sus negocios…\"",
+        "referencias_inline": [
+          "Mateo 22:5"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "1- El asunto de lo que Jesús les hablaba era que los llamaba (como su pueblo) para las bodas con Él, pero no le hicieron caso. No prestaron atención a las mejores palabras que ellos iban a recibir en sus vidas. Vemos aquí también el rechazamiento, ya había sido predicho por los profetas sobre Jesús (Zacarías 13:6, Salmos 22:18). Ahora, para ellos era la fiesta, Él les invita y lo triste fue el rechazo por la apatía, por la TRANQUILIDAD. Es igual a lo de aquellas mujeres de las que hablaba Isaías 32.",
+        "referencias_inline": [
+          "Zacarías 13:6",
+          "Salmos 22:18",
+          "Isaías 32"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "2- Mateo 22:6,7 \"…y otros, tomando a los siervos, los afrentaron y los mataron. Al oírlo el rey, se enojó; y enviando sus ejércitos destruyó a aquellos homicidas y quemó su ciudad.\" Todo rechazo a la voz de Dios se hace terrible para las vidas. La destrucción de Jerusalén por los ejércitos de Roma fue después de esto en el año 70 d.C. El templo fue saqueado y quemado y la ciudad destruida, de tal manera que se hizo pasar por toda ella un arado. Un terrible desastre había acontecido a los que se negaron a reconocer al Hijo de Dios cuando vino. Les aconteció el mal a ellos y a todos los suyos.",
+        "referencias_inline": [
+          "Mateo 22:6,7"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "D- Mateo 24:12 \"…y por haberse multiplicado la maldad, el amor de muchos se enfriará.\"",
+        "referencias_inline": [
+          "Mateo 24:12"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "1- No se sabe a quién exactamente le saldrá la maldad. Las palabras de cualquier persona pueden ser dulces, pero no ser ciertas. Sabemos del crecimiento y de la impiedad y frialdad del mundo.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "2- El amor a Dios y al prójimo se asientan en una fe viva. Pero, Jesús dice en Lucas 18:8 \"Pero cuando venga el Hijo del Hombre, ¿hallará fe en la tierra?\" Mediante esta pregunta el Señor nos deja ver que la fe escaseará en los días que preceden a su segunda venida. Solo los verdaderos seguidores de Cristo pueden aguantar la prueba.",
+        "referencias_inline": [
+          "Lucas 18:8"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "3- Sepamos que la tranquilidad nos lleva a condenar a los demás.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "4- Estemos alerta, cuidándonos de lo que pensamos, hablamos y hacemos. Laboremos, sirvamos como Jesús lo hizo. Seamos fieles a Dios y obedientes, conscientes de lo que sucede a nuestro alrededor y conscientes del trato de Dios con nosotros mismos y con su pueblo. TRANQUILOS no podemos estar. Amén.",
+        "referencias_inline": []
+      }
+    ]
+  },
+  "busqueda": {
+    "texto_indexable": "la tranquilidad amos 6 1 8 guerra espiritual familia sabiduria espiritual voz de Dios verdad santidad arrepentimiento perseverancia i ay de los reposados en sion y de los confiados en el monte de samaria los notables y principales entre las naciones a los cuales acude la casa de israel amos 6 1 estos eran los nobles en israel eran tan eminentes en influencias que sus nombres eran famosos entre las naciones principales sion y samaria en israel eran ciudades consideradas las principales plazas fuertes entre las naciones gentiles estos hombres estaban en tranquilidad de una forma atrevida carentes de moralidad ellos beben vino en tazones no contentos con las tazas pequenas y no se afligen por el quebrantamiento de jose vs 6 6 el quebrantamiento de jose es simbolico pues se refiere a la calamidad nacional de israel aqui comparada con jose el hijo de jacob en esto se deja ver que estos hombres seguian el ejemplo de impenitencia de sus antecesores los otros 11 hijos de jacob que comian pan mientras su hermano jose estaba en la cisterna y luego lo vendieron a los ismaelitas ii aqui se deja ver la desgraciada tranquilidad mientras se vive negligentemente con Dios no importandole el padecimiento de su pueblo a viven tranquilos bebiendo y fiestando cuando hay tanto que padecer por el dolor y el quebranto de sus companeros los que son como ellos el pueblo de Dios 1 salmo 123 4 hastiada esta nuestra alma del escarnio de los que estan en holgura y del menosprecio de los soberbios el impetu del rio arrastra todo lo que halla a su paso asi rugen los enemigos de la iglesia y no pueden ser detenidos por la fuerza humana contra esto nos es necesario valernos de la proteccion y ayuda de Dios 2 tal es la iglesia en el dia de hoy comparada con sus enemigos es igual que israel en aquellos dias del profeta amos podemos ser comparados con aquellos que eran atacados por el poder del espiritu maligno somos como un pequeno arbusto que hace poco que crecio y que no tiene arraigo pero el enemigo es como un grande rio que se sale de su cauce y con gran fuerza derriba todo lo que se le opone nosotros somos como una hoja marchita pendiendo en la rama del arbol y el rio en su crecida es fuerte como el viento del norte que puede derribar los arboles de cuajo 3 como podremos resistir o defendernos con nuestro humano poder como lo haremos cuando son los mismos que estan en la iglesia los que se levantan en contra de mi familia como defendernos cuando los mismos miembros de la iglesia son los que se levantan como enemigos de la obra del senor 4 eso sucedia en aquel tiempo de amos y hoy dia sucede igual b vemos un caso similar en isaias 32 9 mujeres indolentes levantaos oid mi voz hijas confiadas escuchad mi razon aqui se mencionan tambien a mujeres indolentes que no se conmueven o afectan por lo que esta sucediendo a su alrededor y con los suyos 1 no hacen cosas de bien debido a su pereza a su tranquilidad nada les duele o afecta mujeres que poco se inquietaban por lo que sucedia y estaban viendo esto representaba que llegaba la ruina a la nacion ellas vivian desenfrenadamente sin ningun control 2 isaias 32 10 11 de aqui a algo mas de un ano tendreis espanto oh confiadas porque la vendimia faltara y la cosecha no vendra temblad oh indolentes turbaos oh confiadas se les predice la falta de alimento a causa de las devastaciones desastre y destruccion del enemigo cuyo objeto era probablemente influir en ellas apelando a su calidad de madres de familia acostumbradas hasta entonces a vivir en el lujo c otro ejemplo esta en mateo 22 5 mas ellos sin hacer caso se fueron uno a su labranza y otro a sus negocios 1 el asunto de lo que Jesus les hablaba era que los llamaba como su pueblo para las bodas con el pero no le hicieron caso no prestaron atencion a las mejores palabras que ellos iban a recibir en sus vidas vemos aqui tambien el rechazamiento ya habia sido predicho por los profetas sobre Jesus zacarias 13 6 salmos 22 18 ahora para ellos era la fiesta el les invita y lo triste fue el rechazo por la apatia por la tranquilidad es igual a lo de aquellas mujeres de las que hablaba isaias 32 2 mateo 22 6 7 y otros tomando a los siervos los afrentaron y los mataron al oirlo el rey se enojo y enviando sus ejercitos destruyo a aquellos homicidas y quemo su ciudad todo rechazo a la voz de Dios se hace terrible para las vidas la destruccion de jerusalen por los ejercitos de roma fue despues de esto en el ano 70 d c el templo fue saqueado y quemado y la ciudad destruida de tal manera que se hizo pasar por toda ella un arado un terrible desastre habia acontecido a los que se negaron a reconocer al hijo de Dios cuando vino les acontecio el mal a ellos y a todos los suyos d mateo 24 12 y por haberse multiplicado la maldad el amor de muchos se enfriara 1 no se sabe a quien exactamente le saldra la maldad las palabras de cualquier persona pueden ser dulces pero no ser ciertas sabemos del crecimiento y de la impiedad y frialdad del mundo 2 el amor a Dios y al projimo se asientan en una fe viva pero Jesus dice en lucas 18 8 pero cuando venga el hijo del hombre hallara fe en la tierra mediante esta pregunta el senor nos deja ver que la fe escaseara en los dias que preceden a su segunda venida solo los verdaderos seguidores de cristo pueden aguantar la prueba 3 sepamos que la tranquilidad nos lleva a condenar a los demas 4 estemos alerta cuidandonos de lo que pensamos hablamos y hacemos laboremos sirvamos como Jesus lo hizo seamos fieles a Dios y obedientes conscientes de lo que sucede a nuestro alrededor y conscientes del trato de Dios con nosotros mismos y con su pueblo tranquilos no podemos estar amen",
+    "alias_busqueda": [
+      "La Tranquilidad",
+      "Amós",
+      "Amós 6",
+      "Amós 6:1-8",
+      "voz de Dios",
+      "verdad",
+      "santidad",
+      "arrepentimiento",
+      "Guerra espiritual",
+      "Familia"
+    ]
+  },
+  "revision_manual": {
+    "requiere_revision": false,
+    "motivo": ""
+  },
+  "ui": {
+    "mostrar_credito_en_header": true,
+    "mostrar_numero_estudio": true,
+    "mostrar_fecha": true,
+    "mostrar_topicos": true,
+    "permitir_favorito": true,
+    "permitir_compartir": true
+  }
+}

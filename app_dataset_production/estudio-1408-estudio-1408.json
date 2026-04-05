@@ -1,0 +1,432 @@
+{
+  "id": "estudio-1408-estudio-1408",
+  "slug": "estudio-1408-estudio-1408",
+  "numero_estudio": 1408,
+  "tipo_estudio": "Iglesia en las casas",
+  "ministerio": {
+    "iglesia": "Iglesia Cristiana Mega Zoe",
+    "pastora": "Pastora Edith Cruz",
+    "credito_corto": "Iglesia Cristiana Mega Zoe · Pastora Edith Cruz",
+    "credito_largo": "Contenido original de Iglesia Cristiana Mega Zoe, conservando el crédito ministerial correspondiente a la Pastora Edith Cruz."
+  },
+  "identidad_editorial": {
+    "idioma": "es",
+    "fuente_original": "documento_word",
+    "archivo_origen": "/Users/edwingadiel/Desktop/Estudios en Word/Estudio #1408 Obediencia incompleta - 1 Samuel 15 19-26.docx",
+    "estado_revision": "procesado",
+    "version_schema": "1.0"
+  },
+  "encabezado": {
+    "titulo": "Obediencia Incompleta",
+    "subtitulo": null,
+    "cita_principal": "1 Samuel 15:19-26",
+    "resumen_corto": "Obediencia Incompleta enseña a recibir y extender el perdón y atender la Palabra de Dios."
+  },
+  "fechas": {
+    "fecha_inicio": null,
+    "fecha_fin": null,
+    "fecha_texto_original": "",
+    "ano": null
+  },
+  "clasificacion_biblica": {
+    "libro_principal": "1 Samuel",
+    "capitulo_principal": 15,
+    "versiculos_principales": [
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26
+    ],
+    "referencia_principal_normalizada": "1 Samuel 15:19-26",
+    "testamento_principal": "Antiguo Testamento"
+  },
+  "clasificacion_tematica": {
+    "topicos": [
+      "Obediencia",
+      "Perdón",
+      "Palabra de Dios"
+    ],
+    "keywords": [
+      "obediencia incompleta",
+      "secreto",
+      "prudencia",
+      "obediencia",
+      "fuego",
+      "corazón"
+    ]
+  },
+  "referencias_biblicas": [
+    {
+      "referencia": "1 Samuel 15:19-26",
+      "referencia_normalizada": "1 Samuel 15:19-26",
+      "libro": "1 Samuel",
+      "capitulo": 15,
+      "versiculos": [
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26
+      ],
+      "tipo": "principal",
+      "clickeable": true
+    },
+    {
+      "referencia": "Deuteronomio 25:17-19",
+      "referencia_normalizada": "Deuteronomio 25:17-19",
+      "libro": "Deuteronomio",
+      "capitulo": 25,
+      "versiculos": [
+        17,
+        18,
+        19
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Éxodo 17:14-16",
+      "referencia_normalizada": "Éxodo 17:14-16",
+      "libro": "Éxodo",
+      "capitulo": 17,
+      "versiculos": [
+        14,
+        15,
+        16
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Números 24:20",
+      "referencia_normalizada": "Números 24:20",
+      "libro": "Números",
+      "capitulo": 24,
+      "versiculos": [
+        20
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "1 Samuel 15:13-15",
+      "referencia_normalizada": "1 Samuel 15:13-15",
+      "libro": "1 Samuel",
+      "capitulo": 15,
+      "versiculos": [
+        13,
+        14,
+        15
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Mateo 26:14-16",
+      "referencia_normalizada": "Mateo 26:14-16",
+      "libro": "Mateo",
+      "capitulo": 26,
+      "versiculos": [
+        14,
+        15,
+        16
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Hechos 1:17-18",
+      "referencia_normalizada": "Hechos 1:17-18",
+      "libro": "Hechos",
+      "capitulo": 1,
+      "versiculos": [
+        17,
+        18
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Salmos 41:7, 8, 9",
+      "referencia_normalizada": "Salmos 41:7,8,9",
+      "libro": "Salmos",
+      "capitulo": 41,
+      "versiculos": [
+        7,
+        8,
+        9
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "2 Samuel 16:20",
+      "referencia_normalizada": "2 Samuel 16:20",
+      "libro": "2 Samuel",
+      "capitulo": 16,
+      "versiculos": [
+        20
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "2 Samuel 17:23",
+      "referencia_normalizada": "2 Samuel 17:23",
+      "libro": "2 Samuel",
+      "capitulo": 17,
+      "versiculos": [
+        23
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    }
+  ],
+  "contenido": {
+    "introduccion": null,
+    "secciones": [],
+    "contenido_completo": "Saúl se deslizaba hacia abajo y su caída iba acelerándose. Fuera lo que fuera cuando lo tenía que hacer, \"nunca obedecía completamente\". Pues son muchos los que hacen esto: tienen sus propias opiniones o sugerencias (meter debajo, propone, insinúa o sugiere), en Dios esto no es existente, porque Él es el guía de lo que Él quiere hacer a través de Su instrumento, nunca, nunca son dos instrumentos; ni familiaridad, ni amigos, ni los llamados líderes.\n\nHabía que destruir a los Amalecitas (Deuteronomio 25:17-19).\n\nLa palabra de Dios no había cambiado.\n\nLa paciencia de Dios había soportado bastantes años al pueblo de Amalec (Éxodo 17:14-16; Números 24:20).\n\nA la ciudad de Amalec; antes de atacar, advirtió a los ceneos que se escaparan, habían mostrado misericordia a Israel.\n\nNo era que Saúl no los quisiera ejecutar, ni la venganza del Señor sobre un pueblo malvado y los derrotó por completo a los amalecitas y todos murieron a filo de espada.\n\nCon excepción del rey y todo lo bueno de los despojos.\n\nDesde lejos, Jehová informó a Samuel de la desobediencia de Saúl.\n\nEsto perturbó (molestamente, turbar) a Samuel en gran manera e hizo que orara toda la noche.\n\nPor la \"manera\" quedaba claro lo que tenía que hacer.\n\nSaúl (1 Samuel 15:13-15) le presenta a Samuel todo perfecto, porque la obediencia incompleta, no agrada a Dios.\n\nDe camino a Gilgal, Saúl edificó un monumento para celebrar \"su victoria\", no la de Dios.\n\nPero Samuel vio las cosas de otra manera y confrontó la desobediencia de Saúl.\n\nSaúl como cualquier desobediente nunca le faltaban \"excusas\" y \"explicaciones\" para justificarse (defenderse) pero el ruido de su desobediencia llegó hasta los oídos del profeta; (20) Antes bien he obedecido la voz de Jehová y fui a la misión que Jehová me envió, tengo al rey, pero destruí a todos los demás.\n\nJehová se complace que Le obedezcan (22) a \"las palabras de Jehová; el obedecer es mejor que los sacrificios, \"y el prestar atención que la grosura de los carneros\".\n\nJehová se complace (satisfacción, agrado, agradar) con que seas obediente y es lo menos que le agrada al humano.\n\n(Mateo 26:14-16) dijo Judas: ¿Qué me queréis dar y yo os lo entregaré?\n\nJudas, entrega a Jesús, en el Huerto de los Olivos, con un beso lo entrega.\n\nLos sacerdotes jefes recogieron aquel dinero y dijeron: \"Este dinero está manchado de sangre, no podemos ponerlo en el cofre de las ofrendas\".\n\n(Hechos 1:17-18) Era contado con nosotros.\n\nEra escogido para obediencia al Padre Dios.\n\n(18) Este pues, con el salario de su iniquidad (perversidad, maldad) adquirió un campo; \"Campo de sangre.\"\n\n(Salmos 41:7, 8, 9) ¡Qué fácilmente se unen los perros para salir a cazar al ciervo!\n\nObservé la unanimidad de los inicuos: todos.\n\nOjalá que nosotros estuviéramos unidos en la santa labor solo la mitad de lo que están ellos y nuestra prudencia fuera la mitad de su astucia.\n\n(9) Aún el hombre de mi paz; Hasta mi amigo íntimo.\n\nPara David, este era Ahitofel (2 Samuel 16:20) era su consejero; del rey.\n\nAbsalón, inicia su revuelta, le da la espalda a David y él abraza la causa de Absalón.\n\nTal vez, Ahitofel decide tomar su vida y por su alta traición desmaya su alta fidelidad a David, como lo hizo Judas al Maestro (2 Samuel 17:23).\n\nEste era Ahitofel, que fue para \"David lo que era Iscariote para el Señor\".\n\nJudas era un apóstol admitido (bien recibido, estimado) a la intimidad del Gran Maestro, al corriente de Su pensamiento secreto, \"como si dijéramos, \"permitiéndosele leer el mismo corazón de Jesús\".\n\nEl beso del traidor hirió el corazón del Señor como el clavo hirió Su mano. C.H.S.\n\nLo triste y lamentable era que Judas, nunca, nunca pero nunca jamás podrá tener el lugar que se había preparado para él porque tal dinero, por mucho que fuera se hizo nada.\n\nDe lo peor para él no había perdón, sino un fuego consumidor.\n\nJesús fue a la Cruz para perdón, pero para Judas no había espacio para el perdón.\n\nJesús, no había muerto para perdonar el pecado de Judas, para él no había.\n\nLos sufrimientos de la iglesia, como los de su Redentor, generalmente empiezan en casa; sus enemigos no pueden dañarla hasta que sus amigos supuestos (presunto) la han entregado en sus manos y por extraño que parezca, los que han engordado de sus riquezas son los primeros en \"levantar el talón\" contra ella. George Horne (La Iglesia).\n\nObediencia incompleta lleva al infierno. Amén.",
+    "contenido_renderizado": [
+      {
+        "tipo": "parrafo",
+        "texto": "Saúl se deslizaba hacia abajo y su caída iba acelerándose. Fuera lo que fuera cuando lo tenía que hacer, \"nunca obedecía completamente\". Pues son muchos los que hacen esto: tienen sus propias opiniones o sugerencias (meter debajo, propone, insinúa o sugiere), en Dios esto no es existente, porque Él es el guía de lo que Él quiere hacer a través de Su instrumento, nunca, nunca son dos instrumentos; ni familiaridad, ni amigos, ni los llamados líderes.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Había que destruir a los Amalecitas (Deuteronomio 25:17-19).",
+        "referencias_inline": [
+          "Deuteronomio 25:17-19"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "La palabra de Dios no había cambiado.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "La paciencia de Dios había soportado bastantes años al pueblo de Amalec (Éxodo 17:14-16; Números 24:20).",
+        "referencias_inline": [
+          "Éxodo 17:14-16",
+          "Números 24:20"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "A la ciudad de Amalec; antes de atacar, advirtió a los ceneos que se escaparan, habían mostrado misericordia a Israel.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "No era que Saúl no los quisiera ejecutar, ni la venganza del Señor sobre un pueblo malvado y los derrotó por completo a los amalecitas y todos murieron a filo de espada.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Con excepción del rey y todo lo bueno de los despojos.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Desde lejos, Jehová informó a Samuel de la desobediencia de Saúl.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Esto perturbó (molestamente, turbar) a Samuel en gran manera e hizo que orara toda la noche.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Por la \"manera\" quedaba claro lo que tenía que hacer.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Saúl (1 Samuel 15:13-15) le presenta a Samuel todo perfecto, porque la obediencia incompleta, no agrada a Dios.",
+        "referencias_inline": [
+          "1 Samuel 15:13-15"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "De camino a Gilgal, Saúl edificó un monumento para celebrar \"su victoria\", no la de Dios.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Pero Samuel vio las cosas de otra manera y confrontó la desobediencia de Saúl.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Saúl como cualquier desobediente nunca le faltaban \"excusas\" y \"explicaciones\" para justificarse (defenderse) pero el ruido de su desobediencia llegó hasta los oídos del profeta; (20) Antes bien he obedecido la voz de Jehová y fui a la misión que Jehová me envió, tengo al rey, pero destruí a todos los demás.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Jehová se complace que Le obedezcan (22) a \"las palabras de Jehová; el obedecer es mejor que los sacrificios, \"y el prestar atención que la grosura de los carneros\".",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Jehová se complace (satisfacción, agrado, agradar) con que seas obediente y es lo menos que le agrada al humano.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Mateo 26:14-16) dijo Judas: ¿Qué me queréis dar y yo os lo entregaré?",
+        "referencias_inline": [
+          "Mateo 26:14-16"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Judas, entrega a Jesús, en el Huerto de los Olivos, con un beso lo entrega.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Los sacerdotes jefes recogieron aquel dinero y dijeron: \"Este dinero está manchado de sangre, no podemos ponerlo en el cofre de las ofrendas\".",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Hechos 1:17-18) Era contado con nosotros.",
+        "referencias_inline": [
+          "Hechos 1:17-18"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Era escogido para obediencia al Padre Dios.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(18) Este pues, con el salario de su iniquidad (perversidad, maldad) adquirió un campo; \"Campo de sangre.\"",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Salmos 41:7, 8, 9) ¡Qué fácilmente se unen los perros para salir a cazar al ciervo!",
+        "referencias_inline": [
+          "Salmos 41:7,8,9"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Observé la unanimidad de los inicuos: todos.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Ojalá que nosotros estuviéramos unidos en la santa labor solo la mitad de lo que están ellos y nuestra prudencia fuera la mitad de su astucia.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(9) Aún el hombre de mi paz; Hasta mi amigo íntimo.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Para David, este era Ahitofel (2 Samuel 16:20) era su consejero; del rey.",
+        "referencias_inline": [
+          "2 Samuel 16:20"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Absalón, inicia su revuelta, le da la espalda a David y él abraza la causa de Absalón.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Tal vez, Ahitofel decide tomar su vida y por su alta traición desmaya su alta fidelidad a David, como lo hizo Judas al Maestro (2 Samuel 17:23).",
+        "referencias_inline": [
+          "2 Samuel 17:23"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Este era Ahitofel, que fue para \"David lo que era Iscariote para el Señor\".",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Judas era un apóstol admitido (bien recibido, estimado) a la intimidad del Gran Maestro, al corriente de Su pensamiento secreto, \"como si dijéramos, \"permitiéndosele leer el mismo corazón de Jesús\".",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "El beso del traidor hirió el corazón del Señor como el clavo hirió Su mano. C.H.S.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Lo triste y lamentable era que Judas, nunca, nunca pero nunca jamás podrá tener el lugar que se había preparado para él porque tal dinero, por mucho que fuera se hizo nada.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "De lo peor para él no había perdón, sino un fuego consumidor.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Jesús fue a la Cruz para perdón, pero para Judas no había espacio para el perdón.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Jesús, no había muerto para perdonar el pecado de Judas, para él no había.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Los sufrimientos de la iglesia, como los de su Redentor, generalmente empiezan en casa; sus enemigos no pueden dañarla hasta que sus amigos supuestos (presunto) la han entregado en sus manos y por extraño que parezca, los que han engordado de sus riquezas son los primeros en \"levantar el talón\" contra ella. George Horne (La Iglesia).",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Obediencia incompleta lleva al infierno. Amén.",
+        "referencias_inline": []
+      }
+    ]
+  },
+  "busqueda": {
+    "texto_indexable": "obediencia incompleta 1 samuel 15 19 26 obediencia perdon palabra de Dios obediencia incompleta secreto prudencia obediencia fuego corazon saul se deslizaba hacia abajo y su caida iba acelerandose fuera lo que fuera cuando lo tenia que hacer nunca obedecia completamente pues son muchos los que hacen esto tienen sus propias opiniones o sugerencias meter debajo propone insinua o sugiere en Dios esto no es existente porque el es el guia de lo que el quiere hacer a traves de su instrumento nunca nunca son dos instrumentos ni familiaridad ni amigos ni los llamados lideres habia que destruir a los amalecitas deuteronomio 25 17 19 la palabra de Dios no habia cambiado la paciencia de Dios habia soportado bastantes anos al pueblo de amalec exodo 17 14 16 numeros 24 20 a la ciudad de amalec antes de atacar advirtio a los ceneos que se escaparan habian mostrado misericordia a israel no era que saul no los quisiera ejecutar ni la venganza del senor sobre un pueblo malvado y los derroto por completo a los amalecitas y todos murieron a filo de espada con excepcion del rey y todo lo bueno de los despojos desde lejos jehova informo a samuel de la desobediencia de saul esto perturbo molestamente turbar a samuel en gran manera e hizo que orara toda la noche por la manera quedaba claro lo que tenia que hacer saul 1 samuel 15 13 15 le presenta a samuel todo perfecto porque la obediencia incompleta no agrada a Dios de camino a gilgal saul edifico un monumento para celebrar su victoria no la de Dios pero samuel vio las cosas de otra manera y confronto la desobediencia de saul saul como cualquier desobediente nunca le faltaban excusas y explicaciones para justificarse defenderse pero el ruido de su desobediencia llego hasta los oidos del profeta 20 antes bien he obedecido la voz de jehova y fui a la mision que jehova me envio tengo al rey pero destrui a todos los demas jehova se complace que le obedezcan 22 a las palabras de jehova el obedecer es mejor que los sacrificios y el prestar atencion que la grosura de los carneros jehova se complace satisfaccion agrado agradar con que seas obediente y es lo menos que le agrada al humano mateo 26 14 16 dijo judas que me quereis dar y yo os lo entregare judas entrega a Jesus en el huerto de los olivos con un beso lo entrega los sacerdotes jefes recogieron aquel dinero y dijeron este dinero esta manchado de sangre no podemos ponerlo en el cofre de las ofrendas hechos 1 17 18 era contado con nosotros era escogido para obediencia al padre Dios 18 este pues con el salario de su iniquidad perversidad maldad adquirio un campo campo de sangre salmo 41 7 8 9 que facilmente se unen los perros para salir a cazar al ciervo observe la unanimidad de los inicuos todos ojala que nosotros estuvieramos unidos en la santa labor solo la mitad de lo que estan ellos y nuestra prudencia fuera la mitad de su astucia 9 aun el hombre de mi paz hasta mi amigo intimo para david este era ahitofel 2 samuel 16 20 era su consejero del rey absalon inicia su revuelta le da la espalda a david y el abraza la causa de absalon tal vez ahitofel decide tomar su vida y por su alta traicion desmaya su alta fidelidad a david como lo hizo judas al maestro 2 samuel 17 23 este era ahitofel que fue para david lo que era iscariote para el senor judas era un apostol admitido bien recibido estimado a la intimidad del gran maestro al corriente de su pensamiento secreto como si dijeramos permitiendosele leer el mismo corazon de Jesus el beso del traidor hirio el corazon del senor como el clavo hirio su mano c h s lo triste y lamentable era que judas nunca nunca pero nunca jamas podra tener el lugar que se habia preparado para el porque tal dinero por mucho que fuera se hizo nada de lo peor para el no habia perdon sino un fuego consumidor Jesus fue a la cruz para perdon pero para judas no habia espacio para el perdon Jesus no habia muerto para perdonar el pecado de judas para el no habia los sufrimientos de la iglesia como los de su redentor generalmente empiezan en casa sus enemigos no pueden danarla hasta que sus amigos supuestos presunto la han entregado en sus manos y por extrano que parezca los que han engordado de sus riquezas son los primeros en levantar el talon contra ella george horne la iglesia obediencia incompleta lleva al infierno amen",
+    "alias_busqueda": [
+      "Estudio 1408",
+      "1 Samuel",
+      "1 Samuel 15",
+      "1 Samuel 15:19-26",
+      "obediencia incompleta",
+      "secreto",
+      "prudencia",
+      "obediencia",
+      "Perdón"
+    ]
+  },
+  "revision_manual": {
+    "requiere_revision": false,
+    "motivo": ""
+  },
+  "ui": {
+    "mostrar_credito_en_header": true,
+    "mostrar_numero_estudio": true,
+    "mostrar_fecha": true,
+    "mostrar_topicos": true,
+    "permitir_favorito": true,
+    "permitir_compartir": true
+  }
+}

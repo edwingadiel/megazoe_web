@@ -1,0 +1,143 @@
+{
+  "id": "estudio-797-la-pasion-de-cristo",
+  "slug": "estudio-797-la-pasion-de-cristo",
+  "numero_estudio": 797,
+  "tipo_estudio": "Iglesia en las casas",
+  "ministerio": {
+    "iglesia": "Iglesia Cristiana Mega Zoe",
+    "pastora": "Pastora Edith Cruz",
+    "credito_corto": "Iglesia Cristiana Mega Zoe · Pastora Edith Cruz",
+    "credito_largo": "Contenido original de Iglesia Cristiana Mega Zoe, conservando el crédito ministerial correspondiente a la Pastora Edith Cruz."
+  },
+  "identidad_editorial": {
+    "idioma": "es",
+    "fuente_original": "documento_word",
+    "archivo_origen": "/Users/edwingadiel/Desktop/Estudios en Word/Estudio #797 La pasión de Cristo -Juan 8 1-11.docx",
+    "estado_revision": "procesado",
+    "version_schema": "1.0"
+  },
+  "encabezado": {
+    "titulo": "La Pasión De Cristo",
+    "subtitulo": null,
+    "cita_principal": "Juan 8:1-11",
+    "resumen_corto": "La Pasión De Cristo llama a recibir y extender el perdón y permanecer fieles en medio del sufrimiento."
+  },
+  "fechas": {
+    "fecha_inicio": null,
+    "fecha_fin": null,
+    "fecha_texto_original": "",
+    "ano": null
+  },
+  "clasificacion_biblica": {
+    "libro_principal": "Juan",
+    "capitulo_principal": 8,
+    "versiculos_principales": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "referencia_principal_normalizada": "Juan 8:1-11",
+    "testamento_principal": "Nuevo Testamento"
+  },
+  "clasificacion_tematica": {
+    "topicos": [
+      "Perdón",
+      "Sufrimiento",
+      "Pruebas",
+      "Jesucristo"
+    ],
+    "keywords": [
+      "santidad",
+      "arrepentimiento",
+      "perseverancia",
+      "corazón",
+      "arca"
+    ]
+  },
+  "referencias_biblicas": [
+    {
+      "referencia": "Juan 8:1-11",
+      "referencia_normalizada": "Juan 8:1-11",
+      "libro": "Juan",
+      "capitulo": 8,
+      "versiculos": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "tipo": "principal",
+      "clickeable": true
+    },
+    {
+      "referencia": "Juan 8:1",
+      "referencia_normalizada": "Juan 8:1",
+      "libro": "Juan",
+      "capitulo": 8,
+      "versiculos": [
+        1
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    }
+  ],
+  "contenido": {
+    "introduccion": null,
+    "secciones": [],
+    "contenido_completo": "Querían apedrear a la mujer pues en la ley de Moisés decía que fuera muerta por apedreamiento. ¿Tú pues, qué dices?, le preguntaron al Señor (Vs. 5). Querían llevar a Jesús a que se confundiera en su pasión por la humanidad. Fuese cual fuese su contestación, si Él decía: \"Apedreadle\" se salía de lo suyo, pues Jesús no vino en esa ocasión como juez, sino que vino a padecer (por ella y por la humanidad). Y si prohibía que la apedreasen sería indicar que Él quería rebajar la moralidad pública. Lo que Jesús quería era dejar ver a qué Él había venido a morir por ella, sí, por esa que ellos acusaban. Sentado se mantuvo escribiendo con su dedo en tierra para hacerles ver el sentimiento de rechazo que Él sentía por la actitud de aquellos grandes hipócritas. La respuesta que todos necesitaban fue el perdón de Él para aquella mujer pecadora. Les dijo: \"El que de vosotros esté sin pecado (aquel cuya conciencia le absuelva de cualquier pecado semejante). ¡Si alguno es inocente! Y se inclinó de nuevo al suelo y escribía en tierra. Lo hizo para que pudieran salir, para que pudieran escapar sin ser vistos por Él y así evitar ser manifestado ante sus ojos lo que apenas habría podido soportar.\n\n¡Por su pasión Cristo nos hace nuevas criaturas! Jesús se mete en medio para sufrir, no por Él, sino por ella. Lo hizo para que aquella mujer fuera limpia, nueva y pudiera ¡ir al Padre! Porque te aseguro que ella no pecaría más. ¿Es esta la pasión que ha tomado tu vida y no te ha permitido pecar más? Amén.",
+    "contenido_renderizado": [
+      {
+        "tipo": "parrafo",
+        "texto": "Querían apedrear a la mujer pues en la ley de Moisés decía que fuera muerta por apedreamiento. ¿Tú pues, qué dices?, le preguntaron al Señor (Vs. 5). Querían llevar a Jesús a que se confundiera en su pasión por la humanidad. Fuese cual fuese su contestación, si Él decía: \"Apedreadle\" se salía de lo suyo, pues Jesús no vino en esa ocasión como juez, sino que vino a padecer (por ella y por la humanidad). Y si prohibía que la apedreasen sería indicar que Él quería rebajar la moralidad pública. Lo que Jesús quería era dejar ver a qué Él había venido a morir por ella, sí, por esa que ellos acusaban. Sentado se mantuvo escribiendo con su dedo en tierra para hacerles ver el sentimiento de rechazo que Él sentía por la actitud de aquellos grandes hipócritas. La respuesta que todos necesitaban fue el perdón de Él para aquella mujer pecadora. Les dijo: \"El que de vosotros esté sin pecado (aquel cuya conciencia le absuelva de cualquier pecado semejante). ¡Si alguno es inocente! Y se inclinó de nuevo al suelo y escribía en tierra. Lo hizo para que pudieran salir, para que pudieran escapar sin ser vistos por Él y así evitar ser manifestado ante sus ojos lo que apenas habría podido soportar.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "¡Por su pasión Cristo nos hace nuevas criaturas! Jesús se mete en medio para sufrir, no por Él, sino por ella. Lo hizo para que aquella mujer fuera limpia, nueva y pudiera ¡ir al Padre! Porque te aseguro que ella no pecaría más. ¿Es esta la pasión que ha tomado tu vida y no te ha permitido pecar más? Amén.",
+        "referencias_inline": []
+      }
+    ]
+  },
+  "busqueda": {
+    "texto_indexable": "la pasion de cristo juan 8 1 11 perdon sufrimiento pruebas jesucristo santidad arrepentimiento perseverancia corazon arca querian apedrear a la mujer pues en la ley de moises decia que fuera muerta por apedreamiento tu pues que dices le preguntaron al senor vs 5 querian llevar a Jesus a que se confundiera en su pasion por la humanidad fuese cual fuese su contestacion si el decia apedreadle se salia de lo suyo pues Jesus no vino en esa ocasion como juez sino que vino a padecer por ella y por la humanidad y si prohibia que la apedreasen seria indicar que el queria rebajar la moralidad publica lo que Jesus queria era dejar ver a que el habia venido a morir por ella si por esa que ellos acusaban sentado se mantuvo escribiendo con su dedo en tierra para hacerles ver el sentimiento de rechazo que el sentia por la actitud de aquellos grandes hipocritas la respuesta que todos necesitaban fue el perdon de el para aquella mujer pecadora les dijo el que de vosotros este sin pecado aquel cuya conciencia le absuelva de cualquier pecado semejante si alguno es inocente y se inclino de nuevo al suelo y escribia en tierra lo hizo para que pudieran salir para que pudieran escapar sin ser vistos por el y asi evitar ser manifestado ante sus ojos lo que apenas habria podido soportar por su pasion cristo nos hace nuevas criaturas Jesus se mete en medio para sufrir no por el sino por ella lo hizo para que aquella mujer fuera limpia nueva y pudiera ir al padre porque te aseguro que ella no pecaria mas es esta la pasion que ha tomado tu vida y no te ha permitido pecar mas amen",
+    "alias_busqueda": [
+      "La Pasión De Cristo",
+      "Juan",
+      "Juan 8",
+      "Juan 8:1-11",
+      "santidad",
+      "arrepentimiento",
+      "perseverancia",
+      "corazón",
+      "Perdón",
+      "Sufrimiento"
+    ]
+  },
+  "revision_manual": {
+    "requiere_revision": false,
+    "motivo": ""
+  },
+  "ui": {
+    "mostrar_credito_en_header": true,
+    "mostrar_numero_estudio": true,
+    "mostrar_fecha": true,
+    "mostrar_topicos": true,
+    "permitir_favorito": true,
+    "permitir_compartir": true
+  }
+}

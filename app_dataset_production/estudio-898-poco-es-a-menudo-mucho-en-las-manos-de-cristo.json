@@ -1,0 +1,273 @@
+{
+  "id": "estudio-898-poco-es-a-menudo-mucho-en-las-manos-de-cristo",
+  "slug": "estudio-898-poco-es-a-menudo-mucho-en-las-manos-de-cristo",
+  "numero_estudio": 898,
+  "tipo_estudio": "Iglesia en las casas",
+  "ministerio": {
+    "iglesia": "Iglesia Cristiana Mega Zoe",
+    "pastora": "Pastora Edith Cruz",
+    "credito_corto": "Iglesia Cristiana Mega Zoe · Pastora Edith Cruz",
+    "credito_largo": "Contenido original de Iglesia Cristiana Mega Zoe, conservando el crédito ministerial correspondiente a la Pastora Edith Cruz."
+  },
+  "identidad_editorial": {
+    "idioma": "es",
+    "fuente_original": "documento_word",
+    "archivo_origen": "/Users/edwingadiel/Desktop/Estudios en Word/Estudio #898 Poco Es A Menudo Mucho En Las Manos De Cristo - Juan 6 1-13.docx",
+    "estado_revision": "procesado",
+    "version_schema": "1.0"
+  },
+  "encabezado": {
+    "titulo": "Poco Es A Menudo Mucho En Las Manos De Cristo",
+    "subtitulo": null,
+    "cita_principal": "Juan 6:1-13",
+    "resumen_corto": "Poco Es A Menudo Mucho En Las Manos De Cristo enseña a perseverar en la oración y permanecer como discípulos de Jesús."
+  },
+  "fechas": {
+    "fecha_inicio": null,
+    "fecha_fin": null,
+    "fecha_texto_original": "",
+    "ano": null
+  },
+  "clasificacion_biblica": {
+    "libro_principal": "Juan",
+    "capitulo_principal": 6,
+    "versiculos_principales": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13
+    ],
+    "referencia_principal_normalizada": "Juan 6:1-13",
+    "testamento_principal": "Nuevo Testamento"
+  },
+  "clasificacion_tematica": {
+    "topicos": [
+      "Oración",
+      "Discipulado",
+      "Humildad",
+      "Jesucristo"
+    ],
+    "keywords": [
+      "oración",
+      "arrepentimiento",
+      "humildad",
+      "discípulo",
+      "corazón"
+    ]
+  },
+  "referencias_biblicas": [
+    {
+      "referencia": "Juan 6:1-13",
+      "referencia_normalizada": "Juan 6:1-13",
+      "libro": "Juan",
+      "capitulo": 6,
+      "versiculos": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "tipo": "principal",
+      "clickeable": true
+    },
+    {
+      "referencia": "1 Corintios 12:11-18",
+      "referencia_normalizada": "1 Corintios 12:11-18",
+      "libro": "1 Corintios",
+      "capitulo": 12,
+      "versiculos": [
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Juan 6:3",
+      "referencia_normalizada": "Juan 6:3",
+      "libro": "Juan",
+      "capitulo": 6,
+      "versiculos": [
+        3
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Juan 6:4",
+      "referencia_normalizada": "Juan 6:4",
+      "libro": "Juan",
+      "capitulo": 6,
+      "versiculos": [
+        4
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Juan 6:5",
+      "referencia_normalizada": "Juan 6:5",
+      "libro": "Juan",
+      "capitulo": 6,
+      "versiculos": [
+        5
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Juan 6:6",
+      "referencia_normalizada": "Juan 6:6",
+      "libro": "Juan",
+      "capitulo": 6,
+      "versiculos": [
+        6
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Juan 6:7",
+      "referencia_normalizada": "Juan 6:7",
+      "libro": "Juan",
+      "capitulo": 6,
+      "versiculos": [
+        7
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Juan 6:8, 9",
+      "referencia_normalizada": "Juan 6:8,9",
+      "libro": "Juan",
+      "capitulo": 6,
+      "versiculos": [
+        8,
+        9
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Juan 6: 10, 11",
+      "referencia_normalizada": "Juan 6:10,11",
+      "libro": "Juan",
+      "capitulo": 6,
+      "versiculos": [
+        10,
+        11
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Juan 6:12, 13",
+      "referencia_normalizada": "Juan 6:12,13",
+      "libro": "Juan",
+      "capitulo": 6,
+      "versiculos": [
+        12,
+        13
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    }
+  ],
+  "contenido": {
+    "introduccion": null,
+    "secciones": [],
+    "contenido_completo": "Luchamos para demostrar que tenemos mucho, eso es aparentar. El ser humano tiende a aparentar, a presumir delante de los demás. Eso nos lleva a mentir. Las personas incluso se esfuerzan en hacer cosas que en verdad no pueden o que sencillamente, no les toca hacer. Por causa del querer aparentar se llega a demandar o exigir posiciones de autoridad y liderato para lucir grandes e importantes. Entonces, si no logran eso que quieren se molestan, se enojan, se revelan y asumen actitudes groseras. De esa forma siguen reclamando el poder y el liderato aunque no sea con palabras. Por esta razón y para que ese mal no nos toque a nosotros sepamos y tengamos siempre presente que ¡JESÚS YA HA HECHO EL CAMINO PARA CADA UNO DE NOSOTROS! Tu caminar ya te lo ha preparado Jesús. ¡Mejor es estar quietos! Dios hace camino para tu vida. Somos llevados por Dios y Él es el que nos capacita. (I Corintios 12:11-18) Dios ha colocado los miembros, cada uno de ellos, en el cuerpo (en la iglesia) como Él quiso. No hay que presumir, no hay que alardear ni pelear por posiciones o rangos, lo nuestro ha sido preparado por Jesús ¡perfectamente!\n\nVeamos y aprendamos de lo sucedido en este pasaje. Dice en Juan 6:3 \"Entonces subió Jesús a un monte y se sentó allí con sus discípulos.\" Nuestro Jesús nunca se esconde de quien sinceramente le busca. ¡Sepamos a quién le servimos! EL SEÑOR JESUCRISTO ES UN SERVIDOR, ÉL NUNCA COMPLACIÓ AL CAPRICHOSO QUE BUSCA SER SERVIDO, ÉL BUSCA A LOS QUE LES GUSTA SERVIR. El servir es una asignación para prestar un servicio. Se debe emprender el servicio de manera humilde, no esperando recompensas o lugar y con espíritu de oración para poder ser llevados por el camino que Dios ha trazado y no por el que tú mismo te trazas. Juan 6:4 \"Y estaba cerca la pascua, la fiesta de los judíos.\" Era tiempo de la pascua y por eso había un gentío por el área, muchos caminaban pero a todos se les trazó una ruta para que llegaran a Jesús. Juan 6:5 \"Cuando alzó Jesús los ojos y vio que había venido a él gran multitud…\" El deseo de servir lo hay en Jesús y si eres espiritual debe estar en ti también. A Jesús se le avivó la compasión a la vista de la gran multitud. ¿Qué te aviva a ti? ¿La compasión o será el amor a la posición, al alto rango? No es lo importante el \"que me vean\", sino el poder ayudar a los que están hambrientos y agotados. ¿Eres capaz de darles lo que necesitan? Porque para poder hacerlo tienes que estar lleno de compasión. Cuando hay necesidad en alguien el Señor Jesús ha de buscar al que le puede ayudar a cubrir la necesidad, buscará a quien quiera ser un servidor como lo es Él.\n\nFelipe era uno de los cuatro discípulos que vieron a Jesús hacer el milagro del vino. Estaba aprendiendo de Jesús a confiar y creer. Juan 6:5 \"…dijo a Felipe: ¿De dónde compraremos pan PARA QUE COMAN ÉSTOS?\" El Señor no incluyó a los suyos. Juan 6:6 \"Pero esto decía para probarle; porque Él sabía lo que había de hacer.\" La razón de Jesús para hablarle aquellas cosas a Felipe era para probarle porque Él sabía lo que había de hacer. Tan claro estaba el Maestro y tan confundidos los discípulos; así es que vivimos. Jesús no le preguntaba a Felipe porque tuviera falta de información LO HACÍA PARA PROBAR LA FE Y EL CORAZÓN DE SU DISCÍPULO. Nosotros con frecuencia no sabemos qué hacer, pero Él siempre sabe lo que va a hacer. Igual que Felipe también a nosotros nos pregunta a veces, lo hace calladamente y lo hace para probarnos; para ver si la necesidad de la gente nos conmueve tal como le conmueve a Él.\n\nJuan 6:7 \"Felipe le respondió: Doscientos denarios de pan no bastarían para que cada uno de ellos tomase un poco.\" Felipe vio el costo, pensó en el dinero; Jesús pensó en los milagros. Otro discípulo, Andrés el hermano de Pedro, descubre en la multitud un muchacho que llevaba algo de alimento. Juan 6:8, 9 \"Uno de sus discípulos, Andrés, hermano de Simón Pedro, le dijo: Aquí está un muchacho, que tiene cinco panes de cebada y dos pececillos; mas ¿qué es esto para tantos?\" Aquello no era gran cosa, pero ahí estaba el milagro. El pan de cebada era el más barato y se tenía en poco; era el pan de los pobres. Lo otro eran sardinas, que abundaban en el mar de Galilea. Juan 6: 10, 11 \"Entonces Jesús dijo: Haced recostar la gente. Y había mucha hierba en aquel lugar; y se recostaron como en número de cinco mil varones. Y tomó Jesús aquellos panes, y habiendo dado gracias, los repartió entre los discípulos y los discípulos entre los que estaban recostados; asimismo de los peces cuanto querían.\" El Señor Jesús dio gracias antes de obrar el milagro, no después del milagro. Todos comieron y la gente quedó satisfecha. No fue una porción, fue que quedaron satisfechos, llenos. Juan 6:12, 13 \"Y cuando se hubieron saciado, dijo a sus discípulos: Recoged los pedazos que sobraron, para que no se pierda nada. Recogieron, pues, y llenaron doce cestas de pedazos, que de los cinco panes de cebada sobraron a los que habían comido.\" Ya satisfecha la multitud Jesús mandó a sus discípulos a que recogieran los restos. Fueron doce cestas llenas de pedazos sobrantes. Seguro que aquel sobrante era para los doce discípulos. Para que Felipe entendiera que ÉL SABÍA LO QUE HABÍA DE HACER.\n\nTÚ TAMPOCO SABES LO QUE ÉL HARÁ EN LOS CASOS A QUE TE ENFRENTAS Y ENFRENTARÁS, PERO SÉ HUMILDE Y EN ORACIÓN \"BUSCA AL JOVEN CON EL PAN DE CEBADA Y LAS SARDINITAS.\" Busquemos y luchemos para no tropezar como Felipe viviendo desconfiados del poder de Dios cada vez que nos fallan los medios visibles y ordinarios mostrando que no confiamos en Él más allá de lo que podemos ver. Luego, Felipe, al tiempo de andar con el Maestro, conoció y aprendió, solo estuvo tres años con el Maestro. ¿Cuánto tiempo llevas tú en Cristo y con el mismo cuento de la desconfianza? Ya es hora de aprender a confiar, debemos confiar en el que ya ha preparado nuestro camino. Creamos y sirvamos a los demás y no para lucir y aparentar, sirvamos como el Maestro nos ha dado el ejemplo, hagámoslo para cubrir las necesidades de quienes nos compadecemos. Hagámoslo con humildad y oración confiando que es el Señor quien hará los milagros, pues POCO ES A MENUDO MUCHO EN LAS MANOS DE CRISTO. Amén.",
+    "contenido_renderizado": [
+      {
+        "tipo": "parrafo",
+        "texto": "Luchamos para demostrar que tenemos mucho, eso es aparentar. El ser humano tiende a aparentar, a presumir delante de los demás. Eso nos lleva a mentir. Las personas incluso se esfuerzan en hacer cosas que en verdad no pueden o que sencillamente, no les toca hacer. Por causa del querer aparentar se llega a demandar o exigir posiciones de autoridad y liderato para lucir grandes e importantes. Entonces, si no logran eso que quieren se molestan, se enojan, se revelan y asumen actitudes groseras. De esa forma siguen reclamando el poder y el liderato aunque no sea con palabras. Por esta razón y para que ese mal no nos toque a nosotros sepamos y tengamos siempre presente que ¡JESÚS YA HA HECHO EL CAMINO PARA CADA UNO DE NOSOTROS! Tu caminar ya te lo ha preparado Jesús. ¡Mejor es estar quietos! Dios hace camino para tu vida. Somos llevados por Dios y Él es el que nos capacita. (I Corintios 12:11-18) Dios ha colocado los miembros, cada uno de ellos, en el cuerpo (en la iglesia) como Él quiso. No hay que presumir, no hay que alardear ni pelear por posiciones o rangos, lo nuestro ha sido preparado por Jesús ¡perfectamente!",
+        "referencias_inline": [
+          "1 Corintios 12:11-18"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Veamos y aprendamos de lo sucedido en este pasaje. Dice en Juan 6:3 \"Entonces subió Jesús a un monte y se sentó allí con sus discípulos.\" Nuestro Jesús nunca se esconde de quien sinceramente le busca. ¡Sepamos a quién le servimos! EL SEÑOR JESUCRISTO ES UN SERVIDOR, ÉL NUNCA COMPLACIÓ AL CAPRICHOSO QUE BUSCA SER SERVIDO, ÉL BUSCA A LOS QUE LES GUSTA SERVIR. El servir es una asignación para prestar un servicio. Se debe emprender el servicio de manera humilde, no esperando recompensas o lugar y con espíritu de oración para poder ser llevados por el camino que Dios ha trazado y no por el que tú mismo te trazas. Juan 6:4 \"Y estaba cerca la pascua, la fiesta de los judíos.\" Era tiempo de la pascua y por eso había un gentío por el área, muchos caminaban pero a todos se les trazó una ruta para que llegaran a Jesús. Juan 6:5 \"Cuando alzó Jesús los ojos y vio que había venido a él gran multitud…\" El deseo de servir lo hay en Jesús y si eres espiritual debe estar en ti también. A Jesús se le avivó la compasión a la vista de la gran multitud. ¿Qué te aviva a ti? ¿La compasión o será el amor a la posición, al alto rango? No es lo importante el \"que me vean\", sino el poder ayudar a los que están hambrientos y agotados. ¿Eres capaz de darles lo que necesitan? Porque para poder hacerlo tienes que estar lleno de compasión. Cuando hay necesidad en alguien el Señor Jesús ha de buscar al que le puede ayudar a cubrir la necesidad, buscará a quien quiera ser un servidor como lo es Él.",
+        "referencias_inline": [
+          "Juan 6:3",
+          "Juan 6:4",
+          "Juan 6:5"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Felipe era uno de los cuatro discípulos que vieron a Jesús hacer el milagro del vino. Estaba aprendiendo de Jesús a confiar y creer. Juan 6:5 \"…dijo a Felipe: ¿De dónde compraremos pan PARA QUE COMAN ÉSTOS?\" El Señor no incluyó a los suyos. Juan 6:6 \"Pero esto decía para probarle; porque Él sabía lo que había de hacer.\" La razón de Jesús para hablarle aquellas cosas a Felipe era para probarle porque Él sabía lo que había de hacer. Tan claro estaba el Maestro y tan confundidos los discípulos; así es que vivimos. Jesús no le preguntaba a Felipe porque tuviera falta de información LO HACÍA PARA PROBAR LA FE Y EL CORAZÓN DE SU DISCÍPULO. Nosotros con frecuencia no sabemos qué hacer, pero Él siempre sabe lo que va a hacer. Igual que Felipe también a nosotros nos pregunta a veces, lo hace calladamente y lo hace para probarnos; para ver si la necesidad de la gente nos conmueve tal como le conmueve a Él.",
+        "referencias_inline": [
+          "Juan 6:5",
+          "Juan 6:6"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Juan 6:7 \"Felipe le respondió: Doscientos denarios de pan no bastarían para que cada uno de ellos tomase un poco.\" Felipe vio el costo, pensó en el dinero; Jesús pensó en los milagros. Otro discípulo, Andrés el hermano de Pedro, descubre en la multitud un muchacho que llevaba algo de alimento. Juan 6:8, 9 \"Uno de sus discípulos, Andrés, hermano de Simón Pedro, le dijo: Aquí está un muchacho, que tiene cinco panes de cebada y dos pececillos; mas ¿qué es esto para tantos?\" Aquello no era gran cosa, pero ahí estaba el milagro. El pan de cebada era el más barato y se tenía en poco; era el pan de los pobres. Lo otro eran sardinas, que abundaban en el mar de Galilea. Juan 6: 10, 11 \"Entonces Jesús dijo: Haced recostar la gente. Y había mucha hierba en aquel lugar; y se recostaron como en número de cinco mil varones. Y tomó Jesús aquellos panes, y habiendo dado gracias, los repartió entre los discípulos y los discípulos entre los que estaban recostados; asimismo de los peces cuanto querían.\" El Señor Jesús dio gracias antes de obrar el milagro, no después del milagro. Todos comieron y la gente quedó satisfecha. No fue una porción, fue que quedaron satisfechos, llenos. Juan 6:12, 13 \"Y cuando se hubieron saciado, dijo a sus discípulos: Recoged los pedazos que sobraron, para que no se pierda nada. Recogieron, pues, y llenaron doce cestas de pedazos, que de los cinco panes de cebada sobraron a los que habían comido.\" Ya satisfecha la multitud Jesús mandó a sus discípulos a que recogieran los restos. Fueron doce cestas llenas de pedazos sobrantes. Seguro que aquel sobrante era para los doce discípulos. Para que Felipe entendiera que ÉL SABÍA LO QUE HABÍA DE HACER.",
+        "referencias_inline": [
+          "Juan 6:7",
+          "Juan 6:8,9",
+          "Juan 6:10,11",
+          "Juan 6:12,13"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "TÚ TAMPOCO SABES LO QUE ÉL HARÁ EN LOS CASOS A QUE TE ENFRENTAS Y ENFRENTARÁS, PERO SÉ HUMILDE Y EN ORACIÓN \"BUSCA AL JOVEN CON EL PAN DE CEBADA Y LAS SARDINITAS.\" Busquemos y luchemos para no tropezar como Felipe viviendo desconfiados del poder de Dios cada vez que nos fallan los medios visibles y ordinarios mostrando que no confiamos en Él más allá de lo que podemos ver. Luego, Felipe, al tiempo de andar con el Maestro, conoció y aprendió, solo estuvo tres años con el Maestro. ¿Cuánto tiempo llevas tú en Cristo y con el mismo cuento de la desconfianza? Ya es hora de aprender a confiar, debemos confiar en el que ya ha preparado nuestro camino. Creamos y sirvamos a los demás y no para lucir y aparentar, sirvamos como el Maestro nos ha dado el ejemplo, hagámoslo para cubrir las necesidades de quienes nos compadecemos. Hagámoslo con humildad y oración confiando que es el Señor quien hará los milagros, pues POCO ES A MENUDO MUCHO EN LAS MANOS DE CRISTO. Amén.",
+        "referencias_inline": []
+      }
+    ]
+  },
+  "busqueda": {
+    "texto_indexable": "poco es a menudo mucho en las manos de cristo juan 6 1 13 oracion discipulado humildad jesucristo oracion arrepentimiento humildad discipulo corazon luchamos para demostrar que tenemos mucho eso es aparentar el ser humano tiende a aparentar a presumir delante de los demas eso nos lleva a mentir las personas incluso se esfuerzan en hacer cosas que en verdad no pueden o que sencillamente no les toca hacer por causa del querer aparentar se llega a demandar o exigir posiciones de autoridad y liderato para lucir grandes e importantes entonces si no logran eso que quieren se molestan se enojan se revelan y asumen actitudes groseras de esa forma siguen reclamando el poder y el liderato aunque no sea con palabras por esta razon y para que ese mal no nos toque a nosotros sepamos y tengamos siempre presente que Jesus ya ha hecho el camino para cada uno de nosotros tu caminar ya te lo ha preparado Jesus mejor es estar quietos Dios hace camino para tu vida somos llevados por Dios y el es el que nos capacita i corintios 12 11 18 Dios ha colocado los miembros cada uno de ellos en el cuerpo en la iglesia como el quiso no hay que presumir no hay que alardear ni pelear por posiciones o rangos lo nuestro ha sido preparado por Jesus perfectamente veamos y aprendamos de lo sucedido en este pasaje dice en juan 6 3 entonces subio Jesus a un monte y se sento alli con sus discipulos nuestro Jesus nunca se esconde de quien sinceramente le busca sepamos a quien le servimos el senor jesucristo es un servidor el nunca complacio al caprichoso que busca ser servido el busca a los que les gusta servir el servir es una asignacion para prestar un servicio se debe emprender el servicio de manera humilde no esperando recompensas o lugar y con espiritu de oracion para poder ser llevados por el camino que Dios ha trazado y no por el que tu mismo te trazas juan 6 4 y estaba cerca la pascua la fiesta de los judios era tiempo de la pascua y por eso habia un gentio por el area muchos caminaban pero a todos se les trazo una ruta para que llegaran a Jesus juan 6 5 cuando alzo Jesus los ojos y vio que habia venido a el gran multitud el deseo de servir lo hay en Jesus y si eres espiritual debe estar en ti tambien a Jesus se le avivo la compasion a la vista de la gran multitud que te aviva a ti la compasion o sera el amor a la posicion al alto rango no es lo importante el que me vean sino el poder ayudar a los que estan hambrientos y agotados eres capaz de darles lo que necesitan porque para poder hacerlo tienes que estar lleno de compasion cuando hay necesidad en alguien el senor Jesus ha de buscar al que le puede ayudar a cubrir la necesidad buscara a quien quiera ser un servidor como lo es el felipe era uno de los cuatro discipulos que vieron a Jesus hacer el milagro del vino estaba aprendiendo de Jesus a confiar y creer juan 6 5 dijo a felipe de donde compraremos pan para que coman estos el senor no incluyo a los suyos juan 6 6 pero esto decia para probarle porque el sabia lo que habia de hacer la razon de Jesus para hablarle aquellas cosas a felipe era para probarle porque el sabia lo que habia de hacer tan claro estaba el maestro y tan confundidos los discipulos asi es que vivimos Jesus no le preguntaba a felipe porque tuviera falta de informacion lo hacia para probar la fe y el corazon de su discipulo nosotros con frecuencia no sabemos que hacer pero el siempre sabe lo que va a hacer igual que felipe tambien a nosotros nos pregunta a veces lo hace calladamente y lo hace para probarnos para ver si la necesidad de la gente nos conmueve tal como le conmueve a el juan 6 7 felipe le respondio doscientos denarios de pan no bastarian para que cada uno de ellos tomase un poco felipe vio el costo penso en el dinero Jesus penso en los milagros otro discipulo andres el hermano de pedro descubre en la multitud un muchacho que llevaba algo de alimento juan 6 8 9 uno de sus discipulos andres hermano de simon pedro le dijo aqui esta un muchacho que tiene cinco panes de cebada y dos pececillos mas que es esto para tantos aquello no era gran cosa pero ahi estaba el milagro el pan de cebada era el mas barato y se tenia en poco era el pan de los pobres lo otro eran sardinas que abundaban en el mar de galilea juan 6 10 11 entonces Jesus dijo haced recostar la gente y habia mucha hierba en aquel lugar y se recostaron como en numero de cinco mil varones y tomo Jesus aquellos panes y habiendo dado gracias los repartio entre los discipulos y los discipulos entre los que estaban recostados asimismo de los peces cuanto querian el senor Jesus dio gracias antes de obrar el milagro no despues del milagro todos comieron y la gente quedo satisfecha no fue una porcion fue que quedaron satisfechos llenos juan 6 12 13 y cuando se hubieron saciado dijo a sus discipulos recoged los pedazos que sobraron para que no se pierda nada recogieron pues y llenaron doce cestas de pedazos que de los cinco panes de cebada sobraron a los que habian comido ya satisfecha la multitud Jesus mando a sus discipulos a que recogieran los restos fueron doce cestas llenas de pedazos sobrantes seguro que aquel sobrante era para los doce discipulos para que felipe entendiera que el sabia lo que habia de hacer tu tampoco sabes lo que el hara en los casos a que te enfrentas y enfrentaras pero se humilde y en oracion busca al joven con el pan de cebada y las sardinitas busquemos y luchemos para no tropezar como felipe viviendo desconfiados del poder de Dios cada vez que nos fallan los medios visibles y ordinarios mostrando que no confiamos en el mas alla de lo que podemos ver luego felipe al tiempo de andar con el maestro conocio y aprendio solo estuvo tres anos con el maestro cuanto tiempo llevas tu en cristo y con el mismo cuento de la desconfianza ya es hora de aprender a confiar debemos confiar en el que ya ha preparado nuestro camino creamos y sirvamos a los demas y no para lucir y aparentar sirvamos como el maestro nos ha dado el ejemplo hagamoslo para cubrir las necesidades de quienes nos compadecemos hagamoslo con humildad y oracion confiando que es el senor quien hara los milagros pues poco es a menudo mucho en las manos de cristo amen",
+    "alias_busqueda": [
+      "Poco Es A Menudo Mucho En Las Manos De Cristo",
+      "Juan",
+      "Juan 6",
+      "Juan 6:1-13",
+      "oración",
+      "arrepentimiento",
+      "humildad",
+      "discípulo",
+      "Discipulado"
+    ]
+  },
+  "revision_manual": {
+    "requiere_revision": false,
+    "motivo": ""
+  },
+  "ui": {
+    "mostrar_credito_en_header": true,
+    "mostrar_numero_estudio": true,
+    "mostrar_fecha": true,
+    "mostrar_topicos": true,
+    "permitir_favorito": true,
+    "permitir_compartir": true
+  }
+}

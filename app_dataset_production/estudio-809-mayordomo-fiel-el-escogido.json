@@ -1,0 +1,299 @@
+{
+  "id": "estudio-809-mayordomo-fiel-el-escogido",
+  "slug": "estudio-809-mayordomo-fiel-el-escogido",
+  "numero_estudio": 809,
+  "tipo_estudio": "Iglesia en las casas",
+  "ministerio": {
+    "iglesia": "Iglesia Cristiana Mega Zoe",
+    "pastora": "Pastora Edith Cruz",
+    "credito_corto": "Iglesia Cristiana Mega Zoe · Pastora Edith Cruz",
+    "credito_largo": "Contenido original de Iglesia Cristiana Mega Zoe, conservando el crédito ministerial correspondiente a la Pastora Edith Cruz."
+  },
+  "identidad_editorial": {
+    "idioma": "es",
+    "fuente_original": "documento_word",
+    "archivo_origen": "/Users/edwingadiel/Desktop/Estudios en Word/Estudio #809 Mayordomo fiel, el escogido - Génesis 37 1-11.docx",
+    "estado_revision": "procesado",
+    "version_schema": "1.0"
+  },
+  "encabezado": {
+    "titulo": "Mayordomo Fiel, El Escogido",
+    "subtitulo": null,
+    "cita_principal": "Génesis 37:1-11",
+    "resumen_corto": "Mayordomo Fiel, El Escogido llama a servir fielmente al Señor y cuidar la vida del hogar delante de Dios."
+  },
+  "fechas": {
+    "fecha_inicio": null,
+    "fecha_fin": null,
+    "fecha_texto_original": "",
+    "ano": null
+  },
+  "clasificacion_biblica": {
+    "libro_principal": "Génesis",
+    "capitulo_principal": 37,
+    "versiculos_principales": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "referencia_principal_normalizada": "Génesis 37:1-11",
+    "testamento_principal": "Antiguo Testamento"
+  },
+  "clasificacion_tematica": {
+    "topicos": [
+      "Servicio cristiano",
+      "Fidelidad de Dios",
+      "Familia",
+      "Sabiduría espiritual",
+      "Pruebas"
+    ],
+    "keywords": [
+      "arrepentimiento",
+      "prudencia",
+      "lágrimas",
+      "corazón",
+      "arca"
+    ]
+  },
+  "referencias_biblicas": [
+    {
+      "referencia": "Génesis 37:1-11",
+      "referencia_normalizada": "Génesis 37:1-11",
+      "libro": "Génesis",
+      "capitulo": 37,
+      "versiculos": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "tipo": "principal",
+      "clickeable": true
+    },
+    {
+      "referencia": "Génesis 37:2",
+      "referencia_normalizada": "Génesis 37:2",
+      "libro": "Génesis",
+      "capitulo": 37,
+      "versiculos": [
+        2
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Génesis 37:3, 4",
+      "referencia_normalizada": "Génesis 37:3,4",
+      "libro": "Génesis",
+      "capitulo": 37,
+      "versiculos": [
+        3,
+        4
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Génesis 37:28",
+      "referencia_normalizada": "Génesis 37:28",
+      "libro": "Génesis",
+      "capitulo": 37,
+      "versiculos": [
+        28
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Génesis 37:31, 32",
+      "referencia_normalizada": "Génesis 37:31,32",
+      "libro": "Génesis",
+      "capitulo": 37,
+      "versiculos": [
+        31,
+        32
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Génesis 37:11",
+      "referencia_normalizada": "Génesis 37:11",
+      "libro": "Génesis",
+      "capitulo": 37,
+      "versiculos": [
+        11
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Génesis 37:5",
+      "referencia_normalizada": "Génesis 37:5",
+      "libro": "Génesis",
+      "capitulo": 37,
+      "versiculos": [
+        5
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Génesis 42:1, 6",
+      "referencia_normalizada": "Génesis 42:1,6",
+      "libro": "Génesis",
+      "capitulo": 42,
+      "versiculos": [
+        1,
+        6
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Génesis 42:24",
+      "referencia_normalizada": "Génesis 42:24",
+      "libro": "Génesis",
+      "capitulo": 42,
+      "versiculos": [
+        24
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Génesis 39:1, 4, 22",
+      "referencia_normalizada": "Génesis 39:1,4,22",
+      "libro": "Génesis",
+      "capitulo": 39,
+      "versiculos": [
+        1,
+        4,
+        22
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Génesis 40:13, 14, 23",
+      "referencia_normalizada": "Génesis 40:13,14,23",
+      "libro": "Génesis",
+      "capitulo": 40,
+      "versiculos": [
+        13,
+        14,
+        23
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Génesis 50:22, 23",
+      "referencia_normalizada": "Génesis 50:22,23",
+      "libro": "Génesis",
+      "capitulo": 50,
+      "versiculos": [
+        22,
+        23
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    }
+  ],
+  "contenido": {
+    "introduccion": null,
+    "secciones": [],
+    "contenido_completo": "José era uno de los 12 hijos de Jacob. A sus diecisiete años era pastor del rebaño igual que sus hermanos (Génesis 37:2 \"Esta es la historia de la familia de Jacob: José, siendo de edad de diecisiete años, apacentaba las ovejas con sus hermanos…\"). Tenía la responsabilidad de supervisar el rebaño y a sus hermanos (\"… informaba José a su padre la mala fama de ellos.\"). Su carácter era uno de amor, fidelidad y responsabilidad; estaba siempre metido tan solo en lo que era el servicio. Pero, sus hermanos lo veían como chismoso y lo aborrecían. José contaba con un carácter de cualidades superiores; por eso estaba él en esta posición que le fue concedida por su padre de velar por el rebaño y por sus hermanos. José obraba no como un chismoso sino como un MAYORDOMO FIEL que debidamente informaba de la conducta escandalosa de sus hermanos.\n\nVemos en José LA RECTITUD de un servidor. Vemos LA JUSTICIA en aquel que se le llama para servir. Solo se le puede entregar un cargo importante a alguien como lo fue José; alguien capaz de AMAR. Su padre tenía una gran inclinación hacia él por su entrega, amor, pasión e integridad. Esto provocó gran envidia de los demás hermanos, aunque tal vez no de todos. Sus hermanos le aborrecían y no podían hablarle pacíficamente. ¡Qué gran tirantez la que habría en aquella relación! José era el hijo de la vejez de Jacob, aunque Benjamín era su último hijo, el menor (Génesis 37:3, 4 \"Y amaba Israel (Jacob) a José más que a todos sus hijos, porque lo había tenido en su vejez; y le hizo una túnica de diversos colores. Y viendo sus hermanos que su padre lo amaba más que a todos sus hermanos, le aborrecían, y no podían hablarle pacíficamente.\"). Para Jacob José era el \"hijo de su vejez.\" Ésta es una frase hebrea que indica al hijo sabio, a uno que posee prudencia y sabiduría superior a los años que tiene, uno que tiene cabeza vieja sobre hombros de joven.\n\nLa túnica de José era diferente y especial; era una túnica de diversos colores. Pero, no era la túnica la que hacía diferente y especial a José, era lo que él era como persona, su carácter y su vida ejemplar. José, gran servidor, más tarde por el desprecio de sus hermanos fue vendido como esclavo a unos mercaderes y dado por muerto (Génesis 37:28). Esta noticia tan triste y falsa le dieron sus hermanos a su padre Jacob, quedando José marcado para su padre con su colorida túnica llena de sangre de cabra (Génesis 37:31, 32 \"Entonces tomaron ellos la túnica de José, y degollaron un cabrito de las cabras, y tiñeron la túnica con la sangre; y enviaron la túnica de colores y la trajeron a su padre, y dijeron: Esto hemos hallado…\"). Vemos el odio de los demás aun cuando había un corazón amándolos. Sí, José los amaba aunque cada día sufriese el ser echado a un lado por su fiel servicio. Sus hermanos no le podían hablar pacíficamente (Génesis 37:11 \"Y sus hermanos le tenían envidia, más su padre meditaba en esto.\"). Estas cosas dolorosas le suceden al que ama, al que sirve, al que se entrega y sobresale porque Dios está con él. La expresión acostumbrada de bienvenida entre amigos y conocidos era: ¡Paz sea a ti! Era un deber sagrado dar a todos este saludo, pero para José esto no lo había. ¡UN SERVIDOR NO PUEDE ESPERAR NADA! José, como servidor, solo recibía hostilidad por parte de sus hermanos que siempre estaban disgustados con él (Génesis 37:5 \"Y soñó José un sueño, y lo contó a sus hermanos; y ellos llegaron a aborrecerle más todavía.\"). Lo tenían de burla, pues le llamaban \"el soñador\" (Vs.19 \"Y dijeron el uno al otro: He aquí viene el soñador.\"). Sin embargo, todo era un bien para ellos porque con el tiempo José llegaría a ser gobernante en Egipto y ellos tendrían que ir allá a buscar de comer y José sería quien les serviría otra vez proveyéndoles de alimento (Génesis 42:1, 6 y 25).\n\n¡Lloró José! (Génesis 42:24 \"Y se apartó José de ellos, y lloró; después volvió a ellos, y les habló…\") ¿Para qué había nacido? ¡Para servir, para darse y vivir en entrega para los demás! Vemos que la vida de José luego de su venta fue una de gran dolor y tristeza. Pero, sobre este hombre lo que pesaba era solo hacer su oficio. ¿Por qué tanto odio y dolor? A pesar de todo eso hacía siempre su oficio, o servía como un criado siendo un esclavo o servía como el más alto gobernante siendo el señor de Egipto (Vs 42:6). Su oficio de servidor lo podía hacer como criado o como señor, quería servir a los demás a pesar de sus grandes dolores y lágrimas.\n\nCuando José fue vendido a los mercaderes madianitas y llevado a Egipto también comenzó a servir a Potifar, capitán de la guardia de Faraón. Por la maldad de la esposa de Potifar José fue llevado a la cárcel, pero seguía sirviendo en la cárcel. En la cárcel José también estuvo a cargo a los presos del rey y les sirvió (Génesis 39:1, 4, 22). ¡ESTO ES SER UN MAYORDOMO FIEL! Amar aunque te envidien y te odien, no pudiendo dejar de servir. Este es el trabajo: sustentar y cuidar.\n\nÉl, como servidor, iba a amparar, sostener, alimentar y mantener a los que Dios puso a su cargo. Así murió José, trabajando para otros, aunque fuera llamado \"sirviente\" o \"señor\". A nadie se le puede odiar o envidiar por su servicio. Un servidor camina por caminos misteriosos: los hermanos de José lo venden, la esposa de Potifar lo acusa, estuvo en la cárcel, el copero se olvidó de él (Génesis 40:13, 14, 23)... pero ¡Dios NO! Fue José ese fiel servidor que no se llenó de odio ni de reproches. Nunca dijo, ¿por qué vivo lo que vivo? Sino que envejeció y vivió en lo más sublime, tierno y grande; viendo y disfrutando su descendencia hasta la tercera generación (Génesis 50:22, 23 \"Y habitó José en Egipto, él y la casa de su padre; y vivió José ciento diez años. Y vio José los hijos de Efraín hasta la tercera generación; también los hijos de Maquir hijo de Manasés fueron criados sobre las rodillas de José.\"). Aquel hombre burlado, rechazado, odiado, acusado y olvidado por parte de los que amó en su gran vejez y en sus benditas rodillas llevó con pureza a sus descendientes. Fue bendecido por Dios por cuidar su corazón para que no hubiese orgullo ni odio. José como FIEL MAYORDOMO se entregó totalmente y sin reproches sirviendo a su generación con un corazón recto y justo, lleno de amor. ¿Y tú? Amén.",
+    "contenido_renderizado": [
+      {
+        "tipo": "parrafo",
+        "texto": "José era uno de los 12 hijos de Jacob. A sus diecisiete años era pastor del rebaño igual que sus hermanos (Génesis 37:2 \"Esta es la historia de la familia de Jacob: José, siendo de edad de diecisiete años, apacentaba las ovejas con sus hermanos…\"). Tenía la responsabilidad de supervisar el rebaño y a sus hermanos (\"… informaba José a su padre la mala fama de ellos.\"). Su carácter era uno de amor, fidelidad y responsabilidad; estaba siempre metido tan solo en lo que era el servicio. Pero, sus hermanos lo veían como chismoso y lo aborrecían. José contaba con un carácter de cualidades superiores; por eso estaba él en esta posición que le fue concedida por su padre de velar por el rebaño y por sus hermanos. José obraba no como un chismoso sino como un MAYORDOMO FIEL que debidamente informaba de la conducta escandalosa de sus hermanos.",
+        "referencias_inline": [
+          "Génesis 37:2"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Vemos en José LA RECTITUD de un servidor. Vemos LA JUSTICIA en aquel que se le llama para servir. Solo se le puede entregar un cargo importante a alguien como lo fue José; alguien capaz de AMAR. Su padre tenía una gran inclinación hacia él por su entrega, amor, pasión e integridad. Esto provocó gran envidia de los demás hermanos, aunque tal vez no de todos. Sus hermanos le aborrecían y no podían hablarle pacíficamente. ¡Qué gran tirantez la que habría en aquella relación! José era el hijo de la vejez de Jacob, aunque Benjamín era su último hijo, el menor (Génesis 37:3, 4 \"Y amaba Israel (Jacob) a José más que a todos sus hijos, porque lo había tenido en su vejez; y le hizo una túnica de diversos colores. Y viendo sus hermanos que su padre lo amaba más que a todos sus hermanos, le aborrecían, y no podían hablarle pacíficamente.\"). Para Jacob José era el \"hijo de su vejez.\" Ésta es una frase hebrea que indica al hijo sabio, a uno que posee prudencia y sabiduría superior a los años que tiene, uno que tiene cabeza vieja sobre hombros de joven.",
+        "referencias_inline": [
+          "Génesis 37:3,4"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "La túnica de José era diferente y especial; era una túnica de diversos colores. Pero, no era la túnica la que hacía diferente y especial a José, era lo que él era como persona, su carácter y su vida ejemplar. José, gran servidor, más tarde por el desprecio de sus hermanos fue vendido como esclavo a unos mercaderes y dado por muerto (Génesis 37:28). Esta noticia tan triste y falsa le dieron sus hermanos a su padre Jacob, quedando José marcado para su padre con su colorida túnica llena de sangre de cabra (Génesis 37:31, 32 \"Entonces tomaron ellos la túnica de José, y degollaron un cabrito de las cabras, y tiñeron la túnica con la sangre; y enviaron la túnica de colores y la trajeron a su padre, y dijeron: Esto hemos hallado…\"). Vemos el odio de los demás aun cuando había un corazón amándolos. Sí, José los amaba aunque cada día sufriese el ser echado a un lado por su fiel servicio. Sus hermanos no le podían hablar pacíficamente (Génesis 37:11 \"Y sus hermanos le tenían envidia, más su padre meditaba en esto.\"). Estas cosas dolorosas le suceden al que ama, al que sirve, al que se entrega y sobresale porque Dios está con él. La expresión acostumbrada de bienvenida entre amigos y conocidos era: ¡Paz sea a ti! Era un deber sagrado dar a todos este saludo, pero para José esto no lo había. ¡UN SERVIDOR NO PUEDE ESPERAR NADA! José, como servidor, solo recibía hostilidad por parte de sus hermanos que siempre estaban disgustados con él (Génesis 37:5 \"Y soñó José un sueño, y lo contó a sus hermanos; y ellos llegaron a aborrecerle más todavía.\"). Lo tenían de burla, pues le llamaban \"el soñador\" (Vs.19 \"Y dijeron el uno al otro: He aquí viene el soñador.\"). Sin embargo, todo era un bien para ellos porque con el tiempo José llegaría a ser gobernante en Egipto y ellos tendrían que ir allá a buscar de comer y José sería quien les serviría otra vez proveyéndoles de alimento (Génesis 42:1, 6 y 25).",
+        "referencias_inline": [
+          "Génesis 37:28",
+          "Génesis 37:31,32",
+          "Génesis 37:11",
+          "Génesis 37:5",
+          "Génesis 42:1,6"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "¡Lloró José! (Génesis 42:24 \"Y se apartó José de ellos, y lloró; después volvió a ellos, y les habló…\") ¿Para qué había nacido? ¡Para servir, para darse y vivir en entrega para los demás! Vemos que la vida de José luego de su venta fue una de gran dolor y tristeza. Pero, sobre este hombre lo que pesaba era solo hacer su oficio. ¿Por qué tanto odio y dolor? A pesar de todo eso hacía siempre su oficio, o servía como un criado siendo un esclavo o servía como el más alto gobernante siendo el señor de Egipto (Vs 42:6). Su oficio de servidor lo podía hacer como criado o como señor, quería servir a los demás a pesar de sus grandes dolores y lágrimas.",
+        "referencias_inline": [
+          "Génesis 42:24"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Cuando José fue vendido a los mercaderes madianitas y llevado a Egipto también comenzó a servir a Potifar, capitán de la guardia de Faraón. Por la maldad de la esposa de Potifar José fue llevado a la cárcel, pero seguía sirviendo en la cárcel. En la cárcel José también estuvo a cargo a los presos del rey y les sirvió (Génesis 39:1, 4, 22). ¡ESTO ES SER UN MAYORDOMO FIEL! Amar aunque te envidien y te odien, no pudiendo dejar de servir. Este es el trabajo: sustentar y cuidar.",
+        "referencias_inline": [
+          "Génesis 39:1,4,22"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Él, como servidor, iba a amparar, sostener, alimentar y mantener a los que Dios puso a su cargo. Así murió José, trabajando para otros, aunque fuera llamado \"sirviente\" o \"señor\". A nadie se le puede odiar o envidiar por su servicio. Un servidor camina por caminos misteriosos: los hermanos de José lo venden, la esposa de Potifar lo acusa, estuvo en la cárcel, el copero se olvidó de él (Génesis 40:13, 14, 23)... pero ¡Dios NO! Fue José ese fiel servidor que no se llenó de odio ni de reproches. Nunca dijo, ¿por qué vivo lo que vivo? Sino que envejeció y vivió en lo más sublime, tierno y grande; viendo y disfrutando su descendencia hasta la tercera generación (Génesis 50:22, 23 \"Y habitó José en Egipto, él y la casa de su padre; y vivió José ciento diez años. Y vio José los hijos de Efraín hasta la tercera generación; también los hijos de Maquir hijo de Manasés fueron criados sobre las rodillas de José.\"). Aquel hombre burlado, rechazado, odiado, acusado y olvidado por parte de los que amó en su gran vejez y en sus benditas rodillas llevó con pureza a sus descendientes. Fue bendecido por Dios por cuidar su corazón para que no hubiese orgullo ni odio. José como FIEL MAYORDOMO se entregó totalmente y sin reproches sirviendo a su generación con un corazón recto y justo, lleno de amor. ¿Y tú? Amén.",
+        "referencias_inline": [
+          "Génesis 40:13,14,23",
+          "Génesis 50:22,23"
+        ]
+      }
+    ]
+  },
+  "busqueda": {
+    "texto_indexable": "mayordomo fiel el escogido genesis 37 1 11 servicio cristiano fidelidad de Dios familia sabiduria espiritual pruebas arrepentimiento prudencia lagrimas corazon arca jose era uno de los 12 hijos de jacob a sus diecisiete anos era pastor del rebano igual que sus hermanos genesis 37 2 esta es la historia de la familia de jacob jose siendo de edad de diecisiete anos apacentaba las ovejas con sus hermanos tenia la responsabilidad de supervisar el rebano y a sus hermanos informaba jose a su padre la mala fama de ellos su caracter era uno de amor fidelidad y responsabilidad estaba siempre metido tan solo en lo que era el servicio pero sus hermanos lo veian como chismoso y lo aborrecian jose contaba con un caracter de cualidades superiores por eso estaba el en esta posicion que le fue concedida por su padre de velar por el rebano y por sus hermanos jose obraba no como un chismoso sino como un mayordomo fiel que debidamente informaba de la conducta escandalosa de sus hermanos vemos en jose la rectitud de un servidor vemos la justicia en aquel que se le llama para servir solo se le puede entregar un cargo importante a alguien como lo fue jose alguien capaz de amar su padre tenia una gran inclinacion hacia el por su entrega amor pasion e integridad esto provoco gran envidia de los demas hermanos aunque tal vez no de todos sus hermanos le aborrecian y no podian hablarle pacificamente que gran tirantez la que habria en aquella relacion jose era el hijo de la vejez de jacob aunque benjamin era su ultimo hijo el menor genesis 37 3 4 y amaba israel jacob a jose mas que a todos sus hijos porque lo habia tenido en su vejez y le hizo una tunica de diversos colores y viendo sus hermanos que su padre lo amaba mas que a todos sus hermanos le aborrecian y no podian hablarle pacificamente para jacob jose era el hijo de su vejez esta es una frase hebrea que indica al hijo sabio a uno que posee prudencia y sabiduria superior a los anos que tiene uno que tiene cabeza vieja sobre hombros de joven la tunica de jose era diferente y especial era una tunica de diversos colores pero no era la tunica la que hacia diferente y especial a jose era lo que el era como persona su caracter y su vida ejemplar jose gran servidor mas tarde por el desprecio de sus hermanos fue vendido como esclavo a unos mercaderes y dado por muerto genesis 37 28 esta noticia tan triste y falsa le dieron sus hermanos a su padre jacob quedando jose marcado para su padre con su colorida tunica llena de sangre de cabra genesis 37 31 32 entonces tomaron ellos la tunica de jose y degollaron un cabrito de las cabras y tineron la tunica con la sangre y enviaron la tunica de colores y la trajeron a su padre y dijeron esto hemos hallado vemos el odio de los demas aun cuando habia un corazon amandolos si jose los amaba aunque cada dia sufriese el ser echado a un lado por su fiel servicio sus hermanos no le podian hablar pacificamente genesis 37 11 y sus hermanos le tenian envidia mas su padre meditaba en esto estas cosas dolorosas le suceden al que ama al que sirve al que se entrega y sobresale porque Dios esta con el la expresion acostumbrada de bienvenida entre amigos y conocidos era paz sea a ti era un deber sagrado dar a todos este saludo pero para jose esto no lo habia un servidor no puede esperar nada jose como servidor solo recibia hostilidad por parte de sus hermanos que siempre estaban disgustados con el genesis 37 5 y sono jose un sueno y lo conto a sus hermanos y ellos llegaron a aborrecerle mas todavia lo tenian de burla pues le llamaban el sonador vs 19 y dijeron el uno al otro he aqui viene el sonador sin embargo todo era un bien para ellos porque con el tiempo jose llegaria a ser gobernante en egipto y ellos tendrian que ir alla a buscar de comer y jose seria quien les serviria otra vez proveyendoles de alimento genesis 42 1 6 y 25 lloro jose genesis 42 24 y se aparto jose de ellos y lloro despues volvio a ellos y les hablo para que habia nacido para servir para darse y vivir en entrega para los demas vemos que la vida de jose luego de su venta fue una de gran dolor y tristeza pero sobre este hombre lo que pesaba era solo hacer su oficio por que tanto odio y dolor a pesar de todo eso hacia siempre su oficio o servia como un criado siendo un esclavo o servia como el mas alto gobernante siendo el senor de egipto vs 42 6 su oficio de servidor lo podia hacer como criado o como senor queria servir a los demas a pesar de sus grandes dolores y lagrimas cuando jose fue vendido a los mercaderes madianitas y llevado a egipto tambien comenzo a servir a potifar capitan de la guardia de faraon por la maldad de la esposa de potifar jose fue llevado a la carcel pero seguia sirviendo en la carcel en la carcel jose tambien estuvo a cargo a los presos del rey y les sirvio genesis 39 1 4 22 esto es ser un mayordomo fiel amar aunque te envidien y te odien no pudiendo dejar de servir este es el trabajo sustentar y cuidar el como servidor iba a amparar sostener alimentar y mantener a los que Dios puso a su cargo asi murio jose trabajando para otros aunque fuera llamado sirviente o senor a nadie se le puede odiar o envidiar por su servicio un servidor camina por caminos misteriosos los hermanos de jose lo venden la esposa de potifar lo acusa estuvo en la carcel el copero se olvido de el genesis 40 13 14 23 pero Dios no fue jose ese fiel servidor que no se lleno de odio ni de reproches nunca dijo por que vivo lo que vivo sino que envejecio y vivio en lo mas sublime tierno y grande viendo y disfrutando su descendencia hasta la tercera generacion genesis 50 22 23 y habito jose en egipto el y la casa de su padre y vivio jose ciento diez anos y vio jose los hijos de efrain hasta la tercera generacion tambien los hijos de maquir hijo de manases fueron criados sobre las rodillas de jose aquel hombre burlado rechazado odiado acusado y olvidado por parte de los que amo en su gran vejez y en sus benditas rodillas llevo con pureza a sus descendientes fue bendecido por Dios por cuidar su corazon para que no hubiese orgullo ni odio jose como fiel mayordomo se entrego totalmente y sin reproches sirviendo a su generacion con un corazon recto y justo lleno de amor y tu amen",
+    "alias_busqueda": [
+      "Mayordomo Fiel, El Escogido",
+      "Génesis",
+      "Génesis 37",
+      "Génesis 37:1-11",
+      "arrepentimiento",
+      "prudencia",
+      "lágrimas",
+      "corazón",
+      "Servicio cristiano",
+      "Fidelidad de Dios"
+    ]
+  },
+  "revision_manual": {
+    "requiere_revision": false,
+    "motivo": ""
+  },
+  "ui": {
+    "mostrar_credito_en_header": true,
+    "mostrar_numero_estudio": true,
+    "mostrar_fecha": true,
+    "mostrar_topicos": true,
+    "permitir_favorito": true,
+    "permitir_compartir": true
+  }
+}

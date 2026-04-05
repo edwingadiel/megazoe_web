@@ -1,0 +1,469 @@
+{
+  "id": "estudio-1379-estudio-1379",
+  "slug": "estudio-1379-estudio-1379",
+  "numero_estudio": 1379,
+  "tipo_estudio": "Iglesia en las casas",
+  "ministerio": {
+    "iglesia": "Iglesia Cristiana Mega Zoe",
+    "pastora": "Pastora Edith Cruz",
+    "credito_corto": "Iglesia Cristiana Mega Zoe · Pastora Edith Cruz",
+    "credito_largo": "Contenido original de Iglesia Cristiana Mega Zoe, conservando el crédito ministerial correspondiente a la Pastora Edith Cruz."
+  },
+  "identidad_editorial": {
+    "idioma": "es",
+    "fuente_original": "documento_word",
+    "archivo_origen": "/Users/edwingadiel/Desktop/Estudios en Word/Estudio #1379 No sea que nos deslicemos - Hebreos 2 1-4.docx",
+    "estado_revision": "procesado",
+    "version_schema": "1.0"
+  },
+  "encabezado": {
+    "titulo": "No Sea Que Nos Deslicemos",
+    "subtitulo": null,
+    "cita_principal": "Hebreos 2:1-4",
+    "resumen_corto": "No Sea Que Nos Deslicemos llama a volver al Señor con arrepentimiento y perseverar en la oración."
+  },
+  "fechas": {
+    "fecha_inicio": null,
+    "fecha_fin": null,
+    "fecha_texto_original": "",
+    "ano": null
+  },
+  "clasificacion_biblica": {
+    "libro_principal": "Hebreos",
+    "capitulo_principal": 2,
+    "versiculos_principales": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "referencia_principal_normalizada": "Hebreos 2:1-4",
+    "testamento_principal": "Nuevo Testamento"
+  },
+  "clasificacion_tematica": {
+    "topicos": [
+      "Arrepentimiento",
+      "Oración",
+      "Verdad",
+      "Evangelismo"
+    ],
+    "keywords": [
+      "oración",
+      "arrepentimiento",
+      "salvación",
+      "evangelio",
+      "apostasia"
+    ]
+  },
+  "referencias_biblicas": [
+    {
+      "referencia": "Hebreos 2:1-4",
+      "referencia_normalizada": "Hebreos 2:1-4",
+      "libro": "Hebreos",
+      "capitulo": 2,
+      "versiculos": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "tipo": "principal",
+      "clickeable": true
+    },
+    {
+      "referencia": "Oseas 9:9",
+      "referencia_normalizada": "Oseas 9:9",
+      "libro": "Oseas",
+      "capitulo": 9,
+      "versiculos": [
+        9
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Hebreos 2:2",
+      "referencia_normalizada": "Hebreos 2:2",
+      "libro": "Hebreos",
+      "capitulo": 2,
+      "versiculos": [
+        2
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Deuteronomio 33:2",
+      "referencia_normalizada": "Deuteronomio 33:2",
+      "libro": "Deuteronomio",
+      "capitulo": 33,
+      "versiculos": [
+        2
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Salmos 68:11",
+      "referencia_normalizada": "Salmos 68:11",
+      "libro": "Salmos",
+      "capitulo": 68,
+      "versiculos": [
+        11
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Hebreos 2:3",
+      "referencia_normalizada": "Hebreos 2:3",
+      "libro": "Hebreos",
+      "capitulo": 2,
+      "versiculos": [
+        3
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Salmos 68:17",
+      "referencia_normalizada": "Salmos 68:17",
+      "libro": "Salmos",
+      "capitulo": 68,
+      "versiculos": [
+        17
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Hebreos 2:4",
+      "referencia_normalizada": "Hebreos 2:4",
+      "libro": "Hebreos",
+      "capitulo": 2,
+      "versiculos": [
+        4
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Juan 6:1-4",
+      "referencia_normalizada": "Juan 6:1-4",
+      "libro": "Juan",
+      "capitulo": 6,
+      "versiculos": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Juan 6:25-59",
+      "referencia_normalizada": "Juan 6:25-59",
+      "libro": "Juan",
+      "capitulo": 6,
+      "versiculos": [
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Juan 11:1-44",
+      "referencia_normalizada": "Juan 11:1-44",
+      "libro": "Juan",
+      "capitulo": 11,
+      "versiculos": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    }
+  ],
+  "contenido": {
+    "introduccion": null,
+    "secciones": [],
+    "contenido_completo": "En el capítulo anterior, el uno, nos habla que el Hijo es mayor que los ángeles. Su argumento de que Cristo es supremamente (de manera suprema, últimamente, hasta el fin altísimo, enorme, \"hasta el fin\") mejor que los ángeles por cuanto Él es el Hijo de Dios. (Oseas 9:9) Llegó el día del castigo. No estarían en la tierra para observar \"las fiestas señaladas\", sino que irían al cautiverio. Las moradas de Efraín serían pobladas de ortigas (planta que pica e inflama la piel) y espinos (espinos en sus ramas) en \"lugar del pueblo\". El exilio se aproximaba, al igual que la condena de todo falso profeta. Y lo que mueve el mal en el pueblo: y \"grande odio\" (antipatía, rechazo). El odio siempre está dirigido hacia alguien que se considera importante y que moviliza al individuo. Así fue como se le juzgó a Israel.\n\nMás diligencia a lo que hemos oído (aprendido).\n\nAtendamos no sea que nos deslicemos (arrastrar).\n\nEsta es una advertencia en contra de marchar a la deriva (sin dirección o propósito fijo) apartándose del mensaje del evangelio.\n\nDebido a \"la grandeza\" del \"Dador y a la grandeza de Su don, los que escuchan el evangelio han de dar\" mucho mayor atención al mismo.\n\n\"Siempre hay el peligro\" de irse a la \"deriva \"apartándose de la Persona de Cristo y recaer en una religión de imágenes.\n\nEsto significa caer en la apostasía- el pecado del que no hay arrepentimiento.\n\nYa (Hebreos 2:2) hemos mencionado que los judíos daban una especial importancia en su historia al ministerio de los ángeles.\n\nQuizá el principal ejemplo de ello fue la promulgación (publicación oficial) de la ley, cuando estuvieron presentes numeradas (cantidad muy grande, sin fin) de seres angelicales. (Deuteronomio 33:2; Salmos 68:11).\n\nEs cierto que la ley fue dicha por medio de ángeles.\n\nEs cierto que era válida.\n\nEs cierto que toda transgresión fue castigada de manera consecuente (que sigue a algo).\n\n(Hebreos 2:3) Pero ahora el argumento pasa de lo menor a lo mayor.\n\nSi los que quebrantaban \"la ley eran castigados\"; ¿cuál será la suerte de los que \"descuidan\" el evangelio?\n\nLa ley dice a los hombres lo que deben hacer, el evangelio dice a \"los hombres lo que Dios ha hecho.\"\n\n(Salmos 68:17) Los carros de Dios se cuentan por veintenas de millares de millares; millones de millones no hay fin; y esto es lo menor; ¿Cuál será la suerte de los que descuidan el evangelio?; Jesús dio su vida, Emmanuel, Dios con nosotros.\n\nPor la ley es el conocimiento del pecado; por el evangelio es el conocimiento de la \"salvación\".\n\n\"Descuidar\" \"una salvación tan grande\" es más grave que transgredir la ley.\n\nLa ley fue dada por medio de ángeles a Moisés y luego al pueblo.\n\nPero la palabra del evangelio fue dada directamente por el mismo Señor Jesús.\n\nY no solo esto: \"fue confirmado\" a los primitivos cristianos por los apóstoles y otros \"que oyeron\" al Salvador.\n\n(Hebreos 2:4) El mismo \"Dios\" certificó (dar por verdadero o confirmado) el mensaje \"tanto con señales como con prodigios y diversos milagros y dones distribuidos por el Espíritu Santo.\n\nLas señales eran aquellos milagros del Señor y de los apóstoles que significaban verdades espirituales.\n\nPor ejemplo, la alimentación de los cinco mil (Juan 6:1-4) fue la base del discurso sobre el Pan de Vida que vino a continuación (Juan 6:25-59).\n\nLos \"prodigios\" (excede los límites de la naturaleza) eran milagros que tenían la intención de suscitar (generar, provocar, causar) el asombro en los espectadores; la resurrección de Lázaro ilustra esto. (Juan 11:1-44).\n\nLos \"milagros\" eran cualquiera exhibición de poder \"sobrenatural\", que contraviniese las leyes de la naturaleza.\n\nLos \"dones\" del \"Espíritu Santo\" eran especiales (capacidad y posibilidades) dadas a los hombres para poder hablar y actuar de una manera totalmente más allá de sus capacidades naturales. Gloria a Ti, mi buen Espíritu Santo. (afirmar, declarar).\n\nEl propósito de todos estos milagros era testificar de la verdad del evangelio, en especial ante el pueblo judío, que tradicionalmente pedía alguna señal antes de creer.\n\nLas palabras \"según su voluntad\" indican que estos poderes milagrosos son dados por el Espíritu Santo como a Él le place.\"\n\nSon los dones dados soberanamente (aquel que tiene autoridad sobre el resto) por Dios.\n\nNo pueden ser \"exigidos por los hombres\", ni pretendidas (supuesto, aparentado, no tiene nada de lo que pretende) en respuesta a la oración, porque Dios nunca las ha prometido a todos. Amén.",
+    "contenido_renderizado": [
+      {
+        "tipo": "parrafo",
+        "texto": "En el capítulo anterior, el uno, nos habla que el Hijo es mayor que los ángeles. Su argumento de que Cristo es supremamente (de manera suprema, últimamente, hasta el fin altísimo, enorme, \"hasta el fin\") mejor que los ángeles por cuanto Él es el Hijo de Dios. (Oseas 9:9) Llegó el día del castigo. No estarían en la tierra para observar \"las fiestas señaladas\", sino que irían al cautiverio. Las moradas de Efraín serían pobladas de ortigas (planta que pica e inflama la piel) y espinos (espinos en sus ramas) en \"lugar del pueblo\". El exilio se aproximaba, al igual que la condena de todo falso profeta. Y lo que mueve el mal en el pueblo: y \"grande odio\" (antipatía, rechazo). El odio siempre está dirigido hacia alguien que se considera importante y que moviliza al individuo. Así fue como se le juzgó a Israel.",
+        "referencias_inline": [
+          "Oseas 9:9"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Más diligencia a lo que hemos oído (aprendido).",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Atendamos no sea que nos deslicemos (arrastrar).",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Esta es una advertencia en contra de marchar a la deriva (sin dirección o propósito fijo) apartándose del mensaje del evangelio.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Debido a \"la grandeza\" del \"Dador y a la grandeza de Su don, los que escuchan el evangelio han de dar\" mucho mayor atención al mismo.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "\"Siempre hay el peligro\" de irse a la \"deriva \"apartándose de la Persona de Cristo y recaer en una religión de imágenes.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Esto significa caer en la apostasía- el pecado del que no hay arrepentimiento.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Ya (Hebreos 2:2) hemos mencionado que los judíos daban una especial importancia en su historia al ministerio de los ángeles.",
+        "referencias_inline": [
+          "Hebreos 2:2"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Quizá el principal ejemplo de ello fue la promulgación (publicación oficial) de la ley, cuando estuvieron presentes numeradas (cantidad muy grande, sin fin) de seres angelicales. (Deuteronomio 33:2; Salmos 68:11).",
+        "referencias_inline": [
+          "Deuteronomio 33:2",
+          "Salmos 68:11"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Es cierto que la ley fue dicha por medio de ángeles.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Es cierto que era válida.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Es cierto que toda transgresión fue castigada de manera consecuente (que sigue a algo).",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Hebreos 2:3) Pero ahora el argumento pasa de lo menor a lo mayor.",
+        "referencias_inline": [
+          "Hebreos 2:3"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Si los que quebrantaban \"la ley eran castigados\"; ¿cuál será la suerte de los que \"descuidan\" el evangelio?",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "La ley dice a los hombres lo que deben hacer, el evangelio dice a \"los hombres lo que Dios ha hecho.\"",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Salmos 68:17) Los carros de Dios se cuentan por veintenas de millares de millares; millones de millones no hay fin; y esto es lo menor; ¿Cuál será la suerte de los que descuidan el evangelio?; Jesús dio su vida, Emmanuel, Dios con nosotros.",
+        "referencias_inline": [
+          "Salmos 68:17"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Por la ley es el conocimiento del pecado; por el evangelio es el conocimiento de la \"salvación\".",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "\"Descuidar\" \"una salvación tan grande\" es más grave que transgredir la ley.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "La ley fue dada por medio de ángeles a Moisés y luego al pueblo.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Pero la palabra del evangelio fue dada directamente por el mismo Señor Jesús.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Y no solo esto: \"fue confirmado\" a los primitivos cristianos por los apóstoles y otros \"que oyeron\" al Salvador.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Hebreos 2:4) El mismo \"Dios\" certificó (dar por verdadero o confirmado) el mensaje \"tanto con señales como con prodigios y diversos milagros y dones distribuidos por el Espíritu Santo.",
+        "referencias_inline": [
+          "Hebreos 2:4"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Las señales eran aquellos milagros del Señor y de los apóstoles que significaban verdades espirituales.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Por ejemplo, la alimentación de los cinco mil (Juan 6:1-4) fue la base del discurso sobre el Pan de Vida que vino a continuación (Juan 6:25-59).",
+        "referencias_inline": [
+          "Juan 6:1-4",
+          "Juan 6:25-59"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Los \"prodigios\" (excede los límites de la naturaleza) eran milagros que tenían la intención de suscitar (generar, provocar, causar) el asombro en los espectadores; la resurrección de Lázaro ilustra esto. (Juan 11:1-44).",
+        "referencias_inline": [
+          "Juan 11:1-44"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Los \"milagros\" eran cualquiera exhibición de poder \"sobrenatural\", que contraviniese las leyes de la naturaleza.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Los \"dones\" del \"Espíritu Santo\" eran especiales (capacidad y posibilidades) dadas a los hombres para poder hablar y actuar de una manera totalmente más allá de sus capacidades naturales. Gloria a Ti, mi buen Espíritu Santo. (afirmar, declarar).",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "El propósito de todos estos milagros era testificar de la verdad del evangelio, en especial ante el pueblo judío, que tradicionalmente pedía alguna señal antes de creer.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Las palabras \"según su voluntad\" indican que estos poderes milagrosos son dados por el Espíritu Santo como a Él le place.\"",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Son los dones dados soberanamente (aquel que tiene autoridad sobre el resto) por Dios.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "No pueden ser \"exigidos por los hombres\", ni pretendidas (supuesto, aparentado, no tiene nada de lo que pretende) en respuesta a la oración, porque Dios nunca las ha prometido a todos. Amén.",
+        "referencias_inline": []
+      }
+    ]
+  },
+  "busqueda": {
+    "texto_indexable": "no sea que nos deslicemos hebreos 2 1 4 arrepentimiento oracion verdad evangelismo oracion arrepentimiento salvacion evangelio apostasia en el capitulo anterior el uno nos habla que el hijo es mayor que los angeles su argumento de que cristo es supremamente de manera suprema ultimamente hasta el fin altisimo enorme hasta el fin mejor que los angeles por cuanto el es el hijo de Dios oseas 9 9 llego el dia del castigo no estarian en la tierra para observar las fiestas senaladas sino que irian al cautiverio las moradas de efrain serian pobladas de ortigas planta que pica e inflama la piel y espinos espinos en sus ramas en lugar del pueblo el exilio se aproximaba al igual que la condena de todo falso profeta y lo que mueve el mal en el pueblo y grande odio antipatia rechazo el odio siempre esta dirigido hacia alguien que se considera importante y que moviliza al individuo asi fue como se le juzgo a israel mas diligencia a lo que hemos oido aprendido atendamos no sea que nos deslicemos arrastrar esta es una advertencia en contra de marchar a la deriva sin direccion o proposito fijo apartandose del mensaje del evangelio debido a la grandeza del dador y a la grandeza de su don los que escuchan el evangelio han de dar mucho mayor atencion al mismo siempre hay el peligro de irse a la deriva apartandose de la persona de cristo y recaer en una religion de imagenes esto significa caer en la apostasia el pecado del que no hay arrepentimiento ya hebreos 2 2 hemos mencionado que los judios daban una especial importancia en su historia al ministerio de los angeles quiza el principal ejemplo de ello fue la promulgacion publicacion oficial de la ley cuando estuvieron presentes numeradas cantidad muy grande sin fin de seres angelicales deuteronomio 33 2 salmos 68 11 es cierto que la ley fue dicha por medio de angeles es cierto que era valida es cierto que toda transgresion fue castigada de manera consecuente que sigue a algo hebreos 2 3 pero ahora el argumento pasa de lo menor a lo mayor si los que quebrantaban la ley eran castigados cual sera la suerte de los que descuidan el evangelio la ley dice a los hombres lo que deben hacer el evangelio dice a los hombres lo que Dios ha hecho salmos 68 17 los carros de Dios se cuentan por veintenas de millares de millares millones de millones no hay fin y esto es lo menor cual sera la suerte de los que descuidan el evangelio Jesus dio su vida emmanuel Dios con nosotros por la ley es el conocimiento del pecado por el evangelio es el conocimiento de la salvacion descuidar una salvacion tan grande es mas grave que transgredir la ley la ley fue dada por medio de angeles a moises y luego al pueblo pero la palabra del evangelio fue dada directamente por el mismo senor Jesus y no solo esto fue confirmado a los primitivos cristianos por los apostoles y otros que oyeron al salvador hebreos 2 4 el mismo Dios certifico dar por verdadero o confirmado el mensaje tanto con senales como con prodigios y diversos milagros y dones distribuidos por el espiritu santo las senales eran aquellos milagros del senor y de los apostoles que significaban verdades espirituales por ejemplo la alimentacion de los cinco mil juan 6 1 4 fue la base del discurso sobre el pan de vida que vino a continuacion juan 6 25 59 los prodigios excede los limites de la naturaleza eran milagros que tenian la intencion de suscitar generar provocar causar el asombro en los espectadores la resurreccion de lazaro ilustra esto juan 11 1 44 los milagros eran cualquiera exhibicion de poder sobrenatural que contraviniese las leyes de la naturaleza los dones del espiritu santo eran especiales capacidad y posibilidades dadas a los hombres para poder hablar y actuar de una manera totalmente mas alla de sus capacidades naturales gloria a ti mi buen espiritu santo afirmar declarar el proposito de todos estos milagros era testificar de la verdad del evangelio en especial ante el pueblo judio que tradicionalmente pedia alguna senal antes de creer las palabras segun su voluntad indican que estos poderes milagrosos son dados por el espiritu santo como a el le place son los dones dados soberanamente aquel que tiene autoridad sobre el resto por Dios no pueden ser exigidos por los hombres ni pretendidas supuesto aparentado no tiene nada de lo que pretende en respuesta a la oracion porque Dios nunca las ha prometido a todos amen",
+    "alias_busqueda": [
+      "Estudio 1379",
+      "Hebreos",
+      "Hebreos 2",
+      "Hebreos 2:1-4",
+      "oración",
+      "arrepentimiento",
+      "salvación",
+      "evangelio"
+    ]
+  },
+  "revision_manual": {
+    "requiere_revision": false,
+    "motivo": ""
+  },
+  "ui": {
+    "mostrar_credito_en_header": true,
+    "mostrar_numero_estudio": true,
+    "mostrar_fecha": true,
+    "mostrar_topicos": true,
+    "permitir_favorito": true,
+    "permitir_compartir": true
+  }
+}

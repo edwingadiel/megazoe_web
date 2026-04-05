@@ -1,0 +1,427 @@
+{
+  "id": "estudio-1158-estudio-1158",
+  "slug": "estudio-1158-estudio-1158",
+  "numero_estudio": 1158,
+  "tipo_estudio": "Iglesia en las casas",
+  "ministerio": {
+    "iglesia": "Iglesia Cristiana Mega Zoe",
+    "pastora": "Pastora Edith Cruz",
+    "credito_corto": "Iglesia Cristiana Mega Zoe · Pastora Edith Cruz",
+    "credito_largo": "Contenido original de Iglesia Cristiana Mega Zoe, conservando el crédito ministerial correspondiente a la Pastora Edith Cruz."
+  },
+  "identidad_editorial": {
+    "idioma": "es",
+    "fuente_original": "documento_word",
+    "archivo_origen": "/Users/edwingadiel/Desktop/Estudios en Word/Estudio #1158 Dos más allá - Lucas 16 19-31.docx",
+    "estado_revision": "procesado",
+    "version_schema": "1.0"
+  },
+  "encabezado": {
+    "titulo": "Dos Más Allá",
+    "subtitulo": null,
+    "cita_principal": "Lucas 16:19-31",
+    "resumen_corto": "Dos Más Allá enseña a vivir con la mirada puesta en la vida eterna y atender la Palabra de Dios."
+  },
+  "fechas": {
+    "fecha_inicio": null,
+    "fecha_fin": null,
+    "fecha_texto_original": "",
+    "ano": null
+  },
+  "clasificacion_biblica": {
+    "libro_principal": "Lucas",
+    "capitulo_principal": 16,
+    "versiculos_principales": [
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31
+    ],
+    "referencia_principal_normalizada": "Lucas 16:19-31",
+    "testamento_principal": "Nuevo Testamento"
+  },
+  "clasificacion_tematica": {
+    "topicos": [
+      "Vida eterna",
+      "Palabra de Dios",
+      "Salvación"
+    ],
+    "keywords": [
+      "vida eterna",
+      "libro de la vida",
+      "juicio",
+      "salvación",
+      "fuego",
+      "arca"
+    ]
+  },
+  "referencias_biblicas": [
+    {
+      "referencia": "Lucas 16:19-31",
+      "referencia_normalizada": "Lucas 16:19-31",
+      "libro": "Lucas",
+      "capitulo": 16,
+      "versiculos": [
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31
+      ],
+      "tipo": "principal",
+      "clickeable": true
+    },
+    {
+      "referencia": "Mateo 8:11",
+      "referencia_normalizada": "Mateo 8:11",
+      "libro": "Mateo",
+      "capitulo": 8,
+      "versiculos": [
+        11
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Apocalipsis 20:15",
+      "referencia_normalizada": "Apocalipsis 20:15",
+      "libro": "Apocalipsis",
+      "capitulo": 20,
+      "versiculos": [
+        15
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "2 Pedro 2:4",
+      "referencia_normalizada": "2 Pedro 2:4",
+      "libro": "2 Pedro",
+      "capitulo": 2,
+      "versiculos": [
+        4
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Isaías 33:14",
+      "referencia_normalizada": "Isaías 33:14",
+      "libro": "Isaías",
+      "capitulo": 33,
+      "versiculos": [
+        14
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Salmos 9:17",
+      "referencia_normalizada": "Salmos 9:17",
+      "libro": "Salmos",
+      "capitulo": 9,
+      "versiculos": [
+        17
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Mateo 5:29",
+      "referencia_normalizada": "Mateo 5:29",
+      "libro": "Mateo",
+      "capitulo": 5,
+      "versiculos": [
+        29
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Proverbios 15:24",
+      "referencia_normalizada": "Proverbios 15:24",
+      "libro": "Proverbios",
+      "capitulo": 15,
+      "versiculos": [
+        24
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Apocalipsis 19:20",
+      "referencia_normalizada": "Apocalipsis 19:20",
+      "libro": "Apocalipsis",
+      "capitulo": 19,
+      "versiculos": [
+        20
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Mateo 25: 41",
+      "referencia_normalizada": "Mateo 25:41",
+      "libro": "Mateo",
+      "capitulo": 25,
+      "versiculos": [
+        41
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Marcos 9:43",
+      "referencia_normalizada": "Marcos 9:43",
+      "libro": "Marcos",
+      "capitulo": 9,
+      "versiculos": [
+        43
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    }
+  ],
+  "contenido": {
+    "introduccion": null,
+    "secciones": [],
+    "contenido_completo": "Los judíos estaban inclinados a pensar que la prosperidad material era una de las señales indefectible (que tiene que ocurrir o no puede fallar o dejar de suceder) de bendición celestial, de forma que a duras penas podían tener buen concepto de un mendigo. Cristo se propone aquí, sacarles de error.\n\nHabía un hombre rico.\n\nHabía un mendigo llamado Lázaro.\n\nEl Señor llega a la conclusión de Su discurso acerca de la mayordomía en las cosas materiales mediante este relato de dos vidas, dos muertes y dos más allá.\n\nSe debería clarificar que el anónimo rico no fue condenado al infierno debido a su riqueza.\n\nToda salvación es la fe en el Señor y los hombres son condenados por \"rehusar creer en Él.\"\n\nTú te condenas por no creer y no querer creerle a Él.\n\nCuando se tiene, se le da al mendigo, si lo pedía era un mendrugo (pedazo de pan duro o desechado, especialmente el sobrante).\n\nHabría entrado violentamente en el reino abandonando \"su amor al dinero.\"\n\nDebemos saber que es cierto que Lázaro no fue salvado porque era pobre.\n\nHabía confiado en el Señor para la salvación de su alma.\n\nLa vida del rico era para sus placeres y cuando es así no se puede ver lo que está alrededor y, por tanto, es que no se ama.\n\nLázaro el mendigo, todos los días iba delante de la casa del rico, lleno de llagas, con inmundos perros que venían y le lamían las llagas.\n\nEl rico tenía falta de compasión hacia los pobres porque era rico.\n\nSu fortuna le alcanzaba para todo, muchos tienen grandes fortunas y son dadores (filántropos), aman a los demás.\n\nPara los dos les llega la muerte.\n\n(V.22) Cuando murió el mendigo fue llevado por los ángeles al seno de Abraham.\n\nLos ángeles ministran a los creyentes en esta vida y no parece haber razón alguna para dudar que lo hagan en el momento de la muerte.\n\n(Mateo 8:11) Y os digo que vendrán muchos del oriente y del occidente y se sentarán con Abraham e Isaac y Jacob en el reino de los cielos.\n\nSe entiende por voz de Jesús, que el seno de Abraham es lo mismo que el cielo.\n\nLos creyentes, tanto ricos como pobres se encuentran todos en el Cielo.\n\nCuando murió también el rico, su cuerpo fue sepultado, aquel cuerpo que \"tanto había mimado\" y gastado en sus placeres, sin mirar para el lado para hacer el bien.\n\nEstando en el Hades, (V.23) alzó sus ojos estando en tormentos.\n\nSu alma, su \"yo\" consciente, fue al Hades.\n\nDesde que llegó Jesús para el judío hay otra forma de ver las cosas. Las riquezas no son una señal de bendición.\n\nSon una gran \"prueba\" de la fidelidad de su poseedor, en su administración.\n\nA quien mucho le es dado mucho le será quitado.\n\nVio de lejos a Abraham y a Lázaro en su seno: Padre Abraham, pide compasión. La razón: (Apocalipsis 20:15) Y el que no se halló inscrito en el libro de la vida fue lanzado al lago de fuego (2 Pedro 2:4). Porque si Dios no perdonó a los ángeles que pecaron, sino que arrojándolos al infierno los entregó a prisiones de oscuridad, para ser reservados al juicio. (Isaías 33:14) ¿Quién de nosotros morará con el fuego consumidor? ¿Quién de nosotros habitará con las llamas eternas? (Salmos 9:17). Los malos serán trasladados al Seol, todas las gentes que se olvidan de Dios. (Mateo 5:29) Por tanto, si tu ojo derecho te es ocasión de caer, sácalo y échalo de ti; pues es mejor que solo se pierda uno de los miembros que todo tu cuerpo sea echado al infierno; (Proverbios 15:24). El camino de la vida es hacia arriba al entendido, para apartarse del Seol abajo. (Apocalipsis 19:20) Y la bestia fue apresada y con ella el falso profeta que había hecho delante de ella las señales con las cuales había engañado a los que recibieron la marca de la bestia y habían adorado su imagen. Estos dos fueron lanzados vivos dentro de un lago de fuego que arde con azufre (olor a huevo podrido) (Apocalipsis 20:15). Y el que no se halló inscrito en el libro de la vida fue lanzado al lago de fuego. (Mateo 25: 41 y 46) Entonces dirá también a los de la izquierda: Apartaos de mí, malditos al fuego eterno preparado para el diablo y sus ángeles; (V. 46) e irán éstos al castigo eterno y los justos a la vida eterna. (Marcos 9:43) Si tu mano te fuere ocasión de caer, córtala… mejor que tener dos manos e ir al infierno, al fuego que no puede ser apagado;(V. 44) donde el gusano de ellos no muere y el fuego nunca se apaga.\n\nEsto escogió el rico, por no tener fe en Dios, mejor le fue su vanidad y disfrute.\n\nLas decisiones tomadas en esta vida determinan nuestro destino eterno y que cuando la muerte ha tenido lugar, \"este destino queda fijado.\"\n\nNo hay forma de pasar de la morada de los salvos a la de los condenados y viceversa.\n\nEl rico al conocer el infierno quería que fueran a los suyos.\n\nAbraham tuvo la última palabra: \"negarse a prestar oído a la Palabra de Dios es decisivo.\"\n\nSi la gente no presta atención a la Biblia, tampoco creerán si una persona resucita de entre los muertos.\n\nLa Biblia es el método ordinario (común y corriente) usado por Dios para decirnos sus propósitos, lo que de nosotros espera y esto ha de ser suficiente.\n\nQuienes apelan a visiones o a veces audibles, suelen, de ordinario, ser víctimas de su propia sugestión (sugerir, insinuar, plantear, proponer o recomendar algo), o desean más o menos conscientemente, presentarse ante los demás como privilegiados con tales favores sobrenaturales, lo cual es un género. Amén.",
+    "contenido_renderizado": [
+      {
+        "tipo": "parrafo",
+        "texto": "Los judíos estaban inclinados a pensar que la prosperidad material era una de las señales indefectible (que tiene que ocurrir o no puede fallar o dejar de suceder) de bendición celestial, de forma que a duras penas podían tener buen concepto de un mendigo. Cristo se propone aquí, sacarles de error.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Había un hombre rico.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Había un mendigo llamado Lázaro.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "El Señor llega a la conclusión de Su discurso acerca de la mayordomía en las cosas materiales mediante este relato de dos vidas, dos muertes y dos más allá.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Se debería clarificar que el anónimo rico no fue condenado al infierno debido a su riqueza.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Toda salvación es la fe en el Señor y los hombres son condenados por \"rehusar creer en Él.\"",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Tú te condenas por no creer y no querer creerle a Él.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Cuando se tiene, se le da al mendigo, si lo pedía era un mendrugo (pedazo de pan duro o desechado, especialmente el sobrante).",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Habría entrado violentamente en el reino abandonando \"su amor al dinero.\"",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Debemos saber que es cierto que Lázaro no fue salvado porque era pobre.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Había confiado en el Señor para la salvación de su alma.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "La vida del rico era para sus placeres y cuando es así no se puede ver lo que está alrededor y, por tanto, es que no se ama.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Lázaro el mendigo, todos los días iba delante de la casa del rico, lleno de llagas, con inmundos perros que venían y le lamían las llagas.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "El rico tenía falta de compasión hacia los pobres porque era rico.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Su fortuna le alcanzaba para todo, muchos tienen grandes fortunas y son dadores (filántropos), aman a los demás.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Para los dos les llega la muerte.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(V.22) Cuando murió el mendigo fue llevado por los ángeles al seno de Abraham.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Los ángeles ministran a los creyentes en esta vida y no parece haber razón alguna para dudar que lo hagan en el momento de la muerte.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Mateo 8:11) Y os digo que vendrán muchos del oriente y del occidente y se sentarán con Abraham e Isaac y Jacob en el reino de los cielos.",
+        "referencias_inline": [
+          "Mateo 8:11"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Se entiende por voz de Jesús, que el seno de Abraham es lo mismo que el cielo.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Los creyentes, tanto ricos como pobres se encuentran todos en el Cielo.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Cuando murió también el rico, su cuerpo fue sepultado, aquel cuerpo que \"tanto había mimado\" y gastado en sus placeres, sin mirar para el lado para hacer el bien.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Estando en el Hades, (V.23) alzó sus ojos estando en tormentos.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Su alma, su \"yo\" consciente, fue al Hades.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Desde que llegó Jesús para el judío hay otra forma de ver las cosas. Las riquezas no son una señal de bendición.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Son una gran \"prueba\" de la fidelidad de su poseedor, en su administración.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "A quien mucho le es dado mucho le será quitado.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Vio de lejos a Abraham y a Lázaro en su seno: Padre Abraham, pide compasión. La razón: (Apocalipsis 20:15) Y el que no se halló inscrito en el libro de la vida fue lanzado al lago de fuego (2 Pedro 2:4). Porque si Dios no perdonó a los ángeles que pecaron, sino que arrojándolos al infierno los entregó a prisiones de oscuridad, para ser reservados al juicio. (Isaías 33:14) ¿Quién de nosotros morará con el fuego consumidor? ¿Quién de nosotros habitará con las llamas eternas? (Salmos 9:17). Los malos serán trasladados al Seol, todas las gentes que se olvidan de Dios. (Mateo 5:29) Por tanto, si tu ojo derecho te es ocasión de caer, sácalo y échalo de ti; pues es mejor que solo se pierda uno de los miembros que todo tu cuerpo sea echado al infierno; (Proverbios 15:24). El camino de la vida es hacia arriba al entendido, para apartarse del Seol abajo. (Apocalipsis 19:20) Y la bestia fue apresada y con ella el falso profeta que había hecho delante de ella las señales con las cuales había engañado a los que recibieron la marca de la bestia y habían adorado su imagen. Estos dos fueron lanzados vivos dentro de un lago de fuego que arde con azufre (olor a huevo podrido) (Apocalipsis 20:15). Y el que no se halló inscrito en el libro de la vida fue lanzado al lago de fuego. (Mateo 25: 41 y 46) Entonces dirá también a los de la izquierda: Apartaos de mí, malditos al fuego eterno preparado para el diablo y sus ángeles; (V. 46) e irán éstos al castigo eterno y los justos a la vida eterna. (Marcos 9:43) Si tu mano te fuere ocasión de caer, córtala… mejor que tener dos manos e ir al infierno, al fuego que no puede ser apagado;(V. 44) donde el gusano de ellos no muere y el fuego nunca se apaga.",
+        "referencias_inline": [
+          "Apocalipsis 20:15",
+          "2 Pedro 2:4",
+          "Isaías 33:14",
+          "Salmos 9:17",
+          "Mateo 5:29",
+          "Proverbios 15:24",
+          "Apocalipsis 19:20",
+          "Mateo 25:41",
+          "Marcos 9:43"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Esto escogió el rico, por no tener fe en Dios, mejor le fue su vanidad y disfrute.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Las decisiones tomadas en esta vida determinan nuestro destino eterno y que cuando la muerte ha tenido lugar, \"este destino queda fijado.\"",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "No hay forma de pasar de la morada de los salvos a la de los condenados y viceversa.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "El rico al conocer el infierno quería que fueran a los suyos.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Abraham tuvo la última palabra: \"negarse a prestar oído a la Palabra de Dios es decisivo.\"",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Si la gente no presta atención a la Biblia, tampoco creerán si una persona resucita de entre los muertos.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "La Biblia es el método ordinario (común y corriente) usado por Dios para decirnos sus propósitos, lo que de nosotros espera y esto ha de ser suficiente.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Quienes apelan a visiones o a veces audibles, suelen, de ordinario, ser víctimas de su propia sugestión (sugerir, insinuar, plantear, proponer o recomendar algo), o desean más o menos conscientemente, presentarse ante los demás como privilegiados con tales favores sobrenaturales, lo cual es un género. Amén.",
+        "referencias_inline": []
+      }
+    ]
+  },
+  "busqueda": {
+    "texto_indexable": "dos mas alla lucas 16 19 31 vida eterna palabra de Dios salvacion vida eterna libro de la vida juicio salvacion fuego arca los judios estaban inclinados a pensar que la prosperidad material era una de las senales indefectible que tiene que ocurrir o no puede fallar o dejar de suceder de bendicion celestial de forma que a duras penas podian tener buen concepto de un mendigo cristo se propone aqui sacarles de error habia un hombre rico habia un mendigo llamado lazaro el senor llega a la conclusion de su discurso acerca de la mayordomia en las cosas materiales mediante este relato de dos vidas dos muertes y dos mas alla se deberia clarificar que el anonimo rico no fue condenado al infierno debido a su riqueza toda salvacion es la fe en el senor y los hombres son condenados por rehusar creer en el tu te condenas por no creer y no querer creerle a el cuando se tiene se le da al mendigo si lo pedia era un mendrugo pedazo de pan duro o desechado especialmente el sobrante habria entrado violentamente en el reino abandonando su amor al dinero debemos saber que es cierto que lazaro no fue salvado porque era pobre habia confiado en el senor para la salvacion de su alma la vida del rico era para sus placeres y cuando es asi no se puede ver lo que esta alrededor y por tanto es que no se ama lazaro el mendigo todos los dias iba delante de la casa del rico lleno de llagas con inmundos perros que venian y le lamian las llagas el rico tenia falta de compasion hacia los pobres porque era rico su fortuna le alcanzaba para todo muchos tienen grandes fortunas y son dadores filantropos aman a los demas para los dos les llega la muerte v 22 cuando murio el mendigo fue llevado por los angeles al seno de abraham los angeles ministran a los creyentes en esta vida y no parece haber razon alguna para dudar que lo hagan en el momento de la muerte mateo 8 11 y os digo que vendran muchos del oriente y del occidente y se sentaran con abraham e isaac y jacob en el reino de los cielos se entiende por voz de Jesus que el seno de abraham es lo mismo que el cielo los creyentes tanto ricos como pobres se encuentran todos en el cielo cuando murio tambien el rico su cuerpo fue sepultado aquel cuerpo que tanto habia mimado y gastado en sus placeres sin mirar para el lado para hacer el bien estando en el hades v 23 alzo sus ojos estando en tormentos su alma su yo consciente fue al hades desde que llego Jesus para el judio hay otra forma de ver las cosas las riquezas no son una senal de bendicion son una gran prueba de la fidelidad de su poseedor en su administracion a quien mucho le es dado mucho le sera quitado vio de lejos a abraham y a lazaro en su seno padre abraham pide compasion la razon apocalipsis 20 15 y el que no se hallo inscrito en el libro de la vida fue lanzado al lago de fuego 2 pedro 2 4 porque si Dios no perdono a los angeles que pecaron sino que arrojandolos al infierno los entrego a prisiones de oscuridad para ser reservados al juicio isaias 33 14 quien de nosotros morara con el fuego consumidor quien de nosotros habitara con las llamas eternas salmo 9 17 los malos seran trasladados al seol todas las gentes que se olvidan de Dios mateo 5 29 por tanto si tu ojo derecho te es ocasion de caer sacalo y echalo de ti pues es mejor que solo se pierda uno de los miembros que todo tu cuerpo sea echado al infierno proverbios 15 24 el camino de la vida es hacia arriba al entendido para apartarse del seol abajo apocalipsis 19 20 y la bestia fue apresada y con ella el falso profeta que habia hecho delante de ella las senales con las cuales habia enganado a los que recibieron la marca de la bestia y habian adorado su imagen estos dos fueron lanzados vivos dentro de un lago de fuego que arde con azufre olor a huevo podrido apocalipsis 20 15 y el que no se hallo inscrito en el libro de la vida fue lanzado al lago de fuego mateo 25 41 y 46 entonces dira tambien a los de la izquierda apartaos de mi malditos al fuego eterno preparado para el diablo y sus angeles v 46 e iran estos al castigo eterno y los justos a la vida eterna marcos 9 43 si tu mano te fuere ocasion de caer cortala mejor que tener dos manos e ir al infierno al fuego que no puede ser apagado v 44 donde el gusano de ellos no muere y el fuego nunca se apaga esto escogio el rico por no tener fe en Dios mejor le fue su vanidad y disfrute las decisiones tomadas en esta vida determinan nuestro destino eterno y que cuando la muerte ha tenido lugar este destino queda fijado no hay forma de pasar de la morada de los salvos a la de los condenados y viceversa el rico al conocer el infierno queria que fueran a los suyos abraham tuvo la ultima palabra negarse a prestar oido a la palabra de Dios es decisivo si la gente no presta atencion a la biblia tampoco creeran si una persona resucita de entre los muertos la biblia es el metodo ordinario comun y corriente usado por Dios para decirnos sus propositos lo que de nosotros espera y esto ha de ser suficiente quienes apelan a visiones o a veces audibles suelen de ordinario ser victimas de su propia sugestion sugerir insinuar plantear proponer o recomendar algo o desean mas o menos conscientemente presentarse ante los demas como privilegiados con tales favores sobrenaturales lo cual es un genero amen",
+    "alias_busqueda": [
+      "Estudio 1158",
+      "Lucas",
+      "Lucas 16",
+      "Lucas 16:19-31",
+      "vida eterna",
+      "libro de la vida",
+      "juicio",
+      "salvación",
+      "Palabra de Dios"
+    ]
+  },
+  "revision_manual": {
+    "requiere_revision": false,
+    "motivo": ""
+  },
+  "ui": {
+    "mostrar_credito_en_header": true,
+    "mostrar_numero_estudio": true,
+    "mostrar_fecha": true,
+    "mostrar_topicos": true,
+    "permitir_favorito": true,
+    "permitir_compartir": true
+  }
+}

@@ -1,0 +1,310 @@
+{
+  "id": "estudio-616-si-soy-infiel-mi-valentia-no-contara-por-lo-tanto-siempre-sere-fiel",
+  "slug": "estudio-616-si-soy-infiel-mi-valentia-no-contara-por-lo-tanto-siempre-sere-fiel",
+  "numero_estudio": 616,
+  "tipo_estudio": "Iglesia en las casas",
+  "ministerio": {
+    "iglesia": "Iglesia Cristiana Mega Zoe",
+    "pastora": "Pastora Edith Cruz",
+    "credito_corto": "Iglesia Cristiana Mega Zoe · Pastora Edith Cruz",
+    "credito_largo": "Contenido original de Iglesia Cristiana Mega Zoe, conservando el crédito ministerial correspondiente a la Pastora Edith Cruz."
+  },
+  "identidad_editorial": {
+    "idioma": "es",
+    "fuente_original": "documento_word",
+    "archivo_origen": "/Users/edwingadiel/Desktop/Estudios en Word/Estudio #616 Si soy infiel, mi valentía no contará, por lo tanto siempre seré fiel - 2 Samuel 23 8-23.docx",
+    "estado_revision": "procesado",
+    "version_schema": "1.0"
+  },
+  "encabezado": {
+    "titulo": "Si Soy Infiel, Mi Valentía No Contará, Por Lo Tanto Siempre Seré Fiel",
+    "subtitulo": null,
+    "cita_principal": "2 Samuel 23:8-23",
+    "resumen_corto": "Si Soy Infiel, Mi Valentía No Contará, Por Lo Tanto Siempre Seré Fiel enseña a huir de la tentación y servir fielmente al Señor."
+  },
+  "fechas": {
+    "fecha_inicio": "2009-11-24",
+    "fecha_fin": "2009-11-30",
+    "fecha_texto_original": "SEMANA DEL 24 @ 30 DE NOVIEMBRE DE 2009",
+    "ano": 2009
+  },
+  "clasificacion_biblica": {
+    "libro_principal": "2 Samuel",
+    "capitulo_principal": 23,
+    "versiculos_principales": [
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23
+    ],
+    "referencia_principal_normalizada": "2 Samuel 23:8-23",
+    "testamento_principal": "Antiguo Testamento"
+  },
+  "clasificacion_tematica": {
+    "topicos": [
+      "Fidelidad de Dios",
+      "Tentación",
+      "Servicio cristiano"
+    ],
+    "keywords": [
+      "voluntad de Dios",
+      "santidad",
+      "arrepentimiento",
+      "perseverancia",
+      "corazón"
+    ]
+  },
+  "referencias_biblicas": [
+    {
+      "referencia": "2 Samuel 23:8-23",
+      "referencia_normalizada": "2 Samuel 23:8-23",
+      "libro": "2 Samuel",
+      "capitulo": 23,
+      "versiculos": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      "tipo": "principal",
+      "clickeable": true
+    },
+    {
+      "referencia": "1 Corintios 10:13",
+      "referencia_normalizada": "1 Corintios 10:13",
+      "libro": "1 Corintios",
+      "capitulo": 10,
+      "versiculos": [
+        13
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "1 Samuel 26:6-11",
+      "referencia_normalizada": "1 Samuel 26:6-11",
+      "libro": "1 Samuel",
+      "capitulo": 26,
+      "versiculos": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "2 Samuel 3:30",
+      "referencia_normalizada": "2 Samuel 3:30",
+      "libro": "2 Samuel",
+      "capitulo": 3,
+      "versiculos": [
+        30
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "2 Samuel 16:9,10",
+      "referencia_normalizada": "2 Samuel 16:9,10",
+      "libro": "2 Samuel",
+      "capitulo": 16,
+      "versiculos": [
+        9,
+        10
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "2 Samuel 19:21",
+      "referencia_normalizada": "2 Samuel 19:21",
+      "libro": "2 Samuel",
+      "capitulo": 19,
+      "versiculos": [
+        21
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "2 Samuel 21:17",
+      "referencia_normalizada": "2 Samuel 21:17",
+      "libro": "2 Samuel",
+      "capitulo": 21,
+      "versiculos": [
+        17
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "2 Samuel 8:18",
+      "referencia_normalizada": "2 Samuel 8:18",
+      "libro": "2 Samuel",
+      "capitulo": 8,
+      "versiculos": [
+        18
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "2 Samuel 23:23",
+      "referencia_normalizada": "2 Samuel 23:23",
+      "libro": "2 Samuel",
+      "capitulo": 23,
+      "versiculos": [
+        23
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "2 Samuel 23:20",
+      "referencia_normalizada": "2 Samuel 23:20",
+      "libro": "2 Samuel",
+      "capitulo": 23,
+      "versiculos": [
+        20
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "1 Reyes 1:36",
+      "referencia_normalizada": "1 Reyes 1:36",
+      "libro": "1 Reyes",
+      "capitulo": 1,
+      "versiculos": [
+        36
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "1 Reyes 2:29",
+      "referencia_normalizada": "1 Reyes 2:29",
+      "libro": "1 Reyes",
+      "capitulo": 2,
+      "versiculos": [
+        29
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    }
+  ],
+  "contenido": {
+    "introduccion": null,
+    "secciones": [],
+    "contenido_completo": "No hay nada más grande en un hombre que la fidelidad. Una pena que hoy día la fidelidad no es lo propio de la mayoría de la gente. La fidelidad es una cualidad perfecta, es hermosa. Sin embargo, vemos que detrás de muchas personas lo que se encuentra es la ambición. Difícil es que se haga algo por amor. Entonces, podemos ser muy valientes en muchas cosas, pero estar escasos de fidelidad. Detrás del varón Abisai había un tipo de ambición personal. Las ambiciones personales llevan a destrozar lo que sea que esté al frente de uno con el fin de adquirir lo que se quiere. Así que, a causa de las ambiciones muchos desconocen la fidelidad. Tenemos que luchar contra nuestra ambición personal durante toda nuestra vida, porque toda tentación es humana y no hay nada que no se pueda vencer. (1 Corintios 10:13) Estamos en un ejército donde todos luchamos por una misma causa. Cuando se lucha por las ambiciones personales siempre se busca cómo hacer que todo el mundo quede mal, cuando se debe luchar por una misma causa.\n\nEl valiente que es fiel no traiciona. Pero a veces, el deseo de sobresalir siendo valiente es lo que llena el ojo y el corazón. Un valiente debe estar esforzándose y luchando en el momento de más necesidad. Y como un buen valiente, debe estar haciendo lo propio en las buenas y en las malas. Un valiente no mide cuando va a hacer algo, se da y ya. A veces queremos hacer bien pero tomamos muchas medidas, entonces no nos vamos a dar por completo. Un valiente se da en todo. El que intenta ser valiente, pero primero tiene 100 reglas para medir las cosas antes de actuar, entonces no es valiente nada. No podemos vencer en la guerra con tantas medidas de seguridad. A veces, tenemos nuestra guerra personal y eso estorba nuestro desempeño en la guerra de Dios donde se nos ha puesto para luchar. Nadie que sale a batallar en este camino debe arrastrar con su guerra personal. Eso lo que hace es socavar, interrumpir y detener los avances en la guerra de este camino de Dios. No es de fieles mezclar una cosa con la otra.\n\nAbisai y Benaía eran del segundo grupo de valientes de David. Cuidemos nuestro caminar y no hagamos según nuestra opinión personal, seamos fieles y sigamos al Espíritu Santo y lo que es la voluntad de Dios. 1 Samuel 26:6-11 David entendía que a él no le correspondía matar a Saúl. 2 Samuel 3:30 Abisai junto con su hermano Joab mataron a Abner, el general del rey Saúl. Por eso fueron descalificados, porque aunque valientes no eran fieles. Podemos tener la valentía, pero si escaseamos de fidelidad es porque hemos actuado como nos parece. Nosotros tenemos que entrar a Dios, conocer sus pensamientos y después de ahí es que podemos actuar. En el reino de David estos valientes tenían al ejército socavado debido a su infidelidad, dando órdenes que no eran las de David. Joab tenía autoridad cuando estaba con David y aunque parecía ser el más valiente, era infiel. Entró a tanta familiaridad con David que se creyó saber más que el rey y así adoctrinó en infidelidad a Abisai su hermano.\n\n2 Samuel 16:9,10 Abisai le era una carga a David porque siempre lo estaba presionando. Abisai era un atrevido. 2 Samuel 19:21 Hay cosas que le tocan a Dios y no a nosotros. David siempre supo esperar la justicia de Dios. 2 Samuel 21:17 Abisai amaba a David y su causa, pero en él había otra causa mayor con su hermano y eso lo calificó como un valiente infiel. Muchas veces por lo que no actuamos bien es porque tenemos dos causas. Debemos caminar de acuerdo a los principios de Dios. Se puede amar y aún así no ser fiel. Esto sucede debido a la fuerza con que nos hala la otra causa que no es la de Dios. Debemos componer nuestras vidas para ser valientes y fieles. Se puede amar a la iglesia y no ser fiel a ella. Se puede ser oveja y no amar. No caigamos en semejante error y condición, su fin es la caída.\n\n2 Samuel 8:18 Benaía estaba sobre los pueblos de los cereteos y peleteos. A él se le entregó un ejército. 2 Samuel 23:23 Fue puesto como jefe de la guardia personal de David. Cuando David veía a este hombre respiraba paz, su fidelidad le producía descanso. Por eso, puso su vida en sus manos. La fidelidad se huele y la valentía también. Benaía también estaba puesto en ese lugar de los valientes porque tenía la cualidad de ser un hombre fiel. 2 Samuel 23:20.\n\nI Reyes 1:36 Adonías tomó el trono sin que le perteneciera y David pensó en alguien más fiel que estuviera para el servicio del reino. Benaía estaba bien claro de que Dios siempre había respaldado y estado con David. Lo había visto, no había perdido de vista el trato de Dios con David. El sabía que su ejército era para el servicio y cuidado de los hijos de David. A Joab lo mató la sobre confianza en su cercanía a lo santo. Adonías había conquistado el corazón de Joab. Joab demostró que por lo que luchaba era por su propia causa y no por la causa de Israel. Aunque Joab era el de más alta posición y más valiente que Benaía, aún le faltaba algo: nunca había probado la fidelidad. Todo creyente y servidor de Dios debe gustar de la fidelidad. Toda aquella valentía que tenía era más bien porque había una posición de la que quería disfrutar. Si no somos fieles, cuando luchamos por algo nunca lo podremos terminar.\n\nI Reyes 2:29 A través de Benaía le vino la muerte y el fin a Joab. Salomón sabía que podía confiar en un gran servidor como Benaía que siempre había tenido para Dios un sí y un amén. Joab se metió en el altar de Jehová por su osadía. Cualquiera puede ser valiente pero no necesariamente ser fiel. Benaía buscaba el bien del pueblo, no lo suyo como hizo Joab. La valentía puede venir por muchas razones, la fidelidad viene por la única razón de que Dios está en nuestras vidas. Tomemos el lugar que Dios quiere en nuestras vidas, entonces así será de la única forma en que podremos ser fieles. Amén.",
+    "contenido_renderizado": [
+      {
+        "tipo": "parrafo",
+        "texto": "No hay nada más grande en un hombre que la fidelidad. Una pena que hoy día la fidelidad no es lo propio de la mayoría de la gente. La fidelidad es una cualidad perfecta, es hermosa. Sin embargo, vemos que detrás de muchas personas lo que se encuentra es la ambición. Difícil es que se haga algo por amor. Entonces, podemos ser muy valientes en muchas cosas, pero estar escasos de fidelidad. Detrás del varón Abisai había un tipo de ambición personal. Las ambiciones personales llevan a destrozar lo que sea que esté al frente de uno con el fin de adquirir lo que se quiere. Así que, a causa de las ambiciones muchos desconocen la fidelidad. Tenemos que luchar contra nuestra ambición personal durante toda nuestra vida, porque toda tentación es humana y no hay nada que no se pueda vencer. (1 Corintios 10:13) Estamos en un ejército donde todos luchamos por una misma causa. Cuando se lucha por las ambiciones personales siempre se busca cómo hacer que todo el mundo quede mal, cuando se debe luchar por una misma causa.",
+        "referencias_inline": [
+          "1 Corintios 10:13"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "El valiente que es fiel no traiciona. Pero a veces, el deseo de sobresalir siendo valiente es lo que llena el ojo y el corazón. Un valiente debe estar esforzándose y luchando en el momento de más necesidad. Y como un buen valiente, debe estar haciendo lo propio en las buenas y en las malas. Un valiente no mide cuando va a hacer algo, se da y ya. A veces queremos hacer bien pero tomamos muchas medidas, entonces no nos vamos a dar por completo. Un valiente se da en todo. El que intenta ser valiente, pero primero tiene 100 reglas para medir las cosas antes de actuar, entonces no es valiente nada. No podemos vencer en la guerra con tantas medidas de seguridad. A veces, tenemos nuestra guerra personal y eso estorba nuestro desempeño en la guerra de Dios donde se nos ha puesto para luchar. Nadie que sale a batallar en este camino debe arrastrar con su guerra personal. Eso lo que hace es socavar, interrumpir y detener los avances en la guerra de este camino de Dios. No es de fieles mezclar una cosa con la otra.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Abisai y Benaía eran del segundo grupo de valientes de David. Cuidemos nuestro caminar y no hagamos según nuestra opinión personal, seamos fieles y sigamos al Espíritu Santo y lo que es la voluntad de Dios. 1 Samuel 26:6-11 David entendía que a él no le correspondía matar a Saúl. 2 Samuel 3:30 Abisai junto con su hermano Joab mataron a Abner, el general del rey Saúl. Por eso fueron descalificados, porque aunque valientes no eran fieles. Podemos tener la valentía, pero si escaseamos de fidelidad es porque hemos actuado como nos parece. Nosotros tenemos que entrar a Dios, conocer sus pensamientos y después de ahí es que podemos actuar. En el reino de David estos valientes tenían al ejército socavado debido a su infidelidad, dando órdenes que no eran las de David. Joab tenía autoridad cuando estaba con David y aunque parecía ser el más valiente, era infiel. Entró a tanta familiaridad con David que se creyó saber más que el rey y así adoctrinó en infidelidad a Abisai su hermano.",
+        "referencias_inline": [
+          "1 Samuel 26:6-11",
+          "2 Samuel 3:30"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "2 Samuel 16:9,10 Abisai le era una carga a David porque siempre lo estaba presionando. Abisai era un atrevido. 2 Samuel 19:21 Hay cosas que le tocan a Dios y no a nosotros. David siempre supo esperar la justicia de Dios. 2 Samuel 21:17 Abisai amaba a David y su causa, pero en él había otra causa mayor con su hermano y eso lo calificó como un valiente infiel. Muchas veces por lo que no actuamos bien es porque tenemos dos causas. Debemos caminar de acuerdo a los principios de Dios. Se puede amar y aún así no ser fiel. Esto sucede debido a la fuerza con que nos hala la otra causa que no es la de Dios. Debemos componer nuestras vidas para ser valientes y fieles. Se puede amar a la iglesia y no ser fiel a ella. Se puede ser oveja y no amar. No caigamos en semejante error y condición, su fin es la caída.",
+        "referencias_inline": [
+          "2 Samuel 16:9,10",
+          "2 Samuel 19:21",
+          "2 Samuel 21:17"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "2 Samuel 8:18 Benaía estaba sobre los pueblos de los cereteos y peleteos. A él se le entregó un ejército. 2 Samuel 23:23 Fue puesto como jefe de la guardia personal de David. Cuando David veía a este hombre respiraba paz, su fidelidad le producía descanso. Por eso, puso su vida en sus manos. La fidelidad se huele y la valentía también. Benaía también estaba puesto en ese lugar de los valientes porque tenía la cualidad de ser un hombre fiel. 2 Samuel 23:20.",
+        "referencias_inline": [
+          "2 Samuel 8:18",
+          "2 Samuel 23:23",
+          "2 Samuel 23:20"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "I Reyes 1:36 Adonías tomó el trono sin que le perteneciera y David pensó en alguien más fiel que estuviera para el servicio del reino. Benaía estaba bien claro de que Dios siempre había respaldado y estado con David. Lo había visto, no había perdido de vista el trato de Dios con David. El sabía que su ejército era para el servicio y cuidado de los hijos de David. A Joab lo mató la sobre confianza en su cercanía a lo santo. Adonías había conquistado el corazón de Joab. Joab demostró que por lo que luchaba era por su propia causa y no por la causa de Israel. Aunque Joab era el de más alta posición y más valiente que Benaía, aún le faltaba algo: nunca había probado la fidelidad. Todo creyente y servidor de Dios debe gustar de la fidelidad. Toda aquella valentía que tenía era más bien porque había una posición de la que quería disfrutar. Si no somos fieles, cuando luchamos por algo nunca lo podremos terminar.",
+        "referencias_inline": [
+          "1 Reyes 1:36"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "I Reyes 2:29 A través de Benaía le vino la muerte y el fin a Joab. Salomón sabía que podía confiar en un gran servidor como Benaía que siempre había tenido para Dios un sí y un amén. Joab se metió en el altar de Jehová por su osadía. Cualquiera puede ser valiente pero no necesariamente ser fiel. Benaía buscaba el bien del pueblo, no lo suyo como hizo Joab. La valentía puede venir por muchas razones, la fidelidad viene por la única razón de que Dios está en nuestras vidas. Tomemos el lugar que Dios quiere en nuestras vidas, entonces así será de la única forma en que podremos ser fieles. Amén.",
+        "referencias_inline": [
+          "1 Reyes 2:29"
+        ]
+      }
+    ]
+  },
+  "busqueda": {
+    "texto_indexable": "si soy infiel mi valentia no contara por lo tanto siempre sere fiel 2 samuel 23 8 23 fidelidad de Dios tentacion servicio cristiano voluntad de Dios santidad arrepentimiento perseverancia corazon no hay nada mas grande en un hombre que la fidelidad una pena que hoy dia la fidelidad no es lo propio de la mayoria de la gente la fidelidad es una cualidad perfecta es hermosa sin embargo vemos que detras de muchas personas lo que se encuentra es la ambicion dificil es que se haga algo por amor entonces podemos ser muy valientes en muchas cosas pero estar escasos de fidelidad detras del varon abisai habia un tipo de ambicion personal las ambiciones personales llevan a destrozar lo que sea que este al frente de uno con el fin de adquirir lo que se quiere asi que a causa de las ambiciones muchos desconocen la fidelidad tenemos que luchar contra nuestra ambicion personal durante toda nuestra vida porque toda tentacion es humana y no hay nada que no se pueda vencer 1 corintios 10 13 estamos en un ejercito donde todos luchamos por una misma causa cuando se lucha por las ambiciones personales siempre se busca como hacer que todo el mundo quede mal cuando se debe luchar por una misma causa el valiente que es fiel no traiciona pero a veces el deseo de sobresalir siendo valiente es lo que llena el ojo y el corazon un valiente debe estar esforzandose y luchando en el momento de mas necesidad y como un buen valiente debe estar haciendo lo propio en las buenas y en las malas un valiente no mide cuando va a hacer algo se da y ya a veces queremos hacer bien pero tomamos muchas medidas entonces no nos vamos a dar por completo un valiente se da en todo el que intenta ser valiente pero primero tiene 100 reglas para medir las cosas antes de actuar entonces no es valiente nada no podemos vencer en la guerra con tantas medidas de seguridad a veces tenemos nuestra guerra personal y eso estorba nuestro desempeno en la guerra de Dios donde se nos ha puesto para luchar nadie que sale a batallar en este camino debe arrastrar con su guerra personal eso lo que hace es socavar interrumpir y detener los avances en la guerra de este camino de Dios no es de fieles mezclar una cosa con la otra abisai y benaia eran del segundo grupo de valientes de david cuidemos nuestro caminar y no hagamos segun nuestra opinion personal seamos fieles y sigamos al espiritu santo y lo que es la voluntad de Dios 1 samuel 26 6 11 david entendia que a el no le correspondia matar a saul 2 samuel 3 30 abisai junto con su hermano joab mataron a abner el general del rey saul por eso fueron descalificados porque aunque valientes no eran fieles podemos tener la valentia pero si escaseamos de fidelidad es porque hemos actuado como nos parece nosotros tenemos que entrar a Dios conocer sus pensamientos y despues de ahi es que podemos actuar en el reino de david estos valientes tenian al ejercito socavado debido a su infidelidad dando ordenes que no eran las de david joab tenia autoridad cuando estaba con david y aunque parecia ser el mas valiente era infiel entro a tanta familiaridad con david que se creyo saber mas que el rey y asi adoctrino en infidelidad a abisai su hermano 2 samuel 16 9 10 abisai le era una carga a david porque siempre lo estaba presionando abisai era un atrevido 2 samuel 19 21 hay cosas que le tocan a Dios y no a nosotros david siempre supo esperar la justicia de Dios 2 samuel 21 17 abisai amaba a david y su causa pero en el habia otra causa mayor con su hermano y eso lo califico como un valiente infiel muchas veces por lo que no actuamos bien es porque tenemos dos causas debemos caminar de acuerdo a los principios de Dios se puede amar y aun asi no ser fiel esto sucede debido a la fuerza con que nos hala la otra causa que no es la de Dios debemos componer nuestras vidas para ser valientes y fieles se puede amar a la iglesia y no ser fiel a ella se puede ser oveja y no amar no caigamos en semejante error y condicion su fin es la caida 2 samuel 8 18 benaia estaba sobre los pueblos de los cereteos y peleteos a el se le entrego un ejercito 2 samuel 23 23 fue puesto como jefe de la guardia personal de david cuando david veia a este hombre respiraba paz su fidelidad le producia descanso por eso puso su vida en sus manos la fidelidad se huele y la valentia tambien benaia tambien estaba puesto en ese lugar de los valientes porque tenia la cualidad de ser un hombre fiel 2 samuel 23 20 i reyes 1 36 adonias tomo el trono sin que le perteneciera y david penso en alguien mas fiel que estuviera para el servicio del reino benaia estaba bien claro de que Dios siempre habia respaldado y estado con david lo habia visto no habia perdido de vista el trato de Dios con david el sabia que su ejercito era para el servicio y cuidado de los hijos de david a joab lo mato la sobre confianza en su cercania a lo santo adonias habia conquistado el corazon de joab joab demostro que por lo que luchaba era por su propia causa y no por la causa de israel aunque joab era el de mas alta posicion y mas valiente que benaia aun le faltaba algo nunca habia probado la fidelidad todo creyente y servidor de Dios debe gustar de la fidelidad toda aquella valentia que tenia era mas bien porque habia una posicion de la que queria disfrutar si no somos fieles cuando luchamos por algo nunca lo podremos terminar i reyes 2 29 a traves de benaia le vino la muerte y el fin a joab salomon sabia que podia confiar en un gran servidor como benaia que siempre habia tenido para Dios un si y un amen joab se metio en el altar de jehova por su osadia cualquiera puede ser valiente pero no necesariamente ser fiel benaia buscaba el bien del pueblo no lo suyo como hizo joab la valentia puede venir por muchas razones la fidelidad viene por la unica razon de que Dios esta en nuestras vidas tomemos el lugar que Dios quiere en nuestras vidas entonces asi sera de la unica forma en que podremos ser fieles amen",
+    "alias_busqueda": [
+      "Si Soy Infiel, Mi Valentía No Contará, Por Lo Tanto Siempre Seré Fiel",
+      "2 Samuel",
+      "2 Samuel 23",
+      "2 Samuel 23:8-23",
+      "voluntad de Dios",
+      "santidad",
+      "arrepentimiento",
+      "perseverancia",
+      "Fidelidad de Dios",
+      "Tentación"
+    ]
+  },
+  "revision_manual": {
+    "requiere_revision": false,
+    "motivo": ""
+  },
+  "ui": {
+    "mostrar_credito_en_header": true,
+    "mostrar_numero_estudio": true,
+    "mostrar_fecha": true,
+    "mostrar_topicos": true,
+    "permitir_favorito": true,
+    "permitir_compartir": true
+  }
+}

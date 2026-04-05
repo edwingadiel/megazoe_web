@@ -1,0 +1,230 @@
+{
+  "id": "estudio-1330-estudio-1330",
+  "slug": "estudio-1330-estudio-1330",
+  "numero_estudio": 1330,
+  "tipo_estudio": "Iglesia en las casas",
+  "ministerio": {
+    "iglesia": "Iglesia Cristiana Mega Zoe",
+    "pastora": "Pastora Edith Cruz",
+    "credito_corto": "Iglesia Cristiana Mega Zoe · Pastora Edith Cruz",
+    "credito_largo": "Contenido original de Iglesia Cristiana Mega Zoe, conservando el crédito ministerial correspondiente a la Pastora Edith Cruz."
+  },
+  "identidad_editorial": {
+    "idioma": "es",
+    "fuente_original": "documento_word",
+    "archivo_origen": "/Users/edwingadiel/Desktop/Estudios en Word/Estudio #1330 Agradar al que nos escogió como soldado - 2 Timoteo 2 1-13.docx",
+    "estado_revision": "procesado",
+    "version_schema": "1.0"
+  },
+  "encabezado": {
+    "titulo": "Agradar al Que nos Escogió Como Soldados",
+    "subtitulo": null,
+    "cita_principal": "2 Timoteo 2:1-13",
+    "resumen_corto": "Agradar al Que nos Escogió Como Soldados enseña a atender la Palabra de Dios y servir fielmente al Señor."
+  },
+  "fechas": {
+    "fecha_inicio": null,
+    "fecha_fin": null,
+    "fecha_texto_original": "",
+    "ano": null
+  },
+  "clasificacion_biblica": {
+    "libro_principal": "2 Timoteo",
+    "capitulo_principal": 2,
+    "versiculos_principales": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13
+    ],
+    "referencia_principal_normalizada": "2 Timoteo 2:1-13",
+    "testamento_principal": "Nuevo Testamento"
+  },
+  "clasificacion_tematica": {
+    "topicos": [
+      "Palabra de Dios",
+      "Gracia de Dios",
+      "Servicio cristiano"
+    ],
+    "keywords": [
+      "verdad",
+      "santidad",
+      "oración",
+      "arrepentimiento",
+      "perseverancia"
+    ]
+  },
+  "referencias_biblicas": [
+    {
+      "referencia": "2 Timoteo 2:1-13",
+      "referencia_normalizada": "2 Timoteo 2:1-13",
+      "libro": "2 Timoteo",
+      "capitulo": 2,
+      "versiculos": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "tipo": "principal",
+      "clickeable": true
+    }
+  ],
+  "contenido": {
+    "introduccion": null,
+    "secciones": [],
+    "contenido_completo": "Esfuérzate en la gracia que es en Cristo Jesús.\n\nRevestíos de poder en la gracia que es en Cristo Jesús.\n\nSer valeroso con el poder que Su gracia provee.\n\nDebemos ser fiel por el Señor sin merecernos tal capacidad que proviene de estar unido a Él.\n\nPara Timoteo era un deber proveer el fortalecimiento espiritual de los demás.\n\nEnseñar lo conocido que había aprendido de Pablo.\n\nPablo estaba a punto de desaparecer de la escena y había enseñado fielmente a Timoteo en presencia de muchos testigos.\n\nEl tiempo de servicio de Timoteo mismo podría ser breve y él también debía \"ordenar\" de tal manera su ministerio que otros estuvieran separados.\n\n7. Si cada uno lleva la verdad de su parte, muchos podrán encontrarse con la Palabra de Dios y ser salvos.\n\nPero lo triste es que hay mucha maldad, y hay muchos obstáculos.\n\n(2) Timoteo ha de encargar la verdad a hombres \"fieles\" que crean y además sean fiables, así a la vez han de poder enseñar a otros.\n\n¡Cuídate, Timoteo de la competencia!\n\n(3) Timoteo es descrito por Pablo: (1) hijo, (3) soldado; (5) atleta; (6) labrador; (15) obrero; siervo (24). Como buen soldado de Jesucristo.\n\nUn buen soldado de Jesucristo; Timoteo debería sufrir \"padecimientos\" y \"penalidades\" (padecer, sufrir, angustia, desgracia, contratiempo, castigo, miseria), igual que Pablo.\n\n(4) Algún soldado en unas circunstancias tan críticas que se enreda en los negocios de la vida.\n\nUn soldado no debe permitir que las cosas ordinarias de la vida vengan a ser principal objeto de su existencia.\n\nEl puesto principal debe ser Cristo, no todo lo demás que te puede rodear como si no lo tuviésemos.\n\nTodo lo demás debe quedar al fondo.\n\nUn soldado en activo se mantiene preparado para recibir órdenes de la jefatura.\n\nSu deseo es \"agradar a aquel que lo tomó por soldado\".\n\nHemos sido alistados por el Señor y nuestro amor hacia Él nos debería llevar a \"tomarnos a la ligera las cosas de este mundo\", teniéndolas como si no lo tuviésemos. Amén.",
+    "contenido_renderizado": [
+      {
+        "tipo": "parrafo",
+        "texto": "Esfuérzate en la gracia que es en Cristo Jesús.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Revestíos de poder en la gracia que es en Cristo Jesús.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Ser valeroso con el poder que Su gracia provee.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Debemos ser fiel por el Señor sin merecernos tal capacidad que proviene de estar unido a Él.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Para Timoteo era un deber proveer el fortalecimiento espiritual de los demás.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Enseñar lo conocido que había aprendido de Pablo.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Pablo estaba a punto de desaparecer de la escena y había enseñado fielmente a Timoteo en presencia de muchos testigos.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "El tiempo de servicio de Timoteo mismo podría ser breve y él también debía \"ordenar\" de tal manera su ministerio que otros estuvieran separados.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "7. Si cada uno lleva la verdad de su parte, muchos podrán encontrarse con la Palabra de Dios y ser salvos.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Pero lo triste es que hay mucha maldad, y hay muchos obstáculos.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(2) Timoteo ha de encargar la verdad a hombres \"fieles\" que crean y además sean fiables, así a la vez han de poder enseñar a otros.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "¡Cuídate, Timoteo de la competencia!",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(3) Timoteo es descrito por Pablo: (1) hijo, (3) soldado; (5) atleta; (6) labrador; (15) obrero; siervo (24). Como buen soldado de Jesucristo.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Un buen soldado de Jesucristo; Timoteo debería sufrir \"padecimientos\" y \"penalidades\" (padecer, sufrir, angustia, desgracia, contratiempo, castigo, miseria), igual que Pablo.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(4) Algún soldado en unas circunstancias tan críticas que se enreda en los negocios de la vida.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Un soldado no debe permitir que las cosas ordinarias de la vida vengan a ser principal objeto de su existencia.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "El puesto principal debe ser Cristo, no todo lo demás que te puede rodear como si no lo tuviésemos.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Todo lo demás debe quedar al fondo.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Un soldado en activo se mantiene preparado para recibir órdenes de la jefatura.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Su deseo es \"agradar a aquel que lo tomó por soldado\".",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Hemos sido alistados por el Señor y nuestro amor hacia Él nos debería llevar a \"tomarnos a la ligera las cosas de este mundo\", teniéndolas como si no lo tuviésemos. Amén.",
+        "referencias_inline": []
+      }
+    ]
+  },
+  "busqueda": {
+    "texto_indexable": "agradar al que nos escogio como soldados 2 timoteo 2 1 13 palabra de Dios gracia de Dios servicio cristiano verdad santidad oracion arrepentimiento perseverancia esfuerzate en la gracia que es en cristo Jesus revestios de poder en la gracia que es en cristo Jesus ser valeroso con el poder que su gracia provee debemos ser fiel por el senor sin merecernos tal capacidad que proviene de estar unido a el para timoteo era un deber proveer el fortalecimiento espiritual de los demas ensenar lo conocido que habia aprendido de pablo pablo estaba a punto de desaparecer de la escena y habia ensenado fielmente a timoteo en presencia de muchos testigos el tiempo de servicio de timoteo mismo podria ser breve y el tambien debia ordenar de tal manera su ministerio que otros estuvieran separados 7 si cada uno lleva la verdad de su parte muchos podran encontrarse con la palabra de Dios y ser salvos pero lo triste es que hay mucha maldad y hay muchos obstaculos 2 timoteo ha de encargar la verdad a hombres fieles que crean y ademas sean fiables asi a la vez han de poder ensenar a otros cuidate timoteo de la competencia 3 timoteo es descrito por pablo 1 hijo 3 soldado 5 atleta 6 labrador 15 obrero siervo 24 como buen soldado de jesucristo un buen soldado de jesucristo timoteo deberia sufrir padecimientos y penalidades padecer sufrir angustia desgracia contratiempo castigo miseria igual que pablo 4 algun soldado en unas circunstancias tan criticas que se enreda en los negocios de la vida un soldado no debe permitir que las cosas ordinarias de la vida vengan a ser principal objeto de su existencia el puesto principal debe ser cristo no todo lo demas que te puede rodear como si no lo tuviesemos todo lo demas debe quedar al fondo un soldado en activo se mantiene preparado para recibir ordenes de la jefatura su deseo es agradar a aquel que lo tomo por soldado hemos sido alistados por el senor y nuestro amor hacia el nos deberia llevar a tomarnos a la ligera las cosas de este mundo teniendolas como si no lo tuviesemos amen",
+    "alias_busqueda": [
+      "Estudio 1330",
+      "2 Timoteo",
+      "2 Timoteo 2",
+      "2 Timoteo 2:1-13",
+      "verdad",
+      "santidad",
+      "oración",
+      "arrepentimiento",
+      "Palabra de Dios",
+      "Gracia de Dios"
+    ]
+  },
+  "revision_manual": {
+    "requiere_revision": false,
+    "motivo": ""
+  },
+  "ui": {
+    "mostrar_credito_en_header": true,
+    "mostrar_numero_estudio": true,
+    "mostrar_fecha": true,
+    "mostrar_topicos": true,
+    "permitir_favorito": true,
+    "permitir_compartir": true
+  }
+}

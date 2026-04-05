@@ -1,0 +1,423 @@
+{
+  "id": "estudio-1259-estudio-1259",
+  "slug": "estudio-1259-estudio-1259",
+  "numero_estudio": 1259,
+  "tipo_estudio": "Iglesia en las casas",
+  "ministerio": {
+    "iglesia": "Iglesia Cristiana Mega Zoe",
+    "pastora": "Pastora Edith Cruz",
+    "credito_corto": "Iglesia Cristiana Mega Zoe · Pastora Edith Cruz",
+    "credito_largo": "Contenido original de Iglesia Cristiana Mega Zoe, conservando el crédito ministerial correspondiente a la Pastora Edith Cruz."
+  },
+  "identidad_editorial": {
+    "idioma": "es",
+    "fuente_original": "documento_word",
+    "archivo_origen": "/Users/edwingadiel/Desktop/Estudios en Word/Estudio #1259 La santificación vale la sangre del Hijo de Dios - 1 Tesalonicenses 4 7.docx",
+    "estado_revision": "procesado",
+    "version_schema": "1.0"
+  },
+  "encabezado": {
+    "titulo": "La Santificación Vale La Sangre Del Hijo De Dios",
+    "subtitulo": null,
+    "cita_principal": "1 Tesalonicenses 4:7",
+    "resumen_corto": "La Santificación Vale La Sangre Del Hijo De Dios llama a guardar la santidad y vivir en santidad."
+  },
+  "fechas": {
+    "fecha_inicio": null,
+    "fecha_fin": null,
+    "fecha_texto_original": "",
+    "ano": null
+  },
+  "clasificacion_biblica": {
+    "libro_principal": "1 Tesalonicenses",
+    "capitulo_principal": 4,
+    "versiculos_principales": [
+      7
+    ],
+    "referencia_principal_normalizada": "1 Tesalonicenses 4:7",
+    "testamento_principal": "Nuevo Testamento"
+  },
+  "clasificacion_tematica": {
+    "topicos": [
+      "Santificación",
+      "Santidad",
+      "Palabra de Dios"
+    ],
+    "keywords": [
+      "vida eterna",
+      "temor de Dios",
+      "santidad",
+      "juicio",
+      "santificación",
+      "consagración"
+    ]
+  },
+  "referencias_biblicas": [
+    {
+      "referencia": "1 Tesalonicenses 4:7",
+      "referencia_normalizada": "1 Tesalonicenses 4:7",
+      "libro": "1 Tesalonicenses",
+      "capitulo": 4,
+      "versiculos": [
+        7
+      ],
+      "tipo": "principal",
+      "clickeable": true
+    },
+    {
+      "referencia": "Hebreos 12:14",
+      "referencia_normalizada": "Hebreos 12:14",
+      "libro": "Hebreos",
+      "capitulo": 12,
+      "versiculos": [
+        14
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "1 Pedro 1:13-19",
+      "referencia_normalizada": "1 Pedro 1:13-19",
+      "libro": "1 Pedro",
+      "capitulo": 1,
+      "versiculos": [
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "1 Pedro 1:15",
+      "referencia_normalizada": "1 Pedro 1:15",
+      "libro": "1 Pedro",
+      "capitulo": 1,
+      "versiculos": [
+        15
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "1 Pedro 1:17",
+      "referencia_normalizada": "1 Pedro 1:17",
+      "libro": "1 Pedro",
+      "capitulo": 1,
+      "versiculos": [
+        17
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Apocalipsis 20:11-15",
+      "referencia_normalizada": "Apocalipsis 20:11-15",
+      "libro": "Apocalipsis",
+      "capitulo": 20,
+      "versiculos": [
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "1 Corintios 3:12-15",
+      "referencia_normalizada": "1 Corintios 3:12-15",
+      "libro": "1 Corintios",
+      "capitulo": 3,
+      "versiculos": [
+        12,
+        13,
+        14,
+        15
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "1 Pedro 1:19",
+      "referencia_normalizada": "1 Pedro 1:19",
+      "libro": "1 Pedro",
+      "capitulo": 1,
+      "versiculos": [
+        19
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Hebreos 10:26-27",
+      "referencia_normalizada": "Hebreos 10:26-27",
+      "libro": "Hebreos",
+      "capitulo": 10,
+      "versiculos": [
+        26,
+        27
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Hebreos 10:14",
+      "referencia_normalizada": "Hebreos 10:14",
+      "libro": "Hebreos",
+      "capitulo": 10,
+      "versiculos": [
+        14
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Hechos 10:14",
+      "referencia_normalizada": "Hechos 10:14",
+      "libro": "Hechos",
+      "capitulo": 10,
+      "versiculos": [
+        14
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "2 Corintios 7:1",
+      "referencia_normalizada": "2 Corintios 7:1",
+      "libro": "2 Corintios",
+      "capitulo": 7,
+      "versiculos": [
+        1
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "1 Juan 3:2",
+      "referencia_normalizada": "1 Juan 3:2",
+      "libro": "1 Juan",
+      "capitulo": 3,
+      "versiculos": [
+        2
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Juan 3:2",
+      "referencia_normalizada": "Juan 3:2",
+      "libro": "Juan",
+      "capitulo": 3,
+      "versiculos": [
+        2
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "1 Corintios 15:51-53",
+      "referencia_normalizada": "1 Corintios 15:51-53",
+      "libro": "1 Corintios",
+      "capitulo": 15,
+      "versiculos": [
+        51,
+        52,
+        53
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Filipenses 3:20-21",
+      "referencia_normalizada": "Filipenses 3:20-21",
+      "libro": "Filipenses",
+      "capitulo": 3,
+      "versiculos": [
+        20,
+        21
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Hechos 1:8",
+      "referencia_normalizada": "Hechos 1:8",
+      "libro": "Hechos",
+      "capitulo": 1,
+      "versiculos": [
+        8
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Salmos 119:9",
+      "referencia_normalizada": "Salmos 119:9",
+      "libro": "Salmos",
+      "capitulo": 119,
+      "versiculos": [
+        9
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Juan 17:17",
+      "referencia_normalizada": "Juan 17:17",
+      "libro": "Juan",
+      "capitulo": 17,
+      "versiculos": [
+        17
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    }
+  ],
+  "contenido": {
+    "introduccion": null,
+    "secciones": [],
+    "contenido_completo": "No podemos dejar de santificarnos. El santificarse es toda la vida; toda una carrera en el camino de nuestro Dios. No nos podemos detener. Por tal razón, es que muchos no llegan hasta el final de sus días en la pureza del Señor y aunque corrieron en la santificación, pensaron que habían llegado a la santificación y sus pasos del camino se fueron poniendo lentos y al final del camino vuelven atrás.\n\nSantificaos = poner aparte, apartarlo para un fin.\n\n(Hebreos 12:14) ¡Sin santidad nadie verá a Dios!\n\nPorqué santificarnos: (1 Pedro 1:13-19) Dios es santo, la razón (1 Pedro 1:15) por la cual debemos ser santos. Nada inmundo se acerca a Él. En toda nuestra forma de vivir (1 Pedro 1:15). El carácter de Dios es santo y nada inmundo puede estar cerca de Él. Nosotros somos su pueblo no podemos vivir con el pecado porque Él es santo; (1 Pedro 1:17) Nuestras obras Dios las juzga. Debemos ser santos porque Dios juzgará todo pecado. (Apocalipsis 20:11-15); Para nuestras vidas (1 Corintios 3:12-15) hay un día cuando estaremos delante de Su presencia donde evaluará la \"calidad\" de nuestra vida piadosa y las \"intenciones\" por las cuales hicimos las cosas y algunos sufrirán vergüenza eterna en aquel día, aunque no se pierda la salvación: Porque (1 Pedro 1:19) Nuestra santificación vale la sangre de Cristo.\n\n(Hebreos 10:26-27) Debemos ser santos porque nuestra propia santificación vale la sangre del Hijo de Dios. Cada vez que pecamos estamos menospreciando el sacrificio que nuestro Señor Jesucristo hizo en la cruz del Calvario, aquel acto \"vicario\" de supremo sacrificio que hizo para perdonar nuestros pecados, limpiarnos de nuestras maldades y darnos vida eterna sería pisoteado, más seguro es que va rumbo al juicio eterno.\n\n(Hebreos 10:14) La santificación es tanto absoluta como progresiva: porque con una sola ofrenda hizo perfectos para siempre a los santificados. Absoluta en el sentido de que se trata de una obra hecha de una vez para siempre. El creyente es santo en función de su posición en Cristo ya que Él lo ha limpiado de todos sus pecados, \"pero\", ha sido llamado a \"vivir en santidad\" y perfeccionarse. A esto se le conoce como la santificación práctica progresiva. De esto, (Myer P.) nos dice: La santificación es tanto absoluta como progresiva. Absoluta en el sentido de que se trata de una obra hecha de una vez para siempre (Hebreos 10:14) y progresiva en el sentido de que el creyente debe seguir la santidad (Hechos 10:14) y perfeccionar su consagración limpiándose de toda inmundicia (2 Corintios 7:1). Ha de esperarse que nosotros los cristianos nos apartemos de toda inmundicia y vivamos piadosamente en este mundo, como verdaderos redimidos; \"perfeccionando la santidad \"en el temor de Dios\".\n\n(1 Juan 3:2) La santificación final o perfecta. Estamos en la tierra llamados a perfeccionar nuestra santidad, pero aún seguimos siendo seres imperfectos, pero un día Dios se glorificará en nuestro ser llevándonos a la santidad perfecta. Ya sea en el rapto o al momento de pasar a Su presencia al morir, la obra que Cristo inicio se perfeccionará llevándolo a la santificación perfecta: (1 Juan 3:2) \"Amados ahora somos hijos de Dios y aún no se ha manifestado lo que hemos de ser; pero sabemos que cuando Él se manifieste seremos semejantes a él, porque le veremos tal como Él es. (Lewis) explica como esta santificación perfecta se opera en nuestras vidas: Santificación definitiva es aquel aspecto relacionado con nuestra perfección final y la poseeremos en la gloria\", por Su gracia y por Su poder transformador. Él nos habrá transformado de tal modo el espíritu, el alma y el cuerpo que seremos como Él es, seremos conformados a su imagen. Entonces nos hará entrar perfectos en la presencia de su gloria. Su esposa estará libre de toda mancha y arruga, por lo tanto, es propio que nos abstengamos de toda apariencia de mal.\n\n(1 Corintios 15:51-53) De tal forma, que llegará el momento que nuestro cuerpo mortal se convertirá en un cuerpo completamente glorificado y entonces se dará la santificación perfecta. Mientras tanto, debemos esforzarnos por perfeccionar nuestra santidad delante de Dios hasta llegar al cielo, hasta que finalmente estemos delante de Su presencia: (Filipenses 3:20-21).\n\nMedio perfeccionar la santidad:\n\nEspíritu Santo (Hechos 1:8) Tienes tu vieja naturaleza.\n\nRecibir poder, cuando el Espíritu llega sobre uno.\n\nLa Palabra de Dios:\n\n(Salmos 119:9) ¿Con qué limpiará el joven su camino?\n\nCon guardar tu palabra.\n\n(Juan 17:17) Santifícalos en Tu verdad; Tu palabra es verdad.\n\nLeer todos los días te santifica en Su palabra, a la medida que la obedezcas. Amén.",
+    "contenido_renderizado": [
+      {
+        "tipo": "parrafo",
+        "texto": "No podemos dejar de santificarnos. El santificarse es toda la vida; toda una carrera en el camino de nuestro Dios. No nos podemos detener. Por tal razón, es que muchos no llegan hasta el final de sus días en la pureza del Señor y aunque corrieron en la santificación, pensaron que habían llegado a la santificación y sus pasos del camino se fueron poniendo lentos y al final del camino vuelven atrás.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Santificaos = poner aparte, apartarlo para un fin.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Hebreos 12:14) ¡Sin santidad nadie verá a Dios!",
+        "referencias_inline": [
+          "Hebreos 12:14"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Porqué santificarnos: (1 Pedro 1:13-19) Dios es santo, la razón (1 Pedro 1:15) por la cual debemos ser santos. Nada inmundo se acerca a Él. En toda nuestra forma de vivir (1 Pedro 1:15). El carácter de Dios es santo y nada inmundo puede estar cerca de Él. Nosotros somos su pueblo no podemos vivir con el pecado porque Él es santo; (1 Pedro 1:17) Nuestras obras Dios las juzga. Debemos ser santos porque Dios juzgará todo pecado. (Apocalipsis 20:11-15); Para nuestras vidas (1 Corintios 3:12-15) hay un día cuando estaremos delante de Su presencia donde evaluará la \"calidad\" de nuestra vida piadosa y las \"intenciones\" por las cuales hicimos las cosas y algunos sufrirán vergüenza eterna en aquel día, aunque no se pierda la salvación: Porque (1 Pedro 1:19) Nuestra santificación vale la sangre de Cristo.",
+        "referencias_inline": [
+          "1 Pedro 1:13-19",
+          "1 Pedro 1:15",
+          "1 Pedro 1:17",
+          "Apocalipsis 20:11-15",
+          "1 Corintios 3:12-15",
+          "1 Pedro 1:19"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Hebreos 10:26-27) Debemos ser santos porque nuestra propia santificación vale la sangre del Hijo de Dios. Cada vez que pecamos estamos menospreciando el sacrificio que nuestro Señor Jesucristo hizo en la cruz del Calvario, aquel acto \"vicario\" de supremo sacrificio que hizo para perdonar nuestros pecados, limpiarnos de nuestras maldades y darnos vida eterna sería pisoteado, más seguro es que va rumbo al juicio eterno.",
+        "referencias_inline": [
+          "Hebreos 10:26-27"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Hebreos 10:14) La santificación es tanto absoluta como progresiva: porque con una sola ofrenda hizo perfectos para siempre a los santificados. Absoluta en el sentido de que se trata de una obra hecha de una vez para siempre. El creyente es santo en función de su posición en Cristo ya que Él lo ha limpiado de todos sus pecados, \"pero\", ha sido llamado a \"vivir en santidad\" y perfeccionarse. A esto se le conoce como la santificación práctica progresiva. De esto, (Myer P.) nos dice: La santificación es tanto absoluta como progresiva. Absoluta en el sentido de que se trata de una obra hecha de una vez para siempre (Hebreos 10:14) y progresiva en el sentido de que el creyente debe seguir la santidad (Hechos 10:14) y perfeccionar su consagración limpiándose de toda inmundicia (2 Corintios 7:1). Ha de esperarse que nosotros los cristianos nos apartemos de toda inmundicia y vivamos piadosamente en este mundo, como verdaderos redimidos; \"perfeccionando la santidad \"en el temor de Dios\".",
+        "referencias_inline": [
+          "Hebreos 10:14",
+          "Hechos 10:14",
+          "2 Corintios 7:1"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(1 Juan 3:2) La santificación final o perfecta. Estamos en la tierra llamados a perfeccionar nuestra santidad, pero aún seguimos siendo seres imperfectos, pero un día Dios se glorificará en nuestro ser llevándonos a la santidad perfecta. Ya sea en el rapto o al momento de pasar a Su presencia al morir, la obra que Cristo inicio se perfeccionará llevándolo a la santificación perfecta: (1 Juan 3:2) \"Amados ahora somos hijos de Dios y aún no se ha manifestado lo que hemos de ser; pero sabemos que cuando Él se manifieste seremos semejantes a él, porque le veremos tal como Él es. (Lewis) explica como esta santificación perfecta se opera en nuestras vidas: Santificación definitiva es aquel aspecto relacionado con nuestra perfección final y la poseeremos en la gloria\", por Su gracia y por Su poder transformador. Él nos habrá transformado de tal modo el espíritu, el alma y el cuerpo que seremos como Él es, seremos conformados a su imagen. Entonces nos hará entrar perfectos en la presencia de su gloria. Su esposa estará libre de toda mancha y arruga, por lo tanto, es propio que nos abstengamos de toda apariencia de mal.",
+        "referencias_inline": [
+          "1 Juan 3:2",
+          "Juan 3:2"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(1 Corintios 15:51-53) De tal forma, que llegará el momento que nuestro cuerpo mortal se convertirá en un cuerpo completamente glorificado y entonces se dará la santificación perfecta. Mientras tanto, debemos esforzarnos por perfeccionar nuestra santidad delante de Dios hasta llegar al cielo, hasta que finalmente estemos delante de Su presencia: (Filipenses 3:20-21).",
+        "referencias_inline": [
+          "1 Corintios 15:51-53",
+          "Filipenses 3:20-21"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Medio perfeccionar la santidad:",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Espíritu Santo (Hechos 1:8) Tienes tu vieja naturaleza.",
+        "referencias_inline": [
+          "Hechos 1:8"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Recibir poder, cuando el Espíritu llega sobre uno.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "La Palabra de Dios:",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Salmos 119:9) ¿Con qué limpiará el joven su camino?",
+        "referencias_inline": [
+          "Salmos 119:9"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Con guardar tu palabra.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Juan 17:17) Santifícalos en Tu verdad; Tu palabra es verdad.",
+        "referencias_inline": [
+          "Juan 17:17"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Leer todos los días te santifica en Su palabra, a la medida que la obedezcas. Amén.",
+        "referencias_inline": []
+      }
+    ]
+  },
+  "busqueda": {
+    "texto_indexable": "la santificacion vale la sangre del hijo de Dios 1 tesalonicenses 4 7 santificacion santidad palabra de Dios vida eterna temor de Dios santidad juicio santificacion consagracion no podemos dejar de santificarnos el santificarse es toda la vida toda una carrera en el camino de nuestro Dios no nos podemos detener por tal razon es que muchos no llegan hasta el final de sus dias en la pureza del senor y aunque corrieron en la santificacion pensaron que habian llegado a la santificacion y sus pasos del camino se fueron poniendo lentos y al final del camino vuelven atras santificaos poner aparte apartarlo para un fin hebreos 12 14 sin santidad nadie vera a Dios porque santificarnos 1 pedro 1 13 19 Dios es santo la razon 1 pedro 1 15 por la cual debemos ser santos nada inmundo se acerca a el en toda nuestra forma de vivir 1 pedro 1 15 el caracter de Dios es santo y nada inmundo puede estar cerca de el nosotros somos su pueblo no podemos vivir con el pecado porque el es santo 1 pedro 1 17 nuestras obras Dios las juzga debemos ser santos porque Dios juzgara todo pecado apocalipsis 20 11 15 para nuestras vidas 1 corintios 3 12 15 hay un dia cuando estaremos delante de su presencia donde evaluara la calidad de nuestra vida piadosa y las intenciones por las cuales hicimos las cosas y algunos sufriran verguenza eterna en aquel dia aunque no se pierda la salvacion porque 1 pedro 1 19 nuestra santificacion vale la sangre de cristo hebreos 10 26 27 debemos ser santos porque nuestra propia santificacion vale la sangre del hijo de Dios cada vez que pecamos estamos menospreciando el sacrificio que nuestro senor jesucristo hizo en la cruz del calvario aquel acto vicario de supremo sacrificio que hizo para perdonar nuestros pecados limpiarnos de nuestras maldades y darnos vida eterna seria pisoteado mas seguro es que va rumbo al juicio eterno hebreos 10 14 la santificacion es tanto absoluta como progresiva porque con una sola ofrenda hizo perfectos para siempre a los santificados absoluta en el sentido de que se trata de una obra hecha de una vez para siempre el creyente es santo en funcion de su posicion en cristo ya que el lo ha limpiado de todos sus pecados pero ha sido llamado a vivir en santidad y perfeccionarse a esto se le conoce como la santificacion practica progresiva de esto myer p nos dice la santificacion es tanto absoluta como progresiva absoluta en el sentido de que se trata de una obra hecha de una vez para siempre hebreos 10 14 y progresiva en el sentido de que el creyente debe seguir la santidad hechos 10 14 y perfeccionar su consagracion limpiandose de toda inmundicia 2 corintios 7 1 ha de esperarse que nosotros los cristianos nos apartemos de toda inmundicia y vivamos piadosamente en este mundo como verdaderos redimidos perfeccionando la santidad en el temor de Dios 1 juan 3 2 la santificacion final o perfecta estamos en la tierra llamados a perfeccionar nuestra santidad pero aun seguimos siendo seres imperfectos pero un dia Dios se glorificara en nuestro ser llevandonos a la santidad perfecta ya sea en el rapto o al momento de pasar a su presencia al morir la obra que cristo inicio se perfeccionara llevandolo a la santificacion perfecta 1 juan 3 2 amados ahora somos hijos de Dios y aun no se ha manifestado lo que hemos de ser pero sabemos que cuando el se manifieste seremos semejantes a el porque le veremos tal como el es lewis explica como esta santificacion perfecta se opera en nuestras vidas santificacion definitiva es aquel aspecto relacionado con nuestra perfeccion final y la poseeremos en la gloria por su gracia y por su poder transformador el nos habra transformado de tal modo el espiritu el alma y el cuerpo que seremos como el es seremos conformados a su imagen entonces nos hara entrar perfectos en la presencia de su gloria su esposa estara libre de toda mancha y arruga por lo tanto es propio que nos abstengamos de toda apariencia de mal 1 corintios 15 51 53 de tal forma que llegara el momento que nuestro cuerpo mortal se convertira en un cuerpo completamente glorificado y entonces se dara la santificacion perfecta mientras tanto debemos esforzarnos por perfeccionar nuestra santidad delante de Dios hasta llegar al cielo hasta que finalmente estemos delante de su presencia filipenses 3 20 21 medio perfeccionar la santidad espiritu santo hechos 1 8 tienes tu vieja naturaleza recibir poder cuando el espiritu llega sobre uno la palabra de Dios salmo 119 9 con que limpiara el joven su camino con guardar tu palabra juan 17 17 santificalos en tu verdad tu palabra es verdad leer todos los dias te santifica en su palabra a la medida que la obedezcas amen",
+    "alias_busqueda": [
+      "Estudio 1259",
+      "1 Tesalonicenses",
+      "1 Tesalonicenses 4",
+      "1 Tesalonicenses 4:7",
+      "vida eterna",
+      "temor de Dios",
+      "santidad",
+      "juicio",
+      "Santificación"
+    ]
+  },
+  "revision_manual": {
+    "requiere_revision": false,
+    "motivo": ""
+  },
+  "ui": {
+    "mostrar_credito_en_header": true,
+    "mostrar_numero_estudio": true,
+    "mostrar_fecha": true,
+    "mostrar_topicos": true,
+    "permitir_favorito": true,
+    "permitir_compartir": true
+  }
+}

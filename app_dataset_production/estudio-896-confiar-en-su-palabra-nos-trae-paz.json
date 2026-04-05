@@ -1,0 +1,284 @@
+{
+  "id": "estudio-896-confiar-en-su-palabra-nos-trae-paz",
+  "slug": "estudio-896-confiar-en-su-palabra-nos-trae-paz",
+  "numero_estudio": 896,
+  "tipo_estudio": "Iglesia en las casas",
+  "ministerio": {
+    "iglesia": "Iglesia Cristiana Mega Zoe",
+    "pastora": "Pastora Edith Cruz",
+    "credito_corto": "Iglesia Cristiana Mega Zoe · Pastora Edith Cruz",
+    "credito_largo": "Contenido original de Iglesia Cristiana Mega Zoe, conservando el crédito ministerial correspondiente a la Pastora Edith Cruz."
+  },
+  "identidad_editorial": {
+    "idioma": "es",
+    "fuente_original": "documento_word",
+    "archivo_origen": "/Users/edwingadiel/Desktop/Estudios en Word/Estudio #896 Confiar En Su Palabra Nos Trae Paz Isaías 26 3.docx",
+    "estado_revision": "procesado",
+    "version_schema": "1.0"
+  },
+  "encabezado": {
+    "titulo": "Confiar En Su Palabra Nos Trae Paz",
+    "subtitulo": null,
+    "cita_principal": "Isaías 26:3",
+    "resumen_corto": "Confiar En Su Palabra Nos Trae Paz enseña a atender la Palabra de Dios y permanecer como discípulos de Jesús."
+  },
+  "fechas": {
+    "fecha_inicio": null,
+    "fecha_fin": null,
+    "fecha_texto_original": "",
+    "ano": null
+  },
+  "clasificacion_biblica": {
+    "libro_principal": "Isaías",
+    "capitulo_principal": 26,
+    "versiculos_principales": [
+      3
+    ],
+    "referencia_principal_normalizada": "Isaías 26:3",
+    "testamento_principal": "Antiguo Testamento"
+  },
+  "clasificacion_tematica": {
+    "topicos": [
+      "Palabra de Dios",
+      "Discipulado",
+      "Confianza en Dios",
+      "Paz",
+      "Bendición"
+    ],
+    "keywords": [
+      "arrepentimiento",
+      "perseverancia",
+      "escogidos",
+      "corazón",
+      "arca"
+    ]
+  },
+  "referencias_biblicas": [
+    {
+      "referencia": "Isaías 26:3",
+      "referencia_normalizada": "Isaías 26:3",
+      "libro": "Isaías",
+      "capitulo": 26,
+      "versiculos": [
+        3
+      ],
+      "tipo": "principal",
+      "clickeable": true
+    },
+    {
+      "referencia": "Isaías 40:8",
+      "referencia_normalizada": "Isaías 40:8",
+      "libro": "Isaías",
+      "capitulo": 40,
+      "versiculos": [
+        8
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Lucas 11:28",
+      "referencia_normalizada": "Lucas 11:28",
+      "libro": "Lucas",
+      "capitulo": 11,
+      "versiculos": [
+        28
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Juan 8:31-32",
+      "referencia_normalizada": "Juan 8:31-32",
+      "libro": "Juan",
+      "capitulo": 8,
+      "versiculos": [
+        31,
+        32
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Salmos 112:7,8",
+      "referencia_normalizada": "Salmos 112:7,8",
+      "libro": "Salmos",
+      "capitulo": 112,
+      "versiculos": [
+        7,
+        8
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Filipenses 4:9",
+      "referencia_normalizada": "Filipenses 4:9",
+      "libro": "Filipenses",
+      "capitulo": 4,
+      "versiculos": [
+        9
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Proverbios 29:25",
+      "referencia_normalizada": "Proverbios 29:25",
+      "libro": "Proverbios",
+      "capitulo": 29,
+      "versiculos": [
+        25
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Génesis 12:12",
+      "referencia_normalizada": "Génesis 12:12",
+      "libro": "Génesis",
+      "capitulo": 12,
+      "versiculos": [
+        12
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Génesis 12:3",
+      "referencia_normalizada": "Génesis 12:3",
+      "libro": "Génesis",
+      "capitulo": 12,
+      "versiculos": [
+        3
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Génesis 20:3",
+      "referencia_normalizada": "Génesis 20:3",
+      "libro": "Génesis",
+      "capitulo": 20,
+      "versiculos": [
+        3
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Juan 18:25",
+      "referencia_normalizada": "Juan 18:25",
+      "libro": "Juan",
+      "capitulo": 18,
+      "versiculos": [
+        25
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Salmos 125:1",
+      "referencia_normalizada": "Salmos 125:1",
+      "libro": "Salmos",
+      "capitulo": 125,
+      "versiculos": [
+        1
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    }
+  ],
+  "contenido": {
+    "introduccion": null,
+    "secciones": [],
+    "contenido_completo": "\"Tú guardarás en completa paz a aquel cuyo pensamiento en ti persevera; porque en ti ha confiado.\" Tenemos que conocer más. La hierba se seca y la flor se marchita, pero la Palabra de nuestro Dios permanece para siempre (Isaías 40:8). Dichosos más bien, contestó Jesús, son los que oyen la Palabra de Dios y la obedecen (Lucas 11:28). \"Dijo entonces Jesús a los judíos que habían creído en Él: Si vosotros permaneciereis en mi palabra, seréis verdaderamente mis discípulos; y conoceréis la verdad y la verdad os hará libres.\" (Juan 8:31-32)\n\nCuando conoces la verdad de su Palabra ERES LIBRE. Nada te ata, nada te hace esclavo, nada te lleva a la desesperación; hay un descansar en una confianza absolutamente en Dios. Dice la Biblia: \"Tú guardarás en completa paz a aquel cuyo pensamiento en ti persevera.\" Dice aquí: \"¡…PERSEVERA!\" Así que ser guardado por Dios en completa paz es para todo aquel que se mantiene firme y constante en la Palabra. Es para el que persiste. Para el que no vuelve su cara atrás. Para el que tiene una disposición constante hacia la Palabra de Dios. Señor, al tal Tú lo guardarás en paz, esto es en perfecta paz; la razón de esto es porque en ti confía (Salmos 112:7,8 \"No tendrá temor de malas noticias; Su corazón está firme, confiado en Jehová. Asegurado está su corazón; no temerá, hasta que vea en sus enemigos su deseo.\"). Los que de veras confían en Dios, gozan de completa paz, por el Dios de paz (Filipenses 4:9 \"Lo que aprendisteis y recibisteis y oísteis y visteis en mí, esto haced; y el Dios de paz estará con vosotros.\"). El Dios de paz los guarda en esa paz a pesar de todas las aflicciones. Aunque haya aflicciones a Dios no se le quita la paz y si Dios nunca pierde la paz Él es el proveedor de esa paz para tu vida, pues sigue manando su paz aunque haya la aflicción.\n\nNos vienen muchas adversidades porque hay furiosas tempestades que nos azotan. En las adversidades es que te pruebas para que puedas salir de ellas como todo un guerrero. Lo que se puede ver como mala suerte no es sino una prueba de nuestra confianza en Dios. Hablamos de las situaciones desgraciadas que se pasan. Cuando parezca que no nos queda ninguna otra cosa o persona en quien confiar HEMOS DE CONFIAR EN Dios SIEMPRE, SIEMPRE, SIEMPRE; EN TODO TIEMPO CON TODO EL CORAZÓN Y CON TODA LA MENTE. En lo que de aquí abajo ponemos nuestra confianza en algún momento se desvanece, pero los que ponemos la confianza en Dios nuestra paz perdurará por toda la eternidad.\n\nEl lazo que ata viene cuando tu temor te invade (Proverbios 29:25 \"El temor del hombre pondrá lazo; más el que confía en Jehová será exaltado.\"). Tu temor te pondrá lazo. Aún hombres buenos o justos como Abraham y Pedro pasaron por esto, también ellos por temor cayeron en el lazo. ¿Cuántas veces caes en el lazo del temor? ¡Un temor que te amarra y hace que \"tu embarcación no pueda salir del muelle\"! Al no poder romperse ese lazo no puedes navegar y llegar a donde es necesario que llegues.\n\nSabemos del gran temor de Abraham que por temor a los hombres cayó en el lazo (Génesis 12:12 \"Y aconteció que cuando estaba para entrar en Egipto, dijo a Sarai su mujer: He aquí, ahora conozco que eres mujer de hermoso aspecto; y cuando te vean los egipcios, dirán: Su mujer es; Y ME MATARÁN A MÍ, y a ti te reservarán la vida.\"). Pensó que los egipcios lo matarían por causa de Sara, y le dijo a ella: \"…pues, di que eres mi hermana\" (Génesis 12:3). En Génesis 20:3 vemos que otra vez le sucedió lo mismo con Abimelec, el rey de Gerar. Ya una vez Dios lo había librado en Egipto y ahora de igual manera vuelve a perder la confianza. Por tal razón, Abraham SE DESESPERA, LE VIENE EL LAZO Y SE LE VA LA PAZ.\n\nAl apóstol Pedro también le vino el lazo y negó al Maestro; el lazo del temor se le aferró a su cuello y al sentir que se ahogaba lo negó porque en él ya no había la paz (Juan 18:25 \"…y le dijeron: ¿No eres tú de sus discípulos? El negó, y dijo: No lo soy.\"). Solo tu confiar te pondrá en alto. Es que nuestro pensamiento siempre debe ser en Él, en ese pensamiento debemos perseverar, como se nos dice en Isaías 26:3.\n\nSalmo 125:1 \"Los que confían en Jehová son como el monte de Sion, que no se mueve, sino que permanece para siempre.\" Es la confianza en el que nos llamó. Es la bendición de los que confían en Dios siempre, no importando cual sea la adversidad. La promesa es paz, paz, paz. Serán como el gran monte de Sion, donde estaba la fortaleza de David. Allí se levantó un reino de victoria. Pero, para que exista en la historia la palabra victoria es porque hubo una guerra. Cuando confías en Dios no te mueve nadie. Somos el pueblo de Dios. Dios nos ha dado una heredad por ser escogidos por el mismo Dios. Pues hemos de confiar; pues somos llamados. Dependemos de Dios, en Él nos refugiamos. Cuanto mayor sea nuestra confianza en Dios mayor será la esperanza que abrigaremos de que Él vendrá en nuestro auxilio. Las promesas de Dios son éstas: (A) Que disfrutarás de una seguridad inconmovible; como el monte de Sion; pues para aquellos que residían en Jerusalén, esa ciudad santa les era símbolo de permanencia. (B) Que esa seguridad se deberá al cuidado y a la protección de Dios, lo que está tipificado en las montañas que rodean a Jerusalén.\n\nNadie puede o debe mover tu confianza en la verdad que te ha sido dada por Él. Porque con su paz Él te sustentará hasta que llegues a Él en aquel futuro y glorioso día. Amén.",
+    "contenido_renderizado": [
+      {
+        "tipo": "parrafo",
+        "texto": "\"Tú guardarás en completa paz a aquel cuyo pensamiento en ti persevera; porque en ti ha confiado.\" Tenemos que conocer más. La hierba se seca y la flor se marchita, pero la Palabra de nuestro Dios permanece para siempre (Isaías 40:8). Dichosos más bien, contestó Jesús, son los que oyen la Palabra de Dios y la obedecen (Lucas 11:28). \"Dijo entonces Jesús a los judíos que habían creído en Él: Si vosotros permaneciereis en mi palabra, seréis verdaderamente mis discípulos; y conoceréis la verdad y la verdad os hará libres.\" (Juan 8:31-32)",
+        "referencias_inline": [
+          "Isaías 40:8",
+          "Lucas 11:28",
+          "Juan 8:31-32"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Cuando conoces la verdad de su Palabra ERES LIBRE. Nada te ata, nada te hace esclavo, nada te lleva a la desesperación; hay un descansar en una confianza absolutamente en Dios. Dice la Biblia: \"Tú guardarás en completa paz a aquel cuyo pensamiento en ti persevera.\" Dice aquí: \"¡…PERSEVERA!\" Así que ser guardado por Dios en completa paz es para todo aquel que se mantiene firme y constante en la Palabra. Es para el que persiste. Para el que no vuelve su cara atrás. Para el que tiene una disposición constante hacia la Palabra de Dios. Señor, al tal Tú lo guardarás en paz, esto es en perfecta paz; la razón de esto es porque en ti confía (Salmos 112:7,8 \"No tendrá temor de malas noticias; Su corazón está firme, confiado en Jehová. Asegurado está su corazón; no temerá, hasta que vea en sus enemigos su deseo.\"). Los que de veras confían en Dios, gozan de completa paz, por el Dios de paz (Filipenses 4:9 \"Lo que aprendisteis y recibisteis y oísteis y visteis en mí, esto haced; y el Dios de paz estará con vosotros.\"). El Dios de paz los guarda en esa paz a pesar de todas las aflicciones. Aunque haya aflicciones a Dios no se le quita la paz y si Dios nunca pierde la paz Él es el proveedor de esa paz para tu vida, pues sigue manando su paz aunque haya la aflicción.",
+        "referencias_inline": [
+          "Salmos 112:7,8",
+          "Filipenses 4:9"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Nos vienen muchas adversidades porque hay furiosas tempestades que nos azotan. En las adversidades es que te pruebas para que puedas salir de ellas como todo un guerrero. Lo que se puede ver como mala suerte no es sino una prueba de nuestra confianza en Dios. Hablamos de las situaciones desgraciadas que se pasan. Cuando parezca que no nos queda ninguna otra cosa o persona en quien confiar HEMOS DE CONFIAR EN Dios SIEMPRE, SIEMPRE, SIEMPRE; EN TODO TIEMPO CON TODO EL CORAZÓN Y CON TODA LA MENTE. En lo que de aquí abajo ponemos nuestra confianza en algún momento se desvanece, pero los que ponemos la confianza en Dios nuestra paz perdurará por toda la eternidad.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "El lazo que ata viene cuando tu temor te invade (Proverbios 29:25 \"El temor del hombre pondrá lazo; más el que confía en Jehová será exaltado.\"). Tu temor te pondrá lazo. Aún hombres buenos o justos como Abraham y Pedro pasaron por esto, también ellos por temor cayeron en el lazo. ¿Cuántas veces caes en el lazo del temor? ¡Un temor que te amarra y hace que \"tu embarcación no pueda salir del muelle\"! Al no poder romperse ese lazo no puedes navegar y llegar a donde es necesario que llegues.",
+        "referencias_inline": [
+          "Proverbios 29:25"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Sabemos del gran temor de Abraham que por temor a los hombres cayó en el lazo (Génesis 12:12 \"Y aconteció que cuando estaba para entrar en Egipto, dijo a Sarai su mujer: He aquí, ahora conozco que eres mujer de hermoso aspecto; y cuando te vean los egipcios, dirán: Su mujer es; Y ME MATARÁN A MÍ, y a ti te reservarán la vida.\"). Pensó que los egipcios lo matarían por causa de Sara, y le dijo a ella: \"…pues, di que eres mi hermana\" (Génesis 12:3). En Génesis 20:3 vemos que otra vez le sucedió lo mismo con Abimelec, el rey de Gerar. Ya una vez Dios lo había librado en Egipto y ahora de igual manera vuelve a perder la confianza. Por tal razón, Abraham SE DESESPERA, LE VIENE EL LAZO Y SE LE VA LA PAZ.",
+        "referencias_inline": [
+          "Génesis 12:12",
+          "Génesis 12:3",
+          "Génesis 20:3"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Al apóstol Pedro también le vino el lazo y negó al Maestro; el lazo del temor se le aferró a su cuello y al sentir que se ahogaba lo negó porque en él ya no había la paz (Juan 18:25 \"…y le dijeron: ¿No eres tú de sus discípulos? El negó, y dijo: No lo soy.\"). Solo tu confiar te pondrá en alto. Es que nuestro pensamiento siempre debe ser en Él, en ese pensamiento debemos perseverar, como se nos dice en Isaías 26:3.",
+        "referencias_inline": [
+          "Juan 18:25",
+          "Isaías 26:3"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Salmos 125:1 \"Los que confían en Jehová son como el monte de Sion, que no se mueve, sino que permanece para siempre.\" Es la confianza en el que nos llamó. Es la bendición de los que confían en Dios siempre, no importando cual sea la adversidad. La promesa es paz, paz, paz. Serán como el gran monte de Sion, donde estaba la fortaleza de David. Allí se levantó un reino de victoria. Pero, para que exista en la historia la palabra victoria es porque hubo una guerra. Cuando confías en Dios no te mueve nadie. Somos el pueblo de Dios. Dios nos ha dado una heredad por ser escogidos por el mismo Dios. Pues hemos de confiar; pues somos llamados. Dependemos de Dios, en Él nos refugiamos. Cuanto mayor sea nuestra confianza en Dios mayor será la esperanza que abrigaremos de que Él vendrá en nuestro auxilio. Las promesas de Dios son éstas: (A) Que disfrutarás de una seguridad inconmovible; como el monte de Sion; pues para aquellos que residían en Jerusalén, esa ciudad santa les era símbolo de permanencia. (B) Que esa seguridad se deberá al cuidado y a la protección de Dios, lo que está tipificado en las montañas que rodean a Jerusalén.",
+        "referencias_inline": [
+          "Salmos 125:1"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Nadie puede o debe mover tu confianza en la verdad que te ha sido dada por Él. Porque con su paz Él te sustentará hasta que llegues a Él en aquel futuro y glorioso día. Amén.",
+        "referencias_inline": []
+      }
+    ]
+  },
+  "busqueda": {
+    "texto_indexable": "confiar en su palabra nos trae paz isaias 26 3 palabra de Dios discipulado confianza en Dios paz bendicion arrepentimiento perseverancia escogidos corazon arca tu guardaras en completa paz a aquel cuyo pensamiento en ti persevera porque en ti ha confiado tenemos que conocer mas la hierba se seca y la flor se marchita pero la palabra de nuestro Dios permanece para siempre isaias 40 8 dichosos mas bien contesto Jesus son los que oyen la palabra de Dios y la obedecen lucas 11 28 dijo entonces Jesus a los judios que habian creido en el si vosotros permaneciereis en mi palabra sereis verdaderamente mis discipulos y conocereis la verdad y la verdad os hara libres juan 8 31 32 cuando conoces la verdad de su palabra eres libre nada te ata nada te hace esclavo nada te lleva a la desesperacion hay un descansar en una confianza absolutamente en Dios dice la biblia tu guardaras en completa paz a aquel cuyo pensamiento en ti persevera dice aqui persevera asi que ser guardado por Dios en completa paz es para todo aquel que se mantiene firme y constante en la palabra es para el que persiste para el que no vuelve su cara atras para el que tiene una disposicion constante hacia la palabra de Dios senor al tal tu lo guardaras en paz esto es en perfecta paz la razon de esto es porque en ti confia salmos 112 7 8 no tendra temor de malas noticias su corazon esta firme confiado en jehova asegurado esta su corazon no temera hasta que vea en sus enemigos su deseo los que de veras confian en Dios gozan de completa paz por el Dios de paz filipenses 4 9 lo que aprendisteis y recibisteis y oisteis y visteis en mi esto haced y el Dios de paz estara con vosotros el Dios de paz los guarda en esa paz a pesar de todas las aflicciones aunque haya aflicciones a Dios no se le quita la paz y si Dios nunca pierde la paz el es el proveedor de esa paz para tu vida pues sigue manando su paz aunque haya la afliccion nos vienen muchas adversidades porque hay furiosas tempestades que nos azotan en las adversidades es que te pruebas para que puedas salir de ellas como todo un guerrero lo que se puede ver como mala suerte no es sino una prueba de nuestra confianza en Dios hablamos de las situaciones desgraciadas que se pasan cuando parezca que no nos queda ninguna otra cosa o persona en quien confiar hemos de confiar en Dios siempre siempre siempre en todo tiempo con todo el corazon y con toda la mente en lo que de aqui abajo ponemos nuestra confianza en algun momento se desvanece pero los que ponemos la confianza en Dios nuestra paz perdurara por toda la eternidad el lazo que ata viene cuando tu temor te invade proverbios 29 25 el temor del hombre pondra lazo mas el que confia en jehova sera exaltado tu temor te pondra lazo aun hombres buenos o justos como abraham y pedro pasaron por esto tambien ellos por temor cayeron en el lazo cuantas veces caes en el lazo del temor un temor que te amarra y hace que tu embarcacion no pueda salir del muelle al no poder romperse ese lazo no puedes navegar y llegar a donde es necesario que llegues sabemos del gran temor de abraham que por temor a los hombres cayo en el lazo genesis 12 12 y acontecio que cuando estaba para entrar en egipto dijo a sarai su mujer he aqui ahora conozco que eres mujer de hermoso aspecto y cuando te vean los egipcios diran su mujer es y me mataran a mi y a ti te reservaran la vida penso que los egipcios lo matarian por causa de sara y le dijo a ella pues di que eres mi hermana genesis 12 3 en genesis 20 3 vemos que otra vez le sucedio lo mismo con abimelec el rey de gerar ya una vez Dios lo habia librado en egipto y ahora de igual manera vuelve a perder la confianza por tal razon abraham se desespera le viene el lazo y se le va la paz al apostol pedro tambien le vino el lazo y nego al maestro el lazo del temor se le aferro a su cuello y al sentir que se ahogaba lo nego porque en el ya no habia la paz juan 18 25 y le dijeron no eres tu de sus discipulos el nego y dijo no lo soy solo tu confiar te pondra en alto es que nuestro pensamiento siempre debe ser en el en ese pensamiento debemos perseverar como se nos dice en isaias 26 3 salmo 125 1 los que confian en jehova son como el monte de sion que no se mueve sino que permanece para siempre es la confianza en el que nos llamo es la bendicion de los que confian en Dios siempre no importando cual sea la adversidad la promesa es paz paz paz seran como el gran monte de sion donde estaba la fortaleza de david alli se levanto un reino de victoria pero para que exista en la historia la palabra victoria es porque hubo una guerra cuando confias en Dios no te mueve nadie somos el pueblo de Dios Dios nos ha dado una heredad por ser escogidos por el mismo Dios pues hemos de confiar pues somos llamados dependemos de Dios en el nos refugiamos cuanto mayor sea nuestra confianza en Dios mayor sera la esperanza que abrigaremos de que el vendra en nuestro auxilio las promesas de Dios son estas a que disfrutaras de una seguridad inconmovible como el monte de sion pues para aquellos que residian en jerusalen esa ciudad santa les era simbolo de permanencia b que esa seguridad se debera al cuidado y a la proteccion de Dios lo que esta tipificado en las montanas que rodean a jerusalen nadie puede o debe mover tu confianza en la verdad que te ha sido dada por el porque con su paz el te sustentara hasta que llegues a el en aquel futuro y glorioso dia amen",
+    "alias_busqueda": [
+      "Confiar En Su Palabra Nos Trae Paz",
+      "Isaías",
+      "Isaías 26",
+      "Isaías 26:3",
+      "arrepentimiento",
+      "perseverancia",
+      "escogidos",
+      "corazón",
+      "Palabra de Dios",
+      "Discipulado"
+    ]
+  },
+  "revision_manual": {
+    "requiere_revision": false,
+    "motivo": ""
+  },
+  "ui": {
+    "mostrar_credito_en_header": true,
+    "mostrar_numero_estudio": true,
+    "mostrar_fecha": true,
+    "mostrar_topicos": true,
+    "permitir_favorito": true,
+    "permitir_compartir": true
+  }
+}

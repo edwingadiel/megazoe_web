@@ -1,0 +1,248 @@
+{
+  "id": "estudio-848-estando-con-Dios-es-que-somos-verdaderamente-libres",
+  "slug": "estudio-848-estando-con-Dios-es-que-somos-verdaderamente-libres",
+  "numero_estudio": 848,
+  "tipo_estudio": "Iglesia en las casas",
+  "ministerio": {
+    "iglesia": "Iglesia Cristiana Mega Zoe",
+    "pastora": "Pastora Edith Cruz",
+    "credito_corto": "Iglesia Cristiana Mega Zoe · Pastora Edith Cruz",
+    "credito_largo": "Contenido original de Iglesia Cristiana Mega Zoe, conservando el crédito ministerial correspondiente a la Pastora Edith Cruz."
+  },
+  "identidad_editorial": {
+    "idioma": "es",
+    "fuente_original": "documento_word",
+    "archivo_origen": "/Users/edwingadiel/Desktop/Estudios en Word/Estudio #848 Estando con Dios es que somos verdaderamente libres - Hechos 16 20-34.docx",
+    "estado_revision": "procesado",
+    "version_schema": "1.0"
+  },
+  "encabezado": {
+    "titulo": "Estando Con Dios Es Que Somos Verdaderamente Libres",
+    "subtitulo": null,
+    "cita_principal": "Hechos 16:20-34",
+    "resumen_corto": "Estando Con Dios Es Que Somos Verdaderamente Libres enseña a perseverar en la oración y permanecer en la verdad."
+  },
+  "fechas": {
+    "fecha_inicio": "2015-03-03",
+    "fecha_fin": "2015-03-09",
+    "fecha_texto_original": "SEMANA DEL 3 @ 9 MARZO DE 2015",
+    "ano": 2015
+  },
+  "clasificacion_biblica": {
+    "libro_principal": "Hechos",
+    "capitulo_principal": 16,
+    "versiculos_principales": [
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34
+    ],
+    "referencia_principal_normalizada": "Hechos 16:20-34",
+    "testamento_principal": "Nuevo Testamento"
+  },
+  "clasificacion_tematica": {
+    "topicos": [
+      "Salvación",
+      "Oración",
+      "Verdad"
+    ],
+    "keywords": [
+      "oración",
+      "arrepentimiento",
+      "perseverancia",
+      "evangelio",
+      "carcelero"
+    ]
+  },
+  "referencias_biblicas": [
+    {
+      "referencia": "Hechos 16:20-34",
+      "referencia_normalizada": "Hechos 16:20-34",
+      "libro": "Hechos",
+      "capitulo": 16,
+      "versiculos": [
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34
+      ],
+      "tipo": "principal",
+      "clickeable": true
+    },
+    {
+      "referencia": "Hechos 16:20, 21",
+      "referencia_normalizada": "Hechos 16:20,21",
+      "libro": "Hechos",
+      "capitulo": 16,
+      "versiculos": [
+        20,
+        21
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Hechos 16:16-18",
+      "referencia_normalizada": "Hechos 16:16-18",
+      "libro": "Hechos",
+      "capitulo": 16,
+      "versiculos": [
+        16,
+        17,
+        18
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Hechos 16:24",
+      "referencia_normalizada": "Hechos 16:24",
+      "libro": "Hechos",
+      "capitulo": 16,
+      "versiculos": [
+        24
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Hechos 16:17",
+      "referencia_normalizada": "Hechos 16:17",
+      "libro": "Hechos",
+      "capitulo": 16,
+      "versiculos": [
+        17
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Hechos 16:25",
+      "referencia_normalizada": "Hechos 16:25",
+      "libro": "Hechos",
+      "capitulo": 16,
+      "versiculos": [
+        25
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Hechos 16:26",
+      "referencia_normalizada": "Hechos 16:26",
+      "libro": "Hechos",
+      "capitulo": 16,
+      "versiculos": [
+        26
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Hechos 16:27-31",
+      "referencia_normalizada": "Hechos 16:27-31",
+      "libro": "Hechos",
+      "capitulo": 16,
+      "versiculos": [
+        27,
+        28,
+        29,
+        30,
+        31
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    }
+  ],
+  "contenido": {
+    "introduccion": null,
+    "secciones": [],
+    "contenido_completo": "Pablo y Silas eran judíos, así que aquellos hombres les despreciaban jugando con el antisemitismo natural de la gente. En ellos se dejó ver el orgullo de ser ciudadanos romanos (\"…y presentándolos a los magistrados, dijeron: Estos hombres, siendo judíos, alborotan nuestra ciudad y enseñan costumbres que no nos es lícito recibir ni hacer, pues somos romanos.\" Hechos 16:20, 21). Roma era un imperio grande que había tomado para sí todos los territorios a su alrededor. Roma también tenía y dominaba a Israel, la tierra de los judíos. Pero, Pablo en ese momento no tomó ventaja de que él también fuera ciudadano romano, padeció lo que le era necesario padecer pues él sabía bien lo que tenía que vivir. Es que amó a Jesús con todas sus fuerzas, sus deseos de servirle y su pasión para el Señor era sin límites.\n\nCuando Pablo libró a aquella chica de los demonios de adivinación le llegaron grandes problemas (Hechos 16:16-18). La forma en que consiguieron el castigo y la detención de Pablo y Silas dejó ver lo crueles e injustos que eran aquellos hombres (\"Y se agolpó el pueblo contra ellos; y los magistrados rasgándoles las ropas ordenaron azotarles con varas. Después de haberles azotado mucho los echaron en la cárcel mandando al carcelero que los guardase con seguridad.\" Hechos 16:20, 21). Porque no solo los metieron en la cárcel sino en el calabozo de más adentro y los pusieron en el cepo (el cepo es un instrumento hecho de dos maderos gruesos para sujetar a un reo por la garganta, manos y/o pies para inmovilizarlo), (\"El cual, recibido este mandato, los metió en el calabozo de más adentro, y les aseguró los pies en el cepo.\" Hechos 16:24). Lo trágico es que los arrestaron y maltrataron por hacer el bien. Siempre que el evangelio ataca los intereses creados de los hombres se producen problemas. Cuando se le dice la verdad a aquellos que ya tienen sus intereses creados eso les va a producir problemas y por tal razón vendrán los ataques crueles.\n\nA los varones de Dios le rasgaron las ropas, le vinieron los azotes. Fueron muchos los azotes para el cuerpo de Pablo y Silas; nuestros hermanos hicieron un bien y recibieron grandes azotes. No solo recibieron azotes sino que fueron metidos en la cárcel, allí no había nada para curar sus heridas, ni era aquello un cuarto con aire acondicionado, no había consuelo que alguien les diera; solo les acompañaba el dolor. Al carcelero le dieron la orden de que los guardase con seguridad como si fueran los peores bandidos. El actuó tal como se le ordenó metiéndolos en el calabozo de más adentro y les aseguró los pies en el cepo.\n\nAl parecer la joven endemoniada quería una amistad con Pablo y Silas, pues decía: (\"Estos hombres son siervos del Dios Altísimo, quienes os anuncian el camino de salvación.\" Hechos 16:17). Pero, a Pablo le desagradaba la voz del diablo con sus halagos. El diablo prosiguió con un ataque de persecución abierta hacia ellos. Alianza o persecución, esas son las alternativas que usa el diablo; buscará traernos e introducirnos a una falsa amistad y si no le funciona emprenderá una guerra abierta. Los ataques del diablo siempre son prematuros, desde temprano. Pero, en este caso le resultó al diablo su total derrota y todo obró para impulso de la obra del Señor. El gozo del apóstol Pablo y de Silas fue totalmente independiente de las circunstancias terrenales que estaban experimentando. Cualquiera persona inconversa después de pasar lo difícil canta, pero el creyente es diferente: ¡CANTA EN UNA CÁRCEL CRUEL! Los presos oían las oraciones e himnos de alabanzas a Dios (\"Pero a medianoche, orando Pablo y Silas, cantaban himnos a Dios; y los presos los oían.\" Hechos 16:25). Entonces, la cárcel fue sacudida por un insólito y gran terremoto a causa del cual se abrieron todas las puertas y se soltaron los cepos y las cadenas de los presos, pero sin hundir el edificio (\"Entonces sobrevino de repente un gran terremoto, de tal manera que los cimientos de la cárcel se sacudían; y al instante se abrieron todas las puertas y las cadenas de todos se soltaron.\" Hechos 16:26). Despertando el carcelero a causa del terremoto y viendo abiertas las puertas de la cárcel supuso que los presos se habían fugado; fugarse hubiese sido lo propio, pero para Pablo no. Sabiendo el carcelero que por ello perdería la vida sacó la espada para suicidarse porque la ley romana decía que si se escapaba un preso el carcelero tenía que sufrir la condena. Pablo, entonces, le dice que no hay motivos para que se mate porque todos los presos estaban allí presentes. Así le causan al carcelero una profunda convicción de pecado. Dijo: Señores, ¿Qué debo hacer para ser salvo? Ellos le dijeron: \"Cree en el Señor Jesucristo y serás salvo tú y tu casa\". (Hechos 16:27-31)\n\n¡ESTE ERA PABLO! Era capaz de ponerse a cantar himnos cuando estaba inmovilizado en un cepo dentro de una mazmorra a medianoche y después de una paliza despiadada. ¡HAY ALGO QUE NO SE LE PUEDE QUITAR A UN CRISTIANO Y ES Dios Y LA PRESENCIA DE JESUCRISTO! ¡Estando con Dios se es libre hasta en una prisión! Y habrá luz hasta ¡a medianoche! Pablo es incapaz de guardar rencor. Estaba dispuesto a abrirle la puerta de la salvación hasta al carcelero que le había colocado en el cepo y en la peor mazmorra. ¡Inmediatamente el carcelero dejó ver el resultado de su conversión! Lavó las heridas que tenían los presos en la espalda producto de los latigazos y golpes y les dio de comer. ¡SI LA FE NO NOS HACE COMPASIVOS Y AMABLES NO ES SINCERA! Dios hace sus grandes obras en las vidas de aquellos que le creen y le abren sus corazones no importando las circunstancias en las que se encuentren. ¡Somos siempre libres en Cristo! Amén.",
+    "contenido_renderizado": [
+      {
+        "tipo": "parrafo",
+        "texto": "Pablo y Silas eran judíos, así que aquellos hombres les despreciaban jugando con el antisemitismo natural de la gente. En ellos se dejó ver el orgullo de ser ciudadanos romanos (\"…y presentándolos a los magistrados, dijeron: Estos hombres, siendo judíos, alborotan nuestra ciudad y enseñan costumbres que no nos es lícito recibir ni hacer, pues somos romanos.\" Hechos 16:20, 21). Roma era un imperio grande que había tomado para sí todos los territorios a su alrededor. Roma también tenía y dominaba a Israel, la tierra de los judíos. Pero, Pablo en ese momento no tomó ventaja de que él también fuera ciudadano romano, padeció lo que le era necesario padecer pues él sabía bien lo que tenía que vivir. Es que amó a Jesús con todas sus fuerzas, sus deseos de servirle y su pasión para el Señor era sin límites.",
+        "referencias_inline": [
+          "Hechos 16:20,21"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Cuando Pablo libró a aquella chica de los demonios de adivinación le llegaron grandes problemas (Hechos 16:16-18). La forma en que consiguieron el castigo y la detención de Pablo y Silas dejó ver lo crueles e injustos que eran aquellos hombres (\"Y se agolpó el pueblo contra ellos; y los magistrados rasgándoles las ropas ordenaron azotarles con varas. Después de haberles azotado mucho los echaron en la cárcel mandando al carcelero que los guardase con seguridad.\" Hechos 16:20, 21). Porque no solo los metieron en la cárcel sino en el calabozo de más adentro y los pusieron en el cepo (el cepo es un instrumento hecho de dos maderos gruesos para sujetar a un reo por la garganta, manos y/o pies para inmovilizarlo), (\"El cual, recibido este mandato, los metió en el calabozo de más adentro, y les aseguró los pies en el cepo.\" Hechos 16:24). Lo trágico es que los arrestaron y maltrataron por hacer el bien. Siempre que el evangelio ataca los intereses creados de los hombres se producen problemas. Cuando se le dice la verdad a aquellos que ya tienen sus intereses creados eso les va a producir problemas y por tal razón vendrán los ataques crueles.",
+        "referencias_inline": [
+          "Hechos 16:16-18",
+          "Hechos 16:20,21",
+          "Hechos 16:24"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "A los varones de Dios le rasgaron las ropas, le vinieron los azotes. Fueron muchos los azotes para el cuerpo de Pablo y Silas; nuestros hermanos hicieron un bien y recibieron grandes azotes. No solo recibieron azotes sino que fueron metidos en la cárcel, allí no había nada para curar sus heridas, ni era aquello un cuarto con aire acondicionado, no había consuelo que alguien les diera; solo les acompañaba el dolor. Al carcelero le dieron la orden de que los guardase con seguridad como si fueran los peores bandidos. El actuó tal como se le ordenó metiéndolos en el calabozo de más adentro y les aseguró los pies en el cepo.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Al parecer la joven endemoniada quería una amistad con Pablo y Silas, pues decía: (\"Estos hombres son siervos del Dios Altísimo, quienes os anuncian el camino de salvación.\" Hechos 16:17). Pero, a Pablo le desagradaba la voz del diablo con sus halagos. El diablo prosiguió con un ataque de persecución abierta hacia ellos. Alianza o persecución, esas son las alternativas que usa el diablo; buscará traernos e introducirnos a una falsa amistad y si no le funciona emprenderá una guerra abierta. Los ataques del diablo siempre son prematuros, desde temprano. Pero, en este caso le resultó al diablo su total derrota y todo obró para impulso de la obra del Señor. El gozo del apóstol Pablo y de Silas fue totalmente independiente de las circunstancias terrenales que estaban experimentando. Cualquiera persona inconversa después de pasar lo difícil canta, pero el creyente es diferente: ¡CANTA EN UNA CÁRCEL CRUEL! Los presos oían las oraciones e himnos de alabanzas a Dios (\"Pero a medianoche, orando Pablo y Silas, cantaban himnos a Dios; y los presos los oían.\" Hechos 16:25). Entonces, la cárcel fue sacudida por un insólito y gran terremoto a causa del cual se abrieron todas las puertas y se soltaron los cepos y las cadenas de los presos, pero sin hundir el edificio (\"Entonces sobrevino de repente un gran terremoto, de tal manera que los cimientos de la cárcel se sacudían; y al instante se abrieron todas las puertas y las cadenas de todos se soltaron.\" Hechos 16:26). Despertando el carcelero a causa del terremoto y viendo abiertas las puertas de la cárcel supuso que los presos se habían fugado; fugarse hubiese sido lo propio, pero para Pablo no. Sabiendo el carcelero que por ello perdería la vida sacó la espada para suicidarse porque la ley romana decía que si se escapaba un preso el carcelero tenía que sufrir la condena. Pablo, entonces, le dice que no hay motivos para que se mate porque todos los presos estaban allí presentes. Así le causan al carcelero una profunda convicción de pecado. Dijo: Señores, ¿Qué debo hacer para ser salvo? Ellos le dijeron: \"Cree en el Señor Jesucristo y serás salvo tú y tu casa\". (Hechos 16:27-31)",
+        "referencias_inline": [
+          "Hechos 16:17",
+          "Hechos 16:25",
+          "Hechos 16:26",
+          "Hechos 16:27-31"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "¡ESTE ERA PABLO! Era capaz de ponerse a cantar himnos cuando estaba inmovilizado en un cepo dentro de una mazmorra a medianoche y después de una paliza despiadada. ¡HAY ALGO QUE NO SE LE PUEDE QUITAR A UN CRISTIANO Y ES Dios Y LA PRESENCIA DE JESUCRISTO! ¡Estando con Dios se es libre hasta en una prisión! Y habrá luz hasta ¡a medianoche! Pablo es incapaz de guardar rencor. Estaba dispuesto a abrirle la puerta de la salvación hasta al carcelero que le había colocado en el cepo y en la peor mazmorra. ¡Inmediatamente el carcelero dejó ver el resultado de su conversión! Lavó las heridas que tenían los presos en la espalda producto de los latigazos y golpes y les dio de comer. ¡SI LA FE NO NOS HACE COMPASIVOS Y AMABLES NO ES SINCERA! Dios hace sus grandes obras en las vidas de aquellos que le creen y le abren sus corazones no importando las circunstancias en las que se encuentren. ¡Somos siempre libres en Cristo! Amén.",
+        "referencias_inline": []
+      }
+    ]
+  },
+  "busqueda": {
+    "texto_indexable": "estando con Dios es que somos verdaderamente libres hechos 16 20 34 salvacion oracion verdad oracion arrepentimiento perseverancia evangelio carcelero pablo y silas eran judios asi que aquellos hombres les despreciaban jugando con el antisemitismo natural de la gente en ellos se dejo ver el orgullo de ser ciudadanos romanos y presentandolos a los magistrados dijeron estos hombres siendo judios alborotan nuestra ciudad y ensenan costumbres que no nos es licito recibir ni hacer pues somos romanos hechos 16 20 21 roma era un imperio grande que habia tomado para si todos los territorios a su alrededor roma tambien tenia y dominaba a israel la tierra de los judios pero pablo en ese momento no tomo ventaja de que el tambien fuera ciudadano romano padecio lo que le era necesario padecer pues el sabia bien lo que tenia que vivir es que amo a Jesus con todas sus fuerzas sus deseos de servirle y su pasion para el senor era sin limites cuando pablo libro a aquella chica de los demonios de adivinacion le llegaron grandes problemas hechos 16 16 18 la forma en que consiguieron el castigo y la detencion de pablo y silas dejo ver lo crueles e injustos que eran aquellos hombres y se agolpo el pueblo contra ellos y los magistrados rasgandoles las ropas ordenaron azotarles con varas despues de haberles azotado mucho los echaron en la carcel mandando al carcelero que los guardase con seguridad hechos 16 20 21 porque no solo los metieron en la carcel sino en el calabozo de mas adentro y los pusieron en el cepo el cepo es un instrumento hecho de dos maderos gruesos para sujetar a un reo por la garganta manos y o pies para inmovilizarlo el cual recibido este mandato los metio en el calabozo de mas adentro y les aseguro los pies en el cepo hechos 16 24 lo tragico es que los arrestaron y maltrataron por hacer el bien siempre que el evangelio ataca los intereses creados de los hombres se producen problemas cuando se le dice la verdad a aquellos que ya tienen sus intereses creados eso les va a producir problemas y por tal razon vendran los ataques crueles a los varones de Dios le rasgaron las ropas le vinieron los azotes fueron muchos los azotes para el cuerpo de pablo y silas nuestros hermanos hicieron un bien y recibieron grandes azotes no solo recibieron azotes sino que fueron metidos en la carcel alli no habia nada para curar sus heridas ni era aquello un cuarto con aire acondicionado no habia consuelo que alguien les diera solo les acompanaba el dolor al carcelero le dieron la orden de que los guardase con seguridad como si fueran los peores bandidos el actuo tal como se le ordeno metiendolos en el calabozo de mas adentro y les aseguro los pies en el cepo al parecer la joven endemoniada queria una amistad con pablo y silas pues decia estos hombres son siervos del Dios altisimo quienes os anuncian el camino de salvacion hechos 16 17 pero a pablo le desagradaba la voz del diablo con sus halagos el diablo prosiguio con un ataque de persecucion abierta hacia ellos alianza o persecucion esas son las alternativas que usa el diablo buscara traernos e introducirnos a una falsa amistad y si no le funciona emprendera una guerra abierta los ataques del diablo siempre son prematuros desde temprano pero en este caso le resulto al diablo su total derrota y todo obro para impulso de la obra del senor el gozo del apostol pablo y de silas fue totalmente independiente de las circunstancias terrenales que estaban experimentando cualquiera persona inconversa despues de pasar lo dificil canta pero el creyente es diferente canta en una carcel cruel los presos oian las oraciones e himnos de alabanzas a Dios pero a medianoche orando pablo y silas cantaban himnos a Dios y los presos los oian hechos 16 25 entonces la carcel fue sacudida por un insolito y gran terremoto a causa del cual se abrieron todas las puertas y se soltaron los cepos y las cadenas de los presos pero sin hundir el edificio entonces sobrevino de repente un gran terremoto de tal manera que los cimientos de la carcel se sacudian y al instante se abrieron todas las puertas y las cadenas de todos se soltaron hechos 16 26 despertando el carcelero a causa del terremoto y viendo abiertas las puertas de la carcel supuso que los presos se habian fugado fugarse hubiese sido lo propio pero para pablo no sabiendo el carcelero que por ello perderia la vida saco la espada para suicidarse porque la ley romana decia que si se escapaba un preso el carcelero tenia que sufrir la condena pablo entonces le dice que no hay motivos para que se mate porque todos los presos estaban alli presentes asi le causan al carcelero una profunda conviccion de pecado dijo senores que debo hacer para ser salvo ellos le dijeron cree en el senor jesucristo y seras salvo tu y tu casa hechos 16 27 31 este era pablo era capaz de ponerse a cantar himnos cuando estaba inmovilizado en un cepo dentro de una mazmorra a medianoche y despues de una paliza despiadada hay algo que no se le puede quitar a un cristiano y es Dios y la presencia de jesucristo estando con Dios se es libre hasta en una prision y habra luz hasta a medianoche pablo es incapaz de guardar rencor estaba dispuesto a abrirle la puerta de la salvacion hasta al carcelero que le habia colocado en el cepo y en la peor mazmorra inmediatamente el carcelero dejo ver el resultado de su conversion lavo las heridas que tenian los presos en la espalda producto de los latigazos y golpes y les dio de comer si la fe no nos hace compasivos y amables no es sincera Dios hace sus grandes obras en las vidas de aquellos que le creen y le abren sus corazones no importando las circunstancias en las que se encuentren somos siempre libres en cristo amen",
+    "alias_busqueda": [
+      "Estando Con Dios Es Que Somos Verdaderamente Libres",
+      "Hechos",
+      "Hechos 16",
+      "Hechos 16:20-34",
+      "oración",
+      "arrepentimiento",
+      "perseverancia",
+      "evangelio",
+      "Salvación"
+    ]
+  },
+  "revision_manual": {
+    "requiere_revision": false,
+    "motivo": ""
+  },
+  "ui": {
+    "mostrar_credito_en_header": true,
+    "mostrar_numero_estudio": true,
+    "mostrar_fecha": true,
+    "mostrar_topicos": true,
+    "permitir_favorito": true,
+    "permitir_compartir": true
+  }
+}

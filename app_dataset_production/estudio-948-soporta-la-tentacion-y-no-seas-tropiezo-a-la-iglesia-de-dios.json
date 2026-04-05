@@ -1,0 +1,280 @@
+{
+  "id": "estudio-948-soporta-la-tentacion-y-no-seas-tropiezo-a-la-iglesia-de-Dios",
+  "slug": "estudio-948-soporta-la-tentacion-y-no-seas-tropiezo-a-la-iglesia-de-Dios",
+  "numero_estudio": 948,
+  "tipo_estudio": "Iglesia en las casas",
+  "ministerio": {
+    "iglesia": "Iglesia Cristiana Mega Zoe",
+    "pastora": "Pastora Edith Cruz",
+    "credito_corto": "Iglesia Cristiana Mega Zoe · Pastora Edith Cruz",
+    "credito_largo": "Contenido original de Iglesia Cristiana Mega Zoe, conservando el crédito ministerial correspondiente a la Pastora Edith Cruz."
+  },
+  "identidad_editorial": {
+    "idioma": "es",
+    "fuente_original": "documento_word",
+    "archivo_origen": "/Users/edwingadiel/Desktop/Estudios en Word/Estudio #948 Soporta la Tentación y No Seais Tropiezo A La Iglesia De  Dios - 1 Corintios 10 32.docx",
+    "estado_revision": "procesado",
+    "version_schema": "1.0"
+  },
+  "encabezado": {
+    "titulo": "Soporta la Tentación y No Seas Tropiezo A La Iglesia De Dios",
+    "subtitulo": null,
+    "cita_principal": "1 Corintios 10:32",
+    "resumen_corto": "Soporta la Tentación y No Seas Tropiezo A La Iglesia De Dios enseña a huir de la tentación y vivir en santidad."
+  },
+  "fechas": {
+    "fecha_inicio": null,
+    "fecha_fin": null,
+    "fecha_texto_original": "",
+    "ano": null
+  },
+  "clasificacion_biblica": {
+    "libro_principal": "1 Corintios",
+    "capitulo_principal": 10,
+    "versiculos_principales": [
+      32
+    ],
+    "referencia_principal_normalizada": "1 Corintios 10:32",
+    "testamento_principal": "Nuevo Testamento"
+  },
+  "clasificacion_tematica": {
+    "topicos": [
+      "Tentación",
+      "Santidad",
+      "Oración",
+      "Liderazgo espiritual"
+    ],
+    "keywords": [
+      "gloria de Dios",
+      "santidad",
+      "oración",
+      "juicio",
+      "tropiezo",
+      "salvo",
+      "fuego",
+      "corinto"
+    ]
+  },
+  "referencias_biblicas": [
+    {
+      "referencia": "1 Corintios 10:32",
+      "referencia_normalizada": "1 Corintios 10:32",
+      "libro": "1 Corintios",
+      "capitulo": 10,
+      "versiculos": [
+        32
+      ],
+      "tipo": "principal",
+      "clickeable": true
+    },
+    {
+      "referencia": "1 Corintios 10:31,32",
+      "referencia_normalizada": "1 Corintios 10:31,32",
+      "libro": "1 Corintios",
+      "capitulo": 10,
+      "versiculos": [
+        31,
+        32
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Éxodo 13:21",
+      "referencia_normalizada": "Éxodo 13:21",
+      "libro": "Éxodo",
+      "capitulo": 13,
+      "versiculos": [
+        21
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Éxodo 14:22",
+      "referencia_normalizada": "Éxodo 14:22",
+      "libro": "Éxodo",
+      "capitulo": 14,
+      "versiculos": [
+        22
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Éxodo 16:35",
+      "referencia_normalizada": "Éxodo 16:35",
+      "libro": "Éxodo",
+      "capitulo": 16,
+      "versiculos": [
+        35
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Éxodo 17:6",
+      "referencia_normalizada": "Éxodo 17:6",
+      "libro": "Éxodo",
+      "capitulo": 17,
+      "versiculos": [
+        6
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Éxodo 32:1",
+      "referencia_normalizada": "Éxodo 32:1",
+      "libro": "Éxodo",
+      "capitulo": 32,
+      "versiculos": [
+        1
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Éxodo 32:35",
+      "referencia_normalizada": "Éxodo 32:35",
+      "libro": "Éxodo",
+      "capitulo": 32,
+      "versiculos": [
+        35
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Números 14:30-32",
+      "referencia_normalizada": "Números 14:30-32",
+      "libro": "Números",
+      "capitulo": 14,
+      "versiculos": [
+        30,
+        31,
+        32
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Números 25:1-4",
+      "referencia_normalizada": "Números 25:1-4",
+      "libro": "Números",
+      "capitulo": 25,
+      "versiculos": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Números 21:5-7",
+      "referencia_normalizada": "Números 21:5-7",
+      "libro": "Números",
+      "capitulo": 21,
+      "versiculos": [
+        5,
+        6,
+        7
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "1 Corintios 10:12-14",
+      "referencia_normalizada": "1 Corintios 10:12-14",
+      "libro": "1 Corintios",
+      "capitulo": 10,
+      "versiculos": [
+        12,
+        13,
+        14
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    }
+  ],
+  "contenido": {
+    "introduccion": null,
+    "secciones": [],
+    "contenido_completo": "I Corintios 10:31,32 \"Si, pues, coméis o bebéis, o hacéis otra cosa, hacedlo todo para la gloria de Dios. No seáis tropiezo ni a judíos, ni a gentiles, ni a la iglesia de Dios…\" Pablo trata el tema de la carne ofrecida a los ídolos. Les advierte sobre el exceso de confianza de algunos cristianos corintios. Los hermanos de Corinto tenían su punto de vista; ellos pensaban que ya estaban bautizados, ya estaban unidos a Cristo y eran participantes en la comunión del cuerpo y la sangre de Cristo en la santa cena. Era como decir: \"Estamos en Él y Él en nosotros; ¡estamos a salvo!\" Podemos comer carne ofrecida a los ídolos \"sin que nos haga ningún daño.\" Pero, Pablo quiere hacerles entender el peligro ¡DEL EXCESO DE CONFIANZA!\n\n¿Qué es lo que sucede en la Iglesia de Cristo que puede traer grandes problemas? Es eso precisamente: ¡EL EXCESO DE CONFIANZA! Esto le puede suceder a los que han sido bendecidos con \"los mayores privilegios.\" Para enseñarles, aquí en el Capítulo 10, Pablo vuelve a los días de Moisés en que los israelitas peregrinaban por el desierto. Con ese ejemplo los hermanos de Corinto deberían entender que hay que cuidarse. El apóstol les recalca que a los israelitas les sucedieron cosas muy maravillosas (Vs. 1-5) y aun así fallaron al Señor. Tenían la nube que les mostraba el camino y los protegía de los peligros (Éxodo 13:21 \"Y Jehová iba delante de ellos de día en una columna de nube para guiarlos por el camino, y de noche en una columna de fuego para alumbrarles, a fin de que anduviesen de día y de noche.\"). Fueron conducidos por en medio del Mar Rojo (Éxodo 14:22 \"Entonces los hijos de Israel entraron por en medio del mar, en seco, teniendo las aguas como muro a su derecha y a su izquierda.\"). Pablo les menciona sobre el maná (Éxodo 16:35) y la roca que les daba agua (Éxodo 17:6). Estas experiencias les habían dado a los de Israel una unión perfecta con Moisés; era como decir que fueron bautizados (I Cor.10:2). ¡Cuántos privilegios tuvieron! Pero a pesar de todo fallaron a Dios trágicamente y dejaron de cumplir su cometido, no dieron lo esperado de ellos. Una gran advertencia de Pablo para los corintios, a quienes ahora, les correspondía amar y servir al Señor sin caer y fracasar como sucedió con aquel pueblo del tiempo de Moisés.\n\nPablo les señala, que a pesar de tantos privilegios y favores de Dios para con ellos, los israelitas se rindieron a las tentaciones y pecaron de muchas maneras. Sucedió cuando Moisés subió al monte Sinaí y se tardaba que ellos convencieron a Aarón para hacerles un becerro de oro (I Cor.10:7) para adorarlo (Éxodo 32:1). Dios los castigó (Éxodo 32:35 \"Y Jehová hirió al pueblo, porque habían hecho el becerro que formó Aarón.). Otra vez, cuando se les envió a Canaán a reconocer la tierra, diez de ellos murmuraron contra Dios (I Cor.10:10) y presentaron al pueblo un informe pésimo; y el juicio de Dios dictaminó que toda aquella generación muriera en el desierto (Números 14:30-32). También, murieron millares por el castigo de Dios cuando el pueblo comenzó a fornicar (I Cor.10:8) con las hijas de Moab (Números 25:1-4). En otra ocasión se desanimaron y murmuraron abiertamente (I Cor.10:9) contra Dios (Números 21:5-7). Vemos que, los que disfrutaron de los mayores privilegios de Dios, no estaban ni mucho menos a salvo de la tentación. Un privilegio especial, les recuerda Pablo, ¡NO ES NINGUNA GARANTÍA DE SEGURIDAD!\n\nI Corintios 10:12-14 \"Así que, el que piensa estar firme, mire que no caiga. No os ha sobrevenido ninguna tentación que no sea humana; pero fiel es Dios, que no os dejará ser tentados más de lo que podéis resistir, sino que dará también juntamente con la tentación la salida para que podáis soportar. Por tanto, amados míos, huid de la idolatría.\" El apóstol nos advierte sobre las tentaciones y los fallos. ¡Tentación e idolatría! Nosotros no tenemos ídolos como tal, pero un Dios o ídolo de alguien es aquello a lo que le dedica todo su tiempo, pensamiento y energía. El Dios o ídolo es aquello con lo que se comienza a sustituir el culto, la oración y la Palabra, etc. La tentación de la libertad sexual es algo que solo un apasionado amor a la pureza puede salvar al creyente de la impureza. Está también la tentación de tentar a Dios. Consciente o inconscientemente muchos regatean con la misericordia de Dios; en el fondo de sus mentes está esta idea: \"No me pasará nada; Dios me perdonará.\" A riesgo propio olvidamos que hay una santidad de Dios, que hay un amor único en Él. Está también la tentación a la murmuración. Hay muchos que miran la vida con un gesto de disgusto y no de complacencia. El que vive con disgusto todo lo murmura, critica, exige y siempre tiene un \"pero.\" Diferente al que vive complacido, que disfruta lo suyo y no codicia lo de otros. ¡Hay necesidad de vigilancia, el que se crea seguro debe velar que no se dé un golpe violento al caerse (Vs.12)! ¡Cuidado, que podrías ser conquistado por la tentación cuando aún te sientas tan seguro y confiado! La vida terrenal es un negocio arriesgado y debemos estar ¡SIEMPRE PREVENIDOS!\n\n¿Cómo es la tentación? Inesperada. Debes estar completamente seguro que la tentación vendrá. La tentación significa una \"prueba.\" Es algo diseñado no para hacernos caer sino, ¡PARA QUE LA SUPEREMOS Y SALGAMOS DE ELLA MÁS FUERTE DE LO QUE ENTRAMOS! Cualquier tentación que nos pueda sobrevenir no será nada nuevo (Vs.13). Otros ya la habrán resistido y habrán salido vencedores. Muchos tienen que haber pasado antes por la tentación; pues entonces, ¡adelante! ¡que también nosotros la pasaremos! Cuando estamos pasando una situación muy difícil, pensemos que otros la han pasado antes que nosotros y que por la gracia de Dios la han resistido y conquistado. Dios NOS ASEGURA, QUE CON LA TENTACIÓN, ¡SIEMPRE HAY UNA SALIDA!\n\nPara el que ama a Dios y no quiere fallarle, debido a Su santidad, la tentación le es como si estuviera pasando por un desfiladero (paso entre montañas profundo, estrecho y de paredes escarpadas), luchando para no caer. Escapar de la tentación es como si uno estuviera en una guerra rodeado por el enemigo y de pronto descubrimos una salida. Nadie tiene por que sucumbir a la tentación; porque juntamente con ella está la salida. Y esa salida no es la rendición, ni es la retirada sino, ¡UNA FORMA DE CONQUISTAR CON EL PODER DE LA GRACIA DE Dios! (W. Barclay) Amén.",
+    "contenido_renderizado": [
+      {
+        "tipo": "parrafo",
+        "texto": "I Corintios 10:31,32 \"Si, pues, coméis o bebéis, o hacéis otra cosa, hacedlo todo para la gloria de Dios. No seáis tropiezo ni a judíos, ni a gentiles, ni a la iglesia de Dios…\" Pablo trata el tema de la carne ofrecida a los ídolos. Les advierte sobre el exceso de confianza de algunos cristianos corintios. Los hermanos de Corinto tenían su punto de vista; ellos pensaban que ya estaban bautizados, ya estaban unidos a Cristo y eran participantes en la comunión del cuerpo y la sangre de Cristo en la santa cena. Era como decir: \"Estamos en Él y Él en nosotros; ¡estamos a salvo!\" Podemos comer carne ofrecida a los ídolos \"sin que nos haga ningún daño.\" Pero, Pablo quiere hacerles entender el peligro ¡DEL EXCESO DE CONFIANZA!",
+        "referencias_inline": [
+          "1 Corintios 10:31,32"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "¿Qué es lo que sucede en la Iglesia de Cristo que puede traer grandes problemas? Es eso precisamente: ¡EL EXCESO DE CONFIANZA! Esto le puede suceder a los que han sido bendecidos con \"los mayores privilegios.\" Para enseñarles, aquí en el Capítulo 10, Pablo vuelve a los días de Moisés en que los israelitas peregrinaban por el desierto. Con ese ejemplo los hermanos de Corinto deberían entender que hay que cuidarse. El apóstol les recalca que a los israelitas les sucedieron cosas muy maravillosas (Vs. 1-5) y aun así fallaron al Señor. Tenían la nube que les mostraba el camino y los protegía de los peligros (Éxodo 13:21 \"Y Jehová iba delante de ellos de día en una columna de nube para guiarlos por el camino, y de noche en una columna de fuego para alumbrarles, a fin de que anduviesen de día y de noche.\"). Fueron conducidos por en medio del Mar Rojo (Éxodo 14:22 \"Entonces los hijos de Israel entraron por en medio del mar, en seco, teniendo las aguas como muro a su derecha y a su izquierda.\"). Pablo les menciona sobre el maná (Éxodo 16:35) y la roca que les daba agua (Éxodo 17:6). Estas experiencias les habían dado a los de Israel una unión perfecta con Moisés; era como decir que fueron bautizados (I Cor.10:2). ¡Cuántos privilegios tuvieron! Pero a pesar de todo fallaron a Dios trágicamente y dejaron de cumplir su cometido, no dieron lo esperado de ellos. Una gran advertencia de Pablo para los corintios, a quienes ahora, les correspondía amar y servir al Señor sin caer y fracasar como sucedió con aquel pueblo del tiempo de Moisés.",
+        "referencias_inline": [
+          "Éxodo 13:21",
+          "Éxodo 14:22",
+          "Éxodo 16:35",
+          "Éxodo 17:6"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Pablo les señala, que a pesar de tantos privilegios y favores de Dios para con ellos, los israelitas se rindieron a las tentaciones y pecaron de muchas maneras. Sucedió cuando Moisés subió al monte Sinaí y se tardaba que ellos convencieron a Aarón para hacerles un becerro de oro (I Cor.10:7) para adorarlo (Éxodo 32:1). Dios los castigó (Éxodo 32:35 \"Y Jehová hirió al pueblo, porque habían hecho el becerro que formó Aarón.). Otra vez, cuando se les envió a Canaán a reconocer la tierra, diez de ellos murmuraron contra Dios (I Cor.10:10) y presentaron al pueblo un informe pésimo; y el juicio de Dios dictaminó que toda aquella generación muriera en el desierto (Números 14:30-32). También, murieron millares por el castigo de Dios cuando el pueblo comenzó a fornicar (I Cor.10:8) con las hijas de Moab (Números 25:1-4). En otra ocasión se desanimaron y murmuraron abiertamente (I Cor.10:9) contra Dios (Números 21:5-7). Vemos que, los que disfrutaron de los mayores privilegios de Dios, no estaban ni mucho menos a salvo de la tentación. Un privilegio especial, les recuerda Pablo, ¡NO ES NINGUNA GARANTÍA DE SEGURIDAD!",
+        "referencias_inline": [
+          "Éxodo 32:1",
+          "Éxodo 32:35",
+          "Números 14:30-32",
+          "Números 25:1-4",
+          "Números 21:5-7"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "I Corintios 10:12-14 \"Así que, el que piensa estar firme, mire que no caiga. No os ha sobrevenido ninguna tentación que no sea humana; pero fiel es Dios, que no os dejará ser tentados más de lo que podéis resistir, sino que dará también juntamente con la tentación la salida para que podáis soportar. Por tanto, amados míos, huid de la idolatría.\" El apóstol nos advierte sobre las tentaciones y los fallos. ¡Tentación e idolatría! Nosotros no tenemos ídolos como tal, pero un Dios o ídolo de alguien es aquello a lo que le dedica todo su tiempo, pensamiento y energía. El Dios o ídolo es aquello con lo que se comienza a sustituir el culto, la oración y la Palabra, etc. La tentación de la libertad sexual es algo que solo un apasionado amor a la pureza puede salvar al creyente de la impureza. Está también la tentación de tentar a Dios. Consciente o inconscientemente muchos regatean con la misericordia de Dios; en el fondo de sus mentes está esta idea: \"No me pasará nada; Dios me perdonará.\" A riesgo propio olvidamos que hay una santidad de Dios, que hay un amor único en Él. Está también la tentación a la murmuración. Hay muchos que miran la vida con un gesto de disgusto y no de complacencia. El que vive con disgusto todo lo murmura, critica, exige y siempre tiene un \"pero.\" Diferente al que vive complacido, que disfruta lo suyo y no codicia lo de otros. ¡Hay necesidad de vigilancia, el que se crea seguro debe velar que no se dé un golpe violento al caerse (Vs.12)! ¡Cuidado, que podrías ser conquistado por la tentación cuando aún te sientas tan seguro y confiado! La vida terrenal es un negocio arriesgado y debemos estar ¡SIEMPRE PREVENIDOS!",
+        "referencias_inline": [
+          "1 Corintios 10:12-14"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "¿Cómo es la tentación? Inesperada. Debes estar completamente seguro que la tentación vendrá. La tentación significa una \"prueba.\" Es algo diseñado no para hacernos caer sino, ¡PARA QUE LA SUPEREMOS Y SALGAMOS DE ELLA MÁS FUERTE DE LO QUE ENTRAMOS! Cualquier tentación que nos pueda sobrevenir no será nada nuevo (Vs.13). Otros ya la habrán resistido y habrán salido vencedores. Muchos tienen que haber pasado antes por la tentación; pues entonces, ¡adelante! ¡que también nosotros la pasaremos! Cuando estamos pasando una situación muy difícil, pensemos que otros la han pasado antes que nosotros y que por la gracia de Dios la han resistido y conquistado. Dios NOS ASEGURA, QUE CON LA TENTACIÓN, ¡SIEMPRE HAY UNA SALIDA!",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Para el que ama a Dios y no quiere fallarle, debido a Su santidad, la tentación le es como si estuviera pasando por un desfiladero (paso entre montañas profundo, estrecho y de paredes escarpadas), luchando para no caer. Escapar de la tentación es como si uno estuviera en una guerra rodeado por el enemigo y de pronto descubrimos una salida. Nadie tiene por que sucumbir a la tentación; porque juntamente con ella está la salida. Y esa salida no es la rendición, ni es la retirada sino, ¡UNA FORMA DE CONQUISTAR CON EL PODER DE LA GRACIA DE Dios! (W. Barclay) Amén.",
+        "referencias_inline": []
+      }
+    ]
+  },
+  "busqueda": {
+    "texto_indexable": "soporta la tentacion y no seas tropiezo a la iglesia de Dios 1 corintios 10 32 tentacion santidad oracion liderazgo espiritual gloria de Dios santidad oracion juicio tropiezo salvo fuego corinto i corintios 10 31 32 si pues comeis o bebeis o haceis otra cosa hacedlo todo para la gloria de Dios no seais tropiezo ni a judios ni a gentiles ni a la iglesia de Dios pablo trata el tema de la carne ofrecida a los idolos les advierte sobre el exceso de confianza de algunos cristianos corintios los hermanos de corinto tenian su punto de vista ellos pensaban que ya estaban bautizados ya estaban unidos a cristo y eran participantes en la comunion del cuerpo y la sangre de cristo en la santa cena era como decir estamos en el y el en nosotros estamos a salvo podemos comer carne ofrecida a los idolos sin que nos haga ningun dano pero pablo quiere hacerles entender el peligro del exceso de confianza que es lo que sucede en la iglesia de cristo que puede traer grandes problemas es eso precisamente el exceso de confianza esto le puede suceder a los que han sido bendecidos con los mayores privilegios para ensenarles aqui en el capitulo 10 pablo vuelve a los dias de moises en que los israelitas peregrinaban por el desierto con ese ejemplo los hermanos de corinto deberian entender que hay que cuidarse el apostol les recalca que a los israelitas les sucedieron cosas muy maravillosas vs 1 5 y aun asi fallaron al senor tenian la nube que les mostraba el camino y los protegia de los peligros exodo 13 21 y jehova iba delante de ellos de dia en una columna de nube para guiarlos por el camino y de noche en una columna de fuego para alumbrarles a fin de que anduviesen de dia y de noche fueron conducidos por en medio del mar rojo exodo 14 22 entonces los hijos de israel entraron por en medio del mar en seco teniendo las aguas como muro a su derecha y a su izquierda pablo les menciona sobre el mana exodo 16 35 y la roca que les daba agua exodo 17 6 estas experiencias les habian dado a los de israel una union perfecta con moises era como decir que fueron bautizados i cor 10 2 cuantos privilegios tuvieron pero a pesar de todo fallaron a Dios tragicamente y dejaron de cumplir su cometido no dieron lo esperado de ellos una gran advertencia de pablo para los corintios a quienes ahora les correspondia amar y servir al senor sin caer y fracasar como sucedio con aquel pueblo del tiempo de moises pablo les senala que a pesar de tantos privilegios y favores de Dios para con ellos los israelitas se rindieron a las tentaciones y pecaron de muchas maneras sucedio cuando moises subio al monte sinai y se tardaba que ellos convencieron a aaron para hacerles un becerro de oro i cor 10 7 para adorarlo exodo 32 1 Dios los castigo exodo 32 35 y jehova hirio al pueblo porque habian hecho el becerro que formo aaron otra vez cuando se les envio a canaan a reconocer la tierra diez de ellos murmuraron contra Dios i cor 10 10 y presentaron al pueblo un informe pesimo y el juicio de Dios dictamino que toda aquella generacion muriera en el desierto numeros 14 30 32 tambien murieron millares por el castigo de Dios cuando el pueblo comenzo a fornicar i cor 10 8 con las hijas de moab numeros 25 1 4 en otra ocasion se desanimaron y murmuraron abiertamente i cor 10 9 contra Dios numeros 21 5 7 vemos que los que disfrutaron de los mayores privilegios de Dios no estaban ni mucho menos a salvo de la tentacion un privilegio especial les recuerda pablo no es ninguna garantia de seguridad i corintios 10 12 14 asi que el que piensa estar firme mire que no caiga no os ha sobrevenido ninguna tentacion que no sea humana pero fiel es Dios que no os dejara ser tentados mas de lo que podeis resistir sino que dara tambien juntamente con la tentacion la salida para que podais soportar por tanto amados mios huid de la idolatria el apostol nos advierte sobre las tentaciones y los fallos tentacion e idolatria nosotros no tenemos idolos como tal pero un Dios o idolo de alguien es aquello a lo que le dedica todo su tiempo pensamiento y energia el Dios o idolo es aquello con lo que se comienza a sustituir el culto la oracion y la palabra etc la tentacion de la libertad sexual es algo que solo un apasionado amor a la pureza puede salvar al creyente de la impureza esta tambien la tentacion de tentar a Dios consciente o inconscientemente muchos regatean con la misericordia de Dios en el fondo de sus mentes esta esta idea no me pasara nada Dios me perdonara a riesgo propio olvidamos que hay una santidad de Dios que hay un amor unico en el esta tambien la tentacion a la murmuracion hay muchos que miran la vida con un gesto de disgusto y no de complacencia el que vive con disgusto todo lo murmura critica exige y siempre tiene un pero diferente al que vive complacido que disfruta lo suyo y no codicia lo de otros hay necesidad de vigilancia el que se crea seguro debe velar que no se de un golpe violento al caerse vs 12 cuidado que podrias ser conquistado por la tentacion cuando aun te sientas tan seguro y confiado la vida terrenal es un negocio arriesgado y debemos estar siempre prevenidos como es la tentacion inesperada debes estar completamente seguro que la tentacion vendra la tentacion significa una prueba es algo disenado no para hacernos caer sino para que la superemos y salgamos de ella mas fuerte de lo que entramos cualquier tentacion que nos pueda sobrevenir no sera nada nuevo vs 13 otros ya la habran resistido y habran salido vencedores muchos tienen que haber pasado antes por la tentacion pues entonces adelante que tambien nosotros la pasaremos cuando estamos pasando una situacion muy dificil pensemos que otros la han pasado antes que nosotros y que por la gracia de Dios la han resistido y conquistado Dios nos asegura que con la tentacion siempre hay una salida para el que ama a Dios y no quiere fallarle debido a su santidad la tentacion le es como si estuviera pasando por un desfiladero paso entre montanas profundo estrecho y de paredes escarpadas luchando para no caer escapar de la tentacion es como si uno estuviera en una guerra rodeado por el enemigo y de pronto descubrimos una salida nadie tiene por que sucumbir a la tentacion porque juntamente con ella esta la salida y esa salida no es la rendicion ni es la retirada sino una forma de conquistar con el poder de la gracia de Dios w barclay amen",
+    "alias_busqueda": [
+      "Soporta la Tentación y No Seas Tropiezo A La Iglesia De Dios",
+      "1 Corintios",
+      "1 Corintios 10",
+      "1 Corintios 10:32",
+      "gloria de Dios",
+      "santidad",
+      "oración",
+      "juicio",
+      "Tentación"
+    ]
+  },
+  "revision_manual": {
+    "requiere_revision": false,
+    "motivo": ""
+  },
+  "ui": {
+    "mostrar_credito_en_header": true,
+    "mostrar_numero_estudio": true,
+    "mostrar_fecha": true,
+    "mostrar_topicos": true,
+    "permitir_favorito": true,
+    "permitir_compartir": true
+  }
+}

@@ -1,0 +1,487 @@
+{
+  "id": "estudio-1449-estudio-1449",
+  "slug": "estudio-1449-estudio-1449",
+  "numero_estudio": 1449,
+  "tipo_estudio": "Iglesia en las casas",
+  "ministerio": {
+    "iglesia": "Iglesia Cristiana Mega Zoe",
+    "pastora": "Pastora Edith Cruz",
+    "credito_corto": "Iglesia Cristiana Mega Zoe · Pastora Edith Cruz",
+    "credito_largo": "Contenido original de Iglesia Cristiana Mega Zoe, conservando el crédito ministerial correspondiente a la Pastora Edith Cruz."
+  },
+  "identidad_editorial": {
+    "idioma": "es",
+    "fuente_original": "documento_word",
+    "archivo_origen": "/Users/edwingadiel/Desktop/Estudios en Word/Estudio #1449 El ser interior - Mateo 23 25-28.docx",
+    "estado_revision": "procesado",
+    "version_schema": "1.0"
+  },
+  "encabezado": {
+    "titulo": "El Ser Interior",
+    "subtitulo": null,
+    "cita_principal": "Mateo 23:25-28",
+    "resumen_corto": "El Ser Interior llama a atender la Palabra de Dios y vivir en santidad."
+  },
+  "fechas": {
+    "fecha_inicio": null,
+    "fecha_fin": null,
+    "fecha_texto_original": "",
+    "ano": null
+  },
+  "clasificacion_biblica": {
+    "libro_principal": "Mateo",
+    "capitulo_principal": 23,
+    "versiculos_principales": [
+      25,
+      26,
+      27,
+      28
+    ],
+    "referencia_principal_normalizada": "Mateo 23:25-28",
+    "testamento_principal": "Nuevo Testamento"
+  },
+  "clasificacion_tematica": {
+    "topicos": [
+      "Palabra de Dios",
+      "Santidad",
+      "Verdad",
+      "Discipulado"
+    ],
+    "keywords": [
+      "verdad",
+      "santidad",
+      "arrepentimiento",
+      "perseverancia",
+      "corazón"
+    ]
+  },
+  "referencias_biblicas": [
+    {
+      "referencia": "Mateo 23:25-28",
+      "referencia_normalizada": "Mateo 23:25-28",
+      "libro": "Mateo",
+      "capitulo": 23,
+      "versiculos": [
+        25,
+        26,
+        27,
+        28
+      ],
+      "tipo": "principal",
+      "clickeable": true
+    },
+    {
+      "referencia": "Salmos 5:6",
+      "referencia_normalizada": "Salmos 5:6",
+      "libro": "Salmos",
+      "capitulo": 5,
+      "versiculos": [
+        6
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Proverbios 20:27",
+      "referencia_normalizada": "Proverbios 20:27",
+      "libro": "Proverbios",
+      "capitulo": 20,
+      "versiculos": [
+        27
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Romanos 2:14-15",
+      "referencia_normalizada": "Romanos 2:14-15",
+      "libro": "Romanos",
+      "capitulo": 2,
+      "versiculos": [
+        14,
+        15
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Proverbios 20:30",
+      "referencia_normalizada": "Proverbios 20:30",
+      "libro": "Proverbios",
+      "capitulo": 20,
+      "versiculos": [
+        30
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Salmos 51:6",
+      "referencia_normalizada": "Salmos 51:6",
+      "libro": "Salmos",
+      "capitulo": 51,
+      "versiculos": [
+        6
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Marcos 7:15, 20, 23",
+      "referencia_normalizada": "Marcos 7:15,20,23",
+      "libro": "Marcos",
+      "capitulo": 7,
+      "versiculos": [
+        15,
+        20,
+        23
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Juan 14:17",
+      "referencia_normalizada": "Juan 14:17",
+      "libro": "Juan",
+      "capitulo": 14,
+      "versiculos": [
+        17
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Romanos 2:29",
+      "referencia_normalizada": "Romanos 2:29",
+      "libro": "Romanos",
+      "capitulo": 2,
+      "versiculos": [
+        29
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "2 Corintios 4:16-18",
+      "referencia_normalizada": "2 Corintios 4:16-18",
+      "libro": "2 Corintios",
+      "capitulo": 4,
+      "versiculos": [
+        16,
+        17,
+        18
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "1 Pedro 3:4",
+      "referencia_normalizada": "1 Pedro 3:4",
+      "libro": "1 Pedro",
+      "capitulo": 3,
+      "versiculos": [
+        4
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    }
+  ],
+  "contenido": {
+    "introduccion": null,
+    "secciones": [],
+    "contenido_completo": "El sexto \"ay\" (27) tiene que ver con el externalismo. Los fariseos, cuidadosos \"por mantener una exhibición externa\" de religiosidad y moralidad, tenían los corazones llenos de rapiña (robo, delito) y de injusticia. Tenían que limpiar primero lo de dentro del vaso y del plato, esto es, asegurar que sus corazones estaban limpios por el arrepentimiento y la fe. Entonces, y solo entonces, sería aceptable su conducta exterior.\n\nHay una diferencia entre nuestra persona y nuestra personalidad.\n\nPersonalidad: esto es aquello que queremos que los otros crean que somos.\n\nDios enfatiza la persona, lo que realmente somos.\n\nÉl desea verdad en lo íntimo (Salmos 5:6).\n\nEso se le hace difícil en la tierra; ¡verdad en lo íntimo!\n\nEl espíritu del hombre en este versículo se entiende generalmente como haciendo referencia a la conciencia: (Proverbios 20:27).\n\nEs Jehová quien nos la da y sirve a modo de lámpara, arrojando luz sobre nuestros pensamientos; motivos, (razón de cómo te mueves, hablas) afectos y acciones, a) afecto (inclinación, cariño), acciones (acto o hecho).\n\nAprueba y reprueba los pensamientos e intenciones más íntimas de nuestra vida (Romanos 2:14-15).\n\n(Proverbios 20:30) El pensamiento \"predominante\" (poder sobre algo, impone, sobresale) parece ser que el castigo físico es de valor cuando se trata de mal moral.\n\nUn niño recordará el dolor de los últimos azotes cuando tenga la tentación de robar del monedero de su madre.\n\n(Salmos 51:6)\" Pero Tú aborreces el pecado y amas la fidelidad en lo \"interno\" del hombre es por eso por lo que ahora vengo a Ti y pido que me \"enseñes\" \"sabiduría\" en lo \"profundo de mi corazón\".\n\nDios exige realidad, sinceridad, \"verdadera\" santidad, fidelidad del corazón.\n\nNo tiene \"interés en la pureza pretendida (fingido, falso) \"mira la mente, el corazón, el alma\".\n\nEl Santo de Israel siempre ha estimado a los hermanos en su naturaleza \"interior\" (no lo que se pretende), y no en lo que profesan exteriormente; para Él lo interior es tan visible como lo exterior (lo de adentro se deja ver afuera) y juzga rectamente que \"el carácter esencial de una acción se halla en el motivo del que la ejecuta\".\n\n(Marcos 7:15, 20, 23) No es lo que entra en la boca del humano lo que le contamina (como la comida) sino lo que \"sale del hombre\".\n\nEs lo que sale del corazón lo que contamina a la persona: las maquinaciones perversas, las fornicaciones, asesinatos, adulterios, avaricias, maldades, el engaño, la desvergüenza, envidia, maledicencia (habladuría), arrogancia.\n\nEra así como los escribas y los fariseos habían conseguido autoridad como maestros de la Palabra.\n\n¿Sabes qué? Cualquiera quiere pretender que es maestro de la Palabra con ayuda de los versículos a su conveniencia; cuídate de tales engañadores que pretenden enseñar cuando no son maestros del Señor.\n\nEl Señor Jesús, tuvo que advertir a la gente que es la Palabra la que acredita (dar seguridad de que alguien es lo que representa o parece; tiene el derecho de realizar una determinada tarea) a los humanos, no los hombres los que acreditan la Palabra.\n\nLa gran piedra de toque ha de ser siempre: ¿Qué dice la Palabra de Dios?\n\n(Juan 14:17) El Espíritu Santo es llamado el \"Espíritu de la verdad\" porque \"Su enseñanza es verdadera y glorifica a Cristo\", que es la verdad.\n\nEl mundo no puede recibir al Espíritu Santo porque no le puede ver.\n\nLos incrédulos quieren ver antes de creer.\n\nLos inconversos \"no conocen ni comprenden \"al Espíritu Santo\".\n\nPuede que los convenza de pecado y sin embargo no conocen quien es Él.\n\nLos discípulos conocían al Espíritu Santo.\n\nHabían conocido Su obra en sus propias vidas y le habían visto obrar por medio del Señor Jesús.\n\n\"Mora con nosotros y estará en nosotros.\"\n\nAntes de Pentecostés, el Espíritu Santo venía sobre los hombres y moraba \"con\" ellos.\n\nPero desde Pentecostés, cuando alguien cree en el Señor Jesús, el Espíritu toma Su morada en la vida de aquel hombre.\n\nEl Espíritu Santo nunca es quitado de ningún creyente, aunque puede ser contristado, apagado y obstaculizado.\n\n(Romanos 2:29) Es judío aquel que no solo es descendiente de Abraham, sino que manifiesta también una vida piadosa.\n\nLa verdadera circuncisión es cosa del corazón, no un mero corte literal del cuerpo, sino la realidad espiritual de la cirugía \"sobre la vieja naturaleza\" no regenerada.\n\nUn verdadero judío es aquel cuyo carácter es tal que recibirá alabanza… de Dios.\n\n(2 Corintios 4:16-18) Por lo cual no desmayaba.\n\nEl cuerpo cambia cada cierto tiempo: sin embargo, tenemos la conciencia de ser las mismas personas.\n\nEl apóstol Pablo, en todas aquellas aflicciones que soportó puede referirse a ellas como una \"leve tribulación\".\n\nAunque por una parte estaba actuando constantemente el proceso de \"deterioro físico\", por la otra había \"un cambio\" una \"renovación espiritual\" \"que es lo que nos lleva a \"proseguir\" \"a pesar de todas\" las circunstancias adversas.\n\n\"Este nuestro hombre exterior va decayendo.\"\n\n¡Lo vemos de forma muy evidente en nuestros cuerpos!\n\n(18) La leve tribulación es momentánea, mientras que la gloria es eterna.\n\n(1 Pedro 3:4) La vestimenta que hace verdaderamente atractiva a una persona creyente es \"el ser interior de la persona\".\n\nTodo lo físico externo es pasajero.\n\nEsto es un reto que Pedro nos hace.\n\nEscojamos hermanos: ¿Qué es lo importante? Debe ser tu ser interior, lo de afuera no llena.\n\nNuestro ser interno no debe estar vestido de harapos.\n\nNo es lo que se piense en la tierra de ti.\n\nDios considera, \"de gran valor \"la joya de un espíritu manso y apacible (a) suave, disciplinado, sumiso o tranquilo; (b) apacible- persona dócil, afable, pacífico y de trato amable, tranquilo, buen humor. a. disciplinado, sumiso); sometido; doblegar el lomo. Amén",
+    "contenido_renderizado": [
+      {
+        "tipo": "parrafo",
+        "texto": "El sexto \"ay\" (27) tiene que ver con el externalismo. Los fariseos, cuidadosos \"por mantener una exhibición externa\" de religiosidad y moralidad, tenían los corazones llenos de rapiña (robo, delito) y de injusticia. Tenían que limpiar primero lo de dentro del vaso y del plato, esto es, asegurar que sus corazones estaban limpios por el arrepentimiento y la fe. Entonces, y solo entonces, sería aceptable su conducta exterior.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Hay una diferencia entre nuestra persona y nuestra personalidad.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Personalidad: esto es aquello que queremos que los otros crean que somos.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Dios enfatiza la persona, lo que realmente somos.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Él desea verdad en lo íntimo (Salmos 5:6).",
+        "referencias_inline": [
+          "Salmos 5:6"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Eso se le hace difícil en la tierra; ¡verdad en lo íntimo!",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "El espíritu del hombre en este versículo se entiende generalmente como haciendo referencia a la conciencia: (Proverbios 20:27).",
+        "referencias_inline": [
+          "Proverbios 20:27"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Es Jehová quien nos la da y sirve a modo de lámpara, arrojando luz sobre nuestros pensamientos; motivos, (razón de cómo te mueves, hablas) afectos y acciones, a) afecto (inclinación, cariño), acciones (acto o hecho).",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Aprueba y reprueba los pensamientos e intenciones más íntimas de nuestra vida (Romanos 2:14-15).",
+        "referencias_inline": [
+          "Romanos 2:14-15"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Proverbios 20:30) El pensamiento \"predominante\" (poder sobre algo, impone, sobresale) parece ser que el castigo físico es de valor cuando se trata de mal moral.",
+        "referencias_inline": [
+          "Proverbios 20:30"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Un niño recordará el dolor de los últimos azotes cuando tenga la tentación de robar del monedero de su madre.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Salmos 51:6)\" Pero Tú aborreces el pecado y amas la fidelidad en lo \"interno\" del hombre es por eso por lo que ahora vengo a Ti y pido que me \"enseñes\" \"sabiduría\" en lo \"profundo de mi corazón\".",
+        "referencias_inline": [
+          "Salmos 51:6"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Dios exige realidad, sinceridad, \"verdadera\" santidad, fidelidad del corazón.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "No tiene \"interés en la pureza pretendida (fingido, falso) \"mira la mente, el corazón, el alma\".",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "El Santo de Israel siempre ha estimado a los hermanos en su naturaleza \"interior\" (no lo que se pretende), y no en lo que profesan exteriormente; para Él lo interior es tan visible como lo exterior (lo de adentro se deja ver afuera) y juzga rectamente que \"el carácter esencial de una acción se halla en el motivo del que la ejecuta\".",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Marcos 7:15, 20, 23) No es lo que entra en la boca del humano lo que le contamina (como la comida) sino lo que \"sale del hombre\".",
+        "referencias_inline": [
+          "Marcos 7:15,20,23"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Es lo que sale del corazón lo que contamina a la persona: las maquinaciones perversas, las fornicaciones, asesinatos, adulterios, avaricias, maldades, el engaño, la desvergüenza, envidia, maledicencia (habladuría), arrogancia.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Era así como los escribas y los fariseos habían conseguido autoridad como maestros de la Palabra.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "¿Sabes qué? Cualquiera quiere pretender que es maestro de la Palabra con ayuda de los versículos a su conveniencia; cuídate de tales engañadores que pretenden enseñar cuando no son maestros del Señor.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "El Señor Jesús, tuvo que advertir a la gente que es la Palabra la que acredita (dar seguridad de que alguien es lo que representa o parece; tiene el derecho de realizar una determinada tarea) a los humanos, no los hombres los que acreditan la Palabra.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "La gran piedra de toque ha de ser siempre: ¿Qué dice la Palabra de Dios?",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Juan 14:17) El Espíritu Santo es llamado el \"Espíritu de la verdad\" porque \"Su enseñanza es verdadera y glorifica a Cristo\", que es la verdad.",
+        "referencias_inline": [
+          "Juan 14:17"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "El mundo no puede recibir al Espíritu Santo porque no le puede ver.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Los incrédulos quieren ver antes de creer.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Los inconversos \"no conocen ni comprenden \"al Espíritu Santo\".",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Puede que los convenza de pecado y sin embargo no conocen quien es Él.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Los discípulos conocían al Espíritu Santo.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Habían conocido Su obra en sus propias vidas y le habían visto obrar por medio del Señor Jesús.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "\"Mora con nosotros y estará en nosotros.\"",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Antes de Pentecostés, el Espíritu Santo venía sobre los hombres y moraba \"con\" ellos.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Pero desde Pentecostés, cuando alguien cree en el Señor Jesús, el Espíritu toma Su morada en la vida de aquel hombre.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "El Espíritu Santo nunca es quitado de ningún creyente, aunque puede ser contristado, apagado y obstaculizado.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Romanos 2:29) Es judío aquel que no solo es descendiente de Abraham, sino que manifiesta también una vida piadosa.",
+        "referencias_inline": [
+          "Romanos 2:29"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "La verdadera circuncisión es cosa del corazón, no un mero corte literal del cuerpo, sino la realidad espiritual de la cirugía \"sobre la vieja naturaleza\" no regenerada.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Un verdadero judío es aquel cuyo carácter es tal que recibirá alabanza… de Dios.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(2 Corintios 4:16-18) Por lo cual no desmayaba.",
+        "referencias_inline": [
+          "2 Corintios 4:16-18"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "El cuerpo cambia cada cierto tiempo: sin embargo, tenemos la conciencia de ser las mismas personas.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "El apóstol Pablo, en todas aquellas aflicciones que soportó puede referirse a ellas como una \"leve tribulación\".",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Aunque por una parte estaba actuando constantemente el proceso de \"deterioro físico\", por la otra había \"un cambio\" una \"renovación espiritual\" \"que es lo que nos lleva a \"proseguir\" \"a pesar de todas\" las circunstancias adversas.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "\"Este nuestro hombre exterior va decayendo.\"",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "¡Lo vemos de forma muy evidente en nuestros cuerpos!",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(18) La leve tribulación es momentánea, mientras que la gloria es eterna.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(1 Pedro 3:4) La vestimenta que hace verdaderamente atractiva a una persona creyente es \"el ser interior de la persona\".",
+        "referencias_inline": [
+          "1 Pedro 3:4"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Todo lo físico externo es pasajero.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Esto es un reto que Pedro nos hace.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Escojamos hermanos: ¿Qué es lo importante? Debe ser tu ser interior, lo de afuera no llena.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Nuestro ser interno no debe estar vestido de harapos.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "No es lo que se piense en la tierra de ti.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Dios considera, \"de gran valor \"la joya de un espíritu manso y apacible (a) suave, disciplinado, sumiso o tranquilo; (b) apacible- persona dócil, afable, pacífico y de trato amable, tranquilo, buen humor. a. disciplinado, sumiso); sometido; doblegar el lomo. Amén",
+        "referencias_inline": []
+      }
+    ]
+  },
+  "busqueda": {
+    "texto_indexable": "el ser interior mateo 23 25 28 palabra de Dios santidad verdad discipulado verdad santidad arrepentimiento perseverancia corazon el sexto ay 27 tiene que ver con el externalismo los fariseos cuidadosos por mantener una exhibicion externa de religiosidad y moralidad tenian los corazones llenos de rapina robo delito y de injusticia tenian que limpiar primero lo de dentro del vaso y del plato esto es asegurar que sus corazones estaban limpios por el arrepentimiento y la fe entonces y solo entonces seria aceptable su conducta exterior hay una diferencia entre nuestra persona y nuestra personalidad personalidad esto es aquello que queremos que los otros crean que somos Dios enfatiza la persona lo que realmente somos el desea verdad en lo intimo salmo 5 6 eso se le hace dificil en la tierra verdad en lo intimo el espiritu del hombre en este versiculo se entiende generalmente como haciendo referencia a la conciencia proverbios 20 27 es jehova quien nos la da y sirve a modo de lampara arrojando luz sobre nuestros pensamientos motivos razon de como te mueves hablas afectos y acciones a afecto inclinacion carino acciones acto o hecho aprueba y reprueba los pensamientos e intenciones mas intimas de nuestra vida romanos 2 14 15 proverbios 20 30 el pensamiento predominante poder sobre algo impone sobresale parece ser que el castigo fisico es de valor cuando se trata de mal moral un nino recordara el dolor de los ultimos azotes cuando tenga la tentacion de robar del monedero de su madre salmo 51 6 pero tu aborreces el pecado y amas la fidelidad en lo interno del hombre es por eso por lo que ahora vengo a ti y pido que me ensenes sabiduria en lo profundo de mi corazon Dios exige realidad sinceridad verdadera santidad fidelidad del corazon no tiene interes en la pureza pretendida fingido falso mira la mente el corazon el alma el santo de israel siempre ha estimado a los hermanos en su naturaleza interior no lo que se pretende y no en lo que profesan exteriormente para el lo interior es tan visible como lo exterior lo de adentro se deja ver afuera y juzga rectamente que el caracter esencial de una accion se halla en el motivo del que la ejecuta marcos 7 15 20 23 no es lo que entra en la boca del humano lo que le contamina como la comida sino lo que sale del hombre es lo que sale del corazon lo que contamina a la persona las maquinaciones perversas las fornicaciones asesinatos adulterios avaricias maldades el engano la desverguenza envidia maledicencia habladuria arrogancia era asi como los escribas y los fariseos habian conseguido autoridad como maestros de la palabra sabes que cualquiera quiere pretender que es maestro de la palabra con ayuda de los versiculos a su conveniencia cuidate de tales enganadores que pretenden ensenar cuando no son maestros del senor el senor Jesus tuvo que advertir a la gente que es la palabra la que acredita dar seguridad de que alguien es lo que representa o parece tiene el derecho de realizar una determinada tarea a los humanos no los hombres los que acreditan la palabra la gran piedra de toque ha de ser siempre que dice la palabra de Dios juan 14 17 el espiritu santo es llamado el espiritu de la verdad porque su ensenanza es verdadera y glorifica a cristo que es la verdad el mundo no puede recibir al espiritu santo porque no le puede ver los incredulos quieren ver antes de creer los inconversos no conocen ni comprenden al espiritu santo puede que los convenza de pecado y sin embargo no conocen quien es el los discipulos conocian al espiritu santo habian conocido su obra en sus propias vidas y le habian visto obrar por medio del senor Jesus mora con nosotros y estara en nosotros antes de pentecostes el espiritu santo venia sobre los hombres y moraba con ellos pero desde pentecostes cuando alguien cree en el senor Jesus el espiritu toma su morada en la vida de aquel hombre el espiritu santo nunca es quitado de ningun creyente aunque puede ser contristado apagado y obstaculizado romanos 2 29 es judio aquel que no solo es descendiente de abraham sino que manifiesta tambien una vida piadosa la verdadera circuncision es cosa del corazon no un mero corte literal del cuerpo sino la realidad espiritual de la cirugia sobre la vieja naturaleza no regenerada un verdadero judio es aquel cuyo caracter es tal que recibira alabanza de Dios 2 corintios 4 16 18 por lo cual no desmayaba el cuerpo cambia cada cierto tiempo sin embargo tenemos la conciencia de ser las mismas personas el apostol pablo en todas aquellas aflicciones que soporto puede referirse a ellas como una leve tribulacion aunque por una parte estaba actuando constantemente el proceso de deterioro fisico por la otra habia un cambio una renovacion espiritual que es lo que nos lleva a proseguir a pesar de todas las circunstancias adversas este nuestro hombre exterior va decayendo lo vemos de forma muy evidente en nuestros cuerpos 18 la leve tribulacion es momentanea mientras que la gloria es eterna 1 pedro 3 4 la vestimenta que hace verdaderamente atractiva a una persona creyente es el ser interior de la persona todo lo fisico externo es pasajero esto es un reto que pedro nos hace escojamos hermanos que es lo importante debe ser tu ser interior lo de afuera no llena nuestro ser interno no debe estar vestido de harapos no es lo que se piense en la tierra de ti Dios considera de gran valor la joya de un espiritu manso y apacible a suave disciplinado sumiso o tranquilo b apacible persona docil afable pacifico y de trato amable tranquilo buen humor a disciplinado sumiso sometido doblegar el lomo amen",
+    "alias_busqueda": [
+      "Estudio 1449",
+      "Mateo",
+      "Mateo 23",
+      "Mateo 23:25-28",
+      "verdad",
+      "santidad",
+      "arrepentimiento",
+      "perseverancia",
+      "Palabra de Dios"
+    ]
+  },
+  "revision_manual": {
+    "requiere_revision": false,
+    "motivo": ""
+  },
+  "ui": {
+    "mostrar_credito_en_header": true,
+    "mostrar_numero_estudio": true,
+    "mostrar_fecha": true,
+    "mostrar_topicos": true,
+    "permitir_favorito": true,
+    "permitir_compartir": true
+  }
+}

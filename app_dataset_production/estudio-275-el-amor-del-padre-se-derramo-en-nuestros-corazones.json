@@ -1,0 +1,314 @@
+{
+  "id": "estudio-275-el-amor-del-padre-se-derramo-en-nuestros-corazones",
+  "slug": "estudio-275-el-amor-del-padre-se-derramo-en-nuestros-corazones",
+  "numero_estudio": 275,
+  "tipo_estudio": "Iglesia en las casas",
+  "ministerio": {
+    "iglesia": "Iglesia Cristiana Mega Zoe",
+    "pastora": "Pastora Edith Cruz",
+    "credito_corto": "Iglesia Cristiana Mega Zoe · Pastora Edith Cruz",
+    "credito_largo": "Contenido original de Iglesia Cristiana Mega Zoe, conservando el crédito ministerial correspondiente a la Pastora Edith Cruz."
+  },
+  "identidad_editorial": {
+    "idioma": "es",
+    "fuente_original": "documento_word",
+    "archivo_origen": "/Users/edwingadiel/Desktop/Estudios en Word/Estudio #275 El amor del Padre se derramó en nuestros corazones - Romanos 5 1-5.doc",
+    "estado_revision": "procesado",
+    "version_schema": "1.0"
+  },
+  "encabezado": {
+    "titulo": "El Amor del Padre se derramó en nuestros Corazones",
+    "subtitulo": null,
+    "cita_principal": "Romanos 5:1-5",
+    "resumen_corto": "El Amor del Padre se derramó en nuestros Corazones llama a permanecer firmes en las pruebas."
+  },
+  "fechas": {
+    "fecha_inicio": "2002-12-03",
+    "fecha_fin": "2002-12-09",
+    "fecha_texto_original": "SEMANA DEL 3 @ 9 DE DICIEMBRE DE 2002",
+    "ano": 2002
+  },
+  "clasificacion_biblica": {
+    "libro_principal": "Romanos",
+    "capitulo_principal": 5,
+    "versiculos_principales": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "referencia_principal_normalizada": "Romanos 5:1-5",
+    "testamento_principal": "Nuevo Testamento"
+  },
+  "clasificacion_tematica": {
+    "topicos": [
+      "Pruebas",
+      "Paz",
+      "Esperanza"
+    ],
+    "keywords": [
+      "trae paz",
+      "arrepentimiento",
+      "pruebas",
+      "esperanza",
+      "escrituras"
+    ]
+  },
+  "referencias_biblicas": [
+    {
+      "referencia": "Romanos 5: 1-5",
+      "referencia_normalizada": "Romanos 5:1-5",
+      "libro": "Romanos",
+      "capitulo": 5,
+      "versiculos": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "tipo": "principal",
+      "clickeable": true
+    },
+    {
+      "referencia": "Romanos 10:20",
+      "referencia_normalizada": "Romanos 10:20",
+      "libro": "Romanos",
+      "capitulo": 10,
+      "versiculos": [
+        20
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Oseas 11: 3,4",
+      "referencia_normalizada": "Oseas 11:3,4",
+      "libro": "Oseas",
+      "capitulo": 11,
+      "versiculos": [
+        3,
+        4
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Salmos 103: 15,16",
+      "referencia_normalizada": "Salmos 103:15,16",
+      "libro": "Salmos",
+      "capitulo": 103,
+      "versiculos": [
+        15,
+        16
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Romanos 3: 9-11",
+      "referencia_normalizada": "Romanos 3:9-11",
+      "libro": "Romanos",
+      "capitulo": 3,
+      "versiculos": [
+        9,
+        10,
+        11
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Romanos 5",
+      "referencia_normalizada": "Romanos 5",
+      "libro": "Romanos",
+      "capitulo": 5,
+      "versiculos": [],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Juan 15:13-15",
+      "referencia_normalizada": "Juan 15:13-15",
+      "libro": "Juan",
+      "capitulo": 15,
+      "versiculos": [
+        13,
+        14,
+        15
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Hechos 14: 22",
+      "referencia_normalizada": "Hechos 14:22",
+      "libro": "Hechos",
+      "capitulo": 14,
+      "versiculos": [
+        22
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Lucas 8: 13",
+      "referencia_normalizada": "Lucas 8:13",
+      "libro": "Lucas",
+      "capitulo": 8,
+      "versiculos": [
+        13
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Romanos 5:3",
+      "referencia_normalizada": "Romanos 5:3",
+      "libro": "Romanos",
+      "capitulo": 5,
+      "versiculos": [
+        3
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Hebreos 10: 32-36",
+      "referencia_normalizada": "Hebreos 10:32-36",
+      "libro": "Hebreos",
+      "capitulo": 10,
+      "versiculos": [
+        32,
+        33,
+        34,
+        35,
+        36
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Romanos 5: 4",
+      "referencia_normalizada": "Romanos 5:4",
+      "libro": "Romanos",
+      "capitulo": 5,
+      "versiculos": [
+        4
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "1 Pedro 1: 6,7",
+      "referencia_normalizada": "1 Pedro 1:6,7",
+      "libro": "1 Pedro",
+      "capitulo": 1,
+      "versiculos": [
+        6,
+        7
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Romanos 8: 28",
+      "referencia_normalizada": "Romanos 8:28",
+      "libro": "Romanos",
+      "capitulo": 8,
+      "versiculos": [
+        28
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Romanos 5: 5",
+      "referencia_normalizada": "Romanos 5:5",
+      "libro": "Romanos",
+      "capitulo": 5,
+      "versiculos": [
+        5
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    }
+  ],
+  "contenido": {
+    "introduccion": null,
+    "secciones": [],
+    "contenido_completo": "Objetivo del Estudio: Que todo el que asiste sepa que es el amor del Padre el que nos toma y nos permite llegar a donde tenemos que llegar. El amor del Padre nos tomó de la mano el día que nos convertimos a Él, y desde ese día ha ido llevando nuestras vidas, aun nosotros no mereciéndolo.\n\nRomanos 10:20 Si nos examinamos vemos que ninguno de nosotros fue en busca del Señor por nuestra propia cuenta, sino que fue porque, de seguro, había alguien orando por nosotros. Dios mismo nos buscó y nos atrajo a Él con cuerdas de amor. Oseas 11: 3,4 Hoy somos y vivimos y mañana no. Salmos 103: 15,16 Así vemos que nuestra naturaleza humana es inestable, por causa del pecado de nuestros primeros padres Adán y Eva. Romanos 3: 9-11 Por tal razón, el Señor nos busca y nos tiene que llevar de la mano y nos tiene que formar.\n\nVemos que en Romanos 5, Dios tiene que tomar al hombre y llevarlo al proceso de la preparación, pero el detalle es dejarnos llevar por Él. Mis hermanos, el soltarse en las manos del Señor, solamente lo hacen los valientes porque ahí es donde se tiene que producir la Fe. Sabemos que esta vida, de por sí, es difícil, y por tal razón nos tenemos que poner en Sus sabias y amorosas manos. Nosotros debemos ver bien por donde es que Dios nos va llevando. Dicen las Escrituras que, somos \"...justificados, pues, por la Fe.\" Entonces, se produce en nuestra vida la paz. Dice, \"...tenemos paz para con Dios por medio de nuestro Señor Jesucristo.\" Piensa, ahora y mira ¿cuántas personas caminan en paz? Mis hermanos, tenemos que ver que el pecado que hay en el hombre NO LE TRAE PAZ. En Juan 15:13-15 vemos que el empeño del Padre es que nosotros seamos del Cuerpo, seamos cercanos, seamos sus amigos y así Él nos va tomando de la mano para comenzar a trabajar en nosotros día tras día. ¡Cuánto amor el de Dios!!!!\n\nTenemos que entender que en nuestras vidas tiene que verse el progreso y no el estancamiento, porque sino todo empezará a verse como una rutina, como algo monótono. Según nosotros decidamos entrar a este proceso de perfección, más nos iremos pareciendo a Jesús. En este camino que decidimos escoger hay muchas bendiciones y experiencias maravillosas, pero también nos toca vivir muchas tribulaciones. Hechos 14: 22 Pero a nadie le gusta, y sabemos que cuando esto viene el gran por-ciento de las personas huyen. Lucas 8: 13 Pero nosotros ante la tribulación no podemos huir. El Dios Todopoderoso nos llamó para empezar a corregir todo lo deformado de nuestras vidas.\n\nMis hermanos, muy bien dice nuestro hermano Pablo en Romanos 5:3, que las tribulaciones en nuestras vidas producirán la paciencia. Dios necesita hombres y mujeres que hayan pasado por las tribulaciones porque éstas producirán en ellos la paciencia. Solo Dios sabe este por qué de las tribulaciones. Hebreos 10: 32-36 Según Romanos 5: 4, luego de haber experimentado la paciencia empezamos a entrar a la prueba. Recordemos que la prueba no es para dejarnos destrozados, sino para vencer. 1 Pedro 1: 6,7 Solo aquellos que tienen el propósito y saben que van a vencer pueden estar en la guerra y batallar. La prueba va a producir en ti una esperanza, y esa esperanza es contra esperanza y esta esperanza, mis hermanos, NO avergüenza. Muy bien dice en Romanos 8: 28 que a los que aman al Señor todas las cosas ayudan para bien. Esta esperanza en nosotros va en contra de cualquier cosa que el diablo quiera preparar en contra nuestra. Estas pruebas nos van llevando a ser personas sólidas y así podemos caminar con nuestras cabezas en alto. Mis hermanos, la ventaja es que cuando hayamos alcanzado la paciencia, y la esperanza seremos personas que confiaremos totalmente en Dios. Entiende esto hoy, Dios no nos ha llamado para ser personas derrotadas, sino para tener plena victoria. No merecíamos tanto amor pero a Él le plació darnos ese amor. Romanos 5: 5 Nos gozaremos en las pruebas y en las tribulaciones, y si hay que llorar, lo lloraremos. Dios nos ama y nos lleva por su proceso de perfección. AMEN",
+    "contenido_renderizado": [
+      {
+        "tipo": "parrafo",
+        "texto": "Objetivo del Estudio: Que todo el que asiste sepa que es el amor del Padre el que nos toma y nos permite llegar a donde tenemos que llegar. El amor del Padre nos tomó de la mano el día que nos convertimos a Él, y desde ese día ha ido llevando nuestras vidas, aun nosotros no mereciéndolo.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Romanos 10:20 Si nos examinamos vemos que ninguno de nosotros fue en busca del Señor por nuestra propia cuenta, sino que fue porque, de seguro, había alguien orando por nosotros. Dios mismo nos buscó y nos atrajo a Él con cuerdas de amor. Oseas 11: 3,4 Hoy somos y vivimos y mañana no. Salmos 103: 15,16 Así vemos que nuestra naturaleza humana es inestable, por causa del pecado de nuestros primeros padres Adán y Eva. Romanos 3: 9-11 Por tal razón, el Señor nos busca y nos tiene que llevar de la mano y nos tiene que formar.",
+        "referencias_inline": [
+          "Romanos 10:20",
+          "Oseas 11:3,4",
+          "Salmos 103:15,16",
+          "Romanos 3:9-11"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Vemos que en Romanos 5, Dios tiene que tomar al hombre y llevarlo al proceso de la preparación, pero el detalle es dejarnos llevar por Él. Mis hermanos, el soltarse en las manos del Señor, solamente lo hacen los valientes porque ahí es donde se tiene que producir la Fe. Sabemos que esta vida, de por sí, es difícil, y por tal razón nos tenemos que poner en Sus sabias y amorosas manos. Nosotros debemos ver bien por donde es que Dios nos va llevando. Dicen las Escrituras que, somos \"...justificados, pues, por la Fe.\" Entonces, se produce en nuestra vida la paz. Dice, \"...tenemos paz para con Dios por medio de nuestro Señor Jesucristo.\" Piensa, ahora y mira ¿cuántas personas caminan en paz? Mis hermanos, tenemos que ver que el pecado que hay en el hombre NO LE TRAE PAZ. En Juan 15:13-15 vemos que el empeño del Padre es que nosotros seamos del Cuerpo, seamos cercanos, seamos sus amigos y así Él nos va tomando de la mano para comenzar a trabajar en nosotros día tras día. ¡Cuánto amor el de Dios!!!!",
+        "referencias_inline": [
+          "Romanos 5",
+          "Juan 15:13-15"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Tenemos que entender que en nuestras vidas tiene que verse el progreso y no el estancamiento, porque sino todo empezará a verse como una rutina, como algo monótono. Según nosotros decidamos entrar a este proceso de perfección, más nos iremos pareciendo a Jesús. En este camino que decidimos escoger hay muchas bendiciones y experiencias maravillosas, pero también nos toca vivir muchas tribulaciones. Hechos 14: 22 Pero a nadie le gusta, y sabemos que cuando esto viene el gran por-ciento de las personas huyen. Lucas 8: 13 Pero nosotros ante la tribulación no podemos huir. El Dios Todopoderoso nos llamó para empezar a corregir todo lo deformado de nuestras vidas.",
+        "referencias_inline": [
+          "Hechos 14:22",
+          "Lucas 8:13"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Mis hermanos, muy bien dice nuestro hermano Pablo en Romanos 5:3, que las tribulaciones en nuestras vidas producirán la paciencia. Dios necesita hombres y mujeres que hayan pasado por las tribulaciones porque éstas producirán en ellos la paciencia. Solo Dios sabe este por qué de las tribulaciones. Hebreos 10: 32-36 Según Romanos 5: 4, luego de haber experimentado la paciencia empezamos a entrar a la prueba. Recordemos que la prueba no es para dejarnos destrozados, sino para vencer. 1 Pedro 1: 6,7 Solo aquellos que tienen el propósito y saben que van a vencer pueden estar en la guerra y batallar. La prueba va a producir en ti una esperanza, y esa esperanza es contra esperanza y esta esperanza, mis hermanos, NO avergüenza. Muy bien dice en Romanos 8: 28 que a los que aman al Señor todas las cosas ayudan para bien. Esta esperanza en nosotros va en contra de cualquier cosa que el diablo quiera preparar en contra nuestra. Estas pruebas nos van llevando a ser personas sólidas y así podemos caminar con nuestras cabezas en alto. Mis hermanos, la ventaja es que cuando hayamos alcanzado la paciencia, y la esperanza seremos personas que confiaremos totalmente en Dios. Entiende esto hoy, Dios no nos ha llamado para ser personas derrotadas, sino para tener plena victoria. No merecíamos tanto amor pero a Él le plació darnos ese amor. Romanos 5: 5 Nos gozaremos en las pruebas y en las tribulaciones, y si hay que llorar, lo lloraremos. Dios nos ama y nos lleva por su proceso de perfección. AMEN",
+        "referencias_inline": [
+          "Romanos 5:3",
+          "Hebreos 10:32-36",
+          "Romanos 5:4",
+          "1 Pedro 1:6,7",
+          "Romanos 8:28",
+          "Romanos 5:5"
+        ]
+      }
+    ]
+  },
+  "busqueda": {
+    "texto_indexable": "el amor del padre se derramo en nuestros corazones romanos 5 1 5 pruebas paz esperanza trae paz arrepentimiento pruebas esperanza escrituras objetivo del estudio que todo el que asiste sepa que es el amor del padre el que nos toma y nos permite llegar a donde tenemos que llegar el amor del padre nos tomo de la mano el dia que nos convertimos a el y desde ese dia ha ido llevando nuestras vidas aun nosotros no mereciendolo romanos 10 20 si nos examinamos vemos que ninguno de nosotros fue en busca del senor por nuestra propia cuenta sino que fue porque de seguro habia alguien orando por nosotros Dios mismo nos busco y nos atrajo a el con cuerdas de amor oseas 11 3 4 hoy somos y vivimos y manana no salmo 103 15 16 asi vemos que nuestra naturaleza humana es inestable por causa del pecado de nuestros primeros padres adan y eva romanos 3 9 11 por tal razon el senor nos busca y nos tiene que llevar de la mano y nos tiene que formar vemos que en romanos 5 Dios tiene que tomar al hombre y llevarlo al proceso de la preparacion pero el detalle es dejarnos llevar por el mis hermanos el soltarse en las manos del senor solamente lo hacen los valientes porque ahi es donde se tiene que producir la fe sabemos que esta vida de por si es dificil y por tal razon nos tenemos que poner en sus sabias y amorosas manos nosotros debemos ver bien por donde es que Dios nos va llevando dicen las escrituras que somos justificados pues por la fe entonces se produce en nuestra vida la paz dice tenemos paz para con Dios por medio de nuestro senor jesucristo piensa ahora y mira cuantas personas caminan en paz mis hermanos tenemos que ver que el pecado que hay en el hombre no le trae paz en juan 15 13 15 vemos que el empeno del padre es que nosotros seamos del cuerpo seamos cercanos seamos sus amigos y asi el nos va tomando de la mano para comenzar a trabajar en nosotros dia tras dia cuanto amor el de Dios tenemos que entender que en nuestras vidas tiene que verse el progreso y no el estancamiento porque sino todo empezara a verse como una rutina como algo monotono segun nosotros decidamos entrar a este proceso de perfeccion mas nos iremos pareciendo a Jesus en este camino que decidimos escoger hay muchas bendiciones y experiencias maravillosas pero tambien nos toca vivir muchas tribulaciones hechos 14 22 pero a nadie le gusta y sabemos que cuando esto viene el gran por ciento de las personas huyen lucas 8 13 pero nosotros ante la tribulacion no podemos huir el Dios todopoderoso nos llamo para empezar a corregir todo lo deformado de nuestras vidas mis hermanos muy bien dice nuestro hermano pablo en romanos 5 3 que las tribulaciones en nuestras vidas produciran la paciencia Dios necesita hombres y mujeres que hayan pasado por las tribulaciones porque estas produciran en ellos la paciencia solo Dios sabe este por que de las tribulaciones hebreos 10 32 36 segun romanos 5 4 luego de haber experimentado la paciencia empezamos a entrar a la prueba recordemos que la prueba no es para dejarnos destrozados sino para vencer 1 pedro 1 6 7 solo aquellos que tienen el proposito y saben que van a vencer pueden estar en la guerra y batallar la prueba va a producir en ti una esperanza y esa esperanza es contra esperanza y esta esperanza mis hermanos no averguenza muy bien dice en romanos 8 28 que a los que aman al senor todas las cosas ayudan para bien esta esperanza en nosotros va en contra de cualquier cosa que el diablo quiera preparar en contra nuestra estas pruebas nos van llevando a ser personas solidas y asi podemos caminar con nuestras cabezas en alto mis hermanos la ventaja es que cuando hayamos alcanzado la paciencia y la esperanza seremos personas que confiaremos totalmente en Dios entiende esto hoy Dios no nos ha llamado para ser personas derrotadas sino para tener plena victoria no mereciamos tanto amor pero a el le placio darnos ese amor romanos 5 5 nos gozaremos en las pruebas y en las tribulaciones y si hay que llorar lo lloraremos Dios nos ama y nos lleva por su proceso de perfeccion amen",
+    "alias_busqueda": [
+      "El Amor del Padre se derramó en nuestros Corazones",
+      "Romanos",
+      "Romanos 5",
+      "Romanos 5:1-5",
+      "trae paz",
+      "arrepentimiento",
+      "pruebas",
+      "esperanza",
+      "Paz"
+    ]
+  },
+  "revision_manual": {
+    "requiere_revision": false,
+    "motivo": ""
+  },
+  "ui": {
+    "mostrar_credito_en_header": true,
+    "mostrar_numero_estudio": true,
+    "mostrar_fecha": true,
+    "mostrar_topicos": true,
+    "permitir_favorito": true,
+    "permitir_compartir": true
+  }
+}

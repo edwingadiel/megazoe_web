@@ -1,0 +1,438 @@
+{
+  "id": "estudio-1290-estudio-1290",
+  "slug": "estudio-1290-estudio-1290",
+  "numero_estudio": 1290,
+  "tipo_estudio": "Iglesia en las casas",
+  "ministerio": {
+    "iglesia": "Iglesia Cristiana Mega Zoe",
+    "pastora": "Pastora Edith Cruz",
+    "credito_corto": "Iglesia Cristiana Mega Zoe · Pastora Edith Cruz",
+    "credito_largo": "Contenido original de Iglesia Cristiana Mega Zoe, conservando el crédito ministerial correspondiente a la Pastora Edith Cruz."
+  },
+  "identidad_editorial": {
+    "idioma": "es",
+    "fuente_original": "documento_word",
+    "archivo_origen": "/Users/edwingadiel/Desktop/Estudios en Word/Estudio #1290 Jehová nuestro Dios es quien ha peleado - Josué 23 10-14.docx",
+    "estado_revision": "procesado",
+    "version_schema": "1.0"
+  },
+  "encabezado": {
+    "titulo": "Jehová Nuestro Dios Es Quien Ha Peleado",
+    "subtitulo": null,
+    "cita_principal": "Josué 23:10-14",
+    "resumen_corto": "Jehová Nuestro Dios Es Quien Ha Peleado enseña a atender la Palabra de Dios y permanecer en la verdad."
+  },
+  "fechas": {
+    "fecha_inicio": null,
+    "fecha_fin": null,
+    "fecha_texto_original": "",
+    "ano": null
+  },
+  "clasificacion_biblica": {
+    "libro_principal": "Josué",
+    "capitulo_principal": 23,
+    "versiculos_principales": [
+      10,
+      11,
+      12,
+      13,
+      14
+    ],
+    "referencia_principal_normalizada": "Josué 23:10-14",
+    "testamento_principal": "Antiguo Testamento"
+  },
+  "clasificacion_tematica": {
+    "topicos": [
+      "Palabra de Dios",
+      "Verdad",
+      "Sabiduría espiritual"
+    ],
+    "keywords": [
+      "juicio",
+      "arrepentimiento",
+      "prudencia",
+      "fuego",
+      "apostasia"
+    ]
+  },
+  "referencias_biblicas": [
+    {
+      "referencia": "Josué 23:10-14",
+      "referencia_normalizada": "Josué 23:10-14",
+      "libro": "Josué",
+      "capitulo": 23,
+      "versiculos": [
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "tipo": "principal",
+      "clickeable": true
+    },
+    {
+      "referencia": "Josué 23:14",
+      "referencia_normalizada": "Josué 23:14",
+      "libro": "Josué",
+      "capitulo": 23,
+      "versiculos": [
+        14
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Deuteronomio 7:22",
+      "referencia_normalizada": "Deuteronomio 7:22",
+      "libro": "Deuteronomio",
+      "capitulo": 7,
+      "versiculos": [
+        22
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "2 Corintios 6:14-18",
+      "referencia_normalizada": "2 Corintios 6:14-18",
+      "libro": "2 Corintios",
+      "capitulo": 6,
+      "versiculos": [
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Josué 23:2",
+      "referencia_normalizada": "Josué 23:2",
+      "libro": "Josué",
+      "capitulo": 23,
+      "versiculos": [
+        2
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Josué 24:29",
+      "referencia_normalizada": "Josué 24:29",
+      "libro": "Josué",
+      "capitulo": 24,
+      "versiculos": [
+        29
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Josué 23:3",
+      "referencia_normalizada": "Josué 23:3",
+      "libro": "Josué",
+      "capitulo": 23,
+      "versiculos": [
+        3
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Josué 23:11",
+      "referencia_normalizada": "Josué 23:11",
+      "libro": "Josué",
+      "capitulo": 23,
+      "versiculos": [
+        11
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Josué 23:12-16",
+      "referencia_normalizada": "Josué 23:12-16",
+      "libro": "Josué",
+      "capitulo": 23,
+      "versiculos": [
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Josué 23:12",
+      "referencia_normalizada": "Josué 23:12",
+      "libro": "Josué",
+      "capitulo": 23,
+      "versiculos": [
+        12
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Josué 23:16",
+      "referencia_normalizada": "Josué 23:16",
+      "libro": "Josué",
+      "capitulo": 23,
+      "versiculos": [
+        16
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Josué 23:15",
+      "referencia_normalizada": "Josué 23:15",
+      "libro": "Josué",
+      "capitulo": 23,
+      "versiculos": [
+        15
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Josué 21:45",
+      "referencia_normalizada": "Josué 21:45",
+      "libro": "Josué",
+      "capitulo": 21,
+      "versiculos": [
+        45
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    }
+  ],
+  "contenido": {
+    "introduccion": null,
+    "secciones": [],
+    "contenido_completo": "El mandato de Josué era de esforzarse y guardar la ley de Dios. Dios continuaría arrojando al enemigo, pero el pueblo tendría que ser obediente a Sus mandamientos. Deberían mantenerse puros de la idolatría de las naciones y de matrimonios mixtos con los cananeos. De otra manera, estos paganos serían: fuente de aflicción continua para los israelitas.\n\nNinguna de las palabras de Dios había faltado. (Josué 23:14)\n\nToda la tierra no estaba en manos de los judíos.\n\n(Deuteronomio 7:22) Jehová tu Dios echará a estas naciones delante de ti poco a poco.\n\nEra necesario para que las fieras del campo no se aumenten contra ti.\n\nDe poco a poco, iban a ser probados y ahí dejarán ver si en verdad le sirven a Dios o a sus pasiones desordenadas.\n\n(2 Corintios 6:14-18) No podemos hacer yugo desigual con los incrédulos.\n\nLa separación es vital (vida) para el hombre de Dios.\n\nNo podemos estar sujetos al Señor y al mismo tiempo andar con Sus enemigos.\n\n(Josué 23:2) Yo ya soy viejo y avanzado en años.\n\nComo un motivo para darse prisa en transmitirles estas advertencias e instrucciones, ya que, siendo tan viejo, no podía esperar estar con ellos por mucho más tiempo.\n\nComo una \"razón\" para que le prestasen más atención, pues la edad le había dado gran experiencia.\n\nSe había hecho viejo en \"el servicio que había prestado a la nación\", \"sin preocuparse de su propio interés ni de su comodidad\", por lo que debían guardarle tanto mayor consideración.\n\nProbablemente, era el último año de su vida y vivió 110 años. (Josué 24:29)\n\n(Josué 23:3) Y vosotros habéis visto todo lo que Jehová nuestro Dios ha hecho; no lo que yo he hecho ni lo que vosotros habéis hecho, \"sino lo que Dios ha hecho\" a favor de vosotros \"por medio de mí\".\n\nJosué, anhelaba que el pueblo: Mas a Jehová vuestro Dios seguiréis; Deleitaos en Él, depended de Él, dedicaos a su gloria y continuad haciéndolo así hasta el final.\n\nSeamos capaz de seguir este consejo.\n\nNo estemos tan empeñados (que se mantiene muy firme y decidido en una idea) en tu opinión cómo deben ser las cosas o tu obstinación de metas de vanidad, para aplausos, precios.\n\n(Josué 23:11) Josué les instruye sobre lo que han de hacer para perseverar en la verdadera religión.\n\nSi hemos de pegarnos a Dios y no dejarle:\n\na. Debemos siempre estar en vela, \"porque muchas almas de precio infinito\" se arruinan a causa del descuido: \"Guardad pues, con diligencia vuestras almas.\"\n\nb. Lo que hacemos en materia de religión, hemos de hacerlo \"por motivo de amor\", no por imposición ni por un temor servil de Dios, sino espontáneamente (voluntario o de propio impulso, naturalmente) y con alegría para que améis a Jehová vuestro Dios y no os apartéis de Él.\n\n(Josué 23:12-16) Les amonesta con todo afecto sobre (con el aprecio que siente, le demuestra su amor) las fatales consecuencias que se seguirían de su apostasía. (renuncias a sus creencias): Si os apartáis, \"será vuestra ruina.\"\n\n(Josué 23:12) Como describe la apostasía contra la que les amonesta.\n\nEl primer paso sería relacionarse amistosamente con los idólatras.\n\nEl próximo sería concertar matrimonios con ellos.\n\nY las consecuencias serían (Josué 23:16) honrar a dioses ajenos e inclinarse a ellos.\n\nComo describe la ruina sobre la que les amonesta.\n\na. Que estas malas costumbres adquiridas de los cananeos que son difícil de eliminar les serían por lazos y trampas, tanto para inducirlos a pecar como para comprometerse en negaciones insensatas (sin madurez, sin prudencia, sin juicio, ni sabiduría), proyectos necios y toda clase de desventaja e inconvenientes.\n\nb. Que se había de encender contra ellos la ira de Dios. El asociarse con los cananeos no solo les daría a estos idólatras la oportunidad de hacerles muchos y grandes perjuicios (daño moral o material, físico), como quien cría culebras en su seno\", sino que provocarían a Dios\", y harían que se volviese enemigo de ellos y se encendiese contra ellos el fuego del desagrado divino.\n\nc. Que se habían de cumplir todas las amenazas de la palabra de Dios, como Él lo había prometido, \"pues el Dios de la verdad eterna y fiel\", tanto en cumplir las promesas como las \"amenazas\" (Josué 23:15). Han cumplido las excelentes promesas, mientras siguen fieles a Dios, también traerá Jehová sobre vosotros todas sus amenazas si os apartáis de Él.\n\nYo estoy para entrar por el camino de todo el mundo,\" es decir, voy a morir pronto.\n\nAhora que me acerco al término de mis días, es el tiempo adecuado para volver la vista atrás, a los años pasados; reconoced, pues… que no ha faltado una palabra de todas las buenas palabras que Jehová vuestro Dios había dicho de vosotros. (Josué 21:45) ¡Y había dicho muchas! Amén.",
+    "contenido_renderizado": [
+      {
+        "tipo": "parrafo",
+        "texto": "El mandato de Josué era de esforzarse y guardar la ley de Dios. Dios continuaría arrojando al enemigo, pero el pueblo tendría que ser obediente a Sus mandamientos. Deberían mantenerse puros de la idolatría de las naciones y de matrimonios mixtos con los cananeos. De otra manera, estos paganos serían: fuente de aflicción continua para los israelitas.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Ninguna de las palabras de Dios había faltado. (Josué 23:14)",
+        "referencias_inline": [
+          "Josué 23:14"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Toda la tierra no estaba en manos de los judíos.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Deuteronomio 7:22) Jehová tu Dios echará a estas naciones delante de ti poco a poco.",
+        "referencias_inline": [
+          "Deuteronomio 7:22"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Era necesario para que las fieras del campo no se aumenten contra ti.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "De poco a poco, iban a ser probados y ahí dejarán ver si en verdad le sirven a Dios o a sus pasiones desordenadas.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(2 Corintios 6:14-18) No podemos hacer yugo desigual con los incrédulos.",
+        "referencias_inline": [
+          "2 Corintios 6:14-18"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "La separación es vital (vida) para el hombre de Dios.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "No podemos estar sujetos al Señor y al mismo tiempo andar con Sus enemigos.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Josué 23:2) Yo ya soy viejo y avanzado en años.",
+        "referencias_inline": [
+          "Josué 23:2"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Como un motivo para darse prisa en transmitirles estas advertencias e instrucciones, ya que, siendo tan viejo, no podía esperar estar con ellos por mucho más tiempo.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Como una \"razón\" para que le prestasen más atención, pues la edad le había dado gran experiencia.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Se había hecho viejo en \"el servicio que había prestado a la nación\", \"sin preocuparse de su propio interés ni de su comodidad\", por lo que debían guardarle tanto mayor consideración.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Probablemente, era el último año de su vida y vivió 110 años. (Josué 24:29)",
+        "referencias_inline": [
+          "Josué 24:29"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Josué 23:3) Y vosotros habéis visto todo lo que Jehová nuestro Dios ha hecho; no lo que yo he hecho ni lo que vosotros habéis hecho, \"sino lo que Dios ha hecho\" a favor de vosotros \"por medio de mí\".",
+        "referencias_inline": [
+          "Josué 23:3"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Josué, anhelaba que el pueblo: Mas a Jehová vuestro Dios seguiréis; Deleitaos en Él, depended de Él, dedicaos a su gloria y continuad haciéndolo así hasta el final.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Seamos capaz de seguir este consejo.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "No estemos tan empeñados (que se mantiene muy firme y decidido en una idea) en tu opinión cómo deben ser las cosas o tu obstinación de metas de vanidad, para aplausos, precios.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Josué 23:11) Josué les instruye sobre lo que han de hacer para perseverar en la verdadera religión.",
+        "referencias_inline": [
+          "Josué 23:11"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Si hemos de pegarnos a Dios y no dejarle:",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "a. Debemos siempre estar en vela, \"porque muchas almas de precio infinito\" se arruinan a causa del descuido: \"Guardad pues, con diligencia vuestras almas.\"",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "b. Lo que hacemos en materia de religión, hemos de hacerlo \"por motivo de amor\", no por imposición ni por un temor servil de Dios, sino espontáneamente (voluntario o de propio impulso, naturalmente) y con alegría para que améis a Jehová vuestro Dios y no os apartéis de Él.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Josué 23:12-16) Les amonesta con todo afecto sobre (con el aprecio que siente, le demuestra su amor) las fatales consecuencias que se seguirían de su apostasía. (renuncias a sus creencias): Si os apartáis, \"será vuestra ruina.\"",
+        "referencias_inline": [
+          "Josué 23:12-16"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Josué 23:12) Como describe la apostasía contra la que les amonesta.",
+        "referencias_inline": [
+          "Josué 23:12"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "El primer paso sería relacionarse amistosamente con los idólatras.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "El próximo sería concertar matrimonios con ellos.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Y las consecuencias serían (Josué 23:16) honrar a dioses ajenos e inclinarse a ellos.",
+        "referencias_inline": [
+          "Josué 23:16"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Como describe la ruina sobre la que les amonesta.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "a. Que estas malas costumbres adquiridas de los cananeos que son difícil de eliminar les serían por lazos y trampas, tanto para inducirlos a pecar como para comprometerse en negaciones insensatas (sin madurez, sin prudencia, sin juicio, ni sabiduría), proyectos necios y toda clase de desventaja e inconvenientes.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "b. Que se había de encender contra ellos la ira de Dios. El asociarse con los cananeos no solo les daría a estos idólatras la oportunidad de hacerles muchos y grandes perjuicios (daño moral o material, físico), como quien cría culebras en su seno\", sino que provocarían a Dios\", y harían que se volviese enemigo de ellos y se encendiese contra ellos el fuego del desagrado divino.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "c. Que se habían de cumplir todas las amenazas de la palabra de Dios, como Él lo había prometido, \"pues el Dios de la verdad eterna y fiel\", tanto en cumplir las promesas como las \"amenazas\" (Josué 23:15). Han cumplido las excelentes promesas, mientras siguen fieles a Dios, también traerá Jehová sobre vosotros todas sus amenazas si os apartáis de Él.",
+        "referencias_inline": [
+          "Josué 23:15"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Yo estoy para entrar por el camino de todo el mundo,\" es decir, voy a morir pronto.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Ahora que me acerco al término de mis días, es el tiempo adecuado para volver la vista atrás, a los años pasados; reconoced, pues… que no ha faltado una palabra de todas las buenas palabras que Jehová vuestro Dios había dicho de vosotros. (Josué 21:45) ¡Y había dicho muchas! Amén.",
+        "referencias_inline": [
+          "Josué 21:45"
+        ]
+      }
+    ]
+  },
+  "busqueda": {
+    "texto_indexable": "jehova nuestro Dios es quien ha peleado josue 23 10 14 palabra de Dios verdad sabiduria espiritual juicio arrepentimiento prudencia fuego apostasia el mandato de josue era de esforzarse y guardar la ley de Dios Dios continuaria arrojando al enemigo pero el pueblo tendria que ser obediente a sus mandamientos deberian mantenerse puros de la idolatria de las naciones y de matrimonios mixtos con los cananeos de otra manera estos paganos serian fuente de afliccion continua para los israelitas ninguna de las palabras de Dios habia faltado josue 23 14 toda la tierra no estaba en manos de los judios deuteronomio 7 22 jehova tu Dios echara a estas naciones delante de ti poco a poco era necesario para que las fieras del campo no se aumenten contra ti de poco a poco iban a ser probados y ahi dejaran ver si en verdad le sirven a Dios o a sus pasiones desordenadas 2 corintios 6 14 18 no podemos hacer yugo desigual con los incredulos la separacion es vital vida para el hombre de Dios no podemos estar sujetos al senor y al mismo tiempo andar con sus enemigos josue 23 2 yo ya soy viejo y avanzado en anos como un motivo para darse prisa en transmitirles estas advertencias e instrucciones ya que siendo tan viejo no podia esperar estar con ellos por mucho mas tiempo como una razon para que le prestasen mas atencion pues la edad le habia dado gran experiencia se habia hecho viejo en el servicio que habia prestado a la nacion sin preocuparse de su propio interes ni de su comodidad por lo que debian guardarle tanto mayor consideracion probablemente era el ultimo ano de su vida y vivio 110 anos josue 24 29 josue 23 3 y vosotros habeis visto todo lo que jehova nuestro Dios ha hecho no lo que yo he hecho ni lo que vosotros habeis hecho sino lo que Dios ha hecho a favor de vosotros por medio de mi josue anhelaba que el pueblo mas a jehova vuestro Dios seguireis deleitaos en el depended de el dedicaos a su gloria y continuad haciendolo asi hasta el final seamos capaz de seguir este consejo no estemos tan empenados que se mantiene muy firme y decidido en una idea en tu opinion como deben ser las cosas o tu obstinacion de metas de vanidad para aplausos precios josue 23 11 josue les instruye sobre lo que han de hacer para perseverar en la verdadera religion si hemos de pegarnos a Dios y no dejarle a debemos siempre estar en vela porque muchas almas de precio infinito se arruinan a causa del descuido guardad pues con diligencia vuestras almas b lo que hacemos en materia de religion hemos de hacerlo por motivo de amor no por imposicion ni por un temor servil de Dios sino espontaneamente voluntario o de propio impulso naturalmente y con alegria para que ameis a jehova vuestro Dios y no os aparteis de el josue 23 12 16 les amonesta con todo afecto sobre con el aprecio que siente le demuestra su amor las fatales consecuencias que se seguirian de su apostasia renuncias a sus creencias si os apartais sera vuestra ruina josue 23 12 como describe la apostasia contra la que les amonesta el primer paso seria relacionarse amistosamente con los idolatras el proximo seria concertar matrimonios con ellos y las consecuencias serian josue 23 16 honrar a dioses ajenos e inclinarse a ellos como describe la ruina sobre la que les amonesta a que estas malas costumbres adquiridas de los cananeos que son dificil de eliminar les serian por lazos y trampas tanto para inducirlos a pecar como para comprometerse en negaciones insensatas sin madurez sin prudencia sin juicio ni sabiduria proyectos necios y toda clase de desventaja e inconvenientes b que se habia de encender contra ellos la ira de Dios el asociarse con los cananeos no solo les daria a estos idolatras la oportunidad de hacerles muchos y grandes perjuicios dano moral o material fisico como quien cria culebras en su seno sino que provocarian a Dios y harian que se volviese enemigo de ellos y se encendiese contra ellos el fuego del desagrado divino c que se habian de cumplir todas las amenazas de la palabra de Dios como el lo habia prometido pues el Dios de la verdad eterna y fiel tanto en cumplir las promesas como las amenazas josue 23 15 han cumplido las excelentes promesas mientras siguen fieles a Dios tambien traera jehova sobre vosotros todas sus amenazas si os apartais de el yo estoy para entrar por el camino de todo el mundo es decir voy a morir pronto ahora que me acerco al termino de mis dias es el tiempo adecuado para volver la vista atras a los anos pasados reconoced pues que no ha faltado una palabra de todas las buenas palabras que jehova vuestro Dios habia dicho de vosotros josue 21 45 y habia dicho muchas amen",
+    "alias_busqueda": [
+      "Estudio 1290",
+      "Josué",
+      "Josué 23",
+      "Josué 23:10-14",
+      "juicio",
+      "arrepentimiento",
+      "prudencia",
+      "fuego",
+      "Palabra de Dios",
+      "Verdad"
+    ]
+  },
+  "revision_manual": {
+    "requiere_revision": false,
+    "motivo": ""
+  },
+  "ui": {
+    "mostrar_credito_en_header": true,
+    "mostrar_numero_estudio": true,
+    "mostrar_fecha": true,
+    "mostrar_topicos": true,
+    "permitir_favorito": true,
+    "permitir_compartir": true
+  }
+}

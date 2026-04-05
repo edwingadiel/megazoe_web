@@ -1,0 +1,280 @@
+{
+  "id": "estudio-746-Dios-da-gracia-a-los-humildes",
+  "slug": "estudio-746-Dios-da-gracia-a-los-humildes",
+  "numero_estudio": 746,
+  "tipo_estudio": "Iglesia en las casas",
+  "ministerio": {
+    "iglesia": "Iglesia Cristiana Mega Zoe",
+    "pastora": "Pastora Edith Cruz",
+    "credito_corto": "Iglesia Cristiana Mega Zoe · Pastora Edith Cruz",
+    "credito_largo": "Contenido original de Iglesia Cristiana Mega Zoe, conservando el crédito ministerial correspondiente a la Pastora Edith Cruz."
+  },
+  "identidad_editorial": {
+    "idioma": "es",
+    "fuente_original": "documento_word",
+    "archivo_origen": "/Users/edwingadiel/Desktop/Estudios en Word/Estudio #746 Dios da gracia a los humildes - Santiago 4 4-7.docx",
+    "estado_revision": "procesado",
+    "version_schema": "1.0"
+  },
+  "encabezado": {
+    "titulo": "Dios da Gracia A Los Humildes",
+    "subtitulo": null,
+    "cita_principal": "Santiago 4:4-7",
+    "resumen_corto": "Dios da Gracia A Los Humildes enseña a servir con humildad."
+  },
+  "fechas": {
+    "fecha_inicio": null,
+    "fecha_fin": null,
+    "fecha_texto_original": "",
+    "ano": null
+  },
+  "clasificacion_biblica": {
+    "libro_principal": "Santiago",
+    "capitulo_principal": 4,
+    "versiculos_principales": [
+      4,
+      5,
+      6,
+      7
+    ],
+    "referencia_principal_normalizada": "Santiago 4:4-7",
+    "testamento_principal": "Nuevo Testamento"
+  },
+  "clasificacion_tematica": {
+    "topicos": [
+      "Humildad",
+      "Matrimonio",
+      "Gracia de Dios"
+    ],
+    "keywords": [
+      "gracia",
+      "arrepentimiento",
+      "mundo",
+      "humildad",
+      "cordero"
+    ]
+  },
+  "referencias_biblicas": [
+    {
+      "referencia": "Santiago 4:4-7",
+      "referencia_normalizada": "Santiago 4:4-7",
+      "libro": "Santiago",
+      "capitulo": 4,
+      "versiculos": [
+        4,
+        5,
+        6,
+        7
+      ],
+      "tipo": "principal",
+      "clickeable": true
+    },
+    {
+      "referencia": "Éxodo 34:14, 15",
+      "referencia_normalizada": "Éxodo 34:14,15",
+      "libro": "Éxodo",
+      "capitulo": 34,
+      "versiculos": [
+        14,
+        15
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Oseas 9:1",
+      "referencia_normalizada": "Oseas 9:1",
+      "libro": "Oseas",
+      "capitulo": 9,
+      "versiculos": [
+        1
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Mateo 16:4",
+      "referencia_normalizada": "Mateo 16:4",
+      "libro": "Mateo",
+      "capitulo": 16,
+      "versiculos": [
+        4
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Apocalipsis 19:7",
+      "referencia_normalizada": "Apocalipsis 19:7",
+      "libro": "Apocalipsis",
+      "capitulo": 19,
+      "versiculos": [
+        7
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "2 Corintios 11:2",
+      "referencia_normalizada": "2 Corintios 11:2",
+      "libro": "2 Corintios",
+      "capitulo": 11,
+      "versiculos": [
+        2
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "2 Timoteo 4:10",
+      "referencia_normalizada": "2 Timoteo 4:10",
+      "libro": "2 Timoteo",
+      "capitulo": 4,
+      "versiculos": [
+        10
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Mateo 6:24",
+      "referencia_normalizada": "Mateo 6:24",
+      "libro": "Mateo",
+      "capitulo": 6,
+      "versiculos": [
+        24
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Éxodo 20:4, 5",
+      "referencia_normalizada": "Éxodo 20:4,5",
+      "libro": "Éxodo",
+      "capitulo": 20,
+      "versiculos": [
+        4,
+        5
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Santiago 4:5",
+      "referencia_normalizada": "Santiago 4:5",
+      "libro": "Santiago",
+      "capitulo": 4,
+      "versiculos": [
+        5
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Santiago 4:6",
+      "referencia_normalizada": "Santiago 4:6",
+      "libro": "Santiago",
+      "capitulo": 4,
+      "versiculos": [
+        6
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Hebreos 4:16",
+      "referencia_normalizada": "Hebreos 4:16",
+      "libro": "Hebreos",
+      "capitulo": 4,
+      "versiculos": [
+        16
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    }
+  ],
+  "contenido": {
+    "introduccion": null,
+    "secciones": [],
+    "contenido_completo": "En el Antiguo Testamento Dios trataba a su pueblo como uno adúltero, pues lo dejaban a Él por los dioses falsos. En Éxodo 34:14, 15 vemos que desde antes Dios les había advertido, \"Porque no te has de inclinar a ningún otro Dios, pues Jehová, cuyo nombre es Celoso, Dios celoso es. Por tanto, no harás alianza con los moradores de aquella tierra (Canaán); porque fornicarán en pos de sus dioses, y ofrecerán sacrificios a sus dioses, y te invitarán, y comerás de sus sacrificios.\" Leemos en el Antiguo Testamento en Oseas 9:1 que el Señor se queja de que el pueblo se ha prostituido y se ha olvidado de su Dios. En el Nuevo Testamento también el Señor llama a su pueblo Israel una generación adúltera, \"La generación mala y adúltera demanda señal…\" (Mateo 16:4). Vemos que la comparación que el Señor mismo hace y que leemos en el Antiguo Testamento de Él e Israel como una relación de esposo y esposa pasó también al pensamiento cristiano presentando a la Iglesia como la esposa de Cristo, \"…porque han llegado las bodas del Cordero y su esposa se ha preparado\" (Apocalipsis 19:7). También vemos esta comparación en 2 Corintios 11:2. Esto es una idea preciosa del pensamiento puro de nuestro Dios. Quiere decir, que el desobedecer a Dios es como romper la promesa matrimonial. Implica que todo pecado es un pecado contra el amor al Señor, que nuestra relación con Dios no es distante como la de un rey con sus súbditos o un amo y sus esclavos, sino íntimo como la de un marido y su mujer. Hay que ser humilde para conservar una relación así.\n\nHermano, amar al mundo te enemista con Dios. El que es muy amigo del mundo se coloca en la posición de enemigo de Dios. Dios se ha complacido en la belleza de esta tierra y todos podemos ver la hermosura de ella; pero el término \"mundo\" que se usa aquí se refiere a la vida general de pecado y de desenfreno en el que viven la mayoría de los hombres. En 2 Timoteo 4:10 Pablo dice: \"…porque Demas me ha desamparado, amando este mundo, y se ha ido a Tesalónica.\" Pablo se refiere claramente a la mundanalidad. Si uno dedica totalmente su vida a las cosas materiales, está claro que no le podrá dedicar nada a Dios. Este es el sentido que se usa para el que dedica su vida a este mundo y por ende está enemistado con Dios. El mejor comentario a este dicho es el de Jesús en Mateo 6:24, nadie puede estar al servicio de dos amos. Hay dos posibles actitudes ante las cosas de este mundo; o podemos estar tan dominados por ellas que el mundo llega a ser nuestro amo o en cambio, podemos usarlas para servir a nuestros semejantes y prepararnos para la eternidad. Si ésta última es nuestra actitud, pues entonces, el mundo no es nuestro amor sino nuestro servidor. Usar el mundo para servir a Dios y a la humanidad es ser amigo de Dios. Entendamos que el dejarnos usar por un mundo dictador y tirano de esta vida es estar en ¡ENEMISTAD CON Dios!\n\nEl Espíritu de Dios ha hecho morada en nuestros corazones. Dios anhela celosamente la devoción del Espíritu que ha hecho morar en nosotros. El sentido aquí es que Dios es un esposo celoso que no consiente competidor alguno. En el Antiguo Testamento se deja ver que Dios es un Dios celoso. Éxodo 20:4, 5 \"No te harás imagen, ni ninguna semejanza de lo que esté arriba en el cielo, ni abajo en la tierra, ni en las aguas debajo de la tierra. No te inclinarás a ellas, ni las honrarás; porque yo soy Jehová tu Dios, fuerte, CELOSO…\" Cuando amas al mundo te inclinas a él. El Espíritu Santo nos anhela celosamente, cuidemos a Dios en nuestras vidas (Santiago 4:5). Santiago hace una descripción de Dios como enamorado, celoso. Para conservar esta relación maravillosa hay que ser humilde y no altivo.\n\nSi Dios hace una gran demanda también dará gran gracia para cumplirla. Y cuanto más grande es la demanda mayor es la gracia que Dios nos da. Una persona no puede recibirla hasta que se da cuenta de que la necesita y acude a Dios solicitando humildemente su ayuda. Dios está en contra de los soberbios, pero da su gracia a los humildes (Santiago 4:6).\n\nEl ORGULLO en griego es \"hyperifanos\" que quiere decir, literalmente, el que se coloca por encima de los demás. El orgullo es ese cierto desprecio a los demás. El orgullo es la ciudadela y la cima de todos los males. Lo más terrible es que se esconde en el corazón. Quiere decir altanería, el que la padece puede parecer de lo más humilde, cuando en realidad siente en el corazón un desprecio olímpico hacia todos sus semejantes. SE CIERRA A Dios por tres razones. La primera es, que jamás reconoce su propia necesidad. Se admira a sí mismo a un punto tal que no reconoce su necesidad. Le encanta ser autosuficiente. Segunda razón, no tiene obligaciones para con nadie ni siquiera para con Dios. Tercera razón, no reconoce su propio pecado. Está tan ocupado pensando en su propia excelencia que no le queda tiempo para descubrir ningún pecado del que tenga que librarse. Un orgullo así no puede recibir ayuda porque no sabe que la necesita y por tanto, no la busca ni la acepta. ¡Cuidado!\n\nLa humildad de que habla Santiago en el vs. 6 no consiste en rebajarse. Sino que consiste en admitir que uno es solo una persona más y que depende del poder de Dios. Por eso, se puede enfrentar abiertamente con el diablo y éste le dejará debido a su cobardía. ¡Nos inspira la lucha que tuvo Jesús con el tentador y cómo lo venció con la Palabra! De igual, tú también lo puedes hacer, ¡en Su nombre! El cristiano tiene la humildad de saber que tiene que pelear sus batallas con el tentador, pero no con su propio poder sino con el poder de Dios. Sabe que tiene el mayor privilegio que es ¡EL ACCESO A Dios! Esto es algo imponente, porque en el Antiguo Testamento solo el sacerdote lo podía tener. Su ministerio se lo permitía para ayudar a los que estaban manchados de pecado. Ahora, por la obra de Jesucristo, cualquier creyente puede ir confiadamente al trono de Dios; encontrará misericordia y gracia que le ayudarán en el momento de la necesidad. (Hebreos 4:16)\n\nPor lo tanto, nosotros todos debemos ser humildes, pero es una humildad que nos da un valor invencible y que sabe que el acceso a Dios está abierto, hasta para el santo más tímido. Busquemos que en nuestra vida esté siempre la humildad, así ¡SU GRACIA NUNCA NOS FALTARA! ¡Cuán grande y dadivoso es nuestro Dios! Amén.",
+    "contenido_renderizado": [
+      {
+        "tipo": "parrafo",
+        "texto": "En el Antiguo Testamento Dios trataba a su pueblo como uno adúltero, pues lo dejaban a Él por los dioses falsos. En Éxodo 34:14, 15 vemos que desde antes Dios les había advertido, \"Porque no te has de inclinar a ningún otro Dios, pues Jehová, cuyo nombre es Celoso, Dios celoso es. Por tanto, no harás alianza con los moradores de aquella tierra (Canaán); porque fornicarán en pos de sus dioses, y ofrecerán sacrificios a sus dioses, y te invitarán, y comerás de sus sacrificios.\" Leemos en el Antiguo Testamento en Oseas 9:1 que el Señor se queja de que el pueblo se ha prostituido y se ha olvidado de su Dios. En el Nuevo Testamento también el Señor llama a su pueblo Israel una generación adúltera, \"La generación mala y adúltera demanda señal…\" (Mateo 16:4). Vemos que la comparación que el Señor mismo hace y que leemos en el Antiguo Testamento de Él e Israel como una relación de esposo y esposa pasó también al pensamiento cristiano presentando a la Iglesia como la esposa de Cristo, \"…porque han llegado las bodas del Cordero y su esposa se ha preparado\" (Apocalipsis 19:7). También vemos esta comparación en 2 Corintios 11:2. Esto es una idea preciosa del pensamiento puro de nuestro Dios. Quiere decir, que el desobedecer a Dios es como romper la promesa matrimonial. Implica que todo pecado es un pecado contra el amor al Señor, que nuestra relación con Dios no es distante como la de un rey con sus súbditos o un amo y sus esclavos, sino íntimo como la de un marido y su mujer. Hay que ser humilde para conservar una relación así.",
+        "referencias_inline": [
+          "Éxodo 34:14,15",
+          "Oseas 9:1",
+          "Mateo 16:4",
+          "Apocalipsis 19:7",
+          "2 Corintios 11:2"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Hermano, amar al mundo te enemista con Dios. El que es muy amigo del mundo se coloca en la posición de enemigo de Dios. Dios se ha complacido en la belleza de esta tierra y todos podemos ver la hermosura de ella; pero el término \"mundo\" que se usa aquí se refiere a la vida general de pecado y de desenfreno en el que viven la mayoría de los hombres. En 2 Timoteo 4:10 Pablo dice: \"…porque Demas me ha desamparado, amando este mundo, y se ha ido a Tesalónica.\" Pablo se refiere claramente a la mundanalidad. Si uno dedica totalmente su vida a las cosas materiales, está claro que no le podrá dedicar nada a Dios. Este es el sentido que se usa para el que dedica su vida a este mundo y por ende está enemistado con Dios. El mejor comentario a este dicho es el de Jesús en Mateo 6:24, nadie puede estar al servicio de dos amos. Hay dos posibles actitudes ante las cosas de este mundo; o podemos estar tan dominados por ellas que el mundo llega a ser nuestro amo o en cambio, podemos usarlas para servir a nuestros semejantes y prepararnos para la eternidad. Si ésta última es nuestra actitud, pues entonces, el mundo no es nuestro amor sino nuestro servidor. Usar el mundo para servir a Dios y a la humanidad es ser amigo de Dios. Entendamos que el dejarnos usar por un mundo dictador y tirano de esta vida es estar en ¡ENEMISTAD CON Dios!",
+        "referencias_inline": [
+          "2 Timoteo 4:10",
+          "Mateo 6:24"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "El Espíritu de Dios ha hecho morada en nuestros corazones. Dios anhela celosamente la devoción del Espíritu que ha hecho morar en nosotros. El sentido aquí es que Dios es un esposo celoso que no consiente competidor alguno. En el Antiguo Testamento se deja ver que Dios es un Dios celoso. Éxodo 20:4, 5 \"No te harás imagen, ni ninguna semejanza de lo que esté arriba en el cielo, ni abajo en la tierra, ni en las aguas debajo de la tierra. No te inclinarás a ellas, ni las honrarás; porque yo soy Jehová tu Dios, fuerte, CELOSO…\" Cuando amas al mundo te inclinas a él. El Espíritu Santo nos anhela celosamente, cuidemos a Dios en nuestras vidas (Santiago 4:5). Santiago hace una descripción de Dios como enamorado, celoso. Para conservar esta relación maravillosa hay que ser humilde y no altivo.",
+        "referencias_inline": [
+          "Éxodo 20:4,5",
+          "Santiago 4:5"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Si Dios hace una gran demanda también dará gran gracia para cumplirla. Y cuanto más grande es la demanda mayor es la gracia que Dios nos da. Una persona no puede recibirla hasta que se da cuenta de que la necesita y acude a Dios solicitando humildemente su ayuda. Dios está en contra de los soberbios, pero da su gracia a los humildes (Santiago 4:6).",
+        "referencias_inline": [
+          "Santiago 4:6"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "El ORGULLO en griego es \"hyperifanos\" que quiere decir, literalmente, el que se coloca por encima de los demás. El orgullo es ese cierto desprecio a los demás. El orgullo es la ciudadela y la cima de todos los males. Lo más terrible es que se esconde en el corazón. Quiere decir altanería, el que la padece puede parecer de lo más humilde, cuando en realidad siente en el corazón un desprecio olímpico hacia todos sus semejantes. SE CIERRA A Dios por tres razones. La primera es, que jamás reconoce su propia necesidad. Se admira a sí mismo a un punto tal que no reconoce su necesidad. Le encanta ser autosuficiente. Segunda razón, no tiene obligaciones para con nadie ni siquiera para con Dios. Tercera razón, no reconoce su propio pecado. Está tan ocupado pensando en su propia excelencia que no le queda tiempo para descubrir ningún pecado del que tenga que librarse. Un orgullo así no puede recibir ayuda porque no sabe que la necesita y por tanto, no la busca ni la acepta. ¡Cuidado!",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "La humildad de que habla Santiago en el vs. 6 no consiste en rebajarse. Sino que consiste en admitir que uno es solo una persona más y que depende del poder de Dios. Por eso, se puede enfrentar abiertamente con el diablo y éste le dejará debido a su cobardía. ¡Nos inspira la lucha que tuvo Jesús con el tentador y cómo lo venció con la Palabra! De igual, tú también lo puedes hacer, ¡en Su nombre! El cristiano tiene la humildad de saber que tiene que pelear sus batallas con el tentador, pero no con su propio poder sino con el poder de Dios. Sabe que tiene el mayor privilegio que es ¡EL ACCESO A Dios! Esto es algo imponente, porque en el Antiguo Testamento solo el sacerdote lo podía tener. Su ministerio se lo permitía para ayudar a los que estaban manchados de pecado. Ahora, por la obra de Jesucristo, cualquier creyente puede ir confiadamente al trono de Dios; encontrará misericordia y gracia que le ayudarán en el momento de la necesidad. (Hebreos 4:16)",
+        "referencias_inline": [
+          "Hebreos 4:16"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Por lo tanto, nosotros todos debemos ser humildes, pero es una humildad que nos da un valor invencible y que sabe que el acceso a Dios está abierto, hasta para el santo más tímido. Busquemos que en nuestra vida esté siempre la humildad, así ¡SU GRACIA NUNCA NOS FALTARA! ¡Cuán grande y dadivoso es nuestro Dios! Amén.",
+        "referencias_inline": []
+      }
+    ]
+  },
+  "busqueda": {
+    "texto_indexable": "Dios da gracia a los humildes santiago 4 4 7 humildad matrimonio gracia de Dios gracia arrepentimiento mundo humildad cordero en el antiguo testamento Dios trataba a su pueblo como uno adultero pues lo dejaban a el por los dioses falsos en exodo 34 14 15 vemos que desde antes Dios les habia advertido porque no te has de inclinar a ningun otro Dios pues jehova cuyo nombre es celoso Dios celoso es por tanto no haras alianza con los moradores de aquella tierra canaan porque fornicaran en pos de sus dioses y ofreceran sacrificios a sus dioses y te invitaran y comeras de sus sacrificios leemos en el antiguo testamento en oseas 9 1 que el senor se queja de que el pueblo se ha prostituido y se ha olvidado de su Dios en el nuevo testamento tambien el senor llama a su pueblo israel una generacion adultera la generacion mala y adultera demanda senal mateo 16 4 vemos que la comparacion que el senor mismo hace y que leemos en el antiguo testamento de el e israel como una relacion de esposo y esposa paso tambien al pensamiento cristiano presentando a la iglesia como la esposa de cristo porque han llegado las bodas del cordero y su esposa se ha preparado apocalipsis 19 7 tambien vemos esta comparacion en 2 corintios 11 2 esto es una idea preciosa del pensamiento puro de nuestro Dios quiere decir que el desobedecer a Dios es como romper la promesa matrimonial implica que todo pecado es un pecado contra el amor al senor que nuestra relacion con Dios no es distante como la de un rey con sus subditos o un amo y sus esclavos sino intimo como la de un marido y su mujer hay que ser humilde para conservar una relacion asi hermano amar al mundo te enemista con Dios el que es muy amigo del mundo se coloca en la posicion de enemigo de Dios Dios se ha complacido en la belleza de esta tierra y todos podemos ver la hermosura de ella pero el termino mundo que se usa aqui se refiere a la vida general de pecado y de desenfreno en el que viven la mayoria de los hombres en 2 timoteo 4 10 pablo dice porque demas me ha desamparado amando este mundo y se ha ido a tesalonica pablo se refiere claramente a la mundanalidad si uno dedica totalmente su vida a las cosas materiales esta claro que no le podra dedicar nada a Dios este es el sentido que se usa para el que dedica su vida a este mundo y por ende esta enemistado con Dios el mejor comentario a este dicho es el de Jesus en mateo 6 24 nadie puede estar al servicio de dos amos hay dos posibles actitudes ante las cosas de este mundo o podemos estar tan dominados por ellas que el mundo llega a ser nuestro amo o en cambio podemos usarlas para servir a nuestros semejantes y prepararnos para la eternidad si esta ultima es nuestra actitud pues entonces el mundo no es nuestro amor sino nuestro servidor usar el mundo para servir a Dios y a la humanidad es ser amigo de Dios entendamos que el dejarnos usar por un mundo dictador y tirano de esta vida es estar en enemistad con Dios el espiritu de Dios ha hecho morada en nuestros corazones Dios anhela celosamente la devocion del espiritu que ha hecho morar en nosotros el sentido aqui es que Dios es un esposo celoso que no consiente competidor alguno en el antiguo testamento se deja ver que Dios es un Dios celoso exodo 20 4 5 no te haras imagen ni ninguna semejanza de lo que este arriba en el cielo ni abajo en la tierra ni en las aguas debajo de la tierra no te inclinaras a ellas ni las honraras porque yo soy jehova tu Dios fuerte celoso cuando amas al mundo te inclinas a el el espiritu santo nos anhela celosamente cuidemos a Dios en nuestras vidas santiago 4 5 santiago hace una descripcion de Dios como enamorado celoso para conservar esta relacion maravillosa hay que ser humilde y no altivo si Dios hace una gran demanda tambien dara gran gracia para cumplirla y cuanto mas grande es la demanda mayor es la gracia que Dios nos da una persona no puede recibirla hasta que se da cuenta de que la necesita y acude a Dios solicitando humildemente su ayuda Dios esta en contra de los soberbios pero da su gracia a los humildes santiago 4 6 el orgullo en griego es hyperifanos que quiere decir literalmente el que se coloca por encima de los demas el orgullo es ese cierto desprecio a los demas el orgullo es la ciudadela y la cima de todos los males lo mas terrible es que se esconde en el corazon quiere decir altaneria el que la padece puede parecer de lo mas humilde cuando en realidad siente en el corazon un desprecio olimpico hacia todos sus semejantes se cierra a Dios por tres razones la primera es que jamas reconoce su propia necesidad se admira a si mismo a un punto tal que no reconoce su necesidad le encanta ser autosuficiente segunda razon no tiene obligaciones para con nadie ni siquiera para con Dios tercera razon no reconoce su propio pecado esta tan ocupado pensando en su propia excelencia que no le queda tiempo para descubrir ningun pecado del que tenga que librarse un orgullo asi no puede recibir ayuda porque no sabe que la necesita y por tanto no la busca ni la acepta cuidado la humildad de que habla santiago en el vs 6 no consiste en rebajarse sino que consiste en admitir que uno es solo una persona mas y que depende del poder de Dios por eso se puede enfrentar abiertamente con el diablo y este le dejara debido a su cobardia nos inspira la lucha que tuvo Jesus con el tentador y como lo vencio con la palabra de igual tu tambien lo puedes hacer en su nombre el cristiano tiene la humildad de saber que tiene que pelear sus batallas con el tentador pero no con su propio poder sino con el poder de Dios sabe que tiene el mayor privilegio que es el acceso a Dios esto es algo imponente porque en el antiguo testamento solo el sacerdote lo podia tener su ministerio se lo permitia para ayudar a los que estaban manchados de pecado ahora por la obra de jesucristo cualquier creyente puede ir confiadamente al trono de Dios encontrara misericordia y gracia que le ayudaran en el momento de la necesidad hebreos 4 16 por lo tanto nosotros todos debemos ser humildes pero es una humildad que nos da un valor invencible y que sabe que el acceso a Dios esta abierto hasta para el santo mas timido busquemos que en nuestra vida este siempre la humildad asi su gracia nunca nos faltara cuan grande y dadivoso es nuestro Dios amen",
+    "alias_busqueda": [
+      "Dios da Gracia A Los Humildes",
+      "Santiago",
+      "Santiago 4",
+      "Santiago 4:4-7",
+      "gracia",
+      "arrepentimiento",
+      "mundo",
+      "humildad",
+      "Matrimonio"
+    ]
+  },
+  "revision_manual": {
+    "requiere_revision": false,
+    "motivo": ""
+  },
+  "ui": {
+    "mostrar_credito_en_header": true,
+    "mostrar_numero_estudio": true,
+    "mostrar_fecha": true,
+    "mostrar_topicos": true,
+    "permitir_favorito": true,
+    "permitir_compartir": true
+  }
+}

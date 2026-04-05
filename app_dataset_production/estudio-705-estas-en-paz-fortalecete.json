@@ -1,0 +1,273 @@
+{
+  "id": "estudio-705-estas-en-paz-fortalecete",
+  "slug": "estudio-705-estas-en-paz-fortalecete",
+  "numero_estudio": 705,
+  "tipo_estudio": "Iglesia en las casas",
+  "ministerio": {
+    "iglesia": "Iglesia Cristiana Mega Zoe",
+    "pastora": "Pastora Edith Cruz",
+    "credito_corto": "Iglesia Cristiana Mega Zoe · Pastora Edith Cruz",
+    "credito_largo": "Contenido original de Iglesia Cristiana Mega Zoe, conservando el crédito ministerial correspondiente a la Pastora Edith Cruz."
+  },
+  "identidad_editorial": {
+    "idioma": "es",
+    "fuente_original": "documento_word",
+    "archivo_origen": "/Users/edwingadiel/Desktop/Estudios en Word/Estudio #705 Estás en paz, fortalécete - 2 Crónicas 14 1-13.docx",
+    "estado_revision": "procesado",
+    "version_schema": "1.0"
+  },
+  "encabezado": {
+    "titulo": "Estas En Paz, Fortalécete",
+    "subtitulo": null,
+    "cita_principal": "2 Crónicas 14:1-13",
+    "resumen_corto": "Estas En Paz, Fortalécete llama a perseverar en la oración."
+  },
+  "fechas": {
+    "fecha_inicio": null,
+    "fecha_fin": null,
+    "fecha_texto_original": "",
+    "ano": null
+  },
+  "clasificacion_biblica": {
+    "libro_principal": "2 Crónicas",
+    "capitulo_principal": 14,
+    "versiculos_principales": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13
+    ],
+    "referencia_principal_normalizada": "2 Crónicas 14:1-13",
+    "testamento_principal": "Antiguo Testamento"
+  },
+  "clasificacion_tematica": {
+    "topicos": [
+      "Oración",
+      "Paz",
+      "Presencia de Dios"
+    ],
+    "keywords": [
+      "verdad",
+      "santidad",
+      "oración",
+      "arrepentimiento",
+      "perseverancia"
+    ]
+  },
+  "referencias_biblicas": [
+    {
+      "referencia": "2 Crónicas 14:1-13",
+      "referencia_normalizada": "2 Crónicas 14:1-13",
+      "libro": "2 Crónicas",
+      "capitulo": 14,
+      "versiculos": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "tipo": "principal",
+      "clickeable": true
+    },
+    {
+      "referencia": "2 Timoteo 2:15",
+      "referencia_normalizada": "2 Timoteo 2:15",
+      "libro": "2 Timoteo",
+      "capitulo": 2,
+      "versiculos": [
+        15
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "2 Crónicas 14: 3",
+      "referencia_normalizada": "2 Crónicas 14:3",
+      "libro": "2 Crónicas",
+      "capitulo": 14,
+      "versiculos": [
+        3
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "2 Crónicas 13:10, 11",
+      "referencia_normalizada": "2 Crónicas 13:10,11",
+      "libro": "2 Crónicas",
+      "capitulo": 13,
+      "versiculos": [
+        10,
+        11
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "2 Crónicas 14: 6",
+      "referencia_normalizada": "2 Crónicas 14:6",
+      "libro": "2 Crónicas",
+      "capitulo": 14,
+      "versiculos": [
+        6
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Hechos 9:31",
+      "referencia_normalizada": "Hechos 9:31",
+      "libro": "Hechos",
+      "capitulo": 9,
+      "versiculos": [
+        31
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "2 Crónicas 14:7",
+      "referencia_normalizada": "2 Crónicas 14:7",
+      "libro": "2 Crónicas",
+      "capitulo": 14,
+      "versiculos": [
+        7
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "2 Crónicas 14:8",
+      "referencia_normalizada": "2 Crónicas 14:8",
+      "libro": "2 Crónicas",
+      "capitulo": 14,
+      "versiculos": [
+        8
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "2 Crónicas 14: 9",
+      "referencia_normalizada": "2 Crónicas 14:9",
+      "libro": "2 Crónicas",
+      "capitulo": 14,
+      "versiculos": [
+        9
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "2 Crónicas 14:11",
+      "referencia_normalizada": "2 Crónicas 14:11",
+      "libro": "2 Crónicas",
+      "capitulo": 14,
+      "versiculos": [
+        11
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    }
+  ],
+  "contenido": {
+    "introduccion": null,
+    "secciones": [],
+    "contenido_completo": "El rey Asa hizo lo bueno y lo recto ante los ojos de Jehová su Dios. Ahí es que está el bien para el hombre. Su deseo fue hacer todo el esfuerzo posible para presentarse a Dios aprobado, como un soldado que no tiene nada de qué avergonzarse (2 Timoteo 2:15), ni por negligente, ni ocioso, ni vanidoso, ni prepotente. Buscaba Asa que cuando Dios lo viera se deleitara de que había un rey en la tierra que le iba a ser fiel. Estar en la presencia de Dios es llevar todo a ganar y para eso tenía que hacer lo bueno y lo recto. Estar en la presencia del Señor era lo que hacía el rey Asa, entonces eso fue lo que le ayudó a hacer lo bueno y lo recto.\n\nCuando uno se aleja de la presencia del Señor comienza a hacer las cosas conforme a la carne. Asa tenía que hacer una reforma en su reinado en Israel. Por eso quitó por completo la idolatría (2 Crónicas 14: 3). Acordémonos que el rey Salomón fue el que comenzó con su gran idolatría. En 2 Crónicas 13:10, 11 se deja ver que los sacerdotes llevaban a cabo todo lo religioso. Como es el deber del llamado así hacían, hacían lo de Dios. Pero, había un gran problema por gran parte del pueblo, el descuido. El pueblo había descuidado el servicio del templo, parece que es propio del hombre alejarse de Dios por todo aquello que ama más. Asa destruyó los ídolos con la esperanza de que los idólatras volvieran en sí. El rey Asa restableció el culto que debía ser solamente a Dios. Obligó al pueblo a buscar al Dios de Israel (vs. 4). No era si ellos querían, era una obligación el servirle a Dios para que las cosas les fueran bien. Esa búsqueda trajo bendición al reino, por eso Israel estuvo en paz bajo el reinado de Asa (2 Crónicas 14: 6).\n\nAsa en su piedad y devoción a Dios y a todo lo santo fue recompensado con diez años de tranquilidad de aquellas guerras que los venían destruyendo desde los tiempos del reinado de Salomón. Todo, por no haber adorado a Dios, por no haber tenido devoción a Dios y por tal razón no había piedad. Asa reformó a la nación. Entonces, aprovechó ese tiempo de paz para fortalecer la ciudad. Consultó al pueblo, buscó en las personas representantes del pueblo para ver cómo, con la paz que ahora tenían, sacar el mejor provecho. Hermano, la pereza es lo peor para el pueblo. Hay que tener siempre las manos ocupadas para estar preparados y hallar gracia delante de Jehová.\n\nEn Hechos 9:31 dice, \"Entonces las iglesias tenían paz por toda Judea, Galilea y Samaria; y eran edificadas, andando en el temor del Señor, y se acrecentaban fortalecidas por el Espíritu Santo.\" En los tiempos buenos te puedes preparar para los tiempos futuros que no sean buenos. Asa cercó de muros las ciudades con torres, puertas… (2 crónicas 14:7) Hay que estar en oración, ayuno, en la Palabra, congregándose. Si se deja de hacer es por tanta idolatría que está en el corazón vano. Aunque había la paz Asa podía entender que él y el pueblo estaban expuestos al peligro. Así es cuando tú y los tuyos están expuestos a los grandes peligros de la vida. Si se edifica bien, también se es prosperado.\n\nEl rey Asa tenía un buen ejército, Judá y Benjamín estaban preparados para cualquier cosa que enfrentar (2 Crónicas 14:8). ¿Por qué nos volvemos como locos con lo que de pronto se nos presenta? Porque pensamos que con tanta paz que tenemos nada nos podrá pasar, pero cuando vienen los torrentes de agua para ahogarnos dejamos ver cuán temerosos, rectos y piadosos fuimos.\n\nLlegó el día difícil para Asa. Los etíopes llegaron con un millón de a pie y 300 carros (2 Crónicas 14: 9). Le llegaron a sus tierras. En ningún momento hubo reclamo a Dios por parte de Asa, lo que hubo fue un clamor a Dios. Aquel ejército venía a perturbar tan grande paz y había que luchar por esa paz. Ellos se habían preparado, no hubo ociosos en el tiempo de paz sino que habían edificado, trabajaron para la lucha. El que en el día de la prosperidad busca a Dios, entonces en el día difícil bien puede clamar a Dios y obtendrá, en el día de la aflicción clamará y será oído. Oró a Dios para que lleve Dios toda aquella gran batalla (2 Crónicas 14:11). Alaba a Dios y reconoce la soberanía y el poder de Dios… no hay diferencia en Dios dar ayuda al poderoso o al que no tiene fuerza. Dios trabaja con sus fuerzas no con debilidad ni con la fuerza del hombre. No era que Dios se ponía de acuerdo con Asa por su buen ejército sino que sin Dios no se tiene poder alguno.\n\n\"Oh, Jehová, tú eres nuestro Dios…\" Ellos dependían de Él. Asa tenía buen ejército y se había preparado muy bien para su lucha, pero aún así no ponía su confianza en su buena preparación, sino en su Dios. \"Porque en ti nos apoyamos, y en tu nombre venimos contra este ejército…\" Tenemos garantía de Dios, buscamos su Gloria. \"No prevalezca contra ti el hombre.\" Nuestros enemigos fueron vencidos en la cruz. Si se busca a Dios, Él será el que confundirá todo lo que nos quiere confundir. Amén.",
+    "contenido_renderizado": [
+      {
+        "tipo": "parrafo",
+        "texto": "El rey Asa hizo lo bueno y lo recto ante los ojos de Jehová su Dios. Ahí es que está el bien para el hombre. Su deseo fue hacer todo el esfuerzo posible para presentarse a Dios aprobado, como un soldado que no tiene nada de qué avergonzarse (2 Timoteo 2:15), ni por negligente, ni ocioso, ni vanidoso, ni prepotente. Buscaba Asa que cuando Dios lo viera se deleitara de que había un rey en la tierra que le iba a ser fiel. Estar en la presencia de Dios es llevar todo a ganar y para eso tenía que hacer lo bueno y lo recto. Estar en la presencia del Señor era lo que hacía el rey Asa, entonces eso fue lo que le ayudó a hacer lo bueno y lo recto.",
+        "referencias_inline": [
+          "2 Timoteo 2:15"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Cuando uno se aleja de la presencia del Señor comienza a hacer las cosas conforme a la carne. Asa tenía que hacer una reforma en su reinado en Israel. Por eso quitó por completo la idolatría (2 Crónicas 14: 3). Acordémonos que el rey Salomón fue el que comenzó con su gran idolatría. En 2 Crónicas 13:10, 11 se deja ver que los sacerdotes llevaban a cabo todo lo religioso. Como es el deber del llamado así hacían, hacían lo de Dios. Pero, había un gran problema por gran parte del pueblo, el descuido. El pueblo había descuidado el servicio del templo, parece que es propio del hombre alejarse de Dios por todo aquello que ama más. Asa destruyó los ídolos con la esperanza de que los idólatras volvieran en sí. El rey Asa restableció el culto que debía ser solamente a Dios. Obligó al pueblo a buscar al Dios de Israel (vs. 4). No era si ellos querían, era una obligación el servirle a Dios para que las cosas les fueran bien. Esa búsqueda trajo bendición al reino, por eso Israel estuvo en paz bajo el reinado de Asa (2 Crónicas 14: 6).",
+        "referencias_inline": [
+          "2 Crónicas 14:3",
+          "2 Crónicas 13:10,11",
+          "2 Crónicas 14:6"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Asa en su piedad y devoción a Dios y a todo lo santo fue recompensado con diez años de tranquilidad de aquellas guerras que los venían destruyendo desde los tiempos del reinado de Salomón. Todo, por no haber adorado a Dios, por no haber tenido devoción a Dios y por tal razón no había piedad. Asa reformó a la nación. Entonces, aprovechó ese tiempo de paz para fortalecer la ciudad. Consultó al pueblo, buscó en las personas representantes del pueblo para ver cómo, con la paz que ahora tenían, sacar el mejor provecho. Hermano, la pereza es lo peor para el pueblo. Hay que tener siempre las manos ocupadas para estar preparados y hallar gracia delante de Jehová.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "En Hechos 9:31 dice, \"Entonces las iglesias tenían paz por toda Judea, Galilea y Samaria; y eran edificadas, andando en el temor del Señor, y se acrecentaban fortalecidas por el Espíritu Santo.\" En los tiempos buenos te puedes preparar para los tiempos futuros que no sean buenos. Asa cercó de muros las ciudades con torres, puertas… (2 crónicas 14:7) Hay que estar en oración, ayuno, en la Palabra, congregándose. Si se deja de hacer es por tanta idolatría que está en el corazón vano. Aunque había la paz Asa podía entender que él y el pueblo estaban expuestos al peligro. Así es cuando tú y los tuyos están expuestos a los grandes peligros de la vida. Si se edifica bien, también se es prosperado.",
+        "referencias_inline": [
+          "Hechos 9:31",
+          "2 Crónicas 14:7"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "El rey Asa tenía un buen ejército, Judá y Benjamín estaban preparados para cualquier cosa que enfrentar (2 Crónicas 14:8). ¿Por qué nos volvemos como locos con lo que de pronto se nos presenta? Porque pensamos que con tanta paz que tenemos nada nos podrá pasar, pero cuando vienen los torrentes de agua para ahogarnos dejamos ver cuán temerosos, rectos y piadosos fuimos.",
+        "referencias_inline": [
+          "2 Crónicas 14:8"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Llegó el día difícil para Asa. Los etíopes llegaron con un millón de a pie y 300 carros (2 Crónicas 14: 9). Le llegaron a sus tierras. En ningún momento hubo reclamo a Dios por parte de Asa, lo que hubo fue un clamor a Dios. Aquel ejército venía a perturbar tan grande paz y había que luchar por esa paz. Ellos se habían preparado, no hubo ociosos en el tiempo de paz sino que habían edificado, trabajaron para la lucha. El que en el día de la prosperidad busca a Dios, entonces en el día difícil bien puede clamar a Dios y obtendrá, en el día de la aflicción clamará y será oído. Oró a Dios para que lleve Dios toda aquella gran batalla (2 Crónicas 14:11). Alaba a Dios y reconoce la soberanía y el poder de Dios… no hay diferencia en Dios dar ayuda al poderoso o al que no tiene fuerza. Dios trabaja con sus fuerzas no con debilidad ni con la fuerza del hombre. No era que Dios se ponía de acuerdo con Asa por su buen ejército sino que sin Dios no se tiene poder alguno.",
+        "referencias_inline": [
+          "2 Crónicas 14:9",
+          "2 Crónicas 14:11"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "\"Oh, Jehová, tú eres nuestro Dios…\" Ellos dependían de Él. Asa tenía buen ejército y se había preparado muy bien para su lucha, pero aún así no ponía su confianza en su buena preparación, sino en su Dios. \"Porque en ti nos apoyamos, y en tu nombre venimos contra este ejército…\" Tenemos garantía de Dios, buscamos su Gloria. \"No prevalezca contra ti el hombre.\" Nuestros enemigos fueron vencidos en la cruz. Si se busca a Dios, Él será el que confundirá todo lo que nos quiere confundir. Amén.",
+        "referencias_inline": []
+      }
+    ]
+  },
+  "busqueda": {
+    "texto_indexable": "estas en paz fortalecete 2 cronicas 14 1 13 oracion paz presencia de Dios verdad santidad oracion arrepentimiento perseverancia el rey asa hizo lo bueno y lo recto ante los ojos de jehova su Dios ahi es que esta el bien para el hombre su deseo fue hacer todo el esfuerzo posible para presentarse a Dios aprobado como un soldado que no tiene nada de que avergonzarse 2 timoteo 2 15 ni por negligente ni ocioso ni vanidoso ni prepotente buscaba asa que cuando Dios lo viera se deleitara de que habia un rey en la tierra que le iba a ser fiel estar en la presencia de Dios es llevar todo a ganar y para eso tenia que hacer lo bueno y lo recto estar en la presencia del senor era lo que hacia el rey asa entonces eso fue lo que le ayudo a hacer lo bueno y lo recto cuando uno se aleja de la presencia del senor comienza a hacer las cosas conforme a la carne asa tenia que hacer una reforma en su reinado en israel por eso quito por completo la idolatria 2 cronicas 14 3 acordemonos que el rey salomon fue el que comenzo con su gran idolatria en 2 cronicas 13 10 11 se deja ver que los sacerdotes llevaban a cabo todo lo religioso como es el deber del llamado asi hacian hacian lo de Dios pero habia un gran problema por gran parte del pueblo el descuido el pueblo habia descuidado el servicio del templo parece que es propio del hombre alejarse de Dios por todo aquello que ama mas asa destruyo los idolos con la esperanza de que los idolatras volvieran en si el rey asa restablecio el culto que debia ser solamente a Dios obligo al pueblo a buscar al Dios de israel vs 4 no era si ellos querian era una obligacion el servirle a Dios para que las cosas les fueran bien esa busqueda trajo bendicion al reino por eso israel estuvo en paz bajo el reinado de asa 2 cronicas 14 6 asa en su piedad y devocion a Dios y a todo lo santo fue recompensado con diez anos de tranquilidad de aquellas guerras que los venian destruyendo desde los tiempos del reinado de salomon todo por no haber adorado a Dios por no haber tenido devocion a Dios y por tal razon no habia piedad asa reformo a la nacion entonces aprovecho ese tiempo de paz para fortalecer la ciudad consulto al pueblo busco en las personas representantes del pueblo para ver como con la paz que ahora tenian sacar el mejor provecho hermano la pereza es lo peor para el pueblo hay que tener siempre las manos ocupadas para estar preparados y hallar gracia delante de jehova en hechos 9 31 dice entonces las iglesias tenian paz por toda judea galilea y samaria y eran edificadas andando en el temor del senor y se acrecentaban fortalecidas por el espiritu santo en los tiempos buenos te puedes preparar para los tiempos futuros que no sean buenos asa cerco de muros las ciudades con torres puertas 2 cronicas 14 7 hay que estar en oracion ayuno en la palabra congregandose si se deja de hacer es por tanta idolatria que esta en el corazon vano aunque habia la paz asa podia entender que el y el pueblo estaban expuestos al peligro asi es cuando tu y los tuyos estan expuestos a los grandes peligros de la vida si se edifica bien tambien se es prosperado el rey asa tenia un buen ejercito juda y benjamin estaban preparados para cualquier cosa que enfrentar 2 cronicas 14 8 por que nos volvemos como locos con lo que de pronto se nos presenta porque pensamos que con tanta paz que tenemos nada nos podra pasar pero cuando vienen los torrentes de agua para ahogarnos dejamos ver cuan temerosos rectos y piadosos fuimos llego el dia dificil para asa los etiopes llegaron con un millon de a pie y 300 carros 2 cronicas 14 9 le llegaron a sus tierras en ningun momento hubo reclamo a Dios por parte de asa lo que hubo fue un clamor a Dios aquel ejercito venia a perturbar tan grande paz y habia que luchar por esa paz ellos se habian preparado no hubo ociosos en el tiempo de paz sino que habian edificado trabajaron para la lucha el que en el dia de la prosperidad busca a Dios entonces en el dia dificil bien puede clamar a Dios y obtendra en el dia de la afliccion clamara y sera oido oro a Dios para que lleve Dios toda aquella gran batalla 2 cronicas 14 11 alaba a Dios y reconoce la soberania y el poder de Dios no hay diferencia en Dios dar ayuda al poderoso o al que no tiene fuerza Dios trabaja con sus fuerzas no con debilidad ni con la fuerza del hombre no era que Dios se ponia de acuerdo con asa por su buen ejercito sino que sin Dios no se tiene poder alguno oh jehova tu eres nuestro Dios ellos dependian de el asa tenia buen ejercito y se habia preparado muy bien para su lucha pero aun asi no ponia su confianza en su buena preparacion sino en su Dios porque en ti nos apoyamos y en tu nombre venimos contra este ejercito tenemos garantia de Dios buscamos su gloria no prevalezca contra ti el hombre nuestros enemigos fueron vencidos en la cruz si se busca a Dios el sera el que confundira todo lo que nos quiere confundir amen",
+    "alias_busqueda": [
+      "Estas En Paz, Fortalécete",
+      "2 Crónicas",
+      "2 Crónicas 14",
+      "2 Crónicas 14:1-13",
+      "verdad",
+      "santidad",
+      "oración",
+      "arrepentimiento",
+      "Paz"
+    ]
+  },
+  "revision_manual": {
+    "requiere_revision": false,
+    "motivo": ""
+  },
+  "ui": {
+    "mostrar_credito_en_header": true,
+    "mostrar_numero_estudio": true,
+    "mostrar_fecha": true,
+    "mostrar_topicos": true,
+    "permitir_favorito": true,
+    "permitir_compartir": true
+  }
+}

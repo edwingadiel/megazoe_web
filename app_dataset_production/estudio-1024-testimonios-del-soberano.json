@@ -1,0 +1,422 @@
+{
+  "id": "estudio-1024-testimonios-del-soberano",
+  "slug": "estudio-1024-testimonios-del-soberano",
+  "numero_estudio": 1024,
+  "tipo_estudio": "Iglesia en las casas",
+  "ministerio": {
+    "iglesia": "Iglesia Cristiana Mega Zoe",
+    "pastora": "Pastora Edith Cruz",
+    "credito_corto": "Iglesia Cristiana Mega Zoe · Pastora Edith Cruz",
+    "credito_largo": "Contenido original de Iglesia Cristiana Mega Zoe, conservando el crédito ministerial correspondiente a la Pastora Edith Cruz."
+  },
+  "identidad_editorial": {
+    "idioma": "es",
+    "fuente_original": "documento_word",
+    "archivo_origen": "/Users/edwingadiel/Desktop/Estudios en Word/Estudio #1024 Testimonios Del Soberano - Hechos 5 32.docx",
+    "estado_revision": "procesado",
+    "version_schema": "1.0"
+  },
+  "encabezado": {
+    "titulo": "Testimonios Del Soberano",
+    "subtitulo": null,
+    "cita_principal": "Hechos 5:32",
+    "resumen_corto": "Testimonios Del Soberano enseña a permanecer como discípulos de Jesús y discernir el estado del corazón."
+  },
+  "fechas": {
+    "fecha_inicio": "2019-03-26",
+    "fecha_fin": "2019-04-02",
+    "fecha_texto_original": "SEMANA DEL 26 MARZO @ 2 ABRIL DE 2019",
+    "ano": 2019
+  },
+  "clasificacion_biblica": {
+    "libro_principal": "Hechos",
+    "capitulo_principal": 5,
+    "versiculos_principales": [
+      32
+    ],
+    "referencia_principal_normalizada": "Hechos 5:32",
+    "testamento_principal": "Nuevo Testamento"
+  },
+  "clasificacion_tematica": {
+    "topicos": [
+      "Discipulado",
+      "Testimonio cristiano",
+      "Discernimiento espiritual"
+    ],
+    "keywords": [
+      "arrepentimiento",
+      "mundo",
+      "fuego",
+      "evangelio",
+      "testimonio"
+    ]
+  },
+  "referencias_biblicas": [
+    {
+      "referencia": "Hechos 5:32",
+      "referencia_normalizada": "Hechos 5:32",
+      "libro": "Hechos",
+      "capitulo": 5,
+      "versiculos": [
+        32
+      ],
+      "tipo": "principal",
+      "clickeable": true
+    },
+    {
+      "referencia": "Juan 1:9",
+      "referencia_normalizada": "Juan 1:9",
+      "libro": "Juan",
+      "capitulo": 1,
+      "versiculos": [
+        9
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Isaías 63:7",
+      "referencia_normalizada": "Isaías 63:7",
+      "libro": "Isaías",
+      "capitulo": 63,
+      "versiculos": [
+        7
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Malaquías 3:16",
+      "referencia_normalizada": "Malaquías 3:16",
+      "libro": "Malaquías",
+      "capitulo": 3,
+      "versiculos": [
+        16
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Hechos 4:20",
+      "referencia_normalizada": "Hechos 4:20",
+      "libro": "Hechos",
+      "capitulo": 4,
+      "versiculos": [
+        20
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Jeremías 20:9",
+      "referencia_normalizada": "Jeremías 20:9",
+      "libro": "Jeremías",
+      "capitulo": 20,
+      "versiculos": [
+        9
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Lucas 1:2,3",
+      "referencia_normalizada": "Lucas 1:2,3",
+      "libro": "Lucas",
+      "capitulo": 1,
+      "versiculos": [
+        2,
+        3
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Hechos 1:22",
+      "referencia_normalizada": "Hechos 1:22",
+      "libro": "Hechos",
+      "capitulo": 1,
+      "versiculos": [
+        22
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Hechos 5:28",
+      "referencia_normalizada": "Hechos 5:28",
+      "libro": "Hechos",
+      "capitulo": 5,
+      "versiculos": [
+        28
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Hechos 10:39",
+      "referencia_normalizada": "Hechos 10:39",
+      "libro": "Hechos",
+      "capitulo": 10,
+      "versiculos": [
+        39
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Hechos 13:31",
+      "referencia_normalizada": "Hechos 13:31",
+      "libro": "Hechos",
+      "capitulo": 13,
+      "versiculos": [
+        31
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "2 Pedro 1:16",
+      "referencia_normalizada": "2 Pedro 1:16",
+      "libro": "2 Pedro",
+      "capitulo": 1,
+      "versiculos": [
+        16
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Isaías 43:10",
+      "referencia_normalizada": "Isaías 43:10",
+      "libro": "Isaías",
+      "capitulo": 43,
+      "versiculos": [
+        10
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Hechos 5:19, 20",
+      "referencia_normalizada": "Hechos 5:19,20",
+      "libro": "Hechos",
+      "capitulo": 5,
+      "versiculos": [
+        19,
+        20
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Hechos 18:9-10",
+      "referencia_normalizada": "Hechos 18:9-10",
+      "libro": "Hechos",
+      "capitulo": 18,
+      "versiculos": [
+        9,
+        10
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Hechos 22:14",
+      "referencia_normalizada": "Hechos 22:14",
+      "libro": "Hechos",
+      "capitulo": 22,
+      "versiculos": [
+        14
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Tito 2:15",
+      "referencia_normalizada": "Tito 2:15",
+      "libro": "Tito",
+      "capitulo": 2,
+      "versiculos": [
+        15
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    }
+  ],
+  "contenido": {
+    "introduccion": null,
+    "secciones": [],
+    "contenido_completo": "(Juan 1:9) \"Aquella luz verdadera, que alumbra a TODO hombre, venía a este mundo.\" (Vs.10) \"… y el mundo POR ÉL FUE HECHO…\"\n\n¡TU TESTIMONIO ES LA DECLARACIÓN PARA DEMOSTRAR LA VERACIDAD DE QUIEN ES CRISTO! Pedro y los discípulos fueron los primeros, porque fueron testigos de Él luego de su resurrección. ¡Cuánto silencio hay en las bocas de los llamados justos! Las bocas de los creyentes de hoy día se han llenado de bromas, de mostrar una apariencia, de solo quedar bien para conquistar beneficios para sí mismos. Se habla de los temas del mundo, pero CUANDO HABLAS DEL SOBERANO, DE AQUEL QUE EL MUNDO FUE HECHO POR ÉL, ¡TODO CAMBIA! Quieres conquistar el mundo para ti, pero acuérdate ¡el mundo lo hizo Él! ¡Testifiquemos todos acerca del que ama nuestra alma!\n\nI. ¿Eres testigo de Él? ¿Él ha dejado de hacer en ti?\n\nA. Te hablaré de hombres para quienes ¡el Señor fue el todo!\n\n(Isaías 63:7) \"De las misericordias de Jehová \"haré memoria\", de las \"alabanzas de Jehová\", conforme a todo lo que Jehová \"nos ha dado\" y de la grandeza de sus beneficios hacia \"la casa de Israel\", que les ha hecho según \"sus misericordias\" y según la multitud de sus piedades.\"\n\n(Malaquías 3:16) \"Entonces los que temían a Jehová \"hablaron cada uno a su compañero\"; y Jehová escuchó y oyó y fue escrito libro de memoria delante de él para los que \"temen\" a Jehová y para los que \"piensan\" en su nombre.\"\n\n(Hechos 4:20) \"Porque no podemos dejar de decir lo que hemos visto y oído.\" ( Pedro y Juan)\n\n(Jeremías 20:9) \"Y dije: No me acordaré más de él, ni hablaré más en Su nombre; no obstante, había en mi corazón \"como un fuego ardiente\" metido en mis huesos; traté de sufrirlo y no pude.\"\n\nB. Los discípulos vivieron hablando de lo que sus oídos escucharon y de lo que sus ojos vieron.\n\n(Lucas 1:2,3) ¡Que grandes conversaciones! \"Tal como nos lo enseñaron los que desde el principio lo vieron con sus ojos y fueron ministros de la palabra. Me \"ha parecido\" también a mí, \"después\" de haber investigado con diligencia todas las cosas desde \"su origen\", \"escribírtelas por orden\", oh excelentísimo Teófilo…\"\n\n(Hechos 1:22) \"Comenzando desde el bautismo de Juan hasta el día en que de entre nosotros fue recibido arriba, uno sea hecho \"testigo\" con nosotros de su resurrección.\" (Pedro)\n\n(Hechos 5:28; 32) \"¿No os \"mandamos\" estrictamente que no enseñaseis en ese nombre? Y ahora habéis llenado a Jerusalén de vuestra doctrina y queréis echar sobre nosotros la \"sangre de ese hombre.\" (Vs.32) \"Y nosotros somos \"testigos\" suyos de estas cosas, y también el Espíritu Santo\", el cual ha dado Dios a los que Le obedecen.\" (Pedro)\n\n(Hechos 10:39) Para Pedro, su vida era contar y contar acerca de Su Maestro y Salvador: \"Y nosotros somos testigos de \"todas las cosas\" que Jesús hizo en la tierra de Judea y en Jerusalén; a quien mataron colgándolo en un madero.\"\n\n(Hechos 13:31) \"Y Él se apareció durante \"muchos días\" a los que habían subido juntamente con Él de Galilea a Jerusalén, los cuales ahora son sus \"testigos\" ante el pueblo.\" (Pablo)\n\n(Vs.32) \"Y \"nosotros también\" os anunciamos el evangelio de aquella promesa (del Mesías que los salvaría de sus pecados) hecha a nuestros padres…\"\n\n(2 Pedro 1:16) \"Porque no os hemos dado a conocer el poder y la venida de nuestro Señor Jesucristo \"siguiendo fábulas artificiosas', sino como habiendo \"visto con nuestros propios ojos su majestad.\" A ellos ninguna gloria de Él les fue oculta, por eso vivían contándolo como testigos.\n\n¿Has pensado sobre lo que dice Isaías? (Isaías 43:10) \"Vosotros sois mis \"TESTIGOS\", dice Jehová, y \"mi siervo\" que yo escogí, \"para\" que me conozcáis\" y \"creáis\" y entendáis que Yo mismo soy; antes de Mí no fue formado Dios, ni lo será después de Mí.\"\n\n(Hechos 5:19, 20) \"Mas un ángel del Señor abriendo de noche las \"puertas de la cárcel\" (libres para dar testimonio del Grande) y sacándolos, dijo: Id, y puestos \"en pie en el templo\", \"anunciad\" al pueblo todas las palabras de \"esta vida.\" El Ángel describe la fe cristiana como: ¡esta vida! ¡Cuánta gloria en esta vida con Cristo!\n\n(Hechos 18:9-10) \"Entonces el Señor dijo a Pablo en visión de noche: \"No temas\", sino \"habla y no calles\"; porque yo estoy contigo y ninguno pondrá sobre ti la mano para hacerte mal, porque yo tengo mucho pueblo en esta ciudad.\"\n\n(Hechos 22:14) Jesús a Pablo se le revela y a través de Ananías le dice: \"El Dios de nuestros padres te ha escogido para que \"conozcas\" su voluntad y \"veas\" al \"Justo\" y \"oigas la voz\" de \"su boca.\"\n\n(Tito 2:15) \"Esto habla y exhorta y \"reprende\" con toda autoridad. Nadie te menosprecie.\" A Cristo no se le puede menospreciar, Él es Dios y fuera de Él no hay más.\n\nEscribe tú también tu nombre en esta hermosa página de la eternidad; tu nombre como fiel testigo de Aquel a quien has conocido y quien ha hecho, hace y hará maravillas en tu vida. Amén.",
+    "contenido_renderizado": [
+      {
+        "tipo": "parrafo",
+        "texto": "(Juan 1:9) \"Aquella luz verdadera, que alumbra a TODO hombre, venía a este mundo.\" (Vs.10) \"… y el mundo POR ÉL FUE HECHO…\"",
+        "referencias_inline": [
+          "Juan 1:9"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "¡TU TESTIMONIO ES LA DECLARACIÓN PARA DEMOSTRAR LA VERACIDAD DE QUIEN ES CRISTO! Pedro y los discípulos fueron los primeros, porque fueron testigos de Él luego de su resurrección. ¡Cuánto silencio hay en las bocas de los llamados justos! Las bocas de los creyentes de hoy día se han llenado de bromas, de mostrar una apariencia, de solo quedar bien para conquistar beneficios para sí mismos. Se habla de los temas del mundo, pero CUANDO HABLAS DEL SOBERANO, DE AQUEL QUE EL MUNDO FUE HECHO POR ÉL, ¡TODO CAMBIA! Quieres conquistar el mundo para ti, pero acuérdate ¡el mundo lo hizo Él! ¡Testifiquemos todos acerca del que ama nuestra alma!",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "I. ¿Eres testigo de Él? ¿Él ha dejado de hacer en ti?",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "A. Te hablaré de hombres para quienes ¡el Señor fue el todo!",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Isaías 63:7) \"De las misericordias de Jehová \"haré memoria\", de las \"alabanzas de Jehová\", conforme a todo lo que Jehová \"nos ha dado\" y de la grandeza de sus beneficios hacia \"la casa de Israel\", que les ha hecho según \"sus misericordias\" y según la multitud de sus piedades.\"",
+        "referencias_inline": [
+          "Isaías 63:7"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Malaquías 3:16) \"Entonces los que temían a Jehová \"hablaron cada uno a su compañero\"; y Jehová escuchó y oyó y fue escrito libro de memoria delante de él para los que \"temen\" a Jehová y para los que \"piensan\" en su nombre.\"",
+        "referencias_inline": [
+          "Malaquías 3:16"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Hechos 4:20) \"Porque no podemos dejar de decir lo que hemos visto y oído.\" ( Pedro y Juan)",
+        "referencias_inline": [
+          "Hechos 4:20"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Jeremías 20:9) \"Y dije: No me acordaré más de él, ni hablaré más en Su nombre; no obstante, había en mi corazón \"como un fuego ardiente\" metido en mis huesos; traté de sufrirlo y no pude.\"",
+        "referencias_inline": [
+          "Jeremías 20:9"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "B. Los discípulos vivieron hablando de lo que sus oídos escucharon y de lo que sus ojos vieron.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Lucas 1:2,3) ¡Que grandes conversaciones! \"Tal como nos lo enseñaron los que desde el principio lo vieron con sus ojos y fueron ministros de la palabra. Me \"ha parecido\" también a mí, \"después\" de haber investigado con diligencia todas las cosas desde \"su origen\", \"escribírtelas por orden\", oh excelentísimo Teófilo…\"",
+        "referencias_inline": [
+          "Lucas 1:2,3"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Hechos 1:22) \"Comenzando desde el bautismo de Juan hasta el día en que de entre nosotros fue recibido arriba, uno sea hecho \"testigo\" con nosotros de su resurrección.\" (Pedro)",
+        "referencias_inline": [
+          "Hechos 1:22"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Hechos 5:28; 32) \"¿No os \"mandamos\" estrictamente que no enseñaseis en ese nombre? Y ahora habéis llenado a Jerusalén de vuestra doctrina y queréis echar sobre nosotros la \"sangre de ese hombre.\" (Vs.32) \"Y nosotros somos \"testigos\" suyos de estas cosas, y también el Espíritu Santo\", el cual ha dado Dios a los que Le obedecen.\" (Pedro)",
+        "referencias_inline": [
+          "Hechos 5:28"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Hechos 10:39) Para Pedro, su vida era contar y contar acerca de Su Maestro y Salvador: \"Y nosotros somos testigos de \"todas las cosas\" que Jesús hizo en la tierra de Judea y en Jerusalén; a quien mataron colgándolo en un madero.\"",
+        "referencias_inline": [
+          "Hechos 10:39"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Hechos 13:31) \"Y Él se apareció durante \"muchos días\" a los que habían subido juntamente con Él de Galilea a Jerusalén, los cuales ahora son sus \"testigos\" ante el pueblo.\" (Pablo)",
+        "referencias_inline": [
+          "Hechos 13:31"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Vs.32) \"Y \"nosotros también\" os anunciamos el evangelio de aquella promesa (del Mesías que los salvaría de sus pecados) hecha a nuestros padres…\"",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(2 Pedro 1:16) \"Porque no os hemos dado a conocer el poder y la venida de nuestro Señor Jesucristo \"siguiendo fábulas artificiosas', sino como habiendo \"visto con nuestros propios ojos su majestad.\" A ellos ninguna gloria de Él les fue oculta, por eso vivían contándolo como testigos.",
+        "referencias_inline": [
+          "2 Pedro 1:16"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "¿Has pensado sobre lo que dice Isaías? (Isaías 43:10) \"Vosotros sois mis \"TESTIGOS\", dice Jehová, y \"mi siervo\" que yo escogí, \"para\" que me conozcáis\" y \"creáis\" y entendáis que Yo mismo soy; antes de Mí no fue formado Dios, ni lo será después de Mí.\"",
+        "referencias_inline": [
+          "Isaías 43:10"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Hechos 5:19, 20) \"Mas un ángel del Señor abriendo de noche las \"puertas de la cárcel\" (libres para dar testimonio del Grande) y sacándolos, dijo: Id, y puestos \"en pie en el templo\", \"anunciad\" al pueblo todas las palabras de \"esta vida.\" El Ángel describe la fe cristiana como: ¡esta vida! ¡Cuánta gloria en esta vida con Cristo!",
+        "referencias_inline": [
+          "Hechos 5:19,20"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Hechos 18:9-10) \"Entonces el Señor dijo a Pablo en visión de noche: \"No temas\", sino \"habla y no calles\"; porque yo estoy contigo y ninguno pondrá sobre ti la mano para hacerte mal, porque yo tengo mucho pueblo en esta ciudad.\"",
+        "referencias_inline": [
+          "Hechos 18:9-10"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Hechos 22:14) Jesús a Pablo se le revela y a través de Ananías le dice: \"El Dios de nuestros padres te ha escogido para que \"conozcas\" su voluntad y \"veas\" al \"Justo\" y \"oigas la voz\" de \"su boca.\"",
+        "referencias_inline": [
+          "Hechos 22:14"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Tito 2:15) \"Esto habla y exhorta y \"reprende\" con toda autoridad. Nadie te menosprecie.\" A Cristo no se le puede menospreciar, Él es Dios y fuera de Él no hay más.",
+        "referencias_inline": [
+          "Tito 2:15"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Escribe tú también tu nombre en esta hermosa página de la eternidad; tu nombre como fiel testigo de Aquel a quien has conocido y quien ha hecho, hace y hará maravillas en tu vida. Amén.",
+        "referencias_inline": []
+      }
+    ]
+  },
+  "busqueda": {
+    "texto_indexable": "testimonios del soberano hechos 5 32 discipulado testimonio cristiano discernimiento espiritual arrepentimiento mundo fuego evangelio testimonio juan 1 9 aquella luz verdadera que alumbra a todo hombre venia a este mundo vs 10 y el mundo por el fue hecho tu testimonio es la declaracion para demostrar la veracidad de quien es cristo pedro y los discipulos fueron los primeros porque fueron testigos de el luego de su resurreccion cuanto silencio hay en las bocas de los llamados justos las bocas de los creyentes de hoy dia se han llenado de bromas de mostrar una apariencia de solo quedar bien para conquistar beneficios para si mismos se habla de los temas del mundo pero cuando hablas del soberano de aquel que el mundo fue hecho por el todo cambia quieres conquistar el mundo para ti pero acuerdate el mundo lo hizo el testifiquemos todos acerca del que ama nuestra alma i eres testigo de el el ha dejado de hacer en ti a te hablare de hombres para quienes el senor fue el todo isaias 63 7 de las misericordias de jehova hare memoria de las alabanzas de jehova conforme a todo lo que jehova nos ha dado y de la grandeza de sus beneficios hacia la casa de israel que les ha hecho segun sus misericordias y segun la multitud de sus piedades malaquias 3 16 entonces los que temian a jehova hablaron cada uno a su companero y jehova escucho y oyo y fue escrito libro de memoria delante de el para los que temen a jehova y para los que piensan en su nombre hechos 4 20 porque no podemos dejar de decir lo que hemos visto y oido pedro y juan jeremias 20 9 y dije no me acordare mas de el ni hablare mas en su nombre no obstante habia en mi corazon como un fuego ardiente metido en mis huesos trate de sufrirlo y no pude b los discipulos vivieron hablando de lo que sus oidos escucharon y de lo que sus ojos vieron lucas 1 2 3 que grandes conversaciones tal como nos lo ensenaron los que desde el principio lo vieron con sus ojos y fueron ministros de la palabra me ha parecido tambien a mi despues de haber investigado con diligencia todas las cosas desde su origen escribirtelas por orden oh excelentisimo teofilo hechos 1 22 comenzando desde el bautismo de juan hasta el dia en que de entre nosotros fue recibido arriba uno sea hecho testigo con nosotros de su resurreccion pedro hechos 5 28 32 no os mandamos estrictamente que no ensenaseis en ese nombre y ahora habeis llenado a jerusalen de vuestra doctrina y quereis echar sobre nosotros la sangre de ese hombre vs 32 y nosotros somos testigos suyos de estas cosas y tambien el espiritu santo el cual ha dado Dios a los que le obedecen pedro hechos 10 39 para pedro su vida era contar y contar acerca de su maestro y salvador y nosotros somos testigos de todas las cosas que Jesus hizo en la tierra de judea y en jerusalen a quien mataron colgandolo en un madero hechos 13 31 y el se aparecio durante muchos dias a los que habian subido juntamente con el de galilea a jerusalen los cuales ahora son sus testigos ante el pueblo pablo vs 32 y nosotros tambien os anunciamos el evangelio de aquella promesa del mesias que los salvaria de sus pecados hecha a nuestros padres 2 pedro 1 16 porque no os hemos dado a conocer el poder y la venida de nuestro senor jesucristo siguiendo fabulas artificiosas sino como habiendo visto con nuestros propios ojos su majestad a ellos ninguna gloria de el les fue oculta por eso vivian contandolo como testigos has pensado sobre lo que dice isaias isaias 43 10 vosotros sois mis testigos dice jehova y mi siervo que yo escogi para que me conozcais y creais y entendais que yo mismo soy antes de mi no fue formado Dios ni lo sera despues de mi hechos 5 19 20 mas un angel del senor abriendo de noche las puertas de la carcel libres para dar testimonio del grande y sacandolos dijo id y puestos en pie en el templo anunciad al pueblo todas las palabras de esta vida el angel describe la fe cristiana como esta vida cuanta gloria en esta vida con cristo hechos 18 9 10 entonces el senor dijo a pablo en vision de noche no temas sino habla y no calles porque yo estoy contigo y ninguno pondra sobre ti la mano para hacerte mal porque yo tengo mucho pueblo en esta ciudad hechos 22 14 Jesus a pablo se le revela y a traves de ananias le dice el Dios de nuestros padres te ha escogido para que conozcas su voluntad y veas al justo y oigas la voz de su boca tito 2 15 esto habla y exhorta y reprende con toda autoridad nadie te menosprecie a cristo no se le puede menospreciar el es Dios y fuera de el no hay mas escribe tu tambien tu nombre en esta hermosa pagina de la eternidad tu nombre como fiel testigo de aquel a quien has conocido y quien ha hecho hace y hara maravillas en tu vida amen",
+    "alias_busqueda": [
+      "Testimonios Del Soberano",
+      "Hechos",
+      "Hechos 5",
+      "Hechos 5:32",
+      "arrepentimiento",
+      "mundo",
+      "fuego",
+      "evangelio",
+      "Discipulado",
+      "Testimonio cristiano"
+    ]
+  },
+  "revision_manual": {
+    "requiere_revision": false,
+    "motivo": ""
+  },
+  "ui": {
+    "mostrar_credito_en_header": true,
+    "mostrar_numero_estudio": true,
+    "mostrar_fecha": true,
+    "mostrar_topicos": true,
+    "permitir_favorito": true,
+    "permitir_compartir": true
+  }
+}

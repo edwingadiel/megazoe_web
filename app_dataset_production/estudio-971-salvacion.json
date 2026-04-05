@@ -1,0 +1,278 @@
+{
+  "id": "estudio-971-salvacion",
+  "slug": "estudio-971-salvacion",
+  "numero_estudio": 971,
+  "tipo_estudio": "Iglesia en las casas",
+  "ministerio": {
+    "iglesia": "Iglesia Cristiana Mega Zoe",
+    "pastora": "Pastora Edith Cruz",
+    "credito_corto": "Iglesia Cristiana Mega Zoe · Pastora Edith Cruz",
+    "credito_largo": "Contenido original de Iglesia Cristiana Mega Zoe, conservando el crédito ministerial correspondiente a la Pastora Edith Cruz."
+  },
+  "identidad_editorial": {
+    "idioma": "es",
+    "fuente_original": "documento_word",
+    "archivo_origen": "/Users/edwingadiel/Desktop/Estudios en Word/Estudio #971 Salvación - 1 Pedro 1 3-12 (2da Parte).docx",
+    "estado_revision": "procesado",
+    "version_schema": "1.0"
+  },
+  "encabezado": {
+    "titulo": "Salvación",
+    "subtitulo": null,
+    "cita_principal": "1 Pedro 1:3-12",
+    "resumen_corto": "Salvación llama a atender la Palabra de Dios."
+  },
+  "fechas": {
+    "fecha_inicio": null,
+    "fecha_fin": null,
+    "fecha_texto_original": "",
+    "ano": null
+  },
+  "clasificacion_biblica": {
+    "libro_principal": "1 Pedro",
+    "capitulo_principal": 1,
+    "versiculos_principales": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "referencia_principal_normalizada": "1 Pedro 1:3-12",
+    "testamento_principal": "Nuevo Testamento"
+  },
+  "clasificacion_tematica": {
+    "topicos": [
+      "Salvación",
+      "Palabra de Dios",
+      "Liberación espiritual"
+    ],
+    "keywords": [
+      "juicio",
+      "salvación",
+      "pruebas",
+      "mundo",
+      "fuego",
+      "evangelio",
+      "escrituras"
+    ]
+  },
+  "referencias_biblicas": [
+    {
+      "referencia": "1 Pedro 1:3-12",
+      "referencia_normalizada": "1 Pedro 1:3-12",
+      "libro": "1 Pedro",
+      "capitulo": 1,
+      "versiculos": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "tipo": "principal",
+      "clickeable": true
+    },
+    {
+      "referencia": "1 Pedro 1:6",
+      "referencia_normalizada": "1 Pedro 1:6",
+      "libro": "1 Pedro",
+      "capitulo": 1,
+      "versiculos": [
+        6
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "1 Pedro 1:7",
+      "referencia_normalizada": "1 Pedro 1:7",
+      "libro": "1 Pedro",
+      "capitulo": 1,
+      "versiculos": [
+        7
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Mateo 25:21",
+      "referencia_normalizada": "Mateo 25:21",
+      "libro": "Mateo",
+      "capitulo": 25,
+      "versiculos": [
+        21
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "1 Pedro 1:8",
+      "referencia_normalizada": "1 Pedro 1:8",
+      "libro": "1 Pedro",
+      "capitulo": 1,
+      "versiculos": [
+        8
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "1 Pedro 1:9",
+      "referencia_normalizada": "1 Pedro 1:9",
+      "libro": "1 Pedro",
+      "capitulo": 1,
+      "versiculos": [
+        9
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "1 Pedro 1:10-12",
+      "referencia_normalizada": "1 Pedro 1:10-12",
+      "libro": "1 Pedro",
+      "capitulo": 1,
+      "versiculos": [
+        10,
+        11,
+        12
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Isaías 52:13-14",
+      "referencia_normalizada": "Isaías 52:13-14",
+      "libro": "Isaías",
+      "capitulo": 52,
+      "versiculos": [
+        13,
+        14
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Isaías 53:10-12",
+      "referencia_normalizada": "Isaías 53:10-12",
+      "libro": "Isaías",
+      "capitulo": 53,
+      "versiculos": [
+        10,
+        11,
+        12
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Salmos 22",
+      "referencia_normalizada": "Salmos 22",
+      "libro": "Salmos",
+      "capitulo": 22,
+      "versiculos": [],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Lucas 15:7, 10",
+      "referencia_normalizada": "Lucas 15:7,10",
+      "libro": "Lucas",
+      "capitulo": 15,
+      "versiculos": [
+        7,
+        10
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    }
+  ],
+  "contenido": {
+    "introduccion": null,
+    "secciones": [],
+    "contenido_completo": "Para el cristiano la persecución y la prueba no son el final pues más allá se encuentra ¡la gloria! ¡Y en la esperanza de esa gloria se puede sufrir todo lo que la vida nos depare! Yo, la Pastora, he tenido que someterme a contar los carbohidratos de todo lo que como; me atengo al tratamiento. Lo hago y acepto el sacrificio y las molestias pues espero recuperar la salud y tener fuerzas renovadas; son cosas que sé que me esperan al otro lado de esta vida terrenal y eso me ha permitido vivir mejor que cuando no tenía diabetes. Es uno de los hechos fundamentales de la vida: ¡que lo que se puede sufrir está en función de lo que esperamos! Y lo más grande es que tenemos un gozo indescriptible y en lo duro que vivimos no está la amargura, ni la queja. ¡Se puede soportar cualquier cosa que nos sobrevenga si se tiene en cuenta que la aflicción es realmente una prueba! ¡Para purificar el oro hay que someterlo al fuego! Las pruebas que le sobrevienen a una persona prueban su fe y entonces sale de ellas más fuerte de lo que era antes. Los rigores que un atleta tiene que soportar no son para acabarlo, sino para capacitarle para desarrollar más fuerza y habilidad. Así las pruebas de este mundo no están diseñadas para agotar nuestra resistencia sino para incrementarla. ¡Ellas nos llevan a crecer!\n\nI Pedro 1:6 \"…aunque ahora por un poco de tiempo, si es necesario, tengáis que ser afligidos en diversas pruebas…\" En algún momento, por \"un poco de tiempo\", sufriremos diversos tipos de pruebas. \"Diversas\" en griego es \"piikilos\", que quiere decir, literalmente, de muchos colores. Nuestras pruebas o adversidades puede que tengan muchos colores, pero los tiene también la gracia de Dios; no hay color en la situación humana con el que la gracia de Dios no pueda hacer juego. ¡HAY UNA GRACIA QUE LE VA A CADA PRUEBA Y NO HAY PRUEBA A LA QUE NO LE CORRESPONDA ALGUNA GRACIA! Puedes soportar todo, porque al acabar todo, cuando aparezca Jesucristo, recibirás de Él alabanza, gloria y honor (I Pedro 1:7 \"…para que sometida a prueba vuestra fe, mucho más preciosa que el oro, el cual, aunque perecedero se prueba con fuego, sea hallada en alabanza, gloria y honra cuando sea manifestado Jesucristo…). Una y otra vez en la vida hacemos un esfuerzo supremo, no para que nos lo paguen ni recompensen, sino para ver la luz en los ojos de alguien y escuchar sus palabras de aprecio. Y esas palabras valen más que tantas cosas de este mundo. El cristiano sabe que si resiste la prueba le oirá decir al Maestro: ¡Bien hecho…! (Mateo 25:21) Esta es la receta para resistir cuando la vida y la fe se nos ponen difíciles. Podemos aguantar lo que sea por lo que esperamos de Dios, cada adversidad es otra prueba para \"fortalecer\" y purificar nuestra fe y porque al final de todo Jesucristo está esperando decirles a todos sus siervos fieles: ¡Bien hecho!\n\nI Pedro 1:8 \"…a quien amáis sin haberle visto, en quién creyendo, aunque ahora no lo veáis, os alegráis con gozo inefable y glorioso…\" Pedro caminó con Jesús. ¡Qué gran consideración la de Pedro! Está trazando un contraste implícito entre él mismo y sus lectores, que somos tú y yo. Pedro había tenido el privilegio inapreciable de conocer a Jesús en su vida en la tierra, tú y yo no. Nosotros no hemos tenido ese gozo; pero a pesar de eso le amamos y aunque no le vemos creemos en Él. Esa fe nos produce un gozo que trasciende toda expresión (inefable) y que está revestido de gloria, porque aún aquí y ahora en la tierra, se nos asegura el bienestar definitivo de nuestras almas (I Pedro 1:9 \"…obteniendo el fin de vuestra fe, que es la salvación de vuestras almas.\"). ¡Con cuánto acento de ternura Pedro nos habla de esa calidad de fe!\n\nI Pedro 1:10-12 Pedro menciona aquí el Espíritu de Cristo. Veamos las riquezas de estos versículos. La maravilla de la Salvación que había de venir a la humanidad en la Persona de Jesús era tal, que los profetas inquirieron e indagaron acerca de ella. Y hasta los ángeles estaban ansiosos por vislumbrarlos. Se nos dicen dos cosas de los profetas: la primera, que \"inquirieron e indagaron\" sobre la Salvación que iba a venir; la segunda, dice que el Espíritu de Cristo que estaba en ellos les habló acerca de Cristo. Aquí tenemos la gran verdad de que la inspiración depende de dos cosas: de la mente investigadora de la persona y del Espíritu revelador de Dios. Se dice que los que escribieron las Sagradas Escrituras eran como plumas en las manos de Dios. Esto quiere decir, que no eran más que instrumentos casi inconscientes en las manos de Dios. El pasaje nos deja ver que la verdad de Dios solo le viene al que la busca. En la inspiración hay un elemento humano y otro divino; es el producto de la búsqueda de la mente humana y de la revelación del Espíritu de Dios. Vemos que el Espíritu Santo siempre ha estado activo en el mundo. ¡Qué hermoso! Siempre que las personas han vislumbrado la belleza de Dios o han alcanzado la verdad o han sentido el anhelo de Dios ha sido por la acción del Espíritu de Cristo. Nunca ha habido ningún momento en la historia de una nación cuando el Espíritu Santo no estuviese moviendo a las personas a buscar a Dios y guiándolas para que le encuentren. Algunas veces la gente estaba ciega y sorda o malentendían esa dirección; a veces captaban solo fragmentos de ella, pero siempre el Espíritu revelador estaba guiando a la mente buscadora.\n\nHay pasajes en la Biblia que nos dicen claramente que los profetas hablaron de los sufrimientos y de la gloria de Cristo: Isaías 52:13-14, Isaías 53:10-12, Salmos 22. Era y es para nosotros el mensaje de la gloriosa liberación de Dios en la persona de Cristo, ese fue el mensaje que ellos trajeron a la humanidad. Una liberación que ellos (los profetas) mismos no llegaron a experimentar.\n\nPedro no habla solo de las visiones de los profetas sino también del mensaje de los predicadores. Nos dice que predicar es anunciar la Salvación. El Evangelio, las buenas noticias. El predicador advierte, corrige, amenaza con juicio, habla de la ira y condena de Dios, pero básicamente y por encima de todo: ¡el mensaje es el anuncio de la Salvación! Predicar es por medio del Espíritu Santo enviado del Cielo. El mensaje del predicador no es algo suyo, sino que le es dado. El predicador da la verdad que le ha dado el Espíritu Santo. Se nos dice que el mensaje del predicador es acerca de las cosas que los ángeles querían vislumbrar. Es con el mensaje de Salvación y con la inspiración del Espíritu de Cristo como debe siempre presentarse el predicador. Los ángeles están agachándose para mirar como si abriesen una pequeña ventana en el Cielo y se inclinasen para ver lo que ocurre en la tierra con respecto a la salvación de los hombres. A los ángeles no les interesan las vicisitudes temporales, políticas y económicas, etc. sino la conversión del pecador (Lucas 15:7, 10). ¡Hay gozo! Amén.",
+    "contenido_renderizado": [
+      {
+        "tipo": "parrafo",
+        "texto": "Para el cristiano la persecución y la prueba no son el final pues más allá se encuentra ¡la gloria! ¡Y en la esperanza de esa gloria se puede sufrir todo lo que la vida nos depare! Yo, la Pastora, he tenido que someterme a contar los carbohidratos de todo lo que como; me atengo al tratamiento. Lo hago y acepto el sacrificio y las molestias pues espero recuperar la salud y tener fuerzas renovadas; son cosas que sé que me esperan al otro lado de esta vida terrenal y eso me ha permitido vivir mejor que cuando no tenía diabetes. Es uno de los hechos fundamentales de la vida: ¡que lo que se puede sufrir está en función de lo que esperamos! Y lo más grande es que tenemos un gozo indescriptible y en lo duro que vivimos no está la amargura, ni la queja. ¡Se puede soportar cualquier cosa que nos sobrevenga si se tiene en cuenta que la aflicción es realmente una prueba! ¡Para purificar el oro hay que someterlo al fuego! Las pruebas que le sobrevienen a una persona prueban su fe y entonces sale de ellas más fuerte de lo que era antes. Los rigores que un atleta tiene que soportar no son para acabarlo, sino para capacitarle para desarrollar más fuerza y habilidad. Así las pruebas de este mundo no están diseñadas para agotar nuestra resistencia sino para incrementarla. ¡Ellas nos llevan a crecer!",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "I Pedro 1:6 \"…aunque ahora por un poco de tiempo, si es necesario, tengáis que ser afligidos en diversas pruebas…\" En algún momento, por \"un poco de tiempo\", sufriremos diversos tipos de pruebas. \"Diversas\" en griego es \"piikilos\", que quiere decir, literalmente, de muchos colores. Nuestras pruebas o adversidades puede que tengan muchos colores, pero los tiene también la gracia de Dios; no hay color en la situación humana con el que la gracia de Dios no pueda hacer juego. ¡HAY UNA GRACIA QUE LE VA A CADA PRUEBA Y NO HAY PRUEBA A LA QUE NO LE CORRESPONDA ALGUNA GRACIA! Puedes soportar todo, porque al acabar todo, cuando aparezca Jesucristo, recibirás de Él alabanza, gloria y honor (I Pedro 1:7 \"…para que sometida a prueba vuestra fe, mucho más preciosa que el oro, el cual, aunque perecedero se prueba con fuego, sea hallada en alabanza, gloria y honra cuando sea manifestado Jesucristo…). Una y otra vez en la vida hacemos un esfuerzo supremo, no para que nos lo paguen ni recompensen, sino para ver la luz en los ojos de alguien y escuchar sus palabras de aprecio. Y esas palabras valen más que tantas cosas de este mundo. El cristiano sabe que si resiste la prueba le oirá decir al Maestro: ¡Bien hecho…! (Mateo 25:21) Esta es la receta para resistir cuando la vida y la fe se nos ponen difíciles. Podemos aguantar lo que sea por lo que esperamos de Dios, cada adversidad es otra prueba para \"fortalecer\" y purificar nuestra fe y porque al final de todo Jesucristo está esperando decirles a todos sus siervos fieles: ¡Bien hecho!",
+        "referencias_inline": [
+          "1 Pedro 1:6",
+          "1 Pedro 1:7",
+          "Mateo 25:21"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "I Pedro 1:8 \"…a quien amáis sin haberle visto, en quién creyendo, aunque ahora no lo veáis, os alegráis con gozo inefable y glorioso…\" Pedro caminó con Jesús. ¡Qué gran consideración la de Pedro! Está trazando un contraste implícito entre él mismo y sus lectores, que somos tú y yo. Pedro había tenido el privilegio inapreciable de conocer a Jesús en su vida en la tierra, tú y yo no. Nosotros no hemos tenido ese gozo; pero a pesar de eso le amamos y aunque no le vemos creemos en Él. Esa fe nos produce un gozo que trasciende toda expresión (inefable) y que está revestido de gloria, porque aún aquí y ahora en la tierra, se nos asegura el bienestar definitivo de nuestras almas (I Pedro 1:9 \"…obteniendo el fin de vuestra fe, que es la salvación de vuestras almas.\"). ¡Con cuánto acento de ternura Pedro nos habla de esa calidad de fe!",
+        "referencias_inline": [
+          "1 Pedro 1:8",
+          "1 Pedro 1:9"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "I Pedro 1:10-12 Pedro menciona aquí el Espíritu de Cristo. Veamos las riquezas de estos versículos. La maravilla de la Salvación que había de venir a la humanidad en la Persona de Jesús era tal, que los profetas inquirieron e indagaron acerca de ella. Y hasta los ángeles estaban ansiosos por vislumbrarlos. Se nos dicen dos cosas de los profetas: la primera, que \"inquirieron e indagaron\" sobre la Salvación que iba a venir; la segunda, dice que el Espíritu de Cristo que estaba en ellos les habló acerca de Cristo. Aquí tenemos la gran verdad de que la inspiración depende de dos cosas: de la mente investigadora de la persona y del Espíritu revelador de Dios. Se dice que los que escribieron las Sagradas Escrituras eran como plumas en las manos de Dios. Esto quiere decir, que no eran más que instrumentos casi inconscientes en las manos de Dios. El pasaje nos deja ver que la verdad de Dios solo le viene al que la busca. En la inspiración hay un elemento humano y otro divino; es el producto de la búsqueda de la mente humana y de la revelación del Espíritu de Dios. Vemos que el Espíritu Santo siempre ha estado activo en el mundo. ¡Qué hermoso! Siempre que las personas han vislumbrado la belleza de Dios o han alcanzado la verdad o han sentido el anhelo de Dios ha sido por la acción del Espíritu de Cristo. Nunca ha habido ningún momento en la historia de una nación cuando el Espíritu Santo no estuviese moviendo a las personas a buscar a Dios y guiándolas para que le encuentren. Algunas veces la gente estaba ciega y sorda o malentendían esa dirección; a veces captaban solo fragmentos de ella, pero siempre el Espíritu revelador estaba guiando a la mente buscadora.",
+        "referencias_inline": [
+          "1 Pedro 1:10-12"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Hay pasajes en la Biblia que nos dicen claramente que los profetas hablaron de los sufrimientos y de la gloria de Cristo: Isaías 52:13-14, Isaías 53:10-12, Salmos 22. Era y es para nosotros el mensaje de la gloriosa liberación de Dios en la persona de Cristo, ese fue el mensaje que ellos trajeron a la humanidad. Una liberación que ellos (los profetas) mismos no llegaron a experimentar.",
+        "referencias_inline": [
+          "Isaías 52:13-14",
+          "Isaías 53:10-12",
+          "Salmos 22"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Pedro no habla solo de las visiones de los profetas sino también del mensaje de los predicadores. Nos dice que predicar es anunciar la Salvación. El Evangelio, las buenas noticias. El predicador advierte, corrige, amenaza con juicio, habla de la ira y condena de Dios, pero básicamente y por encima de todo: ¡el mensaje es el anuncio de la Salvación! Predicar es por medio del Espíritu Santo enviado del Cielo. El mensaje del predicador no es algo suyo, sino que le es dado. El predicador da la verdad que le ha dado el Espíritu Santo. Se nos dice que el mensaje del predicador es acerca de las cosas que los ángeles querían vislumbrar. Es con el mensaje de Salvación y con la inspiración del Espíritu de Cristo como debe siempre presentarse el predicador. Los ángeles están agachándose para mirar como si abriesen una pequeña ventana en el Cielo y se inclinasen para ver lo que ocurre en la tierra con respecto a la salvación de los hombres. A los ángeles no les interesan las vicisitudes temporales, políticas y económicas, etc. sino la conversión del pecador (Lucas 15:7, 10). ¡Hay gozo! Amén.",
+        "referencias_inline": [
+          "Lucas 15:7,10"
+        ]
+      }
+    ]
+  },
+  "busqueda": {
+    "texto_indexable": "salvacion 1 pedro 1 3 12 salvacion palabra de Dios liberacion espiritual juicio salvacion pruebas mundo fuego evangelio escrituras para el cristiano la persecucion y la prueba no son el final pues mas alla se encuentra la gloria y en la esperanza de esa gloria se puede sufrir todo lo que la vida nos depare yo la pastora he tenido que someterme a contar los carbohidratos de todo lo que como me atengo al tratamiento lo hago y acepto el sacrificio y las molestias pues espero recuperar la salud y tener fuerzas renovadas son cosas que se que me esperan al otro lado de esta vida terrenal y eso me ha permitido vivir mejor que cuando no tenia diabetes es uno de los hechos fundamentales de la vida que lo que se puede sufrir esta en funcion de lo que esperamos y lo mas grande es que tenemos un gozo indescriptible y en lo duro que vivimos no esta la amargura ni la queja se puede soportar cualquier cosa que nos sobrevenga si se tiene en cuenta que la afliccion es realmente una prueba para purificar el oro hay que someterlo al fuego las pruebas que le sobrevienen a una persona prueban su fe y entonces sale de ellas mas fuerte de lo que era antes los rigores que un atleta tiene que soportar no son para acabarlo sino para capacitarle para desarrollar mas fuerza y habilidad asi las pruebas de este mundo no estan disenadas para agotar nuestra resistencia sino para incrementarla ellas nos llevan a crecer i pedro 1 6 aunque ahora por un poco de tiempo si es necesario tengais que ser afligidos en diversas pruebas en algun momento por un poco de tiempo sufriremos diversos tipos de pruebas diversas en griego es piikilos que quiere decir literalmente de muchos colores nuestras pruebas o adversidades puede que tengan muchos colores pero los tiene tambien la gracia de Dios no hay color en la situacion humana con el que la gracia de Dios no pueda hacer juego hay una gracia que le va a cada prueba y no hay prueba a la que no le corresponda alguna gracia puedes soportar todo porque al acabar todo cuando aparezca jesucristo recibiras de el alabanza gloria y honor i pedro 1 7 para que sometida a prueba vuestra fe mucho mas preciosa que el oro el cual aunque perecedero se prueba con fuego sea hallada en alabanza gloria y honra cuando sea manifestado jesucristo una y otra vez en la vida hacemos un esfuerzo supremo no para que nos lo paguen ni recompensen sino para ver la luz en los ojos de alguien y escuchar sus palabras de aprecio y esas palabras valen mas que tantas cosas de este mundo el cristiano sabe que si resiste la prueba le oira decir al maestro bien hecho mateo 25 21 esta es la receta para resistir cuando la vida y la fe se nos ponen dificiles podemos aguantar lo que sea por lo que esperamos de Dios cada adversidad es otra prueba para fortalecer y purificar nuestra fe y porque al final de todo jesucristo esta esperando decirles a todos sus siervos fieles bien hecho i pedro 1 8 a quien amais sin haberle visto en quien creyendo aunque ahora no lo veais os alegrais con gozo inefable y glorioso pedro camino con Jesus que gran consideracion la de pedro esta trazando un contraste implicito entre el mismo y sus lectores que somos tu y yo pedro habia tenido el privilegio inapreciable de conocer a Jesus en su vida en la tierra tu y yo no nosotros no hemos tenido ese gozo pero a pesar de eso le amamos y aunque no le vemos creemos en el esa fe nos produce un gozo que trasciende toda expresion inefable y que esta revestido de gloria porque aun aqui y ahora en la tierra se nos asegura el bienestar definitivo de nuestras almas i pedro 1 9 obteniendo el fin de vuestra fe que es la salvacion de vuestras almas con cuanto acento de ternura pedro nos habla de esa calidad de fe i pedro 1 10 12 pedro menciona aqui el espiritu de cristo veamos las riquezas de estos versiculos la maravilla de la salvacion que habia de venir a la humanidad en la persona de Jesus era tal que los profetas inquirieron e indagaron acerca de ella y hasta los angeles estaban ansiosos por vislumbrarlos se nos dicen dos cosas de los profetas la primera que inquirieron e indagaron sobre la salvacion que iba a venir la segunda dice que el espiritu de cristo que estaba en ellos les hablo acerca de cristo aqui tenemos la gran verdad de que la inspiracion depende de dos cosas de la mente investigadora de la persona y del espiritu revelador de Dios se dice que los que escribieron las sagradas escrituras eran como plumas en las manos de Dios esto quiere decir que no eran mas que instrumentos casi inconscientes en las manos de Dios el pasaje nos deja ver que la verdad de Dios solo le viene al que la busca en la inspiracion hay un elemento humano y otro divino es el producto de la busqueda de la mente humana y de la revelacion del espiritu de Dios vemos que el espiritu santo siempre ha estado activo en el mundo que hermoso siempre que las personas han vislumbrado la belleza de Dios o han alcanzado la verdad o han sentido el anhelo de Dios ha sido por la accion del espiritu de cristo nunca ha habido ningun momento en la historia de una nacion cuando el espiritu santo no estuviese moviendo a las personas a buscar a Dios y guiandolas para que le encuentren algunas veces la gente estaba ciega y sorda o malentendian esa direccion a veces captaban solo fragmentos de ella pero siempre el espiritu revelador estaba guiando a la mente buscadora hay pasajes en la biblia que nos dicen claramente que los profetas hablaron de los sufrimientos y de la gloria de cristo isaias 52 13 14 isaias 53 10 12 salmo 22 era y es para nosotros el mensaje de la gloriosa liberacion de Dios en la persona de cristo ese fue el mensaje que ellos trajeron a la humanidad una liberacion que ellos los profetas mismos no llegaron a experimentar pedro no habla solo de las visiones de los profetas sino tambien del mensaje de los predicadores nos dice que predicar es anunciar la salvacion el evangelio las buenas noticias el predicador advierte corrige amenaza con juicio habla de la ira y condena de Dios pero basicamente y por encima de todo el mensaje es el anuncio de la salvacion predicar es por medio del espiritu santo enviado del cielo el mensaje del predicador no es algo suyo sino que le es dado el predicador da la verdad que le ha dado el espiritu santo se nos dice que el mensaje del predicador es acerca de las cosas que los angeles querian vislumbrar es con el mensaje de salvacion y con la inspiracion del espiritu de cristo como debe siempre presentarse el predicador los angeles estan agachandose para mirar como si abriesen una pequena ventana en el cielo y se inclinasen para ver lo que ocurre en la tierra con respecto a la salvacion de los hombres a los angeles no les interesan las vicisitudes temporales politicas y economicas etc sino la conversion del pecador lucas 15 7 10 hay gozo amen",
+    "alias_busqueda": [
+      "Salvación",
+      "1 Pedro",
+      "1 Pedro 1",
+      "1 Pedro 1:3-12",
+      "juicio",
+      "pruebas",
+      "mundo",
+      "Palabra de Dios"
+    ]
+  },
+  "revision_manual": {
+    "requiere_revision": false,
+    "motivo": ""
+  },
+  "ui": {
+    "mostrar_credito_en_header": true,
+    "mostrar_numero_estudio": true,
+    "mostrar_fecha": true,
+    "mostrar_topicos": true,
+    "permitir_favorito": true,
+    "permitir_compartir": true
+  }
+}

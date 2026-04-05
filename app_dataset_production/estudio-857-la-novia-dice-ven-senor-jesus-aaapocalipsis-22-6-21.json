@@ -1,0 +1,343 @@
+{
+  "id": "estudio-857-la-novia-dice-ven-senor-Jesus-aaapocalipsis-22-6-21",
+  "slug": "estudio-857-la-novia-dice-ven-senor-Jesus-aaapocalipsis-22-6-21",
+  "numero_estudio": 857,
+  "tipo_estudio": "Iglesia en las casas",
+  "ministerio": {
+    "iglesia": "Iglesia Cristiana Mega Zoe",
+    "pastora": "Pastora Edith Cruz",
+    "credito_corto": "Iglesia Cristiana Mega Zoe · Pastora Edith Cruz",
+    "credito_largo": "Contenido original de Iglesia Cristiana Mega Zoe, conservando el crédito ministerial correspondiente a la Pastora Edith Cruz."
+  },
+  "identidad_editorial": {
+    "idioma": "es",
+    "fuente_original": "documento_word",
+    "archivo_origen": "/Users/edwingadiel/Desktop/Estudios en Word/Estudio #857 La novia dice ¡Ven Señor Jesús! - Apocalipsis 22 6-21.docx",
+    "estado_revision": "procesado",
+    "version_schema": "1.0"
+  },
+  "encabezado": {
+    "titulo": "La Novia Dice ¡Ven Señor Jesús!",
+    "subtitulo": null,
+    "cita_principal": "Daniel 12:10",
+    "resumen_corto": "Este estudio llama a perseverar en la oración y atender la Palabra de Dios."
+  },
+  "fechas": {
+    "fecha_inicio": "2015-05-12",
+    "fecha_fin": "2015-05-18",
+    "fecha_texto_original": "SEMANA DEL 12 @ 18 MAYO DE 2015",
+    "ano": 2015
+  },
+  "clasificacion_biblica": {
+    "libro_principal": "Daniel",
+    "capitulo_principal": 12,
+    "versiculos_principales": [
+      10
+    ],
+    "referencia_principal_normalizada": "Daniel 12:10",
+    "testamento_principal": "Antiguo Testamento"
+  },
+  "clasificacion_tematica": {
+    "topicos": [
+      "Oración",
+      "Salvación",
+      "Palabra de Dios"
+    ],
+    "keywords": [
+      "oración",
+      "arrepentimiento",
+      "mundo",
+      "escrituras",
+      "testimonio"
+    ]
+  },
+  "referencias_biblicas": [
+    {
+      "referencia": "Daniel 12:10",
+      "referencia_normalizada": "Daniel 12:10",
+      "libro": "Daniel",
+      "capitulo": 12,
+      "versiculos": [
+        10
+      ],
+      "tipo": "principal",
+      "clickeable": true
+    },
+    {
+      "referencia": "Apocalipsis 22:6-21",
+      "referencia_normalizada": "Apocalipsis 22:6-21",
+      "libro": "Apocalipsis",
+      "capitulo": 22,
+      "versiculos": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Apocalipsis 19:9, 21",
+      "referencia_normalizada": "Apocalipsis 19:9,21",
+      "libro": "Apocalipsis",
+      "capitulo": 19,
+      "versiculos": [
+        9,
+        21
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Apocalipsis 21:9",
+      "referencia_normalizada": "Apocalipsis 21:9",
+      "libro": "Apocalipsis",
+      "capitulo": 21,
+      "versiculos": [
+        9
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Apocalipsis 22:16",
+      "referencia_normalizada": "Apocalipsis 22:16",
+      "libro": "Apocalipsis",
+      "capitulo": 22,
+      "versiculos": [
+        16
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Apocalipsis 22:8",
+      "referencia_normalizada": "Apocalipsis 22:8",
+      "libro": "Apocalipsis",
+      "capitulo": 22,
+      "versiculos": [
+        8
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Apocalipsis 22:6",
+      "referencia_normalizada": "Apocalipsis 22:6",
+      "libro": "Apocalipsis",
+      "capitulo": 22,
+      "versiculos": [
+        6
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Apocalipsis 22:7",
+      "referencia_normalizada": "Apocalipsis 22:7",
+      "libro": "Apocalipsis",
+      "capitulo": 22,
+      "versiculos": [
+        7
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Apocalipsis 22:9",
+      "referencia_normalizada": "Apocalipsis 22:9",
+      "libro": "Apocalipsis",
+      "capitulo": 22,
+      "versiculos": [
+        9
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Apocalipsis 19:10",
+      "referencia_normalizada": "Apocalipsis 19:10",
+      "libro": "Apocalipsis",
+      "capitulo": 19,
+      "versiculos": [
+        10
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Apocalipsis 22",
+      "referencia_normalizada": "Apocalipsis 22",
+      "libro": "Apocalipsis",
+      "capitulo": 22,
+      "versiculos": [],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Ezequiel 3:27",
+      "referencia_normalizada": "Ezequiel 3:27",
+      "libro": "Ezequiel",
+      "capitulo": 3,
+      "versiculos": [
+        27
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Apocalipsis 22:12",
+      "referencia_normalizada": "Apocalipsis 22:12",
+      "libro": "Apocalipsis",
+      "capitulo": 22,
+      "versiculos": [
+        12
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "2 Pedro 2:22",
+      "referencia_normalizada": "2 Pedro 2:22",
+      "libro": "2 Pedro",
+      "capitulo": 2,
+      "versiculos": [
+        22
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Salmos 101:7",
+      "referencia_normalizada": "Salmos 101:7",
+      "libro": "Salmos",
+      "capitulo": 101,
+      "versiculos": [
+        7
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Apocalipsis 1:1",
+      "referencia_normalizada": "Apocalipsis 1:1",
+      "libro": "Apocalipsis",
+      "capitulo": 1,
+      "versiculos": [
+        1
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    }
+  ],
+  "contenido": {
+    "introduccion": null,
+    "secciones": [],
+    "contenido_completo": "La Palabra dice: \"…estas palabras son fieles y verdaderas.\" (Apocalipsis 19:9, 21:5) Somos tardos para creer que Dios es tan bueno, tan fiel y verdadero como es. La noticia nos parece a nosotros, que estamos tan habituados a la miseria del mundo caído, demasiado bueno para ser verdad. Aquí, en el pasaje del capítulo 22, vemos tres interlocutores, tres personas que toman parte en tan importante conversación. Primero: un ángel (Apocalipsis 21:9), luego el Señor Jesucristo (Apocalipsis 22:16) y Juan (Apocalipsis 22:8).\n\nEL PRIMERO es uno de los varios ángeles que le han servido a Juan de intérpretes de las cosas divinas. Una vez más Juan escribe y hace resaltar la verdad de todo lo que ha visto y oído. \"El Dios de los espíritus de los profetas…\" Esto quiere decir, ¡el Dios que inspiró las mentes de los profetas! (\"Y el Señor, el Dios de los espíritus de los profetas, ha enviado su ángel, para mostrar a sus siervos las cosas que deben suceder pronto.\" Apocalipsis 22:6) Por lo tanto, los mensajes que había recibido Juan procedían del mismo que inspiró a los grandes profetas del Antiguo Testamento y deben ser tratados con la misma seriedad.\n\nEL SEGUNDO interlocutor es Jesucristo mismo. Reitera, vuelve a decir, que su regreso a esta tierra no se retrasará mucho (\"¡He aquí, vengo pronto!\" Apocalipsis 22:7). Y entonces pronuncia su bendición para con todos los que lean y obedezcan las palabras del libro de Juan (\"Bienaventurado el que guarda las palabras de la profecía de este libro.\" Apocalipsis 22:7). Esta es: \"la felicitación del devoto estudiante.\" El estudiante devoto, el que se dedica con fervor, es el mejor estudiante. Hay muchos creyentes que son devotos pero que no son estudiantes de la Palabra, que no aceptan entrar a la disciplina del aprendizaje pues miran con suspicacia o desconfianza el conocimiento que se adquiere de estudiar las Escrituras. Y también hay muchos estudiantes de la Biblia que no son devotos, que sí están demasiado interesados en el conocimiento intelectual pero que están bien poco interesados en la oración y en el servicio a sus semejantes.\n\nEL TERCERO y último interlocutor es el mismo Juan. Él se identifica como el autor del libro. Sorprendentemente en Apocalipsis 22:9 Juan hace exactamente la misma advertencia contra el culto a los ángeles que hace en Apocalipsis 19:10 \"Yo me postré a sus pies para adorarle. Y él me dijo: Mira, no lo hagas; yo soy consiervo tuyo, y de tus hermanos que retienen el testimonio de Jesús. Adora a Dios…\" Juan deja ver el peligro de hacer culto a ángeles, solo se debe adorar a Dios.\n\nEl pasaje de Apocalipsis 22 insiste en que la venida de Cristo es inminente; del Cristo Resucitado, del que está hablando y vuelve por segunda vez. La visión de Juan era para no sellarla, \"no selles\" (Vs. 10). No es tiempo de sellar la profecía sino de \"abrirla\" y \"leerla\" porque la venida de Cristo puede tener lugar en cualquier momento. Dice que cada cual se quede como esté si no hay ningún deseo de cambiar (Vs. 11). Dice en Daniel 12:10 \"…los impíos procederán impíamente…\" Y dice en Ezequiel 3:27 (\"El que oye, oiga; y el que no quiera oír, no oiga…\") El que quiere oír que oiga y el que se niegue a oír allá él. Una persona puede rechazar el camino de Cristo vez tras vez hasta tal punto que acabará por no poder seguirlo. Ese es el pecado contra el Espíritu Santo. Entendamos que Dios en gran manera ama al hombre y dio en sacrificio a su Hijo amado para ofrecer la salvación gratuita al que le crea y se arrepienta, pero dice: \"Que cada cual haga lo que le parezca; yo no obligo a nadie.\"\n\nAquí el mensaje es: ¡Atención que vengo pronto! Jesús trae consigo su recompensa para dar a cada persona, \"conforme sea su obra.\" (\"He aquí yo vengo pronto, y mi galardón conmigo, para recompensar a cada uno según sea su obra.\" Apocalipsis 22:12) Viene con recompensa para que así todos los \"jornaleros\" \"a la caída de la tarde del mundo\" \"reciban su salario.\" Cristo es el Alfa y Omega; el primero y el último; el principio y el fin (Vs.13). Él es el todo, de la A hasta la Z. Jesús tiene en Sí mismo absolutamente todo y no necesita de nada de ninguna otra fuente, aquí está la idea de la autoridad. Es el primero y el último, aquí está la idea de la eternidad. Como Dios es el principio no recibe su poder de ningún otro; como es el fin no le pasa su poder a nadie.\n\nBienaventurados los que lavan sus ropas (Vs. 14). La razón para hacerlo es, ¡para tener derecho al árbol de la vida! Los que han lavado sus ropas son los que han recibido el perdón, que se obtiene solo por Jesucristo quien lo ha provisto en la cruz. ¡Cada cual tiene que apropiarse de ese sacrificio! Los que están excluidos del árbol de la vida son los \"perros\" que son símbolo de todo lo salvaje y sucio (Vs.15). Los perros simbolizan a los cristianos que \"vuelven al vómito\" (2 Pedro 2:22) que vuelven a la práctica del pecado después de haber sido bautizados. El que hace mentira también estará excluido (Salmos 101:7 \"No habitará dentro de mi casa el que hace fraude; El que habla mentiras no se afirmará delante de mis ojos.\").\n\nComienza así el libro que Juan escribe: \"La revelación de Jesucristo…\" Apocalipsis 1:1. Esta es la confirmación que da Jesús de que la visión procedía de Él. Sus credenciales son: \"Yo soy la raíz y el linaje de David\" (Apocalipsis 22:16). Nosotros ahora somos la novia y luego seremos la ESPOSA (Vs. 17); solo será cuando el pleno número de los que la constituyen se haya cumplido. La invitación a que vengan a Él a unírsele es para el tiempo mientras seamos la novia. El que quiera salvarse únase al Espíritu y a la novia y cual fiel creyente sea parte de ella, y así diga como ella a Jesús: ¡Ven! El que no haya obedecido al llamado no puede pedir a Jesús que venga. Digámoslo a otros para su salvación, digámoslo a los que tienen sed. ¡Ven, Señor Jesús! Amén.",
+    "contenido_renderizado": [
+      {
+        "tipo": "parrafo",
+        "texto": "La Palabra dice: \"…estas palabras son fieles y verdaderas.\" (Apocalipsis 19:9, 21:5) Somos tardos para creer que Dios es tan bueno, tan fiel y verdadero como es. La noticia nos parece a nosotros, que estamos tan habituados a la miseria del mundo caído, demasiado bueno para ser verdad. Aquí, en el pasaje del capítulo 22, vemos tres interlocutores, tres personas que toman parte en tan importante conversación. Primero: un ángel (Apocalipsis 21:9), luego el Señor Jesucristo (Apocalipsis 22:16) y Juan (Apocalipsis 22:8).",
+        "referencias_inline": [
+          "Apocalipsis 19:9,21",
+          "Apocalipsis 21:9",
+          "Apocalipsis 22:16",
+          "Apocalipsis 22:8"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "EL PRIMERO es uno de los varios ángeles que le han servido a Juan de intérpretes de las cosas divinas. Una vez más Juan escribe y hace resaltar la verdad de todo lo que ha visto y oído. \"El Dios de los espíritus de los profetas…\" Esto quiere decir, ¡el Dios que inspiró las mentes de los profetas! (\"Y el Señor, el Dios de los espíritus de los profetas, ha enviado su ángel, para mostrar a sus siervos las cosas que deben suceder pronto.\" Apocalipsis 22:6) Por lo tanto, los mensajes que había recibido Juan procedían del mismo que inspiró a los grandes profetas del Antiguo Testamento y deben ser tratados con la misma seriedad.",
+        "referencias_inline": [
+          "Apocalipsis 22:6"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "EL SEGUNDO interlocutor es Jesucristo mismo. Reitera, vuelve a decir, que su regreso a esta tierra no se retrasará mucho (\"¡He aquí, vengo pronto!\" Apocalipsis 22:7). Y entonces pronuncia su bendición para con todos los que lean y obedezcan las palabras del libro de Juan (\"Bienaventurado el que guarda las palabras de la profecía de este libro.\" Apocalipsis 22:7). Esta es: \"la felicitación del devoto estudiante.\" El estudiante devoto, el que se dedica con fervor, es el mejor estudiante. Hay muchos creyentes que son devotos pero que no son estudiantes de la Palabra, que no aceptan entrar a la disciplina del aprendizaje pues miran con suspicacia o desconfianza el conocimiento que se adquiere de estudiar las Escrituras. Y también hay muchos estudiantes de la Biblia que no son devotos, que sí están demasiado interesados en el conocimiento intelectual pero que están bien poco interesados en la oración y en el servicio a sus semejantes.",
+        "referencias_inline": [
+          "Apocalipsis 22:7"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "EL TERCERO y último interlocutor es el mismo Juan. Él se identifica como el autor del libro. Sorprendentemente en Apocalipsis 22:9 Juan hace exactamente la misma advertencia contra el culto a los ángeles que hace en Apocalipsis 19:10 \"Yo me postré a sus pies para adorarle. Y él me dijo: Mira, no lo hagas; yo soy consiervo tuyo, y de tus hermanos que retienen el testimonio de Jesús. Adora a Dios…\" Juan deja ver el peligro de hacer culto a ángeles, solo se debe adorar a Dios.",
+        "referencias_inline": [
+          "Apocalipsis 22:9",
+          "Apocalipsis 19:10"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "El pasaje de Apocalipsis 22 insiste en que la venida de Cristo es inminente; del Cristo Resucitado, del que está hablando y vuelve por segunda vez. La visión de Juan era para no sellarla, \"no selles\" (Vs. 10). No es tiempo de sellar la profecía sino de \"abrirla\" y \"leerla\" porque la venida de Cristo puede tener lugar en cualquier momento. Dice que cada cual se quede como esté si no hay ningún deseo de cambiar (Vs. 11). Dice en Daniel 12:10 \"…los impíos procederán impíamente…\" Y dice en Ezequiel 3:27 (\"El que oye, oiga; y el que no quiera oír, no oiga…\") El que quiere oír que oiga y el que se niegue a oír allá él. Una persona puede rechazar el camino de Cristo vez tras vez hasta tal punto que acabará por no poder seguirlo. Ese es el pecado contra el Espíritu Santo. Entendamos que Dios en gran manera ama al hombre y dio en sacrificio a su Hijo amado para ofrecer la salvación gratuita al que le crea y se arrepienta, pero dice: \"Que cada cual haga lo que le parezca; yo no obligo a nadie.\"",
+        "referencias_inline": [
+          "Apocalipsis 22",
+          "Daniel 12:10",
+          "Ezequiel 3:27"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Aquí el mensaje es: ¡Atención que vengo pronto! Jesús trae consigo su recompensa para dar a cada persona, \"conforme sea su obra.\" (\"He aquí yo vengo pronto, y mi galardón conmigo, para recompensar a cada uno según sea su obra.\" Apocalipsis 22:12) Viene con recompensa para que así todos los \"jornaleros\" \"a la caída de la tarde del mundo\" \"reciban su salario.\" Cristo es el Alfa y Omega; el primero y el último; el principio y el fin (Vs.13). Él es el todo, de la A hasta la Z. Jesús tiene en Sí mismo absolutamente todo y no necesita de nada de ninguna otra fuente, aquí está la idea de la autoridad. Es el primero y el último, aquí está la idea de la eternidad. Como Dios es el principio no recibe su poder de ningún otro; como es el fin no le pasa su poder a nadie.",
+        "referencias_inline": [
+          "Apocalipsis 22:12"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Bienaventurados los que lavan sus ropas (Vs. 14). La razón para hacerlo es, ¡para tener derecho al árbol de la vida! Los que han lavado sus ropas son los que han recibido el perdón, que se obtiene solo por Jesucristo quien lo ha provisto en la cruz. ¡Cada cual tiene que apropiarse de ese sacrificio! Los que están excluidos del árbol de la vida son los \"perros\" que son símbolo de todo lo salvaje y sucio (Vs.15). Los perros simbolizan a los cristianos que \"vuelven al vómito\" (2 Pedro 2:22) que vuelven a la práctica del pecado después de haber sido bautizados. El que hace mentira también estará excluido (Salmos 101:7 \"No habitará dentro de mi casa el que hace fraude; El que habla mentiras no se afirmará delante de mis ojos.\").",
+        "referencias_inline": [
+          "2 Pedro 2:22",
+          "Salmos 101:7"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Comienza así el libro que Juan escribe: \"La revelación de Jesucristo…\" Apocalipsis 1:1. Esta es la confirmación que da Jesús de que la visión procedía de Él. Sus credenciales son: \"Yo soy la raíz y el linaje de David\" (Apocalipsis 22:16). Nosotros ahora somos la novia y luego seremos la ESPOSA (Vs. 17); solo será cuando el pleno número de los que la constituyen se haya cumplido. La invitación a que vengan a Él a unírsele es para el tiempo mientras seamos la novia. El que quiera salvarse únase al Espíritu y a la novia y cual fiel creyente sea parte de ella, y así diga como ella a Jesús: ¡Ven! El que no haya obedecido al llamado no puede pedir a Jesús que venga. Digámoslo a otros para su salvación, digámoslo a los que tienen sed. ¡Ven, Señor Jesús! Amén.",
+        "referencias_inline": [
+          "Apocalipsis 1:1",
+          "Apocalipsis 22:16"
+        ]
+      }
+    ]
+  },
+  "busqueda": {
+    "texto_indexable": "la novia dice ven senor Jesus daniel 12 10 oracion salvacion palabra de Dios oracion arrepentimiento mundo escrituras testimonio la palabra dice estas palabras son fieles y verdaderas apocalipsis 19 9 21 5 somos tardos para creer que Dios es tan bueno tan fiel y verdadero como es la noticia nos parece a nosotros que estamos tan habituados a la miseria del mundo caido demasiado bueno para ser verdad aqui en el pasaje del capitulo 22 vemos tres interlocutores tres personas que toman parte en tan importante conversacion primero un angel apocalipsis 21 9 luego el senor jesucristo apocalipsis 22 16 y juan apocalipsis 22 8 el primero es uno de los varios angeles que le han servido a juan de interpretes de las cosas divinas una vez mas juan escribe y hace resaltar la verdad de todo lo que ha visto y oido el Dios de los espiritus de los profetas esto quiere decir el Dios que inspiro las mentes de los profetas y el senor el Dios de los espiritus de los profetas ha enviado su angel para mostrar a sus siervos las cosas que deben suceder pronto apocalipsis 22 6 por lo tanto los mensajes que habia recibido juan procedian del mismo que inspiro a los grandes profetas del antiguo testamento y deben ser tratados con la misma seriedad el segundo interlocutor es jesucristo mismo reitera vuelve a decir que su regreso a esta tierra no se retrasara mucho he aqui vengo pronto apocalipsis 22 7 y entonces pronuncia su bendicion para con todos los que lean y obedezcan las palabras del libro de juan bienaventurado el que guarda las palabras de la profecia de este libro apocalipsis 22 7 esta es la felicitacion del devoto estudiante el estudiante devoto el que se dedica con fervor es el mejor estudiante hay muchos creyentes que son devotos pero que no son estudiantes de la palabra que no aceptan entrar a la disciplina del aprendizaje pues miran con suspicacia o desconfianza el conocimiento que se adquiere de estudiar las escrituras y tambien hay muchos estudiantes de la biblia que no son devotos que si estan demasiado interesados en el conocimiento intelectual pero que estan bien poco interesados en la oracion y en el servicio a sus semejantes el tercero y ultimo interlocutor es el mismo juan el se identifica como el autor del libro sorprendentemente en apocalipsis 22 9 juan hace exactamente la misma advertencia contra el culto a los angeles que hace en apocalipsis 19 10 yo me postre a sus pies para adorarle y el me dijo mira no lo hagas yo soy consiervo tuyo y de tus hermanos que retienen el testimonio de Jesus adora a Dios juan deja ver el peligro de hacer culto a angeles solo se debe adorar a Dios el pasaje de apocalipsis 22 insiste en que la venida de cristo es inminente del cristo resucitado del que esta hablando y vuelve por segunda vez la vision de juan era para no sellarla no selles vs 10 no es tiempo de sellar la profecia sino de abrirla y leerla porque la venida de cristo puede tener lugar en cualquier momento dice que cada cual se quede como este si no hay ningun deseo de cambiar vs 11 dice en daniel 12 10 los impios procederan impiamente y dice en ezequiel 3 27 el que oye oiga y el que no quiera oir no oiga el que quiere oir que oiga y el que se niegue a oir alla el una persona puede rechazar el camino de cristo vez tras vez hasta tal punto que acabara por no poder seguirlo ese es el pecado contra el espiritu santo entendamos que Dios en gran manera ama al hombre y dio en sacrificio a su hijo amado para ofrecer la salvacion gratuita al que le crea y se arrepienta pero dice que cada cual haga lo que le parezca yo no obligo a nadie aqui el mensaje es atencion que vengo pronto Jesus trae consigo su recompensa para dar a cada persona conforme sea su obra he aqui yo vengo pronto y mi galardon conmigo para recompensar a cada uno segun sea su obra apocalipsis 22 12 viene con recompensa para que asi todos los jornaleros a la caida de la tarde del mundo reciban su salario cristo es el alfa y omega el primero y el ultimo el principio y el fin vs 13 el es el todo de la a hasta la z Jesus tiene en si mismo absolutamente todo y no necesita de nada de ninguna otra fuente aqui esta la idea de la autoridad es el primero y el ultimo aqui esta la idea de la eternidad como Dios es el principio no recibe su poder de ningun otro como es el fin no le pasa su poder a nadie bienaventurados los que lavan sus ropas vs 14 la razon para hacerlo es para tener derecho al arbol de la vida los que han lavado sus ropas son los que han recibido el perdon que se obtiene solo por jesucristo quien lo ha provisto en la cruz cada cual tiene que apropiarse de ese sacrificio los que estan excluidos del arbol de la vida son los perros que son simbolo de todo lo salvaje y sucio vs 15 los perros simbolizan a los cristianos que vuelven al vomito 2 pedro 2 22 que vuelven a la practica del pecado despues de haber sido bautizados el que hace mentira tambien estara excluido salmo 101 7 no habitara dentro de mi casa el que hace fraude el que habla mentiras no se afirmara delante de mis ojos comienza asi el libro que juan escribe la revelacion de jesucristo apocalipsis 1 1 esta es la confirmacion que da Jesus de que la vision procedia de el sus credenciales son yo soy la raiz y el linaje de david apocalipsis 22 16 nosotros ahora somos la novia y luego seremos la esposa vs 17 solo sera cuando el pleno numero de los que la constituyen se haya cumplido la invitacion a que vengan a el a unirsele es para el tiempo mientras seamos la novia el que quiera salvarse unase al espiritu y a la novia y cual fiel creyente sea parte de ella y asi diga como ella a Jesus ven el que no haya obedecido al llamado no puede pedir a Jesus que venga digamoslo a otros para su salvacion digamoslo a los que tienen sed ven senor Jesus amen",
+    "alias_busqueda": [
+      "La Novia Dice: ¡Ven Señor Jesús! Apocalipsis 22:6-21",
+      "Daniel",
+      "Daniel 12",
+      "Daniel 12:10",
+      "oración",
+      "arrepentimiento",
+      "mundo",
+      "escrituras",
+      "Salvación"
+    ]
+  },
+  "revision_manual": {
+    "requiere_revision": false,
+    "motivo": ""
+  },
+  "ui": {
+    "mostrar_credito_en_header": true,
+    "mostrar_numero_estudio": true,
+    "mostrar_fecha": true,
+    "mostrar_topicos": true,
+    "permitir_favorito": true,
+    "permitir_compartir": true
+  }
+}

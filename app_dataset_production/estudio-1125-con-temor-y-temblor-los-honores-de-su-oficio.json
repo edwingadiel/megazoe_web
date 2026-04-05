@@ -1,0 +1,379 @@
+{
+  "id": "estudio-1125-con-temor-y-temblor-los-honores-de-su-oficio",
+  "slug": "estudio-1125-con-temor-y-temblor-los-honores-de-su-oficio",
+  "numero_estudio": 1125,
+  "tipo_estudio": "Iglesia en las casas",
+  "ministerio": {
+    "iglesia": "Iglesia Cristiana Mega Zoe",
+    "pastora": "Pastora Edith Cruz",
+    "credito_corto": "Iglesia Cristiana Mega Zoe · Pastora Edith Cruz",
+    "credito_largo": "Contenido original de Iglesia Cristiana Mega Zoe, conservando el crédito ministerial correspondiente a la Pastora Edith Cruz."
+  },
+  "identidad_editorial": {
+    "idioma": "es",
+    "fuente_original": "documento_word",
+    "archivo_origen": "/Users/edwingadiel/Desktop/Estudios en Word/Estudio #1125 Con temor y temblor los honores de su oficio - Números 18 1-8.docx",
+    "estado_revision": "procesado",
+    "version_schema": "1.0"
+  },
+  "encabezado": {
+    "titulo": "Con Temor Y Temblor Los Honores De Su Oficio",
+    "subtitulo": null,
+    "cita_principal": "Números 18:1-8",
+    "resumen_corto": "Con Temor Y Temblor Los Honores De Su Oficio llama a servir fielmente al Señor y cuidar la vida del hogar delante de Dios."
+  },
+  "fechas": {
+    "fecha_inicio": null,
+    "fecha_fin": null,
+    "fecha_texto_original": "",
+    "ano": null
+  },
+  "clasificacion_biblica": {
+    "libro_principal": "Números",
+    "capitulo_principal": 18,
+    "versiculos_principales": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "referencia_principal_normalizada": "Números 18:1-8",
+    "testamento_principal": "Antiguo Testamento"
+  },
+  "clasificacion_tematica": {
+    "topicos": [
+      "Servicio cristiano",
+      "Familia",
+      "Humildad",
+      "Crianza de hijos"
+    ],
+    "keywords": [
+      "arrepentimiento",
+      "mundo",
+      "evangelio",
+      "arca",
+      "testimonio"
+    ]
+  },
+  "referencias_biblicas": [
+    {
+      "referencia": "Números 18:1-8",
+      "referencia_normalizada": "Números 18:1-8",
+      "libro": "Números",
+      "capitulo": 18,
+      "versiculos": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "tipo": "principal",
+      "clickeable": true
+    },
+    {
+      "referencia": "2 Timoteo 2:4",
+      "referencia_normalizada": "2 Timoteo 2:4",
+      "libro": "2 Timoteo",
+      "capitulo": 2,
+      "versiculos": [
+        4
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "1 Corintios 9:13",
+      "referencia_normalizada": "1 Corintios 9:13",
+      "libro": "1 Corintios",
+      "capitulo": 9,
+      "versiculos": [
+        13
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Juan 15:16",
+      "referencia_normalizada": "Juan 15:16",
+      "libro": "Juan",
+      "capitulo": 15,
+      "versiculos": [
+        16
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Hechos 9:15",
+      "referencia_normalizada": "Hechos 9:15",
+      "libro": "Hechos",
+      "capitulo": 9,
+      "versiculos": [
+        15
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "1 Corintios 1:27, 28",
+      "referencia_normalizada": "1 Corintios 1:27,28",
+      "libro": "1 Corintios",
+      "capitulo": 1,
+      "versiculos": [
+        27,
+        28
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Mateo 28:20",
+      "referencia_normalizada": "Mateo 28:20",
+      "libro": "Mateo",
+      "capitulo": 28,
+      "versiculos": [
+        20
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Efesios 4:11",
+      "referencia_normalizada": "Efesios 4:11",
+      "libro": "Efesios",
+      "capitulo": 4,
+      "versiculos": [
+        11
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Efesios 4:12,13",
+      "referencia_normalizada": "Efesios 4:12,13",
+      "libro": "Efesios",
+      "capitulo": 4,
+      "versiculos": [
+        12,
+        13
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Hebreos 13:17",
+      "referencia_normalizada": "Hebreos 13:17",
+      "libro": "Hebreos",
+      "capitulo": 13,
+      "versiculos": [
+        17
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    }
+  ],
+  "contenido": {
+    "introduccion": null,
+    "secciones": [],
+    "contenido_completo": "Según se lee, vemos que Aarón ya está completamente establecido y confirmado en su OFICIO SACERDOTAL. Ahora Dios le da instrucciones completas concernientes a su ministerio. Le dice cuál será su trabajo y la asistencia o ayuda que ha de tener por parte de los levitas. También le menciona los derechos que tendrían él y sus hijos en tal ministerio.\n\nI. Para aquel tiempo era un peligro para los israelitas acercarse ellos personalmente a Dios, al santuario.\n\nA. Para las quejas y peticiones del pueblo, entonces Dios les establece a Aarón quien será el que se acercará (a Dios) al santuario, como representante del pueblo.\n\nDios se dirige a Aarón para recordarle la \"responsabilidad\" que \"pesa\" sobre él y las obligaciones \"que quiere de él, para que las cumpla como sacerdote.\"\n\nAsí Aarón podría ver la razón de \"recibir con temor y temblor\" los \"honores\" de su oficio, cuando considerara cuán grande era \"la carga que Dios le imponía.\"\n\nDIOS LE HACE VER LA RESPONSABILIDAD QUE VA UNIDA A SU OFICIO.\n\n(Vs.1 y Vs.2) Grande responsabilidad era la del sacerdote y de los levitas quienes cargarían con la iniquidad del santuario; es decir si el santuario era profanado por la intrusión (entrada) de extraños, o de personas ceremonialmente (del culto) inmundas, la culpa sería imputada a los levitas y a los sacerdotes, \"que tenían el deber\" de \"no\" \"dejarlos acercarse\".\n\nQue el sacerdote llevaría el pecado de su sacerdocio, significa, que se les acusaría a ellos, si permitían que cualquier otra persona (ni aún podían hacerlo los levitas) usurpara las funciones sacerdotales, que era prerrogativa (privilegio y permiso) exclusivo de Aarón y de sus hijos; igualmente, si descuidaban \"ellos mismos alguna parte de su trabajo.\"\n\nDios le dice cuáles son los deberes que van unidos a su dignidad ministerial.\n\nQue él y sus hijos habrían de servir delante del Tabernáculo del Testimonio. O sea, servirían en el Lugar Santo, que estaba frente al velo, que lo separaba del Lugar Santísimo (en el Lugar Santísimo estaba el Arca). El Lugar Santo estaba dentro del Tabernáculo de reunión pero en la parte de afuera del velo.\n\nLos sacerdotes tenían que asistir al altar de oro, a la mesa y al candelero, lugares a los que \"ningún levita\" podía asistir ni acercarse (Vs.3).\n\n(Vs.7) Dios LES DIJO: \"…MINISTRARÉIS…\" NO LES DIJO: ¡GOBERNARÉIS!\n\nLos ministros, deben saber que tan sólo son, servidores, de quienes se requiere se sean humildes, diligentes (con mucho interés y esmero) y \"fieles.\"\n\nLos levitas deben asistirle a él, y a sus hijos, y servirles en todo lo concerniente al servicio del tabernáculo, \"aunque de ningún modo puedan acercarse a los utensilios del mismo.\" (Vs.3)\n\nQue tanto los sacerdotes como los levitas han de vigilar con todo cuidado \"PARA QUE \"NO SE PROFANEN LAS COSAS SAGRADAS.\"\n\nLos levitas tendrían a su cargo el cuidado del Tabernáculo, y los sacerdotes tendrían a su cargo el cuidado del Santuario (¡La morada de Dios, la Casa del Señor!).\n\n(Vs.4,7) Los sacerdotes deben instruir al pueblo y advertirle en lo concerniente a la distancia que deben guardar.\n\n(Vs.8) 2 Timoteo 2:4 Al servicio del sacerdote se le conoce como la milicia (técnica de hacer la guerra y de preparar a los soldados para ello). ¿Y quien va a la guerra a su propia costa? Siendo tan alto el empleo que tenían, también se les proveería abundantemente para sus necesidades; los que servían al altar, vivían del altar.\n\n1 Corintios 9:13¿No sabéis que los que trabajan en las cosas sagradas, comen del templo, y que los que sirven al altar, del altar participan?\n\nAsí (Vs.14) también ordenó el Señor a los que anuncian el evangelio, que vivan del evangelio.\n\nUn sostenimiento vergonzoso produce ministros vergonzosos.\n\n(Juan 15:16) Yo os elegí… para que vayáis y llevéis fruto…\n\n(Hechos 9:15) Instrumento escogido me es éste… para que llevéis mi Nombre en presencia de los gentiles, y de reyes, y de los hijos de Israel.\n\n(1 Corintios 1:27, 28) Lo necio del mundo escogió Dios… (Vs.28) lo vil del mundo, lo menospreciado escogió Dios, y lo que no es, para deshacer lo que es…\n\nGran parte de la provisión que se les daba a los sacerdotes procedía de los sacrificios que ellos mismos le ofrecían a Dios (en su trabajo habitual).\n\nJesús (Mateo 28:20) dijo: He aquí que yo estoy con vosotros todos los días hasta el fin del mundo.\n\nDe esta manera, Cristo provee para que el ministerio del Evangelio continúe hasta que Él venga.\n\nCristo ha provisto a la Iglesia y al mundo de un ministerio perpetuo, con especificaciones claras y manifiestas para los pastores y maestros (Efesios 4:11), encargados de equipar convenientemente al resto de la congregación para la gran tarea de la edificación de la Iglesia (Efesios 4:12,13).\n\nEstá muy puesto en razón que los pastores y maestros sean atendidos, respetados y obedecidos, \"para que\" desempeñen su ministerio con alegría y no quejándose, porque esto \"no es provechoso\" para la congregación (Hebreos 13:17). Amén.",
+    "contenido_renderizado": [
+      {
+        "tipo": "parrafo",
+        "texto": "Según se lee, vemos que Aarón ya está completamente establecido y confirmado en su OFICIO SACERDOTAL. Ahora Dios le da instrucciones completas concernientes a su ministerio. Le dice cuál será su trabajo y la asistencia o ayuda que ha de tener por parte de los levitas. También le menciona los derechos que tendrían él y sus hijos en tal ministerio.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "I. Para aquel tiempo era un peligro para los israelitas acercarse ellos personalmente a Dios, al santuario.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "A. Para las quejas y peticiones del pueblo, entonces Dios les establece a Aarón quien será el que se acercará (a Dios) al santuario, como representante del pueblo.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Dios se dirige a Aarón para recordarle la \"responsabilidad\" que \"pesa\" sobre él y las obligaciones \"que quiere de él, para que las cumpla como sacerdote.\"",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Así Aarón podría ver la razón de \"recibir con temor y temblor\" los \"honores\" de su oficio, cuando considerara cuán grande era \"la carga que Dios le imponía.\"",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Dios LE HACE VER LA RESPONSABILIDAD QUE VA UNIDA A SU OFICIO.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Vs.1 y Vs.2) Grande responsabilidad era la del sacerdote y de los levitas quienes cargarían con la iniquidad del santuario; es decir si el santuario era profanado por la intrusión (entrada) de extraños, o de personas ceremonialmente (del culto) inmundas, la culpa sería imputada a los levitas y a los sacerdotes, \"que tenían el deber\" de \"no\" \"dejarlos acercarse\".",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Que el sacerdote llevaría el pecado de su sacerdocio, significa, que se les acusaría a ellos, si permitían que cualquier otra persona (ni aún podían hacerlo los levitas) usurpara las funciones sacerdotales, que era prerrogativa (privilegio y permiso) exclusivo de Aarón y de sus hijos; igualmente, si descuidaban \"ellos mismos alguna parte de su trabajo.\"",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Dios le dice cuáles son los deberes que van unidos a su dignidad ministerial.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Que él y sus hijos habrían de servir delante del Tabernáculo del Testimonio. O sea, servirían en el Lugar Santo, que estaba frente al velo, que lo separaba del Lugar Santísimo (en el Lugar Santísimo estaba el Arca). El Lugar Santo estaba dentro del Tabernáculo de reunión pero en la parte de afuera del velo.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Los sacerdotes tenían que asistir al altar de oro, a la mesa y al candelero, lugares a los que \"ningún levita\" podía asistir ni acercarse (Vs.3).",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Vs.7) Dios LES DIJO: \"…MINISTRARÉIS…\" NO LES DIJO: ¡GOBERNARÉIS!",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Los ministros, deben saber que tan sólo son, servidores, de quienes se requiere se sean humildes, diligentes (con mucho interés y esmero) y \"fieles.\"",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Los levitas deben asistirle a él, y a sus hijos, y servirles en todo lo concerniente al servicio del tabernáculo, \"aunque de ningún modo puedan acercarse a los utensilios del mismo.\" (Vs.3)",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Que tanto los sacerdotes como los levitas han de vigilar con todo cuidado \"PARA QUE \"NO SE PROFANEN LAS COSAS SAGRADAS.\"",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Los levitas tendrían a su cargo el cuidado del Tabernáculo, y los sacerdotes tendrían a su cargo el cuidado del Santuario (¡La morada de Dios, la Casa del Señor!).",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Vs.4,7) Los sacerdotes deben instruir al pueblo y advertirle en lo concerniente a la distancia que deben guardar.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Vs.8) 2 Timoteo 2:4 Al servicio del sacerdote se le conoce como la milicia (técnica de hacer la guerra y de preparar a los soldados para ello). ¿Y quien va a la guerra a su propia costa? Siendo tan alto el empleo que tenían, también se les proveería abundantemente para sus necesidades; los que servían al altar, vivían del altar.",
+        "referencias_inline": [
+          "2 Timoteo 2:4"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "1 Corintios 9:13¿No sabéis que los que trabajan en las cosas sagradas, comen del templo, y que los que sirven al altar, del altar participan?",
+        "referencias_inline": [
+          "1 Corintios 9:13"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Así (Vs.14) también ordenó el Señor a los que anuncian el evangelio, que vivan del evangelio.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Un sostenimiento vergonzoso produce ministros vergonzosos.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Juan 15:16) Yo os elegí… para que vayáis y llevéis fruto…",
+        "referencias_inline": [
+          "Juan 15:16"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Hechos 9:15) Instrumento escogido me es éste… para que llevéis mi Nombre en presencia de los gentiles, y de reyes, y de los hijos de Israel.",
+        "referencias_inline": [
+          "Hechos 9:15"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(1 Corintios 1:27, 28) Lo necio del mundo escogió Dios… (Vs.28) lo vil del mundo, lo menospreciado escogió Dios, y lo que no es, para deshacer lo que es…",
+        "referencias_inline": [
+          "1 Corintios 1:27,28"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Gran parte de la provisión que se les daba a los sacerdotes procedía de los sacrificios que ellos mismos le ofrecían a Dios (en su trabajo habitual).",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Jesús (Mateo 28:20) dijo: He aquí que yo estoy con vosotros todos los días hasta el fin del mundo.",
+        "referencias_inline": [
+          "Mateo 28:20"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "De esta manera, Cristo provee para que el ministerio del Evangelio continúe hasta que Él venga.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Cristo ha provisto a la Iglesia y al mundo de un ministerio perpetuo, con especificaciones claras y manifiestas para los pastores y maestros (Efesios 4:11), encargados de equipar convenientemente al resto de la congregación para la gran tarea de la edificación de la Iglesia (Efesios 4:12,13).",
+        "referencias_inline": [
+          "Efesios 4:11",
+          "Efesios 4:12,13"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Está muy puesto en razón que los pastores y maestros sean atendidos, respetados y obedecidos, \"para que\" desempeñen su ministerio con alegría y no quejándose, porque esto \"no es provechoso\" para la congregación (Hebreos 13:17). Amén.",
+        "referencias_inline": [
+          "Hebreos 13:17"
+        ]
+      }
+    ]
+  },
+  "busqueda": {
+    "texto_indexable": "con temor y temblor los honores de su oficio numeros 18 1 8 servicio cristiano familia humildad crianza de hijos arrepentimiento mundo evangelio arca testimonio segun se lee vemos que aaron ya esta completamente establecido y confirmado en su oficio sacerdotal ahora Dios le da instrucciones completas concernientes a su ministerio le dice cual sera su trabajo y la asistencia o ayuda que ha de tener por parte de los levitas tambien le menciona los derechos que tendrian el y sus hijos en tal ministerio i para aquel tiempo era un peligro para los israelitas acercarse ellos personalmente a Dios al santuario a para las quejas y peticiones del pueblo entonces Dios les establece a aaron quien sera el que se acercara a Dios al santuario como representante del pueblo Dios se dirige a aaron para recordarle la responsabilidad que pesa sobre el y las obligaciones que quiere de el para que las cumpla como sacerdote asi aaron podria ver la razon de recibir con temor y temblor los honores de su oficio cuando considerara cuan grande era la carga que Dios le imponia Dios le hace ver la responsabilidad que va unida a su oficio vs 1 y vs 2 grande responsabilidad era la del sacerdote y de los levitas quienes cargarian con la iniquidad del santuario es decir si el santuario era profanado por la intrusion entrada de extranos o de personas ceremonialmente del culto inmundas la culpa seria imputada a los levitas y a los sacerdotes que tenian el deber de no dejarlos acercarse que el sacerdote llevaria el pecado de su sacerdocio significa que se les acusaria a ellos si permitian que cualquier otra persona ni aun podian hacerlo los levitas usurpara las funciones sacerdotales que era prerrogativa privilegio y permiso exclusivo de aaron y de sus hijos igualmente si descuidaban ellos mismos alguna parte de su trabajo Dios le dice cuales son los deberes que van unidos a su dignidad ministerial que el y sus hijos habrian de servir delante del tabernaculo del testimonio o sea servirian en el lugar santo que estaba frente al velo que lo separaba del lugar santisimo en el lugar santisimo estaba el arca el lugar santo estaba dentro del tabernaculo de reunion pero en la parte de afuera del velo los sacerdotes tenian que asistir al altar de oro a la mesa y al candelero lugares a los que ningun levita podia asistir ni acercarse vs 3 vs 7 Dios les dijo ministrareis no les dijo gobernareis los ministros deben saber que tan solo son servidores de quienes se requiere se sean humildes diligentes con mucho interes y esmero y fieles los levitas deben asistirle a el y a sus hijos y servirles en todo lo concerniente al servicio del tabernaculo aunque de ningun modo puedan acercarse a los utensilios del mismo vs 3 que tanto los sacerdotes como los levitas han de vigilar con todo cuidado para que no se profanen las cosas sagradas los levitas tendrian a su cargo el cuidado del tabernaculo y los sacerdotes tendrian a su cargo el cuidado del santuario la morada de Dios la casa del senor vs 4 7 los sacerdotes deben instruir al pueblo y advertirle en lo concerniente a la distancia que deben guardar vs 8 2 timoteo 2 4 al servicio del sacerdote se le conoce como la milicia tecnica de hacer la guerra y de preparar a los soldados para ello y quien va a la guerra a su propia costa siendo tan alto el empleo que tenian tambien se les proveeria abundantemente para sus necesidades los que servian al altar vivian del altar 1 corintios 9 13 no sabeis que los que trabajan en las cosas sagradas comen del templo y que los que sirven al altar del altar participan asi vs 14 tambien ordeno el senor a los que anuncian el evangelio que vivan del evangelio un sostenimiento vergonzoso produce ministros vergonzosos juan 15 16 yo os elegi para que vayais y lleveis fruto hechos 9 15 instrumento escogido me es este para que lleveis mi nombre en presencia de los gentiles y de reyes y de los hijos de israel 1 corintios 1 27 28 lo necio del mundo escogio Dios vs 28 lo vil del mundo lo menospreciado escogio Dios y lo que no es para deshacer lo que es gran parte de la provision que se les daba a los sacerdotes procedia de los sacrificios que ellos mismos le ofrecian a Dios en su trabajo habitual Jesus mateo 28 20 dijo he aqui que yo estoy con vosotros todos los dias hasta el fin del mundo de esta manera cristo provee para que el ministerio del evangelio continue hasta que el venga cristo ha provisto a la iglesia y al mundo de un ministerio perpetuo con especificaciones claras y manifiestas para los pastores y maestros efesios 4 11 encargados de equipar convenientemente al resto de la congregacion para la gran tarea de la edificacion de la iglesia efesios 4 12 13 esta muy puesto en razon que los pastores y maestros sean atendidos respetados y obedecidos para que desempenen su ministerio con alegria y no quejandose porque esto no es provechoso para la congregacion hebreos 13 17 amen",
+    "alias_busqueda": [
+      "Con Temor Y Temblor Los Honores De Su Oficio",
+      "Números",
+      "Números 18",
+      "Números 18:1-8",
+      "arrepentimiento",
+      "mundo",
+      "evangelio",
+      "arca",
+      "Servicio cristiano",
+      "Familia"
+    ]
+  },
+  "revision_manual": {
+    "requiere_revision": false,
+    "motivo": ""
+  },
+  "ui": {
+    "mostrar_credito_en_header": true,
+    "mostrar_numero_estudio": true,
+    "mostrar_fecha": true,
+    "mostrar_topicos": true,
+    "permitir_favorito": true,
+    "permitir_compartir": true
+  }
+}

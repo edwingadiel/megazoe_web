@@ -1,0 +1,646 @@
+{
+  "id": "estudio-1291-estudio-1291",
+  "slug": "estudio-1291-estudio-1291",
+  "numero_estudio": 1291,
+  "tipo_estudio": "Iglesia en las casas",
+  "ministerio": {
+    "iglesia": "Iglesia Cristiana Mega Zoe",
+    "pastora": "Pastora Edith Cruz",
+    "credito_corto": "Iglesia Cristiana Mega Zoe · Pastora Edith Cruz",
+    "credito_largo": "Contenido original de Iglesia Cristiana Mega Zoe, conservando el crédito ministerial correspondiente a la Pastora Edith Cruz."
+  },
+  "identidad_editorial": {
+    "idioma": "es",
+    "fuente_original": "documento_word",
+    "archivo_origen": "/Users/edwingadiel/Desktop/Estudios en Word/Estudio #1291 Conquistados de Canaán - Exodo 17 8-13.docx",
+    "estado_revision": "procesado",
+    "version_schema": "1.0"
+  },
+  "encabezado": {
+    "titulo": "Conquistados De Canaán",
+    "subtitulo": null,
+    "cita_principal": "Éxodo 17:8-13",
+    "resumen_corto": "Conquistados De Canaán llama a servir con humildad y atender la Palabra de Dios."
+  },
+  "fechas": {
+    "fecha_inicio": null,
+    "fecha_fin": null,
+    "fecha_texto_original": "",
+    "ano": null
+  },
+  "clasificacion_biblica": {
+    "libro_principal": "Éxodo",
+    "capitulo_principal": 17,
+    "versiculos_principales": [
+      8,
+      9,
+      10,
+      11,
+      12,
+      13
+    ],
+    "referencia_principal_normalizada": "Éxodo 17:8-13",
+    "testamento_principal": "Antiguo Testamento"
+  },
+  "clasificacion_tematica": {
+    "topicos": [
+      "Humildad",
+      "Palabra de Dios",
+      "Sabiduría espiritual"
+    ],
+    "keywords": [
+      "arrepentimiento",
+      "secreto",
+      "perseverancia",
+      "humildad",
+      "corazón"
+    ]
+  },
+  "referencias_biblicas": [
+    {
+      "referencia": "Éxodo 17:8-13",
+      "referencia_normalizada": "Éxodo 17:8-13",
+      "libro": "Éxodo",
+      "capitulo": 17,
+      "versiculos": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "tipo": "principal",
+      "clickeable": true
+    },
+    {
+      "referencia": "Éxodo 33:11",
+      "referencia_normalizada": "Éxodo 33:11",
+      "libro": "Éxodo",
+      "capitulo": 33,
+      "versiculos": [
+        11
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Números 14:6-10",
+      "referencia_normalizada": "Números 14:6-10",
+      "libro": "Números",
+      "capitulo": 14,
+      "versiculos": [
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Éxodo 32:17",
+      "referencia_normalizada": "Éxodo 32:17",
+      "libro": "Éxodo",
+      "capitulo": 32,
+      "versiculos": [
+        17
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Números 27:18-23",
+      "referencia_normalizada": "Números 27:18-23",
+      "libro": "Números",
+      "capitulo": 27,
+      "versiculos": [
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Deuteronomio 3:28",
+      "referencia_normalizada": "Deuteronomio 3:28",
+      "libro": "Deuteronomio",
+      "capitulo": 3,
+      "versiculos": [
+        28
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Deuteronomio 31:23",
+      "referencia_normalizada": "Deuteronomio 31:23",
+      "libro": "Deuteronomio",
+      "capitulo": 31,
+      "versiculos": [
+        23
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Deuteronomio 34:9",
+      "referencia_normalizada": "Deuteronomio 34:9",
+      "libro": "Deuteronomio",
+      "capitulo": 34,
+      "versiculos": [
+        9
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Josué 1:1-9",
+      "referencia_normalizada": "Josué 1:1-9",
+      "libro": "Josué",
+      "capitulo": 1,
+      "versiculos": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Josué 2:1-23",
+      "referencia_normalizada": "Josué 2:1-23",
+      "libro": "Josué",
+      "capitulo": 2,
+      "versiculos": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Josué 3",
+      "referencia_normalizada": "Josué 3",
+      "libro": "Josué",
+      "capitulo": 3,
+      "versiculos": [],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Josué 6",
+      "referencia_normalizada": "Josué 6",
+      "libro": "Josué",
+      "capitulo": 6,
+      "versiculos": [],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Josué 10:6-27",
+      "referencia_normalizada": "Josué 10:6-27",
+      "libro": "Josué",
+      "capitulo": 10,
+      "versiculos": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Josué 12:7-24",
+      "referencia_normalizada": "Josué 12:7-24",
+      "libro": "Josué",
+      "capitulo": 12,
+      "versiculos": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Josué 23:1-3",
+      "referencia_normalizada": "Josué 23:1-3",
+      "libro": "Josué",
+      "capitulo": 23,
+      "versiculos": [
+        1,
+        2,
+        3
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Josué 24:14-24",
+      "referencia_normalizada": "Josué 24:14-24",
+      "libro": "Josué",
+      "capitulo": 24,
+      "versiculos": [
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    }
+  ],
+  "contenido": {
+    "introduccion": null,
+    "secciones": [],
+    "contenido_completo": "Nació en Gosén en el 1468 a.C. Alumno de Moisés. Lugarteniente (Persona con autoridad y poder para sustituir a otro en algún cargo) de Moisés, comandante (militar del cuerpo de jefes de los ejércitos de tierra y el aire, ordena que los subordinados que realicen sus deberes) del ejercito israelita conquistador de Canaán. Título: Profeta y líder.\n\nDerrota a los amalecitas.\n\nJosué (Jehová es salvación) aparece por primera vez en la escena.\n\nComo siervo de Moisés, peleando contra Amalec en Refidim.\n\nMientras \"alzaba Moisés su mano\" en intercesión y dependiendo de Dios, los israelitas mantenían el margen de victoria.\n\nPero cuando Moisés bajaba la mano, prevalecía Amalec.\n\nJosué se mantenía ahí de pie con la espada en la mano dando hasta que Moisés tomara fuerza de nuevo.\n\nJosué fue el sucesor de Moisés en las campañas militares llevadas a cabo por los hebreos en la conquista de Canaán.\n\nNació en Egipto.\n\nParticipó en los acontecimientos narrados en (Éxodo 33:11) \"como ayudante\" de Moisés.\n\nVale la pena notar que Josué, entonces \"un joven\", nunca se apartaba de en medio del tabernáculo.\n\nEs posible que fuera el secreto \"de su éxito espiritual\" más adelante.\n\n(Números 14:6-10) Cuando Josué y Caleb trataron de asegurar al pueblo que serían victoriosos contra el enemigo, \"el pueblo conspiró para apedrearles\".\n\n(Éxodo 32:17) Josué escuchó: le pareció alarido de pelea en el campamento, pero no era voz de grito fuerte que expresa generalmente cantar.\n\n(Números 14:6-10) Se expuso a ser apedreado por un pueblo rebelde con los diez compañeros rebeldes, chismosos y sembradores de duda, Josué dijo: Nosotros los comeremos como pan.\n\nPor tal razón, fue escogido (V.9).\n\nEnviado con los espías.\n\n(Números 27:18-23) Escogido como sucesor de Moisés (Deuteronomio 3:28).\n\nEn el corazón de Moisés estaría muy regocijado de que fuera Josué el escogido.\n\nLe conocía su entrega, pureza, fidelidad, humildad y su silencio al obedecer.\n\nY Josué, hijo de Nun, fue nombrado en su lugar.\n\n(Deuteronomio 31:23; 34:9) Investido por Moisés.\n\nAsignó (Deuteronomio 34:9) a Josué y fue lleno del espíritu de sabiduría, porque Moisés había puesto sus manos sobre él, el pueblo le obedeció, es decir Dios lo respaldaba (V.9), tal fue por esto.\n\nAsí fue como \"su siervo\" llegó a ser su sucesor, humildad de Moisés de ser un servidor también.\n\n(Josué 1:1-9) Animado por el Señor.\n\nPoseer la tierra para entregarla a los hijos de Israel, cumplir lo que Dios le había dicho a Abraham.\n\nJosué debía esforzarse y \"ser muy valiente\", no echar para atrás, obediente, además.\n\nHabía buenas razones por los cuales Josué podía esforzarse: la promesa de Dios (5-6), una victoria segura; la Palabra de Dios (7-8), un guía seguro; la presencia de Dios (9), \"un poder sustentado.\" (aguanta, sustenta, sujeta).\n\n(Josué 2:1-23) Manda espías a Jericó (1) (Rahab).\n\nDos espías encontraron posada en la casa de una ramera que se llamaba Rahab.\n\nJosué envió a dos igual que él y Caleb, con sabiduría, entendimiento.\n\nSabía creerle a Dios, sabía cómo se batalla.\n\nPasa el Jordán.\n\n(Josué 3) tomó al Jordán en victoria.\n\n(Josué 6) toma a Jericó y Rahab y su familia fue bendecida.\n\n(Josué 10:6-27) Socorre a Gabaón.\n\nLos gabaonitas enviaron a pedir ayuda militar a Josué.\n\nNo (8) tengas temor de ellos.\n\nAsegurados por el Señor de la victoria, Josué atacó las fuerzas enemigas en Gabaón, haciéndoles huir.\n\nPiedras de granizo que mataron solamente al enemigo.\n\nPetición de Josué, sol y luna se detuvieron, prolongando las horas que los israelitas tenían para perseguir y destruir el enemigo antes de que pudiera escapar a la seguridad de sus ciudades amuralladas.\n\n(Josué 12:7-24) Reparte tierras.\n\nEntregará los reyes en su mano.\n\nNadie te hará frente hasta que los destruyas. (Josué 23:1-3) Exhorta al pueblo.\n\nJehová nuestro Dios es quien ha peleado por vosotros.\n\nEl mandato de Josué de esforzarse y guardar la ley (Josué 24:14-24).\n\nRenueva el pacto.\n\nQuitad los dioses.\n\nInclinad vuestro corazón a Jehová Dios de Israel.\n\nMurió Josué teniendo la edad de 110 años y lo sepultaron en la ciudad de su herencia.\n\nEl pueblo de Israel se mantuvo fiel a Jehová mientras vivieron los hombres de la generación de Josué. Amén.",
+    "contenido_renderizado": [
+      {
+        "tipo": "parrafo",
+        "texto": "Nació en Gosén en el 1468 a.C. Alumno de Moisés. Lugarteniente (Persona con autoridad y poder para sustituir a otro en algún cargo) de Moisés, comandante (militar del cuerpo de jefes de los ejércitos de tierra y el aire, ordena que los subordinados que realicen sus deberes) del ejercito israelita conquistador de Canaán. Título: Profeta y líder.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Derrota a los amalecitas.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Josué (Jehová es salvación) aparece por primera vez en la escena.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Como siervo de Moisés, peleando contra Amalec en Refidim.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Mientras \"alzaba Moisés su mano\" en intercesión y dependiendo de Dios, los israelitas mantenían el margen de victoria.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Pero cuando Moisés bajaba la mano, prevalecía Amalec.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Josué se mantenía ahí de pie con la espada en la mano dando hasta que Moisés tomara fuerza de nuevo.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Josué fue el sucesor de Moisés en las campañas militares llevadas a cabo por los hebreos en la conquista de Canaán.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Nació en Egipto.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Participó en los acontecimientos narrados en (Éxodo 33:11) \"como ayudante\" de Moisés.",
+        "referencias_inline": [
+          "Éxodo 33:11"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Vale la pena notar que Josué, entonces \"un joven\", nunca se apartaba de en medio del tabernáculo.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Es posible que fuera el secreto \"de su éxito espiritual\" más adelante.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Números 14:6-10) Cuando Josué y Caleb trataron de asegurar al pueblo que serían victoriosos contra el enemigo, \"el pueblo conspiró para apedrearles\".",
+        "referencias_inline": [
+          "Números 14:6-10"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Éxodo 32:17) Josué escuchó: le pareció alarido de pelea en el campamento, pero no era voz de grito fuerte que expresa generalmente cantar.",
+        "referencias_inline": [
+          "Éxodo 32:17"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Números 14:6-10) Se expuso a ser apedreado por un pueblo rebelde con los diez compañeros rebeldes, chismosos y sembradores de duda, Josué dijo: Nosotros los comeremos como pan.",
+        "referencias_inline": [
+          "Números 14:6-10"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Por tal razón, fue escogido (V.9).",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Enviado con los espías.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Números 27:18-23) Escogido como sucesor de Moisés (Deuteronomio 3:28).",
+        "referencias_inline": [
+          "Números 27:18-23",
+          "Deuteronomio 3:28"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "En el corazón de Moisés estaría muy regocijado de que fuera Josué el escogido.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Le conocía su entrega, pureza, fidelidad, humildad y su silencio al obedecer.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Y Josué, hijo de Nun, fue nombrado en su lugar.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Deuteronomio 31:23; 34:9) Investido por Moisés.",
+        "referencias_inline": [
+          "Deuteronomio 31:23"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Asignó (Deuteronomio 34:9) a Josué y fue lleno del espíritu de sabiduría, porque Moisés había puesto sus manos sobre él, el pueblo le obedeció, es decir Dios lo respaldaba (V.9), tal fue por esto.",
+        "referencias_inline": [
+          "Deuteronomio 34:9"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Así fue como \"su siervo\" llegó a ser su sucesor, humildad de Moisés de ser un servidor también.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Josué 1:1-9) Animado por el Señor.",
+        "referencias_inline": [
+          "Josué 1:1-9"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Poseer la tierra para entregarla a los hijos de Israel, cumplir lo que Dios le había dicho a Abraham.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Josué debía esforzarse y \"ser muy valiente\", no echar para atrás, obediente, además.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Había buenas razones por los cuales Josué podía esforzarse: la promesa de Dios (5-6), una victoria segura; la Palabra de Dios (7-8), un guía seguro; la presencia de Dios (9), \"un poder sustentado.\" (aguanta, sustenta, sujeta).",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Josué 2:1-23) Manda espías a Jericó (1) (Rahab).",
+        "referencias_inline": [
+          "Josué 2:1-23"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Dos espías encontraron posada en la casa de una ramera que se llamaba Rahab.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Josué envió a dos igual que él y Caleb, con sabiduría, entendimiento.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Sabía creerle a Dios, sabía cómo se batalla.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Pasa el Jordán.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Josué 3) tomó al Jordán en victoria.",
+        "referencias_inline": [
+          "Josué 3"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Josué 6) toma a Jericó y Rahab y su familia fue bendecida.",
+        "referencias_inline": [
+          "Josué 6"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Josué 10:6-27) Socorre a Gabaón.",
+        "referencias_inline": [
+          "Josué 10:6-27"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Los gabaonitas enviaron a pedir ayuda militar a Josué.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "No (8) tengas temor de ellos.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Asegurados por el Señor de la victoria, Josué atacó las fuerzas enemigas en Gabaón, haciéndoles huir.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Piedras de granizo que mataron solamente al enemigo.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Petición de Josué, sol y luna se detuvieron, prolongando las horas que los israelitas tenían para perseguir y destruir el enemigo antes de que pudiera escapar a la seguridad de sus ciudades amuralladas.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Josué 12:7-24) Reparte tierras.",
+        "referencias_inline": [
+          "Josué 12:7-24"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Entregará los reyes en su mano.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Nadie te hará frente hasta que los destruyas. (Josué 23:1-3) Exhorta al pueblo.",
+        "referencias_inline": [
+          "Josué 23:1-3"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Jehová nuestro Dios es quien ha peleado por vosotros.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "El mandato de Josué de esforzarse y guardar la ley (Josué 24:14-24).",
+        "referencias_inline": [
+          "Josué 24:14-24"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Renueva el pacto.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Quitad los dioses.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Inclinad vuestro corazón a Jehová Dios de Israel.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Murió Josué teniendo la edad de 110 años y lo sepultaron en la ciudad de su herencia.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "El pueblo de Israel se mantuvo fiel a Jehová mientras vivieron los hombres de la generación de Josué. Amén.",
+        "referencias_inline": []
+      }
+    ]
+  },
+  "busqueda": {
+    "texto_indexable": "conquistados de canaan exodo 17 8 13 humildad palabra de Dios sabiduria espiritual arrepentimiento secreto perseverancia humildad corazon nacio en gosen en el 1468 a c alumno de moises lugarteniente persona con autoridad y poder para sustituir a otro en algun cargo de moises comandante militar del cuerpo de jefes de los ejercitos de tierra y el aire ordena que los subordinados que realicen sus deberes del ejercito israelita conquistador de canaan titulo profeta y lider derrota a los amalecitas josue jehova es salvacion aparece por primera vez en la escena como siervo de moises peleando contra amalec en refidim mientras alzaba moises su mano en intercesion y dependiendo de Dios los israelitas mantenian el margen de victoria pero cuando moises bajaba la mano prevalecia amalec josue se mantenia ahi de pie con la espada en la mano dando hasta que moises tomara fuerza de nuevo josue fue el sucesor de moises en las campanas militares llevadas a cabo por los hebreos en la conquista de canaan nacio en egipto participo en los acontecimientos narrados en exodo 33 11 como ayudante de moises vale la pena notar que josue entonces un joven nunca se apartaba de en medio del tabernaculo es posible que fuera el secreto de su exito espiritual mas adelante numeros 14 6 10 cuando josue y caleb trataron de asegurar al pueblo que serian victoriosos contra el enemigo el pueblo conspiro para apedrearles exodo 32 17 josue escucho le parecio alarido de pelea en el campamento pero no era voz de grito fuerte que expresa generalmente cantar numeros 14 6 10 se expuso a ser apedreado por un pueblo rebelde con los diez companeros rebeldes chismosos y sembradores de duda josue dijo nosotros los comeremos como pan por tal razon fue escogido v 9 enviado con los espias numeros 27 18 23 escogido como sucesor de moises deuteronomio 3 28 en el corazon de moises estaria muy regocijado de que fuera josue el escogido le conocia su entrega pureza fidelidad humildad y su silencio al obedecer y josue hijo de nun fue nombrado en su lugar deuteronomio 31 23 34 9 investido por moises asigno deuteronomio 34 9 a josue y fue lleno del espiritu de sabiduria porque moises habia puesto sus manos sobre el el pueblo le obedecio es decir Dios lo respaldaba v 9 tal fue por esto asi fue como su siervo llego a ser su sucesor humildad de moises de ser un servidor tambien josue 1 1 9 animado por el senor poseer la tierra para entregarla a los hijos de israel cumplir lo que Dios le habia dicho a abraham josue debia esforzarse y ser muy valiente no echar para atras obediente ademas habia buenas razones por los cuales josue podia esforzarse la promesa de Dios 5 6 una victoria segura la palabra de Dios 7 8 un guia seguro la presencia de Dios 9 un poder sustentado aguanta sustenta sujeta josue 2 1 23 manda espias a jerico 1 rahab dos espias encontraron posada en la casa de una ramera que se llamaba rahab josue envio a dos igual que el y caleb con sabiduria entendimiento sabia creerle a Dios sabia como se batalla pasa el jordan josue 3 tomo al jordan en victoria josue 6 toma a jerico y rahab y su familia fue bendecida josue 10 6 27 socorre a gabaon los gabaonitas enviaron a pedir ayuda militar a josue no 8 tengas temor de ellos asegurados por el senor de la victoria josue ataco las fuerzas enemigas en gabaon haciendoles huir piedras de granizo que mataron solamente al enemigo peticion de josue sol y luna se detuvieron prolongando las horas que los israelitas tenian para perseguir y destruir el enemigo antes de que pudiera escapar a la seguridad de sus ciudades amuralladas josue 12 7 24 reparte tierras entregara los reyes en su mano nadie te hara frente hasta que los destruyas josue 23 1 3 exhorta al pueblo jehova nuestro Dios es quien ha peleado por vosotros el mandato de josue de esforzarse y guardar la ley josue 24 14 24 renueva el pacto quitad los dioses inclinad vuestro corazon a jehova Dios de israel murio josue teniendo la edad de 110 anos y lo sepultaron en la ciudad de su herencia el pueblo de israel se mantuvo fiel a jehova mientras vivieron los hombres de la generacion de josue amen",
+    "alias_busqueda": [
+      "Estudio 1291",
+      "Éxodo",
+      "Éxodo 17",
+      "Éxodo 17:8-13",
+      "arrepentimiento",
+      "secreto",
+      "perseverancia",
+      "humildad",
+      "Palabra de Dios"
+    ]
+  },
+  "revision_manual": {
+    "requiere_revision": false,
+    "motivo": ""
+  },
+  "ui": {
+    "mostrar_credito_en_header": true,
+    "mostrar_numero_estudio": true,
+    "mostrar_fecha": true,
+    "mostrar_topicos": true,
+    "permitir_favorito": true,
+    "permitir_compartir": true
+  }
+}

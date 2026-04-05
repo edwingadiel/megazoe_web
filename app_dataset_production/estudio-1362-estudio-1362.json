@@ -1,0 +1,459 @@
+{
+  "id": "estudio-1362-estudio-1362",
+  "slug": "estudio-1362-estudio-1362",
+  "numero_estudio": 1362,
+  "tipo_estudio": "Iglesia en las casas",
+  "ministerio": {
+    "iglesia": "Iglesia Cristiana Mega Zoe",
+    "pastora": "Pastora Edith Cruz",
+    "credito_corto": "Iglesia Cristiana Mega Zoe · Pastora Edith Cruz",
+    "credito_largo": "Contenido original de Iglesia Cristiana Mega Zoe, conservando el crédito ministerial correspondiente a la Pastora Edith Cruz."
+  },
+  "identidad_editorial": {
+    "idioma": "es",
+    "fuente_original": "documento_word",
+    "archivo_origen": "/Users/edwingadiel/Desktop/Estudios en Word/Estudio #1362 Aferrarse a la ignorancia que conocer la verdad - Mateo 13 53-58.docx",
+    "estado_revision": "procesado",
+    "version_schema": "1.0"
+  },
+  "encabezado": {
+    "titulo": "Aferrarse A La Ignorancia Que Conocer La Verdad",
+    "subtitulo": null,
+    "cita_principal": "Mateo 13:53-58",
+    "resumen_corto": "Aferrarse A La Ignorancia Que Conocer La Verdad enseña a vivir con la mirada puesta en la vida eterna y caminar con sabiduría espiritual."
+  },
+  "fechas": {
+    "fecha_inicio": null,
+    "fecha_fin": null,
+    "fecha_texto_original": "",
+    "ano": null
+  },
+  "clasificacion_biblica": {
+    "libro_principal": "Mateo",
+    "capitulo_principal": 13,
+    "versiculos_principales": [
+      53,
+      54,
+      55,
+      56,
+      57,
+      58
+    ],
+    "referencia_principal_normalizada": "Mateo 13:53-58",
+    "testamento_principal": "Nuevo Testamento"
+  },
+  "clasificacion_tematica": {
+    "topicos": [
+      "Vida eterna",
+      "Sabiduría espiritual",
+      "Humildad",
+      "Familia"
+    ],
+    "keywords": [
+      "vida eterna",
+      "santidad",
+      "juicio",
+      "arrepentimiento",
+      "arca"
+    ]
+  },
+  "referencias_biblicas": [
+    {
+      "referencia": "Mateo 13:53-58",
+      "referencia_normalizada": "Mateo 13:53-58",
+      "libro": "Mateo",
+      "capitulo": 13,
+      "versiculos": [
+        53,
+        54,
+        55,
+        56,
+        57,
+        58
+      ],
+      "tipo": "principal",
+      "clickeable": true
+    },
+    {
+      "referencia": "Mateo 13:44-45",
+      "referencia_normalizada": "Mateo 13:44-45",
+      "libro": "Mateo",
+      "capitulo": 13,
+      "versiculos": [
+        44,
+        45
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Efesios 1:18",
+      "referencia_normalizada": "Efesios 1:18",
+      "libro": "Efesios",
+      "capitulo": 1,
+      "versiculos": [
+        18
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Juan 3:3",
+      "referencia_normalizada": "Juan 3:3",
+      "libro": "Juan",
+      "capitulo": 3,
+      "versiculos": [
+        3
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Juan 5:39",
+      "referencia_normalizada": "Juan 5:39",
+      "libro": "Juan",
+      "capitulo": 5,
+      "versiculos": [
+        39
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Filipenses 3:7-8",
+      "referencia_normalizada": "Filipenses 3:7-8",
+      "libro": "Filipenses",
+      "capitulo": 3,
+      "versiculos": [
+        7,
+        8
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "1 Corintios 9:24-27",
+      "referencia_normalizada": "1 Corintios 9:24-27",
+      "libro": "1 Corintios",
+      "capitulo": 9,
+      "versiculos": [
+        24,
+        25,
+        26,
+        27
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Filipenses 3:13-14",
+      "referencia_normalizada": "Filipenses 3:13-14",
+      "libro": "Filipenses",
+      "capitulo": 3,
+      "versiculos": [
+        13,
+        14
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Mateo 6:19-20",
+      "referencia_normalizada": "Mateo 6:19-20",
+      "libro": "Mateo",
+      "capitulo": 6,
+      "versiculos": [
+        19,
+        20
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Mateo 13: 53",
+      "referencia_normalizada": "Mateo 13:53",
+      "libro": "Mateo",
+      "capitulo": 13,
+      "versiculos": [
+        53
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Juan 1:11",
+      "referencia_normalizada": "Juan 1:11",
+      "libro": "Juan",
+      "capitulo": 1,
+      "versiculos": [
+        11
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Mateo 13:55-56",
+      "referencia_normalizada": "Mateo 13:55-56",
+      "libro": "Mateo",
+      "capitulo": 13,
+      "versiculos": [
+        55,
+        56
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Lucas 1:27",
+      "referencia_normalizada": "Lucas 1:27",
+      "libro": "Lucas",
+      "capitulo": 1,
+      "versiculos": [
+        27
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Isaías 11:1",
+      "referencia_normalizada": "Isaías 11:1",
+      "libro": "Isaías",
+      "capitulo": 11,
+      "versiculos": [
+        1
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Lucas 1:48",
+      "referencia_normalizada": "Lucas 1:48",
+      "libro": "Lucas",
+      "capitulo": 1,
+      "versiculos": [
+        48
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    }
+  ],
+  "contenido": {
+    "introduccion": null,
+    "secciones": [],
+    "contenido_completo": "Sabes qué es lo triste de cómo se vive la vida: para pasiones, orgullo, pretender, sembrar cizaña (una madre que siembra cizaña: Mira, tu hermano no quiere a tus hijos, y ahí puso a pelear a toda la familia. Sembró el odio en vez de llevar la paz). Cuál es la siembra en nuestras vidas. Acuérdate lo que siembras será lo que comerás. Y el castigo que te está esperando pronto.\n\nI. Dios estimó tanto, que entregó a la muerte de cruz a Su propio y único Hijo, para rescatarla del abismo de perdición.\n\nHasta ahora Cristo había comparado el reino de los cielos a cosas pequeñas (semilla, grano mostaza, levadura), pero ahora la compara a dos cosas de gran valor (tesoro, perla) (Mateo 13:44-45).\n\nEl tesoro escondido es la bendición que supone servir a Cristo y ser súbdito (sujeto a la autoridad) del reino de los cielos.\n\nEste tesoro está escondido a los ojos de la carne, pero \"aquellos cuyos ojos espirituales han sido iluminados por el Espíritu Santo (Efesios 1:18), ven el tesoro (Juan 3:3) y se \"apresuran\" (dar prisa, acelerar) a adquirirlo.\n\nNo está escondido en un huerto \"cerrado\", sino en un campo.\n\nAllí está esta mina de oro, todo el que quiera puede \"llegarse a ella y sacar provecho\" (¿y tú qué lo haces?), con tal que vaya por el camino recto\" y emplear el método correcto.\"\n\nGran cosa es descubrir este tesoro y el inmenso valor que encierra.\n\nPara los inconversos, la Palabra es un libro más.\n\nPero quienes se llegan a la Escritura con las debidas disposiciones, \"encuentran en ella un tesoro inagotable: Cristo y la vida eterna.\" (Juan 5:39)\n\n\"Quiénes disciernen bien el valor de este tesoro, no paran hasta que lo han conseguido.\"\n\nLlenos de alegría, pagan cualquier precio por tenerlo: ¿Tú lo has hecho?\n\nEn comparación con Él todo lo demás no tiene valor alguno.\n\n(Filipenses 3:7-8) Pablo dice: Cuantas cosas eran para mí ganancia, las he estimado como pérdida por amor de Cristo… por amor del cual lo he perdido todo y lo tengo por basura, para ganar a Cristo.\n\nNo es de extrañar que el gran Apóstol corriera \"como un\" campeón olímpico para obtener la mejor marca (1 Corintios 9:24-27); Filipenses 3:13-14).\n\n(Mateo 6:19-20) ¿Y no es mayor locura dejar pasar las oportunidades de hacer acopio (provisión, almacenamiento) \"de ese tesoro que se acumula en el Cielo?\n\nEn el cielo nadie te puede robar ese almacenamiento del tesoro que has hecho para el cielo, buenas obras, tu búsqueda para con el Señor, ese crecimiento, los frutos, todo lo que es del cielo, lo espiritual.\n\n(Mateo 13: 53) Jesús vuelve a los Suyos.\n\nTenía (Juan 1:11) un afecto especial divino y humano, a su propia patria.\n\nEl tratamiento que ahora recibió fue similar al anterior.\n\nComo expresaron el desprecio, que sentían hacia Él: Les enseñaba en la sinagoga de ellos; de tal manera, que se quedaban maravillados (sorprendido, asombrado, pasmado) de que se atreviera a enseñar en público.\n\nSu falta de educación; ¿De dónde tiene éste esta sabiduría y estos milagros? a.) juicio, perspicaz, distinguir, comprender.\n\nSabían que era sabio para enseñar y poderoso para obrar milagros.\n\nComo las personas viles, llenas de celo y prejuicios, están siempre prestas a juzgar a otras, no por su sabiduría, sino por sus títulos académicos, no por sus razones, sino por su alcurnia y posición social.\n\n(Mateo 13:55-56) La baja condición social de su parentela.\n\nLe echan en cara el oficio de su padre legal: ¿no es este el hijo del carpintero?\n\nEste carpintero era de \"la casa de David (Lucas 1:27)\", \"hijo de David\" (3:32), aunque carpintero era de noble linaje.\n\nAquellos espíritus sórdidos (sucio, impuro) no tenían ninguna consideración con la rama o raíz familiar ni siquiera con la vara del tronco de Isaí (Isaías 11:1).\n\nLe echaban también en cara la condición modesta de su madre: ¿No se llama su madre María?\n\nSí es cierto que era un nombre bastante común y todos sabían que era una mujer modesta y humilde (Lucas 1:48) pero esto no era ningún desdoro (manda), pues los seres humanos no se miden por sus títulos espléndidos, ni por su exterior, sino por la santidad de su vida y la nobleza de su carácter.\n\nTambién le echaban en cara la condición de sus hermanos, cuyos nombres conocían bien y por su condición modesta, los despreciaban y a Jesús también por tener tales familiares: Jacobo, José, Simón y Judas los conocían.\n\nY se escandalizaban (disgusto, molestaban, asombro, mostrar indignación, encenderse en cólera) de Él, cuando debían apreciarle más y estar orgullosos de Él por ser paisano (del mismo país) de ellos y poseer tales cualidades. Amén.",
+    "contenido_renderizado": [
+      {
+        "tipo": "parrafo",
+        "texto": "Sabes qué es lo triste de cómo se vive la vida: para pasiones, orgullo, pretender, sembrar cizaña (una madre que siembra cizaña: Mira, tu hermano no quiere a tus hijos, y ahí puso a pelear a toda la familia. Sembró el odio en vez de llevar la paz). Cuál es la siembra en nuestras vidas. Acuérdate lo que siembras será lo que comerás. Y el castigo que te está esperando pronto.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "I. Dios estimó tanto, que entregó a la muerte de cruz a Su propio y único Hijo, para rescatarla del abismo de perdición.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Hasta ahora Cristo había comparado el reino de los cielos a cosas pequeñas (semilla, grano mostaza, levadura), pero ahora la compara a dos cosas de gran valor (tesoro, perla) (Mateo 13:44-45).",
+        "referencias_inline": [
+          "Mateo 13:44-45"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "El tesoro escondido es la bendición que supone servir a Cristo y ser súbdito (sujeto a la autoridad) del reino de los cielos.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Este tesoro está escondido a los ojos de la carne, pero \"aquellos cuyos ojos espirituales han sido iluminados por el Espíritu Santo (Efesios 1:18), ven el tesoro (Juan 3:3) y se \"apresuran\" (dar prisa, acelerar) a adquirirlo.",
+        "referencias_inline": [
+          "Efesios 1:18",
+          "Juan 3:3"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "No está escondido en un huerto \"cerrado\", sino en un campo.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Allí está esta mina de oro, todo el que quiera puede \"llegarse a ella y sacar provecho\" (¿y tú qué lo haces?), con tal que vaya por el camino recto\" y emplear el método correcto.\"",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Gran cosa es descubrir este tesoro y el inmenso valor que encierra.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Para los inconversos, la Palabra es un libro más.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Pero quienes se llegan a la Escritura con las debidas disposiciones, \"encuentran en ella un tesoro inagotable: Cristo y la vida eterna.\" (Juan 5:39)",
+        "referencias_inline": [
+          "Juan 5:39"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "\"Quiénes disciernen bien el valor de este tesoro, no paran hasta que lo han conseguido.\"",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Llenos de alegría, pagan cualquier precio por tenerlo: ¿Tú lo has hecho?",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "En comparación con Él todo lo demás no tiene valor alguno.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Filipenses 3:7-8) Pablo dice: Cuantas cosas eran para mí ganancia, las he estimado como pérdida por amor de Cristo… por amor del cual lo he perdido todo y lo tengo por basura, para ganar a Cristo.",
+        "referencias_inline": [
+          "Filipenses 3:7-8"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "No es de extrañar que el gran Apóstol corriera \"como un\" campeón olímpico para obtener la mejor marca (1 Corintios 9:24-27); Filipenses 3:13-14).",
+        "referencias_inline": [
+          "1 Corintios 9:24-27",
+          "Filipenses 3:13-14"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Mateo 6:19-20) ¿Y no es mayor locura dejar pasar las oportunidades de hacer acopio (provisión, almacenamiento) \"de ese tesoro que se acumula en el Cielo?",
+        "referencias_inline": [
+          "Mateo 6:19-20"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "En el cielo nadie te puede robar ese almacenamiento del tesoro que has hecho para el cielo, buenas obras, tu búsqueda para con el Señor, ese crecimiento, los frutos, todo lo que es del cielo, lo espiritual.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Mateo 13: 53) Jesús vuelve a los Suyos.",
+        "referencias_inline": [
+          "Mateo 13:53"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Tenía (Juan 1:11) un afecto especial divino y humano, a su propia patria.",
+        "referencias_inline": [
+          "Juan 1:11"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "El tratamiento que ahora recibió fue similar al anterior.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Como expresaron el desprecio, que sentían hacia Él: Les enseñaba en la sinagoga de ellos; de tal manera, que se quedaban maravillados (sorprendido, asombrado, pasmado) de que se atreviera a enseñar en público.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Su falta de educación; ¿De dónde tiene éste esta sabiduría y estos milagros? a.) juicio, perspicaz, distinguir, comprender.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Sabían que era sabio para enseñar y poderoso para obrar milagros.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Como las personas viles, llenas de celo y prejuicios, están siempre prestas a juzgar a otras, no por su sabiduría, sino por sus títulos académicos, no por sus razones, sino por su alcurnia y posición social.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Mateo 13:55-56) La baja condición social de su parentela.",
+        "referencias_inline": [
+          "Mateo 13:55-56"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Le echan en cara el oficio de su padre legal: ¿no es este el hijo del carpintero?",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Este carpintero era de \"la casa de David (Lucas 1:27)\", \"hijo de David\" (3:32), aunque carpintero era de noble linaje.",
+        "referencias_inline": [
+          "Lucas 1:27"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Aquellos espíritus sórdidos (sucio, impuro) no tenían ninguna consideración con la rama o raíz familiar ni siquiera con la vara del tronco de Isaí (Isaías 11:1).",
+        "referencias_inline": [
+          "Isaías 11:1"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Le echaban también en cara la condición modesta de su madre: ¿No se llama su madre María?",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Sí es cierto que era un nombre bastante común y todos sabían que era una mujer modesta y humilde (Lucas 1:48) pero esto no era ningún desdoro (manda), pues los seres humanos no se miden por sus títulos espléndidos, ni por su exterior, sino por la santidad de su vida y la nobleza de su carácter.",
+        "referencias_inline": [
+          "Lucas 1:48"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "También le echaban en cara la condición de sus hermanos, cuyos nombres conocían bien y por su condición modesta, los despreciaban y a Jesús también por tener tales familiares: Jacobo, José, Simón y Judas los conocían.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Y se escandalizaban (disgusto, molestaban, asombro, mostrar indignación, encenderse en cólera) de Él, cuando debían apreciarle más y estar orgullosos de Él por ser paisano (del mismo país) de ellos y poseer tales cualidades. Amén.",
+        "referencias_inline": []
+      }
+    ]
+  },
+  "busqueda": {
+    "texto_indexable": "aferrarse a la ignorancia que conocer la verdad mateo 13 53 58 vida eterna sabiduria espiritual humildad familia vida eterna santidad juicio arrepentimiento arca sabes que es lo triste de como se vive la vida para pasiones orgullo pretender sembrar cizana una madre que siembra cizana mira tu hermano no quiere a tus hijos y ahi puso a pelear a toda la familia sembro el odio en vez de llevar la paz cual es la siembra en nuestras vidas acuerdate lo que siembras sera lo que comeras y el castigo que te esta esperando pronto i Dios estimo tanto que entrego a la muerte de cruz a su propio y unico hijo para rescatarla del abismo de perdicion hasta ahora cristo habia comparado el reino de los cielos a cosas pequenas semilla grano mostaza levadura pero ahora la compara a dos cosas de gran valor tesoro perla mateo 13 44 45 el tesoro escondido es la bendicion que supone servir a cristo y ser subdito sujeto a la autoridad del reino de los cielos este tesoro esta escondido a los ojos de la carne pero aquellos cuyos ojos espirituales han sido iluminados por el espiritu santo efesios 1 18 ven el tesoro juan 3 3 y se apresuran dar prisa acelerar a adquirirlo no esta escondido en un huerto cerrado sino en un campo alli esta esta mina de oro todo el que quiera puede llegarse a ella y sacar provecho y tu que lo haces con tal que vaya por el camino recto y emplear el metodo correcto gran cosa es descubrir este tesoro y el inmenso valor que encierra para los inconversos la palabra es un libro mas pero quienes se llegan a la escritura con las debidas disposiciones encuentran en ella un tesoro inagotable cristo y la vida eterna juan 5 39 quienes disciernen bien el valor de este tesoro no paran hasta que lo han conseguido llenos de alegria pagan cualquier precio por tenerlo tu lo has hecho en comparacion con el todo lo demas no tiene valor alguno filipenses 3 7 8 pablo dice cuantas cosas eran para mi ganancia las he estimado como perdida por amor de cristo por amor del cual lo he perdido todo y lo tengo por basura para ganar a cristo no es de extranar que el gran apostol corriera como un campeon olimpico para obtener la mejor marca 1 corintios 9 24 27 filipenses 3 13 14 mateo 6 19 20 y no es mayor locura dejar pasar las oportunidades de hacer acopio provision almacenamiento de ese tesoro que se acumula en el cielo en el cielo nadie te puede robar ese almacenamiento del tesoro que has hecho para el cielo buenas obras tu busqueda para con el senor ese crecimiento los frutos todo lo que es del cielo lo espiritual mateo 13 53 Jesus vuelve a los suyos tenia juan 1 11 un afecto especial divino y humano a su propia patria el tratamiento que ahora recibio fue similar al anterior como expresaron el desprecio que sentian hacia el les ensenaba en la sinagoga de ellos de tal manera que se quedaban maravillados sorprendido asombrado pasmado de que se atreviera a ensenar en publico su falta de educacion de donde tiene este esta sabiduria y estos milagros a juicio perspicaz distinguir comprender sabian que era sabio para ensenar y poderoso para obrar milagros como las personas viles llenas de celo y prejuicios estan siempre prestas a juzgar a otras no por su sabiduria sino por sus titulos academicos no por sus razones sino por su alcurnia y posicion social mateo 13 55 56 la baja condicion social de su parentela le echan en cara el oficio de su padre legal no es este el hijo del carpintero este carpintero era de la casa de david lucas 1 27 hijo de david 3 32 aunque carpintero era de noble linaje aquellos espiritus sordidos sucio impuro no tenian ninguna consideracion con la rama o raiz familiar ni siquiera con la vara del tronco de isai isaias 11 1 le echaban tambien en cara la condicion modesta de su madre no se llama su madre maria si es cierto que era un nombre bastante comun y todos sabian que era una mujer modesta y humilde lucas 1 48 pero esto no era ningun desdoro manda pues los seres humanos no se miden por sus titulos esplendidos ni por su exterior sino por la santidad de su vida y la nobleza de su caracter tambien le echaban en cara la condicion de sus hermanos cuyos nombres conocian bien y por su condicion modesta los despreciaban y a Jesus tambien por tener tales familiares jacobo jose simon y judas los conocian y se escandalizaban disgusto molestaban asombro mostrar indignacion encenderse en colera de el cuando debian apreciarle mas y estar orgullosos de el por ser paisano del mismo pais de ellos y poseer tales cualidades amen",
+    "alias_busqueda": [
+      "Estudio 1362",
+      "Mateo",
+      "Mateo 13",
+      "Mateo 13:53-58",
+      "vida eterna",
+      "santidad",
+      "juicio",
+      "arrepentimiento",
+      "Sabiduría espiritual"
+    ]
+  },
+  "revision_manual": {
+    "requiere_revision": false,
+    "motivo": ""
+  },
+  "ui": {
+    "mostrar_credito_en_header": true,
+    "mostrar_numero_estudio": true,
+    "mostrar_fecha": true,
+    "mostrar_topicos": true,
+    "permitir_favorito": true,
+    "permitir_compartir": true
+  }
+}

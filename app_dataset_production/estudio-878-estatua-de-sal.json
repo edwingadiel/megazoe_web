@@ -1,0 +1,271 @@
+{
+  "id": "estudio-878-estatua-de-sal",
+  "slug": "estudio-878-estatua-de-sal",
+  "numero_estudio": 878,
+  "tipo_estudio": "Iglesia en las casas",
+  "ministerio": {
+    "iglesia": "Iglesia Cristiana Mega Zoe",
+    "pastora": "Pastora Edith Cruz",
+    "credito_corto": "Iglesia Cristiana Mega Zoe · Pastora Edith Cruz",
+    "credito_largo": "Contenido original de Iglesia Cristiana Mega Zoe, conservando el crédito ministerial correspondiente a la Pastora Edith Cruz."
+  },
+  "identidad_editorial": {
+    "idioma": "es",
+    "fuente_original": "documento_word",
+    "archivo_origen": "/Users/edwingadiel/Desktop/Estudios en Word/Estudio #878 Estatua de sal - Génesis 19 22-26.docx",
+    "estado_revision": "procesado",
+    "version_schema": "1.0"
+  },
+  "encabezado": {
+    "titulo": "Estatua De Sal",
+    "subtitulo": null,
+    "cita_principal": "Génesis 19:22-26",
+    "resumen_corto": "Estatua De Sal enseña a cuidar la vida del hogar delante de Dios y recuperar el primer amor."
+  },
+  "fechas": {
+    "fecha_inicio": null,
+    "fecha_fin": null,
+    "fecha_texto_original": "",
+    "ano": null
+  },
+  "clasificacion_biblica": {
+    "libro_principal": "Génesis",
+    "capitulo_principal": 19,
+    "versiculos_principales": [
+      22,
+      23,
+      24,
+      25,
+      26
+    ],
+    "referencia_principal_normalizada": "Génesis 19:22-26",
+    "testamento_principal": "Antiguo Testamento"
+  },
+  "clasificacion_tematica": {
+    "topicos": [
+      "Justicia de Dios",
+      "Familia",
+      "Obediencia",
+      "Amor de Dios"
+    ],
+    "keywords": [
+      "arrepentimiento",
+      "perseverancia",
+      "mundo",
+      "fuego",
+      "apostasia"
+    ]
+  },
+  "referencias_biblicas": [
+    {
+      "referencia": "Génesis 19:22-26",
+      "referencia_normalizada": "Génesis 19:22-26",
+      "libro": "Génesis",
+      "capitulo": 19,
+      "versiculos": [
+        22,
+        23,
+        24,
+        25,
+        26
+      ],
+      "tipo": "principal",
+      "clickeable": true
+    },
+    {
+      "referencia": "Génesis 13:5, 6",
+      "referencia_normalizada": "Génesis 13:5,6",
+      "libro": "Génesis",
+      "capitulo": 13,
+      "versiculos": [
+        5,
+        6
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Génesis 18: 17, 20, 21",
+      "referencia_normalizada": "Génesis 18:17,20,21",
+      "libro": "Génesis",
+      "capitulo": 18,
+      "versiculos": [
+        17,
+        20,
+        21
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Génesis 18:23, 24",
+      "referencia_normalizada": "Génesis 18:23,24",
+      "libro": "Génesis",
+      "capitulo": 18,
+      "versiculos": [
+        23,
+        24
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Génesis 18:32",
+      "referencia_normalizada": "Génesis 18:32",
+      "libro": "Génesis",
+      "capitulo": 18,
+      "versiculos": [
+        32
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Génesis 13:13",
+      "referencia_normalizada": "Génesis 13:13",
+      "libro": "Génesis",
+      "capitulo": 13,
+      "versiculos": [
+        13
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Génesis 19:24",
+      "referencia_normalizada": "Génesis 19:24",
+      "libro": "Génesis",
+      "capitulo": 19,
+      "versiculos": [
+        24
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Génesis 19:26",
+      "referencia_normalizada": "Génesis 19:26",
+      "libro": "Génesis",
+      "capitulo": 19,
+      "versiculos": [
+        26
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Lucas 17:32, 33",
+      "referencia_normalizada": "Lucas 17:32,33",
+      "libro": "Lucas",
+      "capitulo": 17,
+      "versiculos": [
+        32,
+        33
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Génesis 19:17",
+      "referencia_normalizada": "Génesis 19:17",
+      "libro": "Génesis",
+      "capitulo": 19,
+      "versiculos": [
+        17
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Filipenses 3:13, 14",
+      "referencia_normalizada": "Filipenses 3:13,14",
+      "libro": "Filipenses",
+      "capitulo": 3,
+      "versiculos": [
+        13,
+        14
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    }
+  ],
+  "contenido": {
+    "introduccion": null,
+    "secciones": [],
+    "contenido_completo": "Cada paso que uno da es para bien o para destrucción de la vida. Abraham había dejado a Lot que escogiera y tomara lo que él quisiera de las tierras de Canaán, pues ya no podían estar más juntos (Génesis 13:5, 6 \"También Lot, que andaba con Abram, tenía ovejas, vacas y tiendas. Y la tierra no era suficiente para que habitasen juntos, pues sus posesiones eran muchas y no podían morar en un mismo lugar.\"). Ni la pobreza, ni los esfuerzos, ni la escasez, ni el caminar de un lugar a otro en sus tareas los pudieron separar. Pero, las riquezas ¡sí pudieron separar a Abraham y a Lot! Sucedía que los siervos de éstos luchaban entre sí para conseguir los mejores pastos y aguas para los rebaños. Y antes de que se quebrase la paz entre Abraham y Lot, decidieron mejor separarse. Pero, aun así, Abraham seguiría siendo para Lot como su hermano mayor.\n\nLot se marchó en dirección de Sodoma y se quedó a vivir allí entre gente muy pecadora, PERO ABRAHAM SE MANTUVO CON Dios NO JUNTÁNDOSE CON NADIE. Sucedió que luego, Dios decidió destruir a la ciudad de Sodoma debido a sus abominables y múltiples pecados. Y allí estaba Lot con los suyos en aquella ciudad llena de maldad que estaba a punto de ser destruida por Dios. Lot se había descuidado él y a los suyos decidiendo vivir entre impíos, cosa que no hizo Abraham. Si los nuestros han de ser para el Señor deben ser cuidadosamente alimentados y criados procurando uno que sea en el mejor entorno espiritual. Si nuestros hijos o nietos tienen sus cosas del diario vivir, visten sus uniformes, tienen sus libros, etc. es por la bendición de Dios. Así que deben entenderlo bien conociendo al Señor, siendo enseñados y entrenados en todo lo que es \"Su obra.\" Lo que Lot ¡no hizo! Abraham enseñó y guió a su familia en sus creencias en Dios.\n\nAbraham se enteró de los planes de Dios de juzgar y destruir a Sodoma (Génesis 18: 17, 20, 21). Así que Abraham, queriendo librar de la muerte a Lot y a su la familia, le suplicó a Dios. Hace su súplica a Dios de la siguiente manera: Génesis 18:23, 24 \"Y se acercó Abraham y dijo: ¿Destruirás también al justo con el impío? Quizá haya CINCUENTA JUSTOS dentro de la ciudad: ¿destruirás también y no perdonarás al lugar por amor a los CINCUENTA JUSTOS que estén dentro de él? Y Dios le aceptó el pedido. Pero, Abraham insiste bajando el número hasta DIEZ. Génesis 18:32 \"Y volvió a decir: No se enoje ahora mi Señor, si hablare solamente una vez: quizá se hallarán allí DIEZ.\" Podía pensar Abraham que fueran diez lo que Lot tuviese de familia. Entendamos que no era que Lot no fuese un justo, lo que sucedió fue que dejó de enseñar del Dios que Abraham conocía muy bien y que también él conocía. ¡SE ACONDICIONÓ A LA MANERA DEL MUNDO!\n\nEnseñar no fue lo duro en su vida para con los suyos. Lot dejó pasar y pasar y fueron más fuertes los de Sodoma influenciando en los suyos que lo que él logró con sus creencias religiosas. Aquella generación de los de Sodoma eran malos y pecadores contra Dios (Génesis 13:13) Eran viles, pero para la mujer de Lot esto se le hizo familiar, aun las prácticas de ellos le fueron aceptables. Ella no aborrecía todo aquel mal que había en Sodoma. Génesis 19:24 \"Entonces Jehová hizo llover sobre Sodoma y sobre Gomorra azufre y fuego de parte de Jehová desde los cielos.\" Cuando Dios finalmente envió el castigo, Sodoma fue quemada y arruinada. El humo subía al cielo y cuando la mujer escapaba corriendo de la ciudad junto con Lot tuvo en ella como un \"lamento escondido.\" ¡Y MIRÓ ATRÁS! Génesis 19:26 \"Entonces la mujer de Lot miró atrás, a espaldas de él, y se volvió estatua de sal.\" Era el pecado oculto que había en ella; mientras estuvo antes en Sodoma no quería que nadie se enterara para no tener problemas. ¡Qué silencio hizo en su corazón! ¡Qué escondido tenía lo que ella deseaba! Claro, que Lot fue muy poco batallador como para dejarle ver a ella y a su familia su aborrecer por aquel pueblo lleno de pecado; los de Sodoma eran malos y pecadores contra Dios. (Génesis 13:13).\n\n\"Acordaos de la mujer de Lot. Todo el que procure salvar su vida, la perderá; y todo el que la pierda, la salvará.\" (Lucas 17:32, 33) Hay que disponer el corazón para perder la vida (la terrenal, la de este mundo pecador) para poder ganarla (la vida de Dios y eterna), porque el que la gane (la del mundo) la perderá (la de Dios y eterna). No se puede virar para buscar lo que hay en el mundo; los del mundo son malos y pecadores contra Dios. ¿Por qué ríes lo de ellos cuando debe haber distancia? Se le advierte al justo a que no se vuelva atrás de su justicia. La mujer de Lot miró atrás a espalda de él. Así desobedeció un mandamiento expreso (dicho de forma clara y abierta) Génesis 19:17 \"Y cuando los hubieron llevado fuera, dijeron: Escapa por tu vida; NO MIRES TRAS TI, ni pares en toda esta llanura; escapa al monte, no sea que perezcas.\" ¿Qué dejaba? ¿Sus bienes? El mirar atrás dejaba ver claro UNA INCLINACIÓN A VOLVERSE ATRÁS y por eso nuestro Salvador usa a la mujer de Lot como una ilustración que nos amonesta contra la apostasía de nuestra profesión cristiana.\n\nEn lo que a nosotros toca, hemos renunciado al mundo y a la carne y hemos \"afirmado nuestro rostro hacia el Cielo.\" Estamos como Lot y los suyos \"en la llanura\", en estado de prueba. Si nos volvemos atrás hacia los intereses que profesamos ya haber abandonado nos enfrentaremos a un gran peligro. ¡HAY CASTIGO PARA AQUELLOS QUE MIRAN ATRÁS! El castigo para la mujer de Lot: ¡SE VOLVIÓ ESTATUA DE SAL! El Señor no se hizo de la vista gorda ante su pecado de desobediencia sino que la convirtió en \"un monumento de amonestación para todos los que se vuelven a las cosas de atrás, a las cosas de este mundo.\" ¡Mirar atrás es algo tan peligroso! Extendámonos a lo que está delante, prosiguiendo hacia la meta. Queda claro en Filipenses 3:13, 14. \"Hermanos, yo mismo no pretendo haberlo ya alcanzado; pero una cosa hago: olvidando ciertamente lo que queda atrás, y extendiéndome a lo que está delante, prosigo a la meta, al premio del supremo llamamiento de Dios en Cristo Jesús.\" ¿Qué quedó atrás sino el pecado, la vergüenza y todo lo que era pérdida? No se compara en nada el mundo a ¡UN LLAMADO TAN SUPREMO DE Dios EN CRISTO! ¡Yo respondo a Su llamamiento para vivir mi vida santa! ¡No voy a ser una estatua de sal jamás! Amén.",
+    "contenido_renderizado": [
+      {
+        "tipo": "parrafo",
+        "texto": "Cada paso que uno da es para bien o para destrucción de la vida. Abraham había dejado a Lot que escogiera y tomara lo que él quisiera de las tierras de Canaán, pues ya no podían estar más juntos (Génesis 13:5, 6 \"También Lot, que andaba con Abram, tenía ovejas, vacas y tiendas. Y la tierra no era suficiente para que habitasen juntos, pues sus posesiones eran muchas y no podían morar en un mismo lugar.\"). Ni la pobreza, ni los esfuerzos, ni la escasez, ni el caminar de un lugar a otro en sus tareas los pudieron separar. Pero, las riquezas ¡sí pudieron separar a Abraham y a Lot! Sucedía que los siervos de éstos luchaban entre sí para conseguir los mejores pastos y aguas para los rebaños. Y antes de que se quebrase la paz entre Abraham y Lot, decidieron mejor separarse. Pero, aun así, Abraham seguiría siendo para Lot como su hermano mayor.",
+        "referencias_inline": [
+          "Génesis 13:5,6"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Lot se marchó en dirección de Sodoma y se quedó a vivir allí entre gente muy pecadora, PERO ABRAHAM SE MANTUVO CON Dios NO JUNTÁNDOSE CON NADIE. Sucedió que luego, Dios decidió destruir a la ciudad de Sodoma debido a sus abominables y múltiples pecados. Y allí estaba Lot con los suyos en aquella ciudad llena de maldad que estaba a punto de ser destruida por Dios. Lot se había descuidado él y a los suyos decidiendo vivir entre impíos, cosa que no hizo Abraham. Si los nuestros han de ser para el Señor deben ser cuidadosamente alimentados y criados procurando uno que sea en el mejor entorno espiritual. Si nuestros hijos o nietos tienen sus cosas del diario vivir, visten sus uniformes, tienen sus libros, etc. es por la bendición de Dios. Así que deben entenderlo bien conociendo al Señor, siendo enseñados y entrenados en todo lo que es \"Su obra.\" Lo que Lot ¡no hizo! Abraham enseñó y guió a su familia en sus creencias en Dios.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Abraham se enteró de los planes de Dios de juzgar y destruir a Sodoma (Génesis 18: 17, 20, 21). Así que Abraham, queriendo librar de la muerte a Lot y a su la familia, le suplicó a Dios. Hace su súplica a Dios de la siguiente manera: Génesis 18:23, 24 \"Y se acercó Abraham y dijo: ¿Destruirás también al justo con el impío? Quizá haya CINCUENTA JUSTOS dentro de la ciudad: ¿destruirás también y no perdonarás al lugar por amor a los CINCUENTA JUSTOS que estén dentro de él? Y Dios le aceptó el pedido. Pero, Abraham insiste bajando el número hasta DIEZ. Génesis 18:32 \"Y volvió a decir: No se enoje ahora mi Señor, si hablare solamente una vez: quizá se hallarán allí DIEZ.\" Podía pensar Abraham que fueran diez lo que Lot tuviese de familia. Entendamos que no era que Lot no fuese un justo, lo que sucedió fue que dejó de enseñar del Dios que Abraham conocía muy bien y que también él conocía. ¡SE ACONDICIONÓ A LA MANERA DEL MUNDO!",
+        "referencias_inline": [
+          "Génesis 18:17,20,21",
+          "Génesis 18:23,24",
+          "Génesis 18:32"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Enseñar no fue lo duro en su vida para con los suyos. Lot dejó pasar y pasar y fueron más fuertes los de Sodoma influenciando en los suyos que lo que él logró con sus creencias religiosas. Aquella generación de los de Sodoma eran malos y pecadores contra Dios (Génesis 13:13) Eran viles, pero para la mujer de Lot esto se le hizo familiar, aun las prácticas de ellos le fueron aceptables. Ella no aborrecía todo aquel mal que había en Sodoma. Génesis 19:24 \"Entonces Jehová hizo llover sobre Sodoma y sobre Gomorra azufre y fuego de parte de Jehová desde los cielos.\" Cuando Dios finalmente envió el castigo, Sodoma fue quemada y arruinada. El humo subía al cielo y cuando la mujer escapaba corriendo de la ciudad junto con Lot tuvo en ella como un \"lamento escondido.\" ¡Y MIRÓ ATRÁS! Génesis 19:26 \"Entonces la mujer de Lot miró atrás, a espaldas de él, y se volvió estatua de sal.\" Era el pecado oculto que había en ella; mientras estuvo antes en Sodoma no quería que nadie se enterara para no tener problemas. ¡Qué silencio hizo en su corazón! ¡Qué escondido tenía lo que ella deseaba! Claro, que Lot fue muy poco batallador como para dejarle ver a ella y a su familia su aborrecer por aquel pueblo lleno de pecado; los de Sodoma eran malos y pecadores contra Dios. (Génesis 13:13).",
+        "referencias_inline": [
+          "Génesis 13:13",
+          "Génesis 19:24",
+          "Génesis 19:26"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "\"Acordaos de la mujer de Lot. Todo el que procure salvar su vida, la perderá; y todo el que la pierda, la salvará.\" (Lucas 17:32, 33) Hay que disponer el corazón para perder la vida (la terrenal, la de este mundo pecador) para poder ganarla (la vida de Dios y eterna), porque el que la gane (la del mundo) la perderá (la de Dios y eterna). No se puede virar para buscar lo que hay en el mundo; los del mundo son malos y pecadores contra Dios. ¿Por qué ríes lo de ellos cuando debe haber distancia? Se le advierte al justo a que no se vuelva atrás de su justicia. La mujer de Lot miró atrás a espalda de él. Así desobedeció un mandamiento expreso (dicho de forma clara y abierta) Génesis 19:17 \"Y cuando los hubieron llevado fuera, dijeron: Escapa por tu vida; NO MIRES TRAS TI, ni pares en toda esta llanura; escapa al monte, no sea que perezcas.\" ¿Qué dejaba? ¿Sus bienes? El mirar atrás dejaba ver claro UNA INCLINACIÓN A VOLVERSE ATRÁS y por eso nuestro Salvador usa a la mujer de Lot como una ilustración que nos amonesta contra la apostasía de nuestra profesión cristiana.",
+        "referencias_inline": [
+          "Lucas 17:32,33",
+          "Génesis 19:17"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "En lo que a nosotros toca, hemos renunciado al mundo y a la carne y hemos \"afirmado nuestro rostro hacia el Cielo.\" Estamos como Lot y los suyos \"en la llanura\", en estado de prueba. Si nos volvemos atrás hacia los intereses que profesamos ya haber abandonado nos enfrentaremos a un gran peligro. ¡HAY CASTIGO PARA AQUELLOS QUE MIRAN ATRÁS! El castigo para la mujer de Lot: ¡SE VOLVIÓ ESTATUA DE SAL! El Señor no se hizo de la vista gorda ante su pecado de desobediencia sino que la convirtió en \"un monumento de amonestación para todos los que se vuelven a las cosas de atrás, a las cosas de este mundo.\" ¡Mirar atrás es algo tan peligroso! Extendámonos a lo que está delante, prosiguiendo hacia la meta. Queda claro en Filipenses 3:13, 14. \"Hermanos, yo mismo no pretendo haberlo ya alcanzado; pero una cosa hago: olvidando ciertamente lo que queda atrás, y extendiéndome a lo que está delante, prosigo a la meta, al premio del supremo llamamiento de Dios en Cristo Jesús.\" ¿Qué quedó atrás sino el pecado, la vergüenza y todo lo que era pérdida? No se compara en nada el mundo a ¡UN LLAMADO TAN SUPREMO DE Dios EN CRISTO! ¡Yo respondo a Su llamamiento para vivir mi vida santa! ¡No voy a ser una estatua de sal jamás! Amén.",
+        "referencias_inline": [
+          "Filipenses 3:13,14"
+        ]
+      }
+    ]
+  },
+  "busqueda": {
+    "texto_indexable": "estatua de sal genesis 19 22 26 justicia de Dios familia obediencia amor de Dios arrepentimiento perseverancia mundo fuego apostasia cada paso que uno da es para bien o para destruccion de la vida abraham habia dejado a lot que escogiera y tomara lo que el quisiera de las tierras de canaan pues ya no podian estar mas juntos genesis 13 5 6 tambien lot que andaba con abram tenia ovejas vacas y tiendas y la tierra no era suficiente para que habitasen juntos pues sus posesiones eran muchas y no podian morar en un mismo lugar ni la pobreza ni los esfuerzos ni la escasez ni el caminar de un lugar a otro en sus tareas los pudieron separar pero las riquezas si pudieron separar a abraham y a lot sucedia que los siervos de estos luchaban entre si para conseguir los mejores pastos y aguas para los rebanos y antes de que se quebrase la paz entre abraham y lot decidieron mejor separarse pero aun asi abraham seguiria siendo para lot como su hermano mayor lot se marcho en direccion de sodoma y se quedo a vivir alli entre gente muy pecadora pero abraham se mantuvo con Dios no juntandose con nadie sucedio que luego Dios decidio destruir a la ciudad de sodoma debido a sus abominables y multiples pecados y alli estaba lot con los suyos en aquella ciudad llena de maldad que estaba a punto de ser destruida por Dios lot se habia descuidado el y a los suyos decidiendo vivir entre impios cosa que no hizo abraham si los nuestros han de ser para el senor deben ser cuidadosamente alimentados y criados procurando uno que sea en el mejor entorno espiritual si nuestros hijos o nietos tienen sus cosas del diario vivir visten sus uniformes tienen sus libros etc es por la bendicion de Dios asi que deben entenderlo bien conociendo al senor siendo ensenados y entrenados en todo lo que es su obra lo que lot no hizo abraham enseno y guio a su familia en sus creencias en Dios abraham se entero de los planes de Dios de juzgar y destruir a sodoma genesis 18 17 20 21 asi que abraham queriendo librar de la muerte a lot y a su la familia le suplico a Dios hace su suplica a Dios de la siguiente manera genesis 18 23 24 y se acerco abraham y dijo destruiras tambien al justo con el impio quiza haya cincuenta justos dentro de la ciudad destruiras tambien y no perdonaras al lugar por amor a los cincuenta justos que esten dentro de el y Dios le acepto el pedido pero abraham insiste bajando el numero hasta diez genesis 18 32 y volvio a decir no se enoje ahora mi senor si hablare solamente una vez quiza se hallaran alli diez podia pensar abraham que fueran diez lo que lot tuviese de familia entendamos que no era que lot no fuese un justo lo que sucedio fue que dejo de ensenar del Dios que abraham conocia muy bien y que tambien el conocia se acondiciono a la manera del mundo ensenar no fue lo duro en su vida para con los suyos lot dejo pasar y pasar y fueron mas fuertes los de sodoma influenciando en los suyos que lo que el logro con sus creencias religiosas aquella generacion de los de sodoma eran malos y pecadores contra Dios genesis 13 13 eran viles pero para la mujer de lot esto se le hizo familiar aun las practicas de ellos le fueron aceptables ella no aborrecia todo aquel mal que habia en sodoma genesis 19 24 entonces jehova hizo llover sobre sodoma y sobre gomorra azufre y fuego de parte de jehova desde los cielos cuando Dios finalmente envio el castigo sodoma fue quemada y arruinada el humo subia al cielo y cuando la mujer escapaba corriendo de la ciudad junto con lot tuvo en ella como un lamento escondido y miro atras genesis 19 26 entonces la mujer de lot miro atras a espaldas de el y se volvio estatua de sal era el pecado oculto que habia en ella mientras estuvo antes en sodoma no queria que nadie se enterara para no tener problemas que silencio hizo en su corazon que escondido tenia lo que ella deseaba claro que lot fue muy poco batallador como para dejarle ver a ella y a su familia su aborrecer por aquel pueblo lleno de pecado los de sodoma eran malos y pecadores contra Dios genesis 13 13 acordaos de la mujer de lot todo el que procure salvar su vida la perdera y todo el que la pierda la salvara lucas 17 32 33 hay que disponer el corazon para perder la vida la terrenal la de este mundo pecador para poder ganarla la vida de Dios y eterna porque el que la gane la del mundo la perdera la de Dios y eterna no se puede virar para buscar lo que hay en el mundo los del mundo son malos y pecadores contra Dios por que ries lo de ellos cuando debe haber distancia se le advierte al justo a que no se vuelva atras de su justicia la mujer de lot miro atras a espalda de el asi desobedecio un mandamiento expreso dicho de forma clara y abierta genesis 19 17 y cuando los hubieron llevado fuera dijeron escapa por tu vida no mires tras ti ni pares en toda esta llanura escapa al monte no sea que perezcas que dejaba sus bienes el mirar atras dejaba ver claro una inclinacion a volverse atras y por eso nuestro salvador usa a la mujer de lot como una ilustracion que nos amonesta contra la apostasia de nuestra profesion cristiana en lo que a nosotros toca hemos renunciado al mundo y a la carne y hemos afirmado nuestro rostro hacia el cielo estamos como lot y los suyos en la llanura en estado de prueba si nos volvemos atras hacia los intereses que profesamos ya haber abandonado nos enfrentaremos a un gran peligro hay castigo para aquellos que miran atras el castigo para la mujer de lot se volvio estatua de sal el senor no se hizo de la vista gorda ante su pecado de desobediencia sino que la convirtio en un monumento de amonestacion para todos los que se vuelven a las cosas de atras a las cosas de este mundo mirar atras es algo tan peligroso extendamonos a lo que esta delante prosiguiendo hacia la meta queda claro en filipenses 3 13 14 hermanos yo mismo no pretendo haberlo ya alcanzado pero una cosa hago olvidando ciertamente lo que queda atras y extendiendome a lo que esta delante prosigo a la meta al premio del supremo llamamiento de Dios en cristo Jesus que quedo atras sino el pecado la verguenza y todo lo que era perdida no se compara en nada el mundo a un llamado tan supremo de Dios en cristo yo respondo a su llamamiento para vivir mi vida santa no voy a ser una estatua de sal jamas amen",
+    "alias_busqueda": [
+      "Estatua De Sal",
+      "Génesis",
+      "Génesis 19",
+      "Génesis 19:22-26",
+      "arrepentimiento",
+      "perseverancia",
+      "mundo",
+      "fuego",
+      "Justicia de Dios",
+      "Familia"
+    ]
+  },
+  "revision_manual": {
+    "requiere_revision": false,
+    "motivo": ""
+  },
+  "ui": {
+    "mostrar_credito_en_header": true,
+    "mostrar_numero_estudio": true,
+    "mostrar_fecha": true,
+    "mostrar_topicos": true,
+    "permitir_favorito": true,
+    "permitir_compartir": true
+  }
+}

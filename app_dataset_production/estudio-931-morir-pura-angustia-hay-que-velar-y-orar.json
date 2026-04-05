@@ -1,0 +1,318 @@
+{
+  "id": "estudio-931-morir-pura-angustia-hay-que-velar-y-orar",
+  "slug": "estudio-931-morir-pura-angustia-hay-que-velar-y-orar",
+  "numero_estudio": 931,
+  "tipo_estudio": "Iglesia en las casas",
+  "ministerio": {
+    "iglesia": "Iglesia Cristiana Mega Zoe",
+    "pastora": "Pastora Edith Cruz",
+    "credito_corto": "Iglesia Cristiana Mega Zoe · Pastora Edith Cruz",
+    "credito_largo": "Contenido original de Iglesia Cristiana Mega Zoe, conservando el crédito ministerial correspondiente a la Pastora Edith Cruz."
+  },
+  "identidad_editorial": {
+    "idioma": "es",
+    "fuente_original": "documento_word",
+    "archivo_origen": "/Users/edwingadiel/Desktop/Estudios en Word/Estudio #931 Morir, Pura Angustia, Hay Que Velar Y Orar - Mateo 26 36-46.docx",
+    "estado_revision": "procesado",
+    "version_schema": "1.0"
+  },
+  "encabezado": {
+    "titulo": "Morir, Pura Angustia, Hay Que Velar Y Orar",
+    "subtitulo": null,
+    "cita_principal": "Mateo 26:36-46",
+    "resumen_corto": "Morir, Pura Angustia, Hay Que Velar Y Orar llama a perseverar en la oración y permanecer como discípulos de Jesús."
+  },
+  "fechas": {
+    "fecha_inicio": null,
+    "fecha_fin": null,
+    "fecha_texto_original": "",
+    "ano": null
+  },
+  "clasificacion_biblica": {
+    "libro_principal": "Mateo",
+    "capitulo_principal": 26,
+    "versiculos_principales": [
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46
+    ],
+    "referencia_principal_normalizada": "Mateo 26:36-46",
+    "testamento_principal": "Nuevo Testamento"
+  },
+  "clasificacion_tematica": {
+    "topicos": [
+      "Oración",
+      "Discipulado",
+      "Tentación"
+    ],
+    "keywords": [
+      "voluntad de Dios",
+      "santidad",
+      "oración",
+      "arrepentimiento",
+      "perseverancia"
+    ]
+  },
+  "referencias_biblicas": [
+    {
+      "referencia": "Mateo 26:36-46",
+      "referencia_normalizada": "Mateo 26:36-46",
+      "libro": "Mateo",
+      "capitulo": 26,
+      "versiculos": [
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46
+      ],
+      "tipo": "principal",
+      "clickeable": true
+    },
+    {
+      "referencia": "Mateo 26:36",
+      "referencia_normalizada": "Mateo 26:36",
+      "libro": "Mateo",
+      "capitulo": 26,
+      "versiculos": [
+        36
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Mateo 26:37",
+      "referencia_normalizada": "Mateo 26:37",
+      "libro": "Mateo",
+      "capitulo": 26,
+      "versiculos": [
+        37
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Mateo 26:40, 41",
+      "referencia_normalizada": "Mateo 26:40,41",
+      "libro": "Mateo",
+      "capitulo": 26,
+      "versiculos": [
+        40,
+        41
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Mateo 26:38",
+      "referencia_normalizada": "Mateo 26:38",
+      "libro": "Mateo",
+      "capitulo": 26,
+      "versiculos": [
+        38
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Génesis 2:18",
+      "referencia_normalizada": "Génesis 2:18",
+      "libro": "Génesis",
+      "capitulo": 2,
+      "versiculos": [
+        18
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Mateo 26:35",
+      "referencia_normalizada": "Mateo 26:35",
+      "libro": "Mateo",
+      "capitulo": 26,
+      "versiculos": [
+        35
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Mateo 26:40",
+      "referencia_normalizada": "Mateo 26:40",
+      "libro": "Mateo",
+      "capitulo": 26,
+      "versiculos": [
+        40
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Gálatas 1:4",
+      "referencia_normalizada": "Gálatas 1:4",
+      "libro": "Gálatas",
+      "capitulo": 1,
+      "versiculos": [
+        4
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Juan 12:27-28",
+      "referencia_normalizada": "Juan 12:27-28",
+      "libro": "Juan",
+      "capitulo": 12,
+      "versiculos": [
+        27,
+        28
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Marcos 14:43",
+      "referencia_normalizada": "Marcos 14:43",
+      "libro": "Marcos",
+      "capitulo": 14,
+      "versiculos": [
+        43
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Mateo 26:41",
+      "referencia_normalizada": "Mateo 26:41",
+      "libro": "Mateo",
+      "capitulo": 26,
+      "versiculos": [
+        41
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Juan 18:10",
+      "referencia_normalizada": "Juan 18:10",
+      "libro": "Juan",
+      "capitulo": 18,
+      "versiculos": [
+        10
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Mateo 26:53",
+      "referencia_normalizada": "Mateo 26:53",
+      "libro": "Mateo",
+      "capitulo": 26,
+      "versiculos": [
+        53
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    }
+  ],
+  "contenido": {
+    "introduccion": null,
+    "secciones": [],
+    "contenido_completo": "El Señor Jesús llegó con sus discípulos hasta el huerto de Getsemaní, Él quería ir allí a orar (\"Entonces llegó Jesús con ellos a un lugar que se llama Getsemaní y dijo a sus discípulos: Sentaos aquí entre tanto que voy allí y oro.\" Mateo 26:36). En su oración había tristeza y angustia. Jesús le decía al Padre en su ruego: \"No lo que yo quiera sino lo que quieras Tú (Vs. 39).\" Mateo 26:37 \"Y tomando a Pedro, y a los dos hijos de Zebedeo, comenzó a entristecerse y a angustiarse en gran manera.\" Les dijo a Pedro, a Jacobo y a Juan: \"Manteneos despiertos y en oración no sea que os sorprenda la prueba.\" Pero, \"Vino luego a sus discípulos y los halló durmiendo y dijo a Pedro: ¿Así que no habéis podido velar conmigo una hora? Velad y orad para que no entréis en tentación; el espíritu a la verdad está dispuesto pero la carne es débil.\" Mateo 26:40, 41.\" Ellos tenían los ojos cargados de sueño (Vs. 43) y VENÍA LO PEOR; ¿por qué no se podían preparar para lo que venía? Pero, \"Ahora duerman que \"llegó la hora\" (Vs. 45).\" La pregunta es: ¿Cómo enfrentarán esto ahora? ¿Cómo valientes o cómo decaídos? ¿En miedo, en quejas? Tenían que velar en oración.\n\nEntremos más a fondo en la agonía de Jesús. Hablamos de nuestro Jesús, quien pasó todo aquel sufrimiento hasta la muerte de cruz y por haber resucitado TE HA REGALADO LA PAZ. Vemos que Jesús necesitaba en aquel momento difícil la compañía de sus discípulos (\"…quedaos aquí, y velad conmigo.\" Mateo 26:38). Ellos ya debían saber que había que orar para enfrentarse a lo que venía. Es que ese era el momento final y le tocaba al Señor Jesús hacer la voluntad del Padre, Él ya había cumplido todo, pero ahora era lo difícil, su muerte, la cruz. ¡Necesitaba la compañía del Dios Todopoderoso! En momentos de angustia queremos tener a alguien con nosotros. No nos pueden tocar las cosas a nosotros solos (Génesis 2:18). No es que queramos que otro haga nada en particular para nosotros, ni tampoco que nosotros queramos decirle nada ni que nos hable. Iglesia, solamente y simplemente lo que queremos es que alguien esté con nosotros. Ni siquiera velaron con Jesús una hora, pues se durmieron. Se durmieron aquellos que estaban dispuestos a morir por Él (Mateo 26:35 \"Pedro le dijo: Aunque me sea necesario morir contigo, no te negaré. Y todos los discípulos dijeron lo mismo.\"). (\"Vino luego a sus discípulos y los halló durmiendo y dijo a Pedro: ¿Así que no habéis podido velar conmigo una hora?\" Mateo 26:40) Aquel era el tiempo de Jesús pasar a ser una ofrenda por los pecados nuestros (2 Co 5:21; Gálatas 1:4). El señor Jesús vivió y murió en la cruz sin pecado para ser hecho pecado por nosotros, pagando tan enorme precio para darnos paz y salvación.\n\nJuan 12:27-28 \"Ahora está turbada mi alma; ¿y qué diré? ¿Padre, sálvame de esta hora? Más para esto he llegado a esta hora. Padre, glorifica tu nombre.\" Creo que el silencio más violento que ha habido en el cielo fue ese gran día. \"Entonces vino una voz del cielo: Lo he glorificado, y lo glorificaré otra vez.\" Dios pone su nombre siempre en alto. Libertarnos de nuestra miseria como humanos pesó más que la agonía del Señor. Jesús sufrió el cruel dolor y la terrible muerte de ser crucificado y se levantó al tercer día victorioso, así derrotó al enemigo y ¡su nombre siempre será glorificado!\n\nAllí llegaba Judas, el traidor. Había escogió usar el más terrible de los signos: un beso. El beso es señal de respeto y afecto; pero el de Judas a Jesús no fue un beso respetuoso, fue uno de traición. Como era Judas así era la chusma que le acompañaba y que fue enviada para arrestar a Jesús (Marcos 14:43 \"Luego, hablando Él aún, vino Judas, que era uno de los doce y con él mucha gente con espadas y palos de parte de los principales sacerdotes y de los escribas y de los ancianos. Y el que le entregaba les había dado señal, diciendo: Al que yo besare, ése es; prendedle y llevadle con seguridad.\"). ¡Venían con palos y espadas! Judas, ¿quién te dijo que era necesario buscar a Jesús de esa manera?\n\nEl contraste es este: sus enemigos estaban esperando con ansias para arrestarlo y se encontraban velando bien despiertos para caerle encima y apresarlo, sin embargo, sus discípulos que debían haber velado con Él, ¡SE DURMIERON! Al parecer a los discípulos le fallaron los nervios, tenían miedo de compartir la suerte de Jesús, así es que ¡HUYERON! Jesús los quería tener cerca, a ellos no les habría de pasar nada. Cuando Judas llegó ya Jesús estaba sereno, su clamor, su agonía y oración en el huerto ya había pasado y ya tenía la paz del que sabe que está siguiendo la voluntad de Dios.\n\nMateo 26:41 \"Velad y orad, para que no entréis en tentación; el espíritu a la verdad está dispuesto, pero la carne es débil.\" Pedro debía orar para no caer en tentación, no pudo con su desesperación (Juan 18:10 \"Entonces Simón Pedro, que tenía una espada, la desenvainó e hirió al siervo del sumo sacerdote y le cortó la oreja derecha.\") Mateo 26:53 \"¿Acaso piensas que no puedo ahora orar a mi Padre y que Él no me daría más de doce legiones de ángeles? Pedro era para la compañía en la oración; Jesús no necesitaba que le protegiera. Pero, ninguno, ni Pedro, ni Juan, ni Jacobo pudieron orar; Jesús esperaba más de ellos. No era para que estuvieran de guardia toda la noche, solo era para acompañarlo en oración UNA HORA, es lo que Dios espera, no es todo el día; solo ¡UNA HORA! ¿Tan larga es una hora? ¿Es mucho una hora, cuándo se pasa todo un día en la casa, en el trabajo, en las tiendas, en juegos, etc.?\n\nSe ora para no caer en tentación; porque hay debilidad, la carne es débil. ¡Descúbrelo, el Espíritu lo anhela! El orar es porque hay que levantarse a enfrentar lo que viene, oramos y vamos al encuentro del peligro. Es necio el ponernos a dormir cuando debiéramos usar el tiempo en oración para prepararnos. Ellos no estaban bien dispuestos por no orar, por eso les entraría el pánico. ¡En vez de tener ánimo Pedro le negó tres veces! Aprendamos del dolor y de la angustia del Señor, de todo lo que tuvo que pasar hasta la muerte por nosotros, aprendamos de Él y de lo que pedía hacer a sus discípulos, aprendamos a VELAR Y ORAR. Amén.",
+    "contenido_renderizado": [
+      {
+        "tipo": "parrafo",
+        "texto": "El Señor Jesús llegó con sus discípulos hasta el huerto de Getsemaní, Él quería ir allí a orar (\"Entonces llegó Jesús con ellos a un lugar que se llama Getsemaní y dijo a sus discípulos: Sentaos aquí entre tanto que voy allí y oro.\" Mateo 26:36). En su oración había tristeza y angustia. Jesús le decía al Padre en su ruego: \"No lo que yo quiera sino lo que quieras Tú (Vs. 39).\" Mateo 26:37 \"Y tomando a Pedro, y a los dos hijos de Zebedeo, comenzó a entristecerse y a angustiarse en gran manera.\" Les dijo a Pedro, a Jacobo y a Juan: \"Manteneos despiertos y en oración no sea que os sorprenda la prueba.\" Pero, \"Vino luego a sus discípulos y los halló durmiendo y dijo a Pedro: ¿Así que no habéis podido velar conmigo una hora? Velad y orad para que no entréis en tentación; el espíritu a la verdad está dispuesto pero la carne es débil.\" Mateo 26:40, 41.\" Ellos tenían los ojos cargados de sueño (Vs. 43) y VENÍA LO PEOR; ¿por qué no se podían preparar para lo que venía? Pero, \"Ahora duerman que \"llegó la hora\" (Vs. 45).\" La pregunta es: ¿Cómo enfrentarán esto ahora? ¿Cómo valientes o cómo decaídos? ¿En miedo, en quejas? Tenían que velar en oración.",
+        "referencias_inline": [
+          "Mateo 26:36",
+          "Mateo 26:37",
+          "Mateo 26:40,41"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Entremos más a fondo en la agonía de Jesús. Hablamos de nuestro Jesús, quien pasó todo aquel sufrimiento hasta la muerte de cruz y por haber resucitado TE HA REGALADO LA PAZ. Vemos que Jesús necesitaba en aquel momento difícil la compañía de sus discípulos (\"…quedaos aquí, y velad conmigo.\" Mateo 26:38). Ellos ya debían saber que había que orar para enfrentarse a lo que venía. Es que ese era el momento final y le tocaba al Señor Jesús hacer la voluntad del Padre, Él ya había cumplido todo, pero ahora era lo difícil, su muerte, la cruz. ¡Necesitaba la compañía del Dios Todopoderoso! En momentos de angustia queremos tener a alguien con nosotros. No nos pueden tocar las cosas a nosotros solos (Génesis 2:18). No es que queramos que otro haga nada en particular para nosotros, ni tampoco que nosotros queramos decirle nada ni que nos hable. Iglesia, solamente y simplemente lo que queremos es que alguien esté con nosotros. Ni siquiera velaron con Jesús una hora, pues se durmieron. Se durmieron aquellos que estaban dispuestos a morir por Él (Mateo 26:35 \"Pedro le dijo: Aunque me sea necesario morir contigo, no te negaré. Y todos los discípulos dijeron lo mismo.\"). (\"Vino luego a sus discípulos y los halló durmiendo y dijo a Pedro: ¿Así que no habéis podido velar conmigo una hora?\" Mateo 26:40) Aquel era el tiempo de Jesús pasar a ser una ofrenda por los pecados nuestros (2 Co 5:21; Gálatas 1:4). El señor Jesús vivió y murió en la cruz sin pecado para ser hecho pecado por nosotros, pagando tan enorme precio para darnos paz y salvación.",
+        "referencias_inline": [
+          "Mateo 26:38",
+          "Génesis 2:18",
+          "Mateo 26:35",
+          "Mateo 26:40",
+          "Gálatas 1:4"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Juan 12:27-28 \"Ahora está turbada mi alma; ¿y qué diré? ¿Padre, sálvame de esta hora? Más para esto he llegado a esta hora. Padre, glorifica tu nombre.\" Creo que el silencio más violento que ha habido en el cielo fue ese gran día. \"Entonces vino una voz del cielo: Lo he glorificado, y lo glorificaré otra vez.\" Dios pone su nombre siempre en alto. Libertarnos de nuestra miseria como humanos pesó más que la agonía del Señor. Jesús sufrió el cruel dolor y la terrible muerte de ser crucificado y se levantó al tercer día victorioso, así derrotó al enemigo y ¡su nombre siempre será glorificado!",
+        "referencias_inline": [
+          "Juan 12:27-28"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Allí llegaba Judas, el traidor. Había escogió usar el más terrible de los signos: un beso. El beso es señal de respeto y afecto; pero el de Judas a Jesús no fue un beso respetuoso, fue uno de traición. Como era Judas así era la chusma que le acompañaba y que fue enviada para arrestar a Jesús (Marcos 14:43 \"Luego, hablando Él aún, vino Judas, que era uno de los doce y con él mucha gente con espadas y palos de parte de los principales sacerdotes y de los escribas y de los ancianos. Y el que le entregaba les había dado señal, diciendo: Al que yo besare, ése es; prendedle y llevadle con seguridad.\"). ¡Venían con palos y espadas! Judas, ¿quién te dijo que era necesario buscar a Jesús de esa manera?",
+        "referencias_inline": [
+          "Marcos 14:43"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "El contraste es este: sus enemigos estaban esperando con ansias para arrestarlo y se encontraban velando bien despiertos para caerle encima y apresarlo, sin embargo, sus discípulos que debían haber velado con Él, ¡SE DURMIERON! Al parecer a los discípulos le fallaron los nervios, tenían miedo de compartir la suerte de Jesús, así es que ¡HUYERON! Jesús los quería tener cerca, a ellos no les habría de pasar nada. Cuando Judas llegó ya Jesús estaba sereno, su clamor, su agonía y oración en el huerto ya había pasado y ya tenía la paz del que sabe que está siguiendo la voluntad de Dios.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Mateo 26:41 \"Velad y orad, para que no entréis en tentación; el espíritu a la verdad está dispuesto, pero la carne es débil.\" Pedro debía orar para no caer en tentación, no pudo con su desesperación (Juan 18:10 \"Entonces Simón Pedro, que tenía una espada, la desenvainó e hirió al siervo del sumo sacerdote y le cortó la oreja derecha.\") Mateo 26:53 \"¿Acaso piensas que no puedo ahora orar a mi Padre y que Él no me daría más de doce legiones de ángeles? Pedro era para la compañía en la oración; Jesús no necesitaba que le protegiera. Pero, ninguno, ni Pedro, ni Juan, ni Jacobo pudieron orar; Jesús esperaba más de ellos. No era para que estuvieran de guardia toda la noche, solo era para acompañarlo en oración UNA HORA, es lo que Dios espera, no es todo el día; solo ¡UNA HORA! ¿Tan larga es una hora? ¿Es mucho una hora, cuándo se pasa todo un día en la casa, en el trabajo, en las tiendas, en juegos, etc.?",
+        "referencias_inline": [
+          "Mateo 26:41",
+          "Juan 18:10",
+          "Mateo 26:53"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Se ora para no caer en tentación; porque hay debilidad, la carne es débil. ¡Descúbrelo, el Espíritu lo anhela! El orar es porque hay que levantarse a enfrentar lo que viene, oramos y vamos al encuentro del peligro. Es necio el ponernos a dormir cuando debiéramos usar el tiempo en oración para prepararnos. Ellos no estaban bien dispuestos por no orar, por eso les entraría el pánico. ¡En vez de tener ánimo Pedro le negó tres veces! Aprendamos del dolor y de la angustia del Señor, de todo lo que tuvo que pasar hasta la muerte por nosotros, aprendamos de Él y de lo que pedía hacer a sus discípulos, aprendamos a VELAR Y ORAR. Amén.",
+        "referencias_inline": []
+      }
+    ]
+  },
+  "busqueda": {
+    "texto_indexable": "morir pura angustia hay que velar y orar mateo 26 36 46 oracion discipulado tentacion voluntad de Dios santidad oracion arrepentimiento perseverancia el senor Jesus llego con sus discipulos hasta el huerto de getsemani el queria ir alli a orar entonces llego Jesus con ellos a un lugar que se llama getsemani y dijo a sus discipulos sentaos aqui entre tanto que voy alli y oro mateo 26 36 en su oracion habia tristeza y angustia Jesus le decia al padre en su ruego no lo que yo quiera sino lo que quieras tu vs 39 mateo 26 37 y tomando a pedro y a los dos hijos de zebedeo comenzo a entristecerse y a angustiarse en gran manera les dijo a pedro a jacobo y a juan manteneos despiertos y en oracion no sea que os sorprenda la prueba pero vino luego a sus discipulos y los hallo durmiendo y dijo a pedro asi que no habeis podido velar conmigo una hora velad y orad para que no entreis en tentacion el espiritu a la verdad esta dispuesto pero la carne es debil mateo 26 40 41 ellos tenian los ojos cargados de sueno vs 43 y venia lo peor por que no se podian preparar para lo que venia pero ahora duerman que llego la hora vs 45 la pregunta es como enfrentaran esto ahora como valientes o como decaidos en miedo en quejas tenian que velar en oracion entremos mas a fondo en la agonia de Jesus hablamos de nuestro Jesus quien paso todo aquel sufrimiento hasta la muerte de cruz y por haber resucitado te ha regalado la paz vemos que Jesus necesitaba en aquel momento dificil la compania de sus discipulos quedaos aqui y velad conmigo mateo 26 38 ellos ya debian saber que habia que orar para enfrentarse a lo que venia es que ese era el momento final y le tocaba al senor Jesus hacer la voluntad del padre el ya habia cumplido todo pero ahora era lo dificil su muerte la cruz necesitaba la compania del Dios todopoderoso en momentos de angustia queremos tener a alguien con nosotros no nos pueden tocar las cosas a nosotros solos genesis 2 18 no es que queramos que otro haga nada en particular para nosotros ni tampoco que nosotros queramos decirle nada ni que nos hable iglesia solamente y simplemente lo que queremos es que alguien este con nosotros ni siquiera velaron con Jesus una hora pues se durmieron se durmieron aquellos que estaban dispuestos a morir por el mateo 26 35 pedro le dijo aunque me sea necesario morir contigo no te negare y todos los discipulos dijeron lo mismo vino luego a sus discipulos y los hallo durmiendo y dijo a pedro asi que no habeis podido velar conmigo una hora mateo 26 40 aquel era el tiempo de Jesus pasar a ser una ofrenda por los pecados nuestros 2 co 5 21 galatas 1 4 el senor Jesus vivio y murio en la cruz sin pecado para ser hecho pecado por nosotros pagando tan enorme precio para darnos paz y salvacion juan 12 27 28 ahora esta turbada mi alma y que dire padre salvame de esta hora mas para esto he llegado a esta hora padre glorifica tu nombre creo que el silencio mas violento que ha habido en el cielo fue ese gran dia entonces vino una voz del cielo lo he glorificado y lo glorificare otra vez Dios pone su nombre siempre en alto libertarnos de nuestra miseria como humanos peso mas que la agonia del senor Jesus sufrio el cruel dolor y la terrible muerte de ser crucificado y se levanto al tercer dia victorioso asi derroto al enemigo y su nombre siempre sera glorificado alli llegaba judas el traidor habia escogio usar el mas terrible de los signos un beso el beso es senal de respeto y afecto pero el de judas a Jesus no fue un beso respetuoso fue uno de traicion como era judas asi era la chusma que le acompanaba y que fue enviada para arrestar a Jesus marcos 14 43 luego hablando el aun vino judas que era uno de los doce y con el mucha gente con espadas y palos de parte de los principales sacerdotes y de los escribas y de los ancianos y el que le entregaba les habia dado senal diciendo al que yo besare ese es prendedle y llevadle con seguridad venian con palos y espadas judas quien te dijo que era necesario buscar a Jesus de esa manera el contraste es este sus enemigos estaban esperando con ansias para arrestarlo y se encontraban velando bien despiertos para caerle encima y apresarlo sin embargo sus discipulos que debian haber velado con el se durmieron al parecer a los discipulos le fallaron los nervios tenian miedo de compartir la suerte de Jesus asi es que huyeron Jesus los queria tener cerca a ellos no les habria de pasar nada cuando judas llego ya Jesus estaba sereno su clamor su agonia y oracion en el huerto ya habia pasado y ya tenia la paz del que sabe que esta siguiendo la voluntad de Dios mateo 26 41 velad y orad para que no entreis en tentacion el espiritu a la verdad esta dispuesto pero la carne es debil pedro debia orar para no caer en tentacion no pudo con su desesperacion juan 18 10 entonces simon pedro que tenia una espada la desenvaino e hirio al siervo del sumo sacerdote y le corto la oreja derecha mateo 26 53 acaso piensas que no puedo ahora orar a mi padre y que el no me daria mas de doce legiones de angeles pedro era para la compania en la oracion Jesus no necesitaba que le protegiera pero ninguno ni pedro ni juan ni jacobo pudieron orar Jesus esperaba mas de ellos no era para que estuvieran de guardia toda la noche solo era para acompanarlo en oracion una hora es lo que Dios espera no es todo el dia solo una hora tan larga es una hora es mucho una hora cuando se pasa todo un dia en la casa en el trabajo en las tiendas en juegos etc se ora para no caer en tentacion porque hay debilidad la carne es debil descubrelo el espiritu lo anhela el orar es porque hay que levantarse a enfrentar lo que viene oramos y vamos al encuentro del peligro es necio el ponernos a dormir cuando debieramos usar el tiempo en oracion para prepararnos ellos no estaban bien dispuestos por no orar por eso les entraria el panico en vez de tener animo pedro le nego tres veces aprendamos del dolor y de la angustia del senor de todo lo que tuvo que pasar hasta la muerte por nosotros aprendamos de el y de lo que pedia hacer a sus discipulos aprendamos a velar y orar amen",
+    "alias_busqueda": [
+      "Morir, Pura Angustia, Hay Que Velar Y Orar",
+      "Mateo",
+      "Mateo 26",
+      "Mateo 26:36-46",
+      "voluntad de Dios",
+      "santidad",
+      "oración",
+      "arrepentimiento",
+      "Discipulado"
+    ]
+  },
+  "revision_manual": {
+    "requiere_revision": false,
+    "motivo": ""
+  },
+  "ui": {
+    "mostrar_credito_en_header": true,
+    "mostrar_numero_estudio": true,
+    "mostrar_fecha": true,
+    "mostrar_topicos": true,
+    "permitir_favorito": true,
+    "permitir_compartir": true
+  }
+}

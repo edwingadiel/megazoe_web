@@ -1,0 +1,47 @@
+{
+  "updated_count": 4,
+  "remaining_suspicious_count": 0,
+  "updated": [
+    {
+      "archivo": "estudio-1010-cuidarte-de-ser-tibio-porque-conoces-parte-2.json",
+      "numero_estudio": 1010,
+      "titulo": "Cuidarte De Ser Tibio, Porque Conoces (Parte 2)",
+      "resumen_anterior": "Este estudio enseña a guardar la santidad.",
+      "resumen_nuevo": "Este estudio enseña a guardar la santidad y afirmar la redención en Cristo.",
+      "motivos": [
+        "editorial_refresh"
+      ]
+    },
+    {
+      "archivo": "estudio-946-jehova-quien-habitara-en-tu-tabernaculo.json",
+      "numero_estudio": 946,
+      "titulo": "Jehová, ¿Quién Habitará En Tu Tabernáculo?",
+      "resumen_anterior": "Este estudio enseña a vivir en santidad.",
+      "resumen_nuevo": "Este estudio enseña a vivir en santidad, fruto y rectitud delante de Dios.",
+      "motivos": [
+        "editorial_refresh"
+      ]
+    },
+    {
+      "archivo": "estudio-967-tentacion.json",
+      "numero_estudio": 967,
+      "titulo": "Tentación",
+      "resumen_anterior": "Tentación llama a huir de la tentación.",
+      "resumen_nuevo": "Este estudio llama a huir de la tentación y someter la voluntad a Dios.",
+      "motivos": [
+        "editorial_refresh"
+      ]
+    },
+    {
+      "archivo": "estudio-970-salvacion.json",
+      "numero_estudio": 970,
+      "titulo": "Salvación",
+      "resumen_anterior": "Salvación enseña a vivir en santidad.",
+      "resumen_nuevo": "Este estudio enseña a abrazar la salvación, la liberación espiritual y la santidad.",
+      "motivos": [
+        "editorial_refresh"
+      ]
+    }
+  ],
+  "remaining_suspicious": []
+}

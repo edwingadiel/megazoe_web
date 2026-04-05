@@ -1,0 +1,677 @@
+{
+  "id": "estudio-1407-estudio-1407",
+  "slug": "estudio-1407-estudio-1407",
+  "numero_estudio": 1407,
+  "tipo_estudio": "Iglesia en las casas",
+  "ministerio": {
+    "iglesia": "Iglesia Cristiana Mega Zoe",
+    "pastora": "Pastora Edith Cruz",
+    "credito_corto": "Iglesia Cristiana Mega Zoe · Pastora Edith Cruz",
+    "credito_largo": "Contenido original de Iglesia Cristiana Mega Zoe, conservando el crédito ministerial correspondiente a la Pastora Edith Cruz."
+  },
+  "identidad_editorial": {
+    "idioma": "es",
+    "fuente_original": "documento_word",
+    "archivo_origen": "/Users/edwingadiel/Desktop/Estudios en Word/Estudio #1407 Estar contentos y ser agradecidos - Salmos 138 6.docx",
+    "estado_revision": "procesado",
+    "version_schema": "1.0"
+  },
+  "encabezado": {
+    "titulo": "Estar Contento Y Ser Agradecidos",
+    "subtitulo": null,
+    "cita_principal": "Salmos 138:6",
+    "resumen_corto": "Estar Contento Y Ser Agradecidos llama a servir con humildad y confiar en Dios."
+  },
+  "fechas": {
+    "fecha_inicio": null,
+    "fecha_fin": null,
+    "fecha_texto_original": "",
+    "ano": null
+  },
+  "clasificacion_biblica": {
+    "libro_principal": "Salmos",
+    "capitulo_principal": 138,
+    "versiculos_principales": [
+      6
+    ],
+    "referencia_principal_normalizada": "Salmos 138:6",
+    "testamento_principal": "Antiguo Testamento"
+  },
+  "clasificacion_tematica": {
+    "topicos": [
+      "Humildad",
+      "Provisión de Dios",
+      "Confianza en Dios"
+    ],
+    "keywords": [
+      "arrepentimiento",
+      "soberbia",
+      "humildad",
+      "corazón",
+      "discernir"
+    ]
+  },
+  "referencias_biblicas": [
+    {
+      "referencia": "Salmos 138:6",
+      "referencia_normalizada": "Salmos 138:6",
+      "libro": "Salmos",
+      "capitulo": 138,
+      "versiculos": [
+        6
+      ],
+      "tipo": "principal",
+      "clickeable": true
+    },
+    {
+      "referencia": "Proverbios 16:18",
+      "referencia_normalizada": "Proverbios 16:18",
+      "libro": "Proverbios",
+      "capitulo": 16,
+      "versiculos": [
+        18
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Romanos 12:3",
+      "referencia_normalizada": "Romanos 12:3",
+      "libro": "Romanos",
+      "capitulo": 12,
+      "versiculos": [
+        3
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Filipenses 2:5-8",
+      "referencia_normalizada": "Filipenses 2:5-8",
+      "libro": "Filipenses",
+      "capitulo": 2,
+      "versiculos": [
+        5,
+        6,
+        7,
+        8
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Santiago 3:16",
+      "referencia_normalizada": "Santiago 3:16",
+      "libro": "Santiago",
+      "capitulo": 3,
+      "versiculos": [
+        16
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Romanos 12:15",
+      "referencia_normalizada": "Romanos 12:15",
+      "libro": "Romanos",
+      "capitulo": 12,
+      "versiculos": [
+        15
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Mateo 6:24",
+      "referencia_normalizada": "Mateo 6:24",
+      "libro": "Mateo",
+      "capitulo": 6,
+      "versiculos": [
+        24
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "1 Timoteo 6:8-10",
+      "referencia_normalizada": "1 Timoteo 6:8-10",
+      "libro": "1 Timoteo",
+      "capitulo": 6,
+      "versiculos": [
+        8,
+        9,
+        10
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Hebreos 13:5",
+      "referencia_normalizada": "Hebreos 13:5",
+      "libro": "Hebreos",
+      "capitulo": 13,
+      "versiculos": [
+        5
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Santiago 1:19-20",
+      "referencia_normalizada": "Santiago 1:19-20",
+      "libro": "Santiago",
+      "capitulo": 1,
+      "versiculos": [
+        19,
+        20
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Efesios 4:26-27",
+      "referencia_normalizada": "Efesios 4:26-27",
+      "libro": "Efesios",
+      "capitulo": 4,
+      "versiculos": [
+        26,
+        27
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Romanos 12:19-21",
+      "referencia_normalizada": "Romanos 12:19-21",
+      "libro": "Romanos",
+      "capitulo": 12,
+      "versiculos": [
+        19,
+        20,
+        21
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "1 Corintios 6:18-20",
+      "referencia_normalizada": "1 Corintios 6:18-20",
+      "libro": "1 Corintios",
+      "capitulo": 6,
+      "versiculos": [
+        18,
+        19,
+        20
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Proverbios 23:1",
+      "referencia_normalizada": "Proverbios 23:1",
+      "libro": "Proverbios",
+      "capitulo": 23,
+      "versiculos": [
+        1
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Proverbios 23:19-21",
+      "referencia_normalizada": "Proverbios 23:19-21",
+      "libro": "Proverbios",
+      "capitulo": 23,
+      "versiculos": [
+        19,
+        20,
+        21
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Romanos 12:11",
+      "referencia_normalizada": "Romanos 12:11",
+      "libro": "Romanos",
+      "capitulo": 12,
+      "versiculos": [
+        11
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Proverbios 6:9-11",
+      "referencia_normalizada": "Proverbios 6:9-11",
+      "libro": "Proverbios",
+      "capitulo": 6,
+      "versiculos": [
+        9,
+        10,
+        11
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    }
+  ],
+  "contenido": {
+    "introduccion": null,
+    "secciones": [],
+    "contenido_completo": "El pecado que parece pequeño nos lleva a cometer otros. Por tal razón, hay que vencer la miseria de la carne, porque ha de llevar al cuerpo a la deshonestidad (de manera voluntaria se realiza un acto fuera de regla). La corrupción es el pecado que, en lugar de ser reconocido como tal y de hacernos humildes, es elevado como sistema (método, plan, procedimiento, reglas), se convierte en costumbre mental, una manera de vivir, donde se le hace fácil a los tales que han caído en tal condición. Nos libre Dios por Sus misericordias.\n\nSoberbia, \"orgullo\" es una estima (valor) y amor inhibido por sí mismo.\n\nConsiste en una apreciación (poner precio) descontrolada del valor propio.\n\n¿Sabes? Eso es cuando se busca intensamente la atención y honor.\n\n(Proverbios 16:18) A Dios no le agrada el orgullo y nos advierte que su fruto es la destrucción.\n\nAl orgullo le sigue la destrucción, a la altanería, el \"fracaso\".\n\nDestruye amistades, familias y destruye nuestra dependencia de Dios.\n\nNuestras actitudes deben ser de humildad, de aprecio a los que nos rodean. (Romanos 12:3); \"Nadie tenga un concepto de sí más alto que el que debe tener, sino más bien piense de sí mismo con moderación.\"\n\n(Salmos 138:6) El mayor ejemplo de humildad lo encontramos en Jesús y Él debe ser nuestro modelo en todo.\n\nJesús estuvo dispuesto a \"humillarse \"por amor a nosotros\" y \"morir en la cruz para darnos salvación\".\n\nDebemos dejar que Su amor nos transforme y fluya a través de nuestras vidas para que Él reciba toda la gloria.\n\n(Filipenses 2:5-8) La actitud de ustedes debe ser como la de Cristo Jesús, quien siendo por naturaleza Dios, no consideró el ser igual a Dios como algo a que aferrarse. Hubiese sido propio de Él. Por el contrario, \"se rebajó\", se despojó, se rebajó voluntariamente, tomando la naturaleza de siervo y haciéndose semejante a los seres humanos (como tú). Y, al manifestarse como hombre \"Él mismo se humilló\" a sí mismo y se hizo obediente hasta la muerte\", y muerte de Cruz. ¿Qué piensas de ti? Te atreves o nunca…lo harías.\n\nEnvidia (Santiago 3:16) La envidia o los celos son un deseo desordenado de poseer lo que otros tienen.\n\nConsiste en una gran tristeza o pesar ante el bien de otros y \"alegría frente a sus contratiempos\".\n\nLa envidia o los celos son un deseo desordenado de poseer lo que otros tienen.\n\nLa envidia trae disensión (riña) y discordia (oposición).\n\nPorque donde hay envidias y rivalidades, también hay confusión y toda clase malvadas; contención = contienda, disputa entre varios; perturbación = turbación, desorden enloquecimiento, aturdimiento; obra perversa = malo, malvado, sumamente malo) es mejor correr de tal lugar, por mucho que quieras decir son obras perversas de tales personas; escapa por tu vida.\n\nMuchas veces podemos ser tentados por la envidia al ver a \"otros triunfar\" o ser \"reconocidos\" y peor sentirnos ignorados.\n\nAhí comienza a plantarse la semilla de la envidia y los celos.\n\nNecesitamos estar alertas y firmes en el Señor para no ceder ni caer en su trampa.\n\nNuestra actitud cambia cuando estamos llenos del Espíritu Santo.\n\n(Romanos 12:15) \"Gozaos con los que se gozan; Llorad con los que lloran.\"\n\n¡Ahí está la clave!\n\nPrimero, aprendamos a estar felices y satisfechos con todo lo que Dios nos ha dado.\n\nLuego pedir a Dios que transforme nuestro corazón para que podamos sentir gozo genuino al ver los logros de los demás.\n\nAvaricia (Mateo 6:24) No podéis servir a Dios y usar medios ilícitos para conseguir riquezas.\n\nAvaricia es el deseo excesivo por obtener bienes materiales y riquezas, estando dispuesto, de ser necesario, a usar medios ilícitos para conseguirlos.\n\nDios nos provee todo lo que necesitamos, debemos estar satisfechos con Su provisión.\n\nLa avaricia crece cuando sacamos a Dios del trono de nuestro corazón y colocamos la insatisfacción y el deseo de tener más.\n\nNadie puede servir a dos señores, pues menospreciará a uno y amará al otro, o querrá mucho a uno y despreciará al otro.\n\nPara no tener avaricia, necesitamos decidir quién será el dueño de nuestro corazón.\n\n(1 Timoteo 6:8-10) Vencemos la avaricia con la gratitud por la provisión de Dios.\n\nMantengámonos libres del amor al dinero y conténtense con lo que tienen, porque Dios ha dicho: (Hebreos 13:5) \"Nunca te dejaré; jamás te abandonaré.\"\n\nDebemos confiar que la provisión de Dios es y \"siempre será suficiente\", estar contento y ser agradecidos.\n\nIra = es el sentimiento de gran enojo que nos lleva a comportarnos de manera cruel y violenta. (Santiago 1:19-20). La causa puede ser real o aparente, pero el sentimiento es tan fuerte que muchas veces \"nubla la razón\" e impide diferenciar (discernir, distinguir, esparcir) (entendimiento).\n\nLa Biblia no nos prohíbe enojarnos.\n\nEl enojo es una emoción buena en circunstancias tales como la injusticia, el abuso o la opresión impulsándonos a contribuir para evitar que esa situación continue.\n\nLa Biblia sí prohíbe dejar que el enojo se convierta \"en ira\" destructiva e irracional.\n\nEn Efesios 4:26-27: \"Si se enojan, no pequen\".\n\nNo permitan que el enojo les dure hasta la puesta del sol; como decir, \"vives enojado con la humanidad, deja el enojo por siempre, no puedes vivir enojado con lo vivido, como se dice; supéralo.\n\nNi se dé cabida al diablo, en tu enojo que no vences, se le llama.\n\nVemos que hay un nivel de enojo, \"la ira\", que es pecaminosa y no debemos permitir que nos domine, pues abre una puerta a la influencia del diablo.\n\n(Santiago 1:19-20) Cuando la ira toma el control perdemos de vista la presencia de Dios y olvidamos que podemos confiar en Él.\n\n\"Queremos tomar la justicia en nuestras manos\" y \"hacer que la otra persona \"pague\" y \"tenga su merecido.\"\n\n\"Pero no debe ser así.\"\n\nDebemos confiar siempre en la justicia de Dios y \"hacer lo que es bueno y agradable ante Sus ojos.\"\n\n(Romanos 12:19-21) No podemos tener el corazón contaminado; es mejor tener misericordia y si alguien me hace daño pues mantengo tal distancia y me cuido de no hacerle daño yo.\n\nAntes bien el que se proclama nuestro enemigo, si tiene hambre y le puedo dar de comer le doy comida; si es sed le entrego agua.\n\nTales actos que demuestras van a hacer sentirse amado por ti, aunque haya distancia.\n\nCristo nos enseñó, no seamos vencidos por el diablo, porque entonces no tendremos paz.\n\nEl mal lo vences con tu bien.\n\nLujuria (1 Corintios 6:18-20) Todas las áreas de nuestra vida deben mostrar que Jesús es nuestro Señor.\n\nCuando Jesús entra en nuestros corazones, \"transforma la forma en la que vemos todo\", incluido nuestro cuerpo.\n\nNos damos cuenta de que nuestro cuerpo le pertenece a Dios; por tal razón, cuidamos nuestro caminar, que le demuestras.\n\nDios se dio Él mismo para que viviéramos en Sus divinos pasos.\n\nHonremos con nuestro cuerpo a Dios.\n\n(6) La gula (Proverbios 23:1) es glotonería, un apetito descontrolado por la comida y la bebida.\n\n(Proverbios 23:19-21) No tiene en cuenta los límites económicos ni el daño que pueda causar a la salud.\n\nEste es otro pecado que daña nuestro cuerpo.\n\nLa gula afecta \"nuestra salud\", \"nuestras finanzas\" y de seguro nuestra relación con los demás.\n\nNos aparta de Dios, de nuestros seres amados porque nos enfocamos en comer o en beber en lugar de buscar resolver nuestros conflictos y problemas, dialogando y pidiéndole sabiduría a Dios.\n\nSi nos llenamos de Dios y vemos nuestros problemas o \"nuestra apariencia como Él los ve\", nos refugiaremos en Él y no en la comida o en la bebida.\n\nPereza (Romanos 12:11) La pereza es una afición (atracción, inclinación, gusto) desequilibrada al descanso y al ocio, \"que lleva al descuido para con Dios, consigo mismo y con la sociedad\".\n\nEl perezoso se aparta de los demás física y emocionalmente, pues solo desea su propio descanso y bienestar (Proverbios 6:9-11) lo describe así: \"Perezoso\", ¿Cuánto tiempo más seguirás acostado?\n\n¿Cuándo despertarás de tu sueño?\n\nUn corto sueño, una breve siesta, un pequeño descanso, cruzado de brazos… ¡Y te asaltará la pobreza como un bandido y escasez como un hombre armado!\n\nDios ha dado a todos habilidades, dones que debemos usar para trabajar, para sostenernos a nosotros y a nuestra familia y aportar a la sociedad.\n\nDios pone deseos en nuestro corazón y nos da las herramientas para cumplirlos.\n\n\"Debemos ser diligentes\" en descubrir y usar esas habilidades que Él nos ha dado.\n\nEs una forma de mostrar gratitud y aprecio a Dios por Su diseño en nosotros; ¡No te quejes! Amén.",
+    "contenido_renderizado": [
+      {
+        "tipo": "parrafo",
+        "texto": "El pecado que parece pequeño nos lleva a cometer otros. Por tal razón, hay que vencer la miseria de la carne, porque ha de llevar al cuerpo a la deshonestidad (de manera voluntaria se realiza un acto fuera de regla). La corrupción es el pecado que, en lugar de ser reconocido como tal y de hacernos humildes, es elevado como sistema (método, plan, procedimiento, reglas), se convierte en costumbre mental, una manera de vivir, donde se le hace fácil a los tales que han caído en tal condición. Nos libre Dios por Sus misericordias.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Soberbia, \"orgullo\" es una estima (valor) y amor inhibido por sí mismo.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Consiste en una apreciación (poner precio) descontrolada del valor propio.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "¿Sabes? Eso es cuando se busca intensamente la atención y honor.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Proverbios 16:18) A Dios no le agrada el orgullo y nos advierte que su fruto es la destrucción.",
+        "referencias_inline": [
+          "Proverbios 16:18"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Al orgullo le sigue la destrucción, a la altanería, el \"fracaso\".",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Destruye amistades, familias y destruye nuestra dependencia de Dios.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Nuestras actitudes deben ser de humildad, de aprecio a los que nos rodean. (Romanos 12:3); \"Nadie tenga un concepto de sí más alto que el que debe tener, sino más bien piense de sí mismo con moderación.\"",
+        "referencias_inline": [
+          "Romanos 12:3"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Salmos 138:6) El mayor ejemplo de humildad lo encontramos en Jesús y Él debe ser nuestro modelo en todo.",
+        "referencias_inline": [
+          "Salmos 138:6"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Jesús estuvo dispuesto a \"humillarse \"por amor a nosotros\" y \"morir en la cruz para darnos salvación\".",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Debemos dejar que Su amor nos transforme y fluya a través de nuestras vidas para que Él reciba toda la gloria.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Filipenses 2:5-8) La actitud de ustedes debe ser como la de Cristo Jesús, quien siendo por naturaleza Dios, no consideró el ser igual a Dios como algo a que aferrarse. Hubiese sido propio de Él. Por el contrario, \"se rebajó\", se despojó, se rebajó voluntariamente, tomando la naturaleza de siervo y haciéndose semejante a los seres humanos (como tú). Y, al manifestarse como hombre \"Él mismo se humilló\" a sí mismo y se hizo obediente hasta la muerte\", y muerte de Cruz. ¿Qué piensas de ti? Te atreves o nunca…lo harías.",
+        "referencias_inline": [
+          "Filipenses 2:5-8"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Envidia (Santiago 3:16) La envidia o los celos son un deseo desordenado de poseer lo que otros tienen.",
+        "referencias_inline": [
+          "Santiago 3:16"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Consiste en una gran tristeza o pesar ante el bien de otros y \"alegría frente a sus contratiempos\".",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "La envidia o los celos son un deseo desordenado de poseer lo que otros tienen.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "La envidia trae disensión (riña) y discordia (oposición).",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Porque donde hay envidias y rivalidades, también hay confusión y toda clase malvadas; contención = contienda, disputa entre varios; perturbación = turbación, desorden enloquecimiento, aturdimiento; obra perversa = malo, malvado, sumamente malo) es mejor correr de tal lugar, por mucho que quieras decir son obras perversas de tales personas; escapa por tu vida.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Muchas veces podemos ser tentados por la envidia al ver a \"otros triunfar\" o ser \"reconocidos\" y peor sentirnos ignorados.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Ahí comienza a plantarse la semilla de la envidia y los celos.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Necesitamos estar alertas y firmes en el Señor para no ceder ni caer en su trampa.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Nuestra actitud cambia cuando estamos llenos del Espíritu Santo.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Romanos 12:15) \"Gozaos con los que se gozan; Llorad con los que lloran.\"",
+        "referencias_inline": [
+          "Romanos 12:15"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "¡Ahí está la clave!",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Primero, aprendamos a estar felices y satisfechos con todo lo que Dios nos ha dado.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Luego pedir a Dios que transforme nuestro corazón para que podamos sentir gozo genuino al ver los logros de los demás.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Avaricia (Mateo 6:24) No podéis servir a Dios y usar medios ilícitos para conseguir riquezas.",
+        "referencias_inline": [
+          "Mateo 6:24"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Avaricia es el deseo excesivo por obtener bienes materiales y riquezas, estando dispuesto, de ser necesario, a usar medios ilícitos para conseguirlos.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Dios nos provee todo lo que necesitamos, debemos estar satisfechos con Su provisión.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "La avaricia crece cuando sacamos a Dios del trono de nuestro corazón y colocamos la insatisfacción y el deseo de tener más.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Nadie puede servir a dos señores, pues menospreciará a uno y amará al otro, o querrá mucho a uno y despreciará al otro.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Para no tener avaricia, necesitamos decidir quién será el dueño de nuestro corazón.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(1 Timoteo 6:8-10) Vencemos la avaricia con la gratitud por la provisión de Dios.",
+        "referencias_inline": [
+          "1 Timoteo 6:8-10"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Mantengámonos libres del amor al dinero y conténtense con lo que tienen, porque Dios ha dicho: (Hebreos 13:5) \"Nunca te dejaré; jamás te abandonaré.\"",
+        "referencias_inline": [
+          "Hebreos 13:5"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Debemos confiar que la provisión de Dios es y \"siempre será suficiente\", estar contento y ser agradecidos.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Ira = es el sentimiento de gran enojo que nos lleva a comportarnos de manera cruel y violenta. (Santiago 1:19-20). La causa puede ser real o aparente, pero el sentimiento es tan fuerte que muchas veces \"nubla la razón\" e impide diferenciar (discernir, distinguir, esparcir) (entendimiento).",
+        "referencias_inline": [
+          "Santiago 1:19-20"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "La Biblia no nos prohíbe enojarnos.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "El enojo es una emoción buena en circunstancias tales como la injusticia, el abuso o la opresión impulsándonos a contribuir para evitar que esa situación continue.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "La Biblia sí prohíbe dejar que el enojo se convierta \"en ira\" destructiva e irracional.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "En Efesios 4:26-27: \"Si se enojan, no pequen\".",
+        "referencias_inline": [
+          "Efesios 4:26-27"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "No permitan que el enojo les dure hasta la puesta del sol; como decir, \"vives enojado con la humanidad, deja el enojo por siempre, no puedes vivir enojado con lo vivido, como se dice; supéralo.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Ni se dé cabida al diablo, en tu enojo que no vences, se le llama.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Vemos que hay un nivel de enojo, \"la ira\", que es pecaminosa y no debemos permitir que nos domine, pues abre una puerta a la influencia del diablo.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Santiago 1:19-20) Cuando la ira toma el control perdemos de vista la presencia de Dios y olvidamos que podemos confiar en Él.",
+        "referencias_inline": [
+          "Santiago 1:19-20"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "\"Queremos tomar la justicia en nuestras manos\" y \"hacer que la otra persona \"pague\" y \"tenga su merecido.\"",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "\"Pero no debe ser así.\"",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Debemos confiar siempre en la justicia de Dios y \"hacer lo que es bueno y agradable ante Sus ojos.\"",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Romanos 12:19-21) No podemos tener el corazón contaminado; es mejor tener misericordia y si alguien me hace daño pues mantengo tal distancia y me cuido de no hacerle daño yo.",
+        "referencias_inline": [
+          "Romanos 12:19-21"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Antes bien el que se proclama nuestro enemigo, si tiene hambre y le puedo dar de comer le doy comida; si es sed le entrego agua.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Tales actos que demuestras van a hacer sentirse amado por ti, aunque haya distancia.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Cristo nos enseñó, no seamos vencidos por el diablo, porque entonces no tendremos paz.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "El mal lo vences con tu bien.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Lujuria (1 Corintios 6:18-20) Todas las áreas de nuestra vida deben mostrar que Jesús es nuestro Señor.",
+        "referencias_inline": [
+          "1 Corintios 6:18-20"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Cuando Jesús entra en nuestros corazones, \"transforma la forma en la que vemos todo\", incluido nuestro cuerpo.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Nos damos cuenta de que nuestro cuerpo le pertenece a Dios; por tal razón, cuidamos nuestro caminar, que le demuestras.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Dios se dio Él mismo para que viviéramos en Sus divinos pasos.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Honremos con nuestro cuerpo a Dios.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(6) La gula (Proverbios 23:1) es glotonería, un apetito descontrolado por la comida y la bebida.",
+        "referencias_inline": [
+          "Proverbios 23:1"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Proverbios 23:19-21) No tiene en cuenta los límites económicos ni el daño que pueda causar a la salud.",
+        "referencias_inline": [
+          "Proverbios 23:19-21"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Este es otro pecado que daña nuestro cuerpo.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "La gula afecta \"nuestra salud\", \"nuestras finanzas\" y de seguro nuestra relación con los demás.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Nos aparta de Dios, de nuestros seres amados porque nos enfocamos en comer o en beber en lugar de buscar resolver nuestros conflictos y problemas, dialogando y pidiéndole sabiduría a Dios.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Si nos llenamos de Dios y vemos nuestros problemas o \"nuestra apariencia como Él los ve\", nos refugiaremos en Él y no en la comida o en la bebida.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Pereza (Romanos 12:11) La pereza es una afición (atracción, inclinación, gusto) desequilibrada al descanso y al ocio, \"que lleva al descuido para con Dios, consigo mismo y con la sociedad\".",
+        "referencias_inline": [
+          "Romanos 12:11"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "El perezoso se aparta de los demás física y emocionalmente, pues solo desea su propio descanso y bienestar (Proverbios 6:9-11) lo describe así: \"Perezoso\", ¿Cuánto tiempo más seguirás acostado?",
+        "referencias_inline": [
+          "Proverbios 6:9-11"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "¿Cuándo despertarás de tu sueño?",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Un corto sueño, una breve siesta, un pequeño descanso, cruzado de brazos… ¡Y te asaltará la pobreza como un bandido y escasez como un hombre armado!",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Dios ha dado a todos habilidades, dones que debemos usar para trabajar, para sostenernos a nosotros y a nuestra familia y aportar a la sociedad.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Dios pone deseos en nuestro corazón y nos da las herramientas para cumplirlos.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "\"Debemos ser diligentes\" en descubrir y usar esas habilidades que Él nos ha dado.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Es una forma de mostrar gratitud y aprecio a Dios por Su diseño en nosotros; ¡No te quejes! Amén.",
+        "referencias_inline": []
+      }
+    ]
+  },
+  "busqueda": {
+    "texto_indexable": "estar contento y ser agradecidos salmo 138 6 humildad provision de Dios confianza en Dios arrepentimiento soberbia humildad corazon discernir el pecado que parece pequeno nos lleva a cometer otros por tal razon hay que vencer la miseria de la carne porque ha de llevar al cuerpo a la deshonestidad de manera voluntaria se realiza un acto fuera de regla la corrupcion es el pecado que en lugar de ser reconocido como tal y de hacernos humildes es elevado como sistema metodo plan procedimiento reglas se convierte en costumbre mental una manera de vivir donde se le hace facil a los tales que han caido en tal condicion nos libre Dios por sus misericordias soberbia orgullo es una estima valor y amor inhibido por si mismo consiste en una apreciacion poner precio descontrolada del valor propio sabes eso es cuando se busca intensamente la atencion y honor proverbios 16 18 a Dios no le agrada el orgullo y nos advierte que su fruto es la destruccion al orgullo le sigue la destruccion a la altaneria el fracaso destruye amistades familias y destruye nuestra dependencia de Dios nuestras actitudes deben ser de humildad de aprecio a los que nos rodean romanos 12 3 nadie tenga un concepto de si mas alto que el que debe tener sino mas bien piense de si mismo con moderacion salmo 138 6 el mayor ejemplo de humildad lo encontramos en Jesus y el debe ser nuestro modelo en todo Jesus estuvo dispuesto a humillarse por amor a nosotros y morir en la cruz para darnos salvacion debemos dejar que su amor nos transforme y fluya a traves de nuestras vidas para que el reciba toda la gloria filipenses 2 5 8 la actitud de ustedes debe ser como la de cristo Jesus quien siendo por naturaleza Dios no considero el ser igual a Dios como algo a que aferrarse hubiese sido propio de el por el contrario se rebajo se despojo se rebajo voluntariamente tomando la naturaleza de siervo y haciendose semejante a los seres humanos como tu y al manifestarse como hombre el mismo se humillo a si mismo y se hizo obediente hasta la muerte y muerte de cruz que piensas de ti te atreves o nunca lo harias envidia santiago 3 16 la envidia o los celos son un deseo desordenado de poseer lo que otros tienen consiste en una gran tristeza o pesar ante el bien de otros y alegria frente a sus contratiempos la envidia o los celos son un deseo desordenado de poseer lo que otros tienen la envidia trae disension rina y discordia oposicion porque donde hay envidias y rivalidades tambien hay confusion y toda clase malvadas contencion contienda disputa entre varios perturbacion turbacion desorden enloquecimiento aturdimiento obra perversa malo malvado sumamente malo es mejor correr de tal lugar por mucho que quieras decir son obras perversas de tales personas escapa por tu vida muchas veces podemos ser tentados por la envidia al ver a otros triunfar o ser reconocidos y peor sentirnos ignorados ahi comienza a plantarse la semilla de la envidia y los celos necesitamos estar alertas y firmes en el senor para no ceder ni caer en su trampa nuestra actitud cambia cuando estamos llenos del espiritu santo romanos 12 15 gozaos con los que se gozan llorad con los que lloran ahi esta la clave primero aprendamos a estar felices y satisfechos con todo lo que Dios nos ha dado luego pedir a Dios que transforme nuestro corazon para que podamos sentir gozo genuino al ver los logros de los demas avaricia mateo 6 24 no podeis servir a Dios y usar medios ilicitos para conseguir riquezas avaricia es el deseo excesivo por obtener bienes materiales y riquezas estando dispuesto de ser necesario a usar medios ilicitos para conseguirlos Dios nos provee todo lo que necesitamos debemos estar satisfechos con su provision la avaricia crece cuando sacamos a Dios del trono de nuestro corazon y colocamos la insatisfaccion y el deseo de tener mas nadie puede servir a dos senores pues menospreciara a uno y amara al otro o querra mucho a uno y despreciara al otro para no tener avaricia necesitamos decidir quien sera el dueno de nuestro corazon 1 timoteo 6 8 10 vencemos la avaricia con la gratitud por la provision de Dios mantengamonos libres del amor al dinero y contentense con lo que tienen porque Dios ha dicho hebreos 13 5 nunca te dejare jamas te abandonare debemos confiar que la provision de Dios es y siempre sera suficiente estar contento y ser agradecidos ira es el sentimiento de gran enojo que nos lleva a comportarnos de manera cruel y violenta santiago 1 19 20 la causa puede ser real o aparente pero el sentimiento es tan fuerte que muchas veces nubla la razon e impide diferenciar discernir distinguir esparcir entendimiento la biblia no nos prohibe enojarnos el enojo es una emocion buena en circunstancias tales como la injusticia el abuso o la opresion impulsandonos a contribuir para evitar que esa situacion continue la biblia si prohibe dejar que el enojo se convierta en ira destructiva e irracional en efesios 4 26 27 si se enojan no pequen no permitan que el enojo les dure hasta la puesta del sol como decir vives enojado con la humanidad deja el enojo por siempre no puedes vivir enojado con lo vivido como se dice superalo ni se de cabida al diablo en tu enojo que no vences se le llama vemos que hay un nivel de enojo la ira que es pecaminosa y no debemos permitir que nos domine pues abre una puerta a la influencia del diablo santiago 1 19 20 cuando la ira toma el control perdemos de vista la presencia de Dios y olvidamos que podemos confiar en el queremos tomar la justicia en nuestras manos y hacer que la otra persona pague y tenga su merecido pero no debe ser asi debemos confiar siempre en la justicia de Dios y hacer lo que es bueno y agradable ante sus ojos romanos 12 19 21 no podemos tener el corazon contaminado es mejor tener misericordia y si alguien me hace dano pues mantengo tal distancia y me cuido de no hacerle dano yo antes bien el que se proclama nuestro enemigo si tiene hambre y le puedo dar de comer le doy comida si es sed le entrego agua tales actos que demuestras van a hacer sentirse amado por ti aunque haya distancia cristo nos enseno no seamos vencidos por el diablo porque entonces no tendremos paz el mal lo vences con tu bien lujuria 1 corintios 6 18 20 todas las areas de nuestra vida deben mostrar que Jesus es nuestro senor cuando Jesus entra en nuestros corazones transforma la forma en la que vemos todo incluido nuestro cuerpo nos damos cuenta de que nuestro cuerpo le pertenece a Dios por tal razon cuidamos nuestro caminar que le demuestras Dios se dio el mismo para que vivieramos en sus divinos pasos honremos con nuestro cuerpo a Dios 6 la gula proverbios 23 1 es glotoneria un apetito descontrolado por la comida y la bebida proverbios 23 19 21 no tiene en cuenta los limites economicos ni el dano que pueda causar a la salud este es otro pecado que dana nuestro cuerpo la gula afecta nuestra salud nuestras finanzas y de seguro nuestra relacion con los demas nos aparta de Dios de nuestros seres amados porque nos enfocamos en comer o en beber en lugar de buscar resolver nuestros conflictos y problemas dialogando y pidiendole sabiduria a Dios si nos llenamos de Dios y vemos nuestros problemas o nuestra apariencia como el los ve nos refugiaremos en el y no en la comida o en la bebida pereza romanos 12 11 la pereza es una aficion atraccion inclinacion gusto desequilibrada al descanso y al ocio que lleva al descuido para con Dios consigo mismo y con la sociedad el perezoso se aparta de los demas fisica y emocionalmente pues solo desea su propio descanso y bienestar proverbios 6 9 11 lo describe asi perezoso cuanto tiempo mas seguiras acostado cuando despertaras de tu sueno un corto sueno una breve siesta un pequeno descanso cruzado de brazos y te asaltara la pobreza como un bandido y escasez como un hombre armado Dios ha dado a todos habilidades dones que debemos usar para trabajar para sostenernos a nosotros y a nuestra familia y aportar a la sociedad Dios pone deseos en nuestro corazon y nos da las herramientas para cumplirlos debemos ser diligentes en descubrir y usar esas habilidades que el nos ha dado es una forma de mostrar gratitud y aprecio a Dios por su diseno en nosotros no te quejes amen",
+    "alias_busqueda": [
+      "Estudio 1407",
+      "Salmos",
+      "Salmos 138",
+      "Salmos 138:6",
+      "arrepentimiento",
+      "soberbia",
+      "humildad",
+      "corazón",
+      "Provisión de Dios"
+    ]
+  },
+  "revision_manual": {
+    "requiere_revision": false,
+    "motivo": ""
+  },
+  "ui": {
+    "mostrar_credito_en_header": true,
+    "mostrar_numero_estudio": true,
+    "mostrar_fecha": true,
+    "mostrar_topicos": true,
+    "permitir_favorito": true,
+    "permitir_compartir": true
+  }
+}

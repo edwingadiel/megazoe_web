@@ -1,0 +1,268 @@
+{
+  "id": "estudio-278-halla-fidelidad-en-todo-nuestro-ser",
+  "slug": "estudio-278-halla-fidelidad-en-todo-nuestro-ser",
+  "numero_estudio": 278,
+  "tipo_estudio": "Iglesia en las casas",
+  "ministerio": {
+    "iglesia": "Iglesia Cristiana Mega Zoe",
+    "pastora": "Pastora Edith Cruz",
+    "credito_corto": "Iglesia Cristiana Mega Zoe · Pastora Edith Cruz",
+    "credito_largo": "Contenido original de Iglesia Cristiana Mega Zoe, conservando el crédito ministerial correspondiente a la Pastora Edith Cruz."
+  },
+  "identidad_editorial": {
+    "idioma": "es",
+    "fuente_original": "documento_word",
+    "archivo_origen": "/Users/edwingadiel/Desktop/Estudios en Word/Estudio #278 Halla fidelidad en todo nuestro ser - 1 Corintios 1 9.doc",
+    "estado_revision": "procesado",
+    "version_schema": "1.0"
+  },
+  "encabezado": {
+    "titulo": "Halla Fidelidad En Todo Nuestro Ser",
+    "subtitulo": null,
+    "cita_principal": "1 Corintios 1:9",
+    "resumen_corto": "Halla Fidelidad En Todo Nuestro Ser enseña a permanecer en la verdad y atender la Palabra de Dios."
+  },
+  "fechas": {
+    "fecha_inicio": "2002-12-24",
+    "fecha_fin": "2002-12-30",
+    "fecha_texto_original": "SEMANA DEL 24 @ 30 DE DICIEMBRE DE 2002",
+    "ano": 2002
+  },
+  "clasificacion_biblica": {
+    "libro_principal": "1 Corintios",
+    "capitulo_principal": 1,
+    "versiculos_principales": [
+      9
+    ],
+    "referencia_principal_normalizada": "1 Corintios 1:9",
+    "testamento_principal": "Nuevo Testamento"
+  },
+  "clasificacion_tematica": {
+    "topicos": [
+      "Fidelidad de Dios",
+      "Verdad",
+      "Palabra de Dios"
+    ],
+    "keywords": [
+      "verdad",
+      "santidad",
+      "oración",
+      "arrepentimiento",
+      "perseverancia"
+    ]
+  },
+  "referencias_biblicas": [
+    {
+      "referencia": "1 Corintios 1:9",
+      "referencia_normalizada": "1 Corintios 1:9",
+      "libro": "1 Corintios",
+      "capitulo": 1,
+      "versiculos": [
+        9
+      ],
+      "tipo": "principal",
+      "clickeable": true
+    },
+    {
+      "referencia": "1 Juan 1: 3",
+      "referencia_normalizada": "1 Juan 1:3",
+      "libro": "1 Juan",
+      "capitulo": 1,
+      "versiculos": [
+        3
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "2 Corintios 11: 3",
+      "referencia_normalizada": "2 Corintios 11:3",
+      "libro": "2 Corintios",
+      "capitulo": 11,
+      "versiculos": [
+        3
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Hechos 8: 32",
+      "referencia_normalizada": "Hechos 8:32",
+      "libro": "Hechos",
+      "capitulo": 8,
+      "versiculos": [
+        32
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Apocalipsis 2: 10",
+      "referencia_normalizada": "Apocalipsis 2:10",
+      "libro": "Apocalipsis",
+      "capitulo": 2,
+      "versiculos": [
+        10
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "1 Corintios 4:2",
+      "referencia_normalizada": "1 Corintios 4:2",
+      "libro": "1 Corintios",
+      "capitulo": 4,
+      "versiculos": [
+        2
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Juan 13: 26,27",
+      "referencia_normalizada": "Juan 13:26,27",
+      "libro": "Juan",
+      "capitulo": 13,
+      "versiculos": [
+        26,
+        27
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Salmos 31:23",
+      "referencia_normalizada": "Salmos 31:23",
+      "libro": "Salmos",
+      "capitulo": 31,
+      "versiculos": [
+        23
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Salmos 101:6",
+      "referencia_normalizada": "Salmos 101:6",
+      "libro": "Salmos",
+      "capitulo": 101,
+      "versiculos": [
+        6
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Nehemías 13:13",
+      "referencia_normalizada": "Nehemías 13:13",
+      "libro": "Nehemías",
+      "capitulo": 13,
+      "versiculos": [
+        13
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Apocalipsis 19: 11",
+      "referencia_normalizada": "Apocalipsis 19:11",
+      "libro": "Apocalipsis",
+      "capitulo": 19,
+      "versiculos": [
+        11
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Proverbios 13:17",
+      "referencia_normalizada": "Proverbios 13:17",
+      "libro": "Proverbios",
+      "capitulo": 13,
+      "versiculos": [
+        17
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Lucas 16:10",
+      "referencia_normalizada": "Lucas 16:10",
+      "libro": "Lucas",
+      "capitulo": 16,
+      "versiculos": [
+        10
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "2 Timoteo 2:2",
+      "referencia_normalizada": "2 Timoteo 2:2",
+      "libro": "2 Timoteo",
+      "capitulo": 2,
+      "versiculos": [
+        2
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    }
+  ],
+  "contenido": {
+    "introduccion": null,
+    "secciones": [],
+    "contenido_completo": "Objetivo del estudio: Que todos sepan que en esta vida existen dos palabras que son muy grandes: El Amor y la Fidelidad.\n\nLa fidelidad, como es propio de su significado, es la virtud de aquel que es fiel. Pero es cosa casi imposible de lograr hoy día. Ser fiel es ser cumplidor con sus deberes y con sus compromisos. El detalle de hoy día es que muchos huyen de sus compromisos. El que es infiel es el que rompe con los compromisos, pues el principio de Dios es la fidelidad. Mis hermanos, el día en que nosotros llegamos por primera vez al Señor hicimos un compromiso para siempre. Fijémonos en que la vida esta llena de compromisos y lo que se ve a diario es que nosotros acostumbramos a huir de ellos. Mis hermanos, la fidelidad se guarda en lo más profundo del corazón, y la persona que es fiel es verdadera, no hay engaño en ella, no hay traición. Nuestro compromiso es para toda la vida. Hermanos, la persona que es infiel es desagradable. Todos lo resienten. Sin embargo, en nosotros, la Iglesia, la fidelidad es una exigencia. Entendamos bien que nosotros fuimos llamados para tener una comunión con Jesús (1 Juan 1: 3) y tenemos que ser fieles, porque solo el fiel es el que llega al Cielo. 2 corintios 11: 3 Si nos examinamos a fondo, vemos que nosotros los seres humanos acostumbramos a quejarnos de los deberes que nos corresponden. Nuestro buen y mayor ejemplo de cumplir deberes sin queja lo fue Jesús, ya que El cumplió con TODO lo que debía hacer y sin queja alguna. Hechos 8: 32 Mis hermanos, cada uno de nosotros tenemos deberes y compromisos y los debemos llevar a su fiel cumplimiento hasta la muerte. Apocalipsis 2: 10 Cuando somos infieles es porque hemos sido tentados por Satanás y hemos cedido a la tentación olvidando la seriedad e importancia de nuestras obligaciones. Cuando alguien es infiel, no puede mirar a los ojos a los demás y no hay paz en medio de su diario vivir. En 1 de Corintios 4:2 dice: \"Se requiere de los administradores (ya sea en dones, ministerios, etc.) que sean hallados fieles.\" Esto es una exigencia, es algo indispensable. De la única manera en la que yo puedo cumplir con mi llamado es siendo fiel. Pero el detalle es que si soy infiel, el Espíritu Santo no puede permanecer en mi. Juan 13: 26,27 Tenemos que entender que todo lo que se levanta en nuestra iglesia Mega Zoe, es en fidelidad. Salmos 31:23 Yo quiero serle fiel a Jehová para que Jehová me cuide de todo mal, porque para Dios una persona fiel le es algo muy grande. El lo cuida y lo guarda. Dios sabe que el hombre y la mujer que son fieles cumplen con Su llamado. Salmos 101:6 Los ojos de Jehová están sobre los fieles de la Tierra. Y esto es, para que estemos con Él. Solo el que es verdadero es el que es fiel y por eso alcanza la perfección. Mi meta de todos los días tiene que ser el amar la perfección. Por eso Dios nos conserva y nos cuida, para que algún día estemos con Él. Nehemías 13:13 Como podemos apreciar en este versículo, siempre se busca a personas que cumplan con sus deberes. Y estos deberes se cumplen aunque tengamos cansancio, sueño, quebrantos, con todo. Hay que ser fieles y verdaderos. Así se habla de Jesús en Apocalipsis 19: 11 Nosotros tenemos que ser mejores, porque el detalle es que tenemos que cumplir con nuestros importantes deberes pues somos mayordomos. La mayordomía se le da a personas fieles. Y un mayordomo no se puede quejar de su trabajo. Cuando Dios da a los mayordomos a servir a su Pueblo, a velar y cuidar sus posesiones y asuntos de su obra, es para que ellos se cansen más que nadie. Esa es su parte. Vemos que Nehemías buscó fieles para encargarles la obra de Dios. Nehemías necesitaba poner hombres fieles y comprometidos, hombres de verdad, y el detalle es que la fidelidad de esos mayordomos es para con el bueno y para con el malo juntamente. Proverbios 13:17 El mal mensajero acarrea mal, mas el mensajero fiel acarrea salud, sana las heridas del que sufre y detiene el mal. Lucas 16:10 El que es fiel en lo poco, en lo mucho lo pondrá Jehová y cuando tenga mucho seguirá creciendo. 2 Timoteo 2:2. Mis hermanos, de la única forma en que puedo cumplir un ministerio es amando y siendo fiel, porque el ser fiel es hasta el final. AMEN.",
+    "contenido_renderizado": [
+      {
+        "tipo": "parrafo",
+        "texto": "Objetivo del estudio: Que todos sepan que en esta vida existen dos palabras que son muy grandes: El Amor y la Fidelidad.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "La fidelidad, como es propio de su significado, es la virtud de aquel que es fiel. Pero es cosa casi imposible de lograr hoy día. Ser fiel es ser cumplidor con sus deberes y con sus compromisos. El detalle de hoy día es que muchos huyen de sus compromisos. El que es infiel es el que rompe con los compromisos, pues el principio de Dios es la fidelidad. Mis hermanos, el día en que nosotros llegamos por primera vez al Señor hicimos un compromiso para siempre. Fijémonos en que la vida esta llena de compromisos y lo que se ve a diario es que nosotros acostumbramos a huir de ellos. Mis hermanos, la fidelidad se guarda en lo más profundo del corazón, y la persona que es fiel es verdadera, no hay engaño en ella, no hay traición. Nuestro compromiso es para toda la vida. Hermanos, la persona que es infiel es desagradable. Todos lo resienten. Sin embargo, en nosotros, la Iglesia, la fidelidad es una exigencia. Entendamos bien que nosotros fuimos llamados para tener una comunión con Jesús (1 Juan 1: 3) y tenemos que ser fieles, porque solo el fiel es el que llega al Cielo. 2 corintios 11: 3 Si nos examinamos a fondo, vemos que nosotros los seres humanos acostumbramos a quejarnos de los deberes que nos corresponden. Nuestro buen y mayor ejemplo de cumplir deberes sin queja lo fue Jesús, ya que El cumplió con TODO lo que debía hacer y sin queja alguna. Hechos 8: 32 Mis hermanos, cada uno de nosotros tenemos deberes y compromisos y los debemos llevar a su fiel cumplimiento hasta la muerte. Apocalipsis 2: 10 Cuando somos infieles es porque hemos sido tentados por Satanás y hemos cedido a la tentación olvidando la seriedad e importancia de nuestras obligaciones. Cuando alguien es infiel, no puede mirar a los ojos a los demás y no hay paz en medio de su diario vivir. En 1 de Corintios 4:2 dice: \"Se requiere de los administradores (ya sea en dones, ministerios, etc.) que sean hallados fieles.\" Esto es una exigencia, es algo indispensable. De la única manera en la que yo puedo cumplir con mi llamado es siendo fiel. Pero el detalle es que si soy infiel, el Espíritu Santo no puede permanecer en mi. Juan 13: 26,27 Tenemos que entender que todo lo que se levanta en nuestra iglesia Mega Zoe, es en fidelidad. Salmos 31:23 Yo quiero serle fiel a Jehová para que Jehová me cuide de todo mal, porque para Dios una persona fiel le es algo muy grande. El lo cuida y lo guarda. Dios sabe que el hombre y la mujer que son fieles cumplen con Su llamado. Salmos 101:6 Los ojos de Jehová están sobre los fieles de la Tierra. Y esto es, para que estemos con Él. Solo el que es verdadero es el que es fiel y por eso alcanza la perfección. Mi meta de todos los días tiene que ser el amar la perfección. Por eso Dios nos conserva y nos cuida, para que algún día estemos con Él. Nehemías 13:13 Como podemos apreciar en este versículo, siempre se busca a personas que cumplan con sus deberes. Y estos deberes se cumplen aunque tengamos cansancio, sueño, quebrantos, con todo. Hay que ser fieles y verdaderos. Así se habla de Jesús en Apocalipsis 19: 11 Nosotros tenemos que ser mejores, porque el detalle es que tenemos que cumplir con nuestros importantes deberes pues somos mayordomos. La mayordomía se le da a personas fieles. Y un mayordomo no se puede quejar de su trabajo. Cuando Dios da a los mayordomos a servir a su Pueblo, a velar y cuidar sus posesiones y asuntos de su obra, es para que ellos se cansen más que nadie. Esa es su parte. Vemos que Nehemías buscó fieles para encargarles la obra de Dios. Nehemías necesitaba poner hombres fieles y comprometidos, hombres de verdad, y el detalle es que la fidelidad de esos mayordomos es para con el bueno y para con el malo juntamente. Proverbios 13:17 El mal mensajero acarrea mal, mas el mensajero fiel acarrea salud, sana las heridas del que sufre y detiene el mal. Lucas 16:10 El que es fiel en lo poco, en lo mucho lo pondrá Jehová y cuando tenga mucho seguirá creciendo. 2 Timoteo 2:2. Mis hermanos, de la única forma en que puedo cumplir un ministerio es amando y siendo fiel, porque el ser fiel es hasta el final. AMEN.",
+        "referencias_inline": [
+          "1 Juan 1:3",
+          "2 Corintios 11:3",
+          "Hechos 8:32",
+          "Apocalipsis 2:10",
+          "1 Corintios 4:2",
+          "Juan 13:26,27",
+          "Salmos 31:23",
+          "Salmos 101:6",
+          "Nehemías 13:13",
+          "Apocalipsis 19:11",
+          "Proverbios 13:17",
+          "Lucas 16:10",
+          "2 Timoteo 2:2"
+        ]
+      }
+    ]
+  },
+  "busqueda": {
+    "texto_indexable": "halla fidelidad en todo nuestro ser 1 corintios 1 9 fidelidad de Dios verdad palabra de Dios verdad santidad oracion arrepentimiento perseverancia objetivo del estudio que todos sepan que en esta vida existen dos palabras que son muy grandes el amor y la fidelidad la fidelidad como es propio de su significado es la virtud de aquel que es fiel pero es cosa casi imposible de lograr hoy dia ser fiel es ser cumplidor con sus deberes y con sus compromisos el detalle de hoy dia es que muchos huyen de sus compromisos el que es infiel es el que rompe con los compromisos pues el principio de Dios es la fidelidad mis hermanos el dia en que nosotros llegamos por primera vez al senor hicimos un compromiso para siempre fijemonos en que la vida esta llena de compromisos y lo que se ve a diario es que nosotros acostumbramos a huir de ellos mis hermanos la fidelidad se guarda en lo mas profundo del corazon y la persona que es fiel es verdadera no hay engano en ella no hay traicion nuestro compromiso es para toda la vida hermanos la persona que es infiel es desagradable todos lo resienten sin embargo en nosotros la iglesia la fidelidad es una exigencia entendamos bien que nosotros fuimos llamados para tener una comunion con Jesus 1 juan 1 3 y tenemos que ser fieles porque solo el fiel es el que llega al cielo 2 corintios 11 3 si nos examinamos a fondo vemos que nosotros los seres humanos acostumbramos a quejarnos de los deberes que nos corresponden nuestro buen y mayor ejemplo de cumplir deberes sin queja lo fue Jesus ya que el cumplio con todo lo que debia hacer y sin queja alguna hechos 8 32 mis hermanos cada uno de nosotros tenemos deberes y compromisos y los debemos llevar a su fiel cumplimiento hasta la muerte apocalipsis 2 10 cuando somos infieles es porque hemos sido tentados por satanas y hemos cedido a la tentacion olvidando la seriedad e importancia de nuestras obligaciones cuando alguien es infiel no puede mirar a los ojos a los demas y no hay paz en medio de su diario vivir en 1 de corintios 4 2 dice se requiere de los administradores ya sea en dones ministerios etc que sean hallados fieles esto es una exigencia es algo indispensable de la unica manera en la que yo puedo cumplir con mi llamado es siendo fiel pero el detalle es que si soy infiel el espiritu santo no puede permanecer en mi juan 13 26 27 tenemos que entender que todo lo que se levanta en nuestra iglesia mega zoe es en fidelidad salmos 31 23 yo quiero serle fiel a jehova para que jehova me cuide de todo mal porque para Dios una persona fiel le es algo muy grande el lo cuida y lo guarda Dios sabe que el hombre y la mujer que son fieles cumplen con su llamado salmos 101 6 los ojos de jehova estan sobre los fieles de la tierra y esto es para que estemos con el solo el que es verdadero es el que es fiel y por eso alcanza la perfeccion mi meta de todos los dias tiene que ser el amar la perfeccion por eso Dios nos conserva y nos cuida para que algun dia estemos con el nehemias 13 13 como podemos apreciar en este versiculo siempre se busca a personas que cumplan con sus deberes y estos deberes se cumplen aunque tengamos cansancio sueno quebrantos con todo hay que ser fieles y verdaderos asi se habla de Jesus en apocalipsis 19 11 nosotros tenemos que ser mejores porque el detalle es que tenemos que cumplir con nuestros importantes deberes pues somos mayordomos la mayordomia se le da a personas fieles y un mayordomo no se puede quejar de su trabajo cuando Dios da a los mayordomos a servir a su pueblo a velar y cuidar sus posesiones y asuntos de su obra es para que ellos se cansen mas que nadie esa es su parte vemos que nehemias busco fieles para encargarles la obra de Dios nehemias necesitaba poner hombres fieles y comprometidos hombres de verdad y el detalle es que la fidelidad de esos mayordomos es para con el bueno y para con el malo juntamente proverbios 13 17 el mal mensajero acarrea mal mas el mensajero fiel acarrea salud sana las heridas del que sufre y detiene el mal lucas 16 10 el que es fiel en lo poco en lo mucho lo pondra jehova y cuando tenga mucho seguira creciendo 2 timoteo 2 2 mis hermanos de la unica forma en que puedo cumplir un ministerio es amando y siendo fiel porque el ser fiel es hasta el final amen",
+    "alias_busqueda": [
+      "Halla Fidelidad En Todo Nuestro Ser",
+      "1 Corintios",
+      "1 Corintios 1",
+      "1 Corintios 1:9",
+      "verdad",
+      "santidad",
+      "oración",
+      "arrepentimiento",
+      "Fidelidad de Dios"
+    ]
+  },
+  "revision_manual": {
+    "requiere_revision": false,
+    "motivo": ""
+  },
+  "ui": {
+    "mostrar_credito_en_header": true,
+    "mostrar_numero_estudio": true,
+    "mostrar_fecha": true,
+    "mostrar_topicos": true,
+    "permitir_favorito": true,
+    "permitir_compartir": true
+  }
+}

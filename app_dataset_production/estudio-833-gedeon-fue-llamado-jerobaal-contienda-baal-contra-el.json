@@ -1,0 +1,291 @@
+{
+  "id": "estudio-833-gedeon-fue-llamado-jerobaal-contienda-baal-contra-el",
+  "slug": "estudio-833-gedeon-fue-llamado-jerobaal-contienda-baal-contra-el",
+  "numero_estudio": 833,
+  "tipo_estudio": "Iglesia en las casas",
+  "ministerio": {
+    "iglesia": "Iglesia Cristiana Mega Zoe",
+    "pastora": "Pastora Edith Cruz",
+    "credito_corto": "Iglesia Cristiana Mega Zoe · Pastora Edith Cruz",
+    "credito_largo": "Contenido original de Iglesia Cristiana Mega Zoe, conservando el crédito ministerial correspondiente a la Pastora Edith Cruz."
+  },
+  "identidad_editorial": {
+    "idioma": "es",
+    "fuente_original": "documento_word",
+    "archivo_origen": "/Users/edwingadiel/Desktop/Estudios en Word/Estudio #833 Gedeón fue llamado Jerobaal = Contienda Baal contra él - Jueces 6 12-16.docx",
+    "estado_revision": "procesado",
+    "version_schema": "1.0"
+  },
+  "encabezado": {
+    "titulo": "Gedeón fue llamado Jerobaal=Contienda Baal Contra Él",
+    "subtitulo": null,
+    "cita_principal": "Jueces 6:12-16",
+    "resumen_corto": "Gedeón fue llamado Jerobaal=Contienda Baal Contra Él llama a discernir la batalla espiritual y atender la Palabra de Dios."
+  },
+  "fechas": {
+    "fecha_inicio": "2014-10-21",
+    "fecha_fin": "2014-10-27",
+    "fecha_texto_original": "SEMANA DEL 21 @ 27 OCTUBRE DE 2014",
+    "ano": 2014
+  },
+  "clasificacion_biblica": {
+    "libro_principal": "Jueces",
+    "capitulo_principal": 6,
+    "versiculos_principales": [
+      12,
+      13,
+      14,
+      15,
+      16
+    ],
+    "referencia_principal_normalizada": "Jueces 6:12-16",
+    "testamento_principal": "Antiguo Testamento"
+  },
+  "clasificacion_tematica": {
+    "topicos": [
+      "Guerra espiritual",
+      "Llamado de Dios",
+      "Palabra de Dios"
+    ],
+    "keywords": [
+      "verdad",
+      "santidad",
+      "arrepentimiento",
+      "perseverancia",
+      "reposo"
+    ]
+  },
+  "referencias_biblicas": [
+    {
+      "referencia": "Jueces 6:12-16",
+      "referencia_normalizada": "Jueces 6:12-16",
+      "libro": "Jueces",
+      "capitulo": 6,
+      "versiculos": [
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "tipo": "principal",
+      "clickeable": true
+    },
+    {
+      "referencia": "Jueces 6:12",
+      "referencia_normalizada": "Jueces 6:12",
+      "libro": "Jueces",
+      "capitulo": 6,
+      "versiculos": [
+        12
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Jueces 6:13",
+      "referencia_normalizada": "Jueces 6:13",
+      "libro": "Jueces",
+      "capitulo": 6,
+      "versiculos": [
+        13
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Deuteronomio 31:17",
+      "referencia_normalizada": "Deuteronomio 31:17",
+      "libro": "Deuteronomio",
+      "capitulo": 31,
+      "versiculos": [
+        17
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Deuteronomio 31:16",
+      "referencia_normalizada": "Deuteronomio 31:16",
+      "libro": "Deuteronomio",
+      "capitulo": 31,
+      "versiculos": [
+        16
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "1 Juan 4:18",
+      "referencia_normalizada": "1 Juan 4:18",
+      "libro": "1 Juan",
+      "capitulo": 4,
+      "versiculos": [
+        18
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Jueces 6:25",
+      "referencia_normalizada": "Jueces 6:25",
+      "libro": "Jueces",
+      "capitulo": 6,
+      "versiculos": [
+        25
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Jueces 6:21",
+      "referencia_normalizada": "Jueces 6:21",
+      "libro": "Jueces",
+      "capitulo": 6,
+      "versiculos": [
+        21
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Jueces 8:28",
+      "referencia_normalizada": "Jueces 8:28",
+      "libro": "Jueces",
+      "capitulo": 8,
+      "versiculos": [
+        28
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Jueces 6:11",
+      "referencia_normalizada": "Jueces 6:11",
+      "libro": "Jueces",
+      "capitulo": 6,
+      "versiculos": [
+        11
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Jueces 6:26, 27",
+      "referencia_normalizada": "Jueces 6:26,27",
+      "libro": "Jueces",
+      "capitulo": 6,
+      "versiculos": [
+        26,
+        27
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Jueces 7:7",
+      "referencia_normalizada": "Jueces 7:7",
+      "libro": "Jueces",
+      "capitulo": 7,
+      "versiculos": [
+        7
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Jueces 7:22",
+      "referencia_normalizada": "Jueces 7:22",
+      "libro": "Jueces",
+      "capitulo": 7,
+      "versiculos": [
+        22
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    }
+  ],
+  "contenido": {
+    "introduccion": null,
+    "secciones": [],
+    "contenido_completo": "Cuando el pueblo de Israel estaba alejado de Dios les llegaba el mal, eran derrotados y oprimidos por sus enemigos. En medio de esas circunstancias Gedeón fue un varón escogido para librar al pueblo del poder y de la opresión de sus enemigos madianitas, amalecitas y los hijos del oriente. (Jueces 6:12 \"Y el ángel de Jehová se le apareció, y le dijo: Jehová está contigo, varón esforzado y valiente.\") A pesar de ser un hombre valiente, Gedeón también tenía el mismo miedo que había en todos, él sabía que por haber dejado a Dios estaban expuestos al mal. Por esa razón, todavía estaba en él la duda. (Jueces 6:13 \"Y Gedeón le respondió: Ah, señor mío, si Jehová está con nosotros, ¿por qué nos ha sobrevenido todo esto? ¿Y dónde están todas sus maravillas que nuestros padres nos han contado, diciendo: ¿No nos sacó Jehová de Egipto? Y ahora Jehová nos ha desamparado y nos ha entregado en mano de los madianitas.\") En una pasada ocasión ya Dios le había dicho al pueblo (Deuteronomio 31:17 \"…y se encenderá mi furor contra él (el pueblo de Israel) en aquel día; y los abandonaré y esconderé de ellos mi rostro y serán consumidos; y vendrán sobre ellos muchos males y angustias y dirán en aquel día: ¿No me han venido estos males porque no está mi Dios en medio de mí?\") El pecado trajo el furor de Jehová, el abandono de su Dios, ya no tendrían Su rostro y serían consumidos. Por el pecado llegan los males y la angustia. Y dirán: \"¿No me han venido estos males porque no está mi Dios en medio de mí?\" Como que la culpa fuera de Dios al no estar con ellos, no pudiendo ver que son sus pecados los que han alejado al Señor.\n\nSegún la respuesta de Gedeón (Jueces 6:13) que fue en lamento, vemos que él también se lo creía sin poder ver el pecado de todos ellos. Dice: \"¿Y dónde están todas tus maravillas que nuestros padres nos han contado?\" Florecen todos los temores al no buscar a Dios y Gedeón deja ver que él también estaba lleno de los mismos temores. El pueblo se había ido detrás de otros dioses tal como el Señor le había dicho a Moisés (Deuteronomio 31:16). Los israelitas le quitaron el valor al pacto que Dios hizo con ellos; el pacto que decía que si lo buscaban tendrían su bendición y si no lo hacían les vendría el mal.\n\nHabía buenas cualidades en Gedeón, era un varón esforzado y valiente. Aunque, estaba lleno de temor, pero el perfecto amor echa fuera el temor (1 Juan 4:18). Él sabía que los suyos estaban llenos de miedo; por eso estaban escondidos en las cuevas y en los montes para ponerse a salvo de sus opresores. Así como el pueblo, el padre de Gedeón era adorador de Baal (Jueces 6:25 \"…y derriba el altar de Baal que tu padre tiene y corta también la imagen de Asera que está junto a él…). Ni aquel altar de Baal ni las imágenes de Asera le habían hecho nada bueno al pueblo sino que le trajeron la desgracia a los que antes Dios había libertado.\n\nDios le envía su Ángel a Gedeón y a aquel pueblo (Vers. 12). Apareció bajo el carácter y aspecto de viajero (Jueces 6:21 \"Y extendiendo el ángel de Jehová el báculo que tenía en su mano…) (El báculo es un palo o bastón que se usa para el apoyo de los viajeros.) Tuvieron una conversación tranquila pero inquietante para bien del pueblo de Dios que estaba oprimido (Vs. 11-21). El Ángel de Jehová se acomodó a la sombra para refrescarse y descansar (Vs. 11) y trabó conversación con Gedeón sobre el tema que ocupaba la atención del momento: la gravosa opresión de los madianitas. Dios quería inquietar a Gedeón a la guerra por su valentía y lo esforzado que podía ser. Empezó Dios a animar a Gedeón para ejercer su bien conocida proeza para el bien de su país (Jueces 8:28 \"Así fue subyugado Madián delante de los hijos de Israel y nunca más volvió a levantar cabeza. Y reposó la tierra cuarenta años en los días de Gedeón.\").\n\nCuando el Ángel de Dios se le apareció a Gedeón éste estaba en el lagar sacudiendo el trigo para esconderlo de sus fieros enemigos. (Jueces 6:11 \"…Gedeón estaba sacudiendo el trigo en el lagar, para esconderlo de los madianitas.\") ¡Cuan enfáticamente la historia nos deja ver la situación apremiante del pueblo! Gedeón estaba trillando pequeñas cantidades de grano en el lugar no apropiado, en el área del lagar (donde se pisaban las uvas). Lo hacía bajo un árbol y sobre la misma tierra con el fin de no hacer ruido y no sobre un piso de madera como debía hacerse. Todas estas circunstancias revelan el extremo temor en que vivía el pueblo.\n\nPero, Gedeón respondió al llamado de Dios. Echó fuera los temores y comenzó una gran lucha con valentía y fuerza. Levantó altar a Dios a cuenta de la idolatría de su padre e hizo holocausto al Señor con la madera de la imagen de Asera (Jueces 6:26, 27 \"…y edifica altar a Jehová tu Dios en la cumbre de este peñasco en lugar conveniente; y tomando el segundo toro sacrifícalo en holocausto con la madera de la imagen de Asera que habrás cortado. Entonces Gedeón tomó diez hombres de sus siervos e hizo como Jehová le dijo.\") Él hizo esto a escondidas (Vs. 27); como esforzado y valiente sabía lo que de ese día en adelante le vendría para querer destruirlo y traerle más temores. Pero, cuando se empieza uno no se puede detener, porque ya Dios le dio todas las fuerzas y tomó todo el control. Escogió Gedeón por órdenes de Dios solamente a 300 hombres para luchar (Jueces 7:7) y con ellos Dios hizo que 120,000 madianitas se mataran entre ellos mismos (Jueces 7:22 & 8:10). Salieron los enemigos derrotados y corriendo y solo se necesitaron unos pocos esforzados y valientes. ¡Quien quiera luchar sepa que será un ganador! ¡Los temores son vencidos con tu esfuerzo y con tu valentía! Amén.",
+    "contenido_renderizado": [
+      {
+        "tipo": "parrafo",
+        "texto": "Cuando el pueblo de Israel estaba alejado de Dios les llegaba el mal, eran derrotados y oprimidos por sus enemigos. En medio de esas circunstancias Gedeón fue un varón escogido para librar al pueblo del poder y de la opresión de sus enemigos madianitas, amalecitas y los hijos del oriente. (Jueces 6:12 \"Y el ángel de Jehová se le apareció, y le dijo: Jehová está contigo, varón esforzado y valiente.\") A pesar de ser un hombre valiente, Gedeón también tenía el mismo miedo que había en todos, él sabía que por haber dejado a Dios estaban expuestos al mal. Por esa razón, todavía estaba en él la duda. (Jueces 6:13 \"Y Gedeón le respondió: Ah, señor mío, si Jehová está con nosotros, ¿por qué nos ha sobrevenido todo esto? ¿Y dónde están todas sus maravillas que nuestros padres nos han contado, diciendo: ¿No nos sacó Jehová de Egipto? Y ahora Jehová nos ha desamparado y nos ha entregado en mano de los madianitas.\") En una pasada ocasión ya Dios le había dicho al pueblo (Deuteronomio 31:17 \"…y se encenderá mi furor contra él (el pueblo de Israel) en aquel día; y los abandonaré y esconderé de ellos mi rostro y serán consumidos; y vendrán sobre ellos muchos males y angustias y dirán en aquel día: ¿No me han venido estos males porque no está mi Dios en medio de mí?\") El pecado trajo el furor de Jehová, el abandono de su Dios, ya no tendrían Su rostro y serían consumidos. Por el pecado llegan los males y la angustia. Y dirán: \"¿No me han venido estos males porque no está mi Dios en medio de mí?\" Como que la culpa fuera de Dios al no estar con ellos, no pudiendo ver que son sus pecados los que han alejado al Señor.",
+        "referencias_inline": [
+          "Jueces 6:12",
+          "Jueces 6:13",
+          "Deuteronomio 31:17"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Según la respuesta de Gedeón (Jueces 6:13) que fue en lamento, vemos que él también se lo creía sin poder ver el pecado de todos ellos. Dice: \"¿Y dónde están todas tus maravillas que nuestros padres nos han contado?\" Florecen todos los temores al no buscar a Dios y Gedeón deja ver que él también estaba lleno de los mismos temores. El pueblo se había ido detrás de otros dioses tal como el Señor le había dicho a Moisés (Deuteronomio 31:16). Los israelitas le quitaron el valor al pacto que Dios hizo con ellos; el pacto que decía que si lo buscaban tendrían su bendición y si no lo hacían les vendría el mal.",
+        "referencias_inline": [
+          "Jueces 6:13",
+          "Deuteronomio 31:16"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Había buenas cualidades en Gedeón, era un varón esforzado y valiente. Aunque, estaba lleno de temor, pero el perfecto amor echa fuera el temor (1 Juan 4:18). Él sabía que los suyos estaban llenos de miedo; por eso estaban escondidos en las cuevas y en los montes para ponerse a salvo de sus opresores. Así como el pueblo, el padre de Gedeón era adorador de Baal (Jueces 6:25 \"…y derriba el altar de Baal que tu padre tiene y corta también la imagen de Asera que está junto a él…). Ni aquel altar de Baal ni las imágenes de Asera le habían hecho nada bueno al pueblo sino que le trajeron la desgracia a los que antes Dios había libertado.",
+        "referencias_inline": [
+          "1 Juan 4:18",
+          "Jueces 6:25"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Dios le envía su Ángel a Gedeón y a aquel pueblo (Vers. 12). Apareció bajo el carácter y aspecto de viajero (Jueces 6:21 \"Y extendiendo el ángel de Jehová el báculo que tenía en su mano…) (El báculo es un palo o bastón que se usa para el apoyo de los viajeros.) Tuvieron una conversación tranquila pero inquietante para bien del pueblo de Dios que estaba oprimido (Vs. 11-21). El Ángel de Jehová se acomodó a la sombra para refrescarse y descansar (Vs. 11) y trabó conversación con Gedeón sobre el tema que ocupaba la atención del momento: la gravosa opresión de los madianitas. Dios quería inquietar a Gedeón a la guerra por su valentía y lo esforzado que podía ser. Empezó Dios a animar a Gedeón para ejercer su bien conocida proeza para el bien de su país (Jueces 8:28 \"Así fue subyugado Madián delante de los hijos de Israel y nunca más volvió a levantar cabeza. Y reposó la tierra cuarenta años en los días de Gedeón.\").",
+        "referencias_inline": [
+          "Jueces 6:21",
+          "Jueces 8:28"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Cuando el Ángel de Dios se le apareció a Gedeón éste estaba en el lagar sacudiendo el trigo para esconderlo de sus fieros enemigos. (Jueces 6:11 \"…Gedeón estaba sacudiendo el trigo en el lagar, para esconderlo de los madianitas.\") ¡Cuan enfáticamente la historia nos deja ver la situación apremiante del pueblo! Gedeón estaba trillando pequeñas cantidades de grano en el lugar no apropiado, en el área del lagar (donde se pisaban las uvas). Lo hacía bajo un árbol y sobre la misma tierra con el fin de no hacer ruido y no sobre un piso de madera como debía hacerse. Todas estas circunstancias revelan el extremo temor en que vivía el pueblo.",
+        "referencias_inline": [
+          "Jueces 6:11"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Pero, Gedeón respondió al llamado de Dios. Echó fuera los temores y comenzó una gran lucha con valentía y fuerza. Levantó altar a Dios a cuenta de la idolatría de su padre e hizo holocausto al Señor con la madera de la imagen de Asera (Jueces 6:26, 27 \"…y edifica altar a Jehová tu Dios en la cumbre de este peñasco en lugar conveniente; y tomando el segundo toro sacrifícalo en holocausto con la madera de la imagen de Asera que habrás cortado. Entonces Gedeón tomó diez hombres de sus siervos e hizo como Jehová le dijo.\") Él hizo esto a escondidas (Vs. 27); como esforzado y valiente sabía lo que de ese día en adelante le vendría para querer destruirlo y traerle más temores. Pero, cuando se empieza uno no se puede detener, porque ya Dios le dio todas las fuerzas y tomó todo el control. Escogió Gedeón por órdenes de Dios solamente a 300 hombres para luchar (Jueces 7:7) y con ellos Dios hizo que 120,000 madianitas se mataran entre ellos mismos (Jueces 7:22 & 8:10). Salieron los enemigos derrotados y corriendo y solo se necesitaron unos pocos esforzados y valientes. ¡Quien quiera luchar sepa que será un ganador! ¡Los temores son vencidos con tu esfuerzo y con tu valentía! Amén.",
+        "referencias_inline": [
+          "Jueces 6:26,27",
+          "Jueces 7:7",
+          "Jueces 7:22"
+        ]
+      }
+    ]
+  },
+  "busqueda": {
+    "texto_indexable": "gedeon fue llamado jerobaal contienda baal contra el jueces 6 12 16 guerra espiritual llamado de Dios palabra de Dios verdad santidad arrepentimiento perseverancia reposo cuando el pueblo de israel estaba alejado de Dios les llegaba el mal eran derrotados y oprimidos por sus enemigos en medio de esas circunstancias gedeon fue un varon escogido para librar al pueblo del poder y de la opresion de sus enemigos madianitas amalecitas y los hijos del oriente jueces 6 12 y el angel de jehova se le aparecio y le dijo jehova esta contigo varon esforzado y valiente a pesar de ser un hombre valiente gedeon tambien tenia el mismo miedo que habia en todos el sabia que por haber dejado a Dios estaban expuestos al mal por esa razon todavia estaba en el la duda jueces 6 13 y gedeon le respondio ah senor mio si jehova esta con nosotros por que nos ha sobrevenido todo esto y donde estan todas sus maravillas que nuestros padres nos han contado diciendo no nos saco jehova de egipto y ahora jehova nos ha desamparado y nos ha entregado en mano de los madianitas en una pasada ocasion ya Dios le habia dicho al pueblo deuteronomio 31 17 y se encendera mi furor contra el el pueblo de israel en aquel dia y los abandonare y escondere de ellos mi rostro y seran consumidos y vendran sobre ellos muchos males y angustias y diran en aquel dia no me han venido estos males porque no esta mi Dios en medio de mi el pecado trajo el furor de jehova el abandono de su Dios ya no tendrian su rostro y serian consumidos por el pecado llegan los males y la angustia y diran no me han venido estos males porque no esta mi Dios en medio de mi como que la culpa fuera de Dios al no estar con ellos no pudiendo ver que son sus pecados los que han alejado al senor segun la respuesta de gedeon jueces 6 13 que fue en lamento vemos que el tambien se lo creia sin poder ver el pecado de todos ellos dice y donde estan todas tus maravillas que nuestros padres nos han contado florecen todos los temores al no buscar a Dios y gedeon deja ver que el tambien estaba lleno de los mismos temores el pueblo se habia ido detras de otros dioses tal como el senor le habia dicho a moises deuteronomio 31 16 los israelitas le quitaron el valor al pacto que Dios hizo con ellos el pacto que decia que si lo buscaban tendrian su bendicion y si no lo hacian les vendria el mal habia buenas cualidades en gedeon era un varon esforzado y valiente aunque estaba lleno de temor pero el perfecto amor echa fuera el temor 1 juan 4 18 el sabia que los suyos estaban llenos de miedo por eso estaban escondidos en las cuevas y en los montes para ponerse a salvo de sus opresores asi como el pueblo el padre de gedeon era adorador de baal jueces 6 25 y derriba el altar de baal que tu padre tiene y corta tambien la imagen de asera que esta junto a el ni aquel altar de baal ni las imagenes de asera le habian hecho nada bueno al pueblo sino que le trajeron la desgracia a los que antes Dios habia libertado Dios le envia su angel a gedeon y a aquel pueblo vers 12 aparecio bajo el caracter y aspecto de viajero jueces 6 21 y extendiendo el angel de jehova el baculo que tenia en su mano el baculo es un palo o baston que se usa para el apoyo de los viajeros tuvieron una conversacion tranquila pero inquietante para bien del pueblo de Dios que estaba oprimido vs 11 21 el angel de jehova se acomodo a la sombra para refrescarse y descansar vs 11 y trabo conversacion con gedeon sobre el tema que ocupaba la atencion del momento la gravosa opresion de los madianitas Dios queria inquietar a gedeon a la guerra por su valentia y lo esforzado que podia ser empezo Dios a animar a gedeon para ejercer su bien conocida proeza para el bien de su pais jueces 8 28 asi fue subyugado madian delante de los hijos de israel y nunca mas volvio a levantar cabeza y reposo la tierra cuarenta anos en los dias de gedeon cuando el angel de Dios se le aparecio a gedeon este estaba en el lagar sacudiendo el trigo para esconderlo de sus fieros enemigos jueces 6 11 gedeon estaba sacudiendo el trigo en el lagar para esconderlo de los madianitas cuan enfaticamente la historia nos deja ver la situacion apremiante del pueblo gedeon estaba trillando pequenas cantidades de grano en el lugar no apropiado en el area del lagar donde se pisaban las uvas lo hacia bajo un arbol y sobre la misma tierra con el fin de no hacer ruido y no sobre un piso de madera como debia hacerse todas estas circunstancias revelan el extremo temor en que vivia el pueblo pero gedeon respondio al llamado de Dios echo fuera los temores y comenzo una gran lucha con valentia y fuerza levanto altar a Dios a cuenta de la idolatria de su padre e hizo holocausto al senor con la madera de la imagen de asera jueces 6 26 27 y edifica altar a jehova tu Dios en la cumbre de este penasco en lugar conveniente y tomando el segundo toro sacrificalo en holocausto con la madera de la imagen de asera que habras cortado entonces gedeon tomo diez hombres de sus siervos e hizo como jehova le dijo el hizo esto a escondidas vs 27 como esforzado y valiente sabia lo que de ese dia en adelante le vendria para querer destruirlo y traerle mas temores pero cuando se empieza uno no se puede detener porque ya Dios le dio todas las fuerzas y tomo todo el control escogio gedeon por ordenes de Dios solamente a 300 hombres para luchar jueces 7 7 y con ellos Dios hizo que 120 000 madianitas se mataran entre ellos mismos jueces 7 22 8 10 salieron los enemigos derrotados y corriendo y solo se necesitaron unos pocos esforzados y valientes quien quiera luchar sepa que sera un ganador los temores son vencidos con tu esfuerzo y con tu valentia amen",
+    "alias_busqueda": [
+      "Gedeón fue llamado Jerobaal=Contienda Baal Contra Él",
+      "Jueces",
+      "Jueces 6",
+      "Jueces 6:12-16",
+      "verdad",
+      "santidad",
+      "arrepentimiento",
+      "perseverancia",
+      "Guerra espiritual",
+      "Llamado de Dios"
+    ]
+  },
+  "revision_manual": {
+    "requiere_revision": false,
+    "motivo": ""
+  },
+  "ui": {
+    "mostrar_credito_en_header": true,
+    "mostrar_numero_estudio": true,
+    "mostrar_fecha": true,
+    "mostrar_topicos": true,
+    "permitir_favorito": true,
+    "permitir_compartir": true
+  }
+}

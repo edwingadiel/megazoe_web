@@ -1,0 +1,521 @@
+{
+  "id": "estudio-993-decision-de-lo-que-quieres-ser",
+  "slug": "estudio-993-decision-de-lo-que-quieres-ser",
+  "numero_estudio": 993,
+  "tipo_estudio": "Iglesia en las casas",
+  "ministerio": {
+    "iglesia": "Iglesia Cristiana Mega Zoe",
+    "pastora": "Pastora Edith Cruz",
+    "credito_corto": "Iglesia Cristiana Mega Zoe · Pastora Edith Cruz",
+    "credito_largo": "Contenido original de Iglesia Cristiana Mega Zoe, conservando el crédito ministerial correspondiente a la Pastora Edith Cruz."
+  },
+  "identidad_editorial": {
+    "idioma": "es",
+    "fuente_original": "documento_word",
+    "archivo_origen": "/Users/edwingadiel/Desktop/Estudios en Word/Estudio #993 Decisión De Lo Que Quieres Ser - Números 13 8; 14 6-9.docx",
+    "estado_revision": "procesado",
+    "version_schema": "1.0"
+  },
+  "encabezado": {
+    "titulo": "Decisión De Lo Que Quieres Ser",
+    "subtitulo": null,
+    "cita_principal": "Números 13:8",
+    "resumen_corto": "Decisión De Lo Que Quieres Ser llama a atender la Palabra de Dios."
+  },
+  "fechas": {
+    "fecha_inicio": "2018-08-21",
+    "fecha_fin": "2018-08-27",
+    "fecha_texto_original": "SEMANA DEL 21 @ 27 AGOSTO DE 2018",
+    "ano": 2018
+  },
+  "clasificacion_biblica": {
+    "libro_principal": "Números",
+    "capitulo_principal": 13,
+    "versiculos_principales": [
+      8
+    ],
+    "referencia_principal_normalizada": "Números 13:8",
+    "testamento_principal": "Antiguo Testamento"
+  },
+  "clasificacion_tematica": {
+    "topicos": [
+      "Promesas de Dios",
+      "Palabra de Dios",
+      "Obediencia"
+    ],
+    "keywords": [
+      "verdad",
+      "santidad",
+      "oración",
+      "arrepentimiento",
+      "perseverancia"
+    ]
+  },
+  "referencias_biblicas": [
+    {
+      "referencia": "Números 13:8",
+      "referencia_normalizada": "Números 13:8",
+      "libro": "Números",
+      "capitulo": 13,
+      "versiculos": [
+        8
+      ],
+      "tipo": "principal",
+      "clickeable": true
+    },
+    {
+      "referencia": "Números 13:8,16",
+      "referencia_normalizada": "Números 13:8,16",
+      "libro": "Números",
+      "capitulo": 13,
+      "versiculos": [
+        8,
+        16
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Números 32:12",
+      "referencia_normalizada": "Números 32:12",
+      "libro": "Números",
+      "capitulo": 32,
+      "versiculos": [
+        12
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Josué 3:5",
+      "referencia_normalizada": "Josué 3:5",
+      "libro": "Josué",
+      "capitulo": 3,
+      "versiculos": [
+        5
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Josué 5:14",
+      "referencia_normalizada": "Josué 5:14",
+      "libro": "Josué",
+      "capitulo": 5,
+      "versiculos": [
+        14
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Josué 5:15",
+      "referencia_normalizada": "Josué 5:15",
+      "libro": "Josué",
+      "capitulo": 5,
+      "versiculos": [
+        15
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Éxodo 3:5",
+      "referencia_normalizada": "Éxodo 3:5",
+      "libro": "Éxodo",
+      "capitulo": 3,
+      "versiculos": [
+        5
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Josué 10:25",
+      "referencia_normalizada": "Josué 10:25",
+      "libro": "Josué",
+      "capitulo": 10,
+      "versiculos": [
+        25
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Josué 11:15",
+      "referencia_normalizada": "Josué 11:15",
+      "libro": "Josué",
+      "capitulo": 11,
+      "versiculos": [
+        15
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Deuteronomio 31:14",
+      "referencia_normalizada": "Deuteronomio 31:14",
+      "libro": "Deuteronomio",
+      "capitulo": 31,
+      "versiculos": [
+        14
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Éxodo 24:10 - 13",
+      "referencia_normalizada": "Éxodo 24:10-13",
+      "libro": "Éxodo",
+      "capitulo": 24,
+      "versiculos": [
+        10,
+        11,
+        12,
+        13
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Éxodo 33:11",
+      "referencia_normalizada": "Éxodo 33:11",
+      "libro": "Éxodo",
+      "capitulo": 33,
+      "versiculos": [
+        11
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Josué 24:15",
+      "referencia_normalizada": "Josué 24:15",
+      "libro": "Josué",
+      "capitulo": 24,
+      "versiculos": [
+        15
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    }
+  ],
+  "contenido": {
+    "introduccion": null,
+    "secciones": [],
+    "contenido_completo": "Una característica, una cualidad que nos permite identificar a algo o a alguien, distinguiéndolo de sus semejantes. Las características de una persona le hacen ver su carácter propio y específico. Cada cual tiene su personalidad. Tú eres absolutamente tú, nadie es igual a ti. Eres conforme a lo que has querido ser.\n\nUnos deciden servir a los dioses falsos de este mundo y se corrompen; pero si tú has decidido dedicar tu vida a Dios pues eres conforme a como Jesús te ha formado.\n\nI. Veamos aquí en las Escrituras a Oseas hijo de Nun. A este varón Oseas, Moisés le cambió el nombre y le llamó Josué (Números 13:8,16).\n\nA. Excepto Josué y Caleb, todos los demás espías de Israel que habían sido enviados a reconocer la tierra (Vs.13:2) decían: \"…es tierra que traga a sus moradores; y todo el pueblo que vimos en medio de ella son hombres de grande estatura.\" (Vs.13:32)\n\nLa falta de fe de estos varones los llenó de grandes temores.\n\n(Vs.13:31) Decían: \"No podremos contra ellos; porque es un pueblo más fuerte que nosotros.\"\n\nLa falta de fe los llevaba a darles malas noticias al pueblo de (Israel) Dios (Vs.32).\n\nEllos dudaban y no tuvieron en cuenta las promesas de Dios de que ese pueblo tendría la Tierra Prometida.\n\nSolo Josué y Caleb estaban llenos de fe. Pero los rebeldes se levantaban contra la fe en Dios (Vs.6 - 9).\n\nJosué y Caleb \"…rompieron sus vestidos.\" ¡Que valentía!\n\nSe metieron en medio de una rebelión de millones de israelitas.\n\nAquellos otros espías llevaron a todo el pueblo a dudar.\n\nPero, la fe de Josué le llevó a creerle al Dios de las promesas.\n\nLa fe surgió en medio de aquel acto de rebeldía y Josué dijo: \"…porque nosotros los comeremos como pan; su amparo se ha apartado de ellos y con nosotros está Jehová.\" (Vs.9) ¡Eso es fe! ¡No temer!\n\nB. Números 32:12 Josué y Caleb fueron PERFECTOS siguiendo a Jehová.\n\nEllos se consagraron, se dedicaron a Dios, se separaron para Dios.\n\n\"Fueron perfectos…\"; porque es Dios quién los llevaba.\n\nEl perfecto tiene todas las cualidades requeridas o deseables.\n\nEs el que reúne el más alto nivel posible.\n\nSi algo es perfecto, no hay posibilidad de hacerlo mejor, ya no existe nada superior a lo conseguido.\n\nEsto que aquí vemos es lo perfecto, así que no podemos pensar de lo perfecto como si fuera algo imposible de alcanzar.\n\nC. Josué 3:5 Josué estaba interesado en lo espiritual.\n\nLes dice: \"Santificaos (separaos), porque Jehová hará mañana maravillas…\"\n\nEl que se santifica ve maravillas, ve milagros, obtiene ganancias y victorias.\n\nLo que parece una derrota es nuestra victoria; Jesús en la Cruz obtuvo Su victoria, aunque allí llevó dolor, humillación y muerte.\n\nD. Vemos reverencia piadosa en Josué (Josué 5:14)\n\nJesús se le aparece. Y le dice a Josué: \"…como Príncipe del ejército de Jehová he venido ahora.\"\n\nDe inmediato, Josué se postró sobre su rostro en tierra. Le adoró y le dijo: ¿Qué dice mi Señor a su siervo?\n\nLo vemos sumiso, dispuesto, un amador del trabajo de Dios para con él.\n\n\"Quita el calzado de tus pies, porque el lugar donde estás es santo.\" (Josué 5:15)\n\nMoisés también escuchó estas palabras por boca del Señor (Éxodo 3:5).\n\nE. (Josué 10:25) El valor de Josué.\n\nValor en la guerra. Le decía al pueblo de Israel: \"No temáis… sed fuertes y valientes…\"\n\n¡Vamos a vencer a los enemigos! ¡Porque Dios está para defendernos!\n\n¡Que hagas temblar a tus enemigos, porque quien está contigo es Dios!\n\nSegún te enfrentas a las cosas así es como dejas ver tu valor, tus fuerzas.\n\nLo que haces es muestra de tu valentía, de tu valor.\n\nHay que tener el coraje para hacer lo que hay que hacer.\n\nF. Josué 11:15 Obediencia de Josué.\n\n\"…y así Josué lo hizo, sin quitar palabra de todo lo que Jehová había mandado a Moisés.\"\n\nNo añadió, ni quitó nada para conveniencia de él.\n\nJosué no trabajaba para él, era un siervo, trabajaba para el Dios de Moisés. Le fue fiel toda la vida y hasta la muerte de Moisés.\n\nÉl no se pertenecía.\n\nDeuteronomio 31:14 Dios le da a Josué el cargo.\n\nÉxodo 24:10 - 13 Josué servidor de Moisés.\n\nÉxodo 33:11 Como servidor de Moisés nunca se apartaba de su deber.\n\nTan obediente hasta el final.\n\nG. ¡Era un hombre de DECISIÓN! Josué 24:15\n\nLes decía: \"Si les parece bien sirvan a quien más quieran, pero yo…\"\n\nHoy día también el pueblo se define sobre a quién servir: a los dioses falsos o dirás tú como Josué: \"…pero yo y mi casa serviremos a Jehová.\"\n\n¡Se toma una determinación!\n\nHAY QUE SABER QUE ES LO MEJOR PARA ¡LA VIDA! Amén.",
+    "contenido_renderizado": [
+      {
+        "tipo": "parrafo",
+        "texto": "Una característica, una cualidad que nos permite identificar a algo o a alguien, distinguiéndolo de sus semejantes. Las características de una persona le hacen ver su carácter propio y específico. Cada cual tiene su personalidad. Tú eres absolutamente tú, nadie es igual a ti. Eres conforme a lo que has querido ser.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Unos deciden servir a los dioses falsos de este mundo y se corrompen; pero si tú has decidido dedicar tu vida a Dios pues eres conforme a como Jesús te ha formado.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "I. Veamos aquí en las Escrituras a Oseas hijo de Nun. A este varón Oseas, Moisés le cambió el nombre y le llamó Josué (Números 13:8,16).",
+        "referencias_inline": [
+          "Números 13:8,16"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "A. Excepto Josué y Caleb, todos los demás espías de Israel que habían sido enviados a reconocer la tierra (Vs.13:2) decían: \"…es tierra que traga a sus moradores; y todo el pueblo que vimos en medio de ella son hombres de grande estatura.\" (Vs.13:32)",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "La falta de fe de estos varones los llenó de grandes temores.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "(Vs.13:31) Decían: \"No podremos contra ellos; porque es un pueblo más fuerte que nosotros.\"",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "La falta de fe los llevaba a darles malas noticias al pueblo de (Israel) Dios (Vs.32).",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Ellos dudaban y no tuvieron en cuenta las promesas de Dios de que ese pueblo tendría la Tierra Prometida.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Solo Josué y Caleb estaban llenos de fe. Pero los rebeldes se levantaban contra la fe en Dios (Vs.6 - 9).",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Josué y Caleb \"…rompieron sus vestidos.\" ¡Que valentía!",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Se metieron en medio de una rebelión de millones de israelitas.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Aquellos otros espías llevaron a todo el pueblo a dudar.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Pero, la fe de Josué le llevó a creerle al Dios de las promesas.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "La fe surgió en medio de aquel acto de rebeldía y Josué dijo: \"…porque nosotros los comeremos como pan; su amparo se ha apartado de ellos y con nosotros está Jehová.\" (Vs.9) ¡Eso es fe! ¡No temer!",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "B. Números 32:12 Josué y Caleb fueron PERFECTOS siguiendo a Jehová.",
+        "referencias_inline": [
+          "Números 32:12"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Ellos se consagraron, se dedicaron a Dios, se separaron para Dios.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "\"Fueron perfectos…\"; porque es Dios quién los llevaba.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "El perfecto tiene todas las cualidades requeridas o deseables.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Es el que reúne el más alto nivel posible.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Si algo es perfecto, no hay posibilidad de hacerlo mejor, ya no existe nada superior a lo conseguido.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Esto que aquí vemos es lo perfecto, así que no podemos pensar de lo perfecto como si fuera algo imposible de alcanzar.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "C. Josué 3:5 Josué estaba interesado en lo espiritual.",
+        "referencias_inline": [
+          "Josué 3:5"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Les dice: \"Santificaos (separaos), porque Jehová hará mañana maravillas…\"",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "El que se santifica ve maravillas, ve milagros, obtiene ganancias y victorias.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Lo que parece una derrota es nuestra victoria; Jesús en la Cruz obtuvo Su victoria, aunque allí llevó dolor, humillación y muerte.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "D. Vemos reverencia piadosa en Josué (Josué 5:14)",
+        "referencias_inline": [
+          "Josué 5:14"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Jesús se le aparece. Y le dice a Josué: \"…como Príncipe del ejército de Jehová he venido ahora.\"",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "De inmediato, Josué se postró sobre su rostro en tierra. Le adoró y le dijo: ¿Qué dice mi Señor a su siervo?",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Lo vemos sumiso, dispuesto, un amador del trabajo de Dios para con él.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "\"Quita el calzado de tus pies, porque el lugar donde estás es santo.\" (Josué 5:15)",
+        "referencias_inline": [
+          "Josué 5:15"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Moisés también escuchó estas palabras por boca del Señor (Éxodo 3:5).",
+        "referencias_inline": [
+          "Éxodo 3:5"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "E. (Josué 10:25) El valor de Josué.",
+        "referencias_inline": [
+          "Josué 10:25"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Valor en la guerra. Le decía al pueblo de Israel: \"No temáis… sed fuertes y valientes…\"",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "¡Vamos a vencer a los enemigos! ¡Porque Dios está para defendernos!",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "¡Que hagas temblar a tus enemigos, porque quien está contigo es Dios!",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Según te enfrentas a las cosas así es como dejas ver tu valor, tus fuerzas.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Lo que haces es muestra de tu valentía, de tu valor.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Hay que tener el coraje para hacer lo que hay que hacer.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "F. Josué 11:15 Obediencia de Josué.",
+        "referencias_inline": [
+          "Josué 11:15"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "\"…y así Josué lo hizo, sin quitar palabra de todo lo que Jehová había mandado a Moisés.\"",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "No añadió, ni quitó nada para conveniencia de él.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Josué no trabajaba para él, era un siervo, trabajaba para el Dios de Moisés. Le fue fiel toda la vida y hasta la muerte de Moisés.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Él no se pertenecía.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Deuteronomio 31:14 Dios le da a Josué el cargo.",
+        "referencias_inline": [
+          "Deuteronomio 31:14"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Éxodo 24:10 - 13 Josué servidor de Moisés.",
+        "referencias_inline": [
+          "Éxodo 24:10-13"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Éxodo 33:11 Como servidor de Moisés nunca se apartaba de su deber.",
+        "referencias_inline": [
+          "Éxodo 33:11"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Tan obediente hasta el final.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "G. ¡Era un hombre de DECISIÓN! Josué 24:15",
+        "referencias_inline": [
+          "Josué 24:15"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Les decía: \"Si les parece bien sirvan a quien más quieran, pero yo…\"",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Hoy día también el pueblo se define sobre a quién servir: a los dioses falsos o dirás tú como Josué: \"…pero yo y mi casa serviremos a Jehová.\"",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "¡Se toma una determinación!",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "HAY QUE SABER QUE ES LO MEJOR PARA ¡LA VIDA! Amén.",
+        "referencias_inline": []
+      }
+    ]
+  },
+  "busqueda": {
+    "texto_indexable": "decision de lo que quieres ser numeros 13 8 promesas de Dios palabra de Dios obediencia verdad santidad oracion arrepentimiento perseverancia una caracteristica una cualidad que nos permite identificar a algo o a alguien distinguiendolo de sus semejantes las caracteristicas de una persona le hacen ver su caracter propio y especifico cada cual tiene su personalidad tu eres absolutamente tu nadie es igual a ti eres conforme a lo que has querido ser unos deciden servir a los dioses falsos de este mundo y se corrompen pero si tu has decidido dedicar tu vida a Dios pues eres conforme a como Jesus te ha formado i veamos aqui en las escrituras a oseas hijo de nun a este varon oseas moises le cambio el nombre y le llamo josue numeros 13 8 16 a excepto josue y caleb todos los demas espias de israel que habian sido enviados a reconocer la tierra vs 13 2 decian es tierra que traga a sus moradores y todo el pueblo que vimos en medio de ella son hombres de grande estatura vs 13 32 la falta de fe de estos varones los lleno de grandes temores vs 13 31 decian no podremos contra ellos porque es un pueblo mas fuerte que nosotros la falta de fe los llevaba a darles malas noticias al pueblo de israel Dios vs 32 ellos dudaban y no tuvieron en cuenta las promesas de Dios de que ese pueblo tendria la tierra prometida solo josue y caleb estaban llenos de fe pero los rebeldes se levantaban contra la fe en Dios vs 6 9 josue y caleb rompieron sus vestidos que valentia se metieron en medio de una rebelion de millones de israelitas aquellos otros espias llevaron a todo el pueblo a dudar pero la fe de josue le llevo a creerle al Dios de las promesas la fe surgio en medio de aquel acto de rebeldia y josue dijo porque nosotros los comeremos como pan su amparo se ha apartado de ellos y con nosotros esta jehova vs 9 eso es fe no temer b numeros 32 12 josue y caleb fueron perfectos siguiendo a jehova ellos se consagraron se dedicaron a Dios se separaron para Dios fueron perfectos porque es Dios quien los llevaba el perfecto tiene todas las cualidades requeridas o deseables es el que reune el mas alto nivel posible si algo es perfecto no hay posibilidad de hacerlo mejor ya no existe nada superior a lo conseguido esto que aqui vemos es lo perfecto asi que no podemos pensar de lo perfecto como si fuera algo imposible de alcanzar c josue 3 5 josue estaba interesado en lo espiritual les dice santificaos separaos porque jehova hara manana maravillas el que se santifica ve maravillas ve milagros obtiene ganancias y victorias lo que parece una derrota es nuestra victoria Jesus en la cruz obtuvo su victoria aunque alli llevo dolor humillacion y muerte d vemos reverencia piadosa en josue josue 5 14 Jesus se le aparece y le dice a josue como principe del ejercito de jehova he venido ahora de inmediato josue se postro sobre su rostro en tierra le adoro y le dijo que dice mi senor a su siervo lo vemos sumiso dispuesto un amador del trabajo de Dios para con el quita el calzado de tus pies porque el lugar donde estas es santo josue 5 15 moises tambien escucho estas palabras por boca del senor exodo 3 5 e josue 10 25 el valor de josue valor en la guerra le decia al pueblo de israel no temais sed fuertes y valientes vamos a vencer a los enemigos porque Dios esta para defendernos que hagas temblar a tus enemigos porque quien esta contigo es Dios segun te enfrentas a las cosas asi es como dejas ver tu valor tus fuerzas lo que haces es muestra de tu valentia de tu valor hay que tener el coraje para hacer lo que hay que hacer f josue 11 15 obediencia de josue y asi josue lo hizo sin quitar palabra de todo lo que jehova habia mandado a moises no anadio ni quito nada para conveniencia de el josue no trabajaba para el era un siervo trabajaba para el Dios de moises le fue fiel toda la vida y hasta la muerte de moises el no se pertenecia deuteronomio 31 14 Dios le da a josue el cargo exodo 24 10 13 josue servidor de moises exodo 33 11 como servidor de moises nunca se apartaba de su deber tan obediente hasta el final g era un hombre de decision josue 24 15 les decia si les parece bien sirvan a quien mas quieran pero yo hoy dia tambien el pueblo se define sobre a quien servir a los dioses falsos o diras tu como josue pero yo y mi casa serviremos a jehova se toma una determinacion hay que saber que es lo mejor para la vida amen",
+    "alias_busqueda": [
+      "Decisión De Lo Que Quieres Ser",
+      "Números",
+      "Números 13",
+      "Números 13:8",
+      "verdad",
+      "santidad",
+      "oración",
+      "arrepentimiento",
+      "Promesas de Dios",
+      "Palabra de Dios"
+    ]
+  },
+  "revision_manual": {
+    "requiere_revision": false,
+    "motivo": ""
+  },
+  "ui": {
+    "mostrar_credito_en_header": true,
+    "mostrar_numero_estudio": true,
+    "mostrar_fecha": true,
+    "mostrar_topicos": true,
+    "permitir_favorito": true,
+    "permitir_compartir": true
+  }
+}

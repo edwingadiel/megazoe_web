@@ -1,0 +1,256 @@
+{
+  "id": "estudio-303-mas-que-vencedores-por-medio-de-aquel-que-nos-amo",
+  "slug": "estudio-303-mas-que-vencedores-por-medio-de-aquel-que-nos-amo",
+  "numero_estudio": 303,
+  "tipo_estudio": "Iglesia en las casas",
+  "ministerio": {
+    "iglesia": "Iglesia Cristiana Mega Zoe",
+    "pastora": "Pastora Edith Cruz",
+    "credito_corto": "Iglesia Cristiana Mega Zoe · Pastora Edith Cruz",
+    "credito_largo": "Contenido original de Iglesia Cristiana Mega Zoe, conservando el crédito ministerial correspondiente a la Pastora Edith Cruz."
+  },
+  "identidad_editorial": {
+    "idioma": "es",
+    "fuente_original": "documento_word",
+    "archivo_origen": "/Users/edwingadiel/Desktop/Estudios en Word/Estudio #303 ¡Más que vencedores por medio de Aquél que nos amó! - Romanos 8 35-39.doc",
+    "estado_revision": "procesado",
+    "version_schema": "1.0"
+  },
+  "encabezado": {
+    "titulo": "Más Que Vencedores Por Medio De Aquél Que Nos Amó",
+    "subtitulo": null,
+    "cita_principal": "Romanos 8:35-39",
+    "resumen_corto": "Más Que Vencedores Por Medio De Aquél Que Nos Amó llama a recuperar el primer amor y vivir con la mirada puesta en la vida eterna."
+  },
+  "fechas": {
+    "fecha_inicio": "2003-06-17",
+    "fecha_fin": "2003-06-23",
+    "fecha_texto_original": "SEMANA DEL 17 @ 23 DE JUNIO DE 2003",
+    "ano": 2003
+  },
+  "clasificacion_biblica": {
+    "libro_principal": "Romanos",
+    "capitulo_principal": 8,
+    "versiculos_principales": [
+      35,
+      36,
+      37,
+      38,
+      39
+    ],
+    "referencia_principal_normalizada": "Romanos 8:35-39",
+    "testamento_principal": "Nuevo Testamento"
+  },
+  "clasificacion_tematica": {
+    "topicos": [
+      "Amor de Dios",
+      "Vida eterna",
+      "Pruebas"
+    ],
+    "keywords": [
+      "vida eterna",
+      "santidad",
+      "arrepentimiento",
+      "perseverancia",
+      "escrituras"
+    ]
+  },
+  "referencias_biblicas": [
+    {
+      "referencia": "Romanos 8:35-39",
+      "referencia_normalizada": "Romanos 8:35-39",
+      "libro": "Romanos",
+      "capitulo": 8,
+      "versiculos": [
+        35,
+        36,
+        37,
+        38,
+        39
+      ],
+      "tipo": "principal",
+      "clickeable": true
+    },
+    {
+      "referencia": "Romanos 8: 36",
+      "referencia_normalizada": "Romanos 8:36",
+      "libro": "Romanos",
+      "capitulo": 8,
+      "versiculos": [
+        36
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Romanos 8:37",
+      "referencia_normalizada": "Romanos 8:37",
+      "libro": "Romanos",
+      "capitulo": 8,
+      "versiculos": [
+        37
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "2 Corintios 7: 1",
+      "referencia_normalizada": "2 Corintios 7:1",
+      "libro": "2 Corintios",
+      "capitulo": 7,
+      "versiculos": [
+        1
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Juan 3:30",
+      "referencia_normalizada": "Juan 3:30",
+      "libro": "Juan",
+      "capitulo": 3,
+      "versiculos": [
+        30
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Gálatas 2: 20",
+      "referencia_normalizada": "Gálatas 2:20",
+      "libro": "Gálatas",
+      "capitulo": 2,
+      "versiculos": [
+        20
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Hechos 8: 32",
+      "referencia_normalizada": "Hechos 8:32",
+      "libro": "Hechos",
+      "capitulo": 8,
+      "versiculos": [
+        32
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Lucas 12: 11",
+      "referencia_normalizada": "Lucas 12:11",
+      "libro": "Lucas",
+      "capitulo": 12,
+      "versiculos": [
+        11
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Romanos 8:38",
+      "referencia_normalizada": "Romanos 8:38",
+      "libro": "Romanos",
+      "capitulo": 8,
+      "versiculos": [
+        38
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    },
+    {
+      "referencia": "Hebreos 9: 27",
+      "referencia_normalizada": "Hebreos 9:27",
+      "libro": "Hebreos",
+      "capitulo": 9,
+      "versiculos": [
+        27
+      ],
+      "tipo": "secundaria",
+      "clickeable": true
+    }
+  ],
+  "contenido": {
+    "introduccion": null,
+    "secciones": [],
+    "contenido_completo": "Las Escrituras no están basadas en cómo los seres humanos aman al Señor, sino que ellas se basan claramente en el amor del Padre para con nosotros. Si pudiéramos medir y pesar en una balanza el amor que nosotros tenemos por el Señor y lo comparáramos con el amor que Él nos tiene a nosotros ¿crees que la balanza quedaría nivelada? Claro que no. Su amor es muy especial. Pero aún así, tenemos nosotros que tener la meta de luchar todos los días hasta el final para amarlo con todas nuestras fuerzas.\n\nEl amor que sentimos por Jesús no puede ser en términos medios. En ocasiones, oímos a personas diciendo que no pueden terminar con lo que les atormenta (el alcohol, las drogas, la lujuria, etc.) ¿Sabes por qué? Porque, por lo general, el amor del ser humano hacia Dios es tibio. Si nuestro amor fuera fuerte todo aquello de la carne que le atrae moriría, pues el amor débil es el que no permite terminar con el mal de nuestro cuerpo. Debemos corresponderle al Padre quien dio lo mejor que tenía por amor a nosotros, envió a su único Hijo. Sin embargo, nosotros devolvemos con un amor débil, pobre, escaso y mediocre. El amor de Dios hacia nosotros es total. Si le amáramos como Él merece hubiese en nosotros mucha fuerza y mucha determinación, no tanto titubeo. Así seríamos fieles a Dios.\n\nPablo les escribe a los cristianos de Roma (Romanos 8:35-39) y les dice que aún si ellos pasaran por tribulación, por angustia, por persecución, por hambre, por desnudez o espada, nada les debe sacar de la fe del Hijo de Dios. Es claro para Pablo que ninguna de estas cosas nos puede separar de Cristo. Sólo la incapacidad de amar a Dios es lo que nos puede separar de Él. No hay ninguna circunstancia en nuestras vidas que sea más grande que este amor.\n\nPablo estaba a menudo en cárceles y en tribulaciones. Su amor a Cristo le hacía padecer por Él. Por eso tenemos que saber que cuando venimos a Dios nosotros también tenemos una muerte día tras día, pues somos muertos todo el tiempo. Romanos 8: 36 Pablo tenía todo lo difícil sobre él, persecución, tribulación, angustia, aflicción (dolor que arropa nuestro cuerpo y nuestra mente) porque estaba dispuesto hasta a morir. (2da Timoteo 4:5-7) El apóstol Pablo fue más que vencedor, pues somos más que vencedores por medio de aquel que nos amó. (Romanos 8:37)\n\nNuestra carne tiene que morir todo el tiempo para amarlo a Él. Dios nos da el espacio y el tiempo para que nuestra carne muera y vayamos delante de Él en perfección. (2 Corintios 7: 1) Por eso, iglesia, muere día a día y será para bien, mientras más tú mengües, más Cristo crece en ti. (Juan 3:30; Gálatas 2: 20) Somos como ovejas llevadas al matadero. Por eso tenemos que guardar silencio (Hechos 8: 32) y como ovejas no tenemos que defendernos nosotros mismos utilizando nuestras fuerzas humanas. (Lucas 12: 11) Cuando nos defendemos con nuestros débiles recursos humanos, entonces sí que las cosas se nos ponen difíciles. Él nos llamó, nos escogió desde el vientre de nuestra madre y el día que respondimos su amor, ¡comenzó a darnos la victoria, la que nos da fuerza para perseverar y durar hasta el final, hasta la eternidad! Pablo fue más allá de lo natural, él fue más allá de lo que es terrenal (Romanos 8:38), pues entendía que lo que nos puede separar del amor de Dios es la carnalidad.\n\nNada tiene derecho a separarnos de Él, ni ángeles, ni principados, ni aquello que Satanás pueda planificar en nuestra contra. Pues no hay nada más grande que Él. Ni lo que vendrá mañana, ni lo alto, ni lo profundo, ni todas las fuerzas ocultas nos podrán separar de este amor, pues ninguna cosa creada puede destruir nuestras vidas. Considera que aquello que es tentación y hoy se te ofrece en \"bandeja de plata\" mañana se pudre. Pero tú eres el que decide, si quieres vida o muerte. Recuerda que después de la muerte ya no se puede hacer nada. (Hebreos 9: 27) ¿Qué verdad nos conviene más que ésta? Jesús nos ama con un amor limpio que viene exclusivamente del Padre para ser entregado a hombres y a mujeres que le buscan. Por eso es imposible para mí apartarme de ese amor, pues no hay ninguna circunstancia que sea más grande en mi vida que este enorme amor. Nada nos puede separar de Él, ni la vida, ni lo que me pueda ofrecer el futuro, ni la vanagloria de la vida, ni aún lo que soplen los vientos mañana, ni aún la muerte, pues, al contrario, ésta nos lleva a mayor plenitud, a su presencia en el Cielo. Hermano, no hay razón para vivir en derrota, pues puerta que se abre aquí es puerta abierta en el Cielo, puerta cerrada aquí es puerta cerrada en el Cielo. Por eso iglesia, ámalo con todas tus fuerzas y verás el bien en tu casa, en tu isla y en Mega Zoé.\n\nPiensa en todo lo que nos espera en el Cielo, un nombre nuevo, el árbol de la vida, una morada, y sobre todo la vida eterna. Por eso, aunque seamos contados como oveja día tras día, tenemos que morir a la carne, pues todo se hace pequeño ante tan grande amor. Un amor que trae paz y mucha oportunidad, pues aunque el diablo busque mil formas para separarme de Él todas ellas me acercan más, pues soy y somos más que vencedores. Acuérdate iglesia, ¡MÁS QUE VENCEDORES POR MEDIO DE AQUEL QUE NOS AMÓ! Amén.",
+    "contenido_renderizado": [
+      {
+        "tipo": "parrafo",
+        "texto": "Las Escrituras no están basadas en cómo los seres humanos aman al Señor, sino que ellas se basan claramente en el amor del Padre para con nosotros. Si pudiéramos medir y pesar en una balanza el amor que nosotros tenemos por el Señor y lo comparáramos con el amor que Él nos tiene a nosotros ¿crees que la balanza quedaría nivelada? Claro que no. Su amor es muy especial. Pero aún así, tenemos nosotros que tener la meta de luchar todos los días hasta el final para amarlo con todas nuestras fuerzas.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "El amor que sentimos por Jesús no puede ser en términos medios. En ocasiones, oímos a personas diciendo que no pueden terminar con lo que les atormenta (el alcohol, las drogas, la lujuria, etc.) ¿Sabes por qué? Porque, por lo general, el amor del ser humano hacia Dios es tibio. Si nuestro amor fuera fuerte todo aquello de la carne que le atrae moriría, pues el amor débil es el que no permite terminar con el mal de nuestro cuerpo. Debemos corresponderle al Padre quien dio lo mejor que tenía por amor a nosotros, envió a su único Hijo. Sin embargo, nosotros devolvemos con un amor débil, pobre, escaso y mediocre. El amor de Dios hacia nosotros es total. Si le amáramos como Él merece hubiese en nosotros mucha fuerza y mucha determinación, no tanto titubeo. Así seríamos fieles a Dios.",
+        "referencias_inline": []
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Pablo les escribe a los cristianos de Roma (Romanos 8:35-39) y les dice que aún si ellos pasaran por tribulación, por angustia, por persecución, por hambre, por desnudez o espada, nada les debe sacar de la fe del Hijo de Dios. Es claro para Pablo que ninguna de estas cosas nos puede separar de Cristo. Sólo la incapacidad de amar a Dios es lo que nos puede separar de Él. No hay ninguna circunstancia en nuestras vidas que sea más grande que este amor.",
+        "referencias_inline": [
+          "Romanos 8:35-39"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Pablo estaba a menudo en cárceles y en tribulaciones. Su amor a Cristo le hacía padecer por Él. Por eso tenemos que saber que cuando venimos a Dios nosotros también tenemos una muerte día tras día, pues somos muertos todo el tiempo. Romanos 8: 36 Pablo tenía todo lo difícil sobre él, persecución, tribulación, angustia, aflicción (dolor que arropa nuestro cuerpo y nuestra mente) porque estaba dispuesto hasta a morir. (2da Timoteo 4:5-7) El apóstol Pablo fue más que vencedor, pues somos más que vencedores por medio de aquel que nos amó. (Romanos 8:37)",
+        "referencias_inline": [
+          "Romanos 8:36",
+          "Romanos 8:37"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Nuestra carne tiene que morir todo el tiempo para amarlo a Él. Dios nos da el espacio y el tiempo para que nuestra carne muera y vayamos delante de Él en perfección. (2 Corintios 7: 1) Por eso, iglesia, muere día a día y será para bien, mientras más tú mengües, más Cristo crece en ti. (Juan 3:30; Gálatas 2: 20) Somos como ovejas llevadas al matadero. Por eso tenemos que guardar silencio (Hechos 8: 32) y como ovejas no tenemos que defendernos nosotros mismos utilizando nuestras fuerzas humanas. (Lucas 12: 11) Cuando nos defendemos con nuestros débiles recursos humanos, entonces sí que las cosas se nos ponen difíciles. Él nos llamó, nos escogió desde el vientre de nuestra madre y el día que respondimos su amor, ¡comenzó a darnos la victoria, la que nos da fuerza para perseverar y durar hasta el final, hasta la eternidad! Pablo fue más allá de lo natural, él fue más allá de lo que es terrenal (Romanos 8:38), pues entendía que lo que nos puede separar del amor de Dios es la carnalidad.",
+        "referencias_inline": [
+          "2 Corintios 7:1",
+          "Juan 3:30",
+          "Gálatas 2:20",
+          "Hechos 8:32",
+          "Lucas 12:11",
+          "Romanos 8:38"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Nada tiene derecho a separarnos de Él, ni ángeles, ni principados, ni aquello que Satanás pueda planificar en nuestra contra. Pues no hay nada más grande que Él. Ni lo que vendrá mañana, ni lo alto, ni lo profundo, ni todas las fuerzas ocultas nos podrán separar de este amor, pues ninguna cosa creada puede destruir nuestras vidas. Considera que aquello que es tentación y hoy se te ofrece en \"bandeja de plata\" mañana se pudre. Pero tú eres el que decide, si quieres vida o muerte. Recuerda que después de la muerte ya no se puede hacer nada. (Hebreos 9: 27) ¿Qué verdad nos conviene más que ésta? Jesús nos ama con un amor limpio que viene exclusivamente del Padre para ser entregado a hombres y a mujeres que le buscan. Por eso es imposible para mí apartarme de ese amor, pues no hay ninguna circunstancia que sea más grande en mi vida que este enorme amor. Nada nos puede separar de Él, ni la vida, ni lo que me pueda ofrecer el futuro, ni la vanagloria de la vida, ni aún lo que soplen los vientos mañana, ni aún la muerte, pues, al contrario, ésta nos lleva a mayor plenitud, a su presencia en el Cielo. Hermano, no hay razón para vivir en derrota, pues puerta que se abre aquí es puerta abierta en el Cielo, puerta cerrada aquí es puerta cerrada en el Cielo. Por eso iglesia, ámalo con todas tus fuerzas y verás el bien en tu casa, en tu isla y en Mega Zoé.",
+        "referencias_inline": [
+          "Hebreos 9:27"
+        ]
+      },
+      {
+        "tipo": "parrafo",
+        "texto": "Piensa en todo lo que nos espera en el Cielo, un nombre nuevo, el árbol de la vida, una morada, y sobre todo la vida eterna. Por eso, aunque seamos contados como oveja día tras día, tenemos que morir a la carne, pues todo se hace pequeño ante tan grande amor. Un amor que trae paz y mucha oportunidad, pues aunque el diablo busque mil formas para separarme de Él todas ellas me acercan más, pues soy y somos más que vencedores. Acuérdate iglesia, ¡MÁS QUE VENCEDORES POR MEDIO DE AQUEL QUE NOS AMÓ! Amén.",
+        "referencias_inline": []
+      }
+    ]
+  },
+  "busqueda": {
+    "texto_indexable": "mas que vencedores por medio de aquel que nos amo romanos 8 35 39 amor de Dios vida eterna pruebas vida eterna santidad arrepentimiento perseverancia escrituras las escrituras no estan basadas en como los seres humanos aman al senor sino que ellas se basan claramente en el amor del padre para con nosotros si pudieramos medir y pesar en una balanza el amor que nosotros tenemos por el senor y lo compararamos con el amor que el nos tiene a nosotros crees que la balanza quedaria nivelada claro que no su amor es muy especial pero aun asi tenemos nosotros que tener la meta de luchar todos los dias hasta el final para amarlo con todas nuestras fuerzas el amor que sentimos por Jesus no puede ser en terminos medios en ocasiones oimos a personas diciendo que no pueden terminar con lo que les atormenta el alcohol las drogas la lujuria etc sabes por que porque por lo general el amor del ser humano hacia Dios es tibio si nuestro amor fuera fuerte todo aquello de la carne que le atrae moriria pues el amor debil es el que no permite terminar con el mal de nuestro cuerpo debemos corresponderle al padre quien dio lo mejor que tenia por amor a nosotros envio a su unico hijo sin embargo nosotros devolvemos con un amor debil pobre escaso y mediocre el amor de Dios hacia nosotros es total si le amaramos como el merece hubiese en nosotros mucha fuerza y mucha determinacion no tanto titubeo asi seriamos fieles a Dios pablo les escribe a los cristianos de roma romanos 8 35 39 y les dice que aun si ellos pasaran por tribulacion por angustia por persecucion por hambre por desnudez o espada nada les debe sacar de la fe del hijo de Dios es claro para pablo que ninguna de estas cosas nos puede separar de cristo solo la incapacidad de amar a Dios es lo que nos puede separar de el no hay ninguna circunstancia en nuestras vidas que sea mas grande que este amor pablo estaba a menudo en carceles y en tribulaciones su amor a cristo le hacia padecer por el por eso tenemos que saber que cuando venimos a Dios nosotros tambien tenemos una muerte dia tras dia pues somos muertos todo el tiempo romanos 8 36 pablo tenia todo lo dificil sobre el persecucion tribulacion angustia afliccion dolor que arropa nuestro cuerpo y nuestra mente porque estaba dispuesto hasta a morir 2da timoteo 4 5 7 el apostol pablo fue mas que vencedor pues somos mas que vencedores por medio de aquel que nos amo romanos 8 37 nuestra carne tiene que morir todo el tiempo para amarlo a el Dios nos da el espacio y el tiempo para que nuestra carne muera y vayamos delante de el en perfeccion 2 corintios 7 1 por eso iglesia muere dia a dia y sera para bien mientras mas tu mengues mas cristo crece en ti juan 3 30 galatas 2 20 somos como ovejas llevadas al matadero por eso tenemos que guardar silencio hechos 8 32 y como ovejas no tenemos que defendernos nosotros mismos utilizando nuestras fuerzas humanas lucas 12 11 cuando nos defendemos con nuestros debiles recursos humanos entonces si que las cosas se nos ponen dificiles el nos llamo nos escogio desde el vientre de nuestra madre y el dia que respondimos su amor comenzo a darnos la victoria la que nos da fuerza para perseverar y durar hasta el final hasta la eternidad pablo fue mas alla de lo natural el fue mas alla de lo que es terrenal romanos 8 38 pues entendia que lo que nos puede separar del amor de Dios es la carnalidad nada tiene derecho a separarnos de el ni angeles ni principados ni aquello que satanas pueda planificar en nuestra contra pues no hay nada mas grande que el ni lo que vendra manana ni lo alto ni lo profundo ni todas las fuerzas ocultas nos podran separar de este amor pues ninguna cosa creada puede destruir nuestras vidas considera que aquello que es tentacion y hoy se te ofrece en bandeja de plata manana se pudre pero tu eres el que decide si quieres vida o muerte recuerda que despues de la muerte ya no se puede hacer nada hebreos 9 27 que verdad nos conviene mas que esta Jesus nos ama con un amor limpio que viene exclusivamente del padre para ser entregado a hombres y a mujeres que le buscan por eso es imposible para mi apartarme de ese amor pues no hay ninguna circunstancia que sea mas grande en mi vida que este enorme amor nada nos puede separar de el ni la vida ni lo que me pueda ofrecer el futuro ni la vanagloria de la vida ni aun lo que soplen los vientos manana ni aun la muerte pues al contrario esta nos lleva a mayor plenitud a su presencia en el cielo hermano no hay razon para vivir en derrota pues puerta que se abre aqui es puerta abierta en el cielo puerta cerrada aqui es puerta cerrada en el cielo por eso iglesia amalo con todas tus fuerzas y veras el bien en tu casa en tu isla y en mega zoe piensa en todo lo que nos espera en el cielo un nombre nuevo el arbol de la vida una morada y sobre todo la vida eterna por eso aunque seamos contados como oveja dia tras dia tenemos que morir a la carne pues todo se hace pequeno ante tan grande amor un amor que trae paz y mucha oportunidad pues aunque el diablo busque mil formas para separarme de el todas ellas me acercan mas pues soy y somos mas que vencedores acuerdate iglesia mas que vencedores por medio de aquel que nos amo amen",
+    "alias_busqueda": [
+      "Más Que Vencedores Por Medio De Aquél Que Nos Amó",
+      "Romanos",
+      "Romanos 8",
+      "Romanos 8:35-39",
+      "vida eterna",
+      "santidad",
+      "arrepentimiento",
+      "perseverancia",
+      "Amor de Dios"
+    ]
+  },
+  "revision_manual": {
+    "requiere_revision": false,
+    "motivo": ""
+  },
+  "ui": {
+    "mostrar_credito_en_header": true,
+    "mostrar_numero_estudio": true,
+    "mostrar_fecha": true,
+    "mostrar_topicos": true,
+    "permitir_favorito": true,
+    "permitir_compartir": true
+  }
+}
