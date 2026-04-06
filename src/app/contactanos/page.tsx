@@ -10,14 +10,15 @@ export const metadata: Metadata = {
 export default function ContactanosPage() {
   return (
     <div className="pt-[80px]">
-      {/* Header */}
-      <section className="py-16 px-6 bg-white border-b border-gray-100">
+      {/* Header — consistent centered pattern */}
+      <section className="py-20 md:py-24 px-6 bg-white">
         <div className="max-w-4xl mx-auto text-center">
-          <div className="w-12 h-px bg-gold mx-auto mb-8" />
-          <h1 className="font-heading text-4xl md:text-5xl font-light uppercase tracking-wider text-gray-800 mb-4">
+          <div className="w-16 h-px bg-gold mx-auto mb-8" />
+          <p className="font-body text-xs text-gold tracking-[0.3em] uppercase mb-4">Estamos para ti</p>
+          <h1 className="font-heading text-4xl md:text-6xl font-light text-gray-800 mb-5">
             Contáctanos
           </h1>
-          <p className="text-gray-500 text-sm max-w-md mx-auto leading-relaxed">
+          <p className="text-gray-500 text-base leading-relaxed max-w-2xl mx-auto">
             Nos encantaría saber de ti. Deja tu mensaje y pronto te responderemos. ¡Dios le bendiga!
           </p>
         </div>

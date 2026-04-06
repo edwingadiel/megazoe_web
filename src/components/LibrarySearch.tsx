@@ -1,6 +1,6 @@
 'use client';
 
-import { useState, useMemo, useCallback, useEffect } from 'react';
+import { useState, useMemo, useCallback, useEffect, useRef } from 'react';
 import { useSearchParams } from 'next/navigation';
 import Link from 'next/link';
 import type { EstudioCard } from '@/lib/estudios';
@@ -136,13 +136,15 @@ export default function LibrarySearch({ estudios, topicos, libros }: Props) {
     setPage(1);
   };
 
+  const resultsRef = useRef<HTMLDivElement>(null);
+
   const handlePageChange = (p: number) => {
     setPage(p);
-    window.scrollTo({ top: 0, behavior: 'smooth' });
+    resultsRef.current?.scrollIntoView({ behavior: 'smooth', block: 'start' });
   };
 
   return (
-    <div>
+    <div ref={resultsRef}>
       {/* Search bar */}
       <div className="max-w-6xl mx-auto px-6 mb-8">
         <div className="flex flex-col md:flex-row gap-3">
@@ -181,16 +183,16 @@ export default function LibrarySearch({ estudios, topicos, libros }: Props) {
 
         {/* Filters panel */}
         {showFilters && (
-          <div className="mt-3 p-5 bg-cream border border-gold/20 grid grid-cols-1 md:grid-cols-3 gap-4">
+          <div className="mt-3 p-6 bg-white border border-gray-100 shadow-sm grid grid-cols-1 md:grid-cols-3 gap-5">
             {/* Testamento */}
             <div>
-              <label className="font-body block text-xs tracking-widest uppercase text-gray-500 mb-2">
+              <label className="font-body block text-xs tracking-widest uppercase text-gold/70 mb-2.5">
                 Testamento
               </label>
               <select
                 value={selectedTestamento}
                 onChange={(e) => handleFilter(setSelectedTestamento, e.target.value)}
-                className="w-full font-body border border-gray-200 bg-white px-3 py-2 text-sm text-black focus:outline-none focus:border-gold focus:ring-1 focus:ring-gold/30 transition-colors"
+                className="w-full font-body border-b border-gray-200 bg-transparent px-1 py-2.5 text-sm text-gray-700 focus:outline-none focus:border-gold transition-colors appearance-none cursor-pointer"
               >
                 <option value="">Todos</option>
                 <option value="Antiguo Testamento">Antiguo Testamento</option>
@@ -200,13 +202,13 @@ export default function LibrarySearch({ estudios, topicos, libros }: Props) {
 
             {/* Libro */}
             <div>
-              <label className="font-body block text-xs tracking-widest uppercase text-gray-500 mb-2">
+              <label className="font-body block text-xs tracking-widest uppercase text-gold/70 mb-2.5">
                 Libro de la Biblia
               </label>
               <select
                 value={selectedLibro}
                 onChange={(e) => handleFilter(setSelectedLibro, e.target.value)}
-                className="w-full font-body border border-gray-200 bg-white px-3 py-2 text-sm text-black focus:outline-none focus:border-gold focus:ring-1 focus:ring-gold/30 transition-colors"
+                className="w-full font-body border-b border-gray-200 bg-transparent px-1 py-2.5 text-sm text-gray-700 focus:outline-none focus:border-gold transition-colors appearance-none cursor-pointer"
               >
                 <option value="">Todos los libros</option>
                 <optgroup label="— Antiguo Testamento —">
@@ -224,13 +226,13 @@ export default function LibrarySearch({ estudios, topicos, libros }: Props) {
 
             {/* Tópico */}
             <div>
-              <label className="font-body block text-xs tracking-widest uppercase text-gray-500 mb-2">
+              <label className="font-body block text-xs tracking-widest uppercase text-gold/70 mb-2.5">
                 Tópico
               </label>
               <select
                 value={selectedTopico}
                 onChange={(e) => handleFilter(setSelectedTopico, e.target.value)}
-                className="w-full font-body border border-gray-200 bg-white px-3 py-2 text-sm text-black focus:outline-none focus:border-gold focus:ring-1 focus:ring-gold/30 transition-colors"
+                className="w-full font-body border-b border-gray-200 bg-transparent px-1 py-2.5 text-sm text-gray-700 focus:outline-none focus:border-gold transition-colors appearance-none cursor-pointer"
               >
                 <option value="">Todos los tópicos</option>
                 {topicos.map((t) => (
@@ -240,7 +242,7 @@ export default function LibrarySearch({ estudios, topicos, libros }: Props) {
             </div>
 
             {activeFilters > 0 && (
-              <div className="md:col-span-3 flex justify-end">
+              <div className="md:col-span-3 flex justify-end pt-2">
                 <button
                   onClick={clearFilters}
                   className="font-body text-xs tracking-widest uppercase text-gold hover:text-gold-dark transition-colors focus:outline-none focus-visible:ring-2 focus-visible:ring-gold rounded"

@@ -1,6 +1,5 @@
 import type { Metadata } from 'next';
 import MusicPlayer from '@/components/MusicPlayer';
-import SocialIcons from '@/components/SocialIcons';
 
 export const metadata: Metadata = {
   title: 'Música | Iglesia Mega Zoé',
@@ -10,35 +9,27 @@ export const metadata: Metadata = {
 export default function MusicaPage() {
   return (
     <div className="pt-[80px] pb-24">
-      {/* Header */}
-      <section className="py-16 px-6 bg-white border-b border-gray-100">
-        <div className="max-w-6xl mx-auto">
-          <div className="w-12 h-px bg-gold mb-8" />
-          <h1 className="font-heading text-4xl md:text-5xl font-light uppercase tracking-wider text-gray-800 mb-4">
+      {/* Header — consistent centered pattern */}
+      <section className="py-20 md:py-24 px-6 bg-white">
+        <div className="max-w-4xl mx-auto text-center">
+          <div className="w-16 h-px bg-gold mx-auto mb-8" />
+          <p className="font-body text-xs text-gold tracking-[0.3em] uppercase mb-4">Adoración y Alabanza</p>
+          <h1 className="font-heading text-4xl md:text-6xl font-light text-gray-800 mb-5">
             Música
           </h1>
-          <p className="text-gray-500 text-sm max-w-xl leading-relaxed">
+          <p className="text-gray-500 text-base leading-relaxed max-w-2xl mx-auto">
             Adoración y alabanza que edifica el espíritu y glorifica a Dios. Escucha las canciones de Iglesia Mega Zoé.
           </p>
         </div>
       </section>
 
       {/* Music Player */}
-      <section className="py-12 px-6 bg-white">
+      <section className="py-12 px-6 bg-cream">
         <div className="max-w-4xl mx-auto">
           <MusicPlayer />
         </div>
       </section>
 
-      {/* Social */}
-      <section className="py-16 px-6 bg-cream border-t border-gray-100">
-        <div className="max-w-4xl mx-auto text-center">
-          <h2 className="font-heading text-2xl font-light text-gray-800 mb-10">
-            Síguenos en todas las plataformas
-          </h2>
-          <SocialIcons className="justify-center" />
-        </div>
-      </section>
     </div>
   );
 }

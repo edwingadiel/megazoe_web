@@ -1,6 +1,7 @@
 'use client';
 
 import Link from 'next/link';
+import Image from 'next/image';
 import { usePathname } from 'next/navigation';
 import { useState, useEffect } from 'react';
 import { Menu, X } from 'lucide-react';
@@ -45,9 +46,15 @@ export default function Navbar() {
       <div className="max-w-7xl mx-auto px-6 flex items-center justify-between">
         {/* Logo */}
         <Link href="/" onClick={handleLogoClick} className="flex items-center focus:outline-none focus-visible:ring-2 focus-visible:ring-gold focus-visible:ring-offset-2 rounded">
-          <span className="font-logo text-3xl md:text-4xl text-gray-800 select-none">
-            Mega Zoé
-          </span>
+          <Image
+            src="/images/logo-megazoe.png"
+            alt="Mega Zoé"
+            width={225}
+            height={82}
+            className="h-12 md:h-14 w-auto select-none"
+            priority
+            unoptimized
+          />
         </Link>
 
         {/* Desktop Nav */}

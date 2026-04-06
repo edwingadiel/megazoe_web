@@ -21,25 +21,26 @@ export default function BibliotecaPage() {
   return (
     <div className="pt-[80px]">
       {/* Header */}
-      <section className="py-16 px-6 bg-white border-b border-gray-100">
-        <div className="max-w-6xl mx-auto">
-          <div className="w-12 h-px bg-gold mb-8" />
-          <h1 className="font-heading text-4xl md:text-5xl font-light uppercase tracking-wider text-gray-800 mb-4">
+      <section className="py-20 md:py-24 px-6 bg-white">
+        <div className="max-w-4xl mx-auto text-center">
+          <div className="w-16 h-px bg-gold mx-auto mb-8" />
+          <p className="font-body text-xs text-gold tracking-[0.3em] uppercase mb-4">Estudios Bíblicos</p>
+          <h1 className="font-heading text-4xl md:text-6xl font-light text-gray-800 mb-5">
             Biblioteca
           </h1>
-          <p className="text-gray-500 text-sm mb-8 max-w-xl leading-relaxed">
-            Estudios bíblicos originales de la Pastora Edith Cruz. Busca por libro, tópico, o cualquier palabra clave.
+          <p className="text-gray-500 text-base leading-relaxed max-w-2xl mx-auto mb-12">
+            Estudios bíblicos originales de la Pastora Edith Cruz. Busca por libro de la Biblia, tópico, o cualquier palabra clave.
           </p>
 
           {/* Stats */}
-          <div className="flex items-center gap-10">
+          <div className="flex items-center justify-center gap-12 md:gap-16">
             {[
               { num: totalEstudios.toLocaleString(), label: 'Estudios' },
               { num: totalTopicos.toString(), label: 'Tópicos' },
               { num: totalLibros.toString(), label: 'Libros' },
             ].map(({ num, label }) => (
               <div key={label}>
-                <p className="font-heading text-2xl font-light text-gold">
+                <p className="font-heading text-3xl md:text-4xl font-light text-gold">
                   {num}
                 </p>
                 <p className="font-body text-gray-400 text-xs tracking-widest uppercase mt-1">

@@ -145,11 +145,13 @@ export default async function EstudioPage({ params }: Props) {
             <div>
               {paragraphs.map((p, i) => {
                 const text = p.texto.trim();
+                if (!text) return null;
+
                 // Detect section headings: Roman numerals, lettered outlines, ALL CAPS short lines
                 const isMainHeading = /^[IVXLC]+\.\s/.test(text);
                 const isSubHeading = /^[a-zA-Z]\.\s/.test(text) && text.length < 80;
                 const isShout = text === text.toUpperCase() && text.length > 10 && text.length < 120;
-                const isNote = text.startsWith('*') || text.startsWith('(') && text.endsWith(')');
+                const isNote = text.startsWith('*') || (text.startsWith('(') && text.endsWith(')'));
 
                 if (isMainHeading) {
                   return (
@@ -179,8 +181,23 @@ export default async function EstudioPage({ params }: Props) {
                     </p>
                   );
                 }
+
+                // Split long paragraphs on single newlines for better readability
+                const lines = text.split('\n').filter(Boolean);
+                if (lines.length > 1) {
+                  return (
+                    <div key={i} className="mb-6">
+                      {lines.map((line, j) => (
+                        <p key={j} className="font-body text-gray-600 leading-[1.85] text-[15px] mb-3 last:mb-0">
+                          {line}
+                        </p>
+                      ))}
+                    </div>
+                  );
+                }
+
                 return (
-                  <p key={i} className="font-body text-gray-600 leading-[1.85] text-[15px] whitespace-pre-line mb-5">
+                  <p key={i} className="font-body text-gray-600 leading-[1.85] text-[15px] mb-6">
                     {text}
                   </p>
                 );

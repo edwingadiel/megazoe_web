@@ -7,7 +7,7 @@ Sitio web completo de **Iglesia Mega Zoé** (iglesiamegazoe.com), reconstruido d
 
 ## Stack
 - **Next.js 16.2.2** (App Router, TypeScript)
-- **Tailwind CSS v4**
+- **Tailwind CSS v4** (v4.2.2)
 - **Framer Motion** (animaciones)
 - **Resend** (envío de emails desde el formulario de contacto)
 - **Cloudflare R2** (hosting de 134 canciones mp3 + PDFs de letras)
@@ -19,7 +19,8 @@ Sitio web completo de **Iglesia Mega Zoé** (iglesiamegazoe.com), reconstruido d
 | Gold | `#c9a96e` |
 | Gold Dark | `#b8955a` |
 | Gold Light | `#e8d5b0` |
-| Cream | `#f8f5f0` |
+| Cream | `#f5f0e8` |
+| Cream Dark | `#ede7db` |
 | Black | `#0a0a0a` |
 | NT (Nuevo Testamento) | `#4a7c59` (verde) |
 | AT (Antiguo Testamento) | `#7c4a1e` (café) |
@@ -30,14 +31,28 @@ Sitio web completo de **Iglesia Mega Zoé** (iglesiamegazoe.com), reconstruido d
 - Headings: `Cormorant Garamond` (serif)
 - Body/Nav: `Lato` (sans-serif, uppercase tracking)
 
+## Design System — Consistencia Visual
+Todas las páginas internas siguen un **patrón de header unificado** (centrado):
+1. Línea dorada decorativa (`w-16 h-px bg-gold mx-auto mb-8`)
+2. Label dorado en uppercase (`font-body text-xs text-gold tracking-[0.3em] uppercase mb-4`)
+3. Título grande (`font-heading text-4xl md:text-6xl font-light text-gray-800`)
+4. Descripción gris (`text-gray-500 text-base leading-relaxed`)
+5. Padding: `py-20 md:py-24 px-6 bg-white`
+
+**Reglas de diseño:**
+- Solo la homepage tiene hero full-width con imagen. Las páginas internas NO tienen hero images.
+- Solo el footer es oscuro. Los headers de páginas internas son siempre blancos.
+- Cards usan `shadow-sm` base con `hover:shadow-xl hover:-translate-y-1` y transición.
+- CTAs de contacto al final de cada página con patrón consistente.
+
 ## Estructura de páginas
 ```
-/                          → Inicio (Hero full-width + Welcome + Explora Grid + CTA social)
-/sobre-nosotros            → Historia, Misión, Visión, Valores
-/estudios-biblicos         → Hub con 3 subcategorías
-  /iglesia-en-las-casas    → Home Studies
-  /predicaciones           → Sermones
-  /otros-estudios          → Material adicional (próximamente)
+/                          → Inicio (Hero full-width + Bienvenidos + Explora Grid + CTA contacto)
+/sobre-nosotros            → Cita pastora, Historia, Misión, Visión, CTA contacto
+/estudios-biblicos         → Hub con 3 subcategorías (cards con iconos SVG)
+  /iglesia-en-las-casas    → Home Studies (cita bíblica, 3 feature cards, CTAs)
+  /predicaciones           → Sermones (cita, YouTube CTA)
+  /otros-estudios          → Material adicional (próximamente, 4 coming-soon cards)
 /biblioteca                → Búsqueda de 1,241 estudios bíblicos (SSG)
   /biblioteca/[slug]       → Página individual con versículos clickeables
 /musica                    → Reproductor de 134 canciones (Cloudflare R2)
@@ -50,12 +65,15 @@ Sitio web completo de **Iglesia Mega Zoé** (iglesiamegazoe.com), reconstruido d
 - Búsqueda client-side con `useMemo` (sin servidor externo)
 - Filtros: texto libre, libro de la Biblia, tópico, testamento (AT/NT)
 - Libros ordenados en orden bíblico canónico (no alfabético)
-- Paginación: 24 items por página
+- Paginación: 24 items por página, scroll a resultados (no al top de la página) via `useRef`
 - URL params: `?q=`, `?topico=`, `?libro=` — precargados al entrar desde links de estudios individuales
 - SSG: `generateStaticParams` genera todas las rutas en build time
 - Cards con hover animation (`-translate-y-1`, `shadow-xl`) y click completo al estudio
 - **Versículos clickeables**: Referencias bíblicas abren popover con texto RV1960 via bolls.life API
 - **Smart content rendering**: Detecta headings (I., II.), sub-headings (a., b.), ALL CAPS emphasis, notas
+- **Párrafos con saltos de línea internos**: Textos con `\n` se splitean en `<p>` separados para mejor legibilidad
+- Panel de filtros: fondo blanco con shadow-sm, selects con underline (border-b), labels dorados
+- Stats en header: sin divisores verticales, solo números + labels
 
 ## Reproductor de Música
 - **134 canciones** (.mp3) + PDFs de letras en Cloudflare R2
@@ -79,17 +97,17 @@ Sitio web completo de **Iglesia Mega Zoé** (iglesiamegazoe.com), reconstruido d
 |---|---|
 | `src/lib/estudios.ts` | Carga y cachea data de los JSONs; orden bíblico canónico |
 | `src/lib/bible-books.ts` | Mapeo nombre español → número de libro para bolls.life |
-| `src/components/LibrarySearch.tsx` | Búsqueda/filtros/paginación con cards clickeables |
+| `src/components/LibrarySearch.tsx` | Búsqueda/filtros/paginación con cards clickeables, scroll via useRef |
 | `src/components/BibleVerse.tsx` | Popover de versículos (client component) |
 | `src/components/MusicPlayer.tsx` | Reproductor completo de música (client component) |
 | `src/components/SocialIcons.tsx` | Iconos reutilizables de redes sociales |
-| `src/components/Navbar.tsx` | Navbar fija, scroll-aware, hamburger mobile, gold underline activo |
-| `src/components/Footer.tsx` | 3 columnas: marca, navegación, contacto+social |
+| `src/components/Navbar.tsx` | Navbar fija con logo imagen, scroll-aware, hamburger mobile, gold underline activo |
+| `src/components/Footer.tsx` | 3 columnas: marca, navegación, contacto+social (fondo oscuro) |
 | `src/components/ContactForm.tsx` | Formulario con underline inputs, estados idle/loading/success/error |
 | `src/app/api/contacto/route.ts` | Handler email vía Resend |
 | `src/app/api/versiculo/route.ts` | Proxy a bolls.life para versículos RV1960 |
 | `src/data/canciones.json` | Catálogo de 134 canciones (título, mp3, letra PDF) |
-| `src/app/globals.css` | Google Fonts PRIMERO, luego `@import "tailwindcss"`, `@theme`, `@layer base` |
+| `src/app/globals.css` | Google Fonts PRIMERO, luego `@import "tailwindcss"`, `@theme`, custom CSS en `@layer utilities` |
 | `.claude/launch.json` | Config del preview server con PATH inyectado |
 
 ## Dev Server
@@ -99,9 +117,10 @@ export PATH=/Users/sarasarai/.local/node/bin:$PATH && npm run dev
 **IMPORTANTE**: Nunca usar `preview_start`. Siempre correr via Bash para que Sara navegue localmente.
 
 ## Imágenes
-- `public/images/pastora.jpg` — foto exterior de la iglesia (hero de la home page)
-- `public/images/church-hero.avif` — foto anterior (ya no se usa en home, se usa en sobre-nosotros)
-- `public/images/church-interior.avif` — interior de la iglesia (sobre-nosotros)
+- `public/images/logo-megazoe.png` — logo de la iglesia (navbar, recortado de Wix, 2251x824)
+- `public/images/pastora.jpg` — foto exterior de la iglesia (hero de la homepage)
+- `public/images/church-hero.avif` — foto anterior (ya no se usa en home)
+- `public/images/church-interior.avif` — interior de la iglesia
 
 ## Variables de entorno
 ```
@@ -123,6 +142,10 @@ RESEND_API_KEY=re_xxx   # Opcional en dev, requerido en producción
 7. **Unlayered CSS reset**: `* { margin: 0; padding: 0; }` fuera de `@layer` rompía TODOS los utilities de Tailwind — removido y estilos base envueltos en `@layer base`
 8. **Turbopack cache stale**: Fonts/CSS no compilaban correctamente → `rm -rf .next` y reiniciar dev server
 9. **R2 uploads locales**: `wrangler r2 object put` sin `--remote` sube localmente — siempre usar `--remote`
+10. **Custom CSS fuera de @layer en Tailwind v4**: Keyframes y clases custom (`.eq-bar`, `.animate-shimmer`) fuera de `@layer utilities` rompen la especificidad de Tailwind v4 intermitentemente. Solución: envolver TODA CSS custom en `@layer utilities`
+11. **Paginación scroll**: `window.scrollTo({top:0})` subía por encima de los resultados — cambiado a `useRef` + `scrollIntoView`
+12. **Logo imagen caching**: Next.js Image optimization cacheaba versiones viejas — usar prop `unoptimized`
+13. **Tailwind v4 opacidades inválidas**: `bg-gold/8` y `bg-gold/15` no existen — usar `bg-gold/5` y `bg-gold/10`
 
 ## Cloudflare R2
 - Cuenta de Sara, bucket `megazoe-musica`

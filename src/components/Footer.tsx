@@ -67,7 +67,7 @@ export default function Footer() {
         </div>
 
         <div className="mt-12 pt-8 border-t border-white/10 text-center">
-          <p className="text-gray-600 text-xs">
+          <p className="text-gray-500 text-xs">
             &copy; {new Date().getFullYear()} Iglesia Mega Zoé. Todos los derechos reservados.
           </p>
         </div>
