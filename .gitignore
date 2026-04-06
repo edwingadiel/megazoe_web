@@ -36,6 +36,12 @@ yarn-error.log*
 # vercel
 .vercel
 
+# cloudflare wrangler
+.wrangler/
+
+# music files (hosted on Cloudflare R2)
+/Música/
+
 # typescript
 *.tsbuildinfo
 next-env.d.ts

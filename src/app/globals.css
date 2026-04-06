@@ -1,35 +1,66 @@
-@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600;700&family=Lato:ital,wght@0,300;0,400;0,700;1,300;1,400&family=Playfair+Display:ital,wght@0,400;0,600;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;1,300;1,400;1,500&family=Great+Vibes&family=Lato:ital,wght@0,300;0,400;0,700;1,300;1,400&family=Playfair+Display:ital,wght@0,400;0,600;1,400&display=swap');
 
 @import "tailwindcss";
 
-:root {
-  --background: #ffffff;
-  --foreground: #0a0a0a;
-  --gold: #c9a96e;
-  --gold-light: #e8d5b0;
-  --cream: #f8f5f0;
-  --gray-light: #f0ede8;
-  --gray-mid: #8a8a8a;
-  --gray-dark: #3a3a3a;
+@theme {
+  --color-gold: #c9a96e;
+  --color-gold-dark: #b8955a;
+  --color-gold-light: #e8d5b0;
+  --color-cream: #f8f5f0;
+  --color-cream-dark: #f0ede8;
+  --color-church-black: #0a0a0a;
+  --color-nt: #4a7c59;
+  --color-at: #7c4a1e;
+  --color-nt-light: #7ec899;
+  --color-at-light: #e8a96e;
+
+  --font-logo: 'Great Vibes', cursive;
+  --font-display: 'Playfair Display', serif;
+  --font-heading: 'Cormorant Garamond', serif;
+  --font-body: 'Lato', Arial, sans-serif;
 }
 
-* {
-  box-sizing: border-box;
-  padding: 0;
-  margin: 0;
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    scrollbar-width: thin;
+    scrollbar-color: var(--color-gold) #f5f5f5;
+  }
+
+  body {
+    background: #ffffff;
+    color: #333;
+    font-family: var(--font-body);
+    -webkit-font-smoothing: antialiased;
+  }
+
+  /* Scrollbar — webkit */
+  ::-webkit-scrollbar { width: 5px; }
+  ::-webkit-scrollbar-track { background: #f5f5f5; }
+  ::-webkit-scrollbar-thumb { background: var(--color-gold); border-radius: 3px; }
 }
 
-html {
-  scroll-behavior: smooth;
+@keyframes bvFadeIn {
+  from { opacity: 0; transform: translateY(-4px); }
+  to { opacity: 1; transform: translateY(0); }
 }
 
-body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: 'Lato', Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
+/* Music player equalizer bars */
+@keyframes eqBounce {
+  0%, 100% { height: 20%; }
+  25% { height: 80%; }
+  50% { height: 45%; }
+  75% { height: 100%; }
+}
+.eq-bar {
+  animation: eqBounce 0.8s ease-in-out infinite;
 }
 
-::-webkit-scrollbar { width: 5px; }
-::-webkit-scrollbar-track { background: var(--cream); }
-::-webkit-scrollbar-thumb { background: var(--gold); border-radius: 3px; }
+/* Buffering shimmer */
+@keyframes shimmer {
+  0% { transform: translateX(-100%); }
+  100% { transform: translateX(200%); }
+}
+.animate-shimmer {
+  animation: shimmer 1.5s infinite;
+}
