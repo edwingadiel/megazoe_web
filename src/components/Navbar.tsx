@@ -46,7 +46,7 @@ export default function Navbar() {
         {/* Logo */}
         <Link href="/" onClick={handleLogoClick} className="flex items-center focus:outline-none focus-visible:ring-2 focus-visible:ring-gold focus-visible:ring-offset-2 rounded">
           <span className="font-logo text-3xl md:text-4xl text-gray-800 select-none">
-            Mega Zoe
+            Mega Zoé
           </span>
         </Link>
 

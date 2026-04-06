@@ -13,6 +13,7 @@ export default function ContactanosPage() {
       {/* Header */}
       <section className="py-16 px-6 bg-white border-b border-gray-100">
         <div className="max-w-4xl mx-auto text-center">
+          <div className="w-12 h-px bg-gold mx-auto mb-8" />
           <h1 className="font-heading text-4xl md:text-5xl font-light uppercase tracking-wider text-gray-800 mb-4">
             Contáctanos
           </h1>

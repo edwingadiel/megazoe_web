@@ -6,8 +6,8 @@
   --color-gold: #c9a96e;
   --color-gold-dark: #b8955a;
   --color-gold-light: #e8d5b0;
-  --color-cream: #f8f5f0;
-  --color-cream-dark: #f0ede8;
+  --color-cream: #f5f0e8;
+  --color-cream-dark: #ede7db;
   --color-church-black: #0a0a0a;
   --color-nt: #4a7c59;
   --color-at: #7c4a1e;
@@ -40,27 +40,29 @@
   ::-webkit-scrollbar-thumb { background: var(--color-gold); border-radius: 3px; }
 }
 
-@keyframes bvFadeIn {
-  from { opacity: 0; transform: translateY(-4px); }
-  to { opacity: 1; transform: translateY(0); }
-}
+@layer utilities {
+  @keyframes bvFadeIn {
+    from { opacity: 0; transform: translateY(-4px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
 
-/* Music player equalizer bars */
-@keyframes eqBounce {
-  0%, 100% { height: 20%; }
-  25% { height: 80%; }
-  50% { height: 45%; }
-  75% { height: 100%; }
-}
-.eq-bar {
-  animation: eqBounce 0.8s ease-in-out infinite;
-}
+  @keyframes eqBounce {
+    0%, 100% { height: 20%; }
+    25% { height: 80%; }
+    50% { height: 45%; }
+    75% { height: 100%; }
+  }
 
-/* Buffering shimmer */
-@keyframes shimmer {
-  0% { transform: translateX(-100%); }
-  100% { transform: translateX(200%); }
-}
-.animate-shimmer {
-  animation: shimmer 1.5s infinite;
+  .eq-bar {
+    animation: eqBounce 0.8s ease-in-out infinite;
+  }
+
+  @keyframes shimmer {
+    0% { transform: translateX(-100%); }
+    100% { transform: translateX(200%); }
+  }
+
+  .animate-shimmer {
+    animation: shimmer 1.5s infinite;
+  }
 }

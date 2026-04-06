@@ -28,7 +28,7 @@ const socialLinks = [
   },
 ];
 
-export default function SocialIcons({ className = '' }: { className?: string }) {
+export default function SocialIcons({ className = '', dark = false }: { className?: string; dark?: boolean }) {
   return (
     <div className={`flex items-center gap-5 ${className}`}>
       {socialLinks.map(({ href, label, icon }) => (
@@ -38,7 +38,9 @@ export default function SocialIcons({ className = '' }: { className?: string }) 
           target="_blank"
           rel="noopener noreferrer"
           aria-label={label}
-          className="text-gray-400 hover:text-gold transition-colors duration-200 focus:outline-none focus-visible:ring-2 focus-visible:ring-gold rounded"
+          className={`transition-colors duration-200 focus:outline-none focus-visible:ring-2 focus-visible:ring-gold rounded ${
+            dark ? 'text-white/60 hover:text-white' : 'text-gray-400 hover:text-gold'
+          }`}
         >
           {icon}
         </a>
