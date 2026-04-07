@@ -137,7 +137,7 @@ export function getAllEstudiosCards(): EstudioCard[] {
       }
     })
     .filter((e): e is EstudioCard => e !== null)
-    .sort((a, b) => a.numero_estudio - b.numero_estudio);
+    .sort((a, b) => b.numero_estudio - a.numero_estudio);
 
   return _cache;
 }

@@ -260,7 +260,7 @@ export default function MusicPlayer() {
               <line x1="15" y1="15" x2="21" y2="21" />
               <line x1="4" y1="4" x2="9" y2="9" />
             </svg>
-            Aleatorio
+            Shuffle
           </button>
         </div>
       </div>

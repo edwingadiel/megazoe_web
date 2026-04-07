@@ -28,11 +28,13 @@ export default function OtrosEstudiosContent() {
         <>
           <p className="text-xs text-gray-400 mb-6">{totalStudies} estudios en {books.length} libros</p>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
-            {books.map(([bookName, items]) => (
+            {books.map(([bookName, items], index) => (
               <button
                 key={bookName}
                 onClick={() => setSelectedBook(bookName)}
-                className="group bg-white border border-gray-100 p-6 text-left hover:shadow-lg hover:-translate-y-1 transition-all duration-300 focus:outline-none focus-visible:ring-2 focus-visible:ring-gold"
+                className={`group bg-white border border-gray-100 p-6 text-left hover:shadow-lg hover:-translate-y-1 transition-all duration-300 focus:outline-none focus-visible:ring-2 focus-visible:ring-gold ${
+                  books.length % 2 === 1 && index === books.length - 1 ? 'sm:col-span-2' : ''
+                }`}
               >
                 <div className="flex items-center justify-between">
                   <div>
