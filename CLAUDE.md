@@ -44,6 +44,7 @@ Todas las páginas internas siguen un **patrón de header unificado** (centrado)
 - Solo el footer es oscuro. Los headers de páginas internas son siempre blancos.
 - Cards usan `shadow-sm` base con `hover:shadow-xl hover:-translate-y-1` y transición.
 - CTAs de contacto al final de cada página con patrón consistente.
+- Arrow animations: siempre `group-hover:translate-x-1.5 transition-transform duration-300`.
 
 ## Estructura de páginas
 ```
@@ -54,15 +55,17 @@ Todas las páginas internas siguen un **patrón de header unificado** (centrado)
   /predicaciones           → Sermones (cita, YouTube CTA)
   /otros-estudios          → Material adicional (próximamente, 4 coming-soon cards)
 /biblioteca                → Búsqueda de 1,241 estudios bíblicos (SSG)
-  /biblioteca/[slug]       → Página individual con versículos clickeables
+  /biblioteca/[slug]       → Página individual con versículos clickeables, JSON-LD, estudios relacionados
 /musica                    → Reproductor de 134 canciones (Cloudflare R2)
 /contactanos               → Formulario de contacto (Resend API)
+/sitemap.xml               → Sitemap generado automáticamente (todas las rutas)
+/robots.txt                → Permite indexación completa
 ```
 
 ## Biblioteca de Estudios
 - **1,241 archivos JSON** en `app_dataset_production/`
 - Filtro de archivos: solo `f.startsWith('estudio-')` — excluye manifest.json, summary_refresh_report.json, production_qc_report.json
-- Búsqueda client-side con `useMemo` (sin servidor externo)
+- Búsqueda client-side con `useMemo` + **debounce de 300ms** (sin servidor externo)
 - Filtros: texto libre, libro de la Biblia, tópico, testamento (AT/NT)
 - Libros ordenados en orden bíblico canónico (no alfabético)
 - Paginación: 24 items por página, scroll a resultados (no al top de la página) via `useRef`
@@ -74,6 +77,11 @@ Todas las páginas internas siguen un **patrón de header unificado** (centrado)
 - **Párrafos con saltos de línea internos**: Textos con `\n` se splitean en `<p>` separados para mejor legibilidad
 - Panel de filtros: fondo blanco con shadow-sm, selects con underline (border-b), labels dorados
 - Stats en header: sin divisores verticales, solo números + labels
+- **Skeleton loader**: Placeholder visual durante carga con cards animadas
+- **Estudios relacionados**: 3 cards al final de cada estudio (por libro y tópicos compartidos)
+- **Tiempo de lectura**: Estimado basado en conteo de palabras (200 palabras/min)
+- **Fecha original**: Muestra `fecha_texto_original` en la barra meta
+- **JSON-LD**: Schema.org Article structured data en cada estudio individual
 
 ## Reproductor de Música
 - **134 canciones** (.mp3) + PDFs de letras en Cloudflare R2
@@ -83,31 +91,36 @@ Todas las páginas internas siguen un **patrón de header unificado** (centrado)
 - Funciones: shuffle, repeat (off/all/one), búsqueda, auto-play next
 - Indicadores: equalizer animado, buffering shimmer, scrubber dot
 - Botón "Letra" abre PDF de la canción
-- Archivos locales en `Música/` (1.8GB) — NO se suben a git
+- Archivos locales en `Música/` — ya borrados de la compu (backup en Google Drive)
 
 ## Bible Verse API
 - API route: `src/app/api/versiculo/route.ts`
 - Usa **bolls.life** con traducción **RV1960** (Reina-Valera 1960, español)
 - Mapeo de nombres: `src/lib/bible-books.ts` (nombre español → número de libro)
-- Componente: `src/components/BibleVerse.tsx` (popover client-side)
+- Componente: `src/components/BibleVerse.tsx` (popover client-side, atribución: "bolls.life")
 - Cache de 24h en las respuestas de la API
 
 ## Archivos clave
 | Archivo | Descripción |
 |---|---|
-| `src/lib/estudios.ts` | Carga y cachea data de los JSONs; orden bíblico canónico |
+| `src/lib/estudios.ts` | Carga y cachea data de los JSONs; estudios relacionados |
 | `src/lib/bible-books.ts` | Mapeo nombre español → número de libro para bolls.life |
-| `src/components/LibrarySearch.tsx` | Búsqueda/filtros/paginación con cards clickeables, scroll via useRef |
+| `src/lib/bible-constants.ts` | BIBLICAL_ORDER y AT_BOOKS — compartido entre server y client |
+| `src/components/LibrarySearch.tsx` | Búsqueda con debounce, filtros, paginación, scroll via useRef |
 | `src/components/BibleVerse.tsx` | Popover de versículos (client component) |
 | `src/components/MusicPlayer.tsx` | Reproductor completo de música (client component) |
 | `src/components/SocialIcons.tsx` | Iconos reutilizables de redes sociales |
-| `src/components/Navbar.tsx` | Navbar fija con logo imagen, scroll-aware, hamburger mobile, gold underline activo |
-| `src/components/Footer.tsx` | 3 columnas: marca, navegación, contacto+social (fondo oscuro) |
+| `src/components/Navbar.tsx` | Navbar fija con logo imagen, scroll-aware, hamburger mobile con aria-expanded |
+| `src/components/Footer.tsx` | 3 columnas: logo imagen (invertido), navegación, contacto+social (fondo oscuro) |
 | `src/components/ContactForm.tsx` | Formulario con underline inputs, estados idle/loading/success/error |
 | `src/app/api/contacto/route.ts` | Handler email vía Resend |
 | `src/app/api/versiculo/route.ts` | Proxy a bolls.life para versículos RV1960 |
 | `src/data/canciones.json` | Catálogo de 134 canciones (título, mp3, letra PDF) |
-| `src/app/globals.css` | Google Fonts PRIMERO, luego `@import "tailwindcss"`, `@theme`, custom CSS en `@layer utilities` |
+| `src/app/globals.css` | Google Fonts, Tailwind, @theme, custom CSS en `@layer utilities`, print styles |
+| `src/app/sitemap.ts` | Sitemap dinámico con todas las rutas estáticas y 1,241 estudios |
+| `src/app/robots.ts` | robots.txt permitiendo indexación |
+| `src/app/not-found.tsx` | Página 404 con diseño consistente |
+| `src/app/error.tsx` | Error boundary con botón de retry |
 | `.claude/launch.json` | Config del preview server con PATH inyectado |
 
 ## Dev Server
@@ -117,7 +130,7 @@ export PATH=/Users/sarasarai/.local/node/bin:$PATH && npm run dev
 **IMPORTANTE**: Nunca usar `preview_start`. Siempre correr via Bash para que Sara navegue localmente.
 
 ## Imágenes
-- `public/images/logo-megazoe.png` — logo de la iglesia (navbar, recortado de Wix, 2251x824)
+- `public/images/logo-megazoe.png` — logo de la iglesia (navbar + footer, recortado de Wix, 2251x824)
 - `public/images/pastora.jpg` — foto exterior de la iglesia (hero de la homepage)
 - `public/images/church-hero.avif` — foto anterior (ya no se usa en home)
 - `public/images/church-interior.avif` — interior de la iglesia
@@ -131,6 +144,14 @@ RESEND_API_KEY=re_xxx   # Opcional en dev, requerido en producción
 - Facebook: http://www.facebook.com/iglesiamegazoe
 - Instagram: https://instagram.com/iglesiamegazoe
 - YouTube: https://www.youtube.com/channel/UCbVEs6ElWvnx1klyRCdfsSA
+
+## SEO
+- **Open Graph**: título, descripción, imagen (logo), locale español
+- **metadataBase**: `https://iglesiamegazoe.com`
+- **robots**: `index: true, follow: true`
+- **sitemap.xml**: generado automáticamente con todas las rutas
+- **JSON-LD**: Schema.org Article en cada estudio individual (autor, fecha, wordCount, timeRequired)
+- **Print styles**: estudios se imprimen limpio (sin nav/footer/sidebar/player)
 
 ## Problemas resueltos
 1. **@import order**: Google Fonts debe ir ANTES de `@import "tailwindcss"` en globals.css
@@ -146,6 +167,9 @@ RESEND_API_KEY=re_xxx   # Opcional en dev, requerido en producción
 11. **Paginación scroll**: `window.scrollTo({top:0})` subía por encima de los resultados — cambiado a `useRef` + `scrollIntoView`
 12. **Logo imagen caching**: Next.js Image optimization cacheaba versiones viejas — usar prop `unoptimized`
 13. **Tailwind v4 opacidades inválidas**: `bg-gold/8` y `bg-gold/15` no existen — usar `bg-gold/5` y `bg-gold/10`
+14. **Hydration mismatch en showFilters**: `typeof window !== 'undefined'` durante SSR causa mismatch — default `false`, ajustar en `useEffect` después del mount
+15. **Client/server module boundary**: `AT_BOOKS` no puede importarse de `estudios.ts` (usa `fs`) en client components — extraído a `bible-constants.ts` sin deps de Node.js
+16. **Shuffle history race condition**: Presionar "anterior" rápido causaba saltos — refactorizado para actualizar history y index atómicamente dentro de `setShuffleHistory`
 
 ## Cloudflare R2
 - Cuenta de Sara, bucket `megazoe-musica`
