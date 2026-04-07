@@ -6,13 +6,13 @@ export async function GET(req: NextRequest) {
   const capitulo = req.nextUrl.searchParams.get('capitulo');
   const versiculos = req.nextUrl.searchParams.get('versiculos'); // e.g. "1-4" or "3"
 
-  if (!libro || !capitulo) {
-    return NextResponse.json({ error: 'Missing libro or capitulo' }, { status: 400 });
+  if (!libro || !capitulo || libro.length > 50 || capitulo.length > 10) {
+    return NextResponse.json({ error: 'Parámetros inválidos' }, { status: 400 });
   }
 
   const bookNum = BOOK_NUMBER[libro];
   if (!bookNum) {
-    return NextResponse.json({ error: `Unknown book: ${libro}` }, { status: 400 });
+    return NextResponse.json({ error: 'Libro no encontrado' }, { status: 400 });
   }
 
   try {

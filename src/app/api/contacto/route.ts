@@ -9,8 +9,46 @@ function escapeHtml(str: string): string {
     .replace(/'/g, '&#39;');
 }
 
+// Simple in-memory rate limiter (per IP, 5 requests per 15 minutes)
+const rateLimitMap = new Map<string, { count: number; resetAt: number }>();
+const RATE_LIMIT = 5;
+const RATE_WINDOW = 15 * 60 * 1000; // 15 minutes
+
+function isRateLimited(ip: string): boolean {
+  const now = Date.now();
+  const entry = rateLimitMap.get(ip);
+
+  if (!entry || now > entry.resetAt) {
+    rateLimitMap.set(ip, { count: 1, resetAt: now + RATE_WINDOW });
+    return false;
+  }
+
+  entry.count++;
+  if (entry.count > RATE_LIMIT) return true;
+  return false;
+}
+
+// Clean up stale entries every 30 minutes
+if (typeof globalThis !== 'undefined') {
+  setInterval(() => {
+    const now = Date.now();
+    for (const [ip, entry] of rateLimitMap) {
+      if (now > entry.resetAt) rateLimitMap.delete(ip);
+    }
+  }, 30 * 60 * 1000);
+}
+
 export async function POST(req: NextRequest) {
   try {
+    // Rate limiting
+    const ip = req.headers.get('x-forwarded-for')?.split(',')[0]?.trim() || 'unknown';
+    if (isRateLimited(ip)) {
+      return NextResponse.json(
+        { error: 'Demasiados mensajes. Intenta de nuevo más tarde.' },
+        { status: 429 }
+      );
+    }
+
     const body = await req.json();
     const { nombre: rawNombre, email: rawEmail, asunto: rawAsunto, mensaje: rawMensaje } = body;
 
@@ -74,17 +112,12 @@ export async function POST(req: NextRequest) {
       });
 
       if (!resendRes.ok) {
-        console.error('Resend error:', await resendRes.text());
         return NextResponse.json({ error: 'Error al enviar el correo.' }, { status: 500 });
       }
-    } else {
-      // Dev mode: just log the message
-      console.log('📧 Contact form submission:', { nombre, email, asunto, mensaje });
     }
 
     return NextResponse.json({ success: true });
-  } catch (error) {
-    console.error('Contact form error:', error);
+  } catch {
     return NextResponse.json({ error: 'Error interno del servidor.' }, { status: 500 });
   }
 }

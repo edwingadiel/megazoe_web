@@ -1,4 +1,10 @@
 import { NextRequest, NextResponse } from 'next/server';
+import predicaciones from '@/data/predicaciones.json';
+
+// Build a set of valid file IDs from the predicaciones catalog
+const VALID_IDS = new Set(
+  (predicaciones as { id: string }[]).map((p) => p.id)
+);
 
 export async function GET(req: NextRequest) {
   const fileId = req.nextUrl.searchParams.get('id');
@@ -6,15 +12,20 @@ export async function GET(req: NextRequest) {
     return NextResponse.json({ error: 'Invalid file id' }, { status: 400 });
   }
 
+  // Only allow streaming of known predicación files
+  if (!VALID_IDS.has(fileId)) {
+    return NextResponse.json({ error: 'File not found' }, { status: 404 });
+  }
+
   try {
     // Use the confirmed download URL directly (bypasses virus scan page)
     const driveUrl = `https://drive.usercontent.google.com/download?id=${fileId}&export=download&confirm=t`;
 
     // Forward range header for seeking support
-    const rangeHeader = req.headers.get('range');
     const headers: Record<string, string> = {
       'User-Agent': 'Mozilla/5.0',
     };
+    const rangeHeader = req.headers.get('range');
     if (rangeHeader) {
       headers['Range'] = rangeHeader;
     }
