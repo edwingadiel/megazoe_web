@@ -73,7 +73,7 @@ export default async function EstudioPage({ params }: Props) {
       url: 'https://iglesiamegazoe.com',
     },
     ...(fechas.ano ? { datePublished: `${fechas.ano}` } : {}),
-    url: `https://iglesiamegazoe.com/biblioteca/${slug}`,
+    url: `https://iglesiamegazoe.com/estudio/${numero_estudio}`,
     wordCount: wordCount,
     timeRequired: `PT${readingTime}M`,
   };
@@ -327,7 +327,7 @@ export default async function EstudioPage({ params }: Props) {
                 </h2>
                 <div className="flex gap-2">
                   <a
-                    href={`https://wa.me/?text=${encodeURIComponent(`${encabezado.titulo} — ${clasificacion_biblica.referencia_principal_normalizada}\nhttps://iglesiamegazoe.com/biblioteca/${slug}`)}`}
+                    href={`https://wa.me/?text=${encodeURIComponent(`${encabezado.titulo} — ${clasificacion_biblica.referencia_principal_normalizada}\nhttps://iglesiamegazoe.com/estudio/${numero_estudio}`)}`}
                     target="_blank"
                     rel="noopener noreferrer"
                     className="font-body flex-1 text-center text-xs py-2 bg-[#25D366] text-white hover:opacity-90 transition-opacity focus:outline-none focus-visible:ring-2 focus-visible:ring-[#25D366] focus-visible:ring-offset-2"
@@ -335,7 +335,7 @@ export default async function EstudioPage({ params }: Props) {
                     WhatsApp
                   </a>
                   <a
-                    href={`https://www.facebook.com/sharer/sharer.php?u=https://iglesiamegazoe.com/biblioteca/${slug}`}
+                    href={`https://www.facebook.com/sharer/sharer.php?u=https://iglesiamegazoe.com/estudio/${numero_estudio}`}
                     target="_blank"
                     rel="noopener noreferrer"
                     className="font-body flex-1 text-center text-xs py-2 bg-[#1877F2] text-white hover:opacity-90 transition-opacity focus:outline-none focus-visible:ring-2 focus-visible:ring-[#1877F2] focus-visible:ring-offset-2"

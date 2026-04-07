@@ -38,7 +38,7 @@ const studies = [
   {
     href: '/estudios-biblicos/otros-estudios',
     title: 'Otros Estudios',
-    subtitle: 'More Studies',
+    subtitle: 'Estudios por Libro',
     description:
       'Material adicional para tu crecimiento espiritual. Temas bíblicos, estudios temáticos y recursos para profundizar en la fe.',
     english: false,
