@@ -57,8 +57,33 @@ export default async function EstudioPage({ params }: Props) {
         .filter(Boolean)
         .map((t) => ({ tipo: 'parrafo', texto: t, referencias_inline: [] }));
 
+  // JSON-LD structured data for SEO
+  const jsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'Article',
+    headline: encabezado.titulo,
+    description: encabezado.resumen_corto,
+    author: {
+      '@type': 'Person',
+      name: ministerio.pastora,
+    },
+    publisher: {
+      '@type': 'Organization',
+      name: ministerio.iglesia,
+      url: 'https://iglesiamegazoe.com',
+    },
+    ...(fechas.ano ? { datePublished: `${fechas.ano}` } : {}),
+    url: `https://iglesiamegazoe.com/biblioteca/${slug}`,
+    wordCount: wordCount,
+    timeRequired: `PT${readingTime}M`,
+  };
+
   return (
     <div className="pt-[80px]">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+      />
       {/* Header */}
       <section className="py-12 px-6 bg-white border-b border-gray-100">
         <div className="max-w-4xl mx-auto">
@@ -129,8 +154,10 @@ export default async function EstudioPage({ params }: Props) {
             {clasificacion_biblica.libro_principal}
           </Link>
 
-          {fechas.ano && (
-            <span className="font-body text-xs text-gray-400">{fechas.ano}</span>
+          {(fechas.fecha_texto_original || fechas.ano) && (
+            <span className="font-body text-xs text-gray-400">
+              {fechas.fecha_texto_original || fechas.ano}
+            </span>
           )}
 
           <span className="font-body text-xs text-gray-400 flex items-center gap-1">
@@ -240,7 +267,7 @@ export default async function EstudioPage({ params }: Props) {
                     <Link
                       key={topico}
                       href={`/biblioteca?topico=${encodeURIComponent(topico)}`}
-                      className="font-body text-xs px-3 py-1 bg-cream text-gray-500 hover:bg-gold/15 hover:text-gold-dark transition-colors focus:outline-none focus-visible:ring-2 focus-visible:ring-gold rounded"
+                      className="font-body text-xs px-3 py-1 bg-cream text-gray-500 hover:bg-gold/10 hover:text-gold-dark transition-colors focus:outline-none focus-visible:ring-2 focus-visible:ring-gold rounded"
                     >
                       {topico}
                     </Link>

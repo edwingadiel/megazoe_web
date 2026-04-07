@@ -4,6 +4,7 @@ import { useState, useMemo, useCallback, useEffect, useRef } from 'react';
 import { useSearchParams } from 'next/navigation';
 import Link from 'next/link';
 import type { EstudioCard } from '@/lib/estudios';
+import { AT_BOOKS } from '@/lib/bible-constants';
 
 function useDebounce<T>(value: T, delay: number): T {
   const [debounced, setDebounced] = useState(value);
@@ -22,15 +23,6 @@ interface Props {
 
 const ITEMS_PER_PAGE = 24;
 
-const AT_BOOKS = new Set([
-  'Génesis', 'Éxodo', 'Levítico', 'Números', 'Deuteronomio',
-  'Josué', 'Jueces', 'Rut',
-  '1 Samuel', '2 Samuel', '1 Reyes', '2 Reyes', '1 Crónicas', '2 Crónicas',
-  'Esdras', 'Nehemías', 'Ester',
-  'Job', 'Salmos', 'Proverbios', 'Eclesiastés', 'Cantares',
-  'Isaías', 'Jeremías', 'Lamentaciones', 'Ezequiel', 'Daniel',
-  'Oseas', 'Amós', 'Jonás', 'Miqueas', 'Nahúm', 'Habacuc', 'Sofonías', 'Hageo', 'Zacarías', 'Malaquías',
-]);
 
 function normalizeSearch(str: string): string {
   return str
@@ -96,10 +88,12 @@ export default function LibrarySearch({ estudios, topicos, libros }: Props) {
   const [selectedLibro, setSelectedLibro] = useState('');
   const [selectedTestamento, setSelectedTestamento] = useState('');
   const [page, setPage] = useState(1);
-  // Show filters by default on desktop (detected via initial window width)
-  const [showFilters, setShowFilters] = useState(
-    typeof window !== 'undefined' ? window.innerWidth >= 768 : true
-  );
+  const [showFilters, setShowFilters] = useState(false);
+
+  // Show filters by default on desktop after mount (avoids hydration mismatch)
+  useEffect(() => {
+    if (window.innerWidth >= 768) setShowFilters(true);
+  }, []);
 
   // Read URL query params on mount (e.g. ?topico=Fe or ?libro=Juan)
   useEffect(() => {
@@ -410,7 +404,7 @@ function EstudioCardComponent({
               tabIndex={0}
               onClick={(e) => { e.preventDefault(); e.stopPropagation(); onTopicClick(topico); }}
               onKeyDown={(e) => { if (e.key === 'Enter') { e.preventDefault(); e.stopPropagation(); onTopicClick(topico); } }}
-              className="font-body text-xs px-2 py-0.5 bg-cream text-gray-500 hover:bg-gold/15 hover:text-gold-dark transition-colors focus:outline-none focus-visible:ring-2 focus-visible:ring-gold rounded cursor-pointer"
+              className="font-body text-xs px-2 py-0.5 bg-cream text-gray-500 hover:bg-gold/10 hover:text-gold-dark transition-colors focus:outline-none focus-visible:ring-2 focus-visible:ring-gold rounded cursor-pointer"
             >
               {topico}
             </span>

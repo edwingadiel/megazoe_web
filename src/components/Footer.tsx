@@ -1,4 +1,5 @@
 import Link from 'next/link';
+import Image from 'next/image';
 import SocialIcons from '@/components/SocialIcons';
 
 const footerLinks = [
@@ -20,9 +21,14 @@ export default function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-10">
           {/* Brand */}
           <div>
-            <span className="font-logo text-3xl text-white">
-              Mega Zoé
-            </span>
+            <Image
+              src="/images/logo-megazoe.png"
+              alt="Mega Zoé"
+              width={225}
+              height={82}
+              className="h-12 w-auto select-none brightness-0 invert"
+              unoptimized
+            />
             <p className="mt-4 text-gray-500 text-sm leading-relaxed max-w-xs">
               Es el lugar de reunión para hacer el servicio público a Dios. En privado vamos a Dios, pero en la iglesia lo servimos.
             </p>
