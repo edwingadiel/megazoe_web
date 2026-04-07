@@ -82,6 +82,7 @@ export default function Navbar() {
           className="lg:hidden text-gray-700 p-1 focus:outline-none focus-visible:ring-2 focus-visible:ring-gold rounded"
           onClick={() => setIsOpen(!isOpen)}
           aria-label="Menú"
+          aria-expanded={isOpen}
         >
           {isOpen ? <X size={24} /> : <Menu size={24} />}
         </button>

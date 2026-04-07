@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;1,300;1,400;1,500&family=Great+Vibes&family=Lato:ital,wght@0,300;0,400;0,700;1,300;1,400&family=Playfair+Display:ital,wght@0,400;0,600;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;1,400&family=Great+Vibes&family=Lato:ital,wght@0,300;0,400;0,700;1,400&family=Playfair+Display:ital,wght@0,400;0,600;1,400&display=swap');
 
 @import "tailwindcss";
 
@@ -64,5 +64,52 @@
 
   .animate-shimmer {
     animation: shimmer 1.5s infinite;
+  }
+}
+
+/* Print styles — hide nav, footer, player, and optimize study pages for printing */
+@media print {
+  header, footer, nav,
+  .fixed, /* music player */
+  aside,
+  [aria-label="Breadcrumb"] {
+    display: none !important;
+  }
+
+  body {
+    background: white !important;
+    color: black !important;
+    font-size: 12pt !important;
+  }
+
+  main {
+    padding-top: 0 !important;
+  }
+
+  .pt-\[80px\] {
+    padding-top: 0 !important;
+  }
+
+  a {
+    color: inherit !important;
+    text-decoration: none !important;
+  }
+
+  article {
+    max-width: 100% !important;
+    width: 100% !important;
+  }
+
+  .bg-cream, .bg-gold, .bg-church-black {
+    background: white !important;
+  }
+
+  h1, h2, h3, h4 {
+    page-break-after: avoid;
+  }
+
+  p {
+    orphans: 3;
+    widows: 3;
   }
 }

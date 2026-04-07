@@ -1,7 +1,7 @@
 import type { Metadata } from 'next';
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
-import { getEstudioBySlug, getAllSlugs } from '@/lib/estudios';
+import { getEstudioBySlug, getAllSlugs, getRelatedEstudios } from '@/lib/estudios';
 import BibleVerse from '@/components/BibleVerse';
 
 interface Props {
@@ -43,6 +43,13 @@ export default async function EstudioPage({ params }: Props) {
 
   const isNT = (clasificacion_biblica?.testamento_principal ?? '') === 'Nuevo Testamento';
 
+  // Estimate reading time (average 200 words/min for Spanish)
+  const wordCount = contenido.contenido_completo.split(/\s+/).length;
+  const readingTime = Math.max(1, Math.round(wordCount / 200));
+
+  // Get related studies (same book or topics)
+  const related = getRelatedEstudios(estudio);
+
   const paragraphs = contenido.contenido_renderizado?.length
     ? contenido.contenido_renderizado
     : contenido.contenido_completo
@@ -61,7 +68,7 @@ export default async function EstudioPage({ params }: Props) {
               Biblioteca
             </Link>
             <span className="text-gray-300" aria-hidden="true">/</span>
-            <span className="text-gray-600 truncate max-w-sm">{encabezado.titulo}</span>
+            <span className="text-gray-600 truncate max-w-sm" aria-current="page">{encabezado.titulo}</span>
           </nav>
 
           {/* Number + tipo */}
@@ -125,6 +132,14 @@ export default async function EstudioPage({ params }: Props) {
           {fechas.ano && (
             <span className="font-body text-xs text-gray-400">{fechas.ano}</span>
           )}
+
+          <span className="font-body text-xs text-gray-400 flex items-center gap-1">
+            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" className="text-gray-400" aria-hidden="true">
+              <circle cx="12" cy="12" r="10" />
+              <polyline points="12 6 12 12 16 14" />
+            </svg>
+            {readingTime} min lectura
+          </span>
 
           <div className="ml-auto">
             <Link
@@ -306,6 +321,49 @@ export default async function EstudioPage({ params }: Props) {
           </aside>
         </div>
       </div>
+      {/* Related Studies */}
+      {related.length > 0 && (
+        <section className="bg-cream border-t border-gray-200/50">
+          <div className="max-w-4xl mx-auto px-6 py-14">
+            <div className="text-center mb-10">
+              <div className="w-12 h-px bg-gold mx-auto mb-6" />
+              <h2 className="font-heading text-2xl font-light text-gray-800">
+                Estudios Relacionados
+              </h2>
+            </div>
+            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+              {related.map((rel) => {
+                const relIsNT = rel.testamento_principal === 'Nuevo Testamento';
+                return (
+                  <Link
+                    key={rel.slug}
+                    href={`/biblioteca/${rel.slug}`}
+                    className="group bg-white border border-gray-200 flex flex-col transition-all duration-300 hover:shadow-xl hover:-translate-y-1 hover:border-gold/40 focus:outline-none focus-visible:ring-2 focus-visible:ring-gold"
+                  >
+                    <div className={`h-0.5 w-full transition-all duration-300 group-hover:h-1 ${relIsNT ? 'bg-nt' : 'bg-at'}`} />
+                    <div className="p-5 flex flex-col flex-1">
+                      <span className="font-body text-xs tracking-widest uppercase text-gray-400 mb-2">
+                        {rel.cita_principal || rel.libro_principal}
+                      </span>
+                      <h3 className="font-heading text-base font-light text-gray-800 leading-snug mb-2 group-hover:text-gold transition-colors line-clamp-2">
+                        {rel.titulo}
+                      </h3>
+                      {rel.resumen_corto && (
+                        <p className="font-body text-gray-500 text-xs leading-relaxed line-clamp-2 mb-3">
+                          {rel.resumen_corto}
+                        </p>
+                      )}
+                      <span className="font-body text-xs text-gold flex items-center gap-1.5 mt-auto">
+                        Leer <span className="group-hover:translate-x-1.5 transition-transform duration-300 inline-block" aria-hidden="true">→</span>
+                      </span>
+                    </div>
+                  </Link>
+                );
+              })}
+            </div>
+          </div>
+        </section>
+      )}
     </div>
   );
 }

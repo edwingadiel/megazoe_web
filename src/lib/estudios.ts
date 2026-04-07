@@ -202,3 +202,25 @@ export function getAllLibros(): string[] {
 export function getAllTestamentos(): string[] {
   return ['Antiguo Testamento', 'Nuevo Testamento'];
 }
+
+// Get related studies based on same book or shared topics (max 3)
+export function getRelatedEstudios(estudio: Estudio): EstudioCard[] {
+  const cards = getAllEstudiosCards();
+  const currentSlug = estudio.slug;
+  const currentBook = estudio.clasificacion_biblica?.libro_principal;
+  const currentTopics = new Set(estudio.clasificacion_tematica?.topicos || []);
+
+  // Score each study by relevance
+  const scored = cards
+    .filter((c) => c.slug !== currentSlug)
+    .map((c) => {
+      let score = 0;
+      if (c.libro_principal === currentBook) score += 3;
+      c.topicos.forEach((t) => { if (currentTopics.has(t)) score += 1; });
+      return { card: c, score };
+    })
+    .filter((s) => s.score > 0)
+    .sort((a, b) => b.score - a.score);
+
+  return scored.slice(0, 3).map((s) => s.card);
+}

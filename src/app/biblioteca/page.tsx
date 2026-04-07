@@ -54,7 +54,29 @@ export default function BibliotecaPage() {
 
       {/* Search & filters */}
       <section className="py-10 bg-cream">
-        <Suspense fallback={<div className="py-20 text-center text-gray-400">Cargando estudios...</div>}>
+        <Suspense fallback={
+          <div className="max-w-6xl mx-auto px-6 py-10">
+            {/* Skeleton search bar */}
+            <div className="h-12 bg-gray-100 rounded animate-pulse mb-8" />
+            {/* Skeleton grid */}
+            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+              {Array.from({ length: 6 }).map((_, i) => (
+                <div key={i} className="border border-gray-100 bg-white p-6">
+                  <div className="h-1 bg-gray-100 mb-4" />
+                  <div className="flex justify-between mb-3">
+                    <div className="h-3 w-16 bg-gray-100 rounded animate-pulse" />
+                    <div className="h-4 w-8 bg-gray-100 rounded animate-pulse" />
+                  </div>
+                  <div className="h-3 w-24 bg-gray-100 rounded animate-pulse mb-3" />
+                  <div className="h-5 w-full bg-gray-100 rounded animate-pulse mb-2" />
+                  <div className="h-5 w-3/4 bg-gray-100 rounded animate-pulse mb-4" />
+                  <div className="h-3 w-full bg-gray-100 rounded animate-pulse mb-1" />
+                  <div className="h-3 w-2/3 bg-gray-100 rounded animate-pulse" />
+                </div>
+              ))}
+            </div>
+          </div>
+        }>
           <LibrarySearch estudios={estudios} topicos={topicos} libros={libros} />
         </Suspense>
       </section>

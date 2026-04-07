@@ -5,6 +5,15 @@ import { useSearchParams } from 'next/navigation';
 import Link from 'next/link';
 import type { EstudioCard } from '@/lib/estudios';
 
+function useDebounce<T>(value: T, delay: number): T {
+  const [debounced, setDebounced] = useState(value);
+  useEffect(() => {
+    const timer = setTimeout(() => setDebounced(value), delay);
+    return () => clearTimeout(timer);
+  }, [value, delay]);
+  return debounced;
+}
+
 interface Props {
   estudios: EstudioCard[];
   topicos: string[];
@@ -102,6 +111,7 @@ export default function LibrarySearch({ estudios, topicos, libros }: Props) {
     if (q) setQuery(q);
   }, [searchParams]);
 
+  const debouncedQuery = useDebounce(query, 300);
   const activeFilters = [selectedTopico, selectedLibro, selectedTestamento].filter(Boolean).length;
 
   const clearFilters = useCallback(() => {
@@ -113,7 +123,7 @@ export default function LibrarySearch({ estudios, topicos, libros }: Props) {
   }, []);
 
   const filtered = useMemo(() => {
-    const q = normalizeSearch(query);
+    const q = normalizeSearch(debouncedQuery);
     return estudios.filter((e) => {
       if (selectedTestamento && e.testamento_principal !== selectedTestamento) return false;
       if (selectedLibro && e.libro_principal !== selectedLibro) return false;
@@ -126,7 +136,7 @@ export default function LibrarySearch({ estudios, topicos, libros }: Props) {
       }
       return true;
     });
-  }, [estudios, query, selectedTopico, selectedLibro, selectedTestamento]);
+  }, [estudios, debouncedQuery, selectedTopico, selectedLibro, selectedTestamento]);
 
   const totalPages = Math.ceil(filtered.length / ITEMS_PER_PAGE);
   const paginated = filtered.slice((page - 1) * ITEMS_PER_PAGE, page * ITEMS_PER_PAGE);

@@ -171,7 +171,7 @@ export default function BibleVerse({
                 </p>
               )}
               <p className="font-body text-xs text-gray-300 mt-3 pt-2 border-t border-gray-100">
-                {data.traduccion} — bible-api.com
+                {data.traduccion} — bolls.life
               </p>
             </div>
           )}

@@ -121,8 +121,8 @@ export default function HomePage() {
                     {title}
                   </h3>
                   <p className="text-gray-500 text-sm leading-relaxed mb-6">{description}</p>
-                  <span className="font-body text-sm text-gold flex items-center gap-1 mt-auto">
-                    Ver más <span className="group-hover:translate-x-1 transition-transform inline-block">→</span>
+                  <span className="font-body text-sm text-gold flex items-center gap-1.5 mt-auto">
+                    Ver más <span className="group-hover:translate-x-1.5 transition-transform duration-300 inline-block">→</span>
                   </span>
                 </div>
               </Link>

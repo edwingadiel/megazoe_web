@@ -182,9 +182,12 @@ export default function MusicPlayer() {
       return;
     }
     if (shuffle && shuffleHistory.length > 1) {
-      const prev = shuffleHistory[shuffleHistory.length - 2];
-      setShuffleHistory((h) => h.slice(0, -1));
-      setCurrentIndex(prev);
+      setShuffleHistory((h) => {
+        const newHistory = h.slice(0, -1);
+        const prev = newHistory[newHistory.length - 1];
+        if (prev !== undefined) setCurrentIndex(prev);
+        return newHistory;
+      });
     } else if (currentIndex > 0) {
       setCurrentIndex(currentIndex - 1);
     }

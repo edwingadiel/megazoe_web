@@ -7,11 +7,22 @@ export const metadata: Metadata = {
   title: "Iglesia Mega Zoé",
   description: "Iglesia Mega Zoé — Llevando la Palabra de Dios con temor reverente y pasión.",
   keywords: ["iglesia", "mega zoe", "estudios bíblicos", "predicaciones", "cristiano"],
+  metadataBase: new URL("https://iglesiamegazoe.com"),
+  robots: { index: true, follow: true },
   openGraph: {
     title: "Iglesia Mega Zoé",
     description: "Llevando la Palabra de Dios tal cual ella se merece.",
     siteName: "Iglesia Mega Zoé",
     locale: "es",
+    type: "website",
+    images: [
+      {
+        url: "/images/logo-megazoe.png",
+        width: 2251,
+        height: 824,
+        alt: "Iglesia Mega Zoé",
+      },
+    ],
   },
 };
 
