@@ -478,7 +478,7 @@ export default function MusicPlayer() {
                 href={encodeR2Path(currentSong.titulo, currentSong.letra)}
                 target="_blank"
                 rel="noopener noreferrer"
-                className="hidden sm:flex items-center gap-1.5 text-xs text-gray-400 hover:text-gold transition-colors border border-gray-700 hover:border-gold/40 px-3 py-1.5"
+                className="flex items-center gap-1.5 text-xs text-gold/80 hover:text-gold transition-colors border border-gold/30 hover:border-gold/50 px-3 py-1.5 rounded"
                 title="Ver letra"
               >
                 <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" aria-hidden="true">
