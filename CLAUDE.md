@@ -51,9 +51,10 @@ Todas las páginas internas siguen un **patrón de header unificado** (centrado)
 /                          → Inicio (Hero full-width + Bienvenidos + Explora Grid + CTA contacto)
 /sobre-nosotros            → Cita pastora, Historia, Misión, Visión, CTA contacto
 /estudios-biblicos         → Hub con 3 subcategorías (cards con iconos SVG)
-  /iglesia-en-las-casas    → Home Studies (cita bíblica, 3 feature cards, CTAs)
-  /predicaciones           → Sermones (cita, YouTube CTA)
-  /otros-estudios          → Material adicional (próximamente, 4 coming-soon cards)
+  /iglesia-en-las-casas    → PDFs de estudios ES (1,241) + EN (1,093) con tabs de idioma
+  /predicaciones           → 370+ sermones con reproductor de audio (Google Drive streaming)
+  /otros-estudios          → 241 PDFs organizados por libro de la Biblia (7 libros)
+/estudio/[numero]          → Redirect limpio /estudio/663 → /biblioteca/{slug} (para share URLs)
 /biblioteca                → Búsqueda de 1,241 estudios bíblicos (SSG)
   /biblioteca/[slug]       → Página individual con versículos clickeables, JSON-LD, estudios relacionados
 /musica                    → Reproductor de 134 canciones (Cloudflare R2)
@@ -93,6 +94,24 @@ Todas las páginas internas siguen un **patrón de header unificado** (centrado)
 - Botón "Letra" abre PDF de la canción
 - Archivos locales en `Música/` — ya borrados de la compu (backup en Google Drive)
 
+## Predicaciones (Sermones)
+- **370+ predicaciones** de audio en Google Drive público
+- Catálogo: `src/data/predicaciones.json` (título, número, fileId de Google Drive)
+- Streaming via API proxy: `src/app/api/stream/route.ts`
+- URL de Drive: `https://drive.usercontent.google.com/download?id={ID}&export=download&confirm=t`
+- Proxy reenvía Range headers para soporte de seeking
+- Reproductor: `src/components/PredicacionesPlayer.tsx` (búsqueda, auto-play next, controles)
+- Ordenados del número más alto al más bajo
+- Carpeta de Drive: `14DRO3VIP_lERvMZbreTjLdlcDdo7-R15`
+
+## Listados de PDFs
+- Componente reutilizable: `src/components/PdfList.tsx`
+- Búsqueda con normalización de acentos (e.g., "génesis" = "genesis")
+- Abre PDFs en visor de Google Drive: `https://drive.google.com/file/d/{id}/view`
+- **Español**: `src/data/estudios-casas-es.json` (1,241 estudios)
+- **English**: `src/data/estudios-casas-en.json` (1,093 studies)
+- **Otros Estudios**: `src/data/otros-estudios.json` (241 PDFs en 7 libros bíblicos)
+
 ## Bible Verse API
 - API route: `src/app/api/versiculo/route.ts`
 - Usa **bolls.life** con traducción **RV1960** (Reina-Valera 1960, español)
@@ -115,7 +134,15 @@ Todas las páginas internas siguen un **patrón de header unificado** (centrado)
 | `src/components/ContactForm.tsx` | Formulario con underline inputs, estados idle/loading/success/error |
 | `src/app/api/contacto/route.ts` | Handler email vía Resend |
 | `src/app/api/versiculo/route.ts` | Proxy a bolls.life para versículos RV1960 |
+| `src/components/PredicacionesPlayer.tsx` | Reproductor de audio para 370+ predicaciones (client component) |
+| `src/components/PdfList.tsx` | Listado reutilizable de PDFs con búsqueda accent-insensitive |
+| `src/app/api/stream/route.ts` | Proxy de audio Google Drive con Range headers y validación |
+| `src/app/estudio/[numero]/page.tsx` | Redirect limpio /estudio/N → /biblioteca/slug |
 | `src/data/canciones.json` | Catálogo de 134 canciones (título, mp3, letra PDF) |
+| `src/data/predicaciones.json` | Catálogo de 370+ predicaciones (título, número, fileId) |
+| `src/data/estudios-casas-es.json` | 1,241 estudios en español (título, id de Google Drive) |
+| `src/data/estudios-casas-en.json` | 1,093 estudios en inglés (título, id de Google Drive) |
+| `src/data/otros-estudios.json` | 241 estudios por libro bíblico (7 libros) |
 | `src/app/globals.css` | Google Fonts, Tailwind, @theme, custom CSS en `@layer utilities`, print styles |
 | `src/app/sitemap.ts` | Sitemap dinámico con todas las rutas estáticas y 1,241 estudios |
 | `src/app/robots.ts` | robots.txt permitiendo indexación |
@@ -170,6 +197,10 @@ RESEND_API_KEY=re_xxx   # Opcional en dev, requerido en producción
 14. **Hydration mismatch en showFilters**: `typeof window !== 'undefined'` durante SSR causa mismatch — default `false`, ajustar en `useEffect` después del mount
 15. **Client/server module boundary**: `AT_BOOKS` no puede importarse de `estudios.ts` (usa `fs`) en client components — extraído a `bible-constants.ts` sin deps de Node.js
 16. **Shuffle history race condition**: Presionar "anterior" rápido causaba saltos — refactorizado para actualizar history y index atómicamente dentro de `setShuffleHistory`
+17. **XSS en formulario de contacto**: Input del usuario se insertaba raw en HTML del email — añadido `escapeHtml()` + límites de longitud
+18. **Facebook URL http**: SocialIcons usaba `http://` para Facebook — cambiado a `https://`
+19. **Stream API SSRF**: File ID sin validar permitía inyección — añadido regex `/^[a-zA-Z0-9_-]+$/`
+20. **Google Drive audio loading forever**: `uc?export=download` retorna HTML de virus scan — cambiado a `drive.usercontent.google.com/download?id={ID}&export=download&confirm=t`
 
 ## Cloudflare R2
 - Cuenta de Sara, bucket `megazoe-musica`
