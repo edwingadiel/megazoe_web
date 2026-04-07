@@ -1,6 +1,6 @@
 const socialLinks = [
   {
-    href: 'http://www.facebook.com/iglesiamegazoe',
+    href: 'https://www.facebook.com/iglesiamegazoe',
     label: 'Facebook',
     icon: (
       <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">

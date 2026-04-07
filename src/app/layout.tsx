@@ -33,6 +33,25 @@ export default function RootLayout({
 }) {
   return (
     <html lang="es" className="h-full scroll-smooth">
+      <head>
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+              '@context': 'https://schema.org',
+              '@type': 'Church',
+              name: 'Iglesia Mega Zoé',
+              url: 'https://iglesiamegazoe.com',
+              logo: 'https://iglesiamegazoe.com/images/logo-megazoe.png',
+              sameAs: [
+                'https://www.facebook.com/iglesiamegazoe',
+                'https://instagram.com/iglesiamegazoe',
+                'https://www.youtube.com/channel/UCbVEs6ElWvnx1klyRCdfsSA',
+              ],
+            }),
+          }}
+        />
+      </head>
       <body className="min-h-full flex flex-col antialiased">
         <Navbar />
         <main className="flex-1">{children}</main>

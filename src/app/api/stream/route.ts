@@ -2,8 +2,8 @@ import { NextRequest, NextResponse } from 'next/server';
 
 export async function GET(req: NextRequest) {
   const fileId = req.nextUrl.searchParams.get('id');
-  if (!fileId) {
-    return NextResponse.json({ error: 'Missing file id' }, { status: 400 });
+  if (!fileId || !/^[a-zA-Z0-9_-]+$/.test(fileId)) {
+    return NextResponse.json({ error: 'Invalid file id' }, { status: 400 });
   }
 
   try {

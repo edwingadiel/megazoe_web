@@ -1,17 +1,31 @@
 import { NextRequest, NextResponse } from 'next/server';
 
+function escapeHtml(str: string): string {
+  return str
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;')
+    .replace(/'/g, '&#39;');
+}
+
 export async function POST(req: NextRequest) {
   try {
     const body = await req.json();
-    const { nombre, email, asunto, mensaje } = body;
+    const { nombre: rawNombre, email: rawEmail, asunto: rawAsunto, mensaje: rawMensaje } = body;
 
-    if (!nombre || !email || !asunto || !mensaje) {
+    if (!rawNombre || !rawEmail || !rawAsunto || !rawMensaje) {
       return NextResponse.json({ error: 'Todos los campos son requeridos.' }, { status: 400 });
     }
 
+    const nombre = escapeHtml(String(rawNombre).slice(0, 200));
+    const email = escapeHtml(String(rawEmail).slice(0, 200));
+    const asunto = escapeHtml(String(rawAsunto).slice(0, 500));
+    const mensaje = escapeHtml(String(rawMensaje).slice(0, 5000));
+
     // Basic email validation
     const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
-    if (!emailRegex.test(email)) {
+    if (!emailRegex.test(rawEmail)) {
       return NextResponse.json({ error: 'Correo electrónico inválido.' }, { status: 400 });
     }
 
