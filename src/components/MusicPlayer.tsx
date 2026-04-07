@@ -328,7 +328,7 @@ export default function MusicPlayer() {
                   target="_blank"
                   rel="noopener noreferrer"
                   onClick={(e) => e.stopPropagation()}
-                  className="shrink-0 text-xs text-gray-300 hover:text-gold transition-colors px-2 py-1 border border-transparent hover:border-gold/30 opacity-0 group-hover:opacity-100 transition-opacity"
+                  className="shrink-0 text-xs text-gold/70 hover:text-gold transition-colors px-2 py-1 border border-gold/20 hover:border-gold/40 rounded"
                   title="Ver letra"
                 >
                   Letra
